@@ -1,0 +1,203 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'People with Migration Background in Germany 2014'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Menschen mit Migrationshintergrund in Deutschland 2014'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA6604</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Menschen mit Migrationshintergrund in Deutschland 2014</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>People with Migration Background in Germany 2014</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Berlin</firstName>
+				<middleName/>
+				<lastName>Presse- und Informationsamt der Bundesregierung</lastName>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6604?doi=10.4232/1.12427</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12427</doiProposal>
+	<publicationDate>
+		<date>2016-01-11</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6604</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Political behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Herkunft und Nationalität. Verhältnis zu Deutschland und den Deutschen. Integration und Integrationsbereitschaft. Politisches Interesse und politische Orientierung. Integrationspolitische Initiativen der Bundesregierung. 
+1. Herkunft und Nationalität: Geburt in Deutschland oder zugewandert; Herkunftsland des Befragten bzw. der Eltern oder Großeltern; Staatsangehörigkeit. 
+2. Verhältnis zu Deutschland und den Deutschen: Sympathie für Deutsche; Anzahl der deutschen Freunde und Bekannten; Gefühl der Verbundenheit mit Deutschland, dem eigenen Herkunftsland bzw. dem Herkunftsland der Eltern bzw. Großeltern; Akzeptanz als gleichberechtigter Bürger oder nur geduldet; persönliche Bedeutung guter Deutschkenntnisse; Demokratiezufriedenheit; Meinung zur Abschaffung der Optionspflicht für in Deutschland geborene und aufgewachsene Kinder ausländischer Eltern; Abschaffung der Optionspflicht als Beitrag zur Verbesserung der Integration von Zuwandererkindern; Gefühl der Heimatlosigkeit; Stolz auf deutsche Siege bei internationalen Sportveranstaltungen; Respekt und Toleranz der Deutschen gegenüber Menschen ausländischer Herkunft; Diskriminierungserfahrung: Gefühl der Benachteiligung im Alltag (beim Besuch von Behörden oder Ämtern, bei der Wohnungssuche, bei der Arbeitsplatzsuche bzw. Ausbildungsplatzsuche bei Arztbesuchen oder im Krankenhaus und in der Öffentlichkeit); ausreichender Schutz in Deutschland vor Benachteiligung von Menschen ausländischer Herkunft; Akzeptanz eines deutschen bzw. andersgläubigen Ehepartners für eigene Kinder. 
+3. Integration und Integrationsbereitschaft: Lebenszufriedenheit; gerne in Deutschland; Absicht zum Erwerb der deutschen Staatsbürgerschaft; Bleibeabsicht; Einstellungen zu ausgewählten Aussagen: Forderung nach Anpassung an Regeln und Werte der Mehrheitsgesellschaft, Unwissenheit über Integrationsmöglichkeiten, Ausländer sollten sich einbürgern lassen, kommunales Wahlrecht für dauerhaft in Deutschland lebende Ausländer, gutes Funktionieren von Staat und Verwaltung, Abschiebung von kriminellen Zuwanderern); Besorgnis im Hinblick auf: schwierige Arbeitssuche, Ausländerfeindlichkeit, ungewisse Zukunftschancen für Zuwandererkinder, Gewalt in Schulen; Integrationsbemühungen des Bekanntenkreises; Erfahrungen mit ausgewählten Institutionen und Behörden (Polizei, Gericht, Schule, Stadtverwaltung bzw. Bürgeramt, Ausländerbehörde und Agentur für Arbeit); Bewertung dieser Erfahrungen; Einstellung zur Zuwanderung generell. 
+4. Politisches Interesse und politische Orientierung: Interesse für die Politik in Deutschland und im Herkunftsland; Parteisympathie; kompetenteste Partei zur Interessenvertretung von Zuwanderern und Migranten; Veränderung der Situation von Migranten und Zuwanderern im Land in den letzten fünf Jahren; erwarteter Einfluss der Politik der neuen Bundesregierung auf die Situation von Migranten und Zuwanderern; Einstellung zu demokratischen Grundprinzipien (Recht auf freie Meinungsäußerung bedeutet auch religiöse Kritik, Streiks und Demonstrationen gefährden die öffentliche Ordnung, Toleranz gegenüber Homosexuellen); Einstellung zum Einfluss von Religion auf Politik; gesellschaftspolitische Einstellungen zu Familie, Frauen und Kindern (z.B. zur Gleichberechtigung von Frauen, Kindererziehung). 
+5. Integrationspolitische Initiativen der Bundesregierung: Bekanntheit der Integrationsgipfel; Bewertung der Integrationsgipfel hinsichtlich ihrer Eignung zur Schaffung besserer Rahmenbedingungen für Zuwanderer; persönliche Bedeutung der erleichterten Anerkennung ausländischer Berufsabschlüsse. 
+Demographie: Geschlecht; Alter; Haushaltsgröße; Anzahl der Personen im Haushalt ab 18 Jahren, Anzahl der Personen im Haushalt ab 18 Jahren mit Migrationshintergrund; Familienstand; Kinder im Haushalt; Kinderzahl; Religionszugehörigkeit; Selbsteinschätzung der Religiosität; Alter (Lebensjahr) bei Zuwanderung; Selbsteinschätzung der deutschen Sprachkenntnisse; Aufenthaltszweck; Schulabschluss; Erwerb des Schulabschlusses in Deutschland, im Herkunftsland oder anderswo; Art des allgemeinbildenden Schulabschlusses; höchster erreichter bzw. angestrebter Schulabschluss des ältesten Kindes; Erwerbstätigkeit; berufliche Stellung; Mitgliedschaften in Vereinen und Organisationen; Haushaltsnettoeinkommen; 
+Zusätzlich verkodet wurde: Ortsgröße (BIK-Gemeindetyp); Aufenthaltsdauer in Deutschland; Migrationshintergrund; Gewichtungsfaktor.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Origin and nationality. Relationship to Germany and to the Germans. Integration and willingness to integrate. Political interest and political orientation. Political integration initiatives of the Federal Government.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen mit Migrationshintergrund ab 18 Jahren</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons with migration background aged 18 years and over</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Mehrstufige geschichtete Zufallsauswahl
+
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample: Multistage Stratified Random Sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2014-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2014-08-02</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest Politikforschung, Berlin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview: CATI (Computer Assisted Telephone Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>174</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie wurde im Auftrag des Bundespresseamtes durchgeführt.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The study was conducted on behalf of the Federal Press Office.</text>
+		</note>
+	</notes>
+</resource>

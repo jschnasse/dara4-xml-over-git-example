@@ -1,0 +1,446 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'ALLBUS/GGSS 2006 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/German General Social Survey 2006)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2006
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA4500</identifier>
+		<currentVersion>2.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2006
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>ALLBUS/GGSS 2006 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/German General Social Survey 2006)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>GESIS - Leibniz-Institut für Sozialwissenschaften</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4500?doi=10.4232/1.10832</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.10832</doiProposal>
+	<publicationDate>
+		<date>2011-08-08</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4500</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>ALLBUS</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT38</identifier>
+					<!-- Beruf -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Arbeitslosigkeit</term>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Reproduktionsmedizin</term>
+					<term>Politische Ideologie</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>Familie und Ehe</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Unemployment</term>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Social conditions and indicators</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Reproductive health</term>
+					<term>Political ideology</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>Family life and marriage</term>
+					<term>Economic conditions and indicators</term>
+					<term>Economic systems and development</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Allgemeine Bevölkerungsumfrage der Sozialwissenschaften (ALLBUS) ist eine Trenderhebung, in der seit 1980 alle zwei Jahre eine Zufallsstichprobe der deutschen Bevölkerung befragt wird. Das primäre Ziel des Umfrageprogramms ist die Beobachtung von Einstellungen, Verhalten und sozialen Wandel in Deutschland. Jede ALLBUS-Querschnittserhebung besteht aus ein oder zwei Schwerpunktmodulen zu wechselnden Themen. Diese werden ergänzt durch weitere inhaltliche Fragen und ein Kernmodul mit detaillierten demografischen Informationen. Zudem werden Zusatzinformation zum Interview und den Interviewern bereitgestellt. Die Schwerpunktmodule folgen in der Regel einem 10-jährigen Replikationszyklus, viele Einzelindikatoren und Itembatterien werden aber auch in kürzeren Abständen repliziert. 
+Seit Mitte der 1980er Jahre werden zusammen mit ALLBUS auch regelmäßig ein oder zwei Module des ISSP (International Social Survey Programme) erhoben.
+Das Schwerpunktthema des ALLBUS 2006 befasst sich mit Einstellungen gegenüber ethnischen Gruppen in Deutschland. Im besonderen Fokus liegen neben der Erfassung der Einstellung gegenüber Ausländern und Immigration u.a. auch Fragen zur Wahrnehmung von Diskriminierung, soziale Distanz zu ethnischen Gruppen und Antisemitismus. Weitere Themen sind u.a.: Einstellungen zu Ehe und Familie, Schwangerschaftsabbruch, politische Einstellungen und Einstellungen zur deutschen Wiedervereinigung. Zusätzlich enthalten sind die ISSP-Module „Arbeitsorientierungen III“ und „Staat und Regierung IV“. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>1. Abtreibung: Abtreibung: Schwangerschaftsabbruch beigesundheitlichen Gefährdungen von Mutter oder Kind; bei mangelndemKinderwunsch in der Ehe; Abtreibung nach Vergewaltigung; bei sozialerNotlage oder bei ledigen Frauen ohne Heiratswunsch; völlige Freigabevon Abtreibung.
+2. Akzeptanz von Immigration, ethnischen Minoritäten und Juden inDeutschland: Einstellungen zum Zuzug verschiedener Zuwanderergruppen;Einstellungsskala; Kontakte zu Ausländern in der Familie, amArbeitsplatz, in der Nachbarschaft oder im Freundeskreis; WahrgenommeneKonsequenzen der Anwesenheit von Ausländern in Deutschland; Wahrnehmungund Bewertung von diskriminierendem Verhalten gegenüber Ausländern;vermutete gesellschaftliche Bewertung von Aussagen über Ausländer;Wichtigkeitseinstufung verschiedener Einbürgerungsvoraussetzungen;Einstellung zur doppelten Staatsbürgerschaft und zur Rechtsangleichungvon Ausländern; Befürwortung von Islamunterricht an Schulen; Haltung zuethnisch gemischter Nachbarschaft; Ausländeranteilsschätzung für Ost-und Westdeutschland; Wohnen in Wohngebieten mit hohem Ausländeranteil;Ausländeranteil auf Kreisebene; Lokales Verhältnis zwischen Ausländernund Deutschen; perzipierte Lebensstildifferenzen; Indikatoren fürsoziale Distanz zu ethnischen Minderheiten und Ausländern; Items zumAntisemitismus; Meinungen des sozialen Umfeldes zu Ausländern.
+3. Staatsbürgerschaften und Herkunftsland: Erste, zweite und dritteStaatsbürgerschaft des Befragten und des Ehe- oder Lebenspartners;Anzahl der Staatsbürgerschaften des Befragten und des Ehe- oderLebenspartners; ursprüngliche Staatsbürgerschaft des Befragten und desEhe- oder Lebenspartners; Herkunftsland des Befragten und der Elternund Großeltern des Befragten; Land in dem Befragter in seiner Jugendlebte; bisherige Aufenthaltsdauer von eingewanderten Personen inDeutschland.
+4. Selbsteinschätzung persönlicher Eigenschaften: Befragterinformiert sich als Wähler, gelegentliches Beleidigtsein, Qualität alsguter Zuhörer, gelegentliches Krankfeiern, Ausnutzung anderer, bereiteigene Fehler zuzugeben, Fairness und Höflichkeit, Ärger über Bittenanderer, andere schon verletzt? (Marlowe-Crowne-Skala zur Messung desBedürfnisses nach sozialer Anerkennung).
+5. Politische Einstellungen: politisches Interesse; Postmaterialismus(Wichtigkeit von Ruhe und Ordnung, Bürgereinfluss, Inflationsbekämpfungund freier Meinungsäußerung); Selbsteinstufung auf einemLinks-Rechts-Kontinuum.
+6. Einstellungen zur deutschen Vereinigung: Einstellung zur Forderungnach mehr Opferbereitschaft im Westen und mehr Geduld im Osten;Wiedervereinigung ist vorteilhaft für Westen bzw. Osten; Zukunft imOsten hängt von Leistungsbereitschaft der Ostdeutschen ab;wechselseitige Fremdheit der Bürger; Leistungsdruck in den neuenBundesländern; Einstellungen zum Umgang mit individuellerStasi-Vergangenheit; Einschätzung des Sozialismus als Idee.
+7. Sonstiges: Familie als Glücksvoraussetzung; Heirat bei dauernderPartnerschaft; Kinderwunsch; sozialer Pessimismus undZukunftsorientierung (Anomia); Selbsteinschätzung der sozialenSchichtzugehörigkeit; gerechter Anteil am Lebensstandard; Stolz,Deutscher zu sein; Umgang mit nationalsozialistischer Vergangenheit;Autoritarismus; Beurteilung der aktuellen und zukünftigenWirtschaftslage in der Bundesrepublik und der eigenen Wirtschaftslage;Telefonanschluss, Handybesitz, Internetnutzung.
+8. ALLBUS-Demographie: Angaben zur befragten Person: Geburtsmonat,Geburtsjahr, Alter, Geschlecht, Staatsbürgerschaft (Nationalität),Anzahl der Staatsbürgerschaften, Wohnort (Bundesland, Regierungsbezirk,politische Gemeindegröße, BIK-Stadtregion), Herkunft, Konfession bzw.Religionszugehörigkeit, Kirchgangshäufigkeit, allgemeinerSchulabschluss, berufliche Ausbildung, Erwerbsstatus, Angaben zumgegenwärtigen bzw. früheren Beruf, Furcht vor Verlust desArbeitsplatzes, Zugehörigkeit zum öffentlichen Dienst, beruflicheAufsichtsfunktion, Zeitpunkt der Aufgabe hauptberuflicherErwerbstätigkeit, wöchentliche Arbeitsdauer (Haupt- und Nebenerwerb),Status der Nichterwerbstätigkeit, Dauer von Arbeitslosigkeit,Befragteneinkommen, Wohnungstyp, Selbstbeschreibung des Wohnortes,allgemeiner Gesundheitszustand, Familienstand, Wahlabsicht(Sonntagsfrage) und Wahlbeteiligung.
+Angaben zum Ehepartner: Alter, Geburtsmonat, Geburtsjahr,Staatsbürgerschaft (Nationalität), Anzahl der Staatsbürgerschaften,allgemeiner Schulabschluss, berufliche Ausbildung, Erwerbsstatus,Angaben zum gegenwärtigen Beruf, Zugehörigkeit zum öffentlichen Dienst,Status der Nichterwerbstätigkeit.
+Angaben zu nichtehelichen Lebenspartnern: Alter, Geburtsmonat,Geburtsjahr, Staatsbürgerschaft (Nationalität), Anzahl derStaatsbürgerschaften, allgemeiner Schulabschluss, beruflicheAusbildung, Erwerbsstatus, Angaben zum gegenwärtigen Beruf,Zugehörigkeit zum öffentlichen Dienst, Status derNichterwerbstätigkeit.
+Angaben zu den Eltern des Befragten: Allgemeiner Schulabschluss vonMutter und Vater, berufliche Ausbildung von Mutter und Vater, Angabenzum Beruf des Vaters und der Mutter.
+Haushaltsbeschreibung: Haushaltsgröße, Haushaltseinkommen, Anzahl vonüber 17-jährigen Haushaltspersonen (reduzierte Haushaltsgröße).
+Angaben zu den einzelnen Haushaltspersonen (Haushaltsliste):Verwandtschaft der Haushaltspersonen zum Befragten, Geschlecht derPersonen, ihr Geburtsmonat, Geburtsjahr, Alter, Familienstand. Angabenzu Kindern außerhalb des Haushalts: Zahl der Kinder außer Haus,Geschlecht, Geburtsjahr, Alter.
+Gegenwärtige Mitgliedschaften des Befragten: jetzige und frühereGewerkschaftsmitgliedschaft, politische Partei.
+9. Daten zum Interview (Paradaten): Interviewdatum; Interviewbeginn und -ende;Interviewdauer; Erreichbarkeit des Befragten; Auskunftsbereitschaft desBefragten; Anwesenheit Dritter beim Interview; Anwesenheit desEhepartners, Partners oder von Kindern beim Interview; Anwesenheitweiterer Familienangehöriger beim Interview; Eingriffe Dritter in denInterviewverlauf; Kooperationsbereitschaft und Zuverlässigkeit derAngaben des Befragten; Mitverfolgen des Interviews am Bildschirm;Angaben zum Wohngebäude des Befragten und der Wohnumgebung; Teilnahmean den ISSP-Zusatzbefragungen; Bewertung der CASI-Befragung im ISSP;Interviewerangaben über eventuelle Schwierigkeiten bei derCASI-Befragung; Teilnahmebereitschaft bei Internetumfragen.
+Angaben zum Interviewer: Geschlecht, Alter, Schulabschluss,Identifikationsnummer, Dauer der Interviewertätigkeit.
+10. Arbeitsorientierungen III (ISSP): Gewünschte Zeitanteile fürArbeits- und Freizeitaktivitäten; Arbeitsmotivation und Geld; Relevanzvon Berufsaspekten (sichere Stellung, hohes Einkommen, guteAufstiegschancen, interessante Arbeit, Autonomie, Möglichkeit zuhelfen, soziale Nützlichkeit); Beschäftigungspräferenzen(Selbständigkeit, Privatwirtschaft, Firmengröße, öffentlicher Dienst);Beurteilung der Sicherheit beruflicher Stellung, Beeinträchtigung desFamilienlebens als Arbeitnehmer, Arbeitsplatzsicherheit und bessereArbeitsbedingungen durch Gewerkschaften; gewünschte Arbeitsdauer;Befragter derzeit in Erziehungsurlaub; mehr oder weniger Arbeit undGeld; Aspekte des eigenen Arbeitsplatzes (sichere Stellung, hohesEinkommen, gute Aufstiegschancen, interessante Arbeit, Autonomie,Möglichkeit zu helfen, soziale Nützlichkeit, Ausbau persönlicherKompetenz); gesundheitsschwächende und belastende Aspekte der Arbeit;Autonomie bei der Arbeitsorganisation; wechselseitige Beeinträchtigungvon Beruf und Familienleben; Nützlichkeit von Berufserfahrungen bei derArbeit und bei potentieller Arbeitssuche; Teilnahme an einerberuflichen Weiterbildung innerhalb der letzten zwölf Monate;Verhältnis zwischen Vorgesetzten und Mitarbeitern sowie zwischen denKollegen; Berufszufriedenheit; Bereitschaft härter zu arbeiten; stolzauf Arbeitgeber; Bereitschaft besser bezahlte Stellen auszuschlagen;Chancen eine gleichwertige Stelle zu finden; Ersetzbarkeit am aktuellenArbeitsplatz; Wahrscheinlichkeit bald eine neue Stelle zu suchen;Sorgen um Stellungsverlust; akzeptable Belastungen als Schutz vorArbeitslosigkeit; zweite Erwerbstätigkeit; war Befragter mindestens einJahr erwerbstätig; bis wann erwerbstätig; Hauptgrund für Ende derErwerbstätigkeit; Wunsch nach Erwerbstätigkeit; Wahrscheinlichkeiterfolgreicher Arbeitssuche; momentane Arbeitssuche; Arten derArbeitssuche in den letzten zwölf Monaten; WeiterbildungNichterwerbstätiger; eigene Haupteinkommensquelle Nichterwerbstätiger;präferierte Problemlösung für die Rentenversicherung; Bereitschaft zurArbeit nach 65; Selbsteinstufung auf einer Oben-Unten-Skala;Selbsteinschätzung persönlicher Eigenschaften (Kurzversion desFünf-Faktoren-Modells (FFM): Extraversion, Verträglichkeit,Gewissenhaftigkeit, Neurotizismus, Offenheit); Bewertung derCASI-Befragung im ISSP.
+11. Staat und Regierung IV (ISSP): Einstellung zur Befolgung vonGesetzen; Einstellungen zu verschiedenen Protestformen gegen dieRegierung; Ansichten bezüglich der Meinungsfreiheit für Extremisten;Einstellung zu einem Justizirrtum; Haltung zu wirtschaftsbezogenenMaßnahmen der Regierung; Einstellung zur Erhöhung vonRegierungsausgaben für Umweltschutz, Gesundheitswesen, Polizei,Bildungswesen, Verteidigung, Renten, Arbeitslosenunterstützung, Kultur;Einschätzung der staatlichen Verantwortlichkeit für sozialpolitischeAufgaben (Absicherung von alten Menschen, Studenten,Wohnungsversorgung, Arbeitsplätzen, Wirtschaftswachstum durch Hilfen andie Industrie, Preisstabilität etc.); Einschätzung staatlicher Erfolgebei Bedrohung der Sicherheit, Kampf gegen Kriminalität, Kampf gegenArbeitslosigkeit, Umweltschutz; Einstellung zur Beschränkung vonFreiheiten für Terrorabwehr; politisches Interesse; generelleEinstellungen zur Politik und zum politischen System (subjektiveEinschätzung der politischen Einflussmöglichkeiten (efficacy),politische Informiertheit, Politiker und Wahlversprechen); Einschätzungder Steuergerechtigkeit bei verschiedenen Einkommensgruppen; Vertrauenin Mitmenschen; Stärke des eigenen öffentlichen Einflusses; eigeneBekanntschaft mit einflussreichen Menschen; handeln Beamte fair;Vorteile bei Bekanntschaft mit Beamten; Einschätzung derKorruptionsverbreitung (Politiker, Beamte); Korruptionserfahrung imeigenen Bereich während der jüngsten fünf Jahre; durchschnittlicheAnzahl von Kontaktpersonen des Befragten; Selbsteinstufung auf einerOben-Unten-Skala; Selbsteinschätzung persönlicher Eigenschaften(Kurzversion des Fünf-Faktoren-Modells (FFM): Extraversion,Verträglichkeit, Gewissenhaftigkeit, Neurotizismus, Offenheit);Bewertung der CASI-Befragung im ISSP. Fragen zur Durchführung derISSP-Interviews; Nutzung von Festnetztelefon, Handy, Internet.
+12. Ergänzungen und abgeleitete Variablen: Postmaterialismus-Index (nach Inglehart);Familientypologie, Haushalts- klassifikationen (nach Porst und Funk);Berufsvercodung gemäß ISCO (international Standard Classification ofOccupations) 1968 und 1988; Berufsprestige (nach Treiman); SIOPS (nachGanzeboom); ISEI (nach Ganzeboom); Magnitudeprestige (nach Wegener);Einordnungsberufe (nach Terwey); Klassenlagen (nach Goldthorpe);Transformationsgewicht für Auswertungen auf Haushaltsebene;Ost-West-Gewicht für gesamtdeutsche Auswertungen.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>ALLBUS (GGSS - the German General Social Survey) is a biennial trend survey based on random samples of the German population. Established in 1980, its mission is to monitor attitudes, behavior, and social change in Germany. Each ALLBUS cross-sectional survey consists of one or two main question modules covering changing topics, a range of supplementary questions and a core module providing detailed demographic information. Additionally, data on the interview and the interviewers are provided as well. Key topics generally follow a 10-year replication cycle, many individual indicators and item batteries are replicated at shorter intervals.
+Since the mid-1980ies ALLBUS also regularly hosts one or two modules of the ISSP (International Social Survey Programme).
+The main topic of ALLBUS/GGSS 2006 is attitudes towards different ethnic groups in Germany (with questions on attitudes towards and contacts with foreigners, acceptance of immigration, perception of discrimination, social distance towards ethnic groups, and anti-Semitism). Other topics are, for example, marriage and family, abortion, political attitudes, and attitudes towards the process of German unification. In addition, the ISSP modules "Work Orientations III" and "Role of Government IV" are included. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>1. Attitudes towards abortion: abortion because of health risks formother or child; abortion because married woman does not want morechildren; abortion after rape, due to financial situation or by single women not wanting to marry; permitting abortion without restriction.
+2. Acceptance of immigration, of ethnic minorities, and of Jews inGermany: attitude towards the influx of various groups of immigrants;scale of attitudes towards foreigners; contacts with foreigners within the family, at work, in the neighborhood, or among friends; perceived consequences of presence of foreigners in Germany; perception and evaluationof discriminatory behavior towards foreigners; assumed social evaluationstatements on foreigners; ranking in terms of importance of differentcitizenship requirements; opinion on dual citizenship and on equalitybefore the law for foreigners; support for the teaching of Islam inpublic schools; attitude towards ethnically mixed neighborhoods;estimation of proportion of foreigners in East and West Germany; livingin neighborhoods with high percentage of foreigners; percentage offoreigners in local county (Kreis); local relationship betweenforeigners and Germans; perceived differences in lifestyle; indicatorsfor social distance to ethnic minorities and foreigners; items onanti-Semitism; opinion of peers on foreigners.
+3. Citizenship and country of origin: first, second, and thirdcitizenship of respondent and of spouse or partner; number ofcitizenships of respondent and of spouse or partner; originalcitizenship of respondent and of spouse or partner; country of originof respondent and of respondent´s parents and grandparents; countryrespondent lived in when young; length of residence in Germany.
+4. Self-assessment of personal characteristics: respondentinvestigates the qualifications of candidates in elections, sometimesfeels resentful, is a good listener, sometimes ´plays sick´, takesadvantage of others, is willing to admit mistakes, practices what s/hepreaches, is always courteous, is irritated by people asking favors,has never deliberately hurt others (Marlowe-Crowne Social DesirabilityScale).
+5. Political attitudes: political interest; postmaterialism(importance of law and order, fighting rising prices, free expressionof opinions, and influence on governmental decisions); self-placementon left-right continuum.
+6. Attitudes relating to the process of German unification: attitudetowards demand for increased willingness to make sacrifices in the Westand more patience in the East; unification is advantageous, for Eastand West respectively; the future in the East depends on thewillingness of eastern Germans to make an effort; strangeness ofcitizens in the other part of Germany; pressures to work harder in theEast; attitudes towards the Stasi-past of individuals; evaluation ofsocialism as an idea.
+7. Other topics: family as a prerequisite for happiness; marriage incase of steady partnership; desire to have children; social pessimismand orientation towards the future (anomia); self-assessment of socialclass; fair share in standard of living; pride in being a German;treatment of national socialist past; authoritarianism; assessment ofthe present and future economic situation in Germany and of present andfuture personal economic situation; telephone; possession of mobilephone; internet use.$8. ALLBUS-Demography:
+Details about the respondent: month and year of birth, age, gender,citizenship (nationality), number of citizenships, place of residence(federal state, administrative district, size of municipality, BIK-typeof region), geographical origin, religious denomination, frequency ofchurch attendance, school education, vocational training, employmentstatus, details about current and former occupation respectively, fearof unemployment, affiliation to public service, supervisory functions,date of termination of full- or part-time employment, working hours perweek (primary and secondary job), status of non-employment, length ofunemployment, respondent´s income, type of dwelling, self-descriptionof place of residence, overall health, marital status, voting intention(Sonntagsfrage) and electoral participation.
+Details about respondent´s current spouse: age, month and year ofbirth, citizenship (nationality), number of citizenships, schooleducation, vocational training, employment status, details aboutcurrent occupation, affiliation to public service, status ofnon-employment.
+Details about respondent´s steady partner: age, month and year ofbirth, citizenship (nationality), number of citizenships, schooleducation, vocational training, employment status, details aboutcurrent occupation, affiliation to public service, status ofnon-employment.
+Details about respondent´s parents: school education of mother andfather, vocational training of mother and father, details about bothparents´ occupation.
+Description of household: size of household, household income, numberof persons older than 17 in household (reduced size of household).
+Details about household members: family relation to respondent,gender, month and year of birth, age, marital status.
+Details about children not living in the household: number ofchildren not living in the household, gender, year of birth, age.
+Respondent´s current memberships: current and previous membership ina trade union, membership in a political party.
+9. Data on the interview (paradata): date of interview; beginning and end ofinterview; length of interview; reachability of respondent; willingnessto participate; presence of other persons during interview; presence ofspouse, partner or children during interview; presence of otherrelatives during interview; interference of other persons in the courseof the interview; willingness to cooperate and reliability ofinformation from respondent; respondent followed interview on screen;details about respondent´s residential building and its neighborhood;evaluation of CASI-survey in ISSP-part; problems with CASI reported byinterviewer; willingness to participate in on-line surveys.
+Details about the interviewer: gender; age; school education;identification number; length of experience as an interviewer.
+10. Work Orientations III (ISSP): desired distribution of time forwork and leisure activities; money and motivation for work; relevanceof job characteristics (secure job, high income, good careeropportunities, interesting work, work autonomy, chance to help otherpeople, social usefulness); preferences regarding employment(self-employment, in private business, size of company, in publicservice); assessment of job security; impact of work on family life;better job security and working conditions because of trade unions;preference for full- or part-time work; respondent on parental leave;preference for less or more work (and pay); characteristics of own job(secure job, high income, good career opportunities, interesting work,work autonomy, chance to help other people, social usefulness, allowsdevelopment of personal skills); stressful, unhealthy or dangerousworking conditions; autonomy regarding organization of own work; impactof work on family life and vice versa; usefulness of work experience incurrent job and in looking for new job; participation in furthertraining over past 12 months; quality of relationship between superiorsand employees and between colleagues; job satisfaction; willingness towork harder; pride in employer; willingness to turn down better paidjob; chance of finding equivalent job; replaceability in current job;likelihood of looking for a new job in the near future; fear ofunemployment; what respondent is prepared to do to avoid unemployment;secondary job; respondent has previously been in work for at least 1year; date of termination of full- or part-time employment; main reasonfor terminating employment; desire for work; likelihood of success injob search; currently looking for work; means used in looking for work;unemployed respondent further training during last 12 months; mainsource of personal income while unemployed; preferred solution forretirement insurance system; willingness to work past the age of 65;self-classification on a top-bottom-scale; self-assessment of charactertraits (abridged Big Five Inventory measuring extraversion,agreeableness, conscientiousness, emotional stability, openness toexperience); assessment of CASI-method in ISSP part. 11. Role ofGovernment IV (ISSP): attitudes towards the observance of laws;attitudes towards different forms of protest against the government;opinions on freedom of speech for extremists; attitude towards amiscarriage of justice; attitudes towards economically orientedgovernment measures; attitudes towards an increase of expenditures ofthe government for environmental protection, health service, police,the educational system, defense, pensions, unemployment benefit,culture; assessment of state responsibility for socio-political tasks(social support for the elderly, students, housing provision, jobcreation; economic growth through assistance to industry, pricestability, etc.); assessment of government success in nationalsecurity, fighting crime, fighting unemployment, protecting theenvironment; attitude towards the curtailing of freedoms in the name offighting terrorism; political interest; overall attitude towardspolitics and the political system (subjective assessment of politicalinfluence (political efficacy), level of political awareness,politicians and election promises); assessment of fairness of taxlevels for different income groups; trust in fellow men; magnitude ofpersonal influence in public life; personal acquaintance withinfluential figures; fair treatment by civil servants; personalrelation to civil servants is beneficial; assessment of the extent ofcorruption (politicians, civil servants); personal experience withcorruption during the last 5 years; mean number of social contacts;self-classification on a top-bottom-scale; self-assessment of charactertraits (abridged Big Five Inventory measuring extraversion,agreeableness, conscientiousness, emotional stability, openness toexperience); assessment of CASI-method in ISSP part. Questions on theconduct of the ISSP-interviews; use of fixed-line telephone, of mobilephone, and of the internet.
+12. Added value: Inglehart-Index; family typology, classificationof private households (according to Porst and Funk); InternationalStandard Classification of Occupations (ISCO 1968, 1988); occupationalprestige (according to Treiman); Standard International OccupationalPrestige Scale (SIOPS, according to Ganzeboom), InternationalSocio-economic Index of Occupational Status (ISEI, according toGanzeboom); magnitude prestige (according to Wegener); occupationalmetaclassification (according to Terwey); class position (according toGoldthorpe); transformation weight for analyses on household level;east-west design weight. </freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alle in der Bundesrepublik Deutschland lebende Personen (Deutsche und
+Ausländer), die zum Befragungszeitpunkt in Privathaushalten lebten und
+vor dem 01.01.1988 geboren sind</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>All persons (German and non German) who resided in private households on the day of the interview and were born before 1 January 1988. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Disproportional geschichtete Zufallsauswahl; Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Personenstichprobe: Zweistufige, disproportional geschichtete
+Zufallsauswahl in Westdeutschland (incl. West-Berlin) und
+Ostdeutschland (incl. Ost-Berlin). In der ersten Auswahlstufe wurden Gemeinden in
+Westdeutschland und in Ostdeutschland mit einer Wahrscheinlichkeit
+proportional zur Zahl ihrer erwachsenen Einwohner ausgewählt, in der
+zweiten Auswahlstufe wurden Personen aus den Einwohnermeldekarteien
+zufällig gezogen.
+Zielpersonen mit nicht hinreichend guten Deutschkenntnissen zählen zu
+den systematischen Ausfällen.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Stratified: Disproportional; Probability: Multistage; Sampling Procedure Comment: Sample of individuals: Two stage disproportionate random sample in
+western Germany (incl. West Berlin) and eastern Germany (incl. East
+Berlin). In the first sample stage municipalities (Gemeinden) in western
+Germany and municipalities in eastern Germany were selected with a
+probability proportional to their number of adult residents; in the
+second sample stage individual persons were selected at random from the
+municipal registers of residents.
+Targeted individuals who did not have adequate knowledge of German to
+conduct the interview were treated as systematic unit non-responses. </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2006-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2006-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Hans-Jürgen</firstName>
+				<middleName/>
+				<lastName>Andreß</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Diekmann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ETH Zürich</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hubert</firstName>
+				<middleName/>
+				<lastName>Feger</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Freie Universität Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Johannes</firstName>
+				<middleName/>
+				<lastName>Huinink</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Rüdiger</firstName>
+				<middleName/>
+				<lastName>Schmitt-Beck</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Duisburg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heike</firstName>
+				<middleName/>
+				<lastName>Solga</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Max-Planck-Institut für Bildungsforschung, Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heiner</firstName>
+				<middleName/>
+				<lastName>Meulemann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest Sozialforschung, München</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.ComputerAssisted</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Frageprogramm (CAPI -
+Computer Assisted Personal Interviewing; 4 Fragen in einem Split im
+CASI-Verfahren erhoben (Computer Assisted Self-Interviewing))    
+Zwei CASI-Zusatzbefragungen im Rahmen des ISSP (Splitverfahren) </freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Personal interview with standardized questionnaire (CAPI - Computer
+Assisted Personal Interviewing; 4 question surveyed in split-half using
+CASI (Computer Assisted Self-Interviewing).
+
+Two additional CASI-questionnaires for ISSP (split-half).
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>3421</numberUnits>
+			<numberVariables>744</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Befragte aus dem Bereich der neuen Bundesländer sind in den Daten überrepräsentiert (oversample).
+
+Eine in der Demographie vereinfachte Version des Datensatzes (386 Variablen) ist als ALLBUScompact 2006 (ZA-Nr. 4501) zusätzlich vorhanden.
+
+ALLBUS Vollversion: 	ISSN 1865-3596, ISBN 978-3-88387-044-1
+ALLBUScompact: 	ISSN 1865-360X, ISBN 978-3-88387-044-1
+
+ </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Respondents from the area of the new federal states are oversampled.
+A second version of this data set (386 variables) with a shortened 
+demography module is additionally available as ALLBUScompact 2006 
+(ZA-No. 4501).
+
+ALLBUS Full version: ISSN 1865-3596, ISBN 978-3-88387-044-1
+ALLBUScompact: ISSN 1865-360X, ISBN 978-3-88387-044-1
+
+</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.4500</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael; Scheuer, Angelika:
+Etwas mehr Anpassung gewünscht. Einstellungen zur Integration von 
+Ausländern in Deutschland. 
+In: Informationsdienst Sozialer Indikatoren (ISI) 38, 2007, p. 12 &amp;#8209; 14.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Wasmer, Martina; Scholz, Evi; Blohm, Michael:
+Konzeption und Durchführung der "Allgemeinen Bevölkerungsumfrage der Sozialwissenschaften" (ALLBUS) 2006. 
+ZUMA Methodenbericht 07/09, 2007 </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Weinmann, Martin:
+Ausländerfeindlichkeit in der Bundesrepublik Deutschland:
+Der Einfluss von Intergruppenwettbewerb und Intergruppenkontakten.
+Wiesbaden: Drewipunkt 2010</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael:
+Generelle Hinweise zur Auswertung der ALLBUS-Daten: 
+Stichprobentypen und Gewichtungen, 
+In: Terwey, Michael; Baltzer, Stefan (Hrsg.): Variable Report ALLBUS/Allgemeine Bevölkerungsumfrage der Sozialwissenschaften Kumulation 1980-2010: ZA-Nr. 4574. 
+GESIS - Variable Reports, No. 2012/51, 
+Köln: GESIS 2012, X-XVI
+
+</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

@@ -1,0 +1,223 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Foreigners in Germany 1999 - 1st Wave
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Ausländer in Deutschland 1999 - 1. Welle
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3366</identifier>
+		<currentVersion>2.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Ausländer in Deutschland 1999 - 1. Welle
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Foreigners in Germany 1999 - 1st Wave
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>MARPLAN, Offenbach</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3366?doi=10.4232/1.11081</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11081</doiProposal>
+	<publicationDate>
+		<date>2012-01-11</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3366</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Konsum und Konsumverhalten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Consumption and consumer behaviour</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die soziale und wirtschaftliche Situation ausländischer Arbeitnehmer inder Bundesrepublik.
+Themen: Nationalität des Befragten; ethnische Zugehörigkeit beiBefragten aus dem ehemaligen Jugoslawien; Geburtsort in Deutschlandoder im Ausland; bisherige Aufenthaltsdauer in Deutschland; geschätzterZeitraum, der noch in Deutschland verbracht wird; Heimataufenthalteseit dem Umzug nach Deutschland; Heimataufenthalt im Vorjahr; größteSorgen und Probleme in Deutschland; Interesse an deutscher sowie andoppelter Staatsangehörigkeit; Verzicht auf die bisherigeStaatsbürgerschaft zugunsten eines deutschen Passes; perzipierteEinstellung der Deutschen zu Gastarbeitern am Arbeitsplatz;Zufriedenheit mit derzeitigem Arbeitsplatz; sympathischste Partei inDeutschland; Parteipräferenz (Sonntagsfrage); durchschnittlichemonatliche Ausgaben für Lebensmittel und Dinge des täglichen Bedarfs;präferierte Kaufstätten für Lebensmittel und Dinge des täglichenBedarfs sowie Gebrauchsgüter; Zuständigkeit des Befragten fürHaushaltsführung.
+Demographie: Familienstand; Haushaltsgröße; Anzahl der berufstätigenHaushaltsmitglieder; Anzahl der unter 18jährigen im Haushalt; weitereFamilienmitglieder in Deutschland außerhalb des eigenen Haushalts;Familienmitglieder im Heimatland; Art der Erwerbstätigkeit;Berufsbezeichnung; Einkommen; Alter; Wohnstatus; Miethöhe; Mieterhöhungfür Grundmiete oder Nebenkosten im letzten Jahr; Zufriedenheit mitWohnung bzw. Unterkunft; Anzahl der absolvierten Schuljahre;Schulabschluss in Deutschland oder in der Heimat; Art desSchulabschlusses; Selbsteinschätzung der Deutschkenntnisse (Lesen);abgeschlossene Berufsausbildung sowie Dauer der Berufsausbildung;PKW-Besitz; PKW-Marke; Neu- oder Gebrauchtwagen; jährlicheKilometerleistung; Haushaltsnettoeinkommen. 
+Interviewerrating: Anwesenheit Dritter beim Interview sowieBeeinflussung durch Dritte; Bewertung der Verständigung;Kooperationsbereitschaft des Befragten; Kenntnisse der deutschen undder eigenen Sprache.
+Zusätzlich verkodet wurde: Bundesland; Ortsgröße.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The social and economic situation of foreign employees in the Federal Republic.Topics:nationality of respondent;ethnic affiliation of respondents from former Yugoslavia;place of birth in Germany or abroad;duration of stay in Germany up to now;estimated time period still to be spent in Germany;visits to one's native country since moving to Germany;visit to one's native country in the previous year;greatest concerns and problems in Germany;interest in German as well as dual citizenship;relinquishing previous citizenship for the sake of a German passport;perceived attitude of Germans to guest workers at work;satisfaction with current job;most sympathetic party in Germany;party preference (Sunday question);average monthly expenditures for food and everyday necessities;preferred shopping places for groceries and everyday necessities as well as consumer items;responsibility of respondent for housekeeping.Demography:marital status;size of household;number of working members of the household;number of persons under 18 years old in the household;further family members in Germany outside of personal household;family members in native country;type of employment;job title;income;age;residential status;amount of rent;rent increase for base rent or additional costs in the last year;satisfaction with residence or accomodation;number of years of school completed;school degree in Germany or native country;type of school degree;self-assessment of knowledge of German (reading);vocational training completed as well as length of vocational training;possession of a car;brand of car;new or used car;number of kilometers driven annually;net household income.Interviewer rating:presence of third persons during interview as well asinfluence through third parties;evaluation of communication;willingness of respondent to cooperate;knowledge of German and one's own language.Also encoded was:state;city size.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>FRG (old states and West Berlin)</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD (alte Bundesländer und West-Berlin)</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Griechische, italienische, jugoslawische, spanische und türkische
+Haushaltsmitglieder (inkl. Haushaltsvorständen) über 15 Jahren in
+Privathaushalten
+</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>The foreign residential population 15 years old and older (Spaniards, Italians, Yugoslavs, Greeks and Turks, over-sample according to nationalities) </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Quotenauswahl nach Geschlecht, Alter, Familienstand und Haushaltsgröße,
+je etwa 400 Personen pro Nationalität (disproportional nach
+Nationalitäten) </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Quota sample according to sex, age, marital status and size of household, about 400 persons per nationality
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1999-05-03</date>
+				</startDate>
+				<endDate>
+					<date>1999-06-13</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>111</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie ist Teil einer Mehrthemen-Erhebung und Teil einer
+Befragungsserie, die 1970 begann.
+Der Fragebogen lag den Befragten in ihrer jeweiligen Landessprache vor.
+Die Antworten wurden vom Interviewer in einen deckungsgleichen deutschen
+Fragebogen eingetragen.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The study is part of an omnibus survey and part of a
+survey series begun in 1970.
+</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.3366</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+</resource>

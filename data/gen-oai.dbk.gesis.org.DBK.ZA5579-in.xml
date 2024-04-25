@@ -1,0 +1,184 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Integration in Baden-Württemberg 2012'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Integration in Baden-Württemberg 2012'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5579</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Integration in Baden-Württemberg 2012</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Integration in Baden-Württemberg 2012</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Wüst</lastName>
+				<affiliation>
+					<affiliationName>Ministerium für Integration Baden-Württemberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<institution>
+				<institutionName>Ministerium für Integration Baden-Württemberg</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5579?doi=10.4232/1.11750</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11750</doiProposal>
+	<publicationDate>
+		<date>2013-07-26</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5579</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellung zu Zuwanderern und deren Integration. Beurteilung vonIntegrationsmaßnahmen und persönliches Engagement.  
+Themen: Bewertung der persönlichen Erfahrungen mit Zuwanderern;Vergleich der persönlichen Erfahrungen mit Zuwanderern undEinheimischen; positive und negative Assoziationen in Bezug aufZuwanderer (offene Fragen); Einstellung zu ausgewähltenIntegrationsmaßnahmen von Zuwanderern (Skala: Bemühen um Arbeitsplatz,Erlernen der deutschen Sprache, Schulabschluss, Freundschaften mitDeutschen, teilweises Aufgeben der kulturellen und religiösenLebensweise, Beachten deutscher Gesetze); Einstellung zum EngagementEinheimischer bei neu Zugewanderten (Skala: persönliches Willkommen,Tipps zum Einleben, Hilfsangebot bei Problemen, Angebot zur Beteiligungan eigenen Freizeitaktivitäten, Einladung nach Hause, Partei ergreifenbei Benachteiligung); Art des persönlichen Engagements im letzten Jahr;Meinung zu einem Deutschen (Türken, Inder) als Nachbar mit staatlichenUnterstützungsleistungen bzw. gut bezahlter Arbeit (Frage wurde alsExperiment mit sechs Vignetten konzipiert(A-F); geschätzter Anteil derZuwanderer in Baden-Württemberg in Prozent; Vergleich des Anteils vonZuwanderern in Baden-Württemberg im Vergleich zu anderen Bundesländern;Zuwanderer in der Verwandtschaft (im Freundeskreis, in derNachbarschaft, am Arbeitsplatz) und Kontakthäufigkeit; Beurteilung derChancengleichheit von Zuwanderern und Einheimischen hinsichtlich:Schul- und Bildungsabschluss, Arbeits- und Ausbildungsplatzsuche,Wohnungssuche, politische Partizipation, gesellschaftliche Teilnahme;Hauptverantwortliche für eine erfolgreiche Integration (Zuwandererselbst, Einheimische oder Staat); Beurteilung des Engagements dervorgenannten Akteure im Hinblick auf deren Integrationsbemühungen; alsstörend empfundenes Verhalten von Zuwanderern (fremde Sprache in derÖffentlichkeit, Segregation, Verlangen nach Anerkennung durchEinheimische, Kopftücher muslimischer Frauen, Bau von Moscheen,Elternentscheidung über Verheiratung, öffentliche Demonstrationen überpolitische Probleme im Herkunftsland, Gewaltanwendung aus kulturellenGründen); Bewertung der Berichterstattung der Medien; Einstellung zuZuwanderern (Islam gehört zu Deutschland, Türken und Araber sindweniger intelligent als Europäer, Deutschland als Einwanderungsland,nehmen Einheimischen die Arbeitsplätze weg, Gefährdung christlicherWerte und Traditionen durch Einwanderer); Präferenz für eine Kultur undLebensweise im Land oder kulturelle Vielfalt (Multikulturalität);Zugehen der Zuwanderer auf die Einheimischen versus der Einheimischenauf die Zuwanderer als bester Weg für eine erfolgreiche Integration;wichtigste Voraussetzungen für die deutsche Staatsbürgerschaft(deutsche Sprachkenntnisse, deutsche Abstammung, Geburt in Deutschland,Anpassung an den deutschen Lebensstil); Beurteilung der Integration vonZuwanderern am Wohnort und in Baden-Württemberg; Beurteilung derIntegration in Baden-Württemberg im Vergleich zu anderen Bundesländern;Beurteilung der Integration von jugendlichen Aussiedlern aus Russlandund von Jugendlichen aus der Türkei; präferierte Entscheidungsebene fürIntegrationspolitik (Städte und Gemeinden, Bundesländer, Bund,Europäische Union); retrospektive Bewertung der Integrationspolitik inDeutschland seit Gründung der BRD; Beurteilung der Entwicklung derIntegration in den letzten fünf Jahren durch die Bundespolitik unddurch die Landespolitik in Baden-Württemberg; erwartete Entwicklung derIntegration in Baden-Württemberg; Wichtigkeit ausgewählter politischerIntegrationsmaßnahmen (Berichte über Integrationsprobleme bzw.Integrationserfolge, Sprachförderung, Kampf gegen Arbeitslosigkeit vonZuwanderern, verbesserte Bildungschancen, Anerkennen ausländischerBildungs- und Berufsabschlüsse, Kampf gegen kriminelle Zuwanderer undBenachteiligungen, höherer Anteil von Zuwanderern im öffentlichenDienst, Zusammenbringen von Zuwanderern und Einheimischen, erleichterteEinbürgerung); erwartete Zunahme der Bedeutung der Integrationspolitikdurch den Regierungswechsel in Baden-Württemberg; Bekanntheitausgewählter Politiker der neuen Landesregierung; Bekanntheit desMinisteriums für Integration in Baden-Württemberg.
+Demographie: Geschlecht; Alter (Geburtsjahr); feste Partnerschaft;Familienstand; Anzahl der Personen im Haushalt (Haushaltsgröße); Anzahlder Wahlberechtigten im Haushalt; derzeitige und frühereErwerbstätigkeit; berufliche Stellung; Arbeiter-, Angestellten- oderBeamtenstatus; höchster Schulabschluss; abgeschlossenes Studium;Mitgliedschaft in einer Gewerkschaft; Selbsteinstufung der Religiosität(10-stufiges-Skalometer); Konfession; Geburt des Befragten, seinerEltern und Großeltern in Deutschland; Geburtsland der Eltern;(Migrationshintergrund); Wahlverhalten bei der Landtagswahl 2011;Politikinteresse allgemein und auf Landesebene;Haushaltsnettoeinkommen. 
+Zusätzlich verkodet wurde: Bundesland; Kreisschlüssel; Ortsgröße;Gewichtungsfaktor.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BW</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>In Privathaushalten mit Festnetz-Telefonanschluss lebende deutsche Staatsangehörige im Alter ab 18 Jahren mit Hauptwohnsitz in Baden-Württemberg</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufige geschichtete Zufallsauswahl (ADM-Telefonstichprobensystem).</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-01-30</date>
+				</startDate>
+				<endDate>
+					<date>2012-03-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Infratest dimap, Berlin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen (CATI)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>148</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Zwei verschiedene Fragebogensplits mit jeweils 1500 Fragebogenprogrammen
+
+Die bundesweite Vergleichsstudie ist unter der Studiennummer ZA5580 archiviert.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

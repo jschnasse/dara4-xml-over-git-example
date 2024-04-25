@@ -1,0 +1,338 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'DJI Foreigner Survey - Young People
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'DJI-Ausländersurvey - Jugendliche
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA3371</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>DJI-Ausländersurvey - Jugendliche
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>DJI Foreigner Survey - Young People
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Deutsches Jugendinstitut (DJI), München</institutionName>
+			</institution>
+		</creator>
+		<creator>
+			<institution>
+				<institutionName>Technische Universität Chemnitz-Zwickau</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3371?doi=10.4232/1.3371</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.3371</doiProposal>
+	<publicationDate>
+		<year>2001</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3371</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>DJI</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>1</identifier>
+			<type>VerbundFDB</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Jugend</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Youth</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>Bildungsverlauf</keyword>
+				<keyword>politische Einstellung</keyword>
+				<keyword>Berufsverlauf</keyword>
+				<keyword>soziale Beziehungen</keyword>
+				<keyword>Integration</keyword>
+				<keyword>Diskriminierung</keyword>
+				<keyword>Familie</keyword>
+				<keyword>Italiener</keyword>
+				<keyword>Türke</keyword>
+				<keyword>Grieche</keyword>
+				<keyword>soziale Herkunft</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>course of education</keyword>
+				<keyword>political attitude</keyword>
+				<keyword>job history</keyword>
+				<keyword>social relations</keyword>
+				<keyword>integration</keyword>
+				<keyword>discrimination</keyword>
+				<keyword>family</keyword>
+				<keyword>Italian</keyword>
+				<keyword>Turk</keyword>
+				<keyword>Greek</keyword>
+				<keyword>social background</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Der demographische und sozioökonomischeKontext sowie die Wertorientierungen von Jugendlichen griechischer,italienischer und türkischer Herkunft.
+Themen: 1. Bildung und Schulbesuch: Jahre im Herkunftsland;Kindergartenbesuch im Herkunftsland und in Deutschland;Vorbereitungsklasse und zusätzlicher Unterricht in der Muttersprache inDeutschland; momentaner Besuch einer Bildungseinrichtung; höchsterallgemeinbildender Schulabschluß sowie Berufsbildungsabschluß imHerkunftsland und in Deutschland.
+2. Erwerbstätigkeit: Jahr und Monat des Beginns und Region der erstenberuflichen Tätigkeit; berufliche Stellung, Branche unddurchschnittliche Arbeitszeit zu Beginn der Erwerbstätigkeit sowie beider heutigen Erwerbstätigkeit; Arbeitszeitregelung und Zahl derArbeitsstellen in Deutschland; für nicht Erwerbstätige: Status, imArbeitsamt als arbeitslos gemeldet, Häufigkeit und Dauer derArbeitslosigkeit.
+3. Soziale Netze: Besprechen von persönlich wichtigen Dingen mitVertrauensperson; gemeinsame Mahlzeiten; gefühlsmäßige Bindung zurVertrauensperson; Freizeitpartner; Schulaufgaben- bzw. Hausarbeitshilfepassiv und aktiv; Zusammenleben; Hilfe bei Problemen; Geschlecht undNationalität der Vertrauenspersonen; Art der Beziehung zu denVertrauenspersonen; räumliche Entfernung zu den Wohnorten derVertrauenspersonen; Kontakthäufigkeit.
+4. Zugehörigkeit und Sprachkompetenz: Fremdheitsgefühl imHerkunftsland; von den Menschen im Herkunftsland als Deutschebetrachtet; Volksgruppenzugehörigkeit; Präferenz für Wahlbeteiligung inDeutschland oder im Herkunftsland; Diskriminierungserfahrungen;Interesse an der deutschen Staatsbürgerschaft; Rückkehrabsicht; Heiratmit deutschem Partner; nationale Zuordnung des Vornamens; ethnischeVornamen für künftige Kinder; Sprachgebrauch mit Eltern undGeschwistern, in der Schulpause oder am Arbeitsplatz; Selbsteinschätzungder eigenen Deutschkenntnisse sowie der Kenntnisse der Herkunftssprache.
+5. Ethnische Konzentration; Mediennutzung und kulturelle Partizipation:Ausländer im Wohnhaus; Besitz von Büchern, Lesen von Presse undAusleihen von Videofilmen in der Herkunftssprache und auf Deutsch;bevorzugte Sprache der Unterhaltungs- und Nachrichtensendungen; Besuchvon Konzerten von Künstlern des Herkunftslandes; Besuch von Jugendclubsund Cafes der ethnischen Gruppe; Wunsch nach speziellen Institutionenfür die ethnische Gruppe und tatsächliche Versorgung der eigenenWohngegend.
+6. Familienverhältnisse und Wohnsituation: Aufgabenteilung in derFamilie; Einfluß der Familienmitglieder bei wichtigen Entscheidungen;Mithilfe im Haushalt; Einkommensquellen; Personen in der Wohnung;monatliches Haushaltsnettoeinkommen; Wohnfläche und Ausstattung derWohnung; Zahl der Räume; Eigentums- oder Mietwohnung.
+7. Partnerschaft: Jahr des Kennenlernens; Beginn der Partnerschaft;Staatsangehörigkeit bzw. Abstammung des Partners aus dem Herkunftsland;Geburtsjahr und Geburtsmonat des Partners; Geburtsregion undSchulabschluß des Partners; Verwandtschaftsverhältnis zum Partner;Beteiligung der Eltern am Zustandekommen der Partnerschaft; Jahr desZusammenziehens; gemeinsame Wohnung; Heirat; gemeinsame Kinder;gegenwärtiges Fortbestehen der Partnerschaft; Ende der Beziehung;Erwerbstätigkeit, berufliche Stellung, Branche, durchschnittlicheWochenarbeitszeit und Arbeitszeitregelung des Partners; Partnerschaft inSchwierigkeiten; Gedanken, Gespräche und Vorschlagen von Trennung oderScheidung; Gespräche über Konsultation eines Anwalts.
+8. Geschlechterrollen: gewünschtes Geschlecht des ersten Kindes;erwartete Hilfe von einer erwachsenen Tochter oder von einem erwachsenenSohn; Einstellung zu den Beziehungen zwischen Mann und Frau; Frauen inPolitik und in Führungspositionen (Skala).
+9. Gesundheit: gegenwärtiger Gesundheitszustand; psychosomatischeBeschwerden.
+10. Wertorientierungen: ´locus of control´; Zufriedenheit mitLebenssituationen (Skala); subjektiver Altersstatus; Rangordnung vonpolitischen Zielen; Wichtigkeit der Werthaltungen und der Lebensbereiche(Skala).
+11. Gesellschaftliche und politische Partizipation und Orientierungen:Mitgliedschaft und Aktivität in Vereinen und (politischen)Organisationen; Mitgliedschaft und Aktivität in ethnischen Vereinen undOrganisationen; Sympathie für informelle politische Organisationen(Skalometer); politische Partizipationsbereischaft; Teilnahme anpolitischer Partizipation; allgemeines Wahlrecht für Ausländer;Beteiligung an deutscher Bundestagswahl; Kommunalwahlrecht fürAusländer; Beteiligung an deutscher Kommunalwahl; Einstellung zurDemokratie (Skala); Selbsteinschätzung auf einem Links-Rechts-Kontinuum;Interesse an Politik; Anomie-Skala; Einschätzung des eigenen gerechtenAnteils am Sozialprodukt; Unterschiede der eigenen politischen Ansichtenvon denjenigen verschiedener Gruppen; Vorhandensein vonBenachteiligungen; Wichtigkeit politischer Themen; Vertrauen inInstitutionen.
+Demographie: Geschlecht, Geburtsjahr und Geburtsmonat; Herkunftsregion;Herkunftsregion Vater; Herkunftsregion Mutter; Geschwisterzahl;aufenthaltsrechtlicher Status; Familienstand; Kinderzahl; Zahl dergewünschten Kinder; Geburtsdaten der Kinder; höchster Schulabschluß desVaters; höchster Schulabschluß der Mutter; Erwerbstätigkeit undberufliche Position der Eltern.
+Interviewerrating: Sprache des Interviews; Anwesenheit Dritter beimInterview und deren Einfluß; sprachliche Verständigung; Bereitwilligkeitdes Befragten; Kenntnis des Befragten der eigenen und der deutschenSprache.
+Zusätzlich verkodet wurden: Interviewdatum.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The demographic and socio-economic context as well as the moralorientations of young people of Greek, Italian and Turkish origins.
+Topics: 1. Education and school attendance: years in country oforigin; attending kindergarten in country of origin and in Germany;preparation class and supplementary instruction in native language inGermany; current attendance of an educational facility; highest degreefrom a school providing all-round education as well as occupationaltraining conclusion in country of origin and in Germany.
+2. Employment: year and month of start and region of firstoccupational activity; occupational position, area of business andaverage working hours at beginning of employment as well as in today´semployment; arrangement of working hours and number of places of workin Germany; for those not employed: status registered with employmentoffice as unemployed, frequency and length of unemployment.
+3. Social nets: discussing personally important things with aconfidant; common meals; instinctive ties to confidant; leisurepartner; passive and active help with school tasks or homework; livingtogether; help with problems; sex and nationality of confidant; type ofrelation with confidant; spatial distance to places of residence ofconfidants; frequency of contact.
+4. Affiliation and language ability: feeling of foreignness incountry of origin; viewed as German by the people in the country oforigin; ethnic group affiliation; preference for election participationin Germany or country of origin; discrimination experiences; interestin German citizenship; intent to return home; marriage with Germanpartner; national classification of first name; ethnic first names forfuture children; language use with parents and siblings, in schoolrecess or at work; self-assessment of personal knowledge of German aswell as knowledge of language of origin.
+5. Ethnic concentration: media usage and cultural participation;foreigners in residential building; possession of books, reading ofpress and renting video films in language of origin and German;preferred language for entertainment and news broadcasts; attendingconcerts of artists of country of origin; visits to youth clubs andcafes of the ethnic group; desire for special institutions for theethnic group and actual availability in one´s residential area.
+6. Family relationships and housing situation: division of tasks inone´s family; influence of family members with important decisions;help in household; sources of income; persons in residence; monthly nethousehold income; floor space and furnishings of residence; number ofrooms; condominium or apartment.
+7. Partnership: year of meeting; start of partnership; citizenship ororigin of partner from country of origin; year of birth and month ofbirth of partner; region of birth and school degree of partner; degreeof relationship with partner; participation of parents in developmentof partnership; year of moving together; common residence; marriage;common children; current continuation of partnership; end of relation;employment, occupational position, area of business, average timeworked each week and arrangement of working hours of partner;partnership in difficulties; thoughts, discussions and recommendationsof separation or divorce; discussions about consulting a lawyer.
+8. Sex roles: desired sex of first child; expected help from an adultdaughter or an adult son; attitude to the relations between man andwoman; women in politics and in leading positions (scale).
+9. Health: current condition of health; psychosomatic complaints.
+10. Moral orientations: ´locus of control´; satisfaction withsituations in life (scale); subjective age status; rank order ofpolitical goals; importance of value stands and areas of life (scale).
+11. Societal and political participation and orientations: membershipand activity in clubs and (political) organizations; membership andactivity in ethnic clubs and organizations; sympathies for informalpolitical organizations (scale); readiness for political participation;participation in political activities; general right to vote forforeigners; participation in the German Federal Parliament election;right to vote in municipal elections for foreigners; participation in aGerman municipal election; attitude to democracy (scale);self-assessment on a left-right continuum; interest in politics; anomyscale; assessment of personal fair share of national product;differences of one´s own political views from those of various groups;presence of discrimination; importance of political topics; trust ininstitutions.
+Demography: sex, year of birth and month of birth; region of origins;region of origins of father; region of origins of mother; number ofsiblings; status regarding residence permit; marital status; number ofchildren; number of children desired; birth dates of one´s children;highest school degree of father; highest school degree of mother;employment and occupational position of parents.
+Interviewer rating: language of interview; presence of third personsduring interview and their influence; linguistic communication;willingness of respondent; respondent´s knowledge of his own and theGerman language.
+Also encoded was: date of interview. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>FRG, only old states</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD, nur alte Bundesländer </freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 18-28 Jahre</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>2400 young people, 400 male and 400 female Greeks, Italians and Turks between 18 and 28 years.
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Nicht-Wahrscheinlichkeitsauswahl: Quotenstichprobe; Auswahlverfahren Kommentar: Quotenstichprobe von 2400 Jugendlichen, jeweils 400 männliche und 400
+weibliche Griechen, Italiener und Türken zwischen 18 und 28 Jahren.
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Non-probability: Quota; Sampling Procedure Comment: Quota sample </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1996-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1997-02</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN Forschungsgesellschaft, Offenbach
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>Distributor</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>HostingInstitution</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.PAPI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>2504</numberUnits>
+			<numberVariables>707</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Erhebungseinheit: Erwachsene###</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Survey unit: adults###
+Alois Weidacher
+In Deutschland zu Hause. Politische Orientierungen griechischer,
+italienischer, tuerkischer und deutscher junger Erwachsene im Vergleich.
+(DJI Auslaendersurvey)
+Leske + Budrich, 2000
+Mittag,H.; Hess,U.; Weidacher,A.; Willems,H.
+Griechische, italienische und tuerkische jugendliche und junge
+Erwachsene in Deutschland.
+Teil I: Griechische und italienische Jugendliche
+Teil II: Griechische und italienische Eltern
+Teil III: Tuerkische Jugendliche
+Teil IV: Griechische, italienische und tuerkische junge Erwachsene
+Deutsches Jugendinstitut, Mai 1997
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Alois Weidacher 
+In Deutschland zu Hause. Politische Orientierungen griechischer, italienischer, türkischer und deutscher junger Erwachsene im Vergleich. (DJI Ausländersurvey) Leske + Budrich, 2000</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Mittag,H.; Heß,U.; Weidacher,A.; Willems,H. 
+Griechische, italienische und türkische jugendliche und junge Erwachsene in Deutschland. Teil I: Griechische und italienische Jugendliche Teil II: Griechische und italienische Eltern Teil III: Türkische Jugendliche Teil IV: Griechische, italienische und türkische junge Erwachsene Deutsches Jugendinstitut, Mai 1997</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

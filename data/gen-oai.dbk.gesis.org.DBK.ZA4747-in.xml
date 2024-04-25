@@ -1,0 +1,4116 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'International Social Survey Programme: Role of Government I-V - ISSP 1985-1990-1996-2006-2016'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'International Social Survey Programme: Role of Government I-V - ISSP 1985-1990-1996-2006-2016
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA4747</identifier>
+		<currentVersion>2.1.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>International Social Survey Programme: Role of Government I-V - ISSP 1985-1990-1996-2006-2016
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>International Social Survey Programme: Role of Government I-V - ISSP 1985-1990-1996-2006-2016</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>ISSP Research Group</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4747?doi=10.4232/1.14113</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.14113</doiProposal>
+	<publicationDate>
+		<date>2023-06-30</date>
+	</publicationDate>
+	<publicationPlace>Cologne, Germany</publicationPlace>
+	<publisher>
+		<institution>
+			<institutionName>GESIS</institutionName>
+		</institution>
+	</publisher>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4747</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Government, political systems and organisations</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Das International Social Survey Programme (ISSP) ist ein länderübergreifendes, fortlaufendes Umfrageprogramm, das jährlich Erhebungen zu Themen durchführt, die für die Sozialwissenschaften wichtig sind. Das Programm begann 1984 mit vier Gründungsmitgliedern - Australien, Deutschland, Großbritannien und den Vereinigten Staaten - und ist inzwischen auf fast 50 Mitgliedsländer aus aller Welt angewachsen. Da die Umfragen auf Replikationen ausgelegt sind, können die Daten sowohl für länder- als auch für zeitübergreifende Vergleiche genutzt werden. Jedes ISSP-Modul konzentriert sich auf ein bestimmtes Thema, das in regelmäßigen Zeitabständen wiederholt wird. Details zur Durchführung der nationalen ISSP-Umfragen entnehmen Sie bitte der Dokumentation. Die vorliegende Studie konzentriert sich auf Fragen zu politischen Einstellungen und der Rolle der Regierung.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Das Release der kumulierten ISSP-Module ´Rolle des Staates´ für die Jahre 1985, 1990, 1996, 2006 und 2016 besteht aus zwei getrennten Datensätzen: ZA4747 und ZA4748.
+ZA4747 enthält alle kumulierten Variablen, während die ergänzende Datendatei ZA4748 ´ISSP Cumulation ROG Add On´ all jene Variablen enthält, die aus verschiedenen Gründen nicht kumuliert werden konnten. Sie können aber bei Bedarf leicht mit der kumulierten Datei abgeglichen werden. Einen umfassenden Überblick über den Inhalt, die Struktur und die grundlegenden Kodierungsregeln der beiden Datendateien bieten die Variablenreports.
+Role of Government I-V:
+Einstellungen zur Einhaltung von Gesetzen; Einstellungen zu verschiedenen Formen des Protests gegen die Regierung; Ansichten zur Redefreiheit für Extremisten; Einstellungen zu polizeilichen Eingriffen in die Privatsphäre zur Verhinderung von Straftaten; Einstellungen zu Justizfehlern; wahrgenommene Bedrohung der Privatsphäre durch staatliche Datenerfassung und Computernetze (Schutz der Privatsphäre); Steuergerechtigkeit, Einstellungen zu staatlichen Maßnahmen zur Kontrolle von Löhnen, Umverteilung von Wohlstand, Gehältern und Preisen; Einstellungen zu staatlichen Eingriffen in die Wirtschaft; Einstellungen zu höheren Staatsausgaben für Umweltschutz, öffentliches Gesundheitswesen, Polizei, Bildungssystem, Verteidigung, Renten, Arbeitslosenunterstützung, Kultur und Kunst; Priorität für die Inflationsbekämpfung oder die Bekämpfung der Arbeitslosigkeit; Bewertung des Einflusses von Gewerkschaften, Industrie und Regierung; Bewertung der Position der Regierung in der Stromversorgung, der Stahlindustrie sowie im Banken- und Versicherungswesen; Einstellungen zum Wohlfahrtsstaat und zur Verantwortung für Arbeitsplätze, Preiskontrolle, Gesundheitsversorgung, angemessenen Lebensstandard, Wirtschaftswachstum, Verringerung der Einkommensunterschiede, Unterstützung von Studenten, Wohnungsversorgung und Umweltschutz; politisches Interesse; politische Einflussmöglichkeiten (efficacy); Vertrauen in Politiker und Beamte; Bewertung der Steuergerechtigkeit bei verschiedenen Einkommensgruppen; im Falle eines Terrorverdachts sollte die Regierung das Recht haben, Personen zu inhaftieren, Telefongespräche abzuhören und Personen auf der Straße willkürlich anzuhalten und zu durchsuchen; Einschätzung, wie viele Politiker im Land in Korruption verwickelt sind; Einschätzung, wie viele Beamte im Land in Korruption verwickelt sind; Häufigkeit von Bestechung durch  Beamte in den letzten 5 Jahren; Erfolg der Regierung in den folgenden Bereichen: Gesundheitsversorgung für Kranke, Gewährleistung eines angemessenen Lebensstandards für alte Menschen, Umgang mit Bedrohungen der Sicherheit des Landes.
+Demographie: Geschlecht; Alter; Familienstand; fester Lebenspartner; Bildung: Schuljahre; höchster Bildungsabschluss; derzeitiger Beschäftigungsstatus (Befragter und Partner); Wochenarbeitsstunden; Art der Organisation, öffentlich/privat; Gewerkschaftsmitgliedschaft; Befragter und Partner: Beaufsichtigung anderer Angestellter; Anzahl der beaufsichtigten Angestellten; selbständige Beschäftigung; Anzahl der Beschäftigten; Beruf (ISCO/ ILO 1988 Berufscode, ISCO/ ILO 2008 Berufscode für Befragten und Ehepartner); Haushaltsgröße; Haushaltszusammensetzung (Kinder und Erwachsene); Kinder im Haushalt; Art der Wohnung; Parteizugehörigkeit links-rechts (abgeleitet/ abgeleitet von der letzten Wahl); Teilnahme an der letzten Wahl; Besuch religiöser Gottesdienste; religiöse Hauptgruppen (abgeleitet); Top-Bottom-Self-Placement; subjektive soziale Klasse; Wohnort: Stadt - Land.
+Zusätzlich kodiert: Eindeutige Kumulierungs-ID-Nummer des Befragten; Länder-/Stichprobenpräfix ISO 3166 Code - alphanumerisch; Region (länderspezifisch); Gewichtungsfaktor; administrative Art der Datenerhebung.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The International Social Survey Programme (ISSP) is a continuous programme of cross-national collaboration running annual surveys on topics important for the social sciences. The programme started in 1984 with four founding members - Australia, Germany, Great Britain, and the United States – and has now grown to almost 50 member countries from all over the world. As the surveys are designed for replication, they can be used for both, cross-national and cross-time comparisons. Each ISSP module focuses on a specific topic, which is repeated in regular time intervals. Please, consult the documentation for details on how the national ISSP surveys are fielded. The present study focuses on questions about political attitudes and the role of government.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The release of the cumulated ISSP ´Role of Government´ modules for the years 1985, 1990, 1996, 2006 and 2016 consists of two separate datasets: ZA4747 and ZA4748.
+ZA4747 contains all the cumulated variables, while the supplementary data file ZA4748 ´ISSP Cumulation ROG Add On´ contains all those variables that could not be cumulated for various reasons. However, they can be matched easily to the cumulated file if necessary. A comprehensive overview on the contents, the structure and basic coding rules of both data files are provided in the Variable Reports.
+Role of government I-V:
+Attitudes to compliance with law; attitudes to various forms of protest against the government; views regarding freedom of speech for extremists; attitudes to police intervention in the private sphere to prevent crimes; attitudes to justice error; perceived threat to the private sphere from governmental data collection and computer networks (privacy protection); tax fairness, attitudes to government measures regarding control of wages, redistribution of wealth, salaries and prices; attitudes towards state intervention in the economy; attitudesto increased government spending for environmental protection, public health system, the police, education system, defence, pensions, unemployment benefits, culture and arts; priority for fighting inflation or fighting unemployment; evaluation of the influence of trade unions, industry and government; evaluation of the government´s position in electricity supply, the steel industry as well as banking and insurance; attitudes to welfare state and responsibility for jobs, price control, health care, decent standard of living, economic growth,reduction of income differences, support for students, housing supply and protection of environment; political interest; political efficacy; trust in politicians and civil servants; assessment of tax equity with various income groups; in the case of terror suspect the government should have the right to detain people, to tap people’s telephone conversations, to stop and search people in the street at random; assessment about how many politicians in the country are involved in corruption; rating about how many public officials in the country are involved in corruption; how often public officials wanted a bribe in last 5 years; success of the country’s government in the following areas: providing health care for the sick, providing a decent standard of living for the old, dealing with threats to the country’s security.
+Demography: Sex; age; marital status; steady life partner; education: years of schooling; highest education level; current employment status  (respondent and partner); hours worked weekly; type of organization, public/ private; trade union membership; respondent and partner: supervise other employees; number of employees supervised; self-employed; number of employees if self-employed; occupation (ISCO/ ILO 1988 occupation code, ISCO/ ILO 2008 occupation code for respondent and spouse); size of household; household composition (children and adults); children in the household; type of housing; party affiliation left-right (derived/ derived from last vote); participation in last election; attendance of religious services; religious main groups (derived); Top-Bottom self-placement; subjective social class; place of living: urban – rural.
+Additionally coded: Unique cumulation respondent ID Number; Country/ Sample Prefix ISO 3166 Code – alphanumeric; region (country-specific); weighting factor; administrative mode of data-collection.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>AU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CA</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CZ</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-GBN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>JP</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LV</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NO</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NZ</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PH</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>RU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CH</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>US</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>KR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>TW</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>VE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ZA</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>ZA-Studien-Nr. 6900 Role of Governmeht V (2016):
+Personen im Alter von 18 Jahren und älter
+Ausnahmen: Finnland (15 bis 74 Jahre), Japan (16 Jahre und älter), Lettland (18 - 74 Jahre), Norwegen (18 - 79 Jahre), Schweden (18 - 79 Jahre) und Südafrika (16 Jahre und älter).
+
+ZA-Studien-Nr. 4700 Role of Government IV (2006): 
+Befragte im Alter von 18 Jahren und älter, Ausnahmen: Schweden (17), Japan (16) und Russland (16). 
+
+ZA-Studien-Nr. 2900 Role of Government III (1996): 
+Befragte 18 Jahre und älter, Ausnahme: Schweiz (18 - 70 Jahre). 
+
+ZA-Studien Nr. 1950 Role of Governmenrt II (1990): 
+Personen in Privathaushalten ab 18 Jahren, Ausnahmen: Italien (14 - 74 Jahre), Norwegen (16 - 79 Jahre). 
+
+ZA-Studien-Nr. 1490 Role of Government I (1985): 
+Befragte 18 Jahre und älter, Ausnahme: Italien (18 - 74 Jahre).</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>ZA-Study-Nr. 6900 Role of Government V (2016):
+Persons aged 18 years and older
+Exception: Finland (15 to 74 years), Japan (16 years and over), Latvia (18 - 74 years), Norway (18 - 79 years), Sweden (18 - 79 years), and South Africa (16 years and over).
+
+ZA-Study-Nr. 4700 Role of Government IV (2006): 
+Respondents 18 years old and older, exception: Sweden (17), Japan (16) and Russia (16). 
+
+ZA-Study-Nr. 2900 Role of Government III (1996): 
+Respondents 18 years old and older, exception: Switzerland (18 - 70). 
+
+ZA-Study-Nr. 1950 Role of Government II (1990): 
+Persons in private households 18 years old and older, exception: Italy (14 - 74 years), Norway (16 - 79 years). 
+
+ZA-Study-Nr. 1490 Role of Government I (1985): 
+Respondents 18 years old and older, exception: Italy (18 - 74 years).</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl; Auswahlverfahren Kommentar: Auswahlverfahren unterscheiden sich für die einzelnen Ländern: Teils
+einfache, teils mehrstufig geschichtete Zufallsauswahl von Befragten im
+Alter von 18 Jahren und älter, Ausnahme: Finnland (15), Südafrika (16),
+Schweden (17), Japan (16) und Russland (16)</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability; Sampling Procedure Comment: ZA-Study-Nr. 6900 Role of Government V (2016): 
+Probability Sample: Simple Random Sample
+Probability Sample: Systematic Random Sample
+Probability Sample: Stratified Sample
+Probability Sample: Stratified Sample: Proportional
+Probability Sample: Stratified Sample: Disproportional
+Probability Sample: Multistage Sample
+
+ZA-Study-Nr. 4700 Role of Government IV (2006): 
+Sampling procedures differ for the individual countries: Partly simple,
+partly multi-stage stratified random sample of respondents 18 years old
+and older, exclusion: Sweden (17), Japan (16) and Russia (16).
+
+ZA-Study-Nr. 2900 Role of Government III (1996):
+Multi-stage stratified random sample of respondents 18 years old and older, exclusion: Switzerland (18 to 70).
+
+ZA-Study-Nr. 1950 Role of Government II (1990):
+The sampling procedure differ in the individual countries. For the individual countries: partly simple random selection, partly multi-stage stratified random sample of persons in private households 18 years old and older, exclusion: Italy (14 - 74 years), Norway (16 to 79 years).
+
+ZA-Study-Nr. 1490 Role of Government I (1985):
+Sampling procedures differ for the individual countries: Partly simple,
+partly multi-stage stratified random sample of respondents 18 years old
+and older, exclusion: Italy (18 - 74 years).
+
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>1986</year>
+				</startDate>
+				<endDate>
+					<year>1986</year>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Australia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Australien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1985-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1985-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany, West (FRG)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland, West (BRD)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1985-04</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1985-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1985-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1985-04</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>USA</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>USA</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1985-09</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1985-10</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1990-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1990-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Australia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Australien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1990-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1990-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany (West)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland (West)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1990-12</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1990-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany (East)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland (Ost)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1990-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1990-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1990-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1990-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Hungary</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Ungarn</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1991-09</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1991-11</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Irland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1991-12</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1991-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Israel</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Israel</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1990-04</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1990-04</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1990-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1990-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Norway</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Norwegen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1990-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1990-04</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>USA</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>USA</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1997-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1997-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Australia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Australien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1996-11-01</date>
+				</startDate>
+				<endDate>
+					<date>1996-12-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Canada</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Kanada</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1996-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1996-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Czech Republic</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Tschechische Republik</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1996-02-29</date>
+				</startDate>
+				<endDate>
+					<date>1996-07-01</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-10-07</date>
+				</startDate>
+				<endDate>
+					<date>1997-12-07</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1996-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1996-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1996-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1996-10</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Hungary</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Ungarn</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1996-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1996-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1996-11</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1996-11</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Israel</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Israel</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1996-10-17</date>
+				</startDate>
+				<endDate>
+					<date>1996-10-29</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1996-07-05</date>
+				</startDate>
+				<endDate>
+					<date>1996-07-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Japan</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Japan</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1996-09-12</date>
+				</startDate>
+				<endDate>
+					<date>1996-09-16</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Latvia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Lettland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-04-24</date>
+				</startDate>
+				<endDate>
+					<date>1997-08-05</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>New Zealand</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Neuseeland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1996-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1996-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Norway</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Norwegen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1996-09-05</date>
+				</startDate>
+				<endDate>
+					<date>1996-10-05</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Philippines</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Philippinen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1997-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1997-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Poland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Polen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-04-08</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Russia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Rußland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1995-11</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1995-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovenia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowenien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1996-01-27</date>
+				</startDate>
+				<endDate>
+					<date>1996-01-31</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Spain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Spanien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1996-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1996-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Sweden</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweden</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1998-05-12</date>
+				</startDate>
+				<endDate>
+					<date>1998-11-09</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Switzerland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweiz</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1996-02-01</date>
+				</startDate>
+				<endDate>
+					<date>1996-05-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>USA</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>USA</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2007-07-11</date>
+				</startDate>
+				<endDate>
+					<date>2007-10-16</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Australia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Australien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-03-03</date>
+				</startDate>
+				<endDate>
+					<date>2006-10-31</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Canada</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Kanada</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-10-19</date>
+				</startDate>
+				<endDate>
+					<date>2006-11-27</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Czech Republic</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Tschechische Republik</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2006-09</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2006-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-03-18</date>
+				</startDate>
+				<endDate>
+					<date>2006-08-21</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-01</date>
+				</startDate>
+				<endDate>
+					<date>2006-11-01</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-01-05</date>
+				</startDate>
+				<endDate>
+					<date>2006-01-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Hungary</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Ungarn</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2005-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2006-02</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2005-03-15</date>
+				</startDate>
+				<endDate>
+					<date>2005-08-15</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Israel</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Israel</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-11-18</date>
+				</startDate>
+				<endDate>
+					<date>2006-11-26</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Japan</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Japan</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2007-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2007-06-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Latvia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Lettland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-08-10</date>
+				</startDate>
+				<endDate>
+					<date>2006-10-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>New Zealand</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Neuseeland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-09-20</date>
+				</startDate>
+				<endDate>
+					<date>2006-11-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Norway</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Norwegen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-03-08</date>
+				</startDate>
+				<endDate>
+					<date>2006-03-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Philippines</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Philippinen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2008-02-06</date>
+				</startDate>
+				<endDate>
+					<date>2008-02-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Poland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Polen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2007-01-03</date>
+				</startDate>
+				<endDate>
+					<date>2007-01-22</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Russia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Russische Föderation</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-10-15</date>
+				</startDate>
+				<endDate>
+					<date>2006-11-15</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovenia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowenien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2007-01-15</date>
+				</startDate>
+				<endDate>
+					<date>2007-03-15</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Spain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Spanien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-02-07</date>
+				</startDate>
+				<endDate>
+					<date>2006-04-28</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Sweden</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweden</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2007-02-08</date>
+				</startDate>
+				<endDate>
+					<date>2007-08-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Switzerland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweiz</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-03-07</date>
+				</startDate>
+				<endDate>
+					<date>2006-08-07</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>USA</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>USA</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-24</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-13</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Chile</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Chile</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2008-01-30</date>
+				</startDate>
+				<endDate>
+					<date>2008-05-05</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Denmark</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Dänemark</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-09-20</date>
+				</startDate>
+				<endDate>
+					<date>2006-11-24</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Finland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Finnland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-10-01</date>
+				</startDate>
+				<endDate>
+					<date>2006-11-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Croatia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Kroatien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-25</date>
+				</startDate>
+				<endDate>
+					<date>2006-08-31</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>South Korea</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Südkorea</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2008-10-07</date>
+				</startDate>
+				<endDate>
+					<date>2008-10-28</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovakia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowakei</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-07-16</date>
+				</startDate>
+				<endDate>
+					<date>2006-09-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Taiwan</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Taiwan</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2006-12-05</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Venezuela</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Venezuela</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-08-22</date>
+				</startDate>
+				<endDate>
+					<date>2006-10-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>South Africa</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Südafrika</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2017-02-15</date>
+				</startDate>
+				<endDate>
+					<date>2017-08-07</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Switzerland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweiz</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-07-09</date>
+				</startDate>
+				<endDate>
+					<date>2016-08-07</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Chile</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Chile</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-05-24</date>
+				</startDate>
+				<endDate>
+					<date>2016-07-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Czech Republic</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Tschechische Republik</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-04-05</date>
+				</startDate>
+				<endDate>
+					<date>2016-09-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-05-15</date>
+				</startDate>
+				<endDate>
+					<date>2016-07-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Denmark</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Dänemark</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-04-11</date>
+				</startDate>
+				<endDate>
+					<date>2016-06-29</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Spain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Spanien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-09-16</date>
+				</startDate>
+				<endDate>
+					<date>2016-12-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Finland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Finnland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-02-09</date>
+				</startDate>
+				<endDate>
+					<date>2016-09-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-07-13</date>
+				</startDate>
+				<endDate>
+					<date>2016-10-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2017-07-20</date>
+				</startDate>
+				<endDate>
+					<date>2017-08-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Croatia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Kroatien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-04-14</date>
+				</startDate>
+				<endDate>
+					<date>2016-04-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Hungary</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Ungarn</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2015-12-24</date>
+				</startDate>
+				<endDate>
+					<date>2016-04-05</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Israel</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Israel</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-10-29</date>
+				</startDate>
+				<endDate>
+					<date>2016-11-06</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Japan</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Japan</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-06-27</date>
+				</startDate>
+				<endDate>
+					<date>2016-10-07</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>South Korea</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Südkorea</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-08-27</date>
+				</startDate>
+				<endDate>
+					<date>2016-09-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Latvia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Lettland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-10-26</date>
+				</startDate>
+				<endDate>
+					<date>2017-02-13</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Norway</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Norwegen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-07-11</date>
+				</startDate>
+				<endDate>
+					<date>2016-12-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>New Zealand</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Neuseeland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-03-16</date>
+				</startDate>
+				<endDate>
+					<date>2016-03-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Philippines</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Philippinen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-10-10</date>
+				</startDate>
+				<endDate>
+					<date>2016-12-12</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Sweden</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweden</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-10-13</date>
+				</startDate>
+				<endDate>
+					<date>2016-11-28</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovakia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowakei</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2015-11-14</date>
+				</startDate>
+				<endDate>
+					<date>2016-02-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovenia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowenien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2017-06-01</date>
+				</startDate>
+				<endDate>
+					<date>2017-08-09</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Thailand</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Thailand</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-08-07</date>
+				</startDate>
+				<endDate>
+					<date>2016-11-27</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Taiwan</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Taiwan</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-04-05</date>
+				</startDate>
+				<endDate>
+					<date>2016-11-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>USA</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>USA</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-09-02</date>
+				</startDate>
+				<endDate>
+					<date>2016-10-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Venezuela</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Venezuela</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-05-31</date>
+				</startDate>
+				<endDate>
+					<date>2017-05-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Australia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Australien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-02-12</date>
+				</startDate>
+				<endDate>
+					<date>2016-02-16</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Russia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Russland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2017-01-25</date>
+				</startDate>
+				<endDate>
+					<date>2017-04-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>South Africa</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Südafrika</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal</timeDimensionType>
+		</timeDimension>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Timothy</firstName>
+				<middleName/>
+				<lastName>Philips</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Centre for Social Research, Research School of Social Sciences, Australian National University, 
+Canberra, Australia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Deborah</firstName>
+				<middleName/>
+				<lastName>Mitchell</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Centre for Social Research, Research School of Social Sciences, Australian National University, 
+Canberra, Australia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jonathan</firstName>
+				<middleName/>
+				<lastName>Kelley</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Centre for Social Research, Research School of Social Sciences, Australian National University, 
+Canberra, Australia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Mariah</firstName>
+				<middleName/>
+				<lastName>Evans</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Centre for Social Research, Research School of Social Sciences, Australian National University, 
+Canberra, Australia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Clive</firstName>
+				<middleName/>
+				<lastName>Bean</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Centre for Social Research, Research School of Social Sciences, Australian National University, 
+Canberra, Australia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jon H.</firstName>
+				<middleName/>
+				<lastName>Pammett</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Carleton University Survey Centre, Carleton University, Ottawa, Canada</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Petr</firstName>
+				<middleName/>
+				<lastName>Mateju</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute of Sociology, Academy of Sciences of the Czech Republic, Praha, Czech Republic</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Lukas</firstName>
+				<middleName/>
+				<lastName>Linek</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute of Sociology, Academy of Sciences of the Czech Republic, Praha, Czech Republic</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Yannick</firstName>
+				<middleName/>
+				<lastName>Lemel</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>FRANCE-ISSP Association (Centre de Recherche en Economie et Statistique, Laboratoire de 
+Sociologie Quantitative), Malakoff, France</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Michel</firstName>
+				<middleName/>
+				<lastName>Forsé</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>FRANCE-ISSP Association (Centre de Recherche en Economie et Statistique, Laboratoire de 
+Sociologie Quantitative), Malakoff, France</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Zentralarchiv für Empirische Sozialforschung an der Universität zu Köln, Germany</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Janet</firstName>
+				<middleName/>
+				<lastName>Harkness</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ZUMA (Zentrum für Umfragen, Methoden und Analysen), Mannheim, Germany</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Peter</firstName>
+				<middleName/>
+				<lastName>Mohler</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ZUMA (Zentrum für Umfragen, Methoden und Analysen), Mannheim, Germany</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Alison</firstName>
+				<middleName/>
+				<lastName>Park</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>National Centre for Social Research, London, Great Britain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Mark</firstName>
+				<middleName/>
+				<lastName>Johnson</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>National Centre for Social Research, London, Great Britain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Lindsay</firstName>
+				<middleName/>
+				<lastName>Brook</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Social and Community Planning Research, London, Great Britain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Bridget</firstName>
+				<middleName/>
+				<lastName>Taylor</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Social and Community Planning Research, London, Great Britain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Katarina</firstName>
+				<middleName/>
+				<lastName>Thomson</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>National Centre for Social Research (NatCen), London, Great Britain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Caroline</firstName>
+				<middleName/>
+				<lastName>Bryson</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>National Centre for Social Research (NatCen), London, Great Britain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Roger</firstName>
+				<middleName/>
+				<lastName>Jowell</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>National Centre for Social Research, London, Great Britain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Sharon</firstName>
+				<middleName/>
+				<lastName>Witherspoon</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Social and Community Planning Research, London, Great Britain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Peter</firstName>
+				<middleName/>
+				<lastName>Robert</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>TÁRKI Zrt. Social Research Centre, Budapest, Hungary</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Tamás</firstName>
+				<middleName/>
+				<lastName>Kolosi</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>TÁRKI Zrt. Social Research Centre, Budapest, Hungary</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Máire Ni Ghiolla</firstName>
+				<middleName/>
+				<lastName>Phadraig</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>SSRC (Social Science Research Centre), University College Dublin, Dublin, Ireland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Conor</firstName>
+				<middleName/>
+				<lastName>Ward</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>SSRC (Social Science Research Centre), University College Dublin, Dublin, Ireland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Brendan</firstName>
+				<middleName/>
+				<lastName>Whelan</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Economic and Social Research Institute, Dublin, Ireland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Gabriele</firstName>
+				<middleName/>
+				<lastName>Calvi</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>EURISCO, Milan, Italy</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Noah</firstName>
+				<middleName/>
+				<lastName>Lewin-Epstein</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>The B. I. Cohen Institute for Public Opinion Research, Tel Aviv University, Tel Aviv, Israel</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hiroshi</firstName>
+				<middleName/>
+				<lastName>Aramaki</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>NHK, Broadcasting Culture Research Institute, Public Opinion Research Division, Tokyo, Japan</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Miwako</firstName>
+				<middleName/>
+				<lastName>Hara</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>NHK, Broadcasting Culture Research Institute, Public Opinion Research Division, Tokyo, Japan</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Kumiko</firstName>
+				<middleName/>
+				<lastName>Nishi</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>NHK, Broadcasting Culture Research Institute, Public Opinion Research Division, Tokyo, Japan</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Noriko</firstName>
+				<middleName/>
+				<lastName>Onodera</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Japan</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Aivars</firstName>
+				<middleName/>
+				<lastName>Tabuns</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute of Philosophy and Sociology University of Latvia, Riga, Latvia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Ilze</firstName>
+				<middleName/>
+				<lastName>Koroleva</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute of Philosophy and Sociology University of Latvia, Riga, Latvia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Brigita</firstName>
+				<middleName/>
+				<lastName>Zepa</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Baltic Data House, Riga, Latvia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Philip</firstName>
+				<middleName/>
+				<lastName>Gendall</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Marketing, Massey University, Palmerston North, New Zealand</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Knut Kalgraff</firstName>
+				<middleName/>
+				<lastName>Skjak</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Norwegian Social Science Data Services, Bergen, Norway</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Research Council of Norway, Norway</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Per A.</firstName>
+				<middleName/>
+				<lastName>Pettersen</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Sociology and Political Science, Norwegian University of Science and Technology, Trondheim, Norway</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Per</firstName>
+				<middleName/>
+				<lastName>Legreid</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Administration and Organization Theory, University of Bergen, Norway</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Linda Luz</firstName>
+				<middleName/>
+				<lastName>Guerrero</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Social Weather Stations, Quezon City, Philippines</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Mahar</firstName>
+				<middleName/>
+				<lastName>Mangahas</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Social Weather Stations, Quezon City, Philippines</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Gerardo</firstName>
+				<middleName/>
+				<lastName>Sanoval</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Social Weather Stations, Quezon City, Philippines</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Bogdan</firstName>
+				<middleName/>
+				<lastName>Cichomski</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute for Social Studies (ISS), University of Warsaw, Warsaw, Poland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Ludmilla</firstName>
+				<middleName/>
+				<lastName>Khakhulina</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Levada Center, Moscow, Russia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Niko</firstName>
+				<middleName/>
+				<lastName>Toš</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Public Opinion and Mass Communications Research Centre, Faculty for Social Sciences University of Ljubljana, Ljubljana, Slovenia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Juan</firstName>
+				<middleName/>
+				<lastName>Diez-Nicolás</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ASEP (Análisis Sociológicos, Económicos y Politicos), Madrid, Spain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Natalia</firstName>
+				<middleName/>
+				<lastName>Garcia-Pardo</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>CIS (Centro de Investigaciones Sociológicas), Madrid, Spain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Mónica</firstName>
+				<middleName/>
+				<lastName>Méndez Lago</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>CIS (Centro de Investigaciones Sociológicas), Madrid, Spain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jonas</firstName>
+				<middleName/>
+				<lastName>Edlund</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Dept. of Sociology, University of Umea, Umea, Sweden</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Stefan</firstName>
+				<middleName/>
+				<lastName>Svallfors</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Dept. of Sociology, University of Umea, Umea, Sweden</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Dominique</firstName>
+				<middleName/>
+				<lastName>Joye</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>SIDOS (Swiss Information and Data Archive for den Social Sciences, Neuchâtel, Switzerland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Klaus</firstName>
+				<middleName/>
+				<lastName>Armingeon</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute of Political Science, University of Berne, Switzerland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Nicole</firstName>
+				<middleName/>
+				<lastName>Schoebi</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>SIDOS (Swiss Information and Data Archive for den Social Sciences, Neuchâtel, Switzerland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Simon</firstName>
+				<middleName/>
+				<lastName>Geissbuehler</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute of Political Science, University of Berne, Switzerland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Diekmann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Sociology, University of Berne, Switzerland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Henriette</firstName>
+				<middleName/>
+				<lastName>Engelhard</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Sociology, University of Berne, Switzerland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Tom W.</firstName>
+				<middleName/>
+				<lastName>Smith</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>NORC (National Opinion Research Center), Chicago, USA</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>James A.</firstName>
+				<middleName/>
+				<lastName>Davis</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>NORC (National Opinion Research Center), Chicago, USA</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Peter V.</firstName>
+				<middleName/>
+				<lastName>Marsden</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Sociology Harvard University, Cambridge, USA</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Betsy</firstName>
+				<middleName/>
+				<lastName>Blunsdon</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Australian Consortium for Social and Political Research Incorporated (ACSPRI), Black Rock, Victoria, Australia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Ricardo</firstName>
+				<middleName/>
+				<lastName>Gonzalez</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Centro de Estudios Públicos (CEP), Santiago de Chile, Chile</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Dinka</firstName>
+				<middleName/>
+				<lastName>Marinovi&amp;#263; Jerolimov</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute for Social Research, Zagreb, Croatia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Zdenka</firstName>
+				<middleName/>
+				<lastName>Mansfeldova</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute of Sociology of the Czech Academy of Sciences, Prague, Czech Republic</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Sanne</firstName>
+				<middleName/>
+				<lastName>Lund Clement</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Political Science, Aalborg University, Denmark</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Johannes</firstName>
+				<middleName/>
+				<lastName>Andersen</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Political Science, Aalborg University, Denmark</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Ditte</firstName>
+				<middleName/>
+				<lastName>Shamshiri-Petersen</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Political Science, Aalborg University, Denmark</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jørgen G.</firstName>
+				<middleName/>
+				<lastName>Andersen</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Political Science, Aalborg University, Denmark</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Morten</firstName>
+				<middleName/>
+				<lastName>Frederiksen</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Political Science, Aalborg University, Denmark</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Majbritt C.</firstName>
+				<middleName/>
+				<lastName>Severin</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Political Science, Aalborg University, Denmark</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Steffen</firstName>
+				<middleName/>
+				<lastName>Holt</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Political Science, Aalborg University, Denmark</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Alex S.</firstName>
+				<middleName/>
+				<lastName>Nielsen</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Political Science, Aalborg University, Denmark</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Nicolaj</firstName>
+				<middleName/>
+				<lastName>Borregaard</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Political Science, Aalborg University, Denmark</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Harri</firstName>
+				<middleName/>
+				<lastName>Melin</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>University of Tampere, Finland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Sami</firstName>
+				<middleName/>
+				<lastName>Borg</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>University of Tampere, Finland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Frédéric</firstName>
+				<middleName/>
+				<lastName>Gonthier</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>PACTE, Institut d´Etudes Politiques de Grenoble, Grenoble, France</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Michel</firstName>
+				<middleName/>
+				<lastName>Forsé</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Centre Maurice Halbwachs, Paris, France</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Christof</firstName>
+				<middleName/>
+				<lastName>Wolf</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>GESIS Leibniz-Institut für Sozialwissenschaften, Germany</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Liz</firstName>
+				<middleName/>
+				<lastName>Clery</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>National Centre for Social Research (NatCen), London, Great Britain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Miranda</firstName>
+				<middleName/>
+				<lastName>Phillips</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>National Centre for Social Research (NatCen), London, Great Britain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hiroko</firstName>
+				<middleName/>
+				<lastName>Murata</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>NHK Broadcasting Culture Research Institute, Tokyo, Japan</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Kayo</firstName>
+				<middleName/>
+				<lastName>Yamamoto</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>NHK Broadcasting Culture Research Institute, Tokyo, Japan</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jibum</firstName>
+				<middleName/>
+				<lastName>Kim</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Sociology, Sungkyunkwan University, Seoul, Korea</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Mareks</firstName>
+				<middleName/>
+				<lastName>Niklass</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Advanced Social and Political Research Institute (ASPRI), University of Latvia, Riga, Latvia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Barry</firstName>
+				<middleName/>
+				<lastName>Milne</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Centre of Methods and Policy Application in the Social Sciences (COMPASS), University of Auckland, New Zealand</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Louise</firstName>
+				<middleName/>
+				<lastName>Humpage</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Sociology, University of Auckland, New Zealand</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Lara</firstName>
+				<middleName/>
+				<lastName>Greaves</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Auckland University of Technology, Auckland, New Zealand</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Kirstine</firstName>
+				<middleName/>
+				<lastName>Kolsrud</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Norwegian Social Science Data Services (NSD), Bergen, Norway</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Miloslav</firstName>
+				<middleName/>
+				<lastName>Bahna</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute for Sociology, Slovak Academy of Sciences, Bratislava, Slovakia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Mitja</firstName>
+				<middleName/>
+				<lastName>Hafner-Fink</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Public Opinion and Mass Communication Research Centre (CJMMK), University of Ljubljana, Slovenia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Brina</firstName>
+				<middleName/>
+				<lastName>Malnar</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Public Opinion and Mass Communication Research Centre (CJMMK), University of Ljubljana, Slovenia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jare</firstName>
+				<middleName/>
+				<lastName>Struwig</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Human Sciences Research Council, Pretoria, South Africa</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Arvid</firstName>
+				<middleName/>
+				<lastName>Lindh</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Swedish Institute for Social Research, Stockholm University, Sweden</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>FORS, c/o University of Lausanne, Lausanne, Switzerland</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Yang-chih</firstName>
+				<middleName/>
+				<lastName>Fu</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute of Sociology, Academia Sinica, Taipei City, Taiwan</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Michael</firstName>
+				<middleName/>
+				<lastName>Davern</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>National Opinion Research Center (NORC) at the University of Chicago, Chicago, USA</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jeremy</firstName>
+				<middleName/>
+				<lastName>Freese</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Stanford University, Stanford, USA</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Michael</firstName>
+				<middleName/>
+				<lastName>Hout</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>New York University, New York, USA</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Roberto</firstName>
+				<middleName/>
+				<lastName>Briceño-León</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Laboratorio de Ciencias Sociales (LACSO), Caracas, Venezuela</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ZA-Study-Nr. 6900 Role of Government V (2016):Deakin Computer Assisted Research Facility, Australia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ICCOM, Santiago, Chile</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Institute for Social Research, Zagreb, Croatia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SC&amp;C, Institute of Market Investigation, Prague, Czech Republic</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SFI Survey, Copenhagen, Denmark</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Statistics Finland, Helsinki, Finland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>FRANCE-ISSP Association Laboratoire de Sociologie Quantitative,Malakoff, France</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest, München, Germany</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>National Centre for Social Research, Great Britain</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TARKI Social Research Centre, Hungary</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>B.I. and Lucille Cohen Institute for Public Opinion Research, Israel</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Central Research Services, Tokyo, Japan</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Survey Research Center, Sungkyunkwan University, Seoul, South-KoreaInstitute of Philosophy and Sociology, University of Latvia, Riga, Latvia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Massey University, Department of Marketing, New Zealand</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Gallup, Oslo, Norway</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Social Weather Stations, Quezon City, Philippines</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Levada-Center, Moscow, Russia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Public Opinion and Mass Communication Research Centre, Ljubljana, Slovenia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>FOCUS, Bratislava, Slovakia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Human Sciences Research Council, South-Africa</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Análisis Sociológicos Económicos y Políticos (ASEP), Madrid, Spain</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SIFO Research &amp; Consulting, Stockholm, Sweden</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MIS Trend, Institut pour l`étude des marchés et les sondages d`opinion, Lausanne, Switzerland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Center of Survey Research, Academia Sinica, Taiwan</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>National Opinion Research Center NORC, University of Chicago, USA</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>LACSO (Laboratorio de Ciencias Sociales), Caracas, Venezuela</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ZA-Study-Nr. 4700 Role of Government IV (2006):Deakin Computer Assisted Research Facility, Australia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Carleton University Survey Centre, Ottawa, Canada</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SC&amp;C, Institute of Market Investigation, Prague, Czech Republic</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>FRANCE-ISSP Association Laboratoire de Sociologie Quantitative,Malakoff, France</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest, München, Germany</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>National Centre for Social Research, Great Britain</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TARKI Social Research Centre, Hungary</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Economic and Social Research Institute, Dublin, Ireland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>B.I. and Lucille Cohen Institute for Public Opinion Research, Israel</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Central Research Services, Tokyo, Japan</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Institute of Philosophy and Sociology, University of Latvia, Riga, Latvia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Massey University, Department of Marketing, New Zealand</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Gallup, Oslo, Norway</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Social Weather Stations, Quezon City, Philippines</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Public Opinion Research Center (CBOS), Poland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Levada-Center, Moscow, Russia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Public Opinion and Mass Communication Research Centre, Ljubljana,Slovenia,Análisis Sociológicos Económicos y Políticos (ASEP), Madrid, Spain</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SIFO Research &amp; Consulting, Stockholm, Sweden</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MIS Trend, Institut pour l`étude des marchés et les sondages d`opinion, Lausanne, Switzerland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>National Opinion Research Center NORC, University of Chicago, USA</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ICCOM, Santiago, Chile</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SFI Survey, Copenhagen, Denmark</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Statistics Finland, Helsinki, Finland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Institute for Social Research, Zagreb, Croatia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Survey Research Center, Sungkyunkwan University, Seoul, South-Korea</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>FOCUS, Bratislava, Slovakia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Center of Survey Research, Academia Sinica, Taiwan</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>LACSO (Laboratorio de Ciencias Sociales), Caracas, Venezuela</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Human Sciences Research Council, South-Africa</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ZA-Study-Nr. 2900 Role of Government III (1996):Australia: unknown</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>School of Journalism and Communication, Carleton University,Ottawa, Canada</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>STEM - Center for Empirical Studies, Prague, Czech Republic</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Infratest Burke Sozialforschung, Muenchen, Germany</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TARKI, Social Research Information Center, Hungary</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ESRI - The Economic and Social Research Institute, Dublin, Ireland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Dept. of Sociology and Anthropology, Tel Aviv University, Israel</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>EURISKO, Milano, Italy</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>NHK, Tokio, Japan</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Latvia: Latvia Social research Centre</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Massey University, Department of Marketing, New Zealand</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Social Weather Stations, Quezon City, Philippines</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ISS, Warsaw, Poland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>VCIOM, Moscow, Russia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Public Opinion and Mass Communication Research Centre, Ljubljana, Slovenia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Centro de Investigaciones Sociologicas, Spain</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Statistics Sweden, Sweden</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>LINK Institute, Luzern, Switzerland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>National Opinion Research Center, University of Chicago, NORC, USA.ZA-Study-Nr. 1950 Role of Government II (1990):NSSS, Research School of Social Sciences, Institute of Advanced Studies, Australian National University, in conjunction with Datacol</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INFAS</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Social and Community Planning Research, Great Britain</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TARKI, Budapest</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Israel: unknown</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>EURISCO, Mailand</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Norwegian Social Science Data Services, Norwegen</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>National Opinion Research Center (NORC), University of Chicago.ZA-Study-Nr. 1490 Role of Government I (1985)Department of Sociology, Research School of Social Sciences,Australian National University, Canberra</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ZUMA, Mannheim</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Eurisko, Ricerca Sociale e di Marketing, Milan</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Social and Community Planning Research, London</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>National Opinion Research Center (NORC), University of Chicago, USA.</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Postalische, schriftliche, mündliche (face-to-face und CAPI) oder
+telefonische Befragung mit standardisiertem Fragebogen</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Face-to-face interview, mail survey, telephone interview, self-completion questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>136584</numberUnits>
+			<numberVariables>148</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Anzahl der Fälle für die einzelnen Länder ist wie folgt verteilt:
+
+Anzahl der Befragten für jedes Land
+
+ZA-Studien-Nr. 6900 Rolle des Staates V (2016):
+Schweiz: 1066;
+Chile: 1416;
+Tschechische Republik: 1400;
+Deutschland: 1689;
+Dänemark: 1138;
+Spanien: 1834;
+Finnland: 1186;
+Frankreich: 1501;
+Großbritannien: 1563;
+Kroatien: 1026;
+Ungarn: 1000;
+Israel: 1248;
+Japan: 1611;
+Korea: 1051;
+Lettland: 1002;
+Norwegen: 1260;
+Neuseeland: 1350;
+Philippinen: 1200;
+Schweden: 1140;
+Slowakei: 1150;
+Slowenien: 1024;
+Thailand: 1475;
+Taiwan: 1966;
+Vereinigte Staaten: 1390;
+Venezuela: 1045;
+Australien: 1267;
+Russland: 1576;
+Südafrika: 3063
+
+ZA-Studien-Nr. 4700 Rolle des Staates IV (2006):
+Australien: 2781 Fälle
+Kanada: 933 Fälle
+Tschechische Republik: 1201 Fälle
+Frankreich: 1824 Fälle
+Deutschland: 1643 Fälle
+Großbritannien: 930 Fälle
+Ungarn: 1010 Fälle
+Irland: 1001 Fälle
+Israel: 1345 Fälle
+Japan: 1231 Fälle
+Lettland: 1069 Fälle
+Neuseeland: 1263 Fälle
+Norwegen: 1330 Fälle
+Philippinen: 1200 Fälle
+Polen: 1293 Fälle
+Russland: 2407 Fälle
+Slowenien: 1003 Fälle
+Spanien: 2517 Fälle
+Schweden: 1194 Fälle
+Schweiz: 1103 Fälle
+Vereinigte Staaten: 1518 Fälle
+
+ZA-Studien-Nr. 2900 Rolle des Staates III (1996):
+Australien: 2151 Fälle
+Kanada: 1182 Fälle
+Tschechische Republik: 1100 Fälle
+Deutschland (West): 2361 Fälle
+Deutschland (Ost): 1109 Fälle
+Frankreich: 1312 Fälle
+Großbritannien: 989 Fälle
+Ungarn: 1500 Fälle
+Irland: 994 Fälle
+Israel (jüdisch): 1043 Fälle
+Israel (arabisch): 500 Fälle
+Italien: 1104 Fälle
+Japan: 1249 Fälle
+Lettland: 1505 Fälle
+Neuseeland: 1198 Fälle
+Norwegen: 1344 Fälle
+Philippinen: 1200 Fälle
+Polen: 1183 Fälle
+Russland: 1691 Fälle
+Slowenien: 1004 Fälle
+Spanien: 2494 Fälle
+Schweden: 1238 Fälle
+Schweiz: 2518 Fälle
+USA: 1332 Fälle
+
+ZA-Studien-Nr. 1950 Die Rolle des Staates II (1990)
+Australien: schriftliche Befragung, 2398 Fälle, einfache Zufallsauswahl.
+Deutschland (West): schriftliche Befragung als drop off, 2812 Fälle, mehrstufige geschichtete Zufallsstichprobe von Personen in Privathaushalten ab 18 Jahren.
+Deutschland (Ost): schriftliche Befragung als drop off, 1028 Fälle, mehrstufige geschichtete Zufallsstichprobe.
+Großbritannien: mündliche und schriftliche Befragung, 1197 Fälle, mehrstufige geschichtete Zufallsstichprobe aus dem Wahlregister von Personen ab 18 Jahren.
+Ungarn: mündliche Befragung, 977 Fälle, mehrstufige Zufallsstichprobe von Personen über 18 Jahren.
+Irland: 1005 Fälle.
+Israel: mündliche Befragung, 991 Fälle.
+Italien: schriftliche Befragung als Drop-Off, 983 Fälle, Zufallsauswahl (Random-Route) von Personen im Alter zwischen 14 und 74 Jahren.
+Norwegen: schriftliche Befragung, 1517 Fälle, einfache Zufallsauswahl aus dem Zentralregister von Personen im Alter von 16 bis 79 Jahren.
+USA: mündliche und schriftliche Befragung, 1217 Fälle, dreistufige Zufallsauswahl (NORC Master
+Stichprobe).
+
+ZA-Studien-Nr. 1490 Rolle der Regierung I (1985)
+Australien: mündliche Befragung der Stadtbevölkerung und Befragung der Landbevölkerung hauptsächlich per Post, 1528 Befragte.
+Die schriftlichen Befragungen fanden im Rahmen einer mündlichen Befragung statt.
+Deutschland, West (BRD): Befragung per Post, 1048 Befragte.
+Großbritannien: schriftliche Befragung, 1530 Befragte.
+USA: schriftliche Befragung, 677 Befragte.
+Italien: mündliche Befragung, 1580 Befragte.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The number of cases for the individual countries are distributed as follows: 
+
+Number of respondents for each country
+
+ZA-Study-Nr. 6900 Role of Government V (2016):
+Switzerland: 1066;
+Chile: 1416;
+Czech Republic: 1400;
+Germany: 1689;
+Denmark: 1138;
+Spain: 1834;
+Finland: 1186;
+France: 1501;
+Great Britain: 1563;
+Croatia: 1026;
+Hungary: 1000;
+Israel: 1248;
+Japan: 1611;
+Korea: 1051;
+Latvia: 1002;
+Norway: 1260;
+New Zealand: 1350;
+Philippines: 1200;
+Sweden: 1140;
+Slovakia: 1150;
+Slovenia: 1024;
+Thailand: 1475;
+Taiwan: 1966;
+United States: 1390;
+Venezuela: 1045;
+Australia: 1267;
+Russia: 1576;
+South Africa: 3063
+
+ZA-Study-Nr. 4700 Role of Government IV (2006):
+Australia: 2781 cases
+Canada: 933 cases
+Czech Republic: 1201 cases
+France: 1824 cases
+Germany: 1643 cases
+Great-Britain: 930 cases
+Hungary: 1010 cases
+Ireland: 1001 cases
+Israel: 1345 cases
+Japan: 1231 cases
+Latvia: 1069 cases
+New Zealand: 1263 cases
+Norway: 1330 cases
+Philippines: 1200 cases
+Poland: 1293 cases
+Russia: 2407 cases
+Slovenia: 1003 cases
+Spain: 2517 cases
+Sweden: 1194 cases
+Switzerland: 1103 cases
+United States: 1518 cases
+
+ZA-Study-Nr. 2900 Role of Government III (1996):
+Australia: 2151 cases 
+Canada: 1182 cases 
+Czech Republic: 1100 cases 
+Germany (West): 2361 cases 
+Germany (East): 1109 cases 
+France: 1312 cases 
+Great Britain: 989 cases 
+Hungary: 1500 cases 
+Ireland: 994 cases 
+Israel (Jewish): 1043 cases 
+Israel (Arabian): 500 cases 
+Italy: 1104 cases 
+Japan: 1249 cases 
+Latvia: 1505 cases 
+New Zealand: 1198 cases 
+Norway: 1344 cases 
+Philippines: 1200 cases 
+Poland: 1183 cases 
+Russia: 1691 cases 
+Slovenia: 1004 cases 
+Spain: 2494 cases 
+Sweden: 1238 cases 
+Switzerland: 2518 cases
+USA: 1332 cases 
+
+ZA-Study-Nr. 1950 Role of Government II (1990)
+Australia: mail survey, 2398 cases, simple random selection.
+Germany (west): written survey as drop off, 2812 cases, multi-stage stratified random sample of persons in private households 18 years old and older.
+Germany (east): written survey as drop off 1028 cases, multi-stage stratified random sample.
+Great Britain: oral and written survey, 1197 cases, multi-stage stratified random sample from the election register of persons 18 years old and older.
+Hungary: oral survey, 977 cases, multi-stage random sample of persons over 18 years.
+Ireland: 1005 cases.
+Israel: oral survey, 991 cases.
+Italy: written survey as drop off, 983 cases, random selection (Random-Route) of persons between the ages of 14 and 74 years.
+Norway: mail survey, 1517 cases, simple random selection from the central register of persons between the ages of 16 to 79 years.
+USA: oral and written survey, 1217 cases, three-stage random selection (NORC master
+sampling). 
+
+ZA-Study-Nr. 1490 Role of Government I (1985)
+Australia: oral interview of the city population and interview of the rural population primarily by mail, 1528 respondents.
+The written surveys took place within the context of an oral survey. 
+Germany, West (FRG): interview by mail, 1048 respondents.
+Great Britain: written interview, 1530 respondents.
+USA: written interview, 677 respondents.
+Italy: oral interview, 1580 respondents.
+</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.14108</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.4747</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Scholz, Evi; Faaß, Timo: 
+ISSP 2006 Germany: Role of Government IV.
+ZUMA Report on the German Study.
+Mannheim: ZUMA Oktober 2007.
+(ZUMA-Methodenbericht 2007/10)</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Wasmer, M.; Koch, A.; Harkness, J.; Gabler, S.: 
+Konzeption und Durchführung der ´Allgemeinen Bevölkerungsumfrage der Sozialwissenschaften´ (ALLBUS) 1996. 
+Mannheim: ZUMA 1996. 
+(ZUMA-Arbeitsbericht 96/08)</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Becker, J.W.; Davis, James A.; Ester, Peter; Mohler, Peter P. (eds.):
+Attitudes to Inequality and the Role of Government.
+Rijswijk: Sociaal en Cultureel Planbureau, 1990.
+(International Social Survey Programme) </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Bechert, Insa; Quandt, Markus:
+ISSP Daten Report: Attitudes towards the Role of Government. 
+Bonn: GESIS 2010.
+(GESIS-Schriftenreihe Band 6)</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Rohrbach-Schmidt, Daniela:
+Leistung und Zuschreibung in der Wissensgesellschaft.
+In: Beckers, Tilo; Birkelbach, Klaus; Hagenah, Jörg; Rosar, Ulrich (Hrsg.):
+Komparative empirische Sozialforschung.
+Wiesbaden: VS Verlag für Sozialwissenschaften 2010, S. 285-305 </freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

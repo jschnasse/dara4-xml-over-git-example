@@ -1,0 +1,450 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'The ENTRA Survey: Recent Immigration Processes and Early Integration Trajectories in Germany'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'The ENTRA Survey: Recent Immigration Processes and Early Integration Trajectories in Germany'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7773</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>The ENTRA Survey: Recent Immigration Processes and Early Integration Trajectories in Germany</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>The ENTRA Survey: Recent Immigration Processes and Early Integration Trajectories in Germany</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Claudia</firstName>
+				<middleName/>
+				<lastName>Diehl</lastName>
+				<affiliation>
+					<affiliationName>Universität Konstanz</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Matthias</firstName>
+				<middleName/>
+				<lastName>Koenig</lastName>
+				<affiliation>
+					<affiliationName>Universität Göttingen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Cornelia</firstName>
+				<middleName/>
+				<lastName>Kristen</lastName>
+				<affiliation>
+					<affiliationName>Universität Bamberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7773?doi=10.4232/1.14014</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.14014</doiProposal>
+	<publicationDate>
+		<date>2024-01-01</date>
+	</publicationDate>
+	<publicationPlace>Cologne, Germany</publicationPlace>
+	<publisher>
+		<institution>
+			<institutionName>GESIS</institutionName>
+		</institution>
+	</publisher>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7773</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT37</identifier>
+					<!-- Arbeit und Betrieb -->
+					<identifier>KAT38</identifier>
+					<!-- Beruf -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+					<identifier>KAT55</identifier>
+					<!-- Erziehung, Schulwesen -->
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+					<identifier>KAT59</identifier>
+					<!-- Medizin -->
+					<identifier>KAT62</identifier>
+					<!-- Kommunikation, öffentliche Meinung, Medien -->
+					<identifier>KAT54</identifier>
+					<!-- Person, Persönlichkeit, Rolle -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>BILDUNG</term>
+					<term>Vorschulerziehung und Bildung in der Pflichtschulzeit</term>
+					<term>Berufsausbildung</term>
+					<term>GESUNDHEIT</term>
+					<term>Allgemeine Gesundheit und Wohlbefinden</term>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Arbeitsbedingungen</term>
+					<term>Sprache und Sprachwissenschaft</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Familie und Ehe</term>
+					<term>Minderheiten</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Religion und Werte</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>EDUCATION</term>
+					<term>Compulsory and pre-school education</term>
+					<term>Vocational education and training</term>
+					<term>HEALTH</term>
+					<term>General health and well-being</term>
+					<term>Employment</term>
+					<term>Working conditions</term>
+					<term>Language and linguistics</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Family life and marriage</term>
+					<term>Minorities</term>
+					<term>Cultural and national identity</term>
+					<term>Religion and values</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Social conditions and indicators</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Hauptziel des ENTRA (Recent Immigration Processes and Early Integration Trajectories in Germany) Surveys war die Erhebung von Daten über Neuzuwanderer in Deutschland, die die Zuwanderungs- und Ansiedlungsdynamik sowie die Integrationsverläufe erfassen. Die Studie besteht aus einer zweiwelligen Panelbefragung von vier verschiedenen Zuwanderergruppen: Italiener, Polen, Syrer und Türken. In der ersten Welle wurden die Neuzuwanderer in den ersten Jahren ihres Aufenthalts in Deutschland befragt. Etwa eineinhalb Jahre später wurden sie ein zweites Mal befragt, um ihren frühen Integrationsverlauf zu verfolgen. Im Befragungszeitraum vom 10.05.2019 bis 31.10.2019 (Welle 1) und 20.11.2020 bis 21.04. 2021 (Welle 2) wurden Zuwanderer aus Italien, Polen, Syrien und der Türkei im Alter zwischen 18 und 40 Jahren in Online-Interviews (CAWI), Telefoninterviews (CATI) und persönlichen Interviews (CAPI) zu verschiedenen Aspekten der Integration von Zuwanderern befragt, darunter Sprachkenntnisse und -gebrauch, ethnische und nationale Identitäten, ethnische Grenzen, politische Partizipation, religiöse Zugehörigkeit und Praktiken, soziale Kontakte und Netzwerke, Bildungsstand, Arbeitsmarktbeteiligung und Gesundheit. Die Auswahl der Befragten erfolgte durch ein zweistufiges Stichprobenverfahren. In einem ersten Schritt wurden für jede Gruppe die fünf Städte mit den größten Zuwanderungsströmen auf der Grundlage von Daten der Wanderungsstatistik und des Ausländerzentralregisters (AZR) ausgewählt. Im zweiten Schritt wurde, wiederum getrennt für jede Zuwanderergruppe, eine Zufallsstichprobe von Zielpersonen aus den Einwohnermelderegistern der Städte gezogen. Die Panelstudie wurde als multimodale Erhebung konzipiert, die in der Landessprache der jeweiligen Zuwanderergruppe durchgeführt wurde. Insgesamt nahmen 4.448 Zuwanderer und Flüchtlinge an der ersten Erhebungswelle teil, und für 3.366 Fälle liegen Längsschnittdaten aus beiden Panelwellen vor. Die zusätzliche COVID-19-Erhebung wurde im Mai/Juni 2020 durchgeführt. Nur eine kleine Auswahl von Fragen aus der Haupterhebung wurde in den Fragebogen aufgenommen, während mehrere Fragen zur COVID-19-Situation hinzugefügt wurden. Im Gegensatz zur ersten und zweiten Welle wurde die COVID-19-Erhebung nur als Online-Umfrage durchgeführt.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>I. Wellen 1 und 2:
+A. Demographie: Migrationsbiografie: Datum des Verlassens des Landes; Datum der Ankunft in Deutschland (Jahr, Monat, Tag); lebte in einem Flüchtlingslager; Bekanntheit mit anderen Menschen in Deutschland vor dem Umzug (aus dem eigenen Land, aus Deutschland oder aus anderen Ländern, kannte Niemanden in Deutschland); verbrachte vorher Zeit in Deutschland; war zum ersten Mal in Deutschland (Monat und Jahr); Anzahl der Reisen nach Deutschland vor dem Umzug; verbrachte vorher Zeit in Deutschland (in Jahren und Monaten); besuchte das Land seit dem Umzug/ Welle 1; Anzahl der Reisen in das Land seit dem Umzug/ Welle 1.
+Migrationsmotive: Gründe für den Umzug nach Deutschland; Familienmitglieder, zu denen der Befragte gezogen ist.
+Derzeitige Situation: Erwartete zukünftige Migration; Bleibeabsicht in Deutschland (in Jahren).
+Rechtliche Situation: Aufenthaltsstatus (befristet, unbefristet oder keine Aufenthaltserlaubnis); Art der befristeten Aufenthaltserlaubnis; Aufenthaltserlaubnis bis Jahr und Monat; Arbeitserlaubnis; Asylantrag in Deutschland; Nachzug zu einem Familienmitglied, dessen Asylantrag in Deutschland anerkannt wurde.
+Beziehung: Familienstand; Partnerschaft; gleicher Partner wie bei der letzten Erhebung; Angaben zum Partner: Alter, Herkunftsland; Wohnort; Jahr und Monat der Ankunft in Deutschland; voraussichtlicher Umzug des Partners nach Deutschland in den nächsten zwölf Monaten.
+Kinder: Anzahl der Kinder; Alter der Kinder; Wohnort der Kinder; voraussichtlicher Zuzug der Kinder nach Deutschland in den nächsten zwölf Monaten; im Haushalt lebende Kinder bis sechs Jahre; Inanspruchnahme öffentlicher Kinderbetreuung (Krippe, Kindergarten, nichts davon).
+Eltern: Geburtsort von Mutter und Vater; Wohnort; voraussichtlicher Zuzug von Mutter und Vater nach Deutschland in den nächsten zwölf Monaten.
+Personen im Haushalt: Haushaltsgröße; Anzahl der Haushaltsmitglieder, die mit dem Befragten durch Geburt, Heirat, Partnerschaft oder Adoption verwandt sind; Anzahl der Zimmer im Haushalt.
+Verwandte aus dem Herkunftsland: Erwartung, dass Verwandte in den nächsten zwölf Monaten nach Deutschland ziehen; Anzahl der Verwandten, die voraussichtlich in den nächsten zwölf Monaten nach Deutschland ziehen; Verwandte, die seit der letzten Erhebung nach Deutschland gezogen sind; Anzahl der Kinder, die seit der letzten Erhebung nach Deutschland gezogen sind; Anzahl der Verwandten, die seit der letzten Erhebung nach Deutschland gezogen sind; Erwartung, dass eigene Kinder, Mutter, Vater oder andere Verwandte in den nächsten zwölf Monaten nach Deutschland ziehen; Anzahl der Kinder, die voraussichtlich in den nächsten zwölf Monaten nach Deutschland ziehen; Schulkinder; Pläne zur Beantragung der deutschen Staatsangehörigkeit.
+B. Sprache:Sprechen und Verstehen: Kenntnisse der Landessprache (Lesen und Schreiben); Deutschkenntnisse vor dem Umzug; Deutschkenntnisse derzeit (Verstehen, Sprechen, Lesen, Schreiben); Deutschkenntnisse im Alltag (Lesen und Verstehen der Hauptpunkte in einfachen Zeitungsartikeln zu vertrauten Themen, Sprechen über vertraute Themen und Äußern der eigenen Meinung in einem Gespräch); vor dem Umzug nach Deutschland Deutsch in der Schule gelernt; Jahre des Deutschlernens vor dem Umzug; aktive Bemühungen, die deutschen Sprachkenntnisse vor dem Umzug zu verbessern; Art der Investitionen in die deutsche Sprache vor dem Umzug (Sprachkurse, Selbststudium, andere); aktive Bemühungen, die deutschen Sprachkenntnisse seit dem Umzug/ Welle 1 zu verbessern; Investitionen in die deutsche Sprache seit dem Umzug/ Welle 1 (Integrationskurs, Sprachkurse, Selbststudium, andere); Teilnahme an einem Deutschkurs oder Integrationskurs; höchstes erhaltenes Deutschzertifikat; erhaltenes Sprachzertifikat für Sprache seit dem Umzug/ Welle 1;
+Sprachgebrauch: Häufigkeit des Gebrauchs der deutschen Sprache mit dem Partner, den Kindern, Freunden und mit anderen; Häufigkeit des Gebrauchs der deutschen Sprache beim Medienkonsum.
+Englischkenntnisse: zumindest einigermaßen Englisch sprechen; englische Sprachkenntnisse.
+C: Identität und Ausgrenzung: Zugehörigkeit und Erfahrungen:Identifikation und Zugehörigkeit: Zugehörigkeit zu einer Gruppe; Verbundenheit mit dieser Gruppe, zu Menschen aus dem eigenen Herkunftsland, zu Mitgliedern der eigenen ethnischen Gruppe, zu Bewohnern der Stadt, zu Deutschen, zu Europäern, zu einer religiösen Gruppe.
+Gefühle der Akzeptanz und wahrgenommene Diskriminierung: Zustimmung zu den folgenden Aussagen: Deutschland ist im Allgemeinen ein gastfreundliches Land für Menschen aus dem eigenen Herkunftsland, Menschen aus dem eigenen Herkunftsland können in Deutschland im Allgemeinen weiterkommen, wenn sie hart arbeiten; Erwartung, eines Tages wirklich deutsch zu werden; Wichtigkeit, wirklich deutsch zu werden; Bewertung der ungerechten Behandlung von Menschen aus dem eigenen Herkunftsland in Deutschland; ungerechte Behandlung in Deutschland seit dem Umzug/ Welle 1; Gründe für die ungerechte Behandlung (in einem anderen Land geboren, starker Akzent, andere Religion, arbeitslos, andere Kulturen und Traditionen, ausländische Staatsangehörigkeit).
+Zufriedenheit mit der Migrationsentscheidung und der aktuellen Situation:Verbundenheit mit Deutschland; Häufigkeit des Gefühls, in Deutschland ein Außenseiter zu sein; Bewertung der aktuellen Lebenssituation im Vergleich zur Lebenssituation vor der Ausreise und im Vergleich zur ersten Befragung; Lebenszufriedenheit in Deutschland; wie schwierig/leicht ist es, in Deutschland einen Arzt aufzusuchen, in Deutschland einen Job zu finden.
+Wahrgenommene Kompatibilität der Kulturen und Einstellung zur Akkulturation:Kontaktpräferenzen für soziale Aktivitäten; die Werte der Deutschen und der Landbevölkerung sind unvereinbar/ völlig unterschiedlich; sowohl der Mann als auch die Frau sollten zum Haushaltseinkommen beitragen; Männer sollten genauso viel Verantwortung für Haus und Kinder übernehmen wie Frauen; im Großen und Ganzen geben Männer bessere politische Führer ab als Frauen; wenn Arbeitsplätze knapp sind, sollten Männer ein größeres Recht auf einen Arbeitsplatz haben als Frauen; eine Universitätsausbildung ist für einen Jungen wichtiger als für ein Mädchen; Zustimmung, wenn eine Frau als Alleinerziehende ein Kind haben möchte, aber keine stabile Beziehung zu einem Mann hat; eine Frau muss Kinder haben, um erfüllt zu sein.
+Politik und Einstellung zur Demokratie:Verständnis wichtiger politischer Fragen, mit denen das Land konfrontiert ist; Interesse an der Politik des Landes; Zeitaufwand für Nachrichten über Politik und aktuelle Angelegenheiten im Land (Stunden und Minuten); Häufigkeit politischer Diskussionen über wichtige politische Fragen, mit denen das Land konfrontiert ist, in den letzten zwölf Monaten; Verständnis wichtiger politischer Fragen, mit denen Deutschland konfrontiert ist; politisches Interesse an der deutschen Politik; Zeitaufwand für Nachrichten über Politik und aktuelle Angelegenheiten in Deutschland (Stunden und Minuten); Häufigkeit politischer Diskussionen über wichtige politische Fragen, mit denen Deutschland konfrontiert ist, in den letzten zwölf Monaten; politische Partei, die nicht im deutschen Parlament vertreten ist; Alter, in dem Landsleute in Deutschland wählen dürfen (nur Syrer); bevorzugte politische Partei in Deutschland; Art der politischen Beteiligung in Deutschland seit der letzten Erhebung; Art der politischen Beteiligung im Land seit der letzten Erhebung.
+D: Religion und Glaube:Religiöse Zugehörigkeit: Religionszugehörigkeit; detaillierte Religionszugehörigkeit (Christen, Muslime, andere).
+Religiöse Praktiken vor der Migration: Häufigkeit des Besuchs von Gottesdiensten vor dem Umzug nach Deutschland; Häufigkeit des Betens außerhalb der Gemeinschaftsgebete vor der Migration; Häufigkeit des Fastens während des Ramadans, des Muharrem, der Fastenzeit vor der Migration; Häufigkeit des Tragens eines Kopftuchs vor der Migration.
+Religiöse Praktiken nach der Migration: Häufigkeit von Gottesdiensten; Anteil der Erwachsenen, die  am Ort der Gottesdienste die eigene Muttersprache sprechen; Religiosität; Häufigkeit von Gebeten außerhalb von Gemeinschaftsgebeten; Häufigkeit von Gebeten außerhalb von Gottesdiensten; Fasten während des letzten Ramadans, des letzten Muharrem, der letzten Fastenzeit; Häufigkeit des Tragens eines Kopftuchs außerhalb der Wohnung.
+E: Soziale Integration: Freunde und Kontakte:Soziale Integration: Bindung und Überbrückung ethnischer Bindungen: Zeit, die mit Landsleuten, mit Deutschen und mit anderen Menschen verbracht wird (Häufigkeit); Häufigkeit des Abendessens mit Deutschen, die nicht zur Familie gehören, in den letzten zwölf Monaten; Anzahl der Deutschen, die in den letzten vier Wochen per Telefon, Chat oder SMS kontaktiert wurden; Anzahl der Personen außerhalb Deutschlands, die per Telefon, Messenger-Chat oder SMS kontaktiert wurden; Wohnort dieser kontaktierten Personen außerhalb Deutschlands.
+Soziale Integration: Kernnetzwerk - Starke Bindungen:Anzahl der Personen, mit denen in Deutschland wichtige persönliche Angelegenheiten besprochen werden; Anzahl dieser Personen, die ursprünglich aus dem Herkunftsland stammen; Angaben zu bis zu drei Personen: Geburtsland; Herkunftsland der Familie; Land, in dem der Befragte die Person zum ersten Mal getroffen hat; Bildungsniveau; Haupttätigkeit; wie hat der Befragte diese Person kennengelernt; Beziehung zwischen den genannten Personen: Freunde; Häufigkeit des Kontakts mit diesen Personen; Person, die bei Herausforderungen im Alltag geholfen hat.
+F: Bildung: Lernen und Bildung:Bildungsjahre (insgesamt); Bildungsjahre im Herkunftsland; Bildungsjahre in Deutschland.
+Bildung im Herkunftsland: höchster Bildungsabschluss in Polen/Italien/Türkei/Syrien; Fortsetzung der Ausbildung im Herkunftsland nach Abschluss; Art der zuletzt besuchten Schule; höchster in Polen/Italien/Türkei/Syrien erworbener Abschluss (ISCED 2011); Ausbildung (ISCED 1997 und 2011; Art des zuletzt besuchten Studiengangs; Grund für das Verlassen der Schule ohne Abschluss; Monat und Jahr, in dem die befragte Person zuletzt eine Schule im Land besucht hat; Versuch, den Bildungsabschluss von einer offiziellen deutschen Einrichtung anerkennen zu lassen; Bildungsabschluss von einer offiziellen deutschen Einrichtung anerkannt.
+Ausbildung seit dem Verlassen des Landes: Derzeit in Ausbildung (keine Sprach- oder Integrationskurse); Art der Schule; Art des Studiengangs; Art der Berufsschule; geplanter Abschluss in Deutschland; höchster in Deutschland angestrebter Abschluss; geplante Berufsausbildung in Deutschland; in Deutschland abgeschlossener Bildungsabschluss; höchster in Deutschland abgeschlossener Bildungsabschluss; abgeschlossener Abschluss in einem anderen Land; höchster Bildungsabschluss in diesem anderen Land.
+Bildung des Partners: Jahre der Ausbildung; höchster Ausbildungsabschluss; Haupttätigkeit.
+G: Arbeitsmarkt: Arbeitsplätze und Haushalt:Erwerbssituation: Haupttätigkeit vor dem Umzug nach Deutschland; Angaben zum letzten Arbeitsplatz vor dem Umzug: Position des Arbeitsplatzes; Anzahl der Beschäftigten (Selbstständige); Berufsbezeichnung (KldB2010, ISCED-08, EGP, ISEI-08, SIOPS-08); Arbeitszeiten; Ende der Beschäftigung (Jahr und Monat).
+Letzter Arbeitsplatz vor dem Umzug: Position; unbefristeter oder befristeter Arbeitsvertrag; letzter Arbeitsplatz vor dem Umzug: öffentlicher Sektor.
+Derzeitige Erwerbssituation: derzeitige Erwerbstätigkeit; derzeitige Haupttätigkeit, falls nicht erwerbstätig; jemals in Deutschland vor dem Umzug nach Deutschland gearbeitet; Dauer der Erwerbstätigkeit in Deutschland vor dem Umzug nach Deutschland (Jahre und Monate).
+Derzeitige Erwerbstätigkeit in Deutschland: Stellung im Beruf; erste Erwerbstätigkeit seit dem Umzug; jemals in Deutschland seit dem Umzug/ Welle 1 gearbeitet; Ende (Jahr und Monat) der Erwerbstätigkeit in Welle 1 (falls nicht erwerbstätig seit Welle 1); letzte Erwerbstätigkeit seit Welle 1 wie in Welle 1; Arbeitsvertrag; Arbeitszeiten; Ende der Erwerbstätigkeit (Jahr und Monat).
+Derzeitige Beschäftigung Welle 2 wie in Welle 1; Arbeitsvertrag; Arbeitsstunden; Anzahl der Beschäftigungen seit Umzug/Welle 1; insgesamt geleistete Arbeitszeit seit Umzug/Welle 1 (Jahre und Monate); insgesamt geleistete Arbeitszeit in Deutschland (Jahre und Monate).
+Derzeitige Arbeitsstelle Welle 1/ Welle 2 ist eine neue Arbeitsstelle: Position der Arbeitsstelle; Arbeitsvertrag; Arbeit im öffentlichen Sektor; Position der Arbeitsstelle bei Selbstständigen; Anzahl der Beschäftigten; Berufsbezeichnung (KldB2010, ISCED-08, EGP, ISEI-08, SIOPS-08); Beginn der Arbeitsstelle (Jahr und Monat); wie hat die befragte Person die Arbeitsstelle gefunden; Arbeitszeiten;
+Informationen zur Beschäftigungssituation des Partners.
+Arbeitsmarkt: Geldüberweisungen: Haushaltsnettoeinkommen; Geldüberweisungen in das Herkunftsland seit dem Umzug/Welle 1; Geldüberweisungen für persönliche Ersparnisse, an die Familie, an Freunde; Geldüberweisungen von Verwandten oder Freunden, die im Herkunftsland leben, seit dem Umzug nach Deutschland/Welle 1.
+H: Gesundheit: Persönlichkeit und Wohlbefinden:Gesundheit: Resilienz: Ich neige dazu, nach schwierigen Zeiten schnell wieder auf die Beine zu kommen; ich brauche nicht lange, um mich von einem stressigen Ereignis zu erholen; ich setze mir oft ein Ziel, entscheide mich dann aber für ein anderes; ich habe Schwierigkeiten, mich auf Projekte zu konzentrieren, die mehr als ein paar Monate in Anspruch nehmen; ich war für kurze Zeit von einer bestimmten Idee oder einem bestimmten Projekt besessen, habe dann aber das Interesse daran verloren; ich bringe zu Ende, was immer ich anfange; ich bin fleißig; ich bin ein harter Arbeiter.
+Gesundheit: Selbst eingeschätzte Gesundheit; Einsamkeit und wahrgenommene soziale Isolation: Ich empfinde ein allgemeines Gefühl der Leere; es gibt viele Menschen, denen ich voll und ganz vertrauen kann; es gibt viele Menschen, auf die ich mich verlassen kann, wenn ich Probleme habe; es gibt genug Menschen, denen ich mich nahe fühle; ich vermisse es, Menschen um mich zu haben; ich fühle mich oft abgelehnt.
+Psychische Gesundheit: psychischer Zustand in den letzten zwölf Monaten: Häufigkeit des Gefühls, nervös, hoffnungslos, unruhig oder zappelig zu sein, deprimiert zu sein, dass alles eine Anstrengung ist, wertlos zu sein; Trauma: jemals Zeuge oder Befürchtung einer schweren Gewaltsituation (durch jemand anderen, durch mich selbst); ein Verwandter oder Freund ist gewaltsam gestorben.
+Gründe für die Abwanderung aus Deutschland; Gründe, warum andere die ausländischen Wurzeln erkennen; Hautfarbe; Verwandte, die seit der letzten Erhebung nach Deutschland gezogen sind; Religiosität; Religionszugehörigkeit; Religionszugehörigkeit im Einzelnen: Christen, Muslime, andere); Aufenthaltserlaubnis bis Monat und Jahr; Aufenthaltsstatus der Stichprobenpopulation; Aufenthaltsstatus; Aufenthaltsstatus (detailliert); gleicher Tag wie Ankunft, gleicher Partner wie letzte Erhebung.
+Selbst eingeschätzte Wahrscheinlichkeit von Problemen in den nächsten zwölf Monaten (Probleme der Kinder in der Schule, drastisch gesunkener Lebensstandard, Verlust der Wohnung, Verlust des Arbeitsplatzes, keine Unterstützung mehr für Verwandte/Freunde im Herkunftsland, Zahlungsschwierigkeiten).
+Demografie: Geschlecht; Alter; Geburtsland; Land, in dem der Befragte aufgewachsen ist; Staatsangehörigkeit; Muttersprache; Region und Provinz, in der der Befragte aufgewachsen ist (NUTS2-2016 Italien, NUTS3-2016 Italien, NUTS 2-2016 Polen, NUTS3-2016 Polen, Region Syrien (halb NUTS1, NUTS2-2016 Türkei, NUTS3-2016 Türkei); Herkunft des Partners.
+II. COVID-19-Umfrage
+A: Basis und Rückwanderung: Land des Wohnsitzes; Rückwanderung aufgrund der Coronavirus-Pandemie; Plan, nach Deutschland zurückzukehren, wenn es die Situation erlaubt; Kinder, die normalerweise zur Schule gehen.
+B: COVID-19:Härtefall: Wahrscheinlichkeit von: Arbeitsplatzverlust, Zahlungsschwierigkeiten, drastische Verringerung des Lebensstandards, Verlust der Wohnung, keine Möglichkeit mehr, Verwandte oder Freunde zu unterstützen, Kinder bekommen Probleme in der Schule; Erfahrungen wie Arbeitsplatzverlust oder Zahlungsschwierigkeiten stehen im Zusammenhang mit der Coronavirus-Pandemie.Belastung: Erfahrungen während der Coronavirus-Pandemie: Probleme, Informationen über die Coronavirus-Pandemie und Verhaltensrichtlinien zu finden/zu verstehen, COVID-19-Symptome, COVID-19-Symptome bei Familienmitgliedern oder Freunden, erhöhtes Infektionsrisiko, Probleme beim Zugang zu medizinischer Versorgung, Mediation oder sanitären Einrichtungen, nicht in der Lage zu sein, private Reisepläne zu verwirklichen, sich nicht in der Lage zu fühlen, das Haus zu verlassen, nicht in der Lage zu sein, kranke Familienmitglieder oder Freunde zu besuchen, Probleme mit der Kinderbetreuung oder dem Schulbesuch, Spannungen zu Hause oder familiäre Konflikte; Bewertung der Belastung.
+C: Soziale Integration:Soziale Integration: Bindung und Überbrückung ethnischer Bindungen: alltägliche Lebenserfahrungen im Rahmen der Maßnahmen zur Bekämpfung des Coronavirus: Häufigkeit des Aufenthalts mit Menschen aus dem Land, mit Deutschen und mit Menschen, die weder aus dem Land noch aus Deutschland stammen; Anzahl der Personen außerhalb Deutschlands, mit denen sich der Befragte unterhält; Wohnort der meisten dieser Personen.
+D: Sprache:Sprachgebrauch: Häufigkeit des Sprechens von Deutsch mit Freunden, mit anderen Menschen im Alltag; Häufigkeit des Medienkonsums in deutscher Sprache.Sprache: Deutschkenntnisse: Bewertung der gegenwärtigen Deutschkenntnisse (Verstehen, Sprechen, Lesen, Schreiben).
+E: Identität und Ausgrenzung:Identität: freiwillige Aktivitäten während der Coronavirus-Pandemie; erhaltene Hilfe von Freiwilligen.Identifikation und Zugehörigkeit: Verbundenheit mit den Einwohnern der Stadt, mit Deutschen, mit Landsleuten und mit Europäern.
+F: Religion:Religiöse Praktiken: Religiosität; Häufigkeit des Betens außerhalb von Gemeinschaftsgebeten und außerhalb von Gottesdiensten.
+G: Arbeitsmarkt:Veränderungen der Beschäftigungssituation aufgrund von COVID19: derzeitige Haupttätigkeit; Beschäftigungssituation hat sich aufgrund der Coronavirus-Pandemie verändert (habe meinen Job verloren, meinen Job gekündigt); konkrete Veränderungen der Beschäftigungssituation; Veränderung der Arbeitszeiten aufgrund der Coronavirus-Pandemie.
+H: Gesundheit und Persönlichkeit:Selbst eingeschätzte Gesundheit; Einsamkeit und wahrgenommene soziale Isolation: allgemeines Gefühl der Leere; viele Menschen, auf die ich mich verlassen kann, wenn ich Probleme habe; viele Menschen, denen ich voll und ganz vertrauen kann; genügend Menschen, denen ich mich nahe fühle; ich vermisse es, Menschen um mich zu haben; ich fühle mich oft zurückgewiesen.
+Psychische Gesundheit: psychischer Zustand im letzten Monat: Häufigkeit des Gefühls, nervös, hoffnungslos, unruhig oder zappelig zu sein, deprimiert zu sein, dass alles eine Anstrengung ist, wertlos zu sein.
+COVID-19 - Betroffene: jemals positiv auf das Coronavirus getestet; Haushalts- oder Familienmitglied jemals positiv auf das Coronavirus getestet; Haushalts- oder Familienmitglied mit positivem Test.
+Demographie: Geschlecht; Alter; Haushaltsgröße.
+Zusätzlich verkodet wurden: Befragten-ID; Interviewer-ID; Welle; Herkunftsland der Gruppe; Art der Befragung; Batch der Rekrutierung (Welle 1); Datum der Befragung; Datum und Uhrzeit der Befragung; Dauer der Befragung; andere Personen, die während der Befragung anwesend waren; Störungen durch andere Personen während der Befragung; Teilnahme an Welle 2; prozentualer Anteil der Balkanhaushalte, der osteuropäischen Haushalte, der Aussiedlerhaushalte, der deutschen Haushalte, der griechischen Haushalte, der hispanischen, portugiesischen/ lateinamerikanischen Haushalte, auf Gemeindeebene, Postleitzahlenebene und Postleitzahlenebene 8; prozentualer Anteil der Haushalte mit Hauptschulabschluss, mit Realschulabschluss, mit Abitur, mit Fachhochschulabschluss, ohne/mit sonstigem Schulabschluss, auf Gemeindeebene, Postleitzahlenebene und Postleitzahlenebene 8; Prozentsatz der italienischen Haushalte, der außereuropäischen islamischen Haushalte, der sonstigen länderspezifischen Haushalte, der süd-, ost- und südostasiatischen Haushalte, der afrikanischen Haushalte südlich der Sahara und der türkischen Haushalte auf Gemeindeebene, Postleitzahlenebene und Postleitzahlenebene 8; Prozentsatz der Arbeitslosen auf Gemeindeebene, Postleitzahlenebene und Postleitzahlenebene 8; Prozentsatz der Ausländer auf Gemeinde-, Postleitzahl-, PLZ8- und Straßensegment-Ebene; Verteilung des sozioökonomischen Status auf Gemeinde-, Postleitzahl-, PLZ8- und Straßensegment-Ebene; Familienstrukturen auf Straßensegment-Ebene (ordinal); Zeit bis zum Abschluss des Interviews; Aufenthaltsdauer (Monate); Aufenthaltsstatus der Stichprobenbevölkerung; Einwanderungsdatum: Monat und Jahr der Ausreise aus dem Land; Tag der Ankunft; Grundstück, Haus oder Wohnung im Herkunftsland; Eigentümer oder Investor eines Ladens oder Geschäfts im Land; Geldgeber für kollektive Projekte im Land; Kenntnis anderer Personen, die an der Umfrage teilgenommen haben; Anzahl der Haushaltsmitglieder, die ebenfalls an der Umfrage teilgenommen haben; Digit-Symbol-Test - richtige Items (Punktzahl); Digit-Symbol-Test - Anzahl der bearbeiteten Items.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The main objective of the ENTRA (Recent Immigration Processes and Early Integration Trajectories in Germany) Survey was to collect data on new immigrants in Germany that capture immigration and settlement dynamics as well as integration trajectories. The study consists of a two-wave panel survey of four different immigrant groups: Italians, Poles, Syrians, and Turks. In the first wave, new immigrants were interviewed in the first years of their stay in Germany. About a year and a half later, they were interviewed a second time to track their early integration progress. During the survey period from 10.05.2019 to 31.10.2019 (Wave 1)  und 20.11.2020 to 21.04.2021 (Wave 2), immigrants from Italy, Poland, Syria, and Turkey between the ages of 18 and 40 were surveyed in online interviews (CAWI), telephone interviews (CATI), and in-person interviews (CAPI) about various aspects of immigrant integration, including language skills and use, ethnic and national identities, ethnic boundaries, political participation, religious affiliation and practices, social contacts and networks, educational attainment, labor market participation, and health. Respondents were selected through a two-stage sampling procedure. In the first step, the five cities with the largest immigration flows were selected for each group based on data from migration statistics and the Central Register of Foreigners (AZR). In the second step, again separately for each immigrant group, a random sample of target individuals was drawn from the cities´ population registers. The panel study was designed as a multimodal survey conducted in the national language of each immigrant group. A total of 4,448 immigrants and refugees participated in the first wave of the survey, and longitudinal data from both panel waves are available for 3,366 cases. The additional COVID-19 survey was conducted in May/June 2020. Only a small sample of questions from the main survey was included in the questionnaire, while several questions about the COVID-19 situation were added. Unlike the first and second waves, the COVID-19 survey was conducted as an online survey only.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>I. Waves 1 and 2:
+A. Demography: Migration Biography: date of leaving the country; date of arrival in Germany (year, month, day); lived in a refugee camp; respondent knew people in Germany before moving (from own country, from Germany or from other countries, did not know people in Germany); spent time in Germany before; first time in Germany (month and year); number of trips to Germany before moving; time spent in Germany before (in years and months); visited the country since moving/ wave 1; number of trips to the country since moving/ wave 1. 
+Migration motives: reasons for moving to Germany; family members the respondent joined.
+Current Situation: future migration expectancies; intention to stay in Germany (in years). 
+Legal situation: residential status (temporary, permanent or no residence permit); kind of temporary residence permit; residence permit until year and month; work permit; applied for asylum in Germany; joined a family member whose asylum request has been accepted in Germany.
+Relationship: marital status; in relationship; same partner as last survey; information on partner: age, country of origin; place of residence; year and month of arrival Germany; expect partner to move to Germany in the next twelve months.
+Children: number of children; age of these children; place of residence of these children; expect children to move to Germany in the next twelve months; children six years or younger living in the household; use of public childcare (day nursery, Kindergarten, none of this).
+Parents: place of birth of mother and father; place of residence; expect mother and father to move to Germany in the next twelve months.
+People in household: size of household; number of household members related to the respondent by birth, marriage, partnership, or adoption; number of rooms in the household.
+Relatives from the country: expect relatives to move to Germany in the next twelve months; number of relatives expected to move to Germany in the next twelve months; relatives moved to Germany since last survey; number of children that moved to Germany since last survey; number of relatives that moved to Germany since last survey; expect relatives to move to Germany in the next twelve months; expect own children, mother, father or other relatives to move to Germany in the next 12 months; number of children expected to move to Germany in the next twelve months; number of relatives expected to move to Germany in the next twelve months; schoolkids; plans on German citizenship application.
+B. Language: Speaking and understanding: country language proficiency (reading and writing); German language proficiency before moving; German language proficiency at present (understanding, speaking, reading, writing); German skills in everyday life (reading and understanding the main points in simple newspaper articles on familiar topics, speaking about familiar topics and expressing personal opinions in a conversation); learned German in school before moving to Germany; years of learning German before moving; actively tried to improve German language skills before moving; kind of investment in German language before moving (language classes, self-study, other); actively tried to improve German language skills since moving/ wave 1;  investment in German language since moving/ wave 1 (integration course, language classes, self-study, other); participation in German language course or integration course; highest German language level certificate received; language certificate received for language since moving/ wave 1. 
+Language use: frequency of German language use with partner, children, friends and with others; frequency of German language use in media consumption.
+English skills: speaking English for at least some degree; English language proficiency.
+C: Identity and exclusion: belonging and experiences: Identification and belonging: belonging to group; closeness to this group, to country people to members of own ethnic group, to inhabitants of the resident city, to Germans, to Europeans, to a religious group.
+Feelings of acceptance and perceived discrimination: agreement with the following statements: in general, Germany is a welcoming country for country people, in general, country people can get ahead in Germany if they work hard;  expectation to become truly German one day; importance to become truly German; rating of unfair treatment of country people in Germany; treated unfairly in Germany since moving/ wave 1; reasons for unfair treatment (born in a different country, strong accent, different religion, jobless, different cultures and traditions, foreign citizenship.
+Satisfaction with migration decision and current situation:connection felt with Germany; frequency of feeling like an outsider in Germany; rating of the current living situation compared with the living situation before leaving the country and compared to first survey; life satisfaction in Germany; how difficult/ easy is it to see a doctor in Germany, to search for a job in Germany.
+Perceived compatibility of cultures and acculturation attitude:Contact preferences for social activities; the values of Germans and country people are irreconcilable/ totally different; both the husband and wife should contribute to the household income; men should take as much responsibility as women for the home and children; On the whole, men make better political leaders than women do; when jobs are scarce, men should have more right to a job than women; a university education is more important for a boy than for a girl; approvement if a woman wants to have a child as a single parent but no stable relationship with a man; a woman has to have children in order to be fulfilled. 
+Politics and attitudes about democracy: Understanding of important political issues facing the country; interest in country politics; time spent on news about politics and current affairs in country (hours and minutes); frequency of political discussions about major political issues facing the country in the last twelve months; understanding of important political issues facing Germany; political interest in German politics; time spent on news about politics and current affairs in Germany (hours and minutes); frequency of political discussions about major political issues facing Germany in the last twelve months; political party which isn’t in the German Parliament; age when country people can vote in Germany (Syrians only); preferred political party in Germany; kind of political participation in Germany since last survey; kind of political participation in the country since last survey. 
+D: Religion and faith:Religious belonging: Religious affiliation; religious affiliation in detail (Christians, Muslims, other). 
+Religious practices before migration: frequency of attending religious worship before moving to Germany; how often pray outside of communal prayers before migration; how often fast during Ramadan, Muharrem, Lenten season before migration; how often ware a headscarf before migration. 
+Religious practices after migration: frequency of religious worship; how many adults speak own native language in place of religious worship; religiosity; frequency of praying outside of communal prayers; frequency of praying outside of religious worship; fasted during last Ramadan, last Muharrem, last Lenten season; frequency of wearing a headscarf outside of home.
+E: Social integration: friends and contacts: Social integration: bonding and bridging ethnic ties: time spend with country people, with Germans and with other people (frequency); frequency of eating dinner with Germans who are not part of the family in the last twelve months; number of Germans contacted via phone, chat, or text in the last four weeks; number of people outside of Germany contacted via phone, messenger chat, or text; place of living of these contacted people outside of Germany.
+Social Integration: Core Network – Strong Ties:Number of people in Germany important personal matters are discussed with; number of these people who are originally from the country of origin; information on up to three persons: country of birth; country of origin of the family; country where the respondent first met the person; educational level; main activity; how did the respondent meet this person; relationship between the mentioned people: friends; frequency of contact with these persons; person helped with challenges in everyday life.
+F: Education: learning and education: Years of education (total); years of education in the country of origin; years of education in Germany. 
+Education in the country of origin: highest degree of education in Poland/ Italy/ Turkey/ Syria; continued education in the country of origin after completing this degree; type of school last attended; highest degree completed in Poland/ Italy/ Turkey/ Syria (ISCED 2011); education (ISCED 1997 und 2011; type of study program last attended; reason for leaving school without degree; month and year the respondent last attended school in the country; tried to get educational degree accepted by official German institution; educational degree accepted by official German institution.
+Education since leaving the country: currently in education (no language classes or integration classes); type of school; type of study program; type of vocational school; plan to complete a degree in Germany; highest degree aiming for in Germany; plan to complete vocational training in Germany; educational degree completed in Germany; highest educational degree completed in Germany; completed degree in another country; highest degree completed in this other country.
+Education Partner: Years of education; highest education degree; main activity. 
+G: Labor market: jobs and household:Employment situation: main activity before moving to Germany; information on last job before moving: job position; number of employees (self-employed); job title (KldB2010, ISCED-08, EGP, ISEI-08, SIOPS-08); work hours; end of job (year and month). 
+Last job before move: job position; permanent or fixed-term employment contract; last job before moving: public sector; 
+Current employment situation: currently working; current main activity if not working; ever worked in Germany before moving to Germany; time worked in Germany before moving to Germany (years and months).
+Current job in Germany: job position; first job since moving; ever worked in Germany since moving/ wave 1); end (year and month) of wave 1 job (if not worked since wave 1); last job since wave 1 same as in wave 1; employment contract; work hours; end of job (year and month). 
+Current Job wave 2 same as in wave 1; employment contract; work hours; number of jobs since moving/ wave 1; time worked in total since moving/ wave 1 (years and months); time worked in total in Germany (years and months).
+Current job wave 1/ wave 2 is a new job: job position; employment contract; working in public sector; job position if self-employed; number of employees; job title (KldB2010, ISCED-08, EGP, ISEI-08, SIOPS-08); start of job (year and month); how did the respondent find the job; work hours. 
+Information on employment situation of partner. 
+Labor market: remittance: household net income; sent money to the country of origin since moving/ wave 1; sent money for personal savings, to family, to friends; received money from relatives or friends living in the country of origin since moving to Germany/wave 1.
+H: Health:  personality and well-being:Health: resilience: I tend to bounce back quicky after hard times; it does not take me long to revocer from a stressful event; I often set a goal but later choose to pursue a different one, I have difficulty maintaining my focus on projects that take more than a few months to complete; I have been obsessed with a certain idea or project for a short time but later lost interest; I finish what ever I begin; I am diligent; I am a hard worker. 
+Health: self-rated health; loneliness and perceived social isolation: I experience a general sense von emptiness; there are many people I can trust completely; there are plenty of people I can rely on when I have problems; there are enough people I feel close to; I miss having people around; I often feel rejected.
+Mental health: mental condition in the past twelve months: frequency of feeling nervous, hopeless, restless or fidgety, depressed, that everything was an effort, worthless; trauma: ever witnesses or feared a situation of serious violence (someone else, self); relative or friend died violently. 
+Reasons for leaving Germany; reasons why others recognize foreign roots; skin color (tone); relatives moved to Germany since last survey; religiosity; religious affiliation; religious affiliation in detail: Christians, Muslims, other); residence permit until month and year; resident status of sample population; residential status; residential status (detailed); same day as arrival, same partner as last survey. 
+Self-assed likelihood of problems in the next twelve months (children problems at school, drastically lowered standard of living, loose apartment, loose job, no longer support for relatives/ friends in the country of origin, payment difficulties). 
+Demography: sex; age; country of birth; country of growing up; citizenship; native language; region and province the respondent grew up (NUTS2-2016 Italy, NUTS3-2016 Italy, NUTS 2-2016 Poland, NUTS3-2016 Poland, region Syria (semi NUTS1, NUTS2-2016 Turkey, NUTS3-2016 Turkey); origin of partner. II. COVID-19 survey
+A: Basic and remigration: country of residence; remigration due to the coronavirus pandemic; plan to return to Germany when the situation allows; children who usually go to school. 
+B: COVID-19:Hardship: likeliness of: lose job, run into payment difficulties, drastically lower standard of living, lose the apartment, won’t be able to support relatives or friends anymore, children will get problems at school; experiences like lost job or ran into payment difficulties are related to the coronavirus pandemic.Burden: experience of the following during the coronavirus pandemic: problems finding/ understanding information about the coronavirus pandemic and behavioral guidelines, having COVID-19 symptoms, COVID-19 symptoms  in family members or friends, being at increased risk for an infection, problems with access to healthcare, mediation, or sanitation, being unable to pursue private travel plans, feeling restricted to leave home, being unable to visit sick family members or friends, problems with childcare of home schooling, tensions at home or family conflict; rating how burdensome this was.
+C: Social integration:Social integration: Bonding and Bridging ethnic ties: daily life experiences under measures to combat the coronavirus: frequencies of spending time with people from the country, with Germans, and with people who are neither from the country nor from Germany; number of people outside of Germany the respondent has a conversation with; where to most of these people live.  
+D: Language:Language use: frequency of speaking German with friends, with other people in everyday life; frequency of media consumption in German language. Language: German skills: rating of German skills at present (understanding, speaking, reading, writing).
+E: identity and exclusion:Identity: voluntary activities during the coronavirus pandemic; received any help from volunteers. Identification and belonging: closeness to the inhabitants of the city, to Germans, to country people, and to Europeans.
+F: Religion:Religious practices: religiosity; frequency of praying outside of communal prayers and outside of religious worship.
+G: Labor market:Changes in employment situation due to COVID19: current main activity; employment situation has changed due to the coronavirus pandemic (lost my job, quitted my job); concrete changes of the employment situation; change of working hours due to the coronavirus pandemic.
+H: Health and personality:Self-rated health; loneliness and perceived social isolation: general sense of emptiness; plenty people I can rely on when I have problems; many people I can trust completely; enough people I feel close to; I miss having people around; I often feel rejected. 
+Mental health: mental condition during the past month: frequency of feeling nervous, hopeless, restless or fidgety, depressed, that everything was an effort, worthless.
+COVID-19 - affected: ever tested positive for the coronavirus; member of household or family ever tested positive for the coronavirus; household member or family member with a positive test. 
+Demography: sex; age; household size. 
+Additionally coded were: respondent ID; interviewer ID; wave; group country of origin; mode of interview; recruitment batch (wave 1); date of interview; date and time of interview; interview duration; other people present while survey; interference of others during the interview; participation in wave 2; percentage of Balkan households, of Eastern European households, of ethnic German resettlers households, of German households, of Greek households, Hispanic, Portuguese/ Latino households,  at municipality level, postcode level, and postcode8 level; percentage of households with a Hauptschulabschluss, with a Realschulabschluss, with Abitur, with Fachhochschulabschluss, with no/ other school qualification ,  at municipality level, postcode level, and postcode8 level; percentage of Italian household, of non-European Islamic households, of other country-specific households, of South/East/Southeast Asian households, of sub-Saharan African households, of Turkish households, at different municipality level, postcode level, and postcode8 level); percentage of unemployment at municipality level, postcode level, and postcode8 level; percentage of foreigners at municipality level, postcode level, postcode8 level, and at street segment level; socio-economic status distribution at municipality level, postcode level, postcode8 level, and at street segment level; family structures at street segment level (ordinal); time to complete the interview; duration of stay (months); resident status of sample population; immigration date: month and year of leaving the country; same day as arrival; land, house, or apartment in the country of origin; owner or investor of store or business in the country; gave money for collective projects in the country; knowledge of other people who participated in the survey; number of household members that also participated in the survey; Digit-Symbol-Test – correct items (score); Digit-Symbol-Test – No. of items processed.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Zuwanderer aus Italien, Polen, Syrien und der Türkei, die zwischen 18 und 40 Jahre alt waren (18 bis 41 Jahre zum Zeitpunkt des ersten Interviews) und die Staatsangehörigkeit des jeweiligen Herkunftslandes und keine deutsche Staatsangehörigkeit besaßen.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Immigrants from Italy, Poland, Syria, and Turkey who were between 18 and 40 years old (18 to 41 at the time of the first interview) and had the nationality of the respective country of origin and no German citizenship.
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Nicht-Wahrscheinlichkeitsauswahl: Bewusste Auswahl; Wahrscheinlichkeitsauswahl: Einfache Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Non-probability: Purposive; Probability: Simple random</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-10</date>
+				</startDate>
+				<endDate>
+					<date>2019-10-31</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>wave 1</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Welle 1</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2020-05-11</date>
+				</startDate>
+				<endDate>
+					<date>2020-06-22</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>COVID-19 survey</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>COVID-19 Befragung</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2020-11-20</date>
+				</startDate>
+				<endDate>
+					<date>2021-04-21</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>wave 2</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Welle 2</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Panel</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>ENTRA-Team (online surveys (CAWI) and the face-to-face interviews (CAPI))</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Bamberg Center for Empirical Studies (BACES), Bamberg (telephone interviews (CATI))</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.WebBased</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>10420</numberUnits>
+			<numberVariables>780</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Seuring, Julian; Degen, Daniel; Rüdel, Julia; Ries, Felix; Diehl, Claudia; Kristen, Cornelia and Matthias Koenig (2023): 
+The ENTRA Survey : Recent Immigration Processes and Early Integration Trajectories in Germany. Methodological Report.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

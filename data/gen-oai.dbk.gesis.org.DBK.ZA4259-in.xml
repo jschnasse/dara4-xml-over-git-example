@@ -1,0 +1,337 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Politbarometer West 2005 (Cumulated Data Set, incl. Flash)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Politbarometer West 2005 (Kumulierter Datensatz, inkl. Kurzbarometer)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch; Text</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric; Text</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA4259</identifier>
+		<currentVersion>1.1.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Politbarometer West 2005 (Kumulierter Datensatz, inkl. Kurzbarometer)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Politbarometer West 2005 (Cumulated Data Set, incl. Flash)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Matthias</firstName>
+				<middleName/>
+				<lastName>Jung</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Claus</firstName>
+				<middleName/>
+				<lastName>Laemmerhold</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Andrea</firstName>
+				<middleName/>
+				<lastName>Wolf</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4259?doi=10.4232/1.12125</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12125</doiProposal>
+	<publicationDate>
+		<date>2014-12-01</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4259</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+					<term>Wirtschaftspolitik, öffentliche Ausgaben und Einnahmen</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>International politics and organisations</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+					<term>Economic policy,  public expenditure and revenue</term>
+					<term>Economic systems and development</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Politbarometer werden seit 1977 etwa monatlich von der Forschungsgruppe Wahlen für das Zweite Deutsche Fernsehen (ZDF) durchgeführt. Seit 1990 steht diese Datenbasis auch für die neuen Bundesländer zur Verfügung. Im Zentrum der Untersuchung stehen die Meinungen und Einstellungen der wahlberechtigten Bevölkerung in der Bundesrepublik zu aktuellen politischen Themen, Parteien und Politikern sowie dem Wahlverhalten. 1990 bis 1995 und ab 1999 wurden die Politbarometer-Umfragen in den neuen und alten Bundesländern getrennt durchgeführt (Politbarometer Ost bzw. Politbarometer West). Die monatlichen Einzelumfragen eines Jahres werden in einen kumulierten Datensatz integriert, der alle Erhebungen eines Jahres und alle Variablen des jeweiligen Jahrganges umfasst. Ab 2003 sind die Politbarometer-Kurzbefragungen, die unterschiedlich häufig im Jahr erhoben werden, in die Jahreskumulation integriert.  
+</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>1. Folgende Themen wurden zu jedem Erhebungszeitpunktwiederholt identisch gefragt: Wichtigste politische Probleme inDeutschland; Wahlbeteiligungsabsicht bei der nächsten Bundestagswahl(Sonntagsfrage, Rangordnung); Parteipräferenz; Wahlverhalten bei derletzten Bundestagswahl; Koalitionspräferenz; Sympathie-Skalometer fürdie SPD, CDU, CSU, FDP, die Grünen und die PDS; Rangplatz der Parteien(Split); Sympathie-Skalometer für ausgewählte Spitzenpolitiker (JoschkaFischer, Angela Merkel, Gerhard Schröder, Edmund Stoiber, GuidoWesterwelle und Christian Wulff); Beurteilung der derzeitigenwirtschaftlichen Lage in Deutschland; kompetenteste Partei zur Lösungder derzeitigen wirtschaftlichen Probleme; Beurteilung der derzeitigenund zukünftigen eigenen wirtschaftlichen Lage; Beurteilung einesAufwärtstrends in der deutschen Wirtschaft (Konjunkturerwartung);kompetenteste Partei zur Schaffung von Arbeitsplätzen;Selbsteinschätzung auf einem Links-Rechts-Kontinuum.
+2. Mindestens in einem oder in mehreren Befragungsmonaten wurdegefragt: Briefwahl; Erst- und Zweitstimme; wählbare und nicht wählbareParteien; Sicherheit der eigenen Wahlentscheidung; Beurteilung einergroßen Koalition von CDU/CSU und SPD sowie verschiedener Koalitionenaus den Parteien im Bundestag; Einstellung zu einer Alleinregierung derCDU/CSU; Einstellung zu einer SPD-Regierung mit der PDS alsMehrheitsbeschaffer; Wahl einer anderen Partei, falls Wahlausgangbekannt gewesen wäre; Zufriedenheit mit dem Ausgang der Bundestagswahl;Beurteilung einer Regierungsbeteiligung von FDP und PDS; kompetentesteRegierungskoalition zur Lösung der Probleme in Deutschland;Erreichbarkeit einer Mehrheit von SPD und den Grünen; Präferenz für dieSPD in der Regierung oder in der Opposition; Bundeskanzlerpräferenz fürAngela Merkel oder Gerhard Schröder allgemein sowie bei einer großenKoalition; weitere Bundeskanzlerpräferenzen; Klärung der Kanzlerfrageoder des Regierungsprogramms an erster Stelle bei den Verhandlungenzwischen CDU/CSU und SPD; Einstellung zu einer Minderheitenregierung;präferierte Minderheitenregierung; Beurteilung des Wahlausgangshinsichtlich der Lösungsmöglichkeit der wichtigsten Probleme inDeutschland; Erwartung einer großen Koalition aus CDU/CSU und SPD;empfundene Aufbruchstimmung in Deutschland nach der Regierungsbildung;wichtiger Beitrag der großen Koalition bei der Lösung der Probleme inDeutschland, bei der Bekämpfung der Arbeitslosigkeit, zur Lösung derRentenprobleme, der Finanzprobleme, der Probleme im Gesundheitswesen,zur Ankurbelung der Wirtschaft sowie zur Familienförderung; Einstellungzur Wahl von Angela Merkel als Bundeskanzlerin; Präferenz für GerhardSchröder als Bundeskanzler einer großen Koalition; erwarteteDurchsetzungskompetenz von Angela Merkel in wichtigen politischenFragen; Beurteilung der Kompetenz von Angela Merkel bei der VertretungDeutschlands im Ausland; Zufriedenheit mit der neuenRegierungsmannschaft; erwartete Unterstützung Merkels durch dieCDU/CSU-Fraktion sowie die SPD-Fraktion im Bundestag; erwarteterBestand der großen Koalition über die volle Legislaturperiode; Einstellung zu Ostdeutschen als Parteivorsitzende (von CDU und SPD);Einstellung zu einer Frau als Kanzlerin; Frau als Wahlgrund für dieWählbarkeit der CDU/CSU; Zufriedenheit mit den Leistungen derBundesregierung sowie mit den einzelnen Parteien SPD, Grüne, CDU/CSU,FDP sowie der Linkspartei.PDS (Skalometer); derzeit wichtigstePolitiker bzw. Politikerinnen in Deutschland; Sympathie-Skalometer fürausgewählte Spitzenpolitiker (zusätzlich zu den oben genannten,erweitert um: Wolfgang Clement, Hans Eichel, Gregor Gysi, Roland Koch,Horst Köhler, Oskar Lafontaine, Friedrich Merz, Franz Müntefering,Matthias Platzeck, Otto Schily, Ulla Schmidt, Horst Seehofer, PeerSteinbrück und George W. Bush); Zerstrittenheit der SPD, CDU, CSU, derGrünen, der FDP und der PDS sowie von CDU und CSU untereinander;Beurteilung des Verhältnisses zwischen den Regierungsparteien SPD undGrünen und des Verhältnisses der CDU zur CSU; Kanzlerkandidat derCDU/CSU mit den größten Chancen auf einen Wahlsieg bei der nächstenBundestagswahl; Einschätzung des geeignetsten Zeitpunkts für dieEntscheidung der Kanzlerkandidatenfrage bei der CDU/CSU; Einschätzungder Unterstützung von Gerhard Schröder durch die SPD, von Angela Merkeldurch die CDU und die CSU, von Edmund Stoiber durch die CSU und vonGuido Westerwelle durch die FDP; Vergleich von Angela Merkel mitGerhard Schröder hinsichtlich Glaubwürdigkeit, Tatkraft, Sympathie,Durchsetzungsfähigkeit, Sachverstand und Siegertyp sowie bei derFührung einer Regierung, bei der Lösung zukünftiger Probleme inDeutschland und hinsichtlich der besseren Regierungsmannschaft; GerhardSchröder oder Angela Merkel als erwarteter Nutznießer desbeabsichtigten TV-Duells; TV-Duell zwischen Gerhard Schröder und AngelaMerkel gesehen; besseres Abschneiden von Schröder oder Merkel beimTV-Duell; Veränderung der eigenen Einstellung zu den Kandidaten durchdas TV-Duell; kompetentester Kanzlerkandidat bei der Schaffung neuerArbeitsplätze; Angela Merkel als Interessenvertreterin der Frauen undder Ostdeutschen; erwarteter Wahlerfolg der CDU mit und ohne Merkel;Kanzlerpräferenz; Zuordnung der Eigenschaften ´fortschrittlich´,´glaubwürdig´ und ´sozial´ zu den großen Parteien;Demokratiezufriedenheit; Stärke des Politikinteresses; richtige Leutein den führenden Positionen (allgemein, in der Politik und in derWirtschaft); Beurteilung der wirtschaftlichen Lage in Deutschland ineinem Jahr; Zustand der Gesellschaft in Deutschland und im Vergleich zuden westeuropäischen Nachbarn; Vergleich der wirtschaftlichen LageDeutschlands mit der in den westeuropäischen Nachbarstaaten; Europa,USA oder China als erfolgreichste Wirtschaftsregion; vermutlichstärkste Wirtschaftsregion in 10 Jahren: Europa, USA oder China;Konfliktstärke zwischen Arm und Reich, Arbeitgebern und Arbeitnehmern,Jung und Alt, Ausländern und Deutschen, Ostdeutschen und Westdeutschensowie zwischen Männern und Frauen; erwartete und präferierteEntwicklungsrichtung der SPD (nach links oder rechts); Einstellung zurbeabsichtigten Aufgabe des SPD-Parteivorsitzes durch Franz Müntefering;Beurteilung von Matthias Platzeck als Nachfolger für denSPD-Parteivorsitz sowie erwartete Stärkung des Zusammenhalts in der SPDdurch Platzeck; Richtigkeit und Ausreichen der bisherigen Reformen;persönliche Bedeutung von Hartz IV; Beurteilung des ArbeitslosengeldesII und der Kürzungen für Langzeitarbeitslose; Einstellung zu einerverpflichtenden Arbeitsaufnahme auf geringerem Lohnniveau; Einschätzungdes Erfolgs der Reformen um Hartz IV bei der Schaffung neuerArbeitsplätze; Beurteilung der Abwicklung der Einführung von Hartz IV;Einstellung zum Tariflohn als Mindestlohn; Einstellung zu einerstärkeren Besteuerung hoher Einkommen sowie zu einem einheitlichenSteuersatz von 25 %; präferierte Maßnahmen des Staates zur Senkung desHaushaltsdefizits: Steuererhöhungen, Ausgabenkürzungen oder zusätzlicheSchulden; Einstellung zur Erhöhung des Rentenalters auf 67 Jahre;Präferenz für eine Erhöhung der Krankenversicherungsbeiträge oder fürdie Zahlung der Leistungen aus eigener Tasche; Einstellung zumvorgeschlagenen Krankenversicherungsbeitrag für nicht berufstätigeEhepartner; erwartete Reformbereitschaft einer großen Koalition;Bundesregierung, Unternehmen oder Weltwirtschaftslage alsVerantwortliche für die Arbeitslosigkeit in Deutschland; Einschätzungdes Anteils von Unternehmen, die trotz hoher Gewinne Arbeitsplätzeabbauen; Meinung zur SPD-Debatte: Profitgier der Unternehmen führt zurGefährdung der Demokratie; Einstellung zur Gegenmeinung der CDU:SPD-Debatte als Ablenkungsmanöver von Arbeitslosenzahlen; Einschätzungder Lösbarkeit des Arbeitslosenproblems in den nächsten Jahren;vermutete Einigung zwischen der Regierung und der CDU/CSU-Oppositionhinsichtlich der Bekämpfung der Arbeitslosigkeit; ausreichendeMaßnahmen der Bundesregierung zur Bekämpfung der Arbeitslosigkeit undVergleich mit einer CDU/CSU geführten Regierung sowie mit einer großenKoalition aus SPD und CDU/CSU; Auswirkung ausgewählter Maßnahmen aufdie Bekämpfung der Arbeitslosigkeit (Steuersenkung für Unternehmen,Lockerung des Kündigungsschutzes, Arbeitszeitverlängerung, Senkung derBeiträge zur Arbeitslosenversicherung; erwarteter Bestand derRegierungskoalition bis zur nächsten Bundestagswahl 2006; vermutetederzeitige Mehrheit für Gerhard Schröder im Bundestag; Erwartungvorgezogener Neuwahlen nach der Vertrauensfrage; Beurteilung einervorgezogenen Neuwahl; Einstellung zu einem Rücktritt Gerhard Schröders;Einstellung zu einer Änderung des Grundgesetzes zur Selbstauflösung desBundestages; erwartete Mehrwertsteuererhöhung, weitere Einschnitte imGesundheitssystem, die Abschaffung der Eigenheimzulage, Kürzungen vonSozialleistungen sowie das Beibehalten der Ökosteuer durch die CDU/CSUbzw. die SPD nach einem Wahlsieg; Beurteilung der wirtschaftlichen undsozialen Problemlösungskompetenz des geplanten Linksbündnisses von PDSund WASG; Kenntnis der Bedeutung der Zweitstimme; vermuteteAuswirkungen der Mehrwertsteuererhöhung auf das Arbeitsplatzangebot;Überwiegen von Unterschieden oder Gemeinsamkeiten zwischen dem Ostenund Westen sowie dem Norden und Süden Deutschlands; Einstellung zuOstdeutschen als Bürger zweiter Klasse; vermutete fehlende Anerkennungder Leistungen der Westdeutschen beim Aufbau Ost; Interesse fürostdeutsche Probleme; Einstellung zur Übernahme eines Ministeramtesdurch Edmund Stoiber; vermutete Unterstützung von Angela Merkel durchEdmund Stoiber; Auswirkungen der Kritik Edmund Stoibers an bestimmtenWählergruppen im Osten auf die CDU/CSU bei der Bundestagswahl;Äußerungen als Gefahr für den Wahlsieg der CDU/CSU;  Einstellung zumVerzicht von Edmund Stoiber auf ein Ministeramt; Auswirkung diesesVerzichts für Angela Merkel; Bekanntheit der Visa-Affäre; persönlicheSchuld Joschka Fischers in der Visa-Affäre; Einstellung zu demgeforderten Rücktritt Joschka Fischers als Außenminister; Ansehen vonJoschka Fischer nach dessen Aussage vor dem Untersuchungsausschuss zurVisa-Affäre; negative Auswirkung der Visa-Affäre für die Grünen;kompetenteste Partei zur Sicherung der Renten, zur Bekämpfung derKriminalität, in der Umweltpolitik, Steuerpolitik, Bildungspolitik,Familienpolitik, Gesundheitspolitik, Außenpolitik und Ausländerpolitik,zur Angleichung der Lebensverhältnisse des Ostens an den Westen sowiezur Lösung der zukünftigen Probleme Deutschlands; Beurteilung dergeeignetsten Parteiprogramme hinsichtlich der Senkung derArbeitslosigkeit, sozialer Gerechtigkeit, Ehrlichkeit,Familienfreundlichkeit sowie zur Lösung der Probleme in den BereichenRente, Gesundheit und Pflege; Zufriedenheit mit der Vereinbarkeit vonFamilie und Beruf; Partei, die sich am ehesten für die Vereinbarkeitvon Familie und Beruf einsetzt; präferierte Politiker für die Übernahmeeines wichtigen Ministeramtes in einer großen Koalition; Einstellung zuerneuten Neuwahlen; Interesse an Meinungsumfragen; Einfluss vonMeinungsumfragen auf die eigene Wahlentscheidung; Hauptverantwortlicherfür die hohen Benzinpreise (die Bundesregierung, die Konzerne oder derHurrikan in den USA); Kriminalitätsfurcht; präferierte Maßnahmen desStaates zur Ankurbelung der Wirtschaft: Streichung der Eigenheimzulage,Abschaffung der Entfernungspauschale, Mehrwertsteuererhöhung; erwarteteMehrwertsteuererhöhung;  präferierte Mehrwertsteuerverwendung;Einstellung zu weiteren Kürzungen im Sozialsystem; Einstellung zu einerKürzung des Steuerfreibetrages für Nacht-, Sonntags- undFeiertagszuschläge sowie der Steinkohlesubventionen; perzipiertesEinverständnis der Bevölkerung mit weiteren Kürzungen im Sozialsystem;erwartete stärkere Kürzungen im Sozialsystem unter einer CDU/CSU- oderunter einer SPD-geführten Regierung; Einstellung zu einerRentenerhöhung; Präferenz für eine Erhöhung der Beiträge vonArbeitnehmern und Arbeitgebern zur gesetzlichen Rentenversicherung oderfür zusätzliche Steuermittel; vermutetes Ausmaß des Missbrauchs vonSozialleistungen; Einstellung zur Wiedervereinigung und zu einerRückführung in eine Zwei-Staaten-Teilung in Deutschland; Ostdeutscheoder Westdeutsche als Hauptnutznießer der Wiedervereinigung;Einstellung zu einem Verbot der NPD; NPD als Gefahr für die Demokratie;Einstellung zu einer gesetzlichen Einschränkung derDemonstrationsfreiheit an bestimmten Orten; Einstellung zur Erhebungvon Studiengebühren an Hochschulen (Studiengebühren für die gesamteStudiendauer bzw. erst nach Überschreiten einer Regelstudiendauer,keine Studiengebühren); Bundeswehr hat sich bewährt; Bundeswehr derZukunft (Wehrpflichtige oder Berufssoldaten); Einstellung zur Anordnungvon DNA-Tests bei weniger schweren Straftaten; Wählbarkeit der neuenLinks-Partei ´Arbeit und soziale Gerechtigkeit - die Wahlalternative´;Wählbarkeit einer NPD/DVU-Liste; persönliche Auswirkung des Wahlsiegseiner bestimmten Partei; Vorteilhaftigkeit einer EU-Mitgliedschaft;Beurteilung des Fortschritts der europäischen Einigung und desEinflusses der Europäischen Union in Deutschland; Kenntnis von nichtgeklärter zukünftiger Finanzierung der EU; Hauptverantwortlicher fürfehlende Einigung; vermutetes Anhalten der EU-Krise; präferierteEntwicklungsrichtung der EU (Beschränkung auf wirtschaftlicheZusammenarbeit oder politische Einigung); erwartete Entwicklung desdeutschen Einflusses auf die EU; Erwartung von Vor- oder Nachteilendurch die EU-Erweiterung um osteuropäische Staaten; Einstellung zurAufnahme Rumäniens, Bulgariens und der Türkei in die Europäische Union;EU-Erweiterung um die Türkei von Vor- oder Nachteil für die BRD;Beurteilung der Einführung des Euros in Deutschland; erwarteterlangfristiger Erfolg des Euros; erwartete Einhaltung desEuro-Stabilitätspaktes im Jahr 2007; wichtigster Partner Deutschlandsin der Europäischen Union; zukünftige Zusammenarbeit der BRD mit dengroßen oder den kleinen europäischen Staaten; USA oder europäischeUnion wichtiger für Deutschland; Beurteilung der deutschen Beziehungenzu Frankreich, Großbritannien, Russland, Polen sowie den USA; Wunschnach engerer Zusammenarbeit zwischen Deutschland und den USA; USA oderFrankreich wichtigster Partner Deutschlands; Entwicklung derBeziehungen zwischen Deutschland und den USA unter BundeskanzlerinMerkel; Wichtigkeit der Diskussion über die CIA-Flüge mit Gefangenen;erwarteter zeitnaher Militäreinsatz der USA gegen den Iran; Beurteilungvon Bundespräsident Horst Köhler; Bewertung der Arbeit derBundesregierung; bessere Regierungsarbeit im Falle einerCDU/CSU-Regierung bzw. SPD-Grünen-Regierung; vermutetes Feststehen desSiegers der Bundestagswahl; erwarteter Wahlsieger;Koalitionszusammensetzung oder Bundeskanzler bzw. -kanzlerin wichtigerfür Regierungsarbeit; eigene Wechselwählerschaft; Einfluss derLinkspartei.PDS in der WASG; Erfolge der Linkspartei.PDS durchProtestwähler; Wählbarkeit des Linksbündnisses aus PDS und WASG; Parteimit dem größten Stimmenverlust bei der nächsten Bundestagswahlzugunsten der Linkspartei.PDS; Präferenz für Regierungswechsel;Beurteilung der Arbeit von Bundeskanzlerin Angela Merkel sowie desStarts der neuen Bundesregierung aus CDU/CSU und SPD; Einstellung zueiner Offenlegung der Nebeneinkünfte der Bundestagsabgeordneten;Einstellung  zu einer Neuregelung des Vaterschaftstests ohneEinwilligung der Mutter; Einstellung zur Einführung einer Pkw-Maut beigleichzeitiger Mineralölsteuersenkung; ausreichende Maßnahmen derBundesregierung für die deutschen Opfer der Flutkatastrophe in Asien;Bewertung der Aufbauhilfe in Höhe von 500 Mio. Euro für die betroffenenLänder der Flutkatastrophe; Einstellung zu Waffenlieferungen an China;Einstellung zu einem Fahrverbot für Diesel-Pkw und –Lkw ohne Rußfilterund zu einer steuerlichen Förderung von Diesel-Fahrzeugen mitRußfilter; Präferenz für Religion oder „Ethik und Werte“ alsPflichtfach in Schulen; Interesse an der Papstwahl; präferiertesHerkunftsland des neuen Papstes; Deutsche stehen in gesellschaftlichenFragen hinter dem Papst; vermutete Häufigkeit von Gammelfleisch inLebensmittelgeschäften; persönlich empfundene Gesundheitsgefährdungdurch Gammelfleisch; Bereitschaft zur Zahlung höherer Preise fürhochwertiges Fleisch; persönlich empfundene Gesundheitsgefährdung durchdie Vogelgrippe; Bewertung des Umfangs der getroffenen Maßnahmen gegendie Vogelgrippe in Deutschland; Befürchtung von Terroranschlägen inDeutschland; Erwartung eines dauerhaften Friedens im Irak; Erwartungvon Ausschreitungen ausländischer Jugendlicher in Deutschland wie inFrankreich; Interesse an der Fußball-Weltmeisterschaft 2006; geplanterBesuch eines WM-Spiels; Deutschland als erwarteter Fußball-Weltmeister;Einschätzung der Parteien SPD, CDU, CSU, die Grünen, FDP und der Linkspartei.PDS auf einem Links-Rechts-Kontinuum; Rückblick auf dasJahr 2005; Ausblick auf das Jahr 2006. 
+Demographie: Geschlecht; Alter (kategorisiert); Familienstand;Zusammenleben mit einem Partner; Vorhandensein von Kindern im Haushalt;Anzahl der Kinder unter 13 Jahren und Alter dieser Kinder; höchsterSchulabschluss; Fachschulstudium als Abschluss anerkannt;abgeschlossene Berufsausbildung; Berufstätigkeit; Einschätzung dereigenen Arbeitsplatzsicherheit; Berufsgruppe; Haushaltsgröße und Anzahlder Personen ab 18 Jahren; Befragter ist Haushaltsvorstand;Charakteristika des Haushaltsvorstands; Gewerkschaftsmitglied imHaushalt; Konfession; Kirchgangshäufigkeit; Arbeitsplatzgefährdung bzw.Arbeitslosigkeit im sozialen Umfeld; Parteineigung undParteiidentifikation; Ortsgröße; Bundesland der Wahlberechtigung.
+Zusätzlich verkodet wurden: Erhebungsmonat; Erhebungswoche; Tag derBefragung; Bundesland; Gewichtungsfaktor.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The Politbarometer has been conducted since 1977 on an almost monthly basis by the Forschungsgruppe Wahlen on behalf of the Second German Television (ZDF). Since 1990, this database has also been available for the new German states. The survey focuses on the opinions and attitudes of the voting-age population in the Federal Republic on current political issues, parties, politicians, and voting behavior. From 1990 to 1995 and from 1999 onward, the Politbarometer surveys were conducted separately both in the newly formed eastern and in the western German states (Politbarometer East and Politbarometer West). The separate monthly surveys of a year are integrated into a cumulative data set that includes all surveys of a year and all variables of the respective year. Starting in 2003, the Politbarometer short surveys, collected with varying frequency throughout the year, are integrated into the annual cumulation.  </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>1. The following topics were repeated identically at eachsurvey period: most important political problems in Germany; votingintention at the next parliamentary elections (opinion poll,ranking) ; party preference; voting behaviour at the last parliamentaryelections; coalition preference; sympathy-scale for SPD, CDU, CSU, FDP,die Grünen and PDS; rank of the parties (split); sympathy-scale forselected leading politicians (Joschka Fischer, Angela Merkel, GerhardSchröder, Edmund Stoiber, Guido Westerwelle and Christian Wulff);judgement of the present economic situation in Germany; the mostcompetent party to resolve the present economic problems;judgement of respondent`s economic situation in present and in future;judgement of an upward trend in German economy (economic situationexpectation); the most competent party for the creation of jobs;self-assessment on a left-right continuum. 
+2. At least in one or in additional months was asked: postal vote;first and second vote; eligible parties and non eligible parties;certainty of one`s own voting decision; judgement of the so calledgrand coalition of CDU/CSU and SPD as well as different coalitions fromthe parties in the Bundestag; attitude towards an one party governmentof the CDU/CSU; attitude towards a SPD government with PDS as party forobtaining the majority; voting for a different party, in case theelection results would have been known before; satisfaction with theresult of the parliamentary elections; attitude to a participation ofFDP and PDS in government; the most competent government coalition toresolve the problems in Germany; accessibility of a majority of SPD anddie Grünen; preference for SPD in the government or in the opposition;Federal Chancellor preference for Angela Merkel or Gerhard Schröder ingeneral as well as with one grand coalition; additionally preferencefor a Federal Chancellor; clarification of the chancellor question orthe government programme in first place during the negotiations betweenCDU/CSU and SPD; attitude towards a minority government; preferredminority government; judgement of the election results with regard tothe approach to resolve the most important problems in Germany;expectation of a grand coalition by CDU/CSU and SPD; perceived euphoricmood in Germany after the formation of the new government; importantcontribution of the grand coalition to resolve the problems in Germany,in fighting of unemployment, in resolving the pension problem, thefinance problem, the problems in health service, in stimulating theeconomy as well as supporting families; attitude towards an election ofAngela Merkel as a Federal Chancellor; preference for Gerhard Schröderas a Federal Chancellor in a grand coalition; expected authority ofAngela Merkel in important political questions; judgement of thecompetence of Angela Merkel in representing Germany abroad;satisfaction with the new government team; expected support of Merkelby the CDU/CSU parliamentary group as well as the SPD parliamentarygroup in the Bundestag; expected continuance of the grand coalitionover the whole legislative period; attitude towards East Germans asparty leaders (of CDU and SPD); attitude towards a woman as chancellor;woman as reason for the eligibility of the CDU/CSU; satisfaction withthe performances of the Federal Government as well as with theindividual parties SPD, die Grünen, CDU/CSU, FDP as well as theLinkspartei.PDS (scale); currently most important politician orpoliticians in Germany; sympathy scale for selected leading politicians(in addition to those mentioned above: Wolfgang Clement, Hans Eichel,Gregor Gysi, Roland Koch, Horst Köhler, Oskar Lafontaine, FriedrichMerz, Franz Müntefering, Matthias Platzeck, Otto Schily, Ulla Schmidt,Horst Seehofer, Peer Steinbrück and George W. Bush); disunity of SPD,CDU, CSU, die Grünen, FDP and PDS as well as of CDU and CSU with eachother; judgement of the relations between the ruling parties SPD anddie Grünen and the relations of CDU to CSU; candidate for thechancellorship of the CDU/CSU with the greatest chances of an electoralvictory at the next parliamentary elections; assessment of the mostsuitable time for the decision of the candidate for chancellorshipquestion among the CDU/CSU; assessment of the support of GerhardSchröder by the SPD, of Angela Merkel by the CDU and CSU, of EdmundStoiber by the CSU and of Guido Westerwelle by the FDP; comparison ofAngela Merkel with Gerhard Schröder with regard to reliability, energy,sympathy, authority, expertise and winner type as well as leadership ingovernment and at the solution of future problems in Germany ; GerhardSchröder or Angela Merkel as an expected beneficiary of the intended TVduel; TV duel between Gerhard Schröder and Angela Merkel watched;better performance of Schröder or Merkel at the TV duel; change of therespondent`s attitude towards the candidates by the TV duel; the mostcompetent candidate for the chancellorship for the creation of new jobs;Angela Merkel as a person representing the interests of the women andthe East Germans; expected election outcome for the CDU with as well aswithout Merkel; chancellor preference; assignment of the qualities´progressive´, ´credible´ and ´socially´ to the large parties;satisfaction with democracy; strength of the interest in politics;right people in the leading positions (general, in politics and in theeconomy); expectation of the future economic situation in Germany;condition of the society in Germany and in comparison with the WesternEuropean neighbours; comparison between Germany and Western Europeanneighbouring states regarding the economic situation; Europe, USA orChina as the most successful economy region; the presumably strongesteconomy region within 10 years: Europe, USA or China; perceivedconflicts between the poor and the rich, employers and employees, youngand old, foreigners and Germans, East Germans and West Germans, as wellas between men and women; expected and preferred direction ofdevelopment for the SPD (to the left or to the right); attitude towardsthe intended resignation of Franz Müntefering from the SPD partyleadership; judgement of Matthias Platzeck as a successor for the SPDparty leadership as well as expected strengthening of the cohesion inthe SPD due to Matthias Platzeck; correctness and sufficiency of theprevious reforms; personal meaning of Hartz IV; judgement of theunemployment benefit (ALG II) and the cuts for long-term unemployed;attitude towards beginning work on lower wage level; assessment of thesuccess of the Hartz IV reforms in respect to creation of new jobs;judgement of the carrying out of the introduction of Hartz IV; attitudetowards the standard wage as a minimum wage; attitude towards astronger taxation of high incomes as well as at a common tax rate of25%; preferred measures of the state for the reduction of the budgetdeficit: tax increases, reductions of expenditure or additional debts;attitude towards the rise of the retirement age to 67 years; preferencefor a rise of contributions to the health insurance or for the paymentof services on one`s own expense; attitude towards the suggestedcontribution to the health insurance of non-working spouse; expectedreform readiness of the grand coalition; Federal Government, enterpriseor world economic situation being responsible for unemployment inGermany; assessment of the share of enterprises which cut jobs despitehigh profits; opinion on the SPD debate: greed for profit of theenterprises leads to endangering the democracy; attitude towards thecounter-opinion of the CDU: SPD debate as a diversionary tactics ofunemployment issues; opinion about solving the unemployment problemwithin the next years; assumed agreement between the government and theCDU/CSU opposition for fighting of unemployment; sufficient measures ofthe Federal Government in fighting unemployment and in comparison to anassumed CDU/CSU`s commanded government as well as in comparison to agrand coalition of SPD and CDU/CSU; expected effect of selectedmeasures on the fighting of unemployment (tax reduction for enterprise,loosening of the dismissal protection, working time extension,reduction in the contributions to the social insurance; expectedcontinuance of the government coalition until the next parliamentaryelections in 2006; assumed actual majority for Gerhard Schröder in theBundestag; expectation of a forward brought new election according tothe vote of confidence; judgement of a forward brought new election;attitude towards a resignation of Gerhard Schröder; attitude towards achange of the constitution for the self-dissolution of the Bundestag;expectation of value-added tax increase, further cuts in the healthsystem, the abolition of subsidies for home buyers, cuts of the socialprovision as well as keeping the environmental tax after an electoralvictory by the CDU/CSU or SPD; judgement of the solution expertise foreconomic and social problem in case of the planned alliance of theleft-wing parties PDS and WASG; knowledge of the meaning of the secondvote; assumed effects of the value-added tax increase on the jobsupply; differences or things in common between the east and the westas well as the north and south of Germany; attitude towards EastGermans as citizens of second class; assumed lack of appreciation ofthe performances of the West Germans assumed at the build-up of EastGermany; interest for East German problems; attitude towards thetake-over of a ministerial office by Edmund Stoiber; expected supportof Angela Merkel by Edmund Stoiber; effects of the critique concerningEdmund Stoiber on the CDU/CSU at the parliamentary elections; attitudetowards the demission of Edmund Stoiber for a ministerial office;consequence of this renunciation for Angela Merkel; awareness of theVISA affair; personal fault of Joschka Fischer in the VISA affair;attitude towards the demanded resignation of Joschka Fischer asSecretary of State; standing of Joschka Fischer according to thestatement in front of the commission of inquiry concerning the VISAaffair; negative consequence of the VISA affair for die Grünen; mostcompetent party to save the pensions, for the fighting the crime, inthe ecological policy, fiscal policy, education policy, family policy,health politics, foreign policy and foreigner politics, to theadjustment of the living conditions of the east to the west as well asfor the solution of future problems of Germany; judgement of the mostsuitable party programmes with regard to the reduction in unemployment,social justice, honesty, family kindness as well as for the solution ofthe problems in the areas of pension, health and care; satisfactionwith the compability of family and profession; party which most likelysupports the compability of family and profession; preferred politicianfor the take-over of an important department in a grand coalition;attitude towards new elections; interest in opinion polls; influence ofopinion polls on the respondent`s election decision; mainresponsibility for the high prices of gasoline (the Federal Government,major corporations or the hurricane in the USA); crime fear; preferredmeasures of the state for boosting the economy: cut of home buyersubsidies, abolition of the subsidies on the journey to work,value-added tax increase; expected increase of value-added tax;preferred use of value-added tax; attitude towards further cuts in thesocial system; attitude towards a cut of the tax filing limit forsurcharges at night, Sundays and bank holidays as well as the coalsubsidies; assumed agreement of the population to further cuts in thesocial system; expected stronger cuts in the social system under aCDU/CSU or under a SPD commanded government; attitude towards a pensionincrease; preference for a rise of the contributions from employees andemployers to the legal pension scheme or for additional fiscalresources; assumed extent of the misuse of social security benefits;attitude towards the reunification and a return to two states inGermany; East German or West German as a main beneficiary of thereunification; attitude towards a ban on the NPD; NPD as danger for thedemocracy; attitude towards a legal restriction of the right ofdemonstration at certain places; attitude towards the increase oftuition fees at universities (tuition fees on the complete duration ofstudy or after exceeding the regular period of study, no tuition fees);Federal Armed Forces have proved themselves; preferred Federal ArmedForces of the future (draftees or professional soldiers); attitudetowards the application of DNA tests at less heavy criminal offenses;eligibility of the new Links-Partei “work and social justice - theelection alternative”; eligibility of NPD/DVU; personal consequence ofthe electoral victory of a certain party; profitability of the EUmembership; judgement of the progress of the European Union andinfluence of the European Union in Germany; knowledge of a notclarified future financing of the EU; main responsibility for a missingagreement; assumed persistence of the EU crisis; preferred developmentof the EU (restriction to economic cooperation or political agreement);expected development of the German influence on the EU; expectedadvantages or disadvantages by the EU expansion by East Europeanstates; attitude towards the admission of Romania, Bulgaria and Turkeyto the European Union; EU expansion by Turkey as an advantage ordisadvantage for Germany; judgement of the introduction of the Euro inGermany; expected long-term success of the Euro; expected compliance ofthe Euro stability pact in the year 2007; most important partner ofGermany in the European Union; future cooperation of Germany with thelarge or the small European states; USA or European Union moreimportant to Germany; judgement of the German relations to France,Great Britain, Russia, Poland as well as the USA; desire for closercooperation between Germany and the USA; most important partner ofGermany: the USA or France; development of the relations betweenGermany and the USA under Federal Chancellor Merkel; importance of thediscussion about the CIA flights with prisoners; expected militaryoperation of the USA against Iran in the near future; judgement ofFederal President Horst Köhler; assessment of the work of the FederalGovernment; expected improvement of government work in the case of aCDU/CSU government or SPD die Grünen government; certainty about thewinner of the parliamentary elections; expected election winner;coalition composition or Federal Chancellor more important for thegovernment`s performance; respondent`s changing in electorate;influence of the Linkspartei.PDS in the WASG; successes of theLinkspartei.PDS by protest voters; eligibility of the left alliancefrom PDS and WASG; party with the greatest loss of votes in the nextparliamentary elections in favour of the Linkspartei.PDS; preferencefor changes of government; judgement of the performance of FederalChancellor Angela Merkel as well as the new Federal Government fromCDU/CSU and SPD; attitude towards a disclosure of the additionalincomes of the members of the Bundestag; attitude towards newregulations on the paternity test without consent of the mother;attitude towards the introduction of a car toll at a simultaneousreduction of the mineral oil tax; sufficient measures of the FederalGovernment for the German victims of the flood disaster in Asia;assessment of the reconstruction aid in the amount of 500 m. Euros forthe countries affected by the tsunami; attitude towards supplies ofarms to China; attitude towards a loss of the license for diesel carsand truck without soot filters and to subsidies for diesel vehicleswith soot filter; preference for religion or ´ethic and values´ as acompulsory subject in schools; interest in the papal elections;preferred country of origin of the new pope; Germans support the pope`ssocial attitudes; amount of junk meat suspected in grocery stores;personal feeling of health hazard by junk meat; willingness for thepayment of higher prices for high-quality meat; personal feeling ofhealth hazard by the bird flu; assessment of the measures against thebird flu in Germany; fears of terrorist attacks in Germany; expectationof a durable peace in Iraq; expectation of riots of foreign teenagersin Germany like in France; interest in the soccer World Cup in 2006;planned visit of a World Cup game; Germany as the expected soccerworld´s champion; rating the parties SPD, CDU, CSU, die Grünen, FDP andthe Linkspartei.PDS on a left-right continuum; review at the year 2005;view at the year 2006. 
+Demography: sex; age (classified); marital status; living togetherwith a partner; children in the household; number of children under13 years and age of these children; the highest school-leavingqualification; polytechnic college studies accredited as a degree;completed vocational training; occupation; assessment of respondent`sjob security; occupational group; size of household and number ofpersons as of 18 years; respondent is householder; characteristics ofthe householder; labour union member in the household; denomination;frequency of church attendance; endangered job or unemployment in thesocial environment; party affiliation and party identification; size ofplace; Federal state of the right to vote. 
+Additionally coded was: month and week of survey; day of theinterview; Federal State; weighting factor.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>with West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>mit Berlin-West</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BW</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BY</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-HB</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-HE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-HH</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-RP</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SH</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte Wohnbevölkerung</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Resident population eligible to vote.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Mehrstufige Zufallsauswahl: Auswahl von Haushaltsadressen nach dem
+RLD-Verfahren und Auswahl Zielperson nach einem Geburtstagsschlüssel</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Multistage random sample: sampling of household address by RLD-method
+and sampling of population entitled to vote by birthday-method</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2005-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2005-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Trend/RepeatedCrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Sophia</firstName>
+				<middleName/>
+				<lastName>Kratz</lastName>
+				<contributorType>DataCurator</contributorType>
+				<affiliation>
+					<affiliationName>GESIS – Leibniz-Institut für Sozialwissenschaften</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Monika</firstName>
+				<middleName/>
+				<lastName>Langhans</lastName>
+				<contributorType>DataCurator</contributorType>
+				<affiliation>
+					<affiliationName>GESIS – Leibniz-Institut für Sozialwissenschaften</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone survey (CATI) with standardised questionnaire</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>24393</numberUnits>
+			<numberVariables>508</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Der Datensatz besteht aus einer Kumulation der von Januar bis Dezember
+2005 monatlich durchgeführten Erhebungen. Neben den monatlichen
+Erhebungen sind die sog. Kurzbarometer enthalten, die in unregelmäßigen
+Abständen zwischen den monatlichen Befragungen erhoben wurden.
+
+Unter der ZA-Studien-Nr. 4258 sind die Befragungen im Ostteil der
+Bundesrepublik enthalten sowie ein zusätzlicher Gewichtungsfaktor, der
+es ermöglicht, die beiden Datensätze zu einer gesamtdeutsch gewichteten
+Befragung zusammenzufügen.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>This cumulated data set contains the monthly data sets from January to
+December 2005. ZA-Study-No. 4258 contais the data of the east-part of
+Germany. Additional weighting factor for conjoining East and West. </text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.4259</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+</resource>

@@ -1,0 +1,404 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'CILS4EU Campus Use File (Germany)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'CILS4EU Campus Use File (Germany)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA5994</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>CILS4EU Campus Use File (Germany)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>CILS4EU Campus Use File (Germany)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Frank</firstName>
+				<middleName/>
+				<lastName>Kalter</lastName>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Irena</firstName>
+				<middleName/>
+				<lastName>Kogan</lastName>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Jörg</firstName>
+				<middleName/>
+				<lastName>Dollmann</lastName>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Horr</lastName>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Konstanze</firstName>
+				<middleName/>
+				<lastName>Jacob</lastName>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Hanno</firstName>
+				<middleName/>
+				<lastName>Kruse</lastName>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Zerrin</firstName>
+				<middleName/>
+				<lastName>Salikutluk</lastName>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5994?doi=10.4232/cils4eu.5994.1.0.0</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/cils4eu.5994.1.0.0</doiProposal>
+	<publicationDate>
+		<date>2022-03-21</date>
+	</publicationDate>
+	<publicationPlace>Cologne, Germany</publicationPlace>
+	<publisher>
+		<institution>
+			<institutionName>GESIS</institutionName>
+		</institution>
+	</publisher>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5994</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+					<identifier>KAT55</identifier>
+					<!-- Erziehung, Schulwesen -->
+					<identifier>KAT54</identifier>
+					<!-- Person, Persönlichkeit, Rolle -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Vorschulerziehung und Bildung in der Pflichtschulzeit</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Spezifische Krankheiten, Störungen und Gesundheitsprobleme</term>
+					<term>Jugend</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Sprache und Sprachwissenschaft</term>
+					<term>Allgemeine Gesundheit und Wohlbefinden</term>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Compulsory and pre-school education</term>
+					<term>Cultural and national identity</term>
+					<term>Social conditions and indicators</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Specific diseases, disorders and medical conditions</term>
+					<term>Youth</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Language and linguistics</term>
+					<term>General health and well-being</term>
+					<term>Employment</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Der Campus Use File CUF des CILS4EU Projektes steht allen Studierenden und Doktoranden zur Verfügung, sofern sie von einem Senior Researcher mit institutioneller Anbindung betreut oder unterrichtet werden. Es gibt einige wesentliche Unterschiede zwischen dem Scientific Use File (SUF; ZA 5656: Children of Immigrants Longitudinal Survey in Four European Countries (CILS4EU) - Reduced version) und dem CUF der CILS4EU-Daten. Erstens enthält das CUF nur die deutschen Daten aus dem CILS4EU-Projekt. Daten aus England, den Niederlanden und Schweden sind im CUF nicht verfügbar. Zweitens besteht das CUF aus einer Teilstichprobe der deutschen CILS4EU-Stichprobe. Drittens sind bestimmte Variablen aus dem SUF nicht im CUF enthalten. Und schließlich sind bestimmte Variablen im CUF modifizierte Versionen von Variablen, die im SUF enthalten sind. Weitere Informationen finden Sie in der Dokumentation der Studie. Trotz dieser Änderungen, die aus Gründen des Datenschutzes notwendig waren, ist die CUF ein hervorragendes Instrument für Studenten, um die Datenanalyse mit realen Daten kennenzulernen und zu üben. Da es drei Wellen enthält, ist es besonders gut geeignet, um die Analyse von Längsschnittdaten zu erlernen. Das CUF enthält auch soziale Netzwerkdaten zu Klassenzimmernetzwerken in den Wellen eins und zwei. Diese können für die Analyse sozialer Netzwerke verwendet werden. Das CUF enthält außerdem umfangreiches Dokumentationsmaterial, so dass Studierenden und Lehrenden alle für die Datenanalyse wichtigen Informationen zur Verfügung stehen. Schließlich können die CUF-Daten aufgrund des thematischen Schwerpunkts auf der Integration von Migrantenkindern von den Studierenden zur Entwicklung und Bearbeitung von Forschungsfragen im Bereich der Migration und Integration im deutschen Kontext genutzt werden.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Das CILS4EU Campus Use File (Germany) enthält die folgenden Datensätze:
+CUF-Version des Datensatzes für Jugendfreunde der ersten Welle. Er enthält Daten zu verschiedenen Merkmalen von bis zu fünf der besten Freunde des Befragten und der Interaktion des Befragten mit ihnen (81 Variablen).
+CUF-Version des Hauptdatensatzes für Jugendliche der ersten Welle, der den größten Teil des Interviews ausmacht. Er enthält die Antworten der Befragten auf ein breites Spektrum von Fragen zu soziodemografischen Informationen, struktureller, kultureller und sozialer Integration sowie zum Wohlbefinden (231 Variablen).
+CUF-Version des Datensatzes der Klassenkameraden von Jugendlichen aus Welle zwei. Ähnlich wie bei der ersten Welle nominierte jeder Schüler andere in seiner Klasse nach einer Reihe verschiedener Kriterien (145 Variablen).
+CUF-Version des Jugend-Hauptdatensatzes der zweiten Welle, der den größten Teil des Interviews ausmacht. Er enthält die Antworten der Befragten auf ein breites Spektrum von Fragen zu soziodemografischen Informationen, struktureller, kultureller und sozialer Integration sowie zum Wohlbefinden (238 Variablen).
+CUF-Version des Datensatzes "Jugendfreunde" der dritten Welle. Er enthält Daten zum ethnischen und Bildungshintergrund von bis zu drei der besten Freunde des Befragten (16 Variablen).
+CUF-Version des Hauptdatensatzes für Jugendliche der dritten Welle, der den größten Teil der Befragung ausmacht. Er enthält die Antworten der Befragten auf ein breites Spektrum von Fragen zu soziodemografischen Informationen, struktureller, kultureller und sozialer Integration sowie zum Wohlbefinden (142 Variablen).
+CUF-Version des Tracking-Datensatzes. Sie enthält allgemeine Stichprobeninformationen und den Teilnahmestatus für alle drei Wellen (16 Variablen).</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The Campus Use File (Germany) is available to all undergraduate and graduate students, provided they are supervised or taught by a senior researcher with an institutional affiliation. There are some major differences between the SUF (ZA 5656: Children of Immigrants Longitudinal Survey in Four European Countries (CILS4EU) - Reduced version) and CUF of the CILS4EU data. First, the CUF only contains the German data from the CILS4EU project. Data from England, the Netherlands, and Sweden are not available in the CUF. Second, the CUF consists of a subsample of the German CILS4EU sample. Third, certain variables from the SUF are not included in the CUF. Lastly, certain variables in the CUF are modified versions of variables included in the SUF. For more information, see the study documentation. Despite these modifications, which were necessary for data protection reasons, the CUF is a great tool for students to learn about and practice data analysis with real-world data. Since it contains three waves, it is especially well suited for learning about longitudinal data analysis. The CUF also contains social network data on classroom networks in waves one and two. These can be used for social network analysis. The CUF further includes extensive documentation materials, so students and teachers have all the information that is important for data analyses at their disposal. Lastly, due to the thematic focus on the integration of children of immigrants, the CUF data can be used by students to develop and work on research questions in the area of migration and integration in the German context.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The CUF contains the following data sets:
+CUF-version of the wave one youth friends data set. It contains data on several characteristics of up to five of the respondent’s best friends and the respondent’s interaction with them (81 variables).
+CUF-version of the wave one youth main data set, which corresponds to the biggest portion of the interview. It contains respondent’s answers to a broad range of questions covering sociodemographic information, structural, cultural, and social integration, and well-being (231 variables).
+CUF-version of the wave two youth classmates data set. Similar to the wave one procedure, each student nominated others in their class for a number of different criteria (145 variables).
+CUF-version of the wave two youth main data set, which corresponds to the biggest portion of the interview. It contains respondent’s answers to a broad range of questions covering sociodemographic information, structural, cultural, and social integration, and well-being (238 variables).
+CUF-version of the wave three youth friends data set. It contains data on ethnic and educational background of up to three of the respondent’s best friends (16 variables).
+CUF-version of the wave three youth main data set, which corresponds to the biggest portion of the interview. It contains respondent’s answers to a broad range of questions covering sociodemographic information, structural, cultural, and social integration, and well-being (142 variables).
+CUF-version of the tracking data set. It contains general sample information and the participation status for all three waves (16 variables).</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alle Schüler, die eine Klassenstufe besuchen, in der hauptsächlich 14-Jährige vertreten sind (Deutschland: Klassenstufe 9)</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>All students attending a grade level in which mainly 14-year olds are enrolled (Germany: grade level 9)</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Zweistufige disproportional geschichtete Klumpenauswahl (Erste Stufe: disproportional geschichtete Zufallsauswahl von Schulen; zweite Stufe: Zufallsauswahl von Klassen in den Schulen. Innerhalb der Klassen wurden alle Schüler befragt).</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Two-stage disproportionate stratified cluster sample (First step: disproportionate random sample of schools; second step: random sample of classes within schools. All students within classes were included in the datacollection).</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2010-11</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2011-03</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>wave 1</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Welle 1</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2011-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2011-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>wave 2</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Welle 2</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2012-11</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2013-09</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>wave 3</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Welle 3</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Panel</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>IEA Data Processing and Research Center, Hamburg (waves 1 and 2)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Mannheimer Zentrum für europäische Sozialforschung (MZES) an der Universität Mannheim (wave 3)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.Paper</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.Telephone</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.WebBased</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Welle 1:
+Schülerbefragung
+Standardisierter Selbstausfüller - Papier (SAQ)
+
+Welle 2: 
+Schülerbefragung
+• Selbstausfüller: Papier
+• Selbstausfüller: CAWI (Computerunterstütztes Web-Interview)
+• Telefonisches Interview : CATI (Computerunterstützte telefonische Befragung)
+
+Welle 3:
+Schülerbefragung 
+• Selbstausfüller: Papier 
+• Selbstausfüller: CAWI (Computerunterstütztes Web-Interview) 
+• Telefonisches Interview : CATI (Computerunterstützte telefonische Befragung)
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Wave 1:
+Student survey:
+Fixed form self-administered questionnaire: Paper (SAQ)
+
+Wave 2:
+Student survey:
+• Self-administered questionnaire: Paper
+• Self-administered questionnaire: CAWI (Computer Assisted Web-Interviewing)
+• Telephone Interview: CATI (Computer Assisted Telephone Interview)
+
+Wave 3:
+Student survey:
+• Self-administered questionnaire: Paper
+• Self-administered questionnaire: CAWI (Computer Assisted Web-Interviewing)
+• Telephone Interview: CATI (Computer Assisted Telephone Interview) </freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Bayern nahm nicht an der Erhebung teil.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Bavaria did not take part in the survey.</text>
+		</note>
+	</notes>
+</resource>

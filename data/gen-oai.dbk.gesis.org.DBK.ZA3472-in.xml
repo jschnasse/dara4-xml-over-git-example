@@ -1,0 +1,190 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'The Image of Foreigner in the Newspapers of Thuringia 1995 - 1999'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Das Ausländerbild in den Thüringer Tageszeitungen 1995 - 1999
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3472</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Das Ausländerbild in den Thüringer Tageszeitungen 1995 - 1999
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>The Image of Foreigner in the Newspapers of Thuringia 1995 - 1999</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Georg</firstName>
+				<middleName/>
+				<lastName>Ruhrmann</lastName>
+				<affiliation>
+					<affiliationName>Fakultät für Sozial- und Verhaltenswissenschaften Bereich
+Medienwissenschaft, Lehrstuhl Grundlagen der medialen Kommunikation und
+der Medienwirkung, Friedrich-Schiller-Universität Jena</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<institution>
+				<institutionName>Der Ausländerbeauftragte der Landesregierung Thüringen</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3472?doi=10.4232/1.3472</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.3472</doiProposal>
+	<publicationDate>
+		<year>2001</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3472</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Medien</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Media</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Merkmale der Ausländerberichterstattung.
+Themen: 1. Formale Präsentation von Ausländerthemen: Nummer desArtikels, Datumsangabe, Monatsangabe, Jahresangabe, Wochentag,Zeitungsname; Seitennummer des Artikels; Platzierung und Hervorhebung:Ort der Platzierung (im Hauptteil oder im Lokalteil); farbliche odersonstige Hervorhebung; Abbildung; Fläche des Artikels in cm² (mit Foto),Fläche der Überschrift in cm².
+2. Inhalte, Themen, Nationalitäten: inhaltliche Übereinstimmung derÜberschrift mit dem Artikel; Übereinstimmung in der Werbung;journalistische Form (Agenturmeldung, eigener Bericht, Mischform daraus,Korrespondentenbericht, Reportage, Interview, Kommentar, Glosse,Leitartikel oder Leserbrief); allgemeiner Themenbereich (Politik, Recht,Wirtschaft, Kultur); Ort des Geschehens (innerhalb bzw. außerhalbThüringens); Bezugsgruppenrelevanz (Einzelpersonen,Bevölkerungsminorität, ein Teil bzw. die Mehrheit der Bevölkerung);inhaltliche Relevanz (existentielle Berührung der betroffenen Personendurch das Ereignis); Themenbezug eher zentral oder eher marginal für dieAusländerproblematik; Kategorisierungen von Inhalten,Ausländerschwerpunkt (Integration und Assimilation; Aufenthaltserlaubnisbzw. Asylverfahren, Staatsbürgerschaft bzw. Doppelpass, Migration bzw.Remigration, Leben in Deutschland bzw. Identität, Status bzw.Partizipation, Kriminalität und Verbrechen, Rechtsextremismus undAusländerfeindlichkeit, Aktivität von Ausländern, Aktivität gegen bzw.für Ausländer, Abschiebung bzw. Ausweisung, Ausländerfeindlichkeit bzw.Rassismus, illegale Beschäftigung von Ausländern); Nationalität derbeschriebenen Person.
+3. Stil des Artikels: Charakterisierung des Stils (semantischesDifferential); Akteure; Rolle der Ausländer in dem Artikel (aktiv oderpassiv); Bewertung der genannten Ausländer; Akteur, der die Bewertungder Ausländer vornimmt; positive, ausgeglichene oder negative Bewertung;Formulierung einer Handlungsanweisung; Initiator der Handlungsanweisung;Form der Handlungsanweisung (Empfehlung, Ratschlag, Mahnung, Forderung,Gesetz oder Bestimmung); Aufgeforderter für die Handlungsanweisung;Argumentation mit Gefahren für deutsche Interessen (Schule bzw.Kindergartenplätze, Geldzahlungen (Arbeitslosengeld, Sozialhilfe,Rente), deutsche Kultur bzw. Tradition, kollektive Sicherheit bzw.Ordnung, Konkurrenz um Arbeitsplätze, Überbevölkerung, Rassismus undÜberfremdung); Argumentation mit Vorteilen für deutsche Interessen(Arbeitskräfte, Ressourcen, kulturelle Bereicherung, Toleranz fördernd,sozialer Frieden); Wortwahl bzw. benutzte Formulierungen (Asylanten,Asylbewerber, Ausländer, Fremde, Ausländische Mitbürger, Flüchtlinge,Rückkehrer, Einwanderer, Migranten, Illegale, Mafia, Kriminelle,Anschlag, Angriff, Verfolgung, Jagd, Fremdenhass,Ausländerfeindlichkeit, Fremdenfeindlichkeit, Rassismus, Abschiebung,Ausweisung, Rückführung, Straftaten, Razzia, Prozess, Kritik).
+4. Liste der Akteure: Regierung (Exekutive); Legislative,Judikative, Parteien auf Bundesebene bzw. Landesebene Thüringen;Interessenverbände, sonstige Akteure.
+5. Zusätzlich verkodet wurde: Coderidentifikation.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-TH</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Ausländerberichterstattung in den Thüringer Regionalzeitungen Thüringer
+Allgemeine Zeitung (TA), Thüringische Landeszeitung (TLZ), Ostthüringer
+Zeitung (OTZ) und Freies Wort (FW). Aus den zahlreichen Lokalausgaben
+wurden die Lokalteile der vier Thüringer Universitätsstädte Erfurt
+(TA), Jena (TLZ), Weimar (OTZ) und Ilmenau (FW) ausgewählt. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Repräsentative Stichprobe der Ausländerberichterstattung in den
+Thüringer Regionalzeitungen Einfache Zufallsauswahl von 1.150 Artikeln,
+die an den ausgewählten Tagen (Verfahren der sog. ´künstlichen Woche´)
+in Zeitungen erschienen sind.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>1995</year>
+				</startDate>
+				<endDate>
+					<year>1999</year>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Fakultät für Sozial- und Verhaltenswissenschaften Bereich
+Medienwissenschaft, Lehrstuhl Grundlagen der medialen Kommunikation und
+der Medienwirkung, Friedrich-Schiller-Universität Jena
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<dataSets>
+		<dataSet>
+			<numberVariables>64</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Meißner, Betina; Ruhrmann, Georg: 
+Das Ausländerbild in den Thüringer Tageszeitungen 1995-1999: Eine quantitative und qualitative Inhaltsanalyse. 
+Jena: Der Ausländerbeauftragte der Thüringer Landesregierung 2000.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

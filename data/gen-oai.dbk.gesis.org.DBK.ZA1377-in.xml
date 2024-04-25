@@ -1,0 +1,293 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'German for Young Turks
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Deutsch für junge Türken
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA1377</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Deutsch für junge Türken
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>German for Young Turks
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Eleanor C.</firstName>
+				<middleName/>
+				<lastName>Deeley</lastName>
+				<affiliation>
+					<affiliationName>Institut für angewandte Sozialforschung, Universität zu Köln
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1377?doi=10.4232/1.1377</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1377</doiProposal>
+	<publicationDate>
+		<year>1986</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1377</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>1</identifier>
+			<type>VerbundFDB</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT55</identifier>
+					<!-- Erziehung, Schulwesen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Sprache und Sprachwissenschaft</term>
+					<term>Jugend</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Language and linguistics</term>
+					<term>Youth</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>Türke</keyword>
+				<keyword>soziale Beziehungen</keyword>
+				<keyword>Integration</keyword>
+				<keyword>Deutsch als Fremdsprache</keyword>
+				<keyword>Hörfunk</keyword>
+				<keyword>Sprachkurs</keyword>
+				<keyword>nationales Stereotyp</keyword>
+				<keyword>Separation</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>Turk</keyword>
+				<keyword>social relations</keyword>
+				<keyword>integration</keyword>
+				<keyword>German as a foreign language</keyword>
+				<keyword>radio</keyword>
+				<keyword>language course</keyword>
+				<keyword>national stereotype</keyword>
+				<keyword>separation</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Auto- und Heterostereotyp türkischer Schulkinder in KölnerHauptschulen.
+Themen: Aufenthaltsdauer in der Bundesrepublik; Besuch einerVorbereitungsklasse; Dauer der täglichen Hausaufgaben; Schule undDisziplin; Klassenfahrtteilnahme; eigene Einstellung und vermuteteEinstellung der Deutschen zum gemeinsamen bzw. getrennten Schulbesuchvon deutschen Kindern und Gastarbeiterkindern; Nationalität der Lehrer;Türkischkenntnisse der deutschen Lehrer; Einstufung des Verhältnisseszum Lehrer sowie zu türkischen und deutschen Klassenkameraden; Strukturdes Freundeskreises; Ort des Kennenlernens von Freunden; Wunsch nachmehr Kontakt zu Deutschen; Gründe für eventuellen Kontaktmangel;detaillierte Einschätzung der Deutsch- und Türkischkenntnisse desBefragten sowie von Vater und Mutter; Teilnahme der Eltern an einemDeutschkurs; Sehen von türkischen oder deutschen Videofilmen; Radio- undFernsehgewohnheiten; Häufigkeit des Hörens des Radiosprachkurses"Deutsch für junge Türken" in der Familie; Bekanntheitsgrad desSprachkurses im eigenen Umfeld; Informationsquelle über den Sprachkurs;Einschätzung des Wahrheitsgehalts der von Medien verbreitetenInformationen; eigenes Interesse an deutschen Sitten und vermutetesInteresse der Deutschen an türkischen Traditionen; Autostereotyp derTürken und Heterostereotyp der Deutschen; tatsächliche sowie präferierteWohnsituation, gemessen am Ausländeranteil in einem Mietshaus;Ausländeranteil in der eigenen Wohngegend; Ort für Freizeitaktivitäten;Hauptverständigungsschwierigkeiten bei Behörden; Bezugsperson; Bedeutungder Nationalität des zukünftigen Ehepartners; Urteil der Eltern über daseigene Anpassungsverhalten; Lebenszufriedenheit; Interesse an deutscherStaatsangehörigkeit; Einreisejahr der Eltern in die BRD; Einladung derEltern zu einem Besuch bei Deutschen; allgemeine Beurteilung der Türkendurch die Deutschen; Beurteilung der Zukunft der Türken in derBundesrepublik Deutschland; eigene Entscheidung für das Verbleiben inder Bundesrepublik oder Rückkehr in die Türkei.
+Demographie: Alter (klassiert); Geschlecht; Familienstand;Familienzusammensetzung; Alter und Anzahl der Geschwister; Anzahl derGeschwister, die in Deutschland geboren sind; Stadtteil in Köln; Jahr,indem der Vater bzw. die Mutter nach Deutschland kamen; beruflicheStellung des Vaters, Alter der Mutter (klassifiziert); Berufstätigkeitder Mutter.
+Interviewerrating: Datum; Schulform; Schuljahrgang;Vorbereitungsklasse; Anzahl der Schüler in der Klasse; Anzahl dertürkischen Schüler in der Klasse; sonstige ausländische Schüler in derKlasse; Stadtteil von Köln, in der die Schule liegt.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Autostereotype and heterostereotype of Turkish school children inCologne junior high schools.
+Topics: length of stay in the Federal Republic; attendance at apreparation class; length of daily homework; school and discipline;participation in class trip; personal attitude and assumed attitude ofGermans to common or separate school attendance of German children andchildren of guest workers; nationality of teachers; knowledge ofTurkish by German teachers; classification of the relationship to theteacher as well as to Turkish and German classmates; structure ofcircle of friends; place of getting to know friends; desire for morecontact with Germans; reasons for possible lack of contact; detailedassessment of knowledge of German and Turkish by respondent as well asfather and mother; participation of parents in a German course;watching Turkish or German videofilms; radio and television habits;frequency of listening to the radio language course ´German for youngTurks´ in one´s family; degree of familiarity of the language course inpersonal surroundings; source of information about the language course;assessment of the truth content of information spread by the media;personal interest in German customs and assumed interest of Germans inTurkish traditions; autostereotype of Turks and heterostereotype ofGermans; actual as well as preferred housing situation, measured onproportion of foreigners in an apartment house; proportion offoreigners in one´s residential area; place for leisure activities;primary communication difficulties with authorities; reference person;significance of nationality of future spouse; judgement of parents onpersonal adjustment conduct; contentment with life; interest in Germancitizenship; year of arrival of parents in the FRG; invitation ofparents to a visit with Germans; general judgement on Turks by Germans;judgement on the future of Turks in the Federal Republic Germany;personal decision to remain in the Federal Republic or return toTurkey.
+Demography: age (classified); sex; marital status; family composition;age and number of siblings; number of siblings born in Germany; part oftown in Cologne; year in which father or mother came to Germany;occupational position of father, age of mother (classified); employmentof mother.
+Interviewer rating: date; school form; year of school; preparationclass; number of schoolchildren in the class; number of Turkishschoolchildren in the class; other foreign schoolchildren in the class;part of town in Cologne where the school is. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Cologne</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Köln</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Türkische Schüler in Hauptschulen im Stadtgebiet von Köln. Das Alter der Schüler betrug ca. 14 bis 18 Jahre.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Turkish schoolchildren in junior high schools in the municipal area of Cologne. The age of the schoolchildren was about 14 to 18 years. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Mehrstufig proportional geschichtete (nach Türkenanteil in den Schulen) Auswahl
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Multi-stage proportional stratified (according to proportion of Turks in the schools) sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1984-06</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>FORSA, Gesellschaft fuer Sozialforschung und statistische Analysen, Koeln
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>Distributor</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>HostingInstitution</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.Paper</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Schriftliche Befragung in Gruppensituation
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Written survey in a group situation
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>483</numberUnits>
+			<numberVariables>245</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Erhebungseinheit: Schüler###
+Der Fragebogen ist in türkischer Sprache abgefaßt.
+Eine Befragung von deutschen Schülern ist unter der ZA-Studien-Nr. 1378
+archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Survey unit: students###
+The questionnaire was written in the Turkish language. A survey of
+German schoolchildren is archived under ZA Study No. 1378. </text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Deeley, Eleanor C.: 
+Akzeptanz des WDR-Sprachkurses "Deutsch für junge Türken". 
+Köln: FORSA Forschungsbericht 1984.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

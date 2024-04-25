@@ -1,0 +1,696 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Politbarometer East 2010 (Cumulated Data Set, incl. Flash)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Politbarometer Ost 2010 (Kumulierter Datensatz inkl. Kurzbarometer)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch; Text</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric; Text</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA5556</identifier>
+		<currentVersion>1.4.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Politbarometer Ost 2010 (Kumulierter Datensatz inkl. Kurzbarometer)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Politbarometer East 2010 (Cumulated Data Set, incl. Flash)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Matthias</firstName>
+				<middleName/>
+				<lastName>Jung</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Yvonne</firstName>
+				<middleName/>
+				<lastName>Schroth</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Andrea</firstName>
+				<middleName/>
+				<lastName>Wolf</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5556?doi=10.4232/1.13252</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13252</doiProposal>
+	<publicationDate>
+		<date>2019-03-11</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5556</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT14</identifier>
+					<!-- Politische Fragen (Issues) -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT16</identifier>
+					<!-- Politische Parteien, Verbände -->
+					<identifier>KAT31</identifier>
+					<!-- Wirtschaftspolitik, wirtschaftliche Lage -->
+					<identifier>KAT32</identifier>
+					<!-- Sozialpolitik -->
+					<identifier>KAT35</identifier>
+					<!-- Staatseinnahmen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Medizinische Behandlung und Medikation</term>
+					<term>Konflikte, Sicherheit und Frieden</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+					<term>TRANSPORT UND REISEN</term>
+					<term>Energiequellen und natürliche Rohstoffquellen</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Wirtschaftspolitik, öffentliche Ausgaben und Einnahmen</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Medication and treatment</term>
+					<term>Conflict, security and peace</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+					<term>TRANSPORT AND TRAVEL</term>
+					<term>Energy and natural resources</term>
+					<term>Economic conditions and indicators</term>
+					<term>Economic policy,  public expenditure and revenue</term>
+					<term>Economic systems and development</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Politbarometer werden seit 1977 etwa monatlich von der Forschungsgruppe Wahlen für das Zweite Deutsche Fernsehen (ZDF) durchgeführt. Seit 1990 steht diese Datenbasis auch für die neuen Bundesländer zur Verfügung. Im Zentrum der Untersuchung stehen die Meinungen und Einstellungen der wahlberechtigten Bevölkerung in der Bundesrepublik zu aktuellen politischen Themen, Parteien und Politikern sowie dem Wahlverhalten. 1990 bis 1995 und ab 1999 wurden die Politbarometer-Umfragen in den neuen und alten Bundesländern getrennt durchgeführt (Politbarometer Ost bzw. Politbarometer West). Die monatlichen Einzelumfragen eines Jahres werden in einen kumulierten Datensatz integriert, der alle Erhebungen eines Jahres und alle Variablen des jeweiligen Jahrganges umfasst. Ab 2003 sind die Politbarometer-Kurzbefragungen, die unterschiedlich häufig im Jahr erhoben werden, in die Jahreskumulation integriert.  
+</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Die folgenden Themen sind im Gesamtdatensatz insgesamtenthalten. Teilweise wurden sie zu jedem Erhebungszeitpunkt gefragt,teilweise jedoch nur zu einem oder zu mehreren Erhebungszeitpunkten.
+Wichtigste politische Probleme in Deutschland; Wahlbeteiligungsabsichtbei der nächsten Bundestagswahl; Parteipräferenz (Sonntagsfrage undRangordnung); Wahlverhalten bei der letzten Bundestagswahl;Koalitionspräferenz; Beurteilung der großen Koalition; Einstellung zueiner Koalition aus CDU/CSU und FDP, CDU/CSU und SPD, CDU/CSU undGrünen, zu einer Ampelkoalition aus SPD und Grünen sowie zu einerKoalition aus SPD, Linke und Grünen; Sympathie-Skalometer für die CDU,CSU, SPD, FDP, die Grünen und die Linke; Zufriedenheits-Skalometer fürdie Bundesregierung aus CDU/CSU und FDP sowie für die jeweiligenRegierungsparteien, die Oppositionsparteien SPD, Die Linke und dieGrünen; wichtigste Politiker in Deutschland; CDU/CSU Politiker mitPotential;  Sympathie-Skalometer für ausgewählte Spitzenpolitiker(Sigmar Gabriel, Karl-Theodor zu Guttenberg, Gregor Gysi, HanneloreKraft, Renate Künast, Oskar Lafontaine, Ursula von der Leyen, AngelaMerkel, Philipp Rösler, Wolfgang Schäuble, Horst Seehofer, Frank-WalterSteinmeier und Guido Westerwelle); Beurteilung des Verhältnisses derRegierungsparteien untereinander; Partei, die Schuld am schlechtenVerhältnis in der Regierung trägt; vermutete Parteienunterstützung derCDU für Merkel, der CSU für Seehofer, der SPD für Gabriel und der FDPfür Westerwelle; Zukunftsfähigkeit der FDP unter Guido Westerwelle alsParteivorsitzenden; erwartetes Anhalten der schlechten Umfragewerte derFDP und Anteil von Guido Westerwelle am Einbruch der Umfragewerte;Guido Westerwelle und Parteivorsitz der FDP in einem Jahr;  Beurteilungder Zusammenarbeit der neuen Bundesregierung aus CDU, CSU und FDP;Erwartung an den Koalitionsgipfel; Beurteilung der Lösungskompetenz derBundesregierung; Partei, die am ehesten als fortschrittlich,glaubwürdig sowie sozial eingestuft wird; Partei, die sich am ehestenum Bürgerbelange kümmert; Zufriedenheit mit der sozialen Gerechtigkeitin Deutschland; Demokratiezufriedenheit; Politikinteresse; Einstellungzur Notwendigkeit einer neuen Partei; präferierte politischeAusrichtung dieser neuen Partei; richtige Leute in führender Position(in Deutschland allgemein, in der Politik und in der Wirtschaft);Politik kann die wichtigsten Probleme in Deutschland lösen;Zufriedenheit mit der sozialen Marktwirtschaft in Deutschland;Beurteilung der wirtschaftlichen Lage in Deutschland sowie der eigenenWirtschaftslage; erwartete Veränderungen der persönlichenwirtschaftlichen Situation im kommenden Jahr; erwarteteAufwärtsentwicklung in Deutschland (Konjunkturerwartung); erwartete undpräferierte Entwicklungsrichtung der SPD; Einstellung zu einerZusammenarbeit von SPD und Linke; vermutete Auswirkung auf die Parteiim Falle eines Rücktritts von Oskar Lafontaine als Parteivorsitzenderder Linke; Einstellung zu einem einheitlichen Mindestlohn für alleBranchen; Beurteilung der Höhe der Hartz IV Leistungen insgesamt sowieder geplanten Aufstockung der Grundsicherung um 5 Euro pro Monat;Einstellung zur gemeinnützigen Arbeit von Hartz IV-Empfängern;Einschätzung des Missbrauchs von Sozialleistungen; Einstellung zurKritik von Westerwelle zum Thema Sozialleistungen; Beurteilung deszukünftigen Beitrags der Bundesregierung zur Lösung der Probleme imBereich der Sozialleistungen; Einstellung zur Rente mit 67; präferierteAlternativen zur Rentenfinanzierung; Einstellung zur Vermittlungwirtschaftlicher Zusammenhänge und Wirtschaft als Schulfach; Präferenzfür vier oder sechs Jahre Grundschulzeit; Einstellung zum Beibehaltendes Atomausstiegs; Beurteilung der Brennelementesteuer; Einstellung zueiner Zusatzabgabe im Falle des Weiterbetriebs von Atomkraftwerken;Auswirkungen der Energiepolitik auf den Ausbau erneuerbarer Energien;Einstellung zum Vorwurf der Bevorzugung von Atomkraftwerksbetreiberndurch die Bundesregierung; Einstellung zum Protest gegen denCastor-Transport und zu Straßenblockaden; Ausländer als kulturelleBereicherung oder als Überfremdungsgefahr; Beurteilung desZusammenlebens von Deutschen und Ausländern; Beurteilung des Umfangsder  Eingliederungshilfe für Ausländer sowie des Integrationswillensvon Ausländern; Einstellung zu verstärktem Durchgreifen der Politik beieingliederungsresistenten Ausländern; Beurteilung der Kritik von ThiloSarrazin zum Thema Ausländer und deren Eingliederung; erwarteteAuswirkungen der Sarrazin-Diskussion auf das künftige Zusammenleben vonDeutschen und Ausländern; vermutete Ursache für den starkenWirtschaftsaufschwung (Politik, Unternehmen, Arbeitnehmer oder dieWeltwirtschaft); Einstellung zur Teilnahme an Demonstrationen;Erfordernis ausländischer Fachkräfte zur Behebung desFachkräftemangels; Einstellung zur Erleichterung der Zuwanderung fürArbeitskräfte von außerhalb der EU; Zuwanderung in Abhängigkeit von denberuflichen Fähigkeiten oder auch von der Religion; Beurteilung desZusammenlebens mit Muslimen; Muslime sollten dem deutschen Rechtverpflichtet sein; kompetenteste Partei zur Schaffung vonArbeitsplätzen, im Bereich der Sozialpolitik, der Gesundheitspolitik,der Steuerpolitik, der Ausländerpolitik und der Energiepolitik;allgemeine Beurteilung des Gesundheitssystems in Deutschland; Präferenzfür eine Erhöhung der Krankenversicherungsbeiträge oder verstärkteKostenübernahme durch die Versicherten; Einsparpotential imGesundheitsbereich (Medikamente, Arzthonorare, Krankenhauskosten undVerwaltungskosten der Krankenkassen); Einsparmöglichkeiten durchKostenbewusstsein der Patienten; erwarteter wichtiger Beitrag derBundesregierung zur Lösung der Probleme im Gesundheitswesen;Beurteilung der Kopfpauschale; erwartete Einigung derRegierungsparteien CDU, CSU und FDP in der Gesundheitspolitik;Einstellung zu den beschlossenen Beitragserhöhungen für gesetzlichKrankenversicherte und zur Lösbarkeit der Finanzierungsprobleme bei dengesetzlichen Krankenkassen; erwartete Steuererhöhung; präferierteStaatsfinanzierung (Steuererhöhung, Ausgabenkürzung oder neueSchulden); präferierte Bereiche für Ausgabenkürzungen (Bildung,Sozialleistungen, Gesundheit, Verkehr/Straßenbau, Verteidigung,Kinderbetreuung, Umweltschutz, Rente, Hartz IV, Familienförderung,Steuervergünstigungen, Entfernungspauschale); Einstellung zuSteuererhöhungen für höhere Einkommen, zur Einführung einerWertpapiersteuer und zur Erhöhung der Mehrwertsteuer; Rückgängigmachender Steuervergünstigung für Hotelübernachtungen; erwartetes Ausmaß derpersönlichen finanziellen Belastungen durch mögliche Kürzungen undSteuererhöhungen; Bewertung möglicher Kürzungen und Steuererhöhungenals sozial gerecht; Einstellung zum 80-Milliarden-Sparpaket derBundesregierung; erwartetes Ausmaß der persönlichen finanziellenBelastung durch das Sparpaket; Bewertung des Sparpakets als sozialgerecht; Einstellung zur Anhebung des Steuersatzes für höhereEinkommen; präferierte Verwendung der Steuermehreinnahmen des Staates(Schuldenabbau, zusätzliche staatliche Ausgaben oder Steuersenkungen);Einstellung zum Protest des Deutschen Gewerkschaftsbundes gegen dieSparpolitik der Bundesregierung; Einstellung zu Steuersenkungen trotzhoher Staatsverschuldung; Beurteilung der eigenen Steuerbelastung;geschätzte Verbreitung von Steuerhinterziehung in Deutschland;Einstellung zum Ankauf von Steuersünder-CDs durch den Staat;Einstellung zu Strafen für Steuersünder auch nach Selbstanzeige;erwartete Einigung der Regierungsparteien über Steuerpolitik; erwarteteUmsetzung der beschlossenen Steuerentlastung; Beurteilung der geplantenBankenabgabe; Einstellung zu einer Bankenabgabe auch im nationalenAlleingang; Erwartung persönlicher steuerlicher Belastung oderEntlastung; Einstellung zum Wahlversprechen der FDP aufSteuerentlastungen; empfundene Bedrohung durch Kriminalität;Beurteilung der Wiedervereinigung; Wunsch nach zwei deutschen Staaten;Überwiegen der Unterschiede zwischen Ost und West oder Nord und Süd;Ostdeutsche oder Westdeutsche als Profiteure der Wiedervereinigung;Entwicklung der Annäherung zwischen Ostdeutschen und Westdeutschen;Identifikation als Deutscher; Beurteilung der derzeitigen persönlichenLage im Vergleich mit der vor der Wende; Beurteilung des Lebens und derderzeitigen politischen Verhältnisse im Vergleich mit denen in der DDR;Einstellung zur fortgesetzten Aufarbeitung der Stasi-Vergangenheit;Beurteilung des Umfangs der finanziellen Unterstützung für den AufbauOst; Beurteilung der Gehaltsunterschiede zwischen Ost und West alsgerecht; aus der ehemaligen DDR umgesiedelt bzw. aus ehemaliger BRDübergesiedelt; Umsiedlung vor oder nach der Maueröffnung 1989; Imageder Ostdeutschen und Westdeutschen anhand ausgewählter Eigenschaften(überheblich, hilfsbereit, egoistisch und optimistisch); präferiertekünftige Rekrutierung der Bundeswehr aus Wehrpflichtigen oderFreiwilligen; Einstellung zum Einsatz der Bundeswehr beiinternationalen Friedenseinsätzen; Einstellung zur Aufstockung derUNO-Schutztruppe in Afghanistan um 850 deutsche Soldaten (Split A) bzw.zur generellen Beteiligung Deutschlands an dieser UNO-Schutztruppe(Split B); UNO-Schutztruppe in Afghanistan leistet wichtigen Beitragzum Schutz vor Terrorismus; Beurteilung des Erfolgs des künftigenMilitäreinsatzes in Afghanistan; präferierter Zeitpunkt für den Abzugdeutscher Soldaten aus Afghanistan; Beurteilung desAfghanistan-Besuches von Karl-Theodor zu Guttenberg zusammen mit seinerEhefrau; empfundene Bedrohung durch Terrorismus in Deutschland;ausreichende Schutzmaßnahmen gegen Terrorismus in Deutschland;Beurteilung der Arbeit von Verteidigungsminister zu Guttenberg;Vorteilhaftigkeit der EU-Mitgliedschaft des Landes; Wunsch nachstärkerer politischer Zusammenarbeit bzw. nach wirtschaftlichemZusammenrücken in der EU; Einstellung zur Einführung des Euro (Split A)bzw. zum Euro als Währung in Deutschland (Split B); Erwartung eineslangfristigen Erfolgs des Euro; Einstellung zur Einmischung der EU indie Finanzen der Mitgliedsstaaten; Einschätzung der Auswirkungen derEuro-Krise auf Deutschland; Euro übersteht die Finanzkrise; Beurteilungder Arbeit der Bundesregierung bei der Bewältigung der Finanzkrise;Beurteilung des Einsatzes der Bundesregierung bei der Regulierunginternationaler Finanzmärkte; Einstellung zu deutschen Bürgschaften fürden Euro-Rettungsschirm; erwartete Auswirkung der Krise in Griechenlandauf die wirtschaftliche Lage in Deutschland; Einstellung zu deutschenKrediten für Griechenland; Griechenlandkrise als Gefahr für dieEuro-Stabilität; Einstellung zu EU-Krediten für Irland; Euro hat sichbewährt; Finanzprobleme von EU-Mitgliedsstaaten als Gefahr für dieEuro-Stabilität; Einstellung zur Unterstützung finanziell schwacherdurch starke EU-Staaten; Beurteilung der Arbeit von BundeskanzlerinMerkel bei der Bewältigung der Euro-Krise; Beurteilung der Forderungender IG-Metall in den Tarifverhandlungen; Friedensaussichten zwischenIsrael und Palästina; Beurteilung der Arbeit von BundeskanzlerinMerkel; Meinung zum Vorwurf gegen Angela Merkel hinsichtlich mangelnderpolitischer Vorgaben; erwartetes stärkeres Durchsetzen von AngelaMerkel in der Bundesregierung; Gemeinwohl oder Gruppeninteressen imMittelpunkt der Politik der Bundesregierung sowie der einzelnenRegierungsparteien CDU, CSU und FDP; bessere Regierungsalternativen mitanderen Parteien; Bedeutung für den Befragten, wer regiert; Einstellungzur Beteiligung der Linken an der nächsten Bundesregierung; Robustheitder Regierungskoalition; Parteien stehen zur Koalition; Vorankommen derRegierung bei der Problemlösung; Einstellung zu einer Beteiligung derPartei Die Linke an der Landesregierung in NRW; Einstellung zu einerAmpelkoalition in NRW nach der Landtagswahl; Einstellung zurMinderheitsregierung in NRW; Einstellung zu einer Minderheitsregierungaus SPD und Grünen auf Bundesebene; Vertrauen zu einemMinisterpräsidenten der Grünen; erwartete künftige Regierungsbündnisseaus CDU und Grünen auf Landesebene; präferierter und erwarteterpolitischer Kurs der CDU (freier Wettbewerb oder soziale Absicherung);Wunsch nach einer CDU-Politik mit mehr christlich-traditionellenWerten; Beurteilung der Führungsqualität von Angela Merkel alsCDU-Parteivorsitzende; erwartetes Anhalten der guten Umfragewerte fürdie Grünen; Beurteilung der derzeitigen SPD-Politik im Vergleich mitder Politik unter Gerhard Schröder; Beurteilung der deutschen Maßnahmengegen die Aschewolke nach dem Vulkanausbruch in Island; ausreichendeAufklärungsanstrengungen der katholischen Kirche zum sexuellenMissbrauch; ausreichende Hilfe der Kirche für die Opfer sexuellenMissbrauchs; Bewertung des Rücktritts von Bundespräsident Horst Köhler;Beurteilung von Horst Köhler als Bundespräsident; Bedeutung der Persondes neuen Bundespräsidenten für den Befragten;Bundespräsidentenpräferenz; erwartetes Zerbrechen der Bundesregierungim Falle des Scheiterns von Christian Wulff; Hoffnung auf Deutschlandals Fußball-Weltmeister; geschätztes Ergebnis der deutschen Mannschaftbei der WM; Präferenz für Joachim Löw als Bundestrainer; Bedeutung vonFußballern mit Migrationshintergrund für die Integration vonAusländern; erwarteter Anstieg der Benzinpreise durch die Ölkatastropheim Golf von Mexiko; Einstellung zum Verbot von Tiefseebohrungen;Einstellung zur Finanzhilfe für die Opfer der Flutkatastrophe inPakistan durch die Bundesregierung; Kenntnis von Google Street View;Meinung zur Darstellung des eigenen Wohnhauses im Internet;beabsichtigter Widerspruch bei Google Street View; Bedeutung des ThemasStuttgart 21; Zustimmung zum Umbau des Stuttgarter Bahnhofs; erwarteteDurchsetzung von Stuttgart 21; präferierte Entscheidungsebene fürGroßprojekte (Volksabstimmung oder Parlamentsentscheidung); Kenntnis undBeurteilung des Schlichtungsvorschlags von Heiner Geißler zu Stuttgart21; Wunsch nach stärkerer Befürwortung der Interessen der Gegner;generell Schlichtungsgespräche bei Großprojekten einführen;Ausgabenhöhe für Weihnachtsgeschenke im Vergleich zum Vorjahr;Selbsteinstufung auf einem Links-Rechts-Kontinuum und Einstufung derParteien auf diesem Kontinuum; Rückblick auf das vergangene Jahr;Ausblick auf das zukünftige Jahr.  
+Demographie: Geschlecht; Alter (kategorisiert); Familienstand;Zusammenleben mit einem Partner; Kinderzahl und Alter der Kinder;Schulabschluss bzw. angestrebter Schulabschluss; abgeschlossenesStudium bzw. Berufsausbildung; Berufstätigkeit; eigeneArbeitsplatzgefährdung; Berufsgruppe; Haushaltsgröße; Personen imHaushalt ab 18 Jahren; Gewerkschaftsmitglied im Haushalt; Konfession;Kirchgangshäufigkeit; Arbeitsplatzgefährdung nahestehender Personen;Parteineigung und Parteiidentifikation; Anzahl der Telefonnummernzuhause.
+Zusätzlich verkodet wurden: geschätztes Alter des Befragten;Erhebungsmonat; Erhebungswoche; Bundesland; Bezirkszuordnung BerlinWest/Ost; 
+Gewichtungsfaktoren: Repräsentativgewicht; Gesamtgewicht. </freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The Politbarometer has been conducted since 1977 on an almost monthly basis by the Forschungsgruppe Wahlen on behalf of the Second German Television (ZDF). Since 1990, this database has also been available for the new German states. The survey focuses on the opinions and attitudes of the voting-age population in the Federal Republic on current political issues, parties, politicians, and voting behavior. From 1990 to 1995 and from 1999 onward, the Politbarometer surveys were conducted separately both in the newly formed eastern and in the western German states (Politbarometer East and Politbarometer West). The separate monthly surveys of a year are integrated into a cumulative data set that includes all surveys of a year and all variables of the respective year. Starting in 2003, the Politbarometer short surveys, collected with varying frequency throughout the year, are integrated into the annual cumulation.  </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>with East Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>mit Berlin-Ost</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BB</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-MV</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-ST</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-TH</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte Wohnbevölkerung</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>The residential population eligible to vote.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Mehrstufige Zufallsauswahl: Auswahl von Haushaltsadressen nach dem
+RLD-Verfahren und Auswahl der Zielperson nach einem Geburtstagsschlüssel</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Multi-stage random sample: sample of household addresses according to the RLD procedure and sample according to a key based on birthday</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-01-12</date>
+				</startDate>
+				<endDate>
+					<date>2010-01-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>week 02</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Woche 02</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-01-26</date>
+				</startDate>
+				<endDate>
+					<date>2010-01-28</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>January</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Januar</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-02-23</date>
+				</startDate>
+				<endDate>
+					<date>2010-02-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>February</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Februar</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-03-09</date>
+				</startDate>
+				<endDate>
+					<date>2010-03-11</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>week 10</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Woche 10</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-03-23</date>
+				</startDate>
+				<endDate>
+					<date>2010-03-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>March</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>März</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-04-20</date>
+				</startDate>
+				<endDate>
+					<date>2010-04-22</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>April</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>April</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-05-18</date>
+				</startDate>
+				<endDate>
+					<date>2010-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>May</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Mai</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-05-30</date>
+				</startDate>
+				<endDate>
+					<date>2010-06-02</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>week 22</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Woche 22</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-06-15</date>
+				</startDate>
+				<endDate>
+					<date>2010-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>June</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Juni</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-07-13</date>
+				</startDate>
+				<endDate>
+					<date>2010-07-15</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>July</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Juli</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-08-24</date>
+				</startDate>
+				<endDate>
+					<date>2010-08-26</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>August</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>August</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-09-07</date>
+				</startDate>
+				<endDate>
+					<date>2010-09-09</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>week 36</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Woche 36</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-09-21</date>
+				</startDate>
+				<endDate>
+					<date>2010-09-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>September</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>September</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-09-28</date>
+				</startDate>
+				<endDate>
+					<date>2010-09-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>week 39</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Woche 39</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-10-19</date>
+				</startDate>
+				<endDate>
+					<date>2010-10-21</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>October</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Oktober</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-11-09</date>
+				</startDate>
+				<endDate>
+					<date>2010-11-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>week 45</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Woche 45</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-11-30</date>
+				</startDate>
+				<endDate>
+					<date>2010-12-02</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>week 48</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Woche 48</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-12-14</date>
+				</startDate>
+				<endDate>
+					<date>2010-12-16</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>December</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Dezember</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Trend/RepeatedCrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Sophia</firstName>
+				<middleName/>
+				<lastName>Kratz</lastName>
+				<contributorType>DataCurator</contributorType>
+				<affiliation>
+					<affiliationName>GESIS – Leibniz-Institut für Sozialwissenschaften</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Monika</firstName>
+				<middleName/>
+				<lastName>Langhans</lastName>
+				<contributorType>DataCurator</contributorType>
+				<affiliation>
+					<affiliationName>GESIS – Leibniz-Institut für Sozialwissenschaften</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview (CATI) with standardized questionnaire</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>12664</numberUnits>
+			<numberVariables>392</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Der Datensatz besteht aus einer Kumulation der von Januar bis Dezember
+2010 monatlich durchgeführten Erhebungen. 
+
+Neben den monatlichen Erhebungen sind die sog. Kurzbarometer
+enthalten, die in unregelmäßigen Abständen zwischen den monatlichen
+Befragungen erhoben wurden. 
+
+Unter der ZA-Studien-Nr. 5557 sind die Befragungen im Westteil der
+Bundesrepublik archiviert sowie ein zusätzlicher Gewichtungsfaktor, der
+es ermöglicht, die beiden Datensätze zu einer gesamtdeutsch gewichteten
+Befragung zusammenzufügen. </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The dataset consists of a cumulation of the data from January to December monthly surveys conducted in 2010.
+
+In addition to the monthly surveys, the so-called short barometers are also included, which were carried out at irregular intervals between the monthly surveys.
+
+The surveys in the western part of the Federal Republic of Germany are archived under the ZA study No. 5557. The total weighting factor makes it possible to merge the two data sets to form a weighted survey for the whole of Germany.</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.12415</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.11613</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.11342</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+</resource>

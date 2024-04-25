@@ -1,0 +1,230 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Current Political Issues Macedonia March 2001'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Gegenwärtige politische Fragen in Mazedonien März 2001'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4310</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Gegenwärtige politische Fragen in Mazedonien März 2001</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Current Political Issues Macedonia March 2001</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Aktuelni politicki prasanja vo Makedonija, mart 2001</titleName>
+			<titleType>OriginalTitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Aktuelni politicki prasanja vo Makedonija, mart 2001</titleName>
+			<titleType>OriginalTitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Gjorgji</firstName>
+				<middleName/>
+				<lastName>Spasov</lastName>
+				<affiliation>
+					<affiliationName>Faculty of Law -Iustinianus Primus-, Ss. Cyril and
+Methodius University, Skopje, Macedonia</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4310?doi=10.4232/1.4310</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4310</doiProposal>
+	<publicationDate>
+		<year>2006</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4310</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Konflikte, Sicherheit und Frieden</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Conflict, security and peace</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Sicherheitsfragen und Wahlverhalten.
+Themen: NATO und Sicherheit im Land; NATO Truppenpräsenz in derRegion; NATO Intervention gegen ethnischen Extremismus; Rolle von KFORund NATO; Veränderung der existierenden Grenzen; Parteipräferenz(Sonntagsfrage). 
+Demographie: Geschlecht; Alter; Bildung; Beruf; ethnischeZugehörigkeit; Wohnort; Region.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Security issues and voting behaviour.
+Topics: NATO and security in the country; NATO troops presence in theregion; NATO intervention against ethnic extremism; role of KFOR andNATO; changing the existing borders; voting preference (Sundayquestion).
+Demography: Gender; age; education; occupation; ethnic belonging;place of living; region.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>MK</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 18 Jahre und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>The population 18+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Geschichtete Zufallsauswahl, repräsentativ zum Zensus 1994.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Stratified random sample, representative to 1994 census 
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2001-03</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Institute for Democracy, Solidarity and Civil Society (IDSCS), Skopje, 
+Macedonia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefoninterview mit standardisiertem Fragebogen</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview with standardized questionnaire</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>15</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Wahlstudien aus Mazedonien sind unter den ZA-Studien-Nrn.:
+4305-4329 archiviert.
+
+Weitere Wahlstudien aus dem Projekt Founding Elections in Eastern
+Europe (H.-D. Klingemann, Wissenschaftszentrum Berlin, gefördert von
+der Fritz Thyssen Stiftung) sind unter den ZA-Studien-Nrn.: 2465-2469,
+2485-2488, 2560-2562, 2811-2819, 2901-2912, 3053-3057, 3175-3176 und
+3631-3633 archiviert.
+
+Vergleichbare Wahlstudien aus Osteuropa sind unter den
+ZA-Studien-Nrn.: 3123-3126, 3215-3218, 3527-3530, 3631-3633, 3888-3893,
+4053-4054, 4064-4065, 4305-4329 und 4333-4335 archiviert.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The election studies from Macedonia are archived under ZA-Study-Nos.: 
+4305 - 4329. 
+
+Further election studies of the project ´Founding Elections in Eastern
+Europe´ (H.-D. Klingemann, Science Center Berlin -WZB-; supported by
+the Fritz Thyssen Foundation) are archived under ZA-Study-Nos.: 
+2465 - 2469, 2485 - 2488, 2560 - 2562, 2811 - 2819, 2901- 2912, 
+3175 - 3176 and 3631 - 3633. 
+
+Comparable election studies from Eastern Europe are archived under
+ZA-Study-Nos.: 1944 - 1945, 3123- 3126, 3215 - 3218, 3527 - 3530, 
+3631 - 3633, 3888 - 3893, 4053 - 4054, 4064 - 4065, 4305- 4329 and 
+4333 - 4335.</text>
+		</note>
+	</notes>
+</resource>

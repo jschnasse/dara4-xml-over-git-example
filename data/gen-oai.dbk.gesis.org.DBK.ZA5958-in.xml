@@ -1,0 +1,357 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'SIMCUR (Social Integration of Migrant Children - Uncovering Family and School Factors Promoting Resilience)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'SIMCUR - Social Integration of Migrant Children - Uncovering Family and School Factors Promoting Resilience'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5958</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>SIMCUR - Social Integration of Migrant Children - Uncovering Family and School Factors Promoting Resilience</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>SIMCUR (Social Integration of Migrant Children - Uncovering Family and School Factors Promoting Resilience)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Birgit</firstName>
+				<middleName/>
+				<lastName>Leyendecker</lastName>
+				<affiliation>
+					<affiliationName>Fakultät für Psychologie / Interdisziplinäres Zentrum für Familienforschung (ICFR) an der Ruhr-Universität Bochum</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Judi</firstName>
+				<middleName/>
+				<lastName>Mesman</lastName>
+				<affiliation>
+					<affiliationName>University of Leiden, The Netherlands</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Brit</firstName>
+				<middleName/>
+				<lastName>Oppedal</lastName>
+				<affiliation>
+					<affiliationName>Norwegian Institute of Public Health, Oslo, Norway</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5958?doi=10.4232/1.12705</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12705</doiProposal>
+	<publicationDate>
+		<date>2016-11-29</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5958</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT51</identifier>
+					<!-- Gemeinde, Wohnumwelt -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+					<identifier>KAT55</identifier>
+					<!-- Erziehung, Schulwesen -->
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Religion und Werte</term>
+					<term>Minderheiten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Religion and values</term>
+					<term>Minorities</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Hauptziel des Forschungsprojekts SIMCUR ist, die Prozesse, die der Entwicklungsstabilität bei Kindern aus Migrantenfamilien zugrunde liegen, während der Übergänge in die Primarstufe und Sekundarstufe in drei europäischen Ländern aufzudecken. Diese Prozesse wurden auf Ebene des Individuums, der Familie, der Schule und der Gesellschaft untersucht. Durch den Vergleich von Kindern in Deutschland, den Niederlanden und Norwegen, verdeutlicht die Studie auch die Auswirkungen breiterer gesellschaftlicher Einflüsse. In einem Längsschnitt-Kohorten-Design basierend auf den beiden Schulübergängen, wurden 880 Migrantenfamilien mit Ursprung in der Türkei untersucht, was Ländervergleiche ermöglicht. Die Bewältigung wichtiger Bildungsübergänge ist ein wichtiger Indikator für die soziale Integration und hängt mit der individuellen psychosozialen Anpassung zusammen. Für den Grundschulübergang wurden in den drei teilnehmenden Ländern 364 Kinder aus türkischen Migrantenfamilien (Kohorte 1) im Alter von 5, 6 und 7 beurteilt. Für den Sekundarschulübergang wurden 256 Kinder in einer zweiten Kohorte im Alter von 12, 13 und 14 untersucht. Weil dieser Übergang in Deutschland früher stattfindet, hatte dieses Land eine zusätzliche Kohorte von 147 Kindern im Alter von 9, 10, und 11 Jahren. Bei jeder Beurteilung werden Variablen aus allen Funktionsebenen gemessen, unter Verwendung mehrerer Methoden (Verhaltensbeobachtung, Interviews, Messungen und Tests) und gewonnen aus mehreren Quellen (Kinder, Eltern und Lehrer).
+Eltern1. Fragebogen Mutter:
+Kategorie 1: HintergrundFamiliensituation: Beziehung zum Kind / Vater; Betreuungsperson; Anzahl der Kinder; Familienstand; Gesundheit; Bildung, Arbeit und wirtschaftliche Situation: Schuljahre; ISCED; Erwerbstätigkeit; Arbeitszeit; Gesamteinkommen; Nachbarschaft: Alltagsbewältigung; Wohndauer, NICHD (National Institute of Child Health and Human Development); Kollektive Wirksamkeitsskala; Aktivitäten zu Hause: Alphabetisierung und Medien zu Hause; Sprachgebrauch beim Sprechen und Fernsehen; Sprache: Sprachkenntnisse Türkisch und Mehrheitssprache; Bedeutung des Sprachgebrauchs des Kindes; Sprachgebrauch in Türkisch und Mehrheitssprache; Kultur: MEIM-R (Multigroup Ethnic Identity Measure - überarbeitet); Fragen der ICSEY-Studie (International Comparative Study on Ethnocultural Youth); Akkulturationsstress; Diskriminierung; Religion: Religionszugehörigkeit; Rolle der Religion in der Erziehung.
+Kategorie 2: KindVerhalten: CBQ (Child Behavior Questionnaire), EATQ-R (Early Adolescent Temperament Questionnaire - revised); Kindererziehung: Disziplin; EMBU (Egna Minnen Beträffande Uppfostran (´My memories of upbringing´); Bestrebungen und Erwartungen: Bildungsaspiration für das Kind; Schule: Besuch einer Vorschule; Eltern-Lehrer Beteiligung; Eltern-Lehrer Verantwortung; Vertrauen in die Schule / Lehrer; bereit für die Schule; Übergang; Stärken und Schwierigkeiten: SDQ (Strength and Difficulties Questionnaire); Freunde: Anzahl der Freunde; Häufigkeit des Spiels; Sprache: Sprachgebrauch des Kindes.
+Kategorie 3: SelbstDein Leben: SWLS (Skala Lebenszufriedenheit); Aufgabenaufteilung; soziales Netzwerk: Oslo 3-item soziale Unterstützung Skala; Beziehung zu Nachbarn; Alltagsleben: tägliche Mühe; Beziehung: VGP (Vragenlijist voor Gezins Problemen); Gefühle: CES-D 10 (Center for Epidemiologic Studies Short Depression Scale); Familie: FAD (Family Assessment Device); Werte: wahrgenommene Leistungswerte; familiäre kollektivistische Werte.
+Interview Mutter:Familiengeschichte: Familienstammbaum; Grund für Migration; Rechtsstatus; Nachbarschaft: NICHD (National Institute of Child Health and Human Development); Alltagsbewältigung (Subskala: Kommunale Dienstleistungen); Auto / Führerschein; Wohnsituation: Wohnraum; Tagesablauf: Tagesabläufe; Freizeit; Aktivitäten zu Hause: Mediennutzung zu Hause.
+2. Fragebogen Vater:
+Kategorie 1: HintergrundSprache: Sprachkenntnisse Türkisch und Mehrheitssprache; Bedeutung des Kindes; Sprachgebrauch Türkisch und Mehrheitssprache; Kultur: MEIM-R (Multigroup Ethnic Identity Measure - revised); Fragen der ICSEY-Studie (International Comparative Study on Ehtnocultural Youth); Akkulturationsstress; Diskriminierung; Religion: Religionszugehörigkeit; Rolle der Religion in der Erziehung.
+Kategorie 2: KindKindererziehung: EMBU (Egna Minnen Beträffande Uppfostran (´Meine Erinnerungen an die Erziehung´); Schule: Eltern-Lehrer-Verantwortung, SDQ (Strength and Difficulties Questionnaire).
+Kategorie 3: SelbstKindererziehung: Aufgabenaufteilung; Beziehung: VGP (Vragenlijist voor Gezins Problemen, Subskala: Partnerbeziehung / eheliche Unterstützung); Werte: wahrgenommene Leistungswerte.
+Fragebogen Kind
+Kategorie 1: HintergrundKultur: MEIM-R (Multigroup Ethnic Identity Measure - revised); Fragen der ICSEY-Studie (International Comparative Study on Ethnocultural Youth); Diskriminierung: wahrgenommene ethnische Diskriminierung; Sprache: Sprachkenntnisse Türkisch und Mehrheitssprache; Sprachgebrauch Türkisch und Mehrheitssprache; Religion: Glaubenspraxis des Kindes; Rolle der Spiritualität bei der Bewältigung des Alltags; allgemeine Selbstwahrnehmung von Religion oder Spiritualität; Aktivitäten zu Hause: Alphabetisierung und Medien zu Hause.
+Kategorie 2: ElternKindererziehung: EMBU (Egna Minnen Beträffande Uppfostran (´Meine Erinnerungen an die Erziehung´) - kurze Form); elterliche Einbindung: Aktivitäten mit Mutter und Vater.
+Kategorie 3: SelbstSoziales Netzwerk: detaillierte Angaben zum sozialen Netzwerk; Zusammensetzung des sozialen Netzwerks; funktionale und emotionale Unterstützung; Überwachung: Angaben des Kindes; Verhalten: EATQ-R (Early Adolescent Temperament Questionnaire - überarbeitet, Subskalen: Aktivierungskontrolle, hemmende Kontrolle, Aufmerksamkeit); SDQ (Strength and Difficulties Questionnaire); Selbstwirksamkeit; Einsatz sozialer Ressourcen; Alltag: tägliche Probleme.
+Kategorie 4: SchuleMotivation: Motivation zum Start in die (neue) Schule; Erwartungen an den Schulbeginn; Gedanken über die Schule; Bestrebungen und Erwartungen: Schulwünsche und Erwartungen; Job-Aspirationen und Erwartungen; Werte: wahrgenommene elterliche Leistungswerte; wahrgenommene Kontingenz: wahrgenommene Kontingenz-Skala für Kinder; Regeln: Brechen der Schulregeln (Items von ICSEY International Comparative Study on Ethnocultural Youth); Unterstützung: Klassenunterstützung; CASSS (Child and adolescent support scale).
+Tests:Kategorie 5: TestsMütterliche Sensibilität in der Aufgabensituation (EAS-mother-child interaction (video taped); Verhaltenshemmung (Hearts and flowers (Dots Task); Working Memory (Digit Span -Test vorwärts, rückwärts); Kontrollhemmung (Delay Frustration Task); Sprache/Vokabeln: PPVT-4 The Peabody Picture Vocabulary Test (4th Ed.)(Turkish receptive vocabulary test), EOWPVT (Expressive one word picture vocabulary test - Majority language expressive vocabulary test); IQ: SON-R: Snijders-Oomen niet-verbale intelligentietest - revised, Subtest: Analogien).
+Demographie: Kind: Alter (Geburtsdatum: Monat, Jahr); Alter in Monaten; Geschlecht; Nationalität; Eltern: Alter (Geburtsdatum: Monat, Jahr) von Mutter und Vater; Alter von Mutter und Vater zum Testzeitpunkt; Nationalität; Beziehung des Befragten zum Kind; Kinderzahl insgesamt; Geburtsdatum, Alter sämtlicher Kinder; Platz des Kindes in der Geschwisterfolge; Anzahl der Kinder im Haushalt; weitere Erwachsene im Haushalt; Geburt eines weiteren Kindes seit dem letzten Besuch und Geburtstag des Neugeborenen; Veränderungen seit dem letzten Besuch; spezifische Veränderungen.
+Zusätzlich verkodet wurde: ID des Kindes; Teilnahme des Kindes an den einzelnen Wellen; Datum des Besuchs zu Hause (W1); Erhebungsjahr; Kohorte; Land der Datenerhebung; Herkunftsland Türkei; zu Hause gesprochene Hauptsprache neben Türkisch; Geschwisterkind in der Studie; ID der Mutter bei Geschwisterfamilien; Fragebogensprache; Datum der Fertigstellung des  Fragebogens; Lehrer ID; ID der Schule.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The main objective of the SIMCUR research project is to uncover the processes underlying developmental resilience in children from immigrant families during the transitions to primary and secondary education in three European countries. These processes are examined at the levels of the individual, the family, the school, and the community. By comparing children in Germany, the Netherlands, and Norway, the study also elucidates the impact of broader societal influences. In a longitudinal cohort design based on the two school transitions, we studied 880 migrant families with origins in Turkey allowing across- country comparisons. Mastering major educational transitions is a critical indicator of social integration and is related to individual psychosocial adaptation. For the primary school transition, 364 children from Turkish migrant families (cohort 1) were assessed at ages 5, 6, and 7 in the three participating countries. For the secondary school transition, we assessed 256 children in a second cohort of children at ages 12, 13, and 14. Because this transition takes place earlier in Germany, this country had an extra cohort of 147 children assessed at ages 9, 10, and 11. At each assessment, variables from all levels of functioning are measured using multiple methods (behavioral observation, interviews, tests, and surveys), obtained from multiple sources (mothers, fathers and children). 
+Parents1. Mother questionnaire: 
+Category 1: Background Family situation: relation to the child / father; caregiver; number of children, marital status; health; education, work and economic situation: years of schooling, ISCED; gainful employment; working hours; total income; neighborhood: managing to make it (length of residence), NICHD (National Institute of Child Health and Human Development); Collective Efficacy Scale; activities at home: literacy and media at home; language use in reading and watching TV; language: language proficiency Turkish and majority language; importance of child language use; language use in Turkish and majority language; culture: MEIM-R (Multigroup Ethnic Identity Measure - revised); questions from ICSEY study (International Comparative Study on Ethnocultural Youth; acculturation stress; discrimination; religion: religious affiliation; role of religion in parenting.
+Category 2: ChildBehavior: CBQ (Child Behavior Questionnaire), EATQ-R (Early Adolescent Temperament Questionnaire - revised); parenting: discipline; EMBU (Egna Minnen Beträffande Uppfostran (´My memories of upbringing´); aspirations and expectations: schooling you would lke/actually expect your child to complete; school: child preschool attendance; parent-teacher involvement, parent-teacher responsibility, confidence in school/teacher; get ready for school; transition; strengths and difficulties: SDQ (Strength and Difficulties Questionnaire); friends: number of friends; frequency of playing; language: child´s language use.
+Category 3: YourselfYour life: SWLS (The Satisfaction with Life Scale); task division; social network: Oslo 3-item social support scale; relationship to neighbors; daily life: daily hassles; relationship: VGP (Vragenlijist voor Gezins Problemen); feelings: CES-D 10 (Center for Epidemiologic Studies Short Depression Scale); family: FAD (Family Assessment Device); values: perceived achievement values; familiy collectivist values.
+Mother interview:Family history: family tree, reason for migration; legal status; neighborhood: NICHD (National Institute of Child Health and Human Development); managing to make it (Subscale: community services); car/driver´s license; living situation: living space; daily schedule: daily schedules; spare time; activities at home: media use at home. 
+2. Father questionnaire:
+Category 1: Background Language: language proficiency Turkish and majority language; importance of child; language use in Turkish and majority language; culture: MEIM-R (Multigroup Ethnic Identity Measure - revised); questions from ICSEY study (International Comparative Study on Ethnocultural Youth); acculturation stress; discrimination; religion: religious affiliation; role of religion in parenting.
+Category 2: ChildParenting: EMBU (Egna Minnen Beträffande Uppfostran (´My memories of upbringing´); school: parent-teacher-responsibility; SDQ (Strength and Difficulties Questionnaire).
+Category 3: YourselfParenting: task division; relationship: VGP (Vragenlijist voor Gezins Problemen, Subscale: partner relationship/marital support); values: perceived achievement values.
+Child
+Category 1: BackgroundCulture: MEIM-R (Multigroup Ethnic Identity Measure - revised); questions from ICSEY study (International Comparative Study on Ethnocultural Youth); discrimination: perceived ethnic discrimination; language: language proficiency Turkish and majority language; language use Turkish and majority language; religion: children´s practice of their beliefs; spirituality´s role in coping and everyday life; overall self-perception of religiousness or spirituality; activities at home: literacy and media at home.
+Category 2: ParentsParenting: EMBU (Egna Minnen Beträffande Uppfostran (´My memories of upbringing´) - short form); parental involvement: activities with mother and father.
+Category 3: YourselfSocial Network: Social Network Inventory; composition of social network; functional and emotional support; monitoring: child disclosure; behavior: EATQ-R (Early Adolescent Temperament Questionnaire - revised, Subscales: activation control, inhibitory control, attention); SDQ (Strength and Difficulties Questionnaire); self-assertive efficacy; enlisting social resources; daily life: daily hassles.
+Category 4: SchoolMotivation: motivation to start (new) school; expectations regarding start of new school; thoughts about school; aspirations and expectations: school aspirations and expectations; job aspirations and expectations; values: perceived parental achievement values; perceived contingency: perceived contingency scale for children; rules: breaking school rules (items from ICSEY International Comparative Study on Ethnocultural Youth); support: class support, CASSS (Child and adolescent support scale).
+Tests: Category 5: TestsMaternal sensitivity in task situation (EAS-mother-child interaction (video taped); behavioral Inhibition (Hearts and flowers (Dots Task); Working Memory (Digit Span forwards, backwards); inhibitory control (Delay Frustration Task; Language/Vocabulary: PPVT-4 The Peabody Picture Vocabulary Test (4th Ed.)(Turkish receptive vocabulary test), EOWPVT (Expressive one word picture vocabulary test - Majority language expressive vocabulary test); IQ: SON-R: Snijders-Oomen niet-verbale intelligentietest - revised, subtest: Analogies).
+Demography: child: age (date of birth: month, year); age in months; gender; nationality; parents: age (birthdate: month, year) of mother and father; age of mother and father at day of testing; nationality; relationship of respondent to child; number of children; birthdate and  age of these children; child’s birth order; number of children living at home; other adults living in the household; new child born since last visit; birthday of new born child; changes since last visit; specified changes.
+Additionally coded was: child ID serial; child participated in waves 1, 2, 3; date of home visit; year of data collection; country of data collection; country of origin Turkey; child has a sibling in the study; mother ID for sibling families; language of questionnaire; date mother questionnaire completed; child’s teacher’s ID; child’s school ID.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NO</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Kinder mit türkischem Migrationshintergrund in Deutschland, Norwegen und den Niederlanden und deren Eltern</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Children with a Turkish migration background and their parents living in Germany, Norway, or the Netherlands</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Nicht-Wahrscheinlichkeitsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Non-probability Sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2009-09</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2014-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Ruhr-Universität Bochum, Germany
+Leiden University, The Netherlands
+Norwegian Institute of Public Health, Oslo, Norway
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Selbstausfüller: Papier
+Messungen und Tests: Leistungs- und Kompetenztests
+Messungen und Tests: Psychologische Tests
+Beobachtung</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Self-administered questionnaire: Paper
+Educational measurements and tests
+Psychological measurements and tests
+Observation
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>4543</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Prevoo, M.J.L., Malda, M.M., Mesman, J., &amp; Van IJzendoorn, M.H. (2015). Within- and cross-language relations between oral language proficiency and school outcomes in bilingual children with an immigrant background: A meta-analytical study. Review of Educational Research, 86 (1), 237-276.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Prevoo, M. J. L., Malda, M., Mesman, J., Emmen, R. A. G., Yeniad, N., Van IJzendoorn, M. H., &amp; Linting, M. (2014). Predicting ethnic minority children´s vocabulary from socioeconomic status, maternal language and home reading input: Different pathways for host and ethnic language. Journal of Child Language, 41, 963-984.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Prevoo, M.J.L., Mesman, J., Van IJzendoorn, M.H., &amp; Pieper, S. (2011). Bilingual toddlers reap the language they sow: ethnic minority toddlers´ childcare attendance increases maternal host language use. Journal of Multilingual and Multicultural Development, 32, 561-576.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Spiegler, O., Verkuyten, M., Thijs, J., &amp; Leyendecker, B. (2016). Low ethnic identity exploration undermines positive inter-ethnic relations: A study among Turkish immigrant-origin youth. Cultural Diversity and Ethnic Minority Psychology . DOI: 10.1037/cdp0000090</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Spiegler, O., Leyendecker, B., &amp; Kohl, K. (2015). Acculturation gaps between Immigrant Turkish Marriage Partners: Resource or source of distress? Journal of Cross-Cultural Psychology, 46 (5), 667-683. DOI 10.117/0022022115578686</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Spiegler. O., Güngör, D., &amp; Leyendecker, B. (in press). Muslim immigrant parents’ social status moderates the link between religious parenting and children’s identification with the heritage culture and host culture. Journal of Cross-Cultural Psychology.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Willard, J., Agache, A., Jäkel, J., Glück. C., &amp;  Leyendecker, B. (2014). Family factors predicting vocabulary in Turkish as a heritage language. Applied Psycholinguistics, 36 (4), 875-898. DOI 10.1017/S0142716413000544.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Yeniad, N., Malda, M., Mesman, J., Van IJzendoorn, M.H., &amp; Pieper, S. (2013). Shifting ability predicts math and reading performance in children: A meta-analytical study. Learning and Individual Differences, 23, 1-9.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Emmen, R.A.G., Malda, M., Mesman, J., Ekmekci, H., &amp; Van IJzendoorn, M.H. (2012). Sensitive Parenting as a Cross-Cultural Ideal: Sensitivity Beliefs of Dutch, Moroccan, and Turkish Mothers in the Netherlands. Attachment and Human Development, 14, 601-619.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Yeniad, N., Malda, M.M., Mesman, J., Van IJzendoorn, M.H., Emmen, R.A.G., Prevoo, M.J.L. (2014). Cognitive flexibility in children across the transition to school: A longitudinal study. Cognitive Development, 31, 35-47.
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Emmen, R.A.G., Malda, M., Mesman, J., Van IJzendoorn, M. H., Prevoo, M. J. L., &amp; Yeniad, N. (2013). Socioeconomic status and parenting in ethnic minority families: Testing a Minority Family Stress Model. Journal of Family Psychology, 27, 896-904.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Leyendecker, B. &amp; Agache, A. (2016). Engagement türkischstämmiger Väter im Familien- und Erziehungsalltag fördert das subjektive Wohlbefinden von Kindern. Praxis der Kinderpsychologie und Kinderpsychiatrie, 65, 57-74.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Leyendecker, B., Willard, J., Agache A., Jäkel, J., Spiegler, O. &amp; Kohl, K. (2014). Learning a host country: A plea to strengthen parents‘ roles and to encourage children’s bilingual development. In Silbereisen, R., Shavit, Y., &amp; Titzmann, P.F. (Eds.). The challenges of diaspora migration: Interdisciplinary perspectives on research in Israel and Germany (pp. 291-306). London, UK: Ashgate.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kohl. K., Jäkel, J., Spiegler, O., Willard, J., &amp; Leyendecker, B. (2014). Eltern und Schule – wie beurteilen türkischstämmige und deutsche Mütter sowie deutsche Lehrer elterliche Verantwortung und Beteiligung? Psychologie in Erziehung und Unterricht, 61 (2), 96-111.  DOI http://dx.doi.org/10.2378/peu2013.art21d</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Jäkel, J., Leyendecker, B., &amp; Agache, A. (2015). Family and individual factors associated with Turkish immigrant and German children’s and adolescents mental health. Journal of Child and Family Studies, 24 (4), 1097-1105.  DOI http://link.springer.com/article/10.1007\%2Fs10826-014-9918-3</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kohl, K., Jäkel, J., &amp; Leyendecker, B. (2015). Schlüsselfaktor elterliche Beteiligung: Warum Lehrkräfte türkischstämmige und deutsche Kinder aus belasteten Familien häufig als verhaltensauffällig einstufen. (Parental involvement in school is the key to teacher judgement of Turkish immigrant and German children’s behavior problems). Zeitschrift für Familienforschung/ Journal of Family Research, 27 (2), 193-207.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Garthus-Niegel, K.,  Oppedal,  B., &amp; Vike,  H. (2015). Semantic models of host-immigrant relations in Norwegian education policies. Scandinavian Journal of Education Research, 60 (1), 48-71. DOI http://dx.doi.org/10.1080/00313831.2014.996593</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Garthus-Niegel,  K. &amp; Oppedal,  B. (in press). (No) Time to Learn: School Effectiveness Temporalities in Norwegian 1st Grade Classrooms. Social Analysis, 59 (3), 41-61.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

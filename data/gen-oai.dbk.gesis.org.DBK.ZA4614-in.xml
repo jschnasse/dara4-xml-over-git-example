@@ -1,0 +1,433 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'ALLBUS/GGSS 2012 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/German General Social Survey 2012)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2012'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA4614</identifier>
+		<currentVersion>1.1.1</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2012</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>ALLBUS/GGSS 2012 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/German General Social Survey 2012)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>GESIS - Leibniz-Institut für Sozialwissenschaften</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4614?doi=10.4232/1.11753</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11753</doiProposal>
+	<publicationDate>
+		<date>2013-08-05</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4614</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>ALLBUS</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+					<identifier>KAT59</identifier>
+					<!-- Medizin -->
+					<identifier>KAT54</identifier>
+					<!-- Person, Persönlichkeit, Rolle -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Religion und Werte</term>
+					<term>Medizinische Behandlung und Medikation</term>
+					<term>Reproduktionsmedizin</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Familie und Ehe</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Religion and values</term>
+					<term>Medication and treatment</term>
+					<term>Reproductive health</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Family life and marriage</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Allgemeine Bevölkerungsumfrage der Sozialwissenschaften (ALLBUS) ist eine Trenderhebung, in der seit 1980 alle zwei Jahre eine Zufallsstichprobe der deutschen Bevölkerung befragt wird. Das primäre Ziel des Umfrageprogramms ist die Beobachtung von Einstellungen, Verhalten und sozialen Wandel in Deutschland. Jede ALLBUS-Querschnittserhebung besteht aus ein oder zwei Schwerpunktmodulen zu wechselnden Themen. Diese werden ergänzt durch weitere inhaltliche Fragen und ein Kernmodul mit detaillierten demografischen Informationen. Zudem werden Zusatzinformation zum Interview und den Interviewern bereitgestellt. Die Schwerpunktmodule folgen in der Regel einem 10-jährigen Replikationszyklus, viele Einzelindikatoren und Itembatterien werden aber auch in kürzeren Abständen repliziert. 
+Seit Mitte der 1980er Jahre werden zusammen mit ALLBUS auch regelmäßig ein oder zwei Module des ISSP (International Social Survey Programme) erhoben.
+Das Schwerpunktthema von ALLBUS 2012 ist „Religion und Weltanschauung“. Besonders im Fokus stehen dabei u.a. Fragen zu Aspekten der individuellen Religiosität und der religiösen Toleranz. Weitere Themen sind individuelle und kollektive Wertorientierungen, Schwangerschaftsabbruch, Geschlechterrollen, Ethnozentrismus und Minoritäten sowie politische Einstellungen. Zusätzlich sind die ISSP-Module „Gesundheit und Gesundheitswesen” und “Familie und Geschlechterrollen IV“ enthalten.&amp;#8195;</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>1.) Wichtigkeit von Lebensbereichen: Familie und Kinder, Beruf und Arbeit, Freizeit und Erholung, Freunde und Bekannte, Verwandtschaft, Religion und Kirche, Politik und öffentliches Leben, Nachbarschaft; Freizeitnutzung für ehrenamtliche Tätigkeiten.
+2.) Individuelle und kollektive Wertorientierungen: Lebensziele (Gesetz und Ordnung respektieren, hoher Lebensstandard, Macht und Einfluss, Phantasie und Kreativität entwickeln, Sicherheit, Randgruppen helfen, eigene Bedürfnisse durchsetzen, Fleiß und Ehrgeiz, Toleranz, politisches Engagement, Hedonismus, Gottesglaube, Leistung im Beruf, Selbstverwirklichung); Meinung zu ausgewählten Delikten und Vergehen bezüglich ihrer Verwerflichkeit.
+3.) Abtreibung: Schwangerschaftsabbruch bei gesundheitlichen Gefährdungen von Mutter oder Kind; bei mangelndem Kinderwunsch in der Ehe; Abtreibung nach Vergewaltigung; bei sozialer Notlage oder bei ledigen Frauen ohne Heiratswunsch; völlige Freigabe von Abtreibung;	Meinung zum Abtreibungszeitpunkt: bei ernsthafter Schädigung des Babys; wenn die Frau kein weiteres Kind will; bei ernsthafter Gesundheitsgefährdung der Mutter; wenn das Kind eine zu hohe finanzielle Belastung darstellt; wenn die Mutter alleinerziehend ist; wenn Abtreibung gegen den Willen des Vaters geschehen soll; bei fehlendem Kinderwunsch; bei Wunsch der Mutter ohne Angabe von Gründen.
+4.) Politische Einstellungen: Vertrauen in öffentliche Einrichtungen und Organisationen (Gesundheitswesen, Bundesverfassungsgericht, Bundestag, Kirchen, Justiz, Fernsehen, Zeitungswesen, Universitäten, Bundesregierung, Polizei, Parteien); Politisches Interesse; Postmaterialismus (Wichtigkeit von Ruhe und Ordnung, Bürgereinfluss, Inflationsbekämpfung und freier Meinungsäußerung); Selbsteinstufung auf einem Links-Rechts-Kontinuum.
+5.) Religion und Weltanschauung: Meinung zur gesellschaftlichen Aufgabe der Kirchen (Botschaft verkündigen; politisch Stellung nehmen; sich um soziale Notlagen kümmern; mit anderen Religionen kommunizieren); Vertrauen in die evangelische bzw. die katholische Kirche; Gottesglaube und Lebenssinn; Selbsteinstufung der Religiosität und Spiritualität; Häufigkeit von Meditation; Einstellungen zu Religiosität; religiöse Indifferenz; Nachdenken über metaphysische Fragen; Häufigkeit von Sprechen über religiöse Themen; Gesprächspartner für Religiöses; Erfahrungen mit und Meinung zu verschiedenen Formen von Glauben, Paraglauben oder Aberglauben; Glaubensinhalte; religiöse Toleranz; Teilnahme an kirchlichen Veranstaltungen und am Gemeindeleben; Religion vs. Wissenschaft; Einstellungen zur Rolle von Religion in der Gesellschaft und der Welt; Gebetshäufigkeit; Einstellung zur kirchlichen Trauung und Beerdigung; Konfession Eltern; Wichtigkeit von Religion im Elternhaus.
+6.) Ethnozentrismus und Minoritäten: Einstellungsskala und Kontakte zu Ausländern in der Familie, am Arbeitsplatz und in der Nachbarschaft oder im Freundeskreis; Befürwortung von Islamunterricht an Schulen; Meinung zum Moscheen bau in Deutschland; Einstellung zur Heirat mit Angehörigen verschiedener Konfessionen; Items zum Antisemitismus; Einstellung zum Islam in Deutschland.
+7.) Sonstiges: Selbsteinschätzung der sozialen Schichtzugehörigkeit; Meinung zu ausgewählten Delikten und Vergehen bezüglich ihrer Verwerflichkeit; sozialer Pessimismus und Zukunftsorientierung (Anomia); Autoritarismus; allgemeines Vertrauen zu Mitmenschen; Einstellungen zur Rolle der Frau in der Familie; Beurteilung der aktuellen und zukünftigen Wirtschaftslage in der Bundesrepublik und der eigenen Wirtschaftslage.
+8.) ALLBUS-Demographie: Angaben zur befragten Person: Befragtenattraktivität, Geschlecht, Geburtsmonat, Geburtsjahr, Alter, Herkunft, Staatsbürgerschaft (Nationalität), Anzahl der Staatsbürgerschafen und Angaben zur ursprünglichen Staatsbürgerschaft, allgemeiner Schulabschluss, berufliche Ausbildung, Erwerbsstatus, Angaben zum gegenwärtigen bzw. früheren Beruf, Zugehörigkeit zum öffentlichen Dienst, wöchentliche Arbeitsdauer (Haupt- und Nebenerwerb), berufliche Aufsichtsfunktion, Furcht vor Verlust des Arbeitsplatzes, Dauer von Arbeitslosigkeit, Status der Nichterwerbstätigkeit, Zeitpunkt der Aufgabe hauptberuflicher Erwerbstätigkeit, Gesundheitszustand, Familienstand, gemeinsames Zusammenleben mit dem Lebenspartner, gemeinsames Zusammenleben mit den Eltern als Kind, Befragteneinkommen, Wohnungstyp, Selbstbeschreibung des Wohnortes, Mitgliedschaft in einer Gewerkschaft oder politischen Partei; Konfession bzw. Religionszugehörigkeit, Kirchgangshäufigkeit, Häufigkeit des Besuchs eines anderen Gotteshaus; Wahlabsicht (Sonntagsfrage), allgemeine Lebenszufriedenheit, Wohnort (Bundesland, Regierungsbezirk, politische Gemeindegröße, BIK-Stadtregion).Angaben zum gegenwärtigen Ehepartner: Geburtsmonat, Geburtsjahr, Alter, allgemeiner Schulabschluss, berufliche Ausbildung, Erwerbsstatus, Angaben zum gegenwärtigen Beruf, Status der Nichterwerbstätigkeit.Angaben zu nichtehelichen Lebenspartnern: Geburtsmonat, Geburtsjahr, Alter, allgemeiner Schulabschluss, berufliche Ausbildung, Erwerbsstatus, Angaben zum gegenwärtigen Beruf, Status der Nichterwerbstätigkeit.Angaben zu den Eltern des Befragten: Angaben zum Beruf des Vaters und der Mutter, allgemeiner Schulabschluss von Mutter und Vater, berufliche Ausbildung von Mutter und Vater, Konfession bzw. Religionszugehörigkeit.Haushaltsbeschreibung: Haushaltsgröße, Anzahl von über 17-jährigen Haushaltspersonen (reduzierte Haushaltsgröße), Haushaltseinkommen, Wohnungstyp.	Angaben zu den einzelnen Haushaltspersonen (Haushaltsliste): Verwandtschaft der Haushaltspersonen zum Befragten, Geschlecht der Personen, ihr Geburtsmonat, Geburtsjahr, Alter, Familienstand, Taufe, Konfession bzw. Religionszugehörigkeit.	Angaben zu Kindern außerhalb des Haushalts: Zahl der Kinder außer Haus, Geschlecht, Geburtsjahr, Alter, Taufe, Konfession bzw. Religionszugehörigkeit.
+9.) Daten zum Interview (Paradaten): Interviewdatum; Interviewbeginn und –ende; Interviewdauer; Anwesenheit Dritter beim Interview: Anwesenheit des Ehepartners, Partners oder von Kindern beim Interview, Anwesenheit weiterer Familienangehöriger beim Interview; Eingriffe Dritter in den Interviewverlauf; Kooperationsbereitschaft und Zuverlässigkeit der Angaben des Befragten; Mitverfolgen des Interviews am Bildschirm; private Internetnutzung; Teilnahme an anderen Umfragen; Teilnahmebereitschaft bei weiteren schriftlichen Umfragen; Bereitschaft zur Preisgabe der Email-Adresse; Teilnahme an den ISSP-Zusatzbefragungen; Angaben zum Wohngebäude des Befragten und der Wohnumgebung; Erreichbarkeit des Befragten; Auskunftsbereitschaft des Befragten; Zahl der Kontaktversuche; Release.	Angaben zum Interviewer: Geschlecht, Alter, Schulabschluss, Dauer der Interviewertätigkeit, Identifikationsnummer.
+10.) Gesundheit (ISSP): Persönliche Glückseinschätzung; Vertrauen ins Bildungswesen und ins Gesundheitssystem; Bewertung des Gesundheitswesens; Einstellung zur öffentlichen Förderung von Gesundheitsversorgungsaspekten; Sicherstellung medizinischer Leistungen für Ausländer und bei Risikoverhalten; Einschätzung des Zugangs zu medizinischen Leistungen; Einschätzung von Krankheitsgründen; Verteilungsmeinung für Herz-Operationen; Meinung zu alternativer Medizin; Vertrauenswürdigkeit von Ärzten; eigene Gesundheitseinschätzung für die vergangenen 4 Wochen; medizinische Behandlungen im vergangenen Jahr; Behandlungshindernisse im vergangenen Jahr; Wahrscheinlichkeit fürs Erlangen verschiedener Behandlungen; Zufriedenheit mit dem Gesundheitssystem und mit vorherigen Behandlungen; Alkohol- und Nikotinkonsum; Häufigkeit sportliche Betätigung; Konsum von Gemüse und Früchten; allgemeiner Gesundheitszustand; Körpergröße und Gewicht; Art und Qualität der Krankenversicherung; Belastung des Privatlebens durch gesundheitliche Probleme; Dauer der Schulausbildung; Anzahl der Mitarbeiter; Verantwortlichkeit für Mitarbeiter; Art der Berufstätigkeit; Berufstätigkeit des Ehe- oder Lebenspartners; Einstufung auf einer Oben-Unten-Skala; Wahlbeteiligung bei der letzten Bundestagswahl; Zweitstimme bei der letzten Bundestagswahl; Attraktivitäts-Selbsteinschätzung.
+11.) Familie IV (ISSP): Einstellung zur Berufstätigkeit von Müttern und verheirateten Frauen; Rollenverteilung von Mann und Frau in Beruf und Haushalt; präferierter Umfang der Berufsausübung von Frauen während verschiedener Phasen der Kindererziehung; Einstellungen zu Ehe, Alleinerziehenden, Zusammenleben vor der Ehe und Scheidung; Einstellung zu gleichgeschlechtlichen Partnern als Eltern; ideale Kinderzahl; Ansichten zur Bedeutung von Kindern für das Leben; Einstellungen zum Erziehungsurlaub; Aufteilungseinschätzung von Familie und Beruf; Zuständigkeit für Kinderbetreuung und Betreuung älterer Menschen; Einkommens- und Aufgabenverteilung im Haushalt und der Familie; Entscheidung über Unternehmungen; Hauptverdiener; Belastung durch Familie, Arbeit, Hausarbeit; persönliche Glückseinschätzung; Zufriedenheit mit Beruf und Familie; allgemeiner Gesundheitszustand; Berufstätigkeit der Mutter während der Kindheit des Befragten; Erwerbstätigkeit des Befragten und des Ehe- oder Lebenspartners in verschiedenen Phasen der Kindererziehung; Entscheidung über Kindererziehung; Beziehungsdauer; Dauer der Schulausbildung; Anzahl der Mitarbeiter; Verantwortlichkeit für Mitarbeiter; Art der Berufstätigkeit; Berufstätigkeit des Ehe- oder Lebenspartners; Einstufung auf einer Oben-Unten-Skala; Wahlbeteiligung bei der letzten Bundestagswahl; Zweitstimme bei der letzten Bundestagswahl.
+12.) Ergänzungen und abgeleitete Variablen: Postmaterialismus-Index (nach Inglehart); Body-Mass-Index; Einordnungsberufe (nach Terwey); Haushaltsklassifikationen (nach Porst und Funk); Familientypologie; Transformationsgewicht für Auswertungen auf Haushaltsebene; Ost-West-Gewicht für gesamtdeutsche Auswertungen.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>ALLBUS (GGSS - the German General Social Survey) is a biennial trend survey based on random samples of the German population. Established in 1980, its mission is to monitor attitudes, behavior, and social change in Germany. Each ALLBUS cross-sectional survey consists of one or two main question modules covering changing topics, a range of supplementary questions and a core module providing detailed demographic information. Additionally, data on the interview and the interviewers are provided as well. Key topics generally follow a 10-year replication cycle, many individual indicators and item batteries are replicated at shorter intervals.
+Since the mid-1980ies ALLBUS also regularly hosts one or two modules of the ISSP (International Social Survey Programme).
+The main question module of ALLBUS/GGSS 2012 covers religion and worldviews, with a particular focus on aspects of individual religiosity and on religious tolerance. Other topics include individual and collective value orientations, attitudes towards abortion, gender roles, ethnocentrism and minorities, and political attitudes. In addition, the ISSP modules "Health and Healthcare" and "Family and Changing Gender Roles IV" are included.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>1.) Importance of life aspects: family and children, occupation and work, free time and recreation, friends and acquaintances, kinship, religion and church, politics and public life, neighborhood, volunteer work.
+2.) Personal and collective values: basic personal goals (law and order, standard of living, power and influence, fantasy and creativity, security, help marginalized social groups, ability to assert oneself, industry and ambition, tolerance, political engagement, hedonism, faith in God, occupational achievement, self-realization); opinion on various deviant acts with reference to their reprehensibility.
+3.) Attitudes towards abortion: abortion because of health risks for mother or child; abortion because married woman does not want more children; abortion after rape, due to financial situation or by single women not wanting to marry; permitting abortion without restriction; until when to allow an abortion if baby will be severely handicapped, if mother does not want more children, if there is a serious health risk for the mother, if there is not enough money, if the mother does not want to raise the child alone, if the father is against an abortion, if children are not part of lifeplan, if the mother does not give a specific reason.
+4.) Political attitudes: confidence in public institutions and organizations (public health service, federal constitutional court, federal parliament (Bundestag), churches, judiciary, television, newspapers, universities, federal government, the police, political parties); political interest; postmaterialism (importance of law and order, fighting rising prices, free expression of opinions, and influence on governmental decisions); self-placement on a left-right continuum.
+5.) Religion and world view: attitudes towards the role of churches in society (promote faith, take political positions, do social welfare work, promote interfaith understanding); trust in churches; belief in God; the meaning of life; self-assessment of religiousness and spirituality; frequency of meditation; attitude towards religiousness; religious indifference; thinking about metaphysical questions; frequency of talking about religion; talking about religion with whom; experience with and attitude towards different forms of belief, parabelief and superstition; religious doctrines; religious tolerance; participation in religious life; religion vs. science; attitudes towards the role of religion in society and the world; frequency of praying; attitude towards funeral by church and marriage in church; denominational membership of parents; importance of religion in parental home.
+6.) Ethnocentrism and minorities: scale of attitudes towards foreigners; contacts with foreigners living in Germany within the family, at work, in the neighborhood, or among friends; support for the teaching of Islam in public schools; support for the building of mosques in Germany; attitude towards person with different faiths marrying into the family; items on anti-Semitism; attitudes towards Islam in Germany.
+7.) Other topics: Self-assessment of social class; opinion on various deviant acts with reference to their reprehensibility; social pessimism and orientation towards the future (anomia); authoritarianism; trust in fellow men; attitudes towards the role of women in the family; assessments of the present and future economic situation in Germany; assessment of present and future personal economic situation.
+7.) ALLBUS-Demography: Details about the respondent: attractiveness, gender, month and year of birth, age, geographical origin and citizenships, number of citizenships and original citizenship, school education, vocational training, employment status, details about current and former occupation, affiliation to public service, working hours per week, supervisory functions, fear of losing work, length of unemployment, status of non-employment, date of termination of full- or part-time employment, overall health, marital status, co-habitation with steady partner, lived with parents when child, respondent´s income, type of dwelling, self-description of place of residence, membership in a political party or trade union, religious affiliation, frequency of church attendance, frequency of attending other place of worship, voting intention (Sonntagsfrage), overall life satisfaction, place of residence (federal state, administrative district, size of municipality; BIK-type of region).Details about respondent´s current spouse: month and year of birth, age, school education, vocational training, employment status, details about current occupation, status of non-employment.Details about respondent´s steady partner: month and year of birth, age, school education, vocational training, employment status, details about current occupation, status of non-employment.Details about respondent´s parents: school education, vocational training, occupational position, religious affiliation.Description of household: size of household, number of persons older than 17 in household (reduced size of household), household income, type of dwelling.Details about household members: family relation to respondent, gender, month and year of birth, age, marital status, baptism, religious affiliation.Details about children not living in the household: number of children not living in the household, gender, year of birth, age, baptism, religious affiliation.
+8.) Data on the interview (paradata): date of interview; beginning and end of interview; length of interview; presence of other persons during interview (presence of spouse, partner, children, members of the family, other persons); interference of other persons in the course of the interview; willingness of respondent to cooperate; reliability of information from respondent; respondent followed interview on screen; private Internet use; participation in other surveys over the past year; willingness to participate in follow-up survey; willingness to provide e-mail address; participation in additional ISSP-survey; details about respondent´s residential building and assessment of respondent´s neighborhood; reachability of respondent; willingness to participate; number of attempts to contact the respondent; release-id.Data on the interviewer: gender, age, school education, experience as interviewer, identification of interviewer.
+9.) Health (ISSP): assessment of personal happiness; trust in the educational system and health care; assessment of health care system; attitude towards funding of different health care options; attitude towards health care benefits for non-citizens or people with at-risk lifestyles; assessment of number of people without access to health care; reasons why people get sick; priorities in allocation of heart surgery; attitude to alternative medicine; trust in medical doctors; assessment of own health in the past 4 weeks; medical treatment in the past year; reasons for foregoing treatment during last year; probability of getting best therapy available and of choosing doctor freely; satisfaction with health care system and treatments received; consumption of alcohol, cigarettes, fruit and vegetables; frequency of exercising; overall health; height and weight; type of health insurance; satisfaction with health insurance; health problems put strain on private life; length of school education; supervisory functions at work; number of employees supervised; work situation; work situation of partner or spouse; self-classification on a top-bottom-scale; participation in last federal elections, recall of past vote, self-assessment of attractiveness.
+10.) Family and changing gender roles IV (ISSP): attitude towards employment of mothers and married women; role distribution of man and woman in occupation and household; preferred extent of employment for women during different stages of child raising; attitudes towards marriage, single-parenting, cohabitation before marriage, and divorce; attitude towards homosexual partners as parents; ideal number of children; views on the significance of children in life; views on paid paternal leave; compatibility of family and work; who takes care of children and old people; management of income in marriage or partnership; allocation of duties and responsibilities in the household and in family matters; principal earner; stress caused by family, work, household duties; assessment of personal happiness; satisfaction with employment situation and family life; overall health; employment of mother during childhood of respondent; respondent, spouse or partner working in various phases of child raising; who takes parenting decisions; length of relationship; length of school education; supervisory functions at work; number of employees supervised; work situation; work situation of partner or spouse; self-classification on a top-bottom-scale; participation in last federal elections, recall of past vote.
+11.) Added value: Inglehart-Index; Body-Mass-Index; occupational metaclassification (according to Terwey); classification of households (according to Porst and Funk); family typology; migration between East and West Germany; transformation weight for analyses at househehold-level; East-West-weight.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen (Deutsche und Ausländer), die zum Befragungszeitpunkt in Privathaushalten lebten und vor dem 01.01.1994 geboren sind
+</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons (German and non-German) who resided in private households and were born before 1 January 1994.
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Disproportional geschichtete Zufallsauswahl; Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Personenstichprobe: Zweistufige, disproportional geschichtete Zufallsauswahl in Westdeutschland (incl. West-Berlin) und Ostdeutschland (incl. Ost-Berlin) aus allen in der Bundesrepublik Deutschland lebenden Personen (Deutsche und Ausländer), die zum Befragungszeitpunkt in Privathaushalten lebten und vor dem 01.01.1994 geboren sind. In der ersten Auswahlstufe wurden Gemeinden in Westdeutschland und in Ostdeutschland mit einer Wahrscheinlichkeit proportional zur Zahl ihrer erwachsenen Einwohner ausgewählt, in der zweiten Auswahlstufe wurden Personen aus den Einwohnermeldekarteien zufällig gezogen.
+Zielpersonen mit nicht hinreichend guten Deutschkenntnissen zählen zu den systematischen Ausfällen.
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Stratified: Disproportional; Probability: Multistage; Sampling Procedure Comment: Person sample: Two stage disproportionate random sample in western Germany (incl. West Berlin) and eastern Germany (incl. East Berlin) from all persons (German and non-German) who resided in private households and were born before 1 January 1994. In the first sample stage municipalities (Gemeinden) in western Germany and municipalities in eastern Germany were selected with a probability proportional to their number of adult residents; in the second sample stage individual persons were selected at random from the municipal registers of residents.
+Targeted individuals who did not have adequate knowledge of German to conduct the interview were treated as systematic unit non-responses.
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2012-04</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2012-09</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Diekmann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ETH Zürich</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Detlef</firstName>
+				<middleName/>
+				<lastName>Fetchenhauer</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Steffen</firstName>
+				<middleName/>
+				<lastName>Kühnel</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Göttingen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Stefan</firstName>
+				<middleName/>
+				<lastName>Liebig</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bielefeld, Vorsitz</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Rüdiger</firstName>
+				<middleName/>
+				<lastName>Schmitt-Beck</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heike</firstName>
+				<middleName/>
+				<lastName>Trappe</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Rostock</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Michael</firstName>
+				<middleName/>
+				<lastName>Wagner</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest Sozialforschung, Munich</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.ComputerAssisted</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Frageprogramm (CAPI – Computer Assisted Personal Interviewing), zwei Zusatzbefragungen als CASI (Computer Assisted Self-Interviewing) im Rahmen des ISSP (Splitverfahren).</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Personal interview with standardized questionnaire (CAPI – Computer Assisted Personal Interviewing) and two additional self-completion questionnaires (CASI – Computer Assisted Self-Interviewing) for ISSP (drop off; split questionnaire design).</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>3480</numberUnits>
+			<numberVariables>752</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Generell ist die uns bekannte Literatur mit Verwendung von ALLBUS-Daten in der ALLBUS-Bibliographie dokumentiert. Diese ALLBUS-Bibliographie ist im GESIS-Webangebot online recherchierbar.
+
+Befragte aus dem Bereich der neuen Bundesländer sind in den Daten überrepräsentiert (oversample). 
+
+Eine in der Demographie vereinfachte Version des Datensatzes (412 Variablen) ist als ALLBUScompact 2012 (Studien-Nr. 4615) zusätzlich vorhanden.
+
+Die offenen Angaben zu den Berufen (ISCO, Prestige etc.) können wegen Umstellung der Vercodungsaufgaben erst später angeboten werden.
+
+Einen Digital Object Identifier (DOI) zur Zitation der Datensätze finden sie im GESIS Datenbestandskatalog:
+http://www.gesis.org/unser-angebot/recherchieren/datenbestandskatalog/
+
+Zusätzliche ALLBUS-Informationen sind erreichbar unter: 
+http://www.gesis.org/fdzallbus
+http://www.gesis.org/allbus</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The known literature using ALLBUS-Data is documented in the ALLBUS-Bibliography. This bibliography can be searched online at the GESIS web presence.
+
+Respondents from the area of the new federal states are oversampled.
+
+A second version of this data set (412 variables) with a shortened demography module is additionally available as ALLBUScompact 2002 (Study-No. 4615).
+
+Coding of the open answers on occupations into ISCO codes and corresponding prestige scores (SIOPS etc.) has unfortunately been delayed. The occupational classifications and prestige scores will be made available as soon as possible.
+
+A Digital Object Identifier (DOI) for use in data citations can be found in the GESIS Data Catalogue:
+http://www.gesis.org/en/services/research/data-catalogue/
+
+Additional dataservice information on ALLBUS is available at:
+http://www.gesis.org/rdcallbus
+http://www.gesis.org/en/allbus
+</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.11634</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.11595</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael:
+Generelle Hinweise zur Auswertung der ALLBUS-Daten: Stichprobentypen und Gewichtungen.
+In: Terwey, Michael; Bens, Arno; Baumann, Horst; Baltzer, Stefan: Elektronisches Datenhandbuch ALLBUS 2006, Studien-Nr. 4500.
+Köln: GESIS, 2007, 12 - 18.
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael:
+ALLBUS: A German General Social Survey.
+In: Schmollers Jahrbuch 120, 2000, 151 - 158.
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Koch, Achim; Wasmer, Martina:
+Der ALLBUS als Instrument zur Untersuchung sozialen Wandels: Eine Zwischenbilanz nach 20 Jahren.
+In: Schmitt-Beck, Rüdiger; Wasmer, Martina; Koch, Achim (Hg.): Sozialer und politischer Wandel in Deutschland. Analysen mit ALLBUS-Daten aus zwei Jahrzehnten.
+Wiesbaden: VS Verlag für Sozialwissenschaften, 2004, 13 - 42.
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Bens, Arno:
+Zur Auswertung haushaltsbezogener Merkmale mit dem ALLBUS 2004.
+In: ZA-Information 59, 2006, 143 - 156.
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Blohm, Michael:	
+Datenqualität durch Stichprobenverfahren bei der Allgemeinen Bevölkerungsumfrage der Sozialwissenschaften - ALLBUS.
+In: Faulbaum, Frank; Wolf, Christof (Hg.): Stichprobenqualität in Bevölkerungsumfragen. Bonn: Informationszentrum Sozialwissenschaften, 2006, 37 - 54.
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael: 
+Wachsender religiöser Pluralismus in der Gegenwart? Seriöse Umfrageergebnisse als Prüfstand.
+In: Detlef Pollack, Ingrid Tucci und Hans-Georg Ziebertz (Hg.), Religiöser Pluralismus im Fokus quantitativer Religionsforschung.
+Wiesbaden: Springer, 2012, 107 - 134.
+</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

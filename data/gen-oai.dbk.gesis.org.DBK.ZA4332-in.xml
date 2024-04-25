@@ -1,0 +1,268 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Federal Parliament Election 2005 - Citizens and Parties in a Changed World'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Bundestagswahl 2005 - Bürger und Parteien in einer veränderten Welt'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA4332</identifier>
+		<currentVersion>2.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Bundestagswahl 2005 - Bürger und Parteien in einer veränderten Welt</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Federal Parliament Election 2005 - Citizens and Parties in a Changed World</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Steffen</firstName>
+				<middleName/>
+				<lastName>Kühnel</lastName>
+				<affiliation>
+					<affiliationName>Universität Göttingen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Oskar</firstName>
+				<middleName/>
+				<lastName>Niedermayer</lastName>
+				<affiliation>
+					<affiliationName>Freie Universität Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Bettina</firstName>
+				<middleName/>
+				<lastName>Westle</lastName>
+				<affiliation>
+					<affiliationName>Universität Marburg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4332?doi=10.4232/1.11463</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11463</doiProposal>
+	<publicationDate>
+		<date>2012-09-25</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4332</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Beurteilung von Parteien und Politikern. Einstellung zu politischenFragen.
+Themen: Demokratiezufriedenheit; Stärke des Politikinteresses allgemeinund bezogen auf den Bundestagswahlkampf 2005; Interesse anWahlkampfwerbung mittels Plakaten, TV, Radio, Flugblatt, Internet,Info-Stand und Wahlkampfveranstaltung; erinnerte wichtigsteWahlkampf-Issues; politisches Wissen: Bedeutung von Erststimme undZweitstimme; eigene Wahlbeteiligung an der Bundestagswahl;Wahlentscheidung: Erststimme und Zweitstimme; erinnerteWahlkreiskandidaten der SPD, CDU, FDP, der Grünen und derLinkspartei/PDS; Anzahl insgesamt genannter Kandidaten;Sympathie-Skalometer für die genannten Kandidaten; wichtigste Gründefür die eigene Wahlentscheidung (Zweitstimme); Motive für Nichtwahl;Kanzlerpräferenz für Gerhard Schröder oder Angela Merkel; Zufriedenheitmit der Leistung der Bundesregierung aus SPD und Bündnis90/Die Grünen;Regierungsparteipräferenz für SPD, CDU, Grüne, FDP, Linke/PDS oder NPD;Wahrscheinlichkeit einer Regierungsbeteiligung der präferierten Partei;Sympathie-Skalometer für SPD, CDU, CSU, Bündnis90/Die Grünen, FDP,Linkspartei/PDS, NPD, Gerhard Schröder und Angela Merkel;Selbsteinstufung auf einem Links-Rechts-Kontinuum;Links-Rechts-Einstufung von SPD, CDU, CSU, Bündnis90/Die Grünen, FDP,Linkspartei/PDS, NPD, Gerhard Schröder und Angela Merkel; wichtigsteProbleme in der BRD; kompetenteste Partei zur Lösung dieser Probleme;Meinung zur Aufbau-Ost-Politik von Angela Merkel; persönliche Meinungund vermutete Position der Parteien hinsichtlich: Einführung derBürgerversicherung, Vollmitgliedschaft der Türkei in der EU,Mehrwertsteuererhöhung und der Verlängerung der Laufzeiten deutscherAtomkraftwerke; Einschätzung der Problemlösungskompetenz, Sympathie,Glaubwürdigkeit, Führungsstärke, Teamfähigkeit, Interessenvertretung imAusland, Unterstützung durch die eigene Partei und Bürgernähe derKanzlerkandidaten Schröder und Merkel; Geschlossenheit von SPD,CDU/CSU, Grünen, FDP, Linke/PDS und NPD; Gefühl politischer Wirksamkeit(Skala: efficacy); Rechtsextremismus (Skala); Parteipräferenz(Sonntagsfrage); Häufigkeit der Rezeption politischer Informationen ausTageszeitung, Fernsehen und Internet.
+Demographie: Geschlecht; Alter: Geburtsmonat und Geburtsjahr;Konfession; Kirchgangshäufigkeit; höchster Schulabschluss bzw.angestrebter Schulabschluss; abgeschlossen berufliche Lehre; Art derErwerbstätigkeit; Erwerbstätigkeit im öffentlichen Dienst; beruflicheStellung; Haushaltsgröße; derzeitige Arbeitslosigkeit vonHaushaltsmitgliedern; Familienstand; Zusammenleben mit einem Partner;Kinderzahl; Anzahl Kinder unter 18 Jahren; Mitgliedschaft bzw. Funktionin einer Bürgerinitiative, einer Partei, Berufsvereinigung oderGewerkschaft; Parteineigung und Parteiidentifikation;Haushaltsnettoeinkommen; Einschätzung der Schichtzugehörigkeit. 
+Zusätzlich verkodet wurde: Geschlecht, Alter (Geburtsjahr) undhöchster Schulabschluss des Interviewers; Region; proportionales unddisproportionales Personengewicht, Ost-West Designgewicht; Bundesland;Regierungsbezirk; Ortsgröße; Interviewdatum; Interviewdauer.  
+Interviewerrating: Anwesenheit anderer Personen beim Interview;Eingreifen Dritter in das Interview; Kooperationsbereitschaft undEinschätzung der Glaubwürdigkeit des Befragten; Angabe der Fragen, beidenen die Angaben weniger zuverlässig waren.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Judgement of parties and politicians. Attitude to political questions. 
+Topics: satisfaction with democracy; strength of the respondent`sinterest in politics in general and in the Bundestag election campaign2005; interest in election campaign advertising via posters, TV, radio,flyer, Internet, information stand and election campaign event; mostimportant election campaign issues reminded; political knowledge:meaning of first vote and second vote; own participation at theparliamentary elections; voting decision: first vote and second vote;reminded constituency candidates of the SPD, CDU, FDP, Bündnis90/dieGrünen and the Linkspartei/PDS; total number of mentioned candidates;sympathy scale for the mentioned candidates; most important reasons forone`s own voting decision (second vote;) motives for not voting;chancellor preference for Gerhard Schröder or Angela Merkel;satisfaction with the performance of the Federal Government by SPD andBündnis90/die Grünen; preference for SPD, CDU, Bündnis90/die Grünen,FDP, die Linke/PDS or NPD as party in power; probability of agovernment participation of the preferred party; sympathy scale forSPD, CDU, CSU, Bündnis90/die Grünen, FDP, die Linke/PDS, NPD, GerhardSchröder and Angela Merkel; self-assessment on a left-right continuum;left-right classification of SPD, CDU, CSU, Bündnis90/die Grünen, FDP,die Linke/PDS, NPD, Gerhard Schröder and Angela Merkel; most importantproblems in Germany; the most competent party to solve these problems;opinion on the policy of Angela Merkel; personal opinion and presumedposition of the parties with regard to: introduction of the so calledBürgerversicherung (health insurance), full membership of Turkey in theEU, added value tax increase and the prolongation of the running timesof German nuclear power stations; assessment of the problem solutioncompetence, sympathy, reliability, strong leadership, team ability,representation of interests abroad, support by his own party andcitizen proximity of the candidates for the chancellorship (Schröderand Merkel); unity of SPD, CDU/CSU, Bündnis90/die Grünen, FDP, dieLinke/PDS, and NPD; political effectiveness (scale: efficacy);right-wing extremism (scale); party preference (Sunday question);frequency of the reception of political information from dailynewspaper, television and internet. 
+Demography: sex; age: month and year of birth; denomination;frequency of church attendance; the highest school-leavingqualification or aspired school-leaving qualification; completedprofessional teaching; employment; employment in the public service;professional position; household size; present unemployment ofhousehold members; marital status; living together with a partner;number of children; number of children under 18 years; membership orfunction in a citizens´ action group, a party, trade organization orlabor union; party inclination and party identification; household netincome; self-assessment of social class. 
+Additionally coded was: sex, age (year of birth) and the highestschool-leaving qualification of the interviewer; region; proportionaland disproportionately person weight, east west design weight; federalstate; county; size of city; date of interview; duration of interview. 
+Interviewer rating: presence of other persons during the interview;intervention of other persons during the interview; willingness tocooperate and assessment of the credibility of the respondent; detailof the questions at which the details were less reliable.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte deutsche Bevölkerung in Privathaushalten ab 18 Jahren</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German population in private households as of 18 years and entitled to vote. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Disproportional geschichtete Zufallsauswahl; Auswahlverfahren Kommentar: Die Auswahl der Befragungspersonen erfolgte durch eine disproportional
+geschichtete mehrstufige Zufallsstichprobe per Random-Route-Verfahren
+auf Basis des ADM-Designs. Als Schichtungsmerkmale dienten
+Bundesländer, Regierungsbezirke und Gemeindetypen. Ein systematischer
+Auswahlschlüssel, der in allen zum Haushalt gehörenden Personen der
+Grundgesamtheit die gleiche Chance gewährleistete, in die Stichprobe zu
+gelangen, legte letztlich die Zielpersonen eindeutig fest. In der
+Stichprobe sind Befragte aus den neuen Bundesländern überrepräsentiert,
+um eine ausreichend große Fallzahl für diese Subpopulation zu erhalten.
+Von den 2540 Befragten wohnen 877 (34,5 %) in den neuen Bundesländern.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Stratified: Disproportional; Sampling Procedure Comment: Disproportional stratified multistage sampling by random route
+method based on the ADM-design. Federal states, Regierungsbezirke and
+municipality types, served as stratification features. A systematic
+sampling procedure ensured all persons belonging to a household the
+same chance to get into the sample. In the final sample people from the
+new federal states are overrepresented to get a sufficiently large case
+number for this subpopulation. Of the 2540 people asked 877 (34.5%)
+live in the new federal states.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2005-09</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2005-10</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Infratest dimap, Berlin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+(computerunterstütztes persönliches Interview CAPI)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral interview with standardised questionnaire  (CAPI)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>2540</numberUnits>
+			<numberVariables>198</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.10726</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.4332</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+</resource>

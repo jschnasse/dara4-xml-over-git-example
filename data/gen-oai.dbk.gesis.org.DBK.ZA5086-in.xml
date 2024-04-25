@@ -1,0 +1,388 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Immigrant children and youths in the German and Israeli educational systems (third transition)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Kinder und Jugendliche mit Migrationshintergrund im deutschen und israelischen Bildungssystem (Dritter Übergang)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA5086</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Kinder und Jugendliche mit Migrationshintergrund im deutschen und israelischen Bildungssystem (Dritter Übergang)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Immigrant children and youths in the German and Israeli educational systems (third transition)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Kalter, Frank; Kogan, Irena; Kristen, Cornelia; Levin-Epstein, Noah; Shavit, Yossi et.al.</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5086?doi=10.4232/1.11703</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11703</doiProposal>
+	<publicationDate>
+		<date>2013-06-26</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5086</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT55</identifier>
+					<!-- Erziehung, Schulwesen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>junger Erwachsener</keyword>
+				<keyword>Schullaufbahn</keyword>
+				<keyword>Bildungsverlauf</keyword>
+				<keyword>Israel</keyword>
+				<keyword>Berufsbildung</keyword>
+				<keyword>soziale Beziehungen</keyword>
+				<keyword>Migrationshintergrund</keyword>
+				<keyword>Diskriminierung</keyword>
+				<keyword>soziale Herkunft</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>young adult</keyword>
+				<keyword>school career</keyword>
+				<keyword>course of education</keyword>
+				<keyword>Israel</keyword>
+				<keyword>vocational education</keyword>
+				<keyword>social relations</keyword>
+				<keyword>migration background</keyword>
+				<keyword>discrimination</keyword>
+				<keyword>social background</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Das Projekt "Kinder und Jugendliche mit Migrationshintergrund im deutschen und israelischen Bildungssystem" untersucht Kinder und Jugendliche mit und ohne Migrationshintergrund in den Bildungssystemen Deutschlands und Israels. Im Mittelpunkt steht die Untersuchung von „neueren“ Zuwanderergruppen aus der ehemaligen Sowjetunion - jüdische und ethnisch deutsche Zuwanderer - im Vergleich zu „älteren“ Zuwanderergruppen - Personen mit türkischem Migrationshintergrund in Deutschland und Mizrahi in Israel - und der jeweiligen Referenzbevölkerung (Deutsche ohne Migrationshintergrund in Deutschland und Aschkenasim in Israel). In der vorliegenden Längsschnittuntersuchung werden die Entscheidungsmuster von Zuwanderern an mehreren Bildungsübergängen in ihrer Bildungslaufbahn untersucht und mit denen der einheimischen Bevölkerung verglichen. Der Schwerpunkt liegt dabei auf verschiedenen Ressourcen (wirtschaftlichen, sozialen und kulturellen), die für eine erfolgreiche Bildungslaufbahn erforderlich sind, sowie auf der intergenerationellen Übertragung von Ressourcen von den Eltern auf die Kinder.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The project “Immigrants’ Children in the German and Israeli Educational Systems” studies children and adolescents with and without migration background in the educational systems of Germany and Israel. It focuses on studying recent immigrant groups stemming from the Former Soviet Union (FSU) – Jewish and Ethnic German immigrants – in comparison to “older” immigrant groups – persons with Turkish migration background in Germany and Mizrahi in Israel – and the respective reference population (Germans without any migration background in Germany and Ashkenazim in Israel). In this longitudinal study, immigrants’ decision patterns at several educational transitions in their educational careers are examined and these patterns are compared to those of the native population. There is a focus on various resources (economic, social and cultural) that a successful educational career requires as well as on intergenerational transmission of resources from parents to children.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Kombination aus Zufallsstichprobe und Nicht-Zufallsstichprobe</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Mixed probability and non-probability</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-02</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-12</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany
+Second Wave (Main Survey) and Second Wave (Supplement)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland
+Dritte Welle (Haupterhebung) und zweite Welle (Ergänzung)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-08</date>
+				</startDate>
+				<endDate>
+					<date>2010-12-05</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany
+Third Wave (Supplement)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland
+Dritte Welle (Ergänzung)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Irit</firstName>
+				<middleName/>
+				<lastName>Adler</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Tel Aviv University</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Svetlana</firstName>
+				<middleName/>
+				<lastName>Bolotin-Chachashvili</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Tel Aviv University</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Aline</firstName>
+				<middleName/>
+				<lastName>Hämmerling</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Leipzig</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Konstanze</firstName>
+				<middleName/>
+				<lastName>Jacob</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Judith</firstName>
+				<middleName/>
+				<lastName>Jahn</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Leipzig</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Frank</firstName>
+				<middleName/>
+				<lastName>Kalter</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Irena</firstName>
+				<middleName/>
+				<lastName>Kogan</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Cornelia</firstName>
+				<middleName/>
+				<lastName>Kristen</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Otto-Friedrich-Universität Bamberg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Noah</firstName>
+				<middleName/>
+				<lastName>Levin-Epstein</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Tel Aviv University</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Tobias</firstName>
+				<middleName/>
+				<lastName>Roth</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Zerrin</firstName>
+				<middleName/>
+				<lastName>Salikutluk</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Yossi</firstName>
+				<middleName/>
+				<lastName>Shavit</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Tel Aviv University</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Stephanie</firstName>
+				<middleName/>
+				<lastName>Steinmetz</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Erasmus University Rotterdam</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>Distributor</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>HostingInstitution</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>2205</numberUnits>
+			<numberVariables>312</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Eltern###</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>parents###</text>
+		</note>
+	</notes>
+</resource>

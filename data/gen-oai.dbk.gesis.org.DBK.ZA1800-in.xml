@@ -1,0 +1,465 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'ALLBUS/GGSS 1990 (Allgemeine Bevölkerungsumfrage der 
+Sozialwissenschaften/German General Social 
+Survey 1990)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1990
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA1800</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1990
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>ALLBUS/GGSS 1990 (Allgemeine Bevölkerungsumfrage der 
+Sozialwissenschaften/German General Social 
+Survey 1990)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>GESIS - Leibniz-Institut für Sozialwissenschaften</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1800?doi=10.4232/1.1800</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1800</doiProposal>
+	<publicationDate>
+		<year>2002</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1800</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>ALLBUS</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>GESETZ, KRIMINALITÄT UND RECHTSSYSTEME</term>
+					<term>Kriminalität und Gesetzesvollzug</term>
+					<term>Spezifische Krankheiten, Störungen und Gesundheitsprobleme</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Social behaviour and attitudes</term>
+					<term>LAW, CRIME AND LEGAL SYSTEMS</term>
+					<term>Crime and law enforcement</term>
+					<term>Specific diseases, disorders and medical conditions</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Allgemeine Bevölkerungsumfrage der Sozialwissenschaften (ALLBUS) ist eine Trenderhebung, in der seit 1980 alle zwei Jahre eine Zufallsstichprobe der deutschen Bevölkerung befragt wird. Das primäre Ziel des Umfrageprogramms ist die Beobachtung von Einstellungen, Verhalten und sozialen Wandel in Deutschland. Jede ALLBUS-Querschnittserhebung besteht aus ein oder zwei Schwerpunktmodulen zu wechselnden Themen. Diese werden ergänzt durch weitere inhaltliche Fragen und ein Kernmodul mit detaillierten demografischen Informationen. Zudem werden Zusatzinformation zum Interview und den Interviewern bereitgestellt. Die Schwerpunktmodule folgen in der Regel einem 10-jährigen Replikationszyklus, viele Einzelindikatoren und Itembatterien werden aber auch in kürzeren Abständen repliziert. 
+Seit Mitte der 1980er Jahre werden zusammen mit ALLBUS auch regelmäßig ein oder zwei Module des ISSP (International Social Survey Programme) erhoben.
+Das Schwerpunktmodul des ALLBUS 1990 trägt den Titel „Sanktion und abweichendes Verhalten“ und enthält u.a. Fragen zur moralischen Bewertung verschiedener Verhaltensweisen, zur Akzeptanz von Normen, zu selbstberichteter Devianz und zur Erwartung von Sanktionen. Weitere Themen der Studie sind z.B. soziale Netzwerke (Freundschaftsbeziehungen) sowie politische Einstellungen. Ebenfalls enthalten ist das ISSP Modul „Staat und Regierung II“.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>1. Einstellungen zu Staat, Regierungsmaßnahmen, Behörden undsozialen Konflikten: Meinung zum Verhalten der Behörden gegenüber denBürgern; Meinung zu kleineren Gesetzesübertretungen; Einstellung zuPolitikern; perzipierte Interessenkonflikte zwischen ausgewähltenGruppen in der Bundesrepublik; Beurteilung der wirtschaftlichen Lage inder BRD und der zukünftigen wirtschaftlichen Entwicklungen; eigenewirtschaftliche Lage; Bewertung sozialer Gerechtigkeit; Präferenz fürSteuersenkung oder erhöhte soziale Leistungen; zu viele gesetzlicheRegelungen und Behörden; Einstellung zur Vereinigung der beidendeutschen Staaten; Einstellung zur Kernenergie, zur Todesstrafe fürterroristische Gewalttaten und zu mehr öffentlichen Hilfsleistungen inprivater Hand.
+2. Einstellungen und Kontakte zu Gastarbeitern: Einstellungsskala;Kontakte zu Gastarbeitern in der Familie, am Arbeitsplatz, in derNachbarschaft oder im Freundeskreis; Vor- und Nachteile der Anwesenheitvon Gastarbeitern in der BRD; Einstellung zu Immigranten; Einschränkungdes Zuzugs für Übersiedler, Aussiedler, Asylsuchende und Arbeitnehmeraus EG-Staaten bzw. Nicht-EG-Staaten; Vor- oder Nachteile des Zuzugs vonAus- und Übersiedlern.
+3. Fragen zum Thema AIDS (HIV): Bekanntheit von AIDS; Einstellung zuhöheren Krankenversicherungsbeiträgen für HIV-Infizierte; Einstellungzur Entlassung infizierter Arbeitnehmer und zu einem Einreiseverbot fürHIV-infizierte Ausländer; Befürwortung einer zentralen Meldepflicht;Schätzung des eigenen Ansteckungsrisikos; eigene Maßnahmen zumAnsteckungsschutz; persönliche Bekanntschaft mit AIDS-Infizierten.
+4. Abweichendes Verhalten und Sanktionen: Meinung zu ausgewähltenDelikten und Vergehen bezüglich ihrer Verwerflichkeit und ihrerSanktionswürdigkeit (Split mit unterschiedlichen Frageformulierungen);Fragen zur Rechtslage und zu Gesetzeskenntnissen; Anzeigebereitschaftbei verschiedenen Vergehen; Einschätzung der Wahrscheinlichkeit, beiverschiedenen Delikten entdeckt zu werden; eigene Viktimisierung;Gesetzestreue; Senkung der Kriminalität durch härtere Strafen;wichtigster Zweck von Sanktionen; selbstberichtetes abweichendesVerhalten; Wahrscheinlichkeit, derartige Gesetzesübertretungen inZukunft zu begehen.
+5. Sonstiges: Wichtigkeit von Lebensbereichen; generelles Vertrauen inMitmenschen und Politiker; sozialer Pessimismus und Zukunftsorientierung(Anomia); Freunde (egozentrierte Netzwerke) mit Angaben über derenVerwandtschaft, Erwerbstätigkeit und berufliche Stellung sowieWahlverhalten, gegenseitige Bekanntschaft; Einstellungen zumSchwangerschaftsabbruch; politisches Interesse; Postmaterialismus(Wichtigkeit von Ruhe und Ordnung, von Bürgereinfluss, vonInflationsbekämpfung und von freier Meinungsäußerung); politischePartizipation; Selbsteinstufung in einem Links-Rechts-Kontinuum;Selbsteinschätzung der sozialen Schichtzugehörigkeit; Parteipräferenz.
+6. ALLBUS-Demographie: Angaben zur befragten Person: Geschlecht;Geburtsmonat, Geburtsjahr, Alter; Aufenthaltsdauer in derBundesrepublik; Herkunft; Wohnort (Bundesland, Regierungsbezirk,politische Gemeindegröße, Boustedt-Gemeindetyp); Konfession,Kirchgangshäufigkeit; Wahlabsicht (Sonntagsfrage), Wahlrückerinnerung;allgemeiner Schulabschluss, berufliche Ausbildung; Erwerbsstatus;Angaben zum gegenwärtigen Beruf, Branche, Zugehörigkeit zum öffentlichenDienst, berufliche Aufsichtsfunktion, wöchentliche Arbeitsdauer;Zeitpunkt der Aufgabe hauptberuflicher Erwerbstätigkeit; Dauer vonArbeitslosigkeit; vorwiegender Lebensunterhalt; Angaben zum ehemaligenBeruf; Befragteneinkommen; Familienstand; Führerscheinbesitz.
+Angaben zum gegenwärtigen Ehepartner: Alter; allgemeinerSchulabschluss, berufliche Ausbildung; Erwerbsstatus; Angaben zumgegenwärtigen bzw. ehemaligen Beruf; Zeitpunkt der Aufgabehauptberuflicher Erwerbstätigkeit.
+Angaben zum ehemaligen Ehepartner: Angaben zum gegenwärtigen Beruf.
+Angaben zum nichtehelichen Lebenspartner: Gemeinsamer Haushalt mitLebenspartner; Geburtsmonat, Geburtsjahr, Alter des Partners;allgemeiner Schulabschluss, berufliche Ausbildung; Erwerbsstatus;Angaben zum gegenwärtigen bzw. zum ehemaligen Beruf.
+Angaben zu den Eltern des Befragten: Allgemeiner Schulabschluss undberufliche Ausbildung von Mutter und Vater; Angaben zum Beruf desVaters.
+Haushaltsbeschreibung: Haushaltsgröße, Anzahl von über 17-jährigenHaushaltspersonen (reduzierteHaushaltsgröße); Haushaltseinkommen; Wohnungstyp; Telefonanschluß.
+Angaben zu den einzelnen Haushaltspersonen (Haushaltsliste):Verwandtschaft der Haushaltspersonen zum Befragten; Geschlecht derPersonen; ihr Geburtsmonat, Geburtsjahr, Alter; Familienstand.
+Gegenwärtige Mitgliedschaften des Befragten (DeutscherGewerkschaftsbund (DGB), Deutsche Angestelltengewerkschaft (DAG),Christlicher Gewerkschaftsbund (CGB), Union Leitender Angestellter(ULA), Deutscher Beamtenbund (DBB), Bauernverband, Gewerbeverband,Bundesverband der Deutschen Industrie (BDI), Berufsverband der freienBerufe, sonstiger Berufsverband; Gesangverein, Sportverein,Hobby-Vereinigung, Heimat- oder Bürgerverein, sonstige geselligeVereinigung, Vertriebenen- oder Flüchtlingsverband, Wohlfahrtsverband,kirchlicher oder religiöser Verein, Jugend- oder Studentenorganisation,politische Partei, Bürgerinitiative, andere Vereine oder Verbände). 
+7. Daten zum Interview (Paradaten): Anwesenheit anderer Personen und derenVerwandtschaftsgrad zum Befragten; Interventionen anwesender Personenbeim Interview; Interviewdauer; Interviewdatum; Interviewergeschlecht;Intervieweralter; Intervieweridentifikation.
+8. Rolle der Regierung II (ISSP): Einstellung zur Befolgung vonGesetzen; Einstellung zu ausgewählten Protestformen gegen die Regierung;Einstellung zur Meinungsfreiheit für Revolutionäre und Ethnozentristen;Einstellung zu polizeilichen Eingriffen in die Privatsphäre zurVerhinderung von Straftaten; Einstellung zu einem Justizirrtum; Haltungzu Revolutionären, Ethnozentristen und Protestierenden; Meinung zurSteuergerechtigkeit und zu einer Einkommensumverteilung durch dieRegierung; Ansichten zu staatlichen Eingriffen in die Wirtschaft;Einstellung zur Veränderung der Regierungsausgaben für ausgewähltepolitische Aufgaben; Priorität für Inflationsbekämpfung oder mehrArbeitsplätze; Meinung zur Macht von Gewerkschaften, der Wirtschaft undder Regierung; Einstellung zu Gewerkschaften; gewünschter Grad desEingriffs der Regierung in ausgewählte Wirtschaftsbereiche; Einschätzungder Verantwortlichkeit der Regierung in Bezug auf verschiedenepolitische Aufgaben; Chancengleichheit der Geschlechter in verschiedenenBereichen; Einstellung zur Frauenförderung durch die Regierung.
+9. Ergänzungen und abgeleitete Variablen: Postmaterialismus-Index (nach Inglehart);Familientypologie, Haushaltsklassifikationen (nach Porst und Funk);Berufsvercodung gemäß ISCO (International Standard Classification ofOccupations) 1968; Berufsprestige (nach Treiman); Magnitudeprestige(nach Wegener); Einordnungsberufe (nach Terwey); Klassenlagen (nachGoldthorpe); Transformationsgewicht.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>ALLBUS (GGSS - the German General Social Survey) is a biennial trend survey based on random samples of the German population. Established in 1980, its mission is to monitor attitudes, behavior, and social change in Germany. Each ALLBUS cross-sectional survey consists of one or two main question modules covering changing topics, a range of supplementary questions and a core module providing detailed demographic information. Additionally, data on the interview and the interviewers are provided as well. Key topics generally follow a 10-year replication cycle, many individual indicators and item batteries are replicated at shorter intervals.
+Since the mid-1980ies ALLBUS also regularly hosts one or two modules of the ISSP (International Social Survey Programme).
+The main topic of ALLBUS/GGSS 1990 is "Sanctions and Deviant Behavior” with, among others, questions on the moral evaluation of various behaviors, the acceptance of norms, self-reported deviant behavior, and the expected probability of sanctions. Other topics include ego-centered friendship networks and political attitudes. Also included is the ISSP module "Role of Government II."</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>1.) Attitudes towards the government, government measures, administration, and social conflicts: opinion on the behavior of administration towards the citizen; opinion on minor offenses; attitude towards politicians; perceived conflicts of interest between selected groups in the Federal Republic; assessments of the present and future economic situation in Germany; assessment of present and future personal economic situation; evaluation of social justice; attitude towards increased social services versus tax cuts, official regulations, and administration; attitude towards the unification of the two German states; attitude towards nuclear energy, towards the death penalty for terrorist acts of violence, and towards more public services under private ownership.
+2.) Attitudes towards and contacts with foreign guest-workers(Gastarbeiter): scale of attitudes towards foreigners; contacts with foreign guest-workers within the family, at work, in the neighborhood,or among friends; advantages and disadvantages of the presence of foreign guest-workers in the FRG; attitude towards immigrants; immigration restrictions for east Germans and for eastern European ethnic Germans moving to the Federal Republic, asylum seekers and labor from EC or non-EC countries; advantages and disadvantages from the influx of eastern European ethnic Germans and East Germans.
+3.) Questions on AIDS (HIV): knowledge about AIDS; attitude towardshigher health insurance fees for those infected with AIDS; attitudetowards dismissal of infected employees and towards entry refusal forforeigners infected with AIDS; support of a central registrationrequirement; estimate of personal risk of infection; personalprotective measures against infection; personal acquaintance withpeople infected with AIDS.
+4.) Deviant behavior and sanctions: opinion on various deviant actswith reference to their reprehensibility and the degree to which theydeserve prosecution (two split versions using different formulations);questions about the legality of deviant activities; readiness to reportvarious offenses; assessment of probability of being caught committingvarious crimes; own victimization; respect of the law; lowering thecrime rate through severer punishment; the most important purpose ofsanctions; self-reported deviant behavior; probability of engaging invarious deviant acts in the future.
+5.) Other topics: importance of life aspects; trust in fellow men andpoliticians, social pessimism and orientation towards the future(anomia); friends (ego-centered networks), including information onkinship, occupational position, party preference of and mutualfamiliarity between friends or acquaintances; attitudes towardsabortion; political interest; postmaterialism (importance of law andorder, fighting rising prices, free expression of opinions, andinfluence on governmental decisions); political participation;self-placement on a left-right continuum; self-assessment of socialclass; party preference; voting behavior.
+6.) ALLBUS-Demography: Details about the respondent: gender; month andyear of birth, age; length of residence in the FRG; geographicalorigin; place of residence (federal state, administrative region, sizeof municipality, Boustedt-type of municipality); religiousdenomination, frequency of church attendance; voting intention(Sonntagsfrage); vote in last elections; general education, vocationaltraining; employment status; details about current occupation,industrial sector, affiliation to public service, supervisoryfunctions, working hours per week; date of termination of full- orpart-time employment; length of unemployment; principal source oflivelihood; details about former occupation; respondent´s income;marital status; possession of driver´s license.
+Details about respondent´s current spouse: age; general education,vocational training; employment status; details about current andformer occupation respectively; date of termination of full- orpart-time employment.
+Details about respondent´s former spouse: details about currentoccupation.
+Details about respondent´s steady extra-marital partner: commonhousehold; month and year of birth, age; general education, vocationaltraining; employment status; details about current and formeroccupation respectively.
+Details about respondent´s parents: general education and vocationaltraining of father and mother; father´s occupation.
+Composition of household: size of household; number of persons olderthan 17 in household (reduced size of household); household income;type of dwelling, telephone. 
+Details about household members: relation to respondent; gender; monthand year of birth, age; marital status. Respondent´s currentmemberships (Deutscher Gewerkschaftsbund (DGB, blue-collar union),Deutsche Angestelltengewerkschaft (DAG, white-collar union),Christlicher Gewerkschaftsbund (CGB, Christian union), Union LeitenderAngestellter (ULA, association of managers), Deutscher Beamtenbund(DBB, public service union), farmer´s association, trade association,Bundesverband der Deutschen Industrie (BDI, association of Germanindustry), association of a liberal profession, other occupationalassociation; choral society, sports club, leisure activity club, localhistory or community club, other social association, association ofGerman expellees or refugees, charitable association, religious/churchorganization, youth or student organization, political party, citizens´action group, other club or association).
+7.) Data on the interview (paradata): presence of other people during theinterview and their relationship to the respondent; intervention ofother people in the course of the interview; length of interview; dateof interview; gender of interviewer; age of interviewer; identificationof interviewer.
+8.) Role of government II (ISSP): attitude towards the observance oflaws; attitude towards selected forms of protest against thegovernment; attitude towards freedom of speech for revolutionaries andethnocentrists; attitude towards police intervention in the privatesphere to prevent crimes; attitude towards a miscarriage of justice;attitude on revolutionaries, ethnocentrists, and protesters; attitudetowards tax fairness and towards income redistribution by thegovernment; views of government intervention in the economy; attitudetowards change in government spending for selected political tasks;priority for fighting inflation or creating more jobs; opinion on thepower of trade unions, business and industry, and the government;attitude towards trade unions; desired degree of governmentintervention in selected areas of the economy; opinions on theresponsibility of the government regarding various political tasks;equality of opportunity for both sexes in various areas; attitudetowards improvement of the position of women by the government.
+9.) Added value: Inglehart-index; family typology, classificationof private households (according to Porst and Funk); InternationalStandard Classification of Occupations (ISCO 1968); occupationalprestige (according to Treiman); magnitude prestige (according toWegener); occupational meta-classification (according to Terwey); classposition (according to Goldthorpe); weights.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>FRG incl. West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD einschl. West-Berlin </freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>In Privathaushalten lebende deutsche Staatsangehörige ab 18 Jahren</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Private households addressing all individuals with German citizenship who were at least 18 years of age by the day of the interview. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Haushaltsstichprobe: Mehrstufig geschichtete Zufallsauswahl (ein
+Verfahren analog zum ADM-Mastersample) aus Privathaushalten. 
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Household Sample: Multi-stage random sample (ADM-Mastersample) </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1990-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1990-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Klaus R.</firstName>
+				<middleName/>
+				<lastName>Allerbeck</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Frankfurt</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Karl U.</firstName>
+				<middleName/>
+				<lastName>Mayer</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Max-Planck-Institut für Bildungsforschung, Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Walter</firstName>
+				<middleName/>
+				<lastName>Müller</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Karl-Dieter</firstName>
+				<middleName/>
+				<lastName>Opp</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Hamburg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Franz U.</firstName>
+				<middleName/>
+				<lastName>Pappi</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Erwin K.</firstName>
+				<middleName/>
+				<lastName>Scheuch</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Rolf</firstName>
+				<middleName/>
+				<lastName>Ziegler</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität München
+</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INFAS, Bonn
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.PAPI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.Paper</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen und schriftliche
+Zusatzbefragung (drop off) im Rahmen des ISSP
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Personal interview with standardized questionnaire (PAPI - Paper and
+Pencil Interviewing), additional self-completion questionnaire (drop
+off) for ISSP </freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>3051</numberUnits>
+			<numberVariables>563</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Ein Teil der Fragen im ALLBUS 1990 wurde nur jeweils der Hälfte der
+Befragten gestellt (Split-Verfahren). Dabei wurden jeweils andere Fragen
+in den Splits aufgenommen, um die Gesamtzahl der erhobenen Variablen zu
+erhöhen (vgl. V3 (Splitvariable), V4-V31 (Split 1), V32-V69 (Split 2),
+V136-V161 (Split 1) und V162-V193 (Split 2)).
+Eine in der Demographie vereinfachte Version des Datensatzes ist als
+ALLBUScompact 1990 (ZA-Studien-Nr. 3714) zusätzlich vorhanden.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Some of the questions from ALLBUS 1990 were only used with half of the
+respondents ("split procedure"). Thus the total number of variables was
+increased (compare V3, V4-V31 (split 1), V32-V69 (split 2), V136-V161
+(split 1) and V162-V193 (split 2).
+A second version of this data set with a shortened demography module is
+available as ALLBUScompact 1990 (ZA No. 3714).
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Braun, Michael; Mohler, Peter Ph.: 
+Die Allgemeine Bevölkerungsumfrage der Sozialwissenschaften (ALLBUS). Rückblick und Ausblick in die neunziger Jahre. 
+In: ZUMA-Nachrichten 29, 1991, S. 7-28. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael: 
+ALLBUS: Das Programm und Erweiterungen des bestehenden Angebots. 
+In: ZA-Information 42, 1998, S. 33-43. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael: 
+ALLBUS: A German General Social Survey. 
+Schmollers Jahrbuch 120, 2000, S. 151-158. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael: 
+Zum aktuellen Wandel im Zugriff auf ALLBUS-Materialien und zur ALLBUS-Nutzung in Publikationen. 
+In: ZA-Information 53, 2003, S. 195-202. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Veröffentlichungsreihe "Blickpunkt Gesellschaft": 
+Müller, Walter; Mohler, Peter Ph.; Erbslöh, Barbara; Wasmer, Martina (Hrsg.): 
+Blickpunkt Gesellschaft: Einstellungen und Verhalten der Bundesbürger. 
+Opladen: Westdeutscher Verlag 1990. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Mohler, Peter Ph.; Bandilla, Wolfgang (Hrsg.): 
+Blickpunkt Gesellschaft: 2. Einstellungen und Verhalten der Bundesbürger in Ost und West. 
+Opladen: Westdeutscher Verlag 1992. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Braun, Michael; Mohler, Peter Ph. (Hrsg.): 
+Blickpunkt Gesellschaft: 3. Einstellungen und Verhalten der Bundesbürger. 
+Opladen: Westdeutscher Verlag 1994. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Braun, Michael; Mohler, Peter Ph. (Hrsg.): 
+Blickpunkt Gesellschaft: 4. Soziale Ungleichheit in Deutschland. 
+Opladen: Westdeutscher Verlag 1998. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Alba, Richard; Schmidt, Peter; Wasmer, Martina (Hrsg.): 
+Blickpunkt Gesellschaft: 5. Deutsche und Ausländer: Freunde, Fremde oder Feinde? 
+Wiesbaden: Westdeutscher Verlag 2000. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Koch, Achim; Wasmer, Martina; Schmidt, Peter (Hrsg.): 
+Blickpunkt Gesellschaft: 6. Politische Partizipation in der Bundesrepublik Deutschland. Empirische Befunde und theoretische Erklärungen. 
+Opladen: Leske + Budrich 2001. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Alba, Richard; Schmidt, Peter; Wasmer, Martina (Hrsg.): 
+Germans or Foreigners? Attitudes Towards Ethnic Minorities in Post-Reunification Germany. 
+New York und Houndmills: Palgrave Macmillan 2003.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

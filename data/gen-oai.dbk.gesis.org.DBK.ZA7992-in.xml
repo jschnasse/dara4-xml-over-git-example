@@ -1,0 +1,217 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Social Cohesion in Baden-Wuerttemberg 2019'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Gesellschaftlicher Zusammenhalt in Baden-Württemberg 2019'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7992</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Gesellschaftlicher Zusammenhalt in Baden-Württemberg 2019</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Social Cohesion in Baden-Wuerttemberg 2019</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Kai</firstName>
+				<middleName/>
+				<lastName>Unzicker</lastName>
+				<affiliation>
+					<affiliationName>Bertelsmann Stiftung, Gütersloh</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7992?doi=10.4232/1.14162</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.14162</doiProposal>
+	<publicationDate>
+		<date>2023-08-11</date>
+	</publicationDate>
+	<publicationPlace>Cologne, Germany</publicationPlace>
+	<publisher>
+		<institution>
+			<institutionName>GESIS</institutionName>
+		</institution>
+	</publisher>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7992</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>GESELLSCHAFT UND KULTUR</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Gesundheitswesen</term>
+					<term>Allgemeine Gesundheit und Wohlbefinden</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Sozialer Wandel</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>SOCIETY AND CULTURE</term>
+					<term>Community, urban and rural life</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Health care services and policies</term>
+					<term>General health and well-being</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Social change</term>
+					<term>Social conditions and indicators</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Studie über gesellschaftlichen Zusammenhalt in Baden-Württemberg wurde von infratest dimap im Auftrag der Bertelsmann Stiftung und des Ministeriums für Soziales und Integration Baden-Württemberg durchgeführt. Im Erhebungszeitraum 09.01.2019 bis 04.02.2019 wurden deutschsprachige Personen ab 16 Jahren in Privathaushalten mit Festnetzanschluss in Baden-Württemberg  in telefonischen Interviews (CATI) schwerpunktmäßig zur Situation in der eigenen Wohngegend befragt. Die Auswahl der Befragten erfolgte durch eine mehrstufige Zufallsstichprobe aus einem ADM-Auswahlrahmen.Die Studie ist Bestandteil des Projektes Radar, das seit 2013 national und international verschiedene Aspekte des gesellschaftlichen Zusammenhaltes untersucht.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Lebenszufriedenheit; Gefühl der Verbundenheit mit: Europa, Deutschland, Baden-Württemberg, der Region, dem Wohnort und mit der Nachbarschaft; Größe des Freundes- und Bekanntenkreises; Häufigkeit der Treffen mit Freunden/ Bekannten; Freunde, auf deren Hilfe man bei Schwierigkeiten zählen könnte; Freunde oder Bekannte, die im Notfall 1.000 Euro leihen würden; allgemeines Personenvertrauen; Stärke des Vertrauens bei der ersten Begegnung; Stärke des Vertrauens in politische Parteien, Gerichte, Polizei, Landesregierung, Landtag, Bundesregierung und Stadt- bzw. Kreis- oder Gemeindeverwaltung (Institutionenvertrauen); Zustimmung zu verschiedenen Aussagen (Die sozialen Unterschiede in unserem Land sind gerecht, man wird in Deutschland entsprechend seiner Leistung vergütet, die wirtschaftlichen Gewinne werden heute in Deutschland gerecht verteilt, die Rangunterschiede zwischen den Menschen sind akzeptabel, die meisten Leute kümmern sich gar nicht um ihre Mitmenschen, die meisten Menschen haben gute Absichten, heutzutage kann man sich auf niemanden verlassen); Meinung zur Benachteiligung von Frauen in der Gesellschaft; Meinung zur politischen Arbeit gegen Benachteiligung von Frauen; Gesellschaftliche Teilhabe: Spenden in den letzten 12 Monaten; Ehrenamtliches Engagement: Häufigkeit ehrenamtlicher Tätigkeit; erfahrene Wertschätzung für die ehrenamtliche Tätigkeit; ausreichende Unterstützung von Politik und Verwaltung für das ehrenamtliche Engagement; Art der gewünschten Unterstützung; Entwicklung der Unterstützung für ehrenamtliches Engagement durch Politik und Verwaltung in den letzten fünf Jahren; Art der politischen Partizipation in den letzten zwölf Monaten (z.B. Unterschriftensammlungen für politische Zwecke, Teilnahme an einer Bürgerinitiative, etc.); Mitgliedschaft in einem Verein oder einer gemeinnützigen Organisation; Bedrohung vs. Bereicherung des Lebens in Deutschland durch zunehmende Vielfalt; Akzeptanz verschiedener Personengruppen in der Nachbarschaft (Menschen mit einem ganz anderen Lebensstil, Menschen mit anderer Religion, Ausländer/ Migranten, Homosexuelle, Familien mit Kindern, Menschen mit Behinderung); Sicherheitsgefühl in der Nachbarschaft; Gegend in unmittelbarer Nähe, wo man nachts nicht alleine gehen möchte; Anerkennung sozialer Regeln: verschiedene Probleme in der Nachbarschaft (z.B. Hundekot auf der Straße, Ruhestörung, etc.); Politikinteresse; Interesse an Kommunalpolitik; Wahrscheinlichkeit der Beteiligung an den nächsten  Kommunalwahlen; politische Selbsteinstufung Links-Rechts; Parteipräferenzen (Rangfolge); Zukunftsoptimismus; Demokratiezufriedenheit; Demokratie ist die beste Staatsform; gesellschaftlicher Zusammenhalt in Deutschland ist gefährdet; größtes Problem für en gesellschaftlichen Zusammenhalt in Deutschland; größte Probleme für das Zusammenleben in der Region (erste und zweite Nennung); große Probleme mit Flüchtlingen in der Wohngegend; Wohngegend: Wohngegend geeignet für Kinder, ausreichende Unterstützungsangebote in der Wohngegend für Familien mit Kindern, Veränderung der Angebote für Familien mit Kindern in der Wohngegend in den letzten fünf Jahren; Wohngegend geeignet für ältere Menschen; ausreichende Unterstützungsangebote für ältere Menschen in der Wohngegend; Veränderung der Angebote für ältere Menschen in der Wohngegend in den letzten fünf Jahren; Bewertung der hausärztlichen Versorgung in der Wohngegend Bewertung der fachärztlichen Versorgung in der Wohngegend; Erreichbarkeit eines Krankenhauses innerhalb von 30 Minuten; Veränderung der ärztlichen Versorgung in der Wohngegend in den letzten fünf Jahren; Beurteilung der zunehmenden Digitalisierung des Gesundheitswesens; Bewertung der Versorgung von Pflegebedürftigen in der Wohngegend; Pflegebedürftige im eigenen Haushalt, in der Familie oder im Freundeskreis, andere z.B. in der Nachbarschaft, keine; Bewertung der Qualität der Pflege; Veränderung der Qualität der Pflege in der Wohngegend in den letzten fünf Jahren; Belästigung von Frauen in der Wohngegend; Gewalt gegen Frauen in der Wohngegend; Belästigung von Frauen im Bekanntenkreis; ausreichende Unterstützungsangebote für Frauen mit Gewalterfahrung.  
+Demographie: Geschlecht; Alter; Haushaltsgröße; Kinder; Anzahl der Kinder; Einzugsjahr in den jetzigen Wohnort; feste Partnerschaft; derzeitige berufliche Situation; höchster Schulabschluss; abgeschlossene Berufsausbildung oder Hochschulstudium; Zugehörigkeit zu einer Religionsgemeinschaft; Konfession oder Religionsgemeinschaft; Selbsteinschätzung des Gesundheitszustands; chronische Krankheit; in den letzten zwölf Monaten laufende finanzielle Hilfe zum Lebensunterhalt bezogen; Beurteilung der persönlichen wirtschaftlichen Lage; Globalisierung als Chance oder als Bedrohung; Höhe des monatlichen Haushaltsnettoeinkommens; Haushaltsnettoeinkommen kategorisiert; in Deutschland geboren; Geburtsland der befragten Person; deutsche Staatsbürgerschaft; Staatsbürgerschaft der befragten Person; Vater und Mutter in Deutschland geboren (Migrationshintergrund).
+Zusätzlich verkodet wurde: Befragten-ID; Kreiskennziffer, politische Gemeindeklasse; Regierungsbezirk, Gewichtungsfaktor.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The study on social cohesion in Baden-Württemberg was conducted by infratest dimap on behalf of the Bertelsmann Stiftung and the Ministry of Social Affairs and Integration Baden-Württemberg. During the survey period from 09.01.2019 to 04.02.2019, German-speaking persons aged 16 and older in private households with a landline in Baden-Württemberg were surveyed in telephone interviews (CATI), focusing on the situation in their own neighborhood. Respondents were selected through a multi-stage random sampling from an ADM selection frame.The study is part of the Radar project, which has been investigating various aspects of social cohesion nationally and internationally since 2013.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Satisfaction with life; feeling of connectedness with: Europe, Germany, Baden-Württemberg, the region, the place of residence and with the neighborhood; size of the circle of friends and acquaintances; frequency of meetings with friends/acquaintances; friends on whose help one could count in case of difficulties; friends or acquaintances who would lend 1. 000 euros; general trust in people; strength of trust at first meeting; strength of trust in political parties, courts, police, state government, state parliament, federal government and city or district or municipal administration (institutional trust); agreement with various statements (Social differences in our country are fair, people in Germany are paid according to their performance, economic gains are distributed fairly in Germany today, the differences in rank between people are acceptable, most people don´t care about their fellow human beings at all, most people have good intentions, nowadays you can´t rely on anyone); opinion on the discrimination of women in society; opinion on political work against discrimination of women; social participation: Donations in the last 12 months; volunteering: frequency of volunteering; appreciation experienced for volunteering; sufficient support from politics and administration for volunteering; type of support desired; development of support for volunteering from politics and administration in the last five years; type of political participation in the last twelve months (e. g., collecting signatures for political causes, participation in a citizens´ initiative, etc.); membership in an association or nonprofit organization; threat vs. enrichment of life in Germany by increasing diversity; acceptance of different groups of people in the neighborhood (people with a very different lifestyle, people with a different religion, foreigners/migrants, homosexuals, families with children, people with disabilities); sense of safety in the neighborhood; neighborhood in the immediate vicinity where one would not want to go alone at night; recognition of social rules: various problems in the neighborhood (e.g., dog excrement on the street, disturbance of the peace, etc.); interest in politics; interest in local politics; probability of participation in the next local elections; political self-ranking left-right; party preferences (ranking); optimism about the future; satisfaction with democracy; democracy is the best form of government; social cohesion in Germany is at risk; biggest problem for social cohesion in Germany; biggest problems for living together in the region (first and second naming); big problems with refugees in the neighborhood; neighborhood: Residential area suitable for children, sufficient support offers in the residential area for families with children, change in offers for families with children in the residential area in the last five years; residential area suitable for elderly people; sufficient support offers for elderly people in the residential area; change in offers for elderly people in the residential area in the last five years; evaluation of family doctor care in the residential area evaluation of specialist doctor care in the residential area; accessibility of a hospital within 30 minutes; change in medical care in the residential area in the last five years; assessment of the increasing digitalization of health care; assessment of the care provided to people in need of care in the residential area; people in need of care in own household, in the family or among friends, others e.g. in neighborhood, none; assessment of quality of care; change in quality of care in neighborhood in last five years; harassment of women in neighborhood; violence against women in neighborhood; harassment of women among acquaintances; sufficient support services for women who have experienced violence.
+Demography: sex; age; household size; children; number of children; year of moving into current residence; stable partnership; current occupational situation; highest school degree; completed vocational training or university studies; membership in a religious community; denomination or religious community; self-assessment of health status; chronic illness; received ongoing financial assistance for subsistence in the last twelve months; assessment of personal economic situation; globalization as an opportunity or as a threat; amount of monthly net household income; net household income categorized; born in Germany; country of birth of respondent; German citizenship; citizenship of respondent; father and mother born in Germany (migration background).
+Additionally coded were: respondent ID; county code number; political municipality class; administrative district; weighting factor.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BW</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutschsprachige Bevölkerung ab 16 Jahren in Privathaushalten mit Festnetzanschluss</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German-speaking population aged 16 and over in private households with a fixed-network connection</sampled>
+		</universe>
+	</universes>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-01-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-02-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>infratest dimap, Berlin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>1400</numberUnits>
+			<numberVariables>141</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>infratest dimap: Radar gesellschaftlicher Zusammenhalt in Baden-Württemberg : Eine repräsentative Erhebung im Auftrag der Bertelsmann Stiftung und  des Ministeriums für Soziales und Integration Baden-Württemberg.
+Berlin: infrastest dimap, Methodenbericht, 2019</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

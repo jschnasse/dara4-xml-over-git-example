@@ -1,0 +1,270 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Saxonian longitudinal study - wave 19, 2005'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Sächsische Längsschnittstudie - Welle 19, 2005'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA6237</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Sächsische Längsschnittstudie - Welle 19, 2005</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Saxonian longitudinal study - wave 19, 2005</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Peter</firstName>
+				<middleName/>
+				<lastName>Förster</lastName>
+				<affiliation>
+					<affiliationName>Forschungsstelle Sozialanalysen Leipzig</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Elmar</firstName>
+				<middleName/>
+				<lastName>Brähler</lastName>
+				<affiliation>
+					<affiliationName>Abteilung Medizinische Psychologie und Medizinische Soziologie Universitätsklinikum Leipzig</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Yve</firstName>
+				<middleName/>
+				<lastName>Stöbel-Richter</lastName>
+				<affiliation>
+					<affiliationName>Abteilung Medizinische Psychologie und Medizinische Soziologie Universitätsklinikum Leipzig</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Hendrik</firstName>
+				<middleName/>
+				<lastName>Berth</lastName>
+				<affiliation>
+					<affiliationName>Medizinische Psychologie und Medizinische Soziologie Universitätsklinikum Carl Gustav Carus an der Technischen Universität Dresden</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6237?doi=10.4232/1.11317</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11317</doiProposal>
+	<publicationDate>
+		<date>2012-02-12</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6237</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT59</identifier>
+					<!-- Medizin -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Spezifische Krankheiten, Störungen und Gesundheitsprobleme</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Political behaviour and attitudes</term>
+					<term>Specific diseases, disorders and medical conditions</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Bei der Sächsischen Längsschnittstudie handelt es sich um eine sozialwissenschaftliche Längsschnittstudie. Sie wurde 1987 begonnen und untersucht über die Vereinigung der Deutschen Demokratischen Republik (DDR) und Bundesrepublik hinweg den politischen Einstellungswandel junger Erwachsener in den neuen Bundesländern. Seit der 16. Welle (2002) wird das Thema Arbeitslosigkeit und Gesundheit intensiv untersucht. Einen weiteren neuen Schwerpunkt stellen Fragen zu Partnerschaft und Persönlichkeit dar.
+Politischer Mentalitätswandel bei jungen Erwachsenen nach der Wende.
+Themen: Zukunftszuversicht; derzeitiger Wohnsitz in den neuen oder denalten Bundesländern bzw. im Ausland; Bleibeabsicht in einemostdeutschen Bundesland; Rückkehrabsicht in ein ostdeutschesBundesland; Lebensziele (Skala: Besitzerwerb, Geld verdienen,Hedonismus, glückliches Eheleben, Leben nach christlichen Werten,Selbstverwirklichung, eigene Kinder, Altruismus, Arbeitszufriedenheit,soziale Mobilität, Reichtum, politische Partizipation, keine festenBindungen, Einsatz für die Erhaltung des politischen Systems, dem Lebenseinen Lauf lassen, beliebiger Job); Vertrauen in die Parteien SPD,CDU/CSU, Republikaner bzw. andere rechte Parteien, Bündnis 90/DieGrünen, PDS, FDP und rechte Parteien; Partei, von der sich der Befragteam besten vertreten fühlt; Gefühl der zukünftigen Bedrohung durchmögliche eigene Arbeitslosigkeit, die Auswirkungen von Hartz IV,weitere Reformen der Regierung, Immigranten, durch eine persönlicheNotlage, Bürgerüberwachung, Folgen der EU-Erweiterung, persönlichersozialer Abstieg, Intergenerationenkonflikt, Zunahme von Mobbing undLeistungsdruck, Zunahme von Linksradikalismus, Zunahme vonKriminalität, Verteuerung des Lebens, Altersarmut, Verschlechterung deseigenen Gesundheitszustands sowie Zunahme von Rechtsradikalismus;Zufriedenheit mit dem politischen System in der BundesrepublikDeutschland, mit der Wirtschaftsordnung, der Demokratie, derSozialpolitik, der Bildungspolitik, der Familienpolitik, derArbeitsmarktpolitik, der Außenpolitik, der Gesundheitspolitik und mitder Lohnpolitik in Ostdeutschland; Zukunftszuversicht für den Befragtenpersönlich, dessen Eltern und Kinder, im Hinblick auf dieVerwirklichung der persönlichen beruflichen Pläne, für die Entwicklungin Ostdeutschland, in Deutschland insgesamt, für die Entwicklung derheranwachsenden Jugendlichen in Ostdeutschland sowie für dieEntwicklung der Menschheit; Selbsteinstufung links-rechts; erwartetepolitische Richtungsentwicklung der Gesellschaft in Deutschland;Parteipräferenz (Sonntagsfrage); Einstellung zur deutschen Einheit;Bilanz der Veränderungen in Ostdeutschland und der persönlichenVeränderungen seit der Wende; Zurechtkommen mit den neuengesellschaftlichen Verhältnissen; Beurteilung der westlichen Lebensart;Zufriedenheit mit den persönlichen Wohnverhältnissen, den politischenEinflussmöglichkeiten, dem Lebensstandard, dem Einkommen, mit denMöglichkeiten zu gesellschaftlicher Mobilität, der gesellschaftlichenEntwicklung, mit dem persönlichen Gesundheitszustand, mit demVerhältnis zu den Eltern und zu den Vorgesetzten; Beurteilung desEinflusses der Politik der Bundesregierung auf das eigene Leben;Umzugshäufigkeit seit der Wende;  Vergleich der Situation in den neuenBundesländern derzeit und in der DDR bezüglich: soziale Sicherheit,Schutz gegen Kriminalität, Verhältnis der Menschen untereinander,Möglichkeit der Selbstentfaltung, Achtung der Menschenwürde,Schulbildung, Familienförderung, Kinderbetreuung, sozialeGerechtigkeit, Politikermoral, persönliche Freiheiten, Ehrlichkeit derPolitiker, Gesundheitswesen sowie demokratische Mitwirkung; Beurteilungdes Lebens in der DDR; Freude über die deutsche Einheit; glücklichBürger der BRD zu sein; mehr Trennendes oder Gemeinsamkeiten zwischenOstdeutschen und Westdeutschen; Präferenz für persönliche Freiheittrotz möglicher Arbeitslosigkeit; Überwiegen von neuen Chancen oder vonRisiken bei der Lebensgestaltung; Übereinstimmung des damals im FachStaatsbürgerkunde vermittelten Kapitalismus der BRD mit der heutigenRealität im vereinten Deutschland hinsichtlich: Ausbeutung vonArbeitern durch Kapitalisten, Macht der Konzerne und Banken,kapitalistisches Gesellschaftssystem als Quelle von Konflikten,Politiker vertreten Interessen von Reichen und Mächtigen, Klassenkampfin der BRD; Einstellung zu den sozialistischen Idealen zum Zeitpunktvor der Wende sowie derzeit; Einstellung zu Ausländern; präferierterEntwicklungsweg der DDR (retrospektiv); Vergleich der heutigenpersönlichen wirtschaftlichen Situation sowie der wirtschaftlichenSituation der Eltern mit der vor zwei Jahren; Identifikation alsDeutscher, als Europäer, als Bürger der ehemaligen DDR, als Bürger derBundesrepublik, als Ostdeutscher, als Sachse, als Gewinner derdeutschen Einheit; Nationalstolz; Zufriedenheit mit der persönlichenLebenssituation; persönliche Erfahrungen mit dem neuenGesellschaftssystem; geschätzter Zeitraum bis zur wirtschaftlichen undgesellschaftlichen Angleichung von Ost und West; persönlicheErfahrungen hinsichtlich: soziale Marktwirtschaft, Einflussnahme aufdie gesellschaftliche Entwicklung, Lebensgestaltung ohne politischebzw. wirtschaftliche Zwänge, gerechter Anteil am gesellschaftlichenWohlstand, Leben in einer menschlichen Gesellschaft, freieMeinungsäußerung in der Öffentlichkeit und gegenüber dem Vorgesetzten,Interesse von Politikern an der persönlichen Meinung, in derGesellschaft gebraucht werden; erwartete soziale Unruhen inOstdeutschland; Teilnahmebereitschaft an Protestaktionen bzw. einerDemonstration; Leben in der DDR als ´lebenslanger Knast´; rechtzeitigeBeseitigung des SED-Regimes; reformierter Sozialismus positiver alsgegenwärtige politische Ordnung; Ostdeutsche als Deutsche zweiterKlasse; das aktuelle Gesellschaftssystem löst die dringendenMenschheitsprobleme und ist ein menschenwürdiges Zukunftsmodell;Hoffnung auf Erhalt des derzeitigen Gesellschaftssystems; Leben inWürde mit Arbeitslosengeld II; politisch eng mit der Bundesrepublikverbunden fühlen; gerechter Anteil am gesellschaftlichen Wohlstand füralle; berufliche Chancengleichheit von Frauen und Männern; gesicherteZukunft in Ostdeutschland; Ostdeutsche sollten auf ihre Situationaufmerksam machen; Alte leben auf Kosten der Jungen; sozialistischeGesellschaftsideale werden sich durchsetzen; Auswanderungswunsch;Kapitalismus als bestes Wirtschaftssystem; Freiheit sowie Achtung derMenschenrechte im derzeitigen Gesellschaftssystem; Sozialismus als guteIdee; Einstellung zur DDR und zu einem kapitalistischen Deutschland;Hartz-IV bedeutet Armut; 15. Jahrestag der Deutschen Einheit als Grundzum Feiern; Bewertung der Schullehre über den Kapitalismus;Lebenszufriedenheit; Einstellung zur Verwirklichung der Ziele derfriedlichen Revolution von 1989 sowie zur damals von Ostdeutschenerrungenen Freiheit; Bewertung der gesellschaftlichen Entwicklung inOstdeutschland als Fortschritt oder als Rückschritt.
+Zusatzfragen zur Lage auf dem Arbeitsmarkt: Einstellung zum ThemaArbeit und Arbeitslosigkeit (Skala); erwartete Entwicklung derArbeitslosigkeit in Ostdeutschland; retrospektive Bewertung despersönlichen Lebensweges und erwartete Veränderung hinsichtlichsozialem Aufstieg oder Abstieg; geschätztes Alter für eine generell zubefürchtende Arbeitsplatzgefährdung.
+Zusatzfragen für Arbeitslose: Zuversicht über eineWiederbeschäftigung; Zufriedenheit mit der Förderung derArbeitsplatzsuche; Zufriedenheit mit den Zusatzverdienstmöglichkeitenneben dem Arbeitslosengeld.  
+Wieder alle: Fragen zum Befinden: Häufigkeit negativer Gefühlslagen in den letzten sieben Tagen (unkontrollierteGefühlsausbrüche, Lethargie, Sorgen, Verletzlichkeit in Gefühlsdingen,Gefühl beobachtet zu werden, Anspannung, Schweregefühl in Armen oderBeinen, Nervosität bei Alleinsein, Einsamkeitsgefühle in Gesellschaft);Bewertung des persönlichen Gesundheitszustands; Einstellung zurBeeinflussbarkeit des eigenen Gesundheitszustands; chronischeBeschwerden (Niedergeschlagenheit, Sinnlosigkeit des Lebens,Ratlosigkeit, Zukunftsangst); Häufigkeit ausgewählter Beschwerden imletzten Jahr (Nervosität, Schlaflosigkeit, Magenschmerzen,Herzbeschwerden); Grad der Beeinträchtigung durch ausgewählteBeschwerden; Selbstcharakterisierung als introvertiert, bequem,entspannt, künstlerisch interessiert, extrovertiert, gründlich,unsicher, phantasievoll; Extremismustendenzen (Skala: Befürwortungrechtsautoritärer Diktatur, Chauvinismus, Ausländerfeindlichkeit,Antisemitismus, Sozialdarwinismus, Verharmlosung desNationalsozialismus); Suizidgedanken; Einstellung zu rechtsextrememGedankengut z.B. Deutschland den Deutschen, Ausländer raus, Juden sindDeutschlands Unglück, Deutschland in den Grenzen von 1937); Wichtigkeitausgewählter Lebensbereiche (Freunde, Freizeit, Gesundheit, Einkommen,Beruf, Wohnsituation, Familie, Partnerschaft bzw. Sexualität) undZufriedenheit mit diesen Lebensbereichen; Wichtigkeit ausgewählterGesundheitsaspekte (körperliche Leistungsfähigkeit, Ausgeglichenheit,Fortbewegungsfähigkeit, Seh- und Hörvermögen, Angstfreiheit,Schmerzfreiheit, Unabhängigkeit) und Zufriedenheit mit diesen Aspekten;Charakterisierung der persönlichen Beziehung zur Mutter(Bindungsfragebogen Mutter); Charakterisierung der Beziehung zumsozialen Umfeld (Skala: emotionale und praktische Unterstützung,soziale Integration, Vertrauensperon, Zufriedenheit mit sozialerUnterstützung); präferierte Form der Einwanderungspolitik des Staates(Skala).
+Demographie: Geschlecht; Alter; berufliche Stellung bzw. Tätigkeit;Rückkehr in den Osten; Familienstand; Heiratsabsicht; Kinder;präferierte Kinderzahl; eigene Arbeitsplatzsicherheit; eigeneArbeitslosigkeit und Arbeitslosigkeitsdauer; Arbeitslosigkeit desLebenspartners; Teilnahmebereitschaft an der nächsten Welle gegenHonorar.
+Zusätzlich verkodet wurde: Indizes: Extraversion, Annehmlichkeit,Gewissenhaftigkeit, emotionale Stabilität, Offenheit, Extremismus. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The Saxonian longitudinal study is a longitudinal study in the social sciences. It was begun in 1987 and surveys the change in political attitudes of young adults in the new federal states of the former East Germany over the unification of the German Democratic Republic (GDR) and the Federal Republic of Germany. Since the 16th wave (2002), the subject of unemployment and health has been intensively surveyed. Another new focus is on questions of partnership and personality.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SN</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Leipzig</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Leipzig</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SN</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Chemnitz</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Chemnitz</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Junge Erwachsene der Geburtsjahrgänge 1972/1973
+Ehemalige Schüler polytechnischer Oberschulen</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl; Auswahlverfahren Kommentar: Wiederbefragung der Population aus der Vorgängerstudie ZA-Studien-Nr. 6213 ff.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2005-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2005-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Panel</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Forschungsstelle Sozialanalysen Leipzig
+Universität Leipzig</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.Paper</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Postalische Befragung mit standardisiertem Fragebogen</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>385</numberUnits>
+			<numberVariables>386</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie ist Teil einer Längsschnittstudie, die unter den
+ZA-Studien-Nrn. 6213 bis 6227 und 6233 bis 6236 archiviert ist. </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Förster, Peter: 
+Warum viele junge Ostdeutsche den Kapitalismus wieder loswerden wollen. Beispiel: Die 32-Jährigen. 
+Leipzig: Ergebnisbericht zur 19. Welle der Sächsischen Längsschnittstudie 2006</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

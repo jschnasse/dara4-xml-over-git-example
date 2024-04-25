@@ -1,0 +1,294 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Female Scientists with Migration Background at German Universities'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Wissenschaftlerinnen mit Migrationshintergrund an deutschen Hochschulen'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA5673</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Wissenschaftlerinnen mit Migrationshintergrund an deutschen Hochschulen</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Female Scientists with Migration Background at German Universities</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Inken</firstName>
+				<middleName/>
+				<lastName>Lind</lastName>
+				<affiliation>
+					<affiliationName>Kompetenzzentrum Frauen in Wissenschaft und Forschung CEWS, GESIS - Leibniz-Institut für Sozialwissenschaften, Köln</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Andrea</firstName>
+				<middleName/>
+				<lastName>Löther</lastName>
+				<affiliation>
+					<affiliationName>Kompetenzzentrum Frauen in Wissenschaft und Forschung CEWS, GESIS - Leibniz-Institut für Sozialwissenschaften, Köln</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Parminder</firstName>
+				<middleName/>
+				<lastName>Bakshi-Hamm</lastName>
+				<affiliation>
+					<affiliationName>Kompetenzzentrum Frauen in Wissenschaft und Forschung CEWS, GESIS - Leibniz-Institut für Sozialwissenschaften, Köln</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5673?doi=10.4232/1.12598</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12598</doiProposal>
+	<publicationDate>
+		<date>2016-08-11</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5673</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>1</identifier>
+			<type>VerbundFDB</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT38</identifier>
+					<!-- Beruf -->
+					<identifier>KAT56</identifier>
+					<!-- Universität, Forschung, Wissenschaft -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Höhere Bildung</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Higher and further education</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>Gleichstellung</keyword>
+				<keyword>Frauenbeauftragte</keyword>
+				<keyword>Hochschule</keyword>
+				<keyword>Migrationshintergrund</keyword>
+				<keyword>Integration</keyword>
+				<keyword>Benachteiligtenförderung</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>affirmative action</keyword>
+				<keyword>women's representative</keyword>
+				<keyword>university</keyword>
+				<keyword>migration background</keyword>
+				<keyword>integration</keyword>
+				<keyword>promotion of disadvantaged persons</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Gleichstellungsarbeit. Studierende mit Migrationshintergrund. Wissenschaftliches Personal mit Migrationshintergrund. Unterstützungsstrukturen. 
+Themen: 1. Gleichstellungsarbeit: Tätigkeitsdauer als Frauen-und Gleichstellungsbeauftragte; berufliche Situation bei Übernahme des Amtes; Zuständigkeit für weitere Benachteiligungsgründe aus dem Allgemeinen Gleichbehandlungsgesetz (AGG); Zuständigkeit für Benachteiligungen wegen: rassistischer und ethnischer Gründe, Religion und Weltanschauung, Behinderung, Alters, sexueller Identität, Sonstiges); Zuständigkeit des Amtes sollte auf andere Benachteiligungsgründe erweitert werden; Zufriedenheit mit den Umsetzungsmöglichkeiten im Amt; Gründe für Unzufriedenheit (z.B. nicht genug Personal, finanzielle Mittel, Befugnisse, etc.); offizielle Zielvorgaben für Frauenanteile an der eigenen Hochschule; Zielvorgaben in Prozent für Professuren, für übriges unbefristet und befristet beschäftigtes wissenschaftliches Personal sowie für nicht-wissenschaftliches Personal; Hochschultyp; Ausrichtung der Hochschule (traditionell oder modern). 
+2. Studierende mit Migrationshintergrund: Gestiegener Anteil von Studierenden mit Migrationshintergrund an der Hochschule; Herkunftsregionen dieser Studierenden; Veränderung des kulturellen Klimas an der Hochschule durch gestiegenen Anteil von Studierende mit Migrationshintergrund; eher positive oder negative Bewertung dieser Veränderungen; Wahrscheinlichkeit von Integrationsschwierigkeiten im Studienbetrieb von ausgewählten Gruppen (Bildungsausländer aus Osteuropa, dem Nahen Osten, Asien, Afrika, in Deutschland aufgewachsene Studierende mit türkischem Migrationshintergrund bzw. mit außereuropäischem Migrationshintergrund, sonstige Personengruppen (offen), bei keiner); eindeutige Gründe für die Integrationsschwierigkeiten vorhanden; Hauptgründe für Integrationsschwierigkeiten (z.B. Sprachbarrieren, allgemeine kulturelle Unterschiede, kulturell unterschiedliche soziale Prägung, etc.); Wahrnehmung von Unterschieden zwischen Frauen und Männern mit Migrationshintergrund hinsichtlich ihrer Integration in den Wissenschaftsbetrieb; leichtere Integration von Frauen oder Männern mit Migrationshintergrund in den Wissenschaftsbetrieb; Beschreibung der Unterschiede zwischen Männern und Frauen mit Migrationshintergrund bzgl. ihrer Integration in die Wissenschaft; geschätzter bzw. offiziell erhobener Frauenanteil unter den Studierenden der oben genannten Gruppen in Prozent (bzw. keine Angabe). 
+3. Wissenschaftliches Personal mit Migrationshintergrund, Unterstützungsstrukturen: Erfasste Merkmale in den statistischen Erhebungen der Hochschule zum wissenschaftlichen Personal (Unterscheidung nach Deutsch/Ausländer/in, Unterscheidung der Ausländer/Innen nach Staatsangehörigkeit, andere Kriterien, keine, keine Angabe); geschätzter bzw. offiziell erhobener Frauenanteil unter dem ausländischen wissenschaftlichen Personal an der Hochschule; Beschäftigungsgruppen, bei denen Gleichstellungsgesichtspunkte bei Personalauswahlverfahren an der Hochschule überwacht werden; eigene Einflussnahme bei zu besetzenden Stellen auf den Ausschreibungstext, auf die Auswahl der zum Vorstellungsgespräch eingeladenen, auf Vorstellungsgespräche, Entscheidungsfindung, keines, Sonstiges; Berücksichtigung des Themas Migrationshintergrund im Rahmen von Gleichstellungsplänen der Hochschule und Gründe dafür; Meinung zur Notwendigkeit der Berücksichtigung dieses Themas im Rahmen von Gleichstellungsplänen und Begründung einer ablehnenden Haltung; Häufigkeit von Beratungsgesprächen mit Hochschulmitarbeiterinnen mit Migrationshintergrund; Anzahl der Fälle in den letzten zwei Jahren; vorrangige Probleme von Hochschulmitarbeiterinnen mit Migrationshintergrund in der eigenen Beratungspraxis (z.B. Vereinbarkeit von Familie und Beruf, Schwierigkeiten mit den Vorgesetzten, etc.); Zusammenhang der Probleme haben mit dem Migrationshintergrund; bestehende Fördermaßnahmen von Wissenschaftlern und Wissenschaftlerinnen mit Migrationshintergrund; andere Anlaufstellen an der Hochschule für Hochschulmitarbeiterinnen mit Migrationshintergrund (offene Nennung); Wissenschaftlerinnen mit Migrationshintergrund sollten besonders gefördert werden; Frauen mit Migrationshintergrund haben es im deutschen Wissenschaftsbetrieb schwerer als Frauen ohne Migrationshintergrund; Migrationshintergrund kann für Wissenschaftlerinnen auch Vorteile haben; Benachteiligungen wegen der ethnischen Herkunft sollten an deutschen Hochschulen mit den gleichen Mitteln wie im Gender-Kontext bekämpft werden; zukünftig bei der eigenen Arbeit mehr auf Frauen mit Migrationshintergrund einstellen; Thema Migrationshintergrund spielt keine besondere Rolle im Wissenschaftsbetrieb; präferierte Zuständigkeit für die Förderung von Wissenschaftlerinnen mit Migrationshintergrund (Gleichstellungsbeauftrage oder spezielle Stelle); größte Schwierigkeiten und Vorteile von Wissenschaftlerinnen mit Migrationshintergrund; speziell für Wissenschaftlerinnen mit Migrationshintergrund anzupassende Maßnahme (Beobachtung von Stellenbesetzungen bzw. Berufungen, Mentoring Programme, Personality Training); Interesse an Fortbildungsmaßnahmen, Informationsmaterial, Informationsveranstaltungen oder sonstigen Hilfestellungen für die Förderung von Frauen mit Migrationshintergrund; Gründe gegen stärkeren Fokus auf Frauen mit Migrationshintergrund in der eigenen Arbeit. 
+Demographie: Name der Hochschule und Position der Befragten an der Hochschule (anonymisiert); Bundesland. 
+Zusätzlich verkodet wurde: Eindeutige ID; Seriennummer des Befragten; Quelldatei der Seriennummer des Befragten; Erhebungsmethode Interviews Mitarbeiterinnen- Referentinnen; ID der Befragung; erfolgreich abgeschlossene Datenerhebung; Online-Befragung aktiv/ in Bearbeitung; Zeitüberschreitung; vom Script bzw. vom Befragten angehalten; Befragungssystem heruntergefahren, Durchsicht, Signal, Testdaten; Interviewer-ID; Beginn der Befragung (Datum und Uhrzeit); Befragung abgeschlossen (Datum und Uhrzeit); Routingschema; Variante; aktuelle Frage bei Interviewende; Abschlusssignal Befragung; Zufallswert/ Rotationswert; Version der Interview Engine; gegenwärtige Seite; Debug Information der Interview Engine; Zeitzone Server, Interviewer und Befragter; Bemerkungen; bereinigt; benötigt Überprüfung; markiert zur Überprüfung, zum Verschieben, zum Kopieren, zur Löschung; diverse Codes (z.B. zur Tätigkeitsdauer, Zielvorgaben für Professoren, keine Angaben).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Gender equality efforts. Students with migration background. Female scientists with migration background. Support structures.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alle Frauen- und Gleichstellungsbeauftragten an 274 deutschen Hochschulen und Referentinnen / wissenschaftliche Mitarbeiterinnen von Gleichstellungsbeauftragten</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>All  women’s representatives and  Equal Opportunity commissioners at 274 German universities, and consultants / scientific staff members of Equal Opportunity commissioners</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Vollerhebung; Auswahlverfahren Kommentar: Vollerhebung</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Total universe/Complete enumeration; Sampling Procedure Comment: Total universe/Complete Enumeration</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2007-11</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2007-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Zentrum für Evaluation und Methoden der Universität Bonn (ZEM)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kompetenzzentrum Frauen in Wissenschaft und Forschung CEWS (GESIS)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>Distributor</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>HostingInstitution</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.WebBased</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Selbstausfüller: CAWI (Computerunterstütztes Web-Interview)
+Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Self-administered questionnaire: CAWI (Computer Assisted Web Interview)
+Telephone interview: CATI (Computer Assisted Telephone Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>246</numberUnits>
+			<numberVariables>197</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Erhebungseinheit: wissenschaftliches Personal###</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Survey unit: adults; teenagers###</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Lind, Inken; Löther, Andrea (Hg.) (2008): Wissenschaftlerinnen mit Migrationshintergrund. Kompetenzzentrum Frauen in Wissenschaft und Forschung (CEWS): Bonn (cews.publik, No. 12).
+Zugang: http://www.ssoar.info/ssoar/handle/document/23342</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

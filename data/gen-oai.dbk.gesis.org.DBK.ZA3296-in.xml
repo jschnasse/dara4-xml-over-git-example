@@ -1,0 +1,763 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Eurobarometer 53 (Apr- May 2000)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Eurobarometer 53 (Apr- May 2000)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3296</identifier>
+		<currentVersion>1.0.1</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Eurobarometer 53 (Apr- May 2000)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Eurobarometer 53 (Apr- May 2000)
+</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Racism, Information Society, General Services, and Food Labeling</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Racism, Information Society, General Services, and Food Labeling</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Standard Eurobarometer 53</titleName>
+			<titleType>AlternativeTitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Standard Eurobarometer 53</titleName>
+			<titleType>AlternativeTitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Europäische Kommission</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3296?doi=10.4232/1.10935</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.10935</doiProposal>
+	<publicationDate>
+		<date>2012-03-30</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3296</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>doi:10.3886/ICPSR03064.v5</identifier>
+			<type>DOI</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Minderheiten</term>
+					<term>Konsum und Konsumverhalten</term>
+					<term>Informationsgesellschaft</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Cultural and national identity</term>
+					<term>Social conditions and indicators</term>
+					<term>International politics and organisations</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Minorities</term>
+					<term>Consumption and consumer behaviour</term>
+					<term>Information society</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Themenschwerpunkte sind:
+1. Politische Einstellungen und Fragen zur Europäischen Union
+2. Europäisches Parlament
+3. Minoritäten
+4. Öffentliche Dienstleistungen
+5. Etikettierung von genetisch veränderten Nahrungsmitteln
+6. Notrufnummer
+7. Informations- und Kommunikationstechnologien.
+Themen:
+1. Politische Einstellungen und Fragen zur Europäischen Union:Nationalität (Mehrfachantworten möglich); Politikinteresse; eigeneMeinungsführerschaft; eigene Beschäftigungssituation,Beschäftigungssituation in der Familie und Zufriedenheit mit dem Lebenim allgemeinen; Verschlechterung bzw. Verbesserung des eigenen Lebens inden letzten und in den nächsten fünf Jahren; Mediennutzung;Selbsteinschätzung der Informiertheit über die EU, ihre Politik und ihreInstitutionen; ausreichende Berichterstattung über Belange der EU in dennationalen Medien; Beurteilung der Mitgliedschaft des Landes in der EU;Vorteilhaftigkeit dieser Mitgliedschaft; EU-Image im allgemeinen;Vorteilhaftigkeit der EU-Mitgliedschaft für ausgewähltegesellschaftliche Gruppen; Demokratiezufriedenheit im eigenen Land undin der EU; präferierte Informationsquellen, Informationskanäle undInformationsmittel über die EU, ihre Politik und ihre Institutionen;Einschätzung der derzeitigen Integrationsgeschwindigkeit Europas;Wichtigkeit der Rolle der EU für das tägliche Leben des Befragten infünf Jahren; Kenntnis der europäischen Institutionen und Beurteilungihrer Wichtigkeit für die EU; Vertrauen in die europäischenInstitutionen; in naher Zukunft erwartete eigene Identität alsEuropabürger oder Nationalbürger; Nationalstolz; Einstellung zurgemeinsamen europäischen Währung, Außenpolitik und Verteidigungspolitik;Einstellung zu einer von den Mitgliedstaaten unabhängigen oder gegenüberdem europäischen Parlament verantwortlichen Europäischen Zentralbank;Einstellung zu einer Verantwortlichkeit der EU für Angelegenheiten, dieauf nationaler, regionaler und lokaler Ebene nicht effektiv gelöstwerden können; Einstellung zu einer Unterstützung des Präsidenten undder Mitglieder der Europäischen Kommission durch eine Mehrheit deseuropäischen Parlaments; Einstellung zu einem Schulunterricht über dieArbeit der europäischen Institutionen; Präferenz für eine nationale odereuropäische Entscheidungsgewalt über ausgewählte Politikbereiche;gewünschte Prioritäten in der EU-Politik, wie z.B. Neuaufnahme vonMitgliedstaaten, Bürgernähe der EU, erfolgreiche Einführung des Euro,Bekämpfung von Armut, Umweltschutz, Verbraucherschutz,Arbeitslosigkeitsbekämpfung, Reform von EU-Institutionen,Friedenssicherung und Schutz der Persönlichkeitsrechte unddemokratischen Prinzipien in Europa; Selbsteinschätzung der eigenenInformiertheit über den Euro; genutzte Informationsmittel über den Euro;präferierte neue EU-Mitgliedstaaten; Kriterien für die Neuaufnahme vonLändern.
+2. Europäisches Parlament: Kenntnis und Bedeutung des Europaparlaments;Wunsch nach einer Stärkung des Europäischen Parlaments; Einschätzung derInteressenvertretung der europäischen Bürger durch das Europaparlament;wichtigste Interessen, die durch das Europaparlament vertreten werdensollten; Einstellung zu einer europäischen Verfassung;Entscheidungsgewalt aller oder nur ausgewählter Mitgliedsstaaten nachder EU-Osterweiterung.
+3. Minoritäten: empfundene Störungen durch Menschen anderer Rasse,Religion oder Kultur; Zugehörigkeit zu einer Majorität oder Minorität;Herkunft der Eltern oder Großeltern aus einer anderen Kultur, Religion,Rasse oder Nationalität; Einschätzung des Minoritätenanteils im Lande;Einstellung zur Rolle der Minoritäten in Ausbildung, Arbeitsmarkt,Wirtschaft und Kultur; wichtigste Maßnahmen zur Verbesserung derBeziehungen zu Menschen anderer Rasse, Religion und Kultur im eigenenLand; Arbeitsmarktakzeptanz von Muslimen, Osteuropäern, Flüchtlingen,Asylsuchenden und EU-Bürgern; Einstellung zur Assimilation undIntegration von Minderheiten und Immigranten in der Gesellschaft;Einstellung zu Immigranten aus Nicht-EU-Ländern; Vorteile für das Landdurch die Anwesenheit von Einwanderern aus Nicht-EU-Ländern.
+4. Öffentliche Dienstleistungen: Zugänglichkeit und Bezahlbarkeit vonMobilfunk, Festnetz-Telefon, Strom, Gas, Wasser, Post, öffentlichenVerkehrsmitteln und Bahnreisen; Qualität, Informiertheit undVertragsbedingungen dieser öffentlichen Dienstleistungen; eigeneReklamationen und Beschwerden in den letzten 12 Monaten undZufriedenheit mit dem Umgang des Dienstleisters mit diesen Beschwerden.
+5. Etikettierung von genetisch veränderten Nahrungsmitteln: Häufigkeitder Wahrnehmung von solchen Kennzeichnungen der Lebensmittel und Gradder Informiertheit; Beurteilung der Produktinformationen aufVerpackungen von Lebensmitteln; Bedeutung der Gesundheitsangaben für dieKaufentscheidung; Informiertheit über genetisch veränderteNahrungsmittel; Notwendigkeit einer Kennzeichnung von genetischveränderten Nahrungsmitteln, Vertrauen in sie und Einfluss auf dieKaufentscheidung; präferierte Informationsquellen, Informationskanäleund Informationsmittel über genetische veränderte Nahrungsmittel.
+6. Notrufnummer: Bekanntheitsgrad der europischen Notrufnummer 112 imFalle eines Unfalls im europäischen Ausland.
+7. Informations- und Kommunikationstechnologien: Besitz und Nutzung vonSatellitenschüssel, Kabelfernsehen, Digitalfernsehen, DVD-Player,Spielkonsole, PC, Laptop, PDA, CD-Rom-Drive, Internetzugang, Faxgerät,Handy und ISDN-Anschluss; Nutzungsinteresse an den neuen Technologien;Gründe für die Nichtbenutzung von ISDN; geplanter Erwerb von den o.g.Produkten und Dienstleistungen; persönliches Surfverhalten; Einfluss derInternetnutzung auf die Nutzung von traditionellen Medien wie Fernsehen,Bücher, Presse, Radio und auf das Sozialleben des Befragten;Zugangsort(Arbeitsplatz, zuhause, Internet-Cafe) und Zufriedenheit mitder Geschwindigkeit der Internetverbindung; Maßnahmen für eineGeschwindigkeitserhöhung wie ISDN, DSL u.s.w. und Bezahlbarkeit vondiesen Maßnahmen; Interesse an bestimmten Internetangeboten sowieBereitschaft dafür zu zahlen.
+Demographie: Alter; Geschlecht; Familienstand; Haushaltsgröße; Kinderim Haushalt; Wohnstatus; Wohnungsgröße in qm; Selbsteinschätzung aufeinem Links-Rechts-Kontinuum; Postmaterialismus; Alter beim Beenden derAusbildung; Beruf; vorheriger Beruf; Religion; Selbsteinschätzung derReligiosität; Ortsgröße; Region.
+Zusätzlich verkodet wurde: Interviewdatum; Interviewbeginn;Interviewdauer; Anwesenheit weiterer Personen beim Interview;Kooperation des Befragten; Telefonbesitz.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The major topics are:1. Political attitudes and questions on the European Union2. European Parliament3. Minorities4. Public services5. Labeling of genetically modified food6. Emergency phone number7. Information and communication technologies.Topics:1. Political attitudes and questions on the European Union:nationality (multiple responses possible);interest in politics;personal opinion leadership;personal employment situation, employment situation in one's family andsatisfaction with life in general;deterioration or improvement in personal lifein the last and in the next five years;media usage;self-assessment of extent to which informed about the EU,its policies and its institutions;adequate reporting about interests of the EU in national media;judgement on membership of the country in the EU;advantageousness of this membership;EU image in general;advantageousness of EU membership for selected social groups;satisfaction with democracy in one's country and in the EU;preferred source of information, information channels andmeans of information about the EU, its policies and its institutions;assessment of current speed of integration of Europe;importance of the role of the EU for daily life of respondent in five years;knowledge about European institutions andjudgement on their importance for the EU;trust in European institutions;expected personal identity as European citizen or national citizenin the near future;national pride;attitude to the common European currency, foreign policy and defense policy;attitude to a European Central Bank independent of the member countries orresponsible to the European Parliament;attitude to responsibility of the EU for matters thatcannot effectively be solved on national, regional and local level;attitude to support of the president and members of the European Commissionby a majority of the European Parliament;attitude to school instruction about the work of European institutions;preference for national or European decision-making powerover selected political areas;desired priorities in EU policies, such as e.g. accepting new member countries,populism of the EU, successful introduction of the Euro, fight against poverty,environmental protection, consumer protection, fighting unemployment,reform of EU institutions, securing of peace andprotection of the right to privacy and democratic principles in Europe;self-assessment of personal extent to which informed about the Euro;means of information about the Euro used;preferred new EU member countries;criteria for accepting new countries.2. European Parliament:knowledge and significance of the European Parliament;desire for a strengthening of the European Parliament;assessment of the representation of interests of European citizensby the European Parliament;most important interests that should be represented by the European Parliament;attitude to a European constitution;decision-making power of all or only selected member countriesafter the EU extension to the east.3. Minorities:perceived disturbances from people of another race, religion or culture;belonging to a majority or minority;origin of parents or grandparents from another culture, religion,race or nationality;assessment of proportion of minorities in the country;attitude to the role of minorities in education, job market,economy and culture;most important measures to improve relations with people of another race,religion and culture in one's country;job market acceptance of muslims, Eastern Europeans, refugees,persons seeking asylum and EU citizens;attitude to assimilation and integration of minorities and immigrantsin society;attitude to immigrants from non-EU countries;advantages for the country from presence of immigrants from non-EU countries.4. Public services:accessibility and affordablility of mobile phones, conventional telephones,electricity, gas, water, mail, public transportation and railroad travel;quality, extent to which informed andcontract conditions of these public services;personal complaints in the last 12 months andsatisfaction with the way the service provider dealt with these complaints.5. Labeling of genetically modified food:frequency of noticing such identification of foods anddegree of extent to which informed;judgement on product information on food packaging;significance of health information for purchase decision;extent to which informed about genetically modified food;necessity of identification of genetically modified food,trust in them and influence on purchase decision;preferred sources of information, information channels andmeans of information about genetically modified food.6. Emergency phone number:degree of familiarity of the European emergency phone number 112in case of accident in other European countries.7. Information and communication technologies:possession and use of satellite dish, cable television, digital television,DVD player, game console, PC, laptop, PDA, CD-Rom drive, Internet access,Fax equipment, mobile phone and ISDN connection;interest in using new technologies;reasons for not using ISDN;planned employment of the above-mentioned products and services;personal surf practices;influence of Internet use on use of traditional media such as television,books, press, radio and on social life of respondent;place of access (job, at home, Internet cafe) andsatisfaction with speed of Internet connection;measures for speed increase such as ISDN, DSL etc.and affordability on these measures;interest in certain Internet selections as well as willingness to pay for this.Demography:age;sex;marital status;size of household;children in household;residential status;size of residence in qm;self-assessment on a left-right continuum;postmaterialism;age at termination of education;occupation;revious occupation;religion;self-assessment of religiousness;city size;region.Also encoded was:date of interview;start of interview;length of interview;presence of further persons during interview;cooperation of respondent;possession of a telephone.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-GBN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-NIR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FI</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 15 Jahre und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons 15 years old and older.
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage stratified random sample </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-07</date>
+				</startDate>
+				<endDate>
+					<date>2000-05-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Belgium</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Belgien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-11</date>
+				</startDate>
+				<endDate>
+					<date>2000-05-12</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Denmark</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Dänemark</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-07</date>
+				</startDate>
+				<endDate>
+					<date>2000-05-05</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-10</date>
+				</startDate>
+				<endDate>
+					<date>2000-05-02</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Greece</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Griechenland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-11</date>
+				</startDate>
+				<endDate>
+					<date>2000-05-02</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Spain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Spanien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-05</date>
+				</startDate>
+				<endDate>
+					<date>2000-04-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-10</date>
+				</startDate>
+				<endDate>
+					<date>2000-05-02</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland (Republic)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland (Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-12</date>
+				</startDate>
+				<endDate>
+					<date>2000-05-02</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-12</date>
+				</startDate>
+				<endDate>
+					<date>2000-05-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Luxembourg</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Luxemburg</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-21</date>
+				</startDate>
+				<endDate>
+					<date>2000-05-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Netherlands</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-14</date>
+				</startDate>
+				<endDate>
+					<date>2000-05-12</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-10</date>
+				</startDate>
+				<endDate>
+					<date>2000-05-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-10</date>
+				</startDate>
+				<endDate>
+					<date>2000-05-02</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Northern Ireland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Nordirland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-07</date>
+				</startDate>
+				<endDate>
+					<date>2000-05-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Austria</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Österreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-09</date>
+				</startDate>
+				<endDate>
+					<date>2000-05-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Sweden</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweden</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-04-09</date>
+				</startDate>
+				<endDate>
+					<date>2000-05-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Finland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Finnland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>European Commission, Brussels;
+DG Education and Culture
+Citizen`s Centre - Analysis of Public Opinion 
+</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA BELGIUM, Bruessel</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GfK Danmark, Frederiksberg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA DEUTSCHLAND, Moelln</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>KEME, Athen</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA ESPANA, Madrid</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>CSA-TMO, Paris</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>LANSDOWNE Market Research, Dublin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ULSTER MARKETING SURVEYS, Nordirland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>PRAGMA, Rom</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ILRES, Luxemburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>NIPO, Amsterdam</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>METRIS, Lissabon</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA UK, London</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GfK SVERIGE, Lund, Schweden</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MDC MARKETING RESEARCH Ltd, Espoo, Finnland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SPECTRA, Linz, OEsterreich</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA EUROPE, Bruessel (internationale Koordination)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>685</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Je Land wurden etwa 1000 Interviews durchgeführt, außer in Luxemburg
+(ca. 600 Befragte) und in Nordirland (ca. 300 Befragte). In Deutschland
+wurden in Ost und West zwei getrennte Stichproben von je ca. 1000
+Befragten erhoben.
+
+Unter der ZA-Studien-Nr. 3521 ist ein kumulierter Datensatz der
+Eurobarometer (1970-2002) mit ausgewählten Trendfragen archiviert.
+
+Schweizer Daten zu den thematischen Modulen ´Rassismus und Fremdenfeindlichkeit´, ´Informationsgesellschaft´ und ´Genetic Engineering´ über das EBCH 2000 verfügbar (Online-Zugriff auf integrierten Datensätze EU + Schweiz via FORS Online-Datenkatalog)
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>In each country about 1000 interviews were conducted, except in Luxembourg
+(approx. 600 respondents) and in Northern Ireland (approx. 300 respondents).
+In Germany two separate samples of approx. 1000 respondents each
+were surveyed in east and west.
+
+Swiss data available on ´Racism and Xenophobia´, Information Society´, and ´Genetic Engineering´ in the framework of EBCH 2000 (online access to integrated datasets EU+Switzerland via FORS online data catalogue)
+
+</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.3296</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Commission. 
+EUROBAROMETER 53. Public Opinion on the European Community. 
+Brüssel, 2000. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Thalhammer, Eva; Zucha, Vlasta; Enzenhofer, Edith; Salfinger, Brigitte; Ogris, Günther. 
+Attitudes towards minority groups in the European Union. A special analysis of the Eurobarometer 2000 survey on behalf of the European Monitoring Centre on Racism and Xenophobia by SORA Vienna, Austria. 
+Wien, 2001. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Eva Thalhammer: Attitudes towards minority groups in West and East Germany. A special Analysis of the Eurobarometer 2000 Survey on behalf of the European Monitoring Centre on Racism and Xenophobia by SORA Vienna, Austria. Vienna, March 2001. [Einstellungen gegenüber Minderheitengruppen in West- und Ostdeutschland]
+
+   </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>INRA (Europe) pour la Commission Européenne, Direction Générale "Santé et protection des Consommateurs": Les Europeens et les services d´intérêts généraux. Brüssel, September 2000</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>INRA (Europe) for the European Commission: Measuring Information Society 2000. Brussels, Spring 2000.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

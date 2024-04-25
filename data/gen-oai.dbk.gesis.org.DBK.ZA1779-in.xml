@@ -1,0 +1,271 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Politbarometer 1989 (Cumulated Data Set) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Politbarometer 1989 (Kumulierter Datensatz)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch; Text</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric; Text</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA1779</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Politbarometer 1989 (Kumulierter Datensatz)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Politbarometer 1989 (Cumulated Data Set) 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1779?doi=10.4232/1.1779</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1779</doiProposal>
+	<publicationDate>
+		<year>1991</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1779</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Arbeitsbedingungen</term>
+					<term>Migration</term>
+					<term>Höhere Bildung</term>
+					<term>Ernährung</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Konflikte, Sicherheit und Frieden</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+					<term>Wirtschaftspolitik, öffentliche Ausgaben und Einnahmen</term>
+					<term>Gesundheitswesen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Working conditions</term>
+					<term>Migration</term>
+					<term>Higher and further education</term>
+					<term>Diet and nutrition</term>
+					<term>International politics and organisations</term>
+					<term>Conflict, security and peace</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+					<term>Economic policy,  public expenditure and revenue</term>
+					<term>Health care services and policies</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Politbarometer werden seit 1977 etwa monatlich von der Forschungsgruppe Wahlen für das Zweite Deutsche Fernsehen (ZDF) durchgeführt. Seit 1990 steht diese Datenbasis auch für die neuen Bundesländer zur Verfügung. Im Zentrum der Untersuchung stehen die Meinungen und Einstellungen der wahlberechtigten Bevölkerung in der Bundesrepublik zu aktuellen politischen Themen, Parteien und Politikern sowie dem Wahlverhalten. 1990 bis 1995 und ab 1999 wurden die Politbarometer-Umfragen in den neuen und alten Bundesländern getrennt durchgeführt (Politbarometer Ost bzw. Politbarometer West). Die monatlichen Einzelumfragen eines Jahres werden in einen kumulierten Datensatz integriert, der alle Erhebungen eines Jahres und alle Variablen des jeweiligen Jahrganges umfasst. Ab 2003 sind die Politbarometer-Kurzbefragungen, die unterschiedlich häufig im Jahr erhoben werden, in die Jahreskumulation integriert.  </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Wichtigste Probleme in der Bundesrepublik;Demokratiezufriedenheit; richtige Leute in den führendenStellungen; Wahlverhalten bei der letzten Bundestagswahl undParteipräferenz (Sonntagsfrage und Rangordnungsverfahren);Parteineigung und Parteiidentifikation; erwarteter Wahlgewinnerbei der Bundestagswahl 1990; Koalitionspräferenzen;Bundeskanzlerpräferenz; präferierter Spitzenkandidat der SPD;gewünschter Generalsekretär der CDU; Sympathie-Skalometer fürausgewählte Spitzenpolitiker in der Bundesrepublik und in derDDR; wichtigste Politiker; Einstellung zur Wiederwahl von vonWeizsäcker; Beurteilung der Gesundheitsreform und derKostenbeteiligung bei Medikamenten; Beurteilung derAuswirkungen der Mineralölsteuererhöhung; Einstellung zu einerReduzierung von Tiefflügen in der Bundesrepublik; Einschätzungder Friedenssicherheit in Europa und Gefühl der Bedrohtheitdurch den Warschauer Pakt; Einstellung zur Modernisierung derwestlichen Atomwaffen bzw. Friedenssicherung durch Verzicht aufAtomwaffen; präferiertes Vorgehen des Westens beiAbrüstungsverhandlungen und Beurteilung der Abrüstungsmaßnahmender Sowjetunion; Einstellung zur Modernisierung der atomarenKurzstreckenraketen und zu Abrüstungsverhandlungen; Präferenzfür bundesrepublikanische oder amerikanische Auffassungen inwichtigen politischen Fragen; Einstellung zur NATO und zumTruppenabzug der Amerikaner; Beurteilung derdeutsch-amerikanischen Beziehungen und deren Veränderung seit demAmtsantritt von George Bush; Beurteilung der Beziehung zurSowjetunion und Verständnis für die Sorgen der westlichenBündnispartner bezüglich der Zuverlässigkeit derBundesrepublik; Einstellung zu Asylbewerbern und Aussiedlern;Beurteilung des Asylrechts und Einstellung zu einer Begrenzungder Asylantenzahl; Einstellung zum Ausländerwahlrecht und zueinem leichteren Erwerb der deutschen Staatsbürgerschaft;Kontakte mit Ausländern am Arbeitsplatz; erwarteter Wahlgewinnerin Berlin; Interesse an der Europawahl; erwartetes Verhaltender Republikaner im EG-Parlament; Einstufung der Republikanerals rechtsradikal und Kenntnis von Republikaner-Wählern;Einstellung zum Wahlerfolg der Republikaner als Denkzettel fürdie etablierten Parteien; Einschätzung der Republikaner alsneue Nazis; EG-Mitgliedschaft als Vorteil für dieBundesrepublik; Einschätzung der Bedeutung vonParlamentsentscheidungen auf der Ebene der Gemeinde, desLandes, des Bundes und auf europäischer Ebene; Beurteilung derLebensmittelkontrollen in der Bundesrepublik und vermuteteVeränderungen der Kontrollqualität nach einer europäischenVereinheitlichung; Einstellung zu einer radioaktivenBestrahlung von Lebensmitteln zur Haltbarmachung undbefürchtete Gesundheitsschäden; Einstellung zurArbeitszeitverkürzung auf eine 35-Stunden-Woche;Arbeitsplatzsorgen; Einschätzung der Kanzlerloyalität der CDU,Koalitionsloyalität der CSU und der FDP; Einstellung zu einerbundesweiten CSU; Gefährlichkeit des Kommunismus; Einstellungzu einer Aufnahme osteuropäischer Staaten in die EG und dabeipräferierte Länder; Einstellung zu Krediten an Polen und zurOder-Neiße-Linie; Einstellung zur Vereinigung der beidendeutschen Staaten und zum 10-Punkte-Plan der Regierung;Beurteilung der Reformforderungen an die DDR als westdeutscheEinmischung in die Angelegenheiten der DDR; Beurteilung derZahl der DDR-Flüchtlinge und Erleichterungen für dieÜbersiedler; Verständnis für die Übersiedlung; befürchteteNachteile bei Arbeitsplätzen und Wohnungen durch Übersiedler;Anerkennung der DDR-Bürger als Deutsche; Beurteilung derWiedervereinigung der beiden deutschen Staaten; Einstellung zufinanziellen Hilfen an die DDR und Verknüpfung dieser Hilfenmit weitergehenden Reformen; Beurteilung derMedienberichterstattung über die DDR; Interesse an einemDDR-Besuch; Verwandte in der DDR; DDR-Besuch in Abhängigkeit vonder Aufhebung der Visumspflicht und des Zwangsumtausches;Einstellung zum Schwangerschaftsabbruch und zurAbtreibungsgesetzregelung; Beurteilung der CDU-Politik in derAussiedler-, Asylanten-, Abtreibungs- undWiedervereinigungsfrage; Selbsteinstufung auf einemLinks-Rechts-Kontinuum; Beurteilung der allgemeinen und der eigenenwirtschaftlichen Lage sowie der weiteren Entwicklung;Einschätzung der Kompetenz einer CDU-geführten bzw. einerSPD-geführten Bundesregierung in Fragen der Wirtschaft, derArbeitslosigkeit, des Umweltschutzes, der Renten, desGesundheitswesens und der Steuerpolitik; Einstellung zu einerKabinettsumbildung und zur Gesundheitsreform; eigeneBetroffenheit von der Reform des Gesundheitswesens; Einstellungzur Zusammenlegung von Terroristen; Sportinteresse; Einstellungzu einer Verschärfung von Dopingkontrollen und Beurteilung derAberkennung der Goldmedaille für Ben Johnson bei der Olympiade;Einstellung zu den Geschäftsöffnungszeiten am langenDonnerstag; Sommerurlaub und Beurteilung des Urlaubs;Einstellung zu einer Verkürzung der Schulzeit an Gymnasien auf12 Jahre; eigene Kinder im schulpflichtigen Alter;Zusammenleben mit einem Partner; Religiosität;Gewerkschaftsmitgliedschaft.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The Politbarometer has been conducted since 1977 on an almost monthly basis by the Forschungsgruppe Wahlen on behalf of the Second German Television (ZDF). Since 1990, this database has also been available for the new German states. The survey focuses on the opinions and attitudes of the voting-age population in the Federal Republic on current political issues, parties, politicians, and voting behavior. From 1990 to 1995 and from 1999 onward, the Politbarometer surveys were conducted separately both in the newly formed eastern and in the western German states (Politbarometer East and Politbarometer West). The separate monthly surveys of a year are integrated into a cumulative data set that includes all surveys of a year and all variables of the respective year. Starting in 2003, the Politbarometer short surveys, collected with varying frequency throughout the year, are integrated into the annual cumulation.  </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Most important problems in the Federal Republic; satisfactionwith democracy; the right people in leading positions; behavior at thepolls in the last Federal Parliament election and party preference(Sunday question and rank order procedure); party inclination and partyidentification; expected winner in the Federal Parliament election1990; coalition preferences; preference for federal chancellor;preferred top candidate of the SPD; desired secretary-general of theCDU; sympathy scale for selected top politicians in the FederalRepublic and in the GDR; most important politicians; attitude tore-election of von Weizsaecker; judgement on health care reform andparticipation in the costs of medications; judgement on the effects ofthe petroleum tax increase; attitude to a reduction in low-altitudeflights in the Federal Republic; assessment of the security of peace inEurope and feeling of threat from the Warsaw Pact; attitude tomodernization of the Western nuclear weapons or securing of peace bydoing without nuclear weapons; preferred action of the West indisarmament negotiations and judgement on the disarmament measures ofthe Soviet Union; attitude to modernization of short-range nuclearmissiles and to disarmament negotiations; preference for West German orAmerican attitudes in important political questions; attitude to NATOand American troop withdrawal; judgement on German-American relationsand their change since assumption of office by George Bush; judgementon the relation to the Soviet Union and understanding for the concernsof the western alliance partners regarding the reliability of theFederal Republic; attitude to applicants for political asylum andethnic Germans from Eastern Europe; judgement on the right to asylumand attitude to a limitation of the number of asylum-seekers; attitudeto the right to vote for foreigners and to easier acquisition of Germancitizenship; contacts with foreigners at work; expected election winnerin Berlin; interest in the European Election; expected conduct of theRepublicans in the EC parliament; classification of the Republicans asright-wing radical and knowledge of Republican voters; attitude toelection success by the Republicans as a warning for the establishedparties; assessment of the Republicans as new Nazis; EC membership asadvantage for the Federal Republic; assessment of the significance ofparliament decisions at municipal, state, federal and European level;judgement on the monitoring of food quality in the Federal Republic andassumed changes of the quality of controls after Europeanstandardization; attitude to radioactive radiation treatment of food toincrease shelf-life and feared harm to health; attitude to reduction inworking hours to a 35-hour work week; job worries; assessment of theloyalty to the chancellor of the CDU, loyalty to the coalition of theCSU and of the FDP; attitude to a nation-wide CSU; danger of communism;attitude to admission of Eastern European nations into the EC andcountries preferred for this; attitude to credits for Poland and to theOder-Neisse Line; attitude to unification of the two German nations andto the 10-point plan of the government; judgement on the reform demandsfor the GDR as West German intervention in the matters of the GDR;judgement on the number of GDR refugees and relief for emigrants;understanding for emmigration; feared disadvantages for jobs andhousing from emigrants; recognition of citizens of the GDR as Germans;judgement on the reunification of the two German nations; attitude tofinancial aid for the GDR and tying this aid to more extensive reforms;judgement on media reporting on the GDR; interest in a visit to theGDR; relatives in the GDR; visit to the GDR dependent on lifting of thevisa requirement and forced currency exchange; attitude to abortion andto the abortion law ruling; judgement on CDU policies regardingquestionsof ethnic Germans from Eastern Europe, asylum-seekers,abortion and reunification; self-classification on a left-rightcontinuum; judgement on the general economic situation and one´s own aswell as on further development; assessment of the ability of a FederalGovernment led by the CDU or the SPD in questions of the economy,unemployment, environmental protection, pensions, the public healthsystem and tax policies; attitude to a cabinet re-organization and tohealth care reform; personal impact of reform of the public healthsystem; attitude to moving imprisoned terrorists together; interest insports; attitude to intensification of drug tests and judgement on thedisallowing of the gold medal for Ben Johnson in the Olympics; attitudeto the business hours on long Thursday; summer vacation and judgementon the vacation; attitude to reduction of time in school at highschools to 12 years; own school-age children; living together with apartner; religiousness; union membership. </freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>FRG without West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD ohne Berlin-West</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte, die in Privathaushalten mit Telefonanschluss leben.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Eligible voters living in private households with a telephone</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Systematische Zufallsauswahl; Auswahlverfahren Kommentar: Zufallsauswahl.  Auswahl nach dem RLD-Verfahren (randomize last digit).</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Systematic random; Sampling Procedure Comment: Random selection. Sample according to the RLD procedure (Randomize last digit) </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1989-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1989-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Trend/RepeatedCrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Monika</firstName>
+				<middleName/>
+				<lastName>Langhans</lastName>
+				<contributorType>DataCurator</contributorType>
+				<affiliation>
+					<affiliationName>GESIS – Leibniz-Institut für Sozialwissenschaften</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview (CATI) with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>11068</numberUnits>
+			<numberVariables>309</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Politbarometer stellen eine monatliche Trend-Erhebung dar,
+die vom Zweiten Deutschen Fernsehen (ZDF) in Auftrag gegeben
+werden. Die einzelnen Datensätze des Politbarometers des Jahres
+1989 sind unter den ZA-Studien-Nrn. 1768 bis 1778 archiviert.
+Weitere Politbarometer sind unter den ZA-Studien-Nrn. 1053 bis
+1063, 1277 bis 1281, 1469 bis 1479, 1677 sowie 1687 bis 1696
+archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The Politbarometers present a monthly trend survey commissioned by the
+Second German Television (ZDF). The individual data sets of the
+Politbarometers for 1989 are archived under ZA Study Nos. 1768 to 1778.
+Further Politbarometers are archived under ZA Study Nos. 1053 to 1063,
+1277 to 1281, 1469 to 1479, 1677 as well as 1687 to 1696. </text>
+		</note>
+	</notes>
+</resource>

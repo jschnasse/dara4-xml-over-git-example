@@ -1,0 +1,330 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'ALLBUScompact/GGSScompact 2000 CAPI (Allgemeine Bevölkerungsumfrage 
+der Sozialwissenschaften/German General 
+Social Survey 2000 CAPI)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUScompact 2000 - CAPI-Version'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA3721</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUScompact 2000 - CAPI-Version</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>ALLBUScompact/GGSScompact 2000 CAPI (Allgemeine Bevölkerungsumfrage 
+der Sozialwissenschaften/German General 
+Social Survey 2000 CAPI)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>GESIS - Leibniz-Institut für Sozialwissenschaften</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3721?doi=10.4232/1.3721</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.3721</doiProposal>
+	<publicationDate>
+		<year>2003</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3721</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>ALLBUS</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Familie und Ehe</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Umweltschutz und Naturschutz</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Family life and marriage</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Environment and conservation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>ALLBUScompact ist als alternative Einsteigerversion (Public Use File)für die komplexer strukturierte Vollversion im Angebot. Speziell fürALLBUScompact wurde dementsprechend ein vereinfachtes Demografiemodulselektiert, das die wichtigsten demografischen Indikatoren in einerübersichtlichen Gruppe vereint. Die sonstigen inhaltlichen Fragemodule,die keine sensitiven Daten enthalten, entsprechen weiterhin vollständigder ALLBUS Vollversion (Scientific Use File). ALLBUScompact eignet sichdaher vor allem für Einsteiger in die Datenanalyse. Eine vollständigeBeschreibung der inhaltlichen Fragemodule finden Sie unter &lt;a href=https://dbk.gesis.org/dbksearch/SDESC2.asp?no=3451&amp;search=allbus&amp;search2=&amp;DB=D target=_self&gt;Studiennummer 3451 (ALLBUS 2000 CAPI)&lt;/a&gt;.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>ALLBUScompact is offered as an alternative to the structurally morecomplex full version of ALLBUS. It addresses the needs of newcomers todata analysis by providing a simplified demography module containing aneasily manageable group of the most important demographic indicators.All topical question modules not containing sensitive data are retainedas in the ALLBUS full version (scientific use file). For acomprehensive description of study topics please compare &lt;a href=https://dbk.gesis.org/dbksearch/SDesc2_eng.asp?no=3451&amp;search=allbus&amp;search2=&amp;db=E target=_self&gt;Study No. 3451 (ALLBUS 2000 CAPI)&lt;/a&gt;.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alle in der Bundesrepublik Deutschland lebende Personen (Deutsche und
+Ausländer), die zum Befragungszeitpunkt in Privathaushalten lebten und
+vor dem 01.01.82 geboren sind</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>All persons (German and non-German) who resided in private households and were born before 1 January 1982</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Disproportional geschichtete Zufallsauswahl; Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Stratified: Disproportional; Probability: Multistage</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2000-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2000-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Jutta</firstName>
+				<middleName/>
+				<lastName>Allmendinger</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität München</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hans-Jürgen</firstName>
+				<middleName/>
+				<lastName>Andreß</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bielefeld, Vorsitzender</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Wilhelm</firstName>
+				<middleName/>
+				<lastName>Bürklin</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Potsdam</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Diekmann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bern</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hubert</firstName>
+				<middleName/>
+				<lastName>Feger</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Freie Universität Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Johannes</firstName>
+				<middleName/>
+				<lastName>Huinink</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Rostock</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heiner</firstName>
+				<middleName/>
+				<lastName>Meulemann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität zu Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Walter</firstName>
+				<middleName/>
+				<lastName>Müller</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Karl-Dieter</firstName>
+				<middleName/>
+				<lastName>Opp</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Leipzig</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Erwin K.</firstName>
+				<middleName/>
+				<lastName>Scheuch</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität zu Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heike</firstName>
+				<middleName/>
+				<lastName>Solga</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Max-Planck-Institut für Bildungsforschung, Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.Paper</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>3138</numberUnits>
+			<numberVariables>428</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

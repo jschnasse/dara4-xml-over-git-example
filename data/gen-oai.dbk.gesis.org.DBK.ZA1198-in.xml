@@ -1,0 +1,216 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Mass-Media and Political Opinion Making (Survey) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Massenmedien und politische Meinungsbildung (Befragung)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1198</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Massenmedien und politische Meinungsbildung (Befragung)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Mass-Media and Political Opinion Making (Survey) 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Bernd</firstName>
+				<middleName/>
+				<lastName>Hamm</lastName>
+				<affiliation>
+					<affiliationName>FB IV - Soziologie, Soziologisches Forschungspraktikum Massenmedien, 
+Universität Trier
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Karl-Heinz</firstName>
+				<middleName/>
+				<lastName>Simon</lastName>
+				<affiliation>
+					<affiliationName>FB IV - Soziologie, Soziologisches Forschungspraktikum Massenmedien, 
+Universität Trier</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1198?doi=10.4232/1.1198</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1198</doiProposal>
+	<publicationDate>
+		<year>1986</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1198</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT62</identifier>
+					<!-- Kommunikation, öffentliche Meinung, Medien -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Medien</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Media</term>
+					<term>Political behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Mediennutzung und Einstellung zu Ausländern.
+Themen: 1.) Mediennutzung: Häufigkeit des Lesens ausgewählterZeitschriften und Zeitungen; Zuordnung der Zeitungen und Zeitschriftenzu bestimmten politischen Parteien; Bezugsdauer; bevorzugte Bereiche derBerichterstattung in ausgewählten Medien; Lesegewohnheiten; Einstellungzu einer vermeintlichen Einseitigkeit der Informationen in denMassenmedien; eigene Einflußnahme durch Leserbriefe; Fernseh- undRadionutzung und präferierte Programme; Gespräche überMedienberichterstattung und Art der Gesprächspartner; eigene Vergleicheder Berichterstattung in unterschiedlichen Medien; Beurteilung derObjektivität, der Vollständigkeit der Berichterstattung, derZuverlässigkeit und Ausgewogenheit in den Massenmedien; Häufigkeit desEmpfangs von Nachrichtensendungen; Rangliste der Medien bezüglich desEinflusses auf die eigene politische Meinungsbildung; Bestätigung dereigenen politischen Meinung durch die Medien.
+2.) Einstellung zu Ausländern: Beurteilung der Bundesrepublik alsgastarbeiterfreundliches bzw. -feindliches Land; vermutete Gründe fürden Aufenthalt von Ausländern in der Bundesrepublik; Schätzung der Zahlder in der Bundesrepublik lebenden Ausländer; Beurteilung der eigenenFähigkeit zur Unterscheidung von Deutschen und Ausländern und dabeiverwendete Orientierungsmerkmale; Einschätzung der beruflichen Stellungder meisten ausländischen Arbeitnehmer; persönliche Kontakte zuAusländern und Kontaktort; eigener Eindruck von den ausländischenBekannten; Einstellung deutscher Freunde und Bekannter zu ausländischenArbeitnehmern; Beurteilung der Medienberichterstattung zu Anliegen undProblemen der Ausländer; Kenntnis der Herkunftsländer ausländischerArbeitnehmer und Reisen in diese Länder; besondere Informiertheit überdiese Länder und Informationsquellen; Gespräche über Auslände und Artder Gesprächspartner; eigene Beschäftigung mit dem Ausländerproblem;Beurteilung des Umfangs der Medienberichterstattung in den Massenmedienzum Thema Ausländer und Themenschwerpunkte dieser Berichterstattung;Beurteilung des Umfangs und der Objektivität der Berichterstattung überdie Herkunftsländer der ausländischen Arbeitnehmer; Beurteilung desEinflusses der Berichterstattung im Hinblick auf die Integration oderDiskriminierung von Ausländern; Einstellung zum Ausländerproblem und zuAusländern (Skala); eigene Einstellungsänderungen gegenüber denAusländern; Bestätigung der eigenen Einstellung zu Ausländern durch dieMedien; Einstellung zu einem Zuzugsstop für Ausländer; bevorzugte Lösungder Ausländerfrage in der Bundesrepublik; maximal präferierterAusländeranteil an der Wohnbevölkerung; Einstellung zu Demonstrationenvon Ausländern gegen Mißstände in ihren Heimatländern; Dauer des Wohnensin Trier.
+Demographie: Alter; Geschlecht; Familienstand; Kinderzahl; Konfession;Schulbildung; Berufliche Position; Haushaltseinkommen; Haushaltsgröße;Größe des Wohnortes in der Kindheit; Parteipräferenz;Staatsangehörigkeit.
+Zusätzlich verkodet wurde: Interviewort; Interviewdatum;Interviewdauer; Anwesenheit Dritter beim Interview; Notwendigkeit derFragenerläuterung; Gründe für Abbruch des Interviews.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Media usage and attitude to foreigners. 
+Topics: 1. media usage: frequency of reading selected magazines andnewspapers; assignment of newspapers and magazines to certain politicalparties; length of subscription; preferred areas of reporting inselected media; reading habits; attitude to a supposed one-sidedness ofthe information in the mass-media; personal influence through lettersto the editor; television and radio use and preferred programs;conversations about media reporting and type of conversation partner;personal comparisons of reporting in different media; judgement onobjectivity, completeness of reporting, reliability and balance in themass-media; frequency of reception of news broadcasts; ranking list ofmedia regarding influence on one´s own political opinion making;confirmation of one´s own political opinion through the media. 
+2. attitude to foreigners: judgement on the Federal Republic as acountry friendly or hostile to guest workers; assumed reasons for thestay of foreigners in the Federal Republic; estimate of number offoreigners living in the Federal Republic; judgement on one´s ownability to distinguish Germans and foreigners and orientationcharacteristics used for this; assessment of the occupational positionof most foreign employees; personal contacts with foreigners and placeof contact; personal impression of foreign acquaintances; attitude ofGerman friends and acquaintances to foreign employees; judgement onmedia reporting on matters of concern and problems of foreigners;knowledge about countries of origin of foreign employees and trips tothese countries; particularly well-informed about these countries andsources of information; conversations about foreigners and type ofconversation partner; personal occupation with the foreigner problem;judgement on the extent of media reporting in the mass-media on thetopic of foreigners and major topics of this reporting; judgement onthe extent and objectivity of reporting about the countries of originof foreign employees; judgement on the influence of the reporting inview of integration or discrimination against foreigners; attitude tothe foreigner problem and to foreigners (scale); personal changes inattitude regarding foreigners; confirmation of one´s own attitude toforeigners through the media; attitude to a halt to the influx offoreigners; preferred solution of the foreigner question in the FederalRepublic; maximum preferred proportion of foreigners in the residentialpopulation; attitude to demonstrations by foreigners against adeplorable state of affairs in their native countries; length of livingin Trier. 
+Demography: age; sex; marital status; number of children; religiousdenomination; school education; occupational position; householdincome; household size; size of place of residence in childhood; partypreference; citizenship. 
+Also encoded was: place of interview; date of interview; length ofinterview; presence of third persons during interview; necessity ofexplaining questions; reasons for breaking off the interview. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-RP</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Trier</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Trier</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Quotenauswahl
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Quota sample 
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1983-03</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>FB IV - Soziologie, Soziologisches Forschungspraktikum 
+Massenmedien, Universitaet Trier 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

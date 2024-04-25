@@ -1,0 +1,199 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'National Tables of International Migration Statistics: Germany, 1832-1924'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Nationale Tabellen der internationalen Migrations-Statistik: Deutschland, 1832-1924'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA8662</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Nationale Tabellen der internationalen Migrations-Statistik: Deutschland, 1832-1924</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>National Tables of International Migration Statistics: Germany, 1832-1924</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Imre</firstName>
+				<middleName/>
+				<lastName>Ferenczi</lastName>
+				<affiliation>
+					<affiliationName>International Labour Office (ILO), Abt. Migration </affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Walter F.</firstName>
+				<middleName/>
+				<lastName>Willcox</lastName>
+				<affiliation>
+					<affiliationName>National Bureau of Economic Research (NBER) </affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA8662?doi=10.4232/1.12893</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12893</doiProposal>
+	<publicationDate>
+		<date>2017-09-30</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA8662</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT76</identifier>
+					<!-- Daten Historischer Studien -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>GESCHICHTE</term>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>HISTORY</term>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Das vorliegende Datenhandbuch soll der Forschung zu den Aspekten internationaler Migration das adäquate Datenmaterial an die Hand geben. Anregung für diese Datensammlung wurde 1924 durch das Komitee zu den wissenschaftlichen Aspekten menschlicher Wanderung des Social Science Research Council gegeben. Die Durchführung der statistischen Studie wurde dem National Bureau of Economic Research (NBER) in New York (Prof. Dr. Willcox) anvertraut, welches unterstützt wurde von der Abteilung Migration des International Labour Office (ILO bzw. Internationale Arbeitsorganisation (IAO), Prof. Dr. Ferenczi) in Genf (Schweiz). Das vorliegende Datenhandbuch geht über die Zusammenstellung bekannter, vorliegender Statistiken der einzelnen Länder hinaus. Viele Materialien wurden neben den schon publizierten öffentlichen Statistiken in den Archiven zusätzlich gesichtet und aufbereitet. 
+Die Forscher sammelten nationale Statistiken und stellten sie in internationalen Tabellen zusammen, soweit es die Datenlage erlaubte. Die besondere Herausforderung dieser Arbeit lag in der Tatsache, dass die Unvollständigkeit der nationalen Migrationsstatistiken steigt, je weiter die Daten in die Vergangenheit zurückreichen. Für jedes Land wurde die Anzahl der Auswanderer nach dem von ihnen angegebenen Zielland bzw. Einwanderungsland erhoben. Weiterhin wurden im Gegenzug für jedes Land die Einwanderer nach dem Land ihrer Abfahrt erfasst. Damit sollte für jedes Land ein Überblick der dieses Land betreffenden Migrationsflüsse erstellt werden. Interkontinentale Wanderungsbewegungen stellen den Schwerpunkt dieser Studie dar. Die kontinentale Wanderung innerhalb Europas und anderen Teilen der Welt wurde jedoch ebenfalls erfasst. 
+Das Material für die Statistiken wurde beschafft durch die Korrespondenz mit dem ILO und seinen Mitglieds-Staaten (Vereinte Nationen), durch die Zusammenarbeit mit den statistischen Ämtern der jeweiligen Länder und durch Sichtung der Archive.
+In den nationalen Datentabellen werden die Migranten zum Zeitpunkt ihrer Abreise aus dem Land ihres gegenwärtigen Aufenthalts bzw. zum Zeitpunkt ihrer Ankunft in dem Land ihres zukünftigen Aufenthaltes erfasst. Bevölkerungsstatistiken oder Arbeitsmarktstatistiken, in denen auch die ausländische Bevölkerung erfasst wird und die daher eine indirekte Schlussfolgerung auf Wanderungsbewegungen zulassen, sind von den Autoren nicht berücksichtigt worden. (Ferenczi und Willcox, 1969, S. 67) Dort, wo Migrationsstatistiken auf der Basis von unterschiedlichen Methoden erhoben wurden, wie z.B. Hafen-Statistiken, Reisepass-Statistiken, oder Grenz-Statistiken, sind die entsprechenden Werte berücksichtigt worden und in den Tabellen wurde auf die Quelle hingewiesen. Dort, wo in den nationalen Migrationsstatistiken Auswanderer nach dem Zielland oder Einwanderer nach ihrem Herkunftsland klassifiziert wurden, wird sich in der Statistik indirekt auf ein anderes Land bezogen. Für die jeweiligen anderen Länder, welche in diesen nationalen Datentabellen erwähnt werden, stellen diese Statistiken eine Art ’indirekte Wanderungsstatistik‘ dar. Indirekte Statistiken beziehen sich normalerweise auf die Nennung von Ländern (z.B. Herkunftsland). Dort, wo diese Nennungen fehlen, wurde die Nationalität oder die Volkszugehörigkeit der Migranten herangezogen. Weiterhin wird in den Daten zwischen Bürgern des Landes (Dänen, d.h. in Dänemark geborene Bürger) und Ausländern unterschieden. Hierbei wurde immer die Definition des jeweiligen Landes für Staatsbürger und für Ausländer bei der Datenerhebung herangezogen. (Ferenczi und Willcox, 1969, S. 67) Ebenfalls wurde zwischen kontinentalen und interkontinentalen Migrationsbewegungen unterschieden. Eine Migration wird als kontinental bezeichnet, wenn sie zwischen den Territorien verschiedener Länder des gleichen Kontinents stattfindet. Sie wird als interkontinental bezeichnet, wenn Länder unterschiedlicher Kontinente betroffen sind. (Ferenczi und Willcox, 1969, S. 68) Als Regel geben die Autoren folgende persönliche Charakteristiken der Migranten an: Geschlecht, Alter, Nationalität, Beruf, Land des letzten ständigen Aufenthaltsortes und das Land des zukünftigen ständigen Aufenthaltsortes. Diese Eigenschaften wurden auf der Basis der ’International Labour Conference‘ von 1922, Empfehlung Nr. 19, gewählt. Für Migrations-Statistiken sind die staatlichen Territorien von besonderer Bedeutung. Historische Grenzverläufe und ihre Veränderungen über die Zeit sind von besonderer Bedeutung. So ist es z.B. irreführend, den heutigen Begriff des ‚Vereinten Königreichs von England‘ (United Kingdom) zu verwenden, da seine heutige Bedeutung durch die Etablierung des Freien Irischen Staates sich verändert hat. Daher wird der Begriff ‚Britische Inseln‘ von den Autoren verwendet. Dort, wo sich historische Territorien über die Zeit verändert haben, wurde das neue Territorium in der Hauptüberschrift und das ältere Territorium unterhalb der Hauptüberschrift genannt (z.B.: Ungarn – vor dem Krieg und nach dem Krieg; Irish Free State – Ireland, etc.) (Ferenczi und Willcox, 1969, S. 68) Wo frühere Territorien aufgehört haben, ein selbständiges politisches oder administratives Gebiet zu sein, wurde es unter dem früheren vorherrschenden Gebiet klassifiziert (z.B. wurden Bosnien und Herzegovina unter Österreich plaziert). In allen Tabellen werden die Migranten in 12-Monats-Perioden dargestellt, soweit es möglich war. Rechnungsjahre wurden meistens von Kalenderjahren getrennt dargestellt, wobei eine Information über die exakte Periode des Rechnungsjahres in den Anmerkungen gegeben wurde. Wo Statistiken nur für Fünfjahres- oder Zehnjahres-Zeiträume vorlagen, wurde in den Originalquellen nach den jeweiligen Jahresdaten recherchiert. Es kamen für die Studie nur Statistiken offizieller Quellen zur Anwendung. Nur in seltenen Fällen wurde auf sekundäre Quellen zurückgegriffen (Briefe, offizielle Korrespondenzen). Der Vorzug wurde den offiziellen Statistiken mit dem spätesten Datum gegeben. Die Nationalen Statistiken des vorliegenden Datenhandbuches berichten die Berufe in der Klassifikation, die in den Quellen verwendet wurde. Wo möglich, wurde die Untergliederung mit den sechs Klassen ’Landwirtschaft‘, ’Industrie und Bergbau‘, ’Transport und Handel bzw. Kommunikation‘, ’Hausdienstleistungen und Handwerk‘, ’freie Berufe und öffentliche Dienstleistungen‘, sowie ’andere Berufe, keinen Beruf, Beruf unbekannt‘ gewählt. Familienmitglieder, die nicht berufstätig waren, wurden in Kategorie 6 (andere Berufe, keinen Beruf, Beruf unbekannt) eingeordnet. (Ferenczi und Willcox, 1969, S. 70)In den nationalen Datentabellen, in denen die Einwanderer nach dem Land des letzten ständigen Aufenthaltsortes oder nach ihrer Nationalität aufgeführt werden, wurde meistens die Klassifikation der genutzten offiziellen Quelle des jeweiligen Landes beibehalten, wobei die genutzte Klassifikation der USA als Arbeitsgrundlage für eine Vereinheitlichung der Kategorien diente. Wenn die jeweiligen nationalen Untergliederungen sehr viel mehr Klassifikationen hatten als jene der USA, wurden diese Untergliederungen den größeren Gruppen der US-Klassifikation angepasst. Wo es schwierig war, ein Territorium einem Land zuzuordnen, wurde die Klassifikation des ’International Statistical Institute‘ (ISI) herangezogen. In anderen Fällen wurde die Nationalität oder die Volkszugehörigkeit nach geographischen oder politischen Gesichtspunkten gewählt (z.B.: Juden (nicht spezifiziert) wurden unter den Gruppen ‚andere Europäer‘ aufgeführt. Juden (polnisch) wurden unter ‚Polen‘ aufgeführt. Türken (nicht spezifiziert) wurden unter ‚Türken in Asien‘ aufgeführt, etc.). (Ferenczi und Willcox, 1969, S. 70) 
+Deutschland
+I. Statistik der genehmigten AuswanderungVor 1871 durften Bürger ein deutsches Land nur verlassen, wenn sie dafür von den Behörden eine Genehmigung bekommen haben. Daten zur Auswanderung stammen für die Zeit vor dem Deutschen Reich von den Genehmigungsstatistiken der einzelnen deutschen Länder. Bei den dargestellten Werten sind folgende Probleme zu berücksichtigen: Die gesetzlichen Regelungen für die Erteilung einer Auswanderungsgenehmigung unterschieden sich zwischen den deutschen Ländern. Darüber hinaus wurden Auswanderungsgenehmigungen nicht regelmäßig den zuständigen Behörden gemeldet. Fälle der Auswanderung ohne Erlaubnis – sogenannte illegale Auswanderungen – sind statistisch nicht erfasst.
+II. Hafen-Statistik:Vor 1873 wurden die Statistiken zur Migration von den Hafenbehörden erfasst, ab 1874 übernahm das Statistische Amt des Deutschen Reichs die Aufgabe und veröffentlichte umfassende Migrationsberichte in den Vierteljahresheften zur Statistik des Deutschen Reichs. Für Bremen und Hamburg geht die Hafenstatistik zurück bis 1832 und 1836. Die Erfassung der Statistiken wurde durch mehrere polizeiliche Vorgaben und Regeln durchgeführt. Die Verantwortlichen der Schiffsagenturen mussten Passagierlisten zur interkontinentalen Migration erstellen und den polizeilichen Behörden übergeben. Für Hamburg wurde ab 1846 und für Bremen ab 1866 zwischen deutschen Bürgern und Ausländern bei den Auswanderern unterschieden. Leider wurden die Zielländer der Auswanderung in Bremen erst ab 1866 und in Hamburg erst ab 1872 erfasst. 
+Bremen definierte Auswanderer wie folgt:a) Europäer, die ihr Land mit der Intention verlassen, in einem in Übersee liegenden Land zu siedeln.b) Europäer, die ihr Land verlassen mit der Absicht, bessere Arbeitschancen wahrzunehmen, die aber beabsichtigen, wieder zurückzukehren.c) Touristen aus aussereuropäischen Ländern auf der Heimfahrt.
+Hamburg definierte Auswanderer wie folgt:a) Alle Passagiere und Auswanderer auf Schiffen der transatlantischen Schifffahrt, die für mehr als 25 Passagiere Platz haben.b) Personen von Schiffen, die von den Schifffsagenturen ausdrücklich als Emigranten in ihren Listen für die polizeilichen Behörden aufgeführt wurden.
+Bremen hat daher eine schärfere Fassung des Begriffs ‚Auswanderer‘ vorgenommen und diese Personengruppe besser erfasst. Hamburg identifizierte als Auswanderer nicht nur einen Teil nicht-europäischer Passagiere (wie auch Bremen), sondern einen gewissen Anteil normaler Europäischer Passagiere.
+Auch für die nachfolgende Zeit existierte keine einheitliche Definition des Begriffs ‚Auswanderer‘. Hinzu kommt, dass Kabinen-Passagiere (d.h. wohlhabendere Passagiere, die für die Fahrt eine Kabine mieten konnten und nicht im Zwischendeck übernachten mussten) grundsätzlich aus der Erfassung der Migranten ausgeschlossen wurden. Daher spiegeln die berichteten Zahlen nicht die tatsächlichen Auswanderungszahlen wieder. 
+Auf Grundlage einer Verordnung von 1851 zur Übertragung von Auswanderern, die über Hamburg in andere Länder mittels anderer Häfen in Europa gelangten, erfasste die Hamburger Hafenbehörde sogenannte ‚indirekte Auswanderer‘. Die meisten dieser Gruppe wanderten über englische Häfen aus. Indirekte Auswanderung über Bremen wurde nicht erfasst. Die Tabellen B.01 bis B03a (Table II und Table III in der Publikation) listen die indirekte Auswanderung auf.
+Eine Expertenkommission von 1870 schloss Auswanderungen über die Häfen in andere europäische Länder von der Erfassung der Migranten aus aufgrund der Annahme, dass die Unterscheidung zwischen normalen Passagieren und Emigranten nicht möglich sei. Ungeachtet dieser Entscheidung wurden dennoch diese Passagiere zwischen 1899 und 1923 erfasst (Tabelle B.06 oder Table VI in der Publikation).  
+Für die Jahre 1837 bis 1839 sind Daten für den Hafen von Havre verfügbar. In dem entsprechenden Dokument wurden Passagiere deutscher Nationalität dezidiert erwähnt. Der Deutsche Konsul von Havre berichtete 1840, dass Passagiere, die an diesem Hafen in die Schiffe steigen, sehr häufig von deutscher Nationalität sind. Das Preussische Ministerium für ausländische Angelegenheiten verfasste ein Rundschreiben für die Erfassung deutscher Auswanderer in den Häfen Havre, Rotterdam und Antwerpen. Für die Jahre 1841 und 1842 konnten keine Daten erhoben werden. Ab 1843 sind offizielle Daten für Antwerpen zugänglich, für die Jahre 1844 und 1845 sind ausführliche Statistiken für Havre, Dunkirk, Antwerpen, sowie holländische und englische Häfen erhältlich. Für 1846 bis 1854 dagegen erhält man nur die Gesamtzahl der deutschen Auswanderer über ausländische Häfen. 
+Nach 1885 veröffentlichte das Statistische Reichsamt detaillierte Zahlen zu den deutschen Emigranten über Antwerpen, Havre, Rotterdam und Amsterdam.
+Daten in histat:
+A. Genehmigungs-Statistiken (I)
+A.01 Auswanderung deutscher Staatsbürger aus Deutschland – Statistik der genehmigten und illegalen Auswanderungen unterschiedlicher Deutscher Staaten), 1836-1870. 
+B. Hafenstatistiken (II-VI)
+B.01 Auswanderung von Deutschen und Ausländern über deutsche Häfen (Hamburg und Bremen zusammen), 1832-1870. B.02 Auswanderung über die deutsche Häfen Bremen (direkte Auswanderung) und Hamburg (direkte und indirekte Auswanderung), 1832-1870. B.03 Auswanderung über Hamburg und Bremen nach Zielland, 1832-1870. B.03a Direkte Auswanderung über Hamburg nach Zielland, 1836-1870. B.04 Auswanderung deutscher Staatsbürger über deutsche und ausländische Häfen, 1844-1854. B.05 Auswandernde Deutsche über den Hamburger Hafen nach Geschlecht und Alter, 1855-1870 B.06 Interkontinentale Auswanderung deutscher Bürger über deutsche und ausländische Häfen, 1871-1924
+C. Beschreibung der Auswanderer (Alter, Geschlecht, Beruf, Zielland)
+C.01 Auswanderung deutscher Bürger nach Alter und Geschlecht, 1871-1924 C.02 Auswanderung deutscher Bürger nach Zielland, 1871-1924 C.03 Auswanderung deutscher Bürger nach Bildung und Geschlecht, 1899-1924 
+D. Durchgangs-Migration ausländischer Migranten (X-XII)
+D.01 Durchgang ausländischer Migranten (abfahrende Bewegungsströme), 1871-1924 D.02 Auswandernde Ausländer über deutsche Häfen nach Herkunftsland, 1871-1924 D.03 Auswandernde Ausländer über deutsche Häfen nach Zielland, 1871-1924 D.04 Kontinentale Migration ausländischer Arbeitnehmer, 1910-1924 
+</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DXDE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Quellen
+
+Statistik des Deutschen Reichs, Vol. 307, Berlin: Die überseeische Auswanderung in den Jahren 1922-1923.
+
+Denkschrift des deutschen Reichstages, 1922. No. 8, S. 30.
+
+Bericht der Kommission des Senats der Vereinigten Staaten zu Krankheit und Sterblichkeit an Bord der Auswanderungs-Schiffe. Washington, 1854, s. 43, 44 und 46.
+
+Höfken, Dr. Gustav: Deutsche Auswanderung und Kolonisation mit Hinblick auf Ungarn. Wien, 1850, S. 37.
+
+Hübner: Jahrbuch für Volkswirtschaft und Statistik. Vol. I-V, Leipzig, 1853-57.
+
+
+</sampled>
+		</universe>
+	</universes>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1832-01-01</date>
+				</startDate>
+				<endDate>
+					<date>1924-12-31</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<dataSets>
+		<dataSet>
+			<numberVariables>92</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Imre Ferenczi, Walter F. Willcox (1969), International Migrations. Volume I - Statistics. New York, Gordon, and Breach Science Publishers.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

@@ -1,0 +1,664 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Eurobarometer 41.1 (Jun-Jul 1994) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Eurobarometer 41.1 (Jun-Jul 1994)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA2491</identifier>
+		<currentVersion>1.1.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Eurobarometer 41.1 (Jun-Jul 1994)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Eurobarometer 41.1 (Jun-Jul 1994) 
+</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Post-European Election</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Post-European Election</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Europäische Kommission</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2491?doi=10.4232/1.10910</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.10910</doiProposal>
+	<publicationDate>
+		<date>2012-07-01</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2491</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>doi:10.3886/ICPSR06518.v1</identifier>
+			<type>DOI</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Wahlen</term>
+					<term>Geschlecht und Geschlechterrollen</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>International politics and organisations</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Elections</term>
+					<term>Gender and gender roles</term>
+					<term>Economic systems and development</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Fragen zur Europawahl und zur EU. Frauen in Politik undWirtschaft. Ausländerpolitik.
+Themen: Vertrauen in die Bürger der einzelnen Staaten der EUsowie zu Amerikanern, Japanern und Russen; politischesInteresse und Interesse an europäischer Politik; Einstellungzur Vereinigung Westeuropas; Vorteilhaftigkeit derMitgliedschaft des eigenen Landes in der EU; derzeitige und infünf Jahren erwartete Bilanz der Vorzüge aus der EU; Bedauernüber ein mögliches Scheitern der EU; Zufriedenheit mit demFunktionieren der Demokratie im eigenen Lande sowie in der EU;Präferenz für vermehrte politische Entscheidungen aufeuropäischer Ebene.
+Europawahl: Registrierung für die Wahl zum europäischenParlament; eigene Wahlbeteiligung bei der Europawahl; Gründefür eine Nichtwahlbeteiligung; gewählte Partei; Bedeutung derrealisierten Frauenquote einer Partei für die eigeneWahlentscheidung; Kenntnistest über die Bekanntheitausgewählter Politiker auf europäischer wie auf nationalerEbene; Beliebtheit der Premierminister John Major, FelipeGonzales, Francois Mitterrand und Helmut Kohl; Kenntnistestüber die Mitgliedschaft ausgewählter Länder in derEuropäischen Union; Beurteilung der Einigungsgeschwindigkeitder europäischen Länder und gewünschte Zügigkeit der EU-Einigung; Befürwortung einer europäischen Regierung, die einemeuropäischen Parlament verantwortlich ist; Selbsteinstufungals Europäer; Vertrauen in die Entscheidungen der EuropäischenUnion, der Europäischen Kommission, der nationalen Regierung,des europäischen Gerichtshofs, des Ministerrats, desnationalen Parlaments und des europäischen Parlaments unterEinbeziehung der nationalen und der individuellen Interessendes Volkes; gute und schlechte Seiten des europäischenParlaments; Einschätzung der Macht des nationalen Parlamentsund des europäischen Parlaments auf einem Skalometer sowie deserwarteten zukünftigen Einflusses dieser Parlamente auf dieAngelegenheiten des Befragten; Einstellung zur Idee derWeiterentwicklung der Europäischen Union zu den VereinigtenStaaten von Europa; Art des eigenen Werbekontaktes imWahlkampf zur Europawahl;  Parteienwahl oder Kandidatenwahlbei der Europawahl sowie beim nationalen Parlament; eigenerStandpunkt sowie vermuteter Standpunkt der nationalen Parteienbezüglich einer gemeinsamen europäischen Währung, bezüglicheines umfangreichen europäischen Beschäftigungsprogramms undbezüglich des Wegfalls der Grenzen zwischen den europäischenStaaten; wichtigste politische Probleme; kompetenteste Parteizur Lösung der politischen Probleme und Einstufung derStreitfrage als regionales, nationales oder europäischesProblem; allgemeine Beurteilung der Vorteilhaftigkeit desGemeinsamen Marktes; Einstellung zu einer gemeinsamen Währung(ECU).
+Frauen in Wirtschaft und Politik: GeschlechtsspezifischePräferenzen bei der Wahlentscheidung für den Kandidaten (nichtin allen Ländern); Institutionen und Körperschaften, in denenFrauen in Entscheidungspositionen besonders sinnvoll wären;Wunsch nach mehr weiblichen Kandidaten in den politischenParteien bei der Europawahl.
+Ausländerpolitik: Zu viele Ausländer im eigenen Land;Einstellung zu einer Ausweitung der Rechte für Ausländer;Asylsuchende als ein Problem für das eigene Land; europäischesLand mit dem vermutlich größten Zustrom an Immigranten undAsylsuchenden.
+Demographie: Selbsteinstufung und Einstufung der nationalenParteien auf einem Links-Rechts-Kontinuum; Parteineigung undParteipräferenz (Sonntagsfrage und Einstufung derWahrscheinlichkeit der Stimmabgabe für jede einzelne Partei);Parteisympathie des Vaters während der Jugendzeit desBefragten; Wahlverhalten bei der letzten nationalen Wahl;eigene Mitgliedschaft bzw. Mitgliedschaft einesHaushaltsmitglieds in einer Gewerkschaft; Alter bei Beendigungder Ausbildung; Besitz langlebiger Wirtschaftsgüter;Verantwortung des Befragten für das Haushaltseinkommen oderfür die Haushaltsführung; Selbsteinstufung derSchichtzugehörigkeit; Religiosität; Telefonbesitz.
+In Deutschland, Frankreich, Italien, den Niederlanden undGroßbritannien wurde zusätzlich gefragt: Sympathie für sowieMitgliedschaft in einer Umweltschutzorganisation,Friedensbewegung, Kernkraftgegnerorganisation sowie in einerFrauenbewegung.
+In Dänemark wurde zusätzlich gefragt: Einstellung zurdänischen Mitgliedschaft in der EU; Wahlverhalten beimReferendum zum Maastrichter Vertrag; Hauptgründe für dasWahlverhalten bei der Europawahl; Einstellung zu einemAusscheiden aus der EU; Zeitpunkt der Wahlentscheidung.
+Zusätzlich verkodet wurden: Interviewdatum; Zeitpunkt desInterviewbeginns; Interviewdauer; Anzahl der anwesendenPersonen während des Interviews; Kooperationsbereitschaft desBefragten; Intervieweridentifikation.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Questions on the European Election and the EU. Women in politics andeconomy. Policies on foreigners. Topics: Trust in the citizens of theindividual countries of the EU as well as in the Americans, Japaneseand Russians; political interest and interest in European policies;attitude to unification of Western Europe; advantageousness ofmembership of one´s own country in the EU; current balance ofadvantages from the EU and that expected in five years; regret of apossible failure of the EU; satisfaction with the functioning ofdemocracy in one´s country as well as in the EU; preference forincreased political decisions at European level. European Election:registration for the election to the European Parliament; personalelection participation in the European Election; reasons for notparticipating in the election; party voted for; significance of quotaof women realized by a party for one´s own voting decision; knowledgetest about the familiarity of selected politicians at European as wellas national level; popularity of prime ministers John Major, FelipeGonzales, Francois Mitterrand and Helmut Kohl; knowledge test about themembership of selected countries in the European Union; judgement onthe speed of unification of the European countries and desired speed ofEU unification; approval of a European Government responsible to aEuropean Parliament; self-classification as European; trust in thedecisions of the European Union, the European Commission, the nationalgovernment, the European Court of Justice, the Council of Ministers,the national parliament and the European Parliament considering thenational and individual interests of the people; good and bad sides ofthe European Parliament; assessment of the power of the nationalparliament and the European Parliament on a scale as well as expectedfuture influence of these parliaments on the affairs of the respondent;attitude to the idea of further development of the European Union intothe United States of Europe; type of personal contact with advertisingin the election campaign for the European Election; voting for party orvoting for candidate in the European Election as well as in thenational parliament; personal position as well as assumed position ofthe national parties regarding a common European currency, an extensiveEuropean employment program and elimination of borders between theEuropean countries; most important political problems; party most ableto solve the political problems and classification of controversies asregional, national or European problem; general judgement on theadvantageousness of the Common Market; attitude to a common currency(ECU). Women in business and politics: gender-specific preferences inthe voting decision for the candidate (not in all countries);institutions and bodies in which women in decision-making positionswould be particularly reasonable; desire for more female candidates inthe political parties in the European Election. Policies on foreigners:too many foreigners in one´s country; attitude to an extension of therights for foreigners; persons seeking asylum as a problem for one´sown country; European country with presumably the greatest influx ofimmigrants and persons seeking asylum. Demography: self-classificationand classification of national parties on a left-right continuum; partyinclination and party preference (Sunday question and classification ofthe probability of voting for every individual party); party sympathyof father during the youth of respondent; behavior at the polls in thelast national election; personal membership or membership of member ofhousehold in a trade union; age at conclusion of training; possessionof durable economic goods; responsibility of respondent for householdincome or for housekeeping; self-classification of social class;religiousness; possession of a telephone. The following question wasalso posed in Germany, France, Italy, the Netherlands and GreatBritain: sympathy for as well as membership in an environmentalprotection organization, peace movement, organization opposing nuclearpower well as in a women´s movement. The following questions were alsoposed in Denmark: attitude to Danish membership in the EU; behavior atthe polls in the referendum on the Maastricht Treaty; major reasons forthe behavior at the polls in the European Election; attitude to leavingthe EU; time of voting decision. Also encoded were: date of interview;time of start of interview; length of interview; number of personspresent during the interview; willingness of respondent to cooperate;identification of interviewer. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-GBN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-NIR</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 15 Jahre und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons 15 years old and older. 
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete  Zufallsauswahl </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage stratified random sample </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1994-06-13</date>
+				</startDate>
+				<endDate>
+					<date>1994-06-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Belgium</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Belgien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1994-06-11</date>
+				</startDate>
+				<endDate>
+					<date>1994-06-28</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Denmark</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Dänemark</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1994-06-13</date>
+				</startDate>
+				<endDate>
+					<date>1994-07-05</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1994-06-13</date>
+				</startDate>
+				<endDate>
+					<date>1994-06-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Greece</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Griechenland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1994-06-13</date>
+				</startDate>
+				<endDate>
+					<date>1994-06-27</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Spain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Spanien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1994-06-13</date>
+				</startDate>
+				<endDate>
+					<date>1994-06-27</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1994-06-13</date>
+				</startDate>
+				<endDate>
+					<date>1994-07-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland (Republic)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland (Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1994-06-14</date>
+				</startDate>
+				<endDate>
+					<date>1994-06-28</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1994-06-13</date>
+				</startDate>
+				<endDate>
+					<date>1994-07-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Luxembourg</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Luxemburg</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1994-06-11</date>
+				</startDate>
+				<endDate>
+					<date>1994-07-02</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Netherlands</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1994-06-15</date>
+				</startDate>
+				<endDate>
+					<date>1994-07-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1994-06-13</date>
+				</startDate>
+				<endDate>
+					<date>1994-07-07</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1994-06-14</date>
+				</startDate>
+				<endDate>
+					<date>1994-06-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Northern Ireland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Nordirland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>European Commission, Brussels;
+DG X -  Information Communication Culture
+Surveys Research Analyses</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Marketing Unit, Bruessel</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GFK Danmark, Kopenhagen</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SAMPLE INSTITUT, Moelln</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>KEME, Athen</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>CIMEI, Madrid</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TMO Consultants, Paris</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Lansdowne Market Research, Dublin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>PRAGMA, Rom</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ILRES, Luxemburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>NIPO, Amsterdam</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>NORMA, Lissabon</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>NOP Corporate and Financial, London</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Ulster Marketing Surveys, Nordirland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA EUROPE, Brussels (Fieldwork co-ordination)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>369</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Gesamtzahl der Befragten verteilt sich auf die einzelnen
+Länder wie folgt:
+Belgien                            1003 Fälle,
+Dänemark                           1000 Fälle,
+Deutschland (West-Sample)          1082 Fälle,
+Deutschland (Ost-Sample)           1052 Fälle,
+Griechenland                       1002 Fälle,
+Spanien                            1000 Fälle,
+Frankreich                         1000 Fälle,
+Irland                             1000 Fälle,
+Italien                            1067 Fälle,
+Luxemburg                           502 Fälle,
+Niederlande                        1005 Fälle,
+Portugal                           1000 Fälle,
+Großbritannien                     1078 Fälle,
+Nordirland                          305 Fälle.
+Frühere Eurobarometer (2 - 41) sind unter den ZA-Studien-Nrn.
+0986 - 0995, 1036 - 1039, 1206 - 1209, 1318 - 1321, 1541 -
+1544, 1712 - 1715, 1750 - 1753, 1960 - 1962, 2031 - 2033,
+2081, 2141, 2241 - 2243, 2291 - 2295, 2346, 2347, 2459 sowie
+2490 archiviert.
+Unter der ZA-Studien-Nr. 3521 ist ein kumulierter Datensatz der
+Eurobarometer (1970-2002) mit ausgewählten Trendfragen archiviert.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The total of the respondents is distributed among the individual 
+countries as follows: 
+Belgium                1003 cases, 
+Denmark                1000 cases, 
+Germany (West sample)  1082 cases, 
+Germany (East sample)  1052 cases, 
+Greece                 1002 cases, 
+Spain                  1000 cases, 
+France                 1000 cases, 
+Ireland                1000 cases, 
+Italy                  1067 cases, 
+Luxembourg              502 cases, 
+Netherlands            1005 cases, 
+Portugal               1000 cases, 
+Great Britain          1078 cases, 
+Northern Ireland        305 cases. 
+Earlier Eurobarometers (2 - 41) are archived under ZA Study Nos. 0986 - 0995, 
+1036 - 1039, 1206 - 1209, 1318 - 1321, 1541 - 1544, 1712 - 1715, 1750 - 1753, 
+1960 - 1962, 2031 - 2033, 2081, 2141, 2241 - 2243, 2291 - 2295, 2346, 2347, 
+2459 as well as 2490. 
+A cumulated data set 
+of the Eurobarometers (1970-2002) is archived under ZA Study No. 3521. 
+</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.2491</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>INRA (Europe) pour la Commission Europeenne:  Les femmes et l´election du parlament europeen. Bruxelles, Decembre 1994.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Cees van der Eijk, Mark N. Franklin et.al.: Choosing Europe? The European Electorate and National Politics in the Face of Union. The University of Michigan Press. Ann Arbor, 1996 (ISBN 0-472-10357-1)</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Journal of Political Research. Special Issue: Political Representation in the European Parliament. Volume 32, No. 2 (October 1997)</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

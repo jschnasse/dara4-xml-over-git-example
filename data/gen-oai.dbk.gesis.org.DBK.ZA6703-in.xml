@@ -1,0 +1,410 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Second European Union Minorities and Discrimination Survey (EU-MIDIS II), 2016'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Second European Union Minorities and Discrimination Survey (EU-MIDIS II), 2016'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA6703</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Second European Union Minorities and Discrimination Survey (EU-MIDIS II), 2016</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Second European Union Minorities and Discrimination Survey (EU-MIDIS II), 2016</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>European Union Agency for Fundamental Rights (FRA), Vienna, Austria</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6703?doi=10.4232/1.13514</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13514</doiProposal>
+	<publicationDate>
+		<date>2020-07-29</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6703</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT32</identifier>
+					<!-- Sozialpolitik -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>GESELLSCHAFT UND KULTUR</term>
+					<term>Kriminalität und Gesetzesvollzug</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Minderheiten</term>
+					<term>Beschäftigungspolitik</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>SOCIETY AND CULTURE</term>
+					<term>Crime and law enforcement</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Minorities</term>
+					<term>Labour and employment policy</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die zweite Erhebung der Europäischen Union zum Thema Minderheiten und Diskriminierung (EU-MIDIS II) wurde 2016 von der Agentur der Europäischen Union für Grundrechte (FRA) als Folgemaßnahme zur ersten Erhebung über die Erfahrungen von Minderheiten und Zuwanderern mit Diskriminierung und krimineller Viktimisierung durchgeführt, die die Agentur 2008 durchgeführt hatte. Die EU-MIDIS-II-Erhebung sammelte Informationen von 25.515 Befragten mit unterschiedlichem ethnischen Minderheiten und Migrationshintergrund, einschließlich Roma, in allen EU-Mitgliedstaaten (2016: EU-28 einschließlich des Vereinigten Königreichs). Die EU-MIDIS II-Stichprobe ist repräsentativ für die ausgewählten Bevölkerungsgruppen, die befragt wurden. Die Stichprobe umfasst Personen, die ethnischen oder nationalen Minderheiten, Roma und Russen angehören, sowie Personen, die außerhalb der EU geboren wurden (Befragte der ersten Generation) und Personen, bei denen mindestens ein Elternteil außerhalb der EU geboren wurde (Befragte der zweiten Generation). Alle Befragten waren 16 Jahre oder älter und haben mindestens 12 Monate vor der Befragung in einem Privathaushalt gelebt. Personen, die in institutionellen Einrichtungen - zum Beispiel in Krankenhäusern oder Gefängnissen - leben, wurden nicht befragt.
+Die Auswahl der zu befragenden Gruppen in den einzelnen Ländern erfolgte auf der Grundlage mehrerer Kriterien, darunter die Größe der Zielpopulation, die Durchführbarkeit einer Erhebung bei der jeweiligen Zielpopulation im Hinblick auf Kosten und Erreichbarkeit, das Risiko bestimmter Gruppen, ´rassisch´, ´ethnisch´ oder ´religiös´ motivierte Diskriminierung und Viktimisierung zu erfahren, ihre Anfälligkeit für das Risiko sozialer Ausgrenzung und schließlich die Vergleichbarkeit mit früheren FRA-Erhebungen. Die Zielgruppen der EU-MIDIS-II-Erhebung sind Zuwanderer und Nachkommen von Zuwanderern aus Nordafrika; Zuwanderer und Nachkommen von Zuwanderern aus der Türkei; Zuwanderer und Nachkommen von Zuwanderern aus Afrika südlich der Sahara; Zuwanderer und Nachkommen von Zuwanderern aus Asien und Südasien; Neuzuwanderer; Roma; Mitglieder der russischen Minderheit. In Slowenien und Polen wurden Personen, die in den letzten 10 Jahren in die EU eingewandert sind, unabhängig vom Herkunftsland einbezogen. Die Feldarbeit wurde zwischen September 2015 und September 2016 von Ipsos MORI durchgeführt unter der Aufsicht von FRA-Mitarbeitern, die die Einhaltung strenger Qualitätskontrollverfahren überwachten.
+Der Fragebogen enthält Fragen zur wahrgenommenen Diskriminierung in verschiedenen Bereichen, wie z. B. Beschäftigung, Bildung, Wohnen, Gesundheit und bei der Nutzung öffentlicher oder privater Dienstleistungen. Er umfasst auch Polizeikontrollen, kriminelle Viktimisierung (einschließlich Hasskriminalität) sowie das Bewusstsein für Rechte und für Institutionen, die Opferhilfe anbieten. Darüber hinaus wurden die Befragten zu Fragen der gesellschaftlichen Teilhabe und Integration befragt, einschließlich des Vertrauens in öffentliche Institutionen und des Grades der Verbundenheit mit dem Land, in dem sie leben.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>1. Haushaltsinformationen und Kinder: Anzahl der im Haushalt lebenden Personen; Alter; Geschlecht; Beschäftigungssituation; Form der Beschäftigung (Vollzeit, Teilzeit); Jahr der Migration; Anzahl der Staatsangehörigkeiten; Befragter hat die Staatsangehörigkeit des Erhebungslandes; Staatsangehörigkeit(en) eines anderen Landes; Jahr, in dem die Staatsangehörigkeit des Landes erworben wurde; höchster abgeschlossener Bildungsgrad; Jahre, die in der Ausbildung verbracht wurden; derzeitiger Besuch einer Schule oder Berufsausbildung; Art der Schule oder Ausbildung, die derzeit besucht wird; Hauptgrund für die Nichtfortsetzung der Schule; Beziehung zu Befragter 1 (nur Haushaltsmitglied); Haushaltsmitglied hat einen Roma-Hintergrund/einen russischen Hintergrund; Arbeit des Haushaltsmitglieds in den letzten vier Wochen;
+Kinder: regelmäßiger Besuch der Kinderbetreuung; derzeitiger Schulbesuch; Besuch einer Sonderschule; Hauptgründe für die Wahl dieser Schule; Anzahl der Roma-Klassenkameraden; hat das Kind in den letzten 4 Wochen gearbeitet; Art der Arbeit; Stunden, die das Kind pro Woche arbeitet; bezahlte Arbeit; Wohn- und Lebensstandard: Anzahl der Zimmer in der Unterkunft; Wohnverhältnisse (eigene oder gemietete); Einrichtungen in der Unterkunft (z. B. Leitungswasser, Küche) z.B. Leitungswasser, eine Küche, eine Innentoilette, etc.); Haushalt kann es sich leisten, seine Wohnung ausreichend warm zu halten; Probleme mit der Unterkunft (z.B. ist sie zu dunkel, undichtes Dach oder feuchte Wände, etc.)
+2. Rechtsbewusstsein, Wahrnehmungen und Einstellungen: Einstellungen: Grad der Verbundenheit mit der Nachbarschaft, dem Dorf, der Stadt oder dem Land; mit dem Erhebungsland und der Europäischen Union; Selbstidentifikation ( Europäer, Staatsangehöriger des Erhebungslandes, Roma/Russe, Staatsangehöriger des Geburtslandes, Staatsangehöriger des Geburtslandes von Mutter und Vater;
+Wahrnehmung von Diskriminierung: Ausmaß der Diskriminierung aus verschiedenen Gründen im Land aufgrund der Hautfarbe, der ethnischen Herkunft oder des Migrationshintergrunds, der Religion oder der religiösen Überzeugungen; Bekanntheit von Hilfsorganisationen für Menschen, die diskriminiert wurden; Bekanntheit von Gleichstellungsstellen im Land;
+Rechtsbewusstsein: Bewusstsein für Antidiskriminierungsgesetze im Land; Bewusstsein für Antidiskriminierungskampagnen in den letzten 12 Monaten im Land; Bewusstsein für die Dost! Kampagne - ´Überwinde Stereotypen, lerne die Roma kennen´; Häufigkeit der Sorge, in der Öffentlichkeit belästigt zu werden; Meiden bestimmter Orte aus Angst, schlecht behandelt zu werden.
+3. Beschäftigung: Arbeitslosigkeit: Jahr, in dem zuletzt gearbeitet wurde; letzte Arbeit oder Beschäftigung; derzeit arbeitslos gemeldet; derzeit auf Arbeitssuche; Hauptgründe für die Nicht-Suche nach Arbeit; in den letzten 5 Jahren jemals auf Arbeitssuche im Land; Erfahrungen mit diskriminierenden Stellenanzeigen im Land in den letzten 5 Jahren; Erfahrungen mit Diskriminierung bei der Arbeitssuche in den letzten 5 Jahren; Datum der letzten Diskriminierungserfahrung aufgrund der ethnischen Herkunft oder des Migrationshintergrunds/des Roma-Hintergrunds/der Zugehörigkeit zu einer ethnischen Minderheit bei der Arbeitssuche; Anzahl der Diskriminierungserfahrungen bei der Arbeitssuche in den letzten 12 Monaten; Hauptgründe für die letzte Diskriminierungserfahrung; Person oder Institution, der der Vorfall gemeldet wurde; Grad der Zufriedenheit mit der Bearbeitung der Beschwerde; Gründe für die Nichtmeldung;am Arbeitsplatz: derzeitiger Arbeitsplatz oder Beruf; Art des Arbeitsvertrags im Hauptberuf; Beschäftigung von Mitarbeitern; Anzahl der Mitarbeiter; Übereinstimmung zwischen derzeitigem Arbeitsplatz und Bildungsniveau; durchschnittliche Anzahl der Arbeitsstunden pro Woche im Hauptberuf; Diskriminierungserfahrungen am Arbeitsplatz in den letzten fünf Jahren; spezifische Diskriminierungserfahrungen am Arbeitsplatz aufgrund des ethnischen oder Migrationshintergrunds/des Roma-Hintergrunds/der Zugehörigkeit zu einer ethnischen Minderheit (z. z. B. Erteilung von Aufgaben unterhalb der Qualifikation, Nichtzulassung zu einer Gewerkschaft usw.); Datum der letzten Diskriminierungserfahrung am Arbeitsplatz; Anzahl der Diskriminierungserfahrungen am Arbeitsplatz in den letzten 12 Monaten; Hauptgründe für die letzte Diskriminierungserfahrung am Arbeitsplatz; Person oder Institution, der der Vorfall gemeldet wurde; Grad der Zufriedenheit mit der Bearbeitung der Beschwerde; Gründe für die Nichtmeldung.
+4. Diskriminierung:Gesundheit: subjektive Einschätzung des eigenen Gesundheitszustands; langjährige Krankheit oder Gesundheitsprobleme; Einschränkung bei täglichen Aktivitäten aufgrund eines Gesundheitsproblems in den letzten 6 Monaten; nationale Grundkrankenversicherung deckt derzeit die Gesundheitskosten ab; zusätzlicher Krankenversicherungsschutz; Bedarf an medizinischer Untersuchung oder Behandlung in den letzten 12 Monaten; nicht erfüllter Bedarf an medizinischer Untersuchung oder Behandlung in den letzten 12 Monaten; Hauptgrund, warum der Befragte keine medizinische Untersuchung oder Behandlung hatte; Inanspruchnahme von Gesundheitsdienstleistungen in den letzten 5 Jahren; Diskriminierungserfahrungen bei der Nutzung von Gesundheitsdienstleistungen in den letzten 5 Jahren; Datum der letzten Diskriminierungserfahrung bei der Inanspruchnahme von Gesundheitsdienstleistungen aufgrund der ethnischen Herkunft oder des Migrationshintergrunds/des Roma-Hintergrunds/der Zugehörigkeit zu einer ethnischen Minderheit; Anzahl der Diskriminierungserfahrungen bei der Inanspruchnahme von Gesundheitsdienstleistungen in den letzten 12 Monaten; Hauptgründe für die letzte Diskriminierungserfahrung bei der Inanspruchnahme von Gesundheitsdienstleistungen; letztes Mal, als sich die befragte Person aufgrund der ethnischen Herkunft oder des Migrationshintergrunds/des Roma-Hintergrunds/der Zugehörigkeit zu einer ethnischen Minderheit diskriminiert fühlte; Person oder Institution, der der Vorfall gemeldet wurde; Grad der Zufriedenheit mit der Bearbeitung der Beschwerde; Gründe für die Nichtmeldung;
+Wohnen: Versuch, in den letzten fünf Jahren eine Wohnung oder ein Haus im Land zu mieten oder zu kaufen; Diskriminierungserfahrungen beim Versuch, eine Wohnung oder ein Haus zu kaufen; spezifische Diskriminierungserfahrungen aufgrund der ethnischen Herkunft oder des Migrationshintergrunds/des Roma-Hintergrunds/der Zugehörigkeit zu einer ethnischen Minderheit (z. B. Verhinderung der Anmietung); Anzahl der Diskriminierungserfahrungen in den letzten fünf Jahren; Hauptgründe für die letzte Diskriminierungserfahrung; Person oder Institution, der der Vorfall gemeldet wurde; Grad der Zufriedenheit mit der Bearbeitung der Beschwerde; Gründe für die Nicht-Berichterstattung;
+Bildung: Höchstes abgeschlossenes Bildungsniveau im Land; höchstes abgeschlossenes Bildungsniveau in einem anderen Land; Land, in dem das Bildungsniveau abgeschlossen wurde; derzeitiger Besuch einer Schule oder Berufsausbildung; Art der Schule/Ausbildung; abgeschlossene Schuljahre insgesamt in einem beliebigen Land; Eltern oder Erziehungsberechtigte des/der Kinder(s) im nationalen schulpflichtigen Alter; Kontakte mit Personen aus der Schule, die das/die Kind(er) in den letzten 5 Jahren besucht hat; Diskriminierungserfahrungen bei Kontakten mit Schulbehörden im Land; spezifische Diskriminierungserfahrungen aufgrund der ethnischen Herkunft oder des Migrationshintergrunds/des Roma-Hintergrunds/der Zugehörigkeit zu einer ethnischen Minderheit; Datum der letzten Erfahrung; Anzahl der Erfahrungen; Hauptgründe für die letzte Diskriminierungserfahrung; Person oder Institution, der der Vorfall gemeldet wurde; Grad der Zufriedenheit mit der Bearbeitung der Beschwerde; Gründe für die Nichtmeldung; Erfahrungen der Kinder mit Diskriminierung in der Schule aufgrund ihrer ethnischen Herkunft oder des Migrationshintergrunds/des Roma-Hintergrunds/der Zugehörigkeit zu einer ethnischen Minderheit;
+Andere Dienstleistungen: Inanspruchnahme verschiedener Dienstleistungen im Land in den letzten 5 Jahren; Diskriminierungserfahrungen bei der Inanspruchnahme verschiedener Dienstleistungen in den letzten 5 Jahren und in den letzten 12 Monaten; Meldung von Vorfällen in diesen Situationen; Person oder Institution, an die Diskriminierung im Bildungswesen gemeldet wurde; Grad der Zufriedenheit mit der Bearbeitung der Beschwerde wegen Diskriminierung im Bildungswesen; Gründe für die Nichtmeldung von Diskriminierung im Bildungswesen; Person oder Institution, an die Diskriminierung in Nachtclub, Bar, Restaurant oder Hotel gemeldet wurde; Grad der Zufriedenheit mit der Bearbeitung der Beschwerde wegen Diskriminierung in Nachtclub, Bar, Restaurant oder Hotel; Gründe für die Nichtmeldung von Diskriminierung in Nachtclub, Bar, Restaurant oder Hotel; Person oder Institution, der Diskriminierung bei Behörden oder öffentlichen Diensten gemeldet wurde; Grad der Zufriedenheit mit der Bearbeitung der Beschwerde wegen Diskriminierung bei Behörden oder öffentlichen Diensten; Gründe für die Nichtmeldung; Person oder Institution, der Diskriminierung in öffentlichen Verkehrsmitteln gemeldet wurde; Grad der Zufriedenheit mit der Bearbeitung der Beschwerde wegen Diskriminierung in öffentlichen Verkehrsmitteln; Gründe für die Nichtmeldung; Person oder Institution, der Diskriminierung in einem Geschäft gemeldet wurde; Grad der Zufriedenheit mit der Bearbeitung der Beschwerde wegen Diskriminierung in einem Geschäft; Gründe für die Nichtmeldung; Kenntnis von Diskriminierungserfahrungen im Freundes- und Familienkreis in den letzten 12 Monaten;
+Korruption: Erfahrungen, dass von Regierungsbeamten im Land in den letzten 5 Jahren Bestechungsgelder verlangt oder erwartet wurden; Art des Beamten, der mit den letzten Erfahrungen, dass Bestechungsgelder verlangt oder erwartet wurden, zu tun hatte;
+Polizeikontrollen: Erfahrungen mit dem Anhalten, Durchsuchen oder Befragen durch die Polizei im Land in den letzten 5 Jahren und in den letzten 12 Monaten; Kontext, in dem das letzte Erlebnis des Anhaltens, Durchsuchens oder Befragens durch die Polizei stattfand; letztes Erlebnis des Anhaltens im Zusammenhang mit ethnischem oder Migrationshintergrund; Anfragen der Polizei während des letzten Erlebnisses des Anhaltens; Grad des Respekts, der von der Polizei während des letzten Erlebnisses des Anhaltens gezeigt wurde; Berichterstattung über respektlose Behandlung durch die Polizei; Erfahrungen mit körperlichen Angriffen durch die Polizei im Land in den letzten 5 Jahren und in den letzten 12 Monaten; Berichterstattung über den letzten Vorfall eines körperlichen Angriffs durch die Polizei; Gründe für die Nicht-Berichterstattung.
+5. Viktimisierung: Häufigkeit von Belästigungserfahrungen im Land in den letzten 5 Jahren; Häufigkeit spezifischer Belästigungserfahrungen im Zusammenhang mit ethnischem oder Migrationshintergrund im Land in den letzten 5 Jahren und in den letzten 12 Monaten; letzter Belästigungsvorfall im Zusammenhang mit ethnischem oder Migrationshintergrund unter den genannten Personen; Identität des Täters des letzten Belästigungsvorfalls; ethnischer Hintergrund des Täters des letzten Belästigungsvorfalls; Meldung des letzten Belästigungsvorfalls und Person oder Institution, der der Vorfall gemeldet wurde; Gründe für die Nichtmeldung; Grad der Zufriedenheit mit der Bearbeitung der Beschwerde durch die Polizei; Meldung eines Belästigungsvorfalls im Zusammenhang mit ethnischem oder Migrationshintergrund in den letzten fünf Jahren und Institution, der der Vorfall gemeldet wurde.
+Gewalterfahrungen: Häufigkeit von Gewalterfahrungen im Land in den letzten 5 Jahren; Häufigkeit von Gewalterfahrungen im Zusammenhang mit ethnischem oder Migrationshintergrund im Land in den letzten 5 Jahren und in den letzten 12 Monaten; Identität und ethnischer Hintergrund des Täters des letzten Gewaltvorfalls; Meldung des letzten Gewaltvorfalls und Person oder Institution, der der Vorfall gemeldet wurde; Gründe für die Nichtmeldung; Grad der Zufriedenheit mit der Bearbeitung der Beschwerde durch die Polizei; Meldung jeglicher Gewaltvorfälle in den letzten 5 Jahren und Institution, der der Vorfall gemeldet wurde; Bekanntheit oder Erfahrungen von Gewalt unter Freunden und Familie aufgrund von ethnischem Minderheitenhintergrund in den letzten 12 Monaten.
+6. Gesellschaftliche Teilhabe: Aufenthalt und Status: Gründe für die Einreise in das Land; Erfahrungen mit dem Fehlen einer gültigen Aufenthaltsgenehmigung; Antrag auf Staatsbürgerschaft in der Vergangenheit; Ergebnis des Antrags auf Staatsbürgerschaft; Gründe für die Nichtbeantragung der Staatsbürgerschaft; Wunsch, die Staatsbürgerschaft in Zukunft zu beantragen; enge Familienangehörige (Ehemann, Ehefrau, Kinder), die außerhalb des Landes leben; Antrag auf Familienzusammenführung in der Vergangenheit; Ergebnis des Antrags auf Familienzusammenführung; Hauptgrund für die Nichtbeantragung der Familienzusammenführung; Erfahrungen mit dem Leben in anderen Ländern für mehr als 3 Monate, Erwähnung dieser anderen Länder; Möglichkeit, in ein anderes Land in der Zukunft zu ziehen; Land, in das man in der Zukunft ziehen könnte; Gründe für den Wunsch, in einem anderen Land zu leben;
+Partizipation und Gruppenbeziehungen: Religion; Tragen von traditioneller oder religiöser Kleidung, die sich von der landestypischen unterscheidet; Ausmaß der Selbstidentifikation als Christ, Muslim, Jude usw.; nur muslimische Frauen: Tragen von Kopftuch oder niq&amp;#257;b außerhalb des Hauses; Erfahrungen mit Viktimisierung im Zusammenhang mit dem Tragen von Kopftuch oder niqab in den letzten 12 Monaten, wiederum alle: Hauptsprache(n), die zu Hause gesprochen wird/werden; Selbsteinschätzung der Kenntnisse der Landessprache(n) in Bezug auf Sprechen, Lesen und Schreiben; Besuch eines Landessprachkurses; Hauptgründe für den Nichtbesuch eines Landessprachkurses;
+Beziehungen zwischen den Gruppen: Freunde, die einem anderen ethnischen Minderheitenhintergrund angehören, die keinen Minderheitenhintergrund haben, die eine andere Religion haben; Anzahl der Bewohner in der Nachbarschaft mit demselben ethnischen oder Migrationshintergrund/ Roma-Hintergrund/ ethnischen Minderheitenhintergrund wie der Befragte;
+Bequemlichkeitsskalen über das Vorhandensein von Nachbarn mit unterschiedlichem Hintergrund; Bequemlichkeitsskalen über die Heirat eines Familienmitglieds mit jemandem, der einen anderen Hintergrund hat; Bequemlichkeitsskalen über die Akzeptanz der Anwendung von physischer Gewalt in bestimmten Situationen;
+Vertrauen und Werte: Ausmaß der Zustimmung zu Wertaussagen zur Gleichstellung der Geschlechter; Vertrauen in Institutionen;
+Aktive Bürgerbeteiligung: Ausmaß des Interesses an Politik; Handlungen mit politischer Konnotation, die in den letzten 12 Monaten unternommen wurden; Stimmabgabe bei den letzten lokalen und nationalen Wahlen im Land oder im Land der Staatsbürgerschaft; Arten von Hilfe oder Unterstützung, die im Land von einer öffentlichen Einrichtung oder NRO aufgrund des ethnischen oder Migrationshintergrunds erhalten wurden; Befragte, die der Zielgruppe der Roma angehören: Unterstützung durch einen Gesundheitsmediator beim Arztbesuch; Unterstützung durch einen Roma-Lehrassistenten in der Schule für Kinder im Haushalt.
+7. Sozioökonomischer Hintergrund: aktueller Familienstand; Alter bei der (ersten) Heirat;
+Einkommen: Art des Einkommens, das der Haushalt in den letzten 12 Monaten erzielt hat; Haupteinkommensquelle des Haushalts; Güter, die in den letzten 12 Monaten als Gegenleistung für Arbeit erhalten wurden; Geldüberweisungen, die an Familienmitglieder, Verwandte oder Freunde, die im Geburtsland leben, geschickt oder gebracht wurden;
+Armut: Fähigkeit des Haushalts, über die Runden zu kommen; Besitz eines Bankkontos; Fähigkeit des Haushalts, sich bestimmte Ausgaben leisten zu können; Unfähigkeit, Kosten in den letzten 12 Monaten aufgrund finanzieller Schwierigkeiten pünktlich zu bezahlen; im Haushalt besessene Gegenstände; ungedeckter Bedarf an verschiedenen Gegenständen; Häufigkeit von Nahrungsmangel im letzten Monat.
+8. Ortsangaben durch den Interviewer: Beschreibung des Ortes, an dem der Haushalt wohnt; Türsprechanlage oder verschlossenes Tor/verschlossene Tür vor der Tür der Zielperson(en); Haushalt lebt in einem Gebiet, das ethnisch segregiert ist.
+9. Interviewer-Fragebogen: finanzieller oder anderer Anreiz für das Interview; Ort und Situation während des Interviews: Ort des Interviews; Befragter allein während des Interviews; anwesende Personen während des Interviews; Teile des Fragebogens mit Anwesenheit oder Beteiligung anderer Personen; Beherrschung der Landessprache durch den Befragten; Sprache des Interviews; Verwendung von übersetzten Hilfsmitteln; Art der Verwendung von übersetzten Hilfsmitteln; Kooperation des Befragten; Verständnis der Fragen durch den Befragten; Gründe für Missverständnisse; Interesse des Befragten an den Themen; Ehrlichkeit des Befragten; Anzahl der für das Interview ausgewählten Personen im Haushalt; Geburtsland (Einwanderer und ihre Nachkommen); Geburtsland (Neueinwanderer); Geburtsland von Mutter und Vater; Haushalts- und Kinderraster wurde von der ersten für das Interview ausgewählten Person ausgefüllt; Befragter im Haushalt.
+Zusätzlich verkodet wurde: Land des Interviews; Urbanisierungsgrad; Art des Interviews (Haushaltsinterview, Standortinterview); Zielgruppe; Anzahl der abgeschlossenen Interviews; Geschlecht und ethnische Zugehörigkeit des Interviewers; Land; Gewichtungsfaktoren; Alter Imputationsstatus; Altersgruppen; Haushaltstyp, höchste erreichte Bildung irgendwo, selbst deklarierter Haupterwerbsstatus; bezahlte Arbeit in den letzten 4 Wochen; Land und Zielgruppe; aggregierte Zielgruppen; Befragten-ID; Haushalts-ID; Armutsgefährdung nach Sozialtransfers; Prävalenz von Belästigung (Gründe) in den 5 Jahren vor der Erhebung; Erfahrungen mit körperlichen Angriffen in den 5 Jahren vor der Befragung (von allen Opfern körperlicher Angriffe); Anhalten durch die Polizei in den letzten 5 Jahren; letzte polizeiliche Anhaltung, Durchsuchung oder Befragung wegen ethnischer Herkunft oder Migrationshintergrund in den letzten 5 Jahren; mehrere Variablen zu Diskriminierungserfahrungen wegen Hautfarbe, ethnischer Herkunft, Religion; Angabe, eine Beschwerde über den letzten Vorfall von Diskriminierung wegen Hautfarbe, ethnischer Herkunft, Religion eingereicht zu haben; Wohnsitz und Staatsangehörigkeitsstatus; Imputationsindikator; monatliches Einkommen.
+Abgeleitete Variablen: Anzahl der abgeschlossenen Interviews in diesem Haushalt; Befragter (kategorisiert den Befragten in eine von vier Kategorien - 1. befragter Befragter, 2. befragter Befragter, HH-Mitglied - teilnahmeberechtigt und HH-Mitglied - nicht teilnahmeberechtigt .1. befragter 2. befragter HH-Mitglied - teilnahmeberechtigt HH-Mitglied - nicht teilnahmeberechtigt); Generation: erste oder zweite Migrantengeneration; HH-Mitglied kategorisiert als Erwachsener oder Kind.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The second European Union Minorities and Discrimination Survey (EU-MIDIS II) was conducted in 2016 by the European Union Agency for Fundamental Rights (FRA) as a follow-up to the first survey on minorities´ and immigrants´ experiences of discrimination and criminal victimisation conducted by the Agency in 2008. The EU-MIDIS II survey collected information from 25,515 respondents from different ethnic minority and migrant backgrounds, including Roma, in all EU Member States (2016: EU-28 including the UK). The EU-MIDIS II sample is representative of the selected populations that were interviewed. The sample includes persons belonging to ethnic or national minorities, Roma and Russians, persons born outside the EU (first generation respondents) and persons with at least one parent born outside the EU (second generation respondents). All respondents were 16 years or older and had lived in a private household for at least 12 months before the interview. People living in institutional settings - for example, hospitals or prisons - were not interviewed.
+The selection of groups to be surveyed in each country was based on several criteria, including the size of the target population, the feasibility of surveying the target population in terms of cost and accessibility, the risk of certain groups experiencing ´racial´, ´ethnic´ or ´religious´ discrimination and victimisation, their vulnerability to the risk of social exclusion and, finally, comparability with previous FRA surveys. The target groups of the EU-MIDIS II survey are immigrants and descendants of immigrants from North Africa; immigrants and descendants of immigrants from Turkey; immigrants and descendants of immigrants from Sub-Saharan Africa; immigrants and descendants of immigrants from Asia and South Asia; new immigrants; Roma; members of the Russian minority. In Slovenia and Poland, people who immigrated to the EU in the last 10 years were included, regardless of country of origin. The fieldwork was conducted between September 2015 and September 2016 by Ipsos MORI under the supervision of FRA staff who monitored compliance with strict quality control procedures.
+The questionnaire includes questions on perceived discrimination in various areas, such as employment, education, housing, health and in the use of public or private services. It also covers police checks, criminal victimisation (including hate crime), and awareness of rights and of institutions that provide victim support. In addition, respondents were asked about issues of social participation and integration, including trust in public institutions and the degree of attachment to the country in which they live.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>1. Household information and child grid: number of persons living in the household; age; sex; employment situation; form of employment (full-time, part-time); year of migration; number of citizenships; respondent has the citizenship of the survey country; other country citizenship(s); year in which country citizenship was obtained; highest level of completed education; years spent in education; current attendance of school or vocational training; type of school or training  currently attended; main reason for not continuing school; relationship to respondent 1 (household member only); household member has a roma background/ a russian background; work of household member in the last four weeks;child grid: regular attendance of childcare; current school attendance; attendance of special school; main reasons for choosing this school; amount of Roma classmates; did the child do any work in the last 4 weeks; kind of work; hours the child works per week; paid work; housing and living standard: number of rooms in accommodation; housing tenure (own or rent); facilities in accommodation (e.g. tap water, a kitchen, indoor toilet, etc.); household can afford to keep its home adequately warm; problems with accommodation (e.g. it is too dark, leaking roof or damp walls, etc.). 
+2. Rights awareness, perceptions and attitudes: attitudes: level of attachment to the neighborhood, to the village, town or city, to the country; to the survey country, and to the European Union; self-identification ( European, survey country national, Roma/Russian,/country national of country of birth, country national of country of birth of mother and father;  
+Perceptions of discrimination: extend of discrimination on different grounds in the country based on skin colour, ethnic origin or immigrant background, religion or religious beliefs; awareness of support organisations to people who have been discriminated against; awareness of equality bodies in the country; 
+Right awareness: awareness of anti-discrimination law in the country; awareness of anti-discrimination campaigns in the past 12 months in the country; awareness of the Dost! Campaign – ‘Go beyond stereotypes, meet the Roma’; frequency of worry about experiencing harassment when out in public; avoidance of certain places for fear of being treated badly.
+3. Employment: Unemployment: year when last in work; last job or occupation; currently registered as unemployed; currently looking for work; main reasons for not looking for work; ever looked for work in the country in the past 5 years; experiences of discriminatory job adverts in the country in the past 5 years; experiences of discrimination when looking for work in the past 5 years; date of last experience of discrimination because of ethnic or immigrant background/ Roma background/ ethnic minority background when looking for work; number of experiences of discrimination when looking for work in the past 12 months; main reasons for last experience of discrimination; person or institution to whom the incident was reported; degree of satisfaction with handling of complaint; reasons for non-reporting; at work: current job or occupation; kind of employment contract in main job; having employees; number of employees; correspondence between current job and level of education; average number of working hours per week in the main job; experiences of discrimination at work in the past 5 years; specific experiences of discrimination at work because of ethnic or immigrant background/ Roma background/ ethnic minority background (e.g. given tasks below qualifications, not allowed to join a trade union, etc.); date of last experience of discrimination at work; number of experiences of discrimination at work in the past 12 months; main reasons for last experience of discrimination at work; person or institution to whom the incident was reported; degree of satisfaction with handling of complaint; reasons for non-reporting.
+4. Discrimination: Health: subjective assessment of own health condition; longstanding illness or health problems; limitation in daily activities because of a health problem in the past 6 months; national basic health insurance currently covers the health care expenses; additional health insurance coverage; need of medical examination or treatment in the past 12 months; unmet need for medical examination or treatment in the past 12 months; main reason why the respondent did not have a medical examination or treatment; use of healthcare services in the past 5 years; experiences of discrimination when using healthcare services in the past 5 years;  date of last experience of discrimination when using healthcare services because of ethnic or immigrant background/ Roma background/ ethnic minority background; number of experiences of discrimination when using healthcare services in the past 12 months; main reasons for last experience of discrimination when using healthcare services;  last time the respondent felt discriminated against because of ethnic or immigrant background/ Roma background/ ethnic minority background; person or institution to whom the incident was reported; degree of satisfaction with handling of complaint; reasons for non-reporting; 
+Housing: trying to rent or buy an apartment or a house in the country in the past 5 years; experiences of discrimination when trying to buy an apartment or a house; specific experiences of discrimination because of ethnic or immigrant background/ Roma background/ ethnic minority background (e.g. prevented from renting); number of experiences of discrimination in the past 5 years; main reasons for last experience of discrimination; person or institution to whom the incident was reported; degree of satisfaction with handling of complaint; reasons for non-reporting; 
+Education: highest level of education completed in the country; highest level of education completed in another country; country in which level was completed; current attendance of school or vocational training; type of school/ training; completed years of schooling in total in any country; parent or guardian of child(ren) within national compulsory school age range; contacts with persons from school attended by child(ren) in the past 5 years; experiences of discrimination when in contact with school authorities in the country; specific experiences of discrimination because of ethnic or immigrant background/ Roma background/ ethnic minority background; date of last experience; number of experiences; main reasons for last experience of discrimination; person or institution to whom the incident was reported; degree of satisfaction with handling of complaint; reasons for non-reporting; children’s experiences of discrimination in school because of their ethnic or immigrant background/ Roma background/ ethnic minority background;
+Other services: use of different services in the country in the past 5 years; experiences of discrimination when using different services in the past 5 years and in the past 12 months; reporting of incidents in these situations; person or institution to whom discrimination in education was reported; degree of satisfaction with handling of complaint for discrimination in education; reasons for non-reporting discrimination in education; person or institution to whom discrimination in night club, bar, restaurant or hotel was reported; degree of satisfaction with handling of complaint for discrimination in night club, bar, restaurant or hotel; reasons for non-reporting discrimination in night club, bar, restaurant or hotel; person or institution to whom discrimination at administrative offices or public services war reported; degree of satisfaction with handling of complaint for discrimination at administrative offices or public services; reasons for non-reporting; person or institution to whom discrimination in public transport was reported; degree of satisfaction with handling of complaint for discrimination in public transport; reasons for non-reporting; person or institution to whom discrimination in a shop was reported; degree of satisfaction with handling of complaint for discrimination in a shop; reasons for non-reporting; awareness of experiences of discrimination among friends and family in the past 12 months; 
+Corruption: experiences of being asked or expected to pay bribe to government officials in the country in the past 5 years; type of official involved with last experiences of being asked or expected to pay bribe; 
+Police stops: experiences of being stopped, searched or questioned by police in the country in the past 5 years and in the past 12 months; context where last experience of being stopped, searched or questioned by police happened; last experience of being stopped related to ethnic or immigrant background; police requests during the last experience of being stopped; degree of respect shown by police during the last experience of being stopped; reporting disrespectful treatment by police; experiences of physical assault by police in the country in the past 5 years and in the past 12 months; reporting last incident of physical assault by police; reasons for non-reporting.  
+5. Victimisation: frequency of experiences of harassment in the country in the past 5 years; frequency of specific experiences of harassment related to ethnic or immigrant background in the country in the past 5 years and in the past 12 months; last incident of harassment related to ethnic or immigrant background among those mentioned; identity of perpetrator of last incident of harassment; ethnic background of perpetrator of  last incident of harassment; reporting last incident of harassment and person or institution to whom the incident was reported; reasons for non-reporting; degree of satisfaction with handling of complaint by police; reporting any incident of harassment related to ethnic or immigrant background in the past 5 years and institution to whom the incident was reported.
+Experiences of violence: frequency of experiences of violence in the country in the past 5 years; frequency of experiences of violence related to ethnic or immigrant background in the country in the past 5 years and in the past 12 months; identity and ethnic background of perpetrator of last incident of violence; reporting last incident of violence and person or institution to whom the incident was reported; reasons for non-reporting; degree of satisfaction with handling of complaint by police; reporting any incident of violence in the past 5 years and institution to whom the incident was reported; awareness or experiences of violence among friends and family because of ethnic minority background in the past 12 months.
+6. Societal participation: residence and status: reasons for coming to the country; experiences of not having a valid residence permit; applied for country citizenship in the past; outcome of country citizenship application; reasons for not applying for country citizenship; wish to apply for country citizenship in the future; close family (husband, wife, children) living outside the country; applied for family reunification in the past; outcome of family reunification application; main reason for not applying for family reunification; experiences of living in other countries for more than 3 months, mention of those other countries; possibility of moving to another country in the future; country to which might move in the future; reasons for wanting to live in another country;  Participation and group relations:  religion; use of traditional or religious clothes different from those typically worn in the country; extent of self-identification as Christian, Muslim, Jew, etc.; only Muslim women: use of headscarf or niq&amp;#257;b outside the house; experiences of victimization related to wearing a headscarf or niqab in the past 12 months, again all: main language(s)  spoken at home; self-assessment of proficiency in country language(s) as regards to speaking, reading and writing; attendance of a country language course; main reasons for not attending a country language course; 
+Intergroup relations: friends who are of another ethnic minority background, who do not have a minority background, who have a different religion; amount of residents in the neighbourhood of the same ethnic or immigrant background/ Roma background/ ethnic minority background as the respondent;
+Comfort scales about having neighbours with different backgrounds; comfort scales about member of family marrying someone with different backgrounds; comfort scales about acceptance of using physical violence in specific situations; 
+Trust and values: extent of agreement with value statements on gender equality; trust in institutions;
+Active citizenship: Extent of interest in politics; actions with political connotations taken in the past 12 months; vote in the last local and national elections in the country or country of citizenship; types of help or support received in the country from a public institution or NGO because of ethnic or immigrant background; respondents belonging to the target group of Roma: assistance of a health mediator when going to the doctor; assistance of a Roma teaching assistant at school for children in the household.
+7. Socio-economic background: current marital status; age at (first) marriage;  
+Income: types of income obtained by the household in the past 12 months; main source of income of the household; goods obtained in exchange for work in the past 12 months; remittances sent or brought to family members, relatives or friends llving in the country of birth;
+Poverty: ability of the household to make ends meet; possession of a bank account; ability of the household to afford certain expenses; inability to pay costs on time in the last 12 months due to financial difficulties; items possessed in the household; unmet need of different items; frequency of food deprivation in the last month.
+8. Information about the locations by the interviewer: description of the place where the household lives; entry phone system or locked gate/ door before reaching the door of the target respondent(s); household living in an area that is ethnically segregated. 
+9. Interviewer questionnaire: financial or other incentive for the interview; location and situation during the interview: place of interview; respondent alone during the interview; persons present during the interview; parts of the questionnaire with presence or participation of other people; respondent’s command of country language; language of the interview; use of translated tools; type of uses translated tool; respondent’s cooperation; respondent’s understanding of questions; reasons for misunderstandings; respondent’s interest in the topics; respondent’s honesty; number of persons selected for the interview in the household; country of birth (immigrants and their descendants); country of birth (recent immigrants); country of birth of mother and father; household and child grid has been completed by the first person selected for the interview; household respondent. 
+Additionally coded: country of interview; degree of urbanisation; type of interview (household interview, location interview); target group; number of completed interviews; sex and ethnicity of the interviewer; country; taget group; weigthing factors; age imputation status; age groups; household type, highest achieved education anywhere, self-declared main activity status; paid work in the last 4 weeks; country and target group; aggregate target groups; respondent ID; household ID; at risk of poverty after social transfers; prevalence of harassment (reasons) in 5 years before the survey; experiences of physical attack in the 5 years before the survey (out of all victims of physical attack); stopped by the police in the past 5 years; last police stop, search or questions because of ethnic or immigrant background, in the past 5 years; several variables on experiences of discrimination because of skin colour, ethnic origin, religion; reported to made a complaint about the last incident of discrimination because of skin colour, ethnic origin, religion; residence and citizenship status; imputation indicator; monthly income in income bands.
+Derived variables: number of completed interviews in this household; respondent (categorises the respondent into one of four categories - 1st respondent interviewed, 2nd respondent interviewed, HH member - eligible and HH member - not eligible .1st respondent 2nd respondent HH member - eligible HH member - not eligible); generation: first or second generation migrant; HH member categorised as an adult or a child.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>BG</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CY</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CZ</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>EE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LV</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>MT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>RO</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SK</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>In der Umfrage wurden Personen im Alter von 16 Jahren und älter befragt:
+
+• die sich selbst als Personen mit ethnischem Minderheitenhintergrund bezeichnen; dies schließt Roma und Personen aus der russischen Minderheit ein;
+• die sich selbst als Personen mit Migrationshintergrund bezeichnen; dies schließt Zuwanderer und Nachkommen von Zuwanderern ein;
+• deren üblicher Wohnsitz in dem befragten EU-Mitgliedstaat liegt;
+• die mindestens in den letzten 12 Monaten in Privathaushalten in dem befragten EU-Mitgliedstaat gelebt haben. Zu den Zuwanderern, Nachkommen von Zuwanderern und Neuzuwanderern gehörten sowohl Staatsbürger als auch Nicht-Staatsbürger des Erhebungslandes, unabhängig von ihrem formalen Aufenthaltsstatus. Für die Zwecke der Erhebung umfasst der Begriff ´Zuwanderer und Nachkommen von Zuwanderern´ Folgendes:
+• ´Zuwanderer´ sind Personen, die nicht in einem EU-Mitgliedstaat oder einem Land des Europäischen Wirtschaftsraums (EWR)/der Europäischen Freihandelsassoziation (EFTA) (Island, Liechtenstein, Norwegen und die Schweiz) geboren wurden, die ihren gewöhnlichen Wohnsitz im Hoheitsgebiet des EU-Mitgliedstaats hatten, in dem die Erhebung durchgeführt wurde, und die seit mindestens 12 Monaten vor der Befragung im Erhebungsland lebten.
+• Nachkommen von Zuwanderern´ sind Personen, die in einem der 28 EU-Mitgliedstaaten (2016 einschließlich des Vereinigten Königreichs) oder einem EWR/EFTA-Land geboren wurden, deren üblicher Aufenthaltsort sich im Hoheitsgebiet des EU-Mitgliedstaats befand, in dem die Erhebung durchgeführt wurde, und die mindestens einen Elternteil hatten, der nicht in einem EU- oder EWR/EFTA-Land geboren wurde (Liechtenstein, Island, Norwegen und die Schweiz).
+• In einigen EU-Mitgliedstaaten wurden im Rahmen von EU-MIDIS II ´Neuzuwanderer´ befragt. Dabei handelt es sich um Personen, die in den zehn Jahren vor der Erhebung (d. h. nach 2004) in einen EU-Mitgliedstaat eingewandert sind, ihren gewöhnlichen Wohnsitz im Hoheitsgebiet des EU-Mitgliedstaats hatten, in dem die Erhebung durchgeführt wurde, und mindestens zwölf Monate vor dem Interview im Erhebungsland gelebt haben. Das Geburtsland von ´Neuzuwanderern´ kann jedes Land außerhalb der EU-28 oder ein EWR/EFTA-Land sein. EU-MIDIS II erfasste die folgenden Gruppen:
+• Einwanderer und Nachkommen von Einwanderern aus Nordafrika (in BE, ES, FR, IT, NL);
+• Einwanderer und Nachkommen von Einwanderern aus der Türkei (in AT, BE, DE, DK, NL, SE);
+• Einwanderer und Nachkommen von Einwanderern aus Afrika südlich der Sahara (in AT, DE, DK, FI, FR, IE, IT, LU, MT, PT, SE, UK);
+• Zuwanderer und Nachkommen von Zuwanderern aus Asien und Südasien (in CY , EL, IT, UK);
+• Neuzuwanderer (in PL, SI);
+• Roma (in BG, CZ, EL, ES, HR, HU, PT, RO, SK);
+• russische Minderheiten (in EE, LT, LV).
+</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>The survey interviewed people aged 16 and older:
+
+- who describe themselves as having an ethnic minority background; this includes Roma and people from the Russian minority;
+- who describe themselves as having an immigrant background; this includes immigrants and descendants of immigrants;
+- whose usual place of residence is in the EU Member State surveyed;
+- who have lived in private households in the EU Member State surveyed for at least the last 12 months. Immigrants, descendants of immigrants and new immigrants included both citizens and non-citizens of the survey country, regardless of their formal residence status. For the purposes of the survey, the term ´immigrants and descendants of immigrants´ includes the following:
+- ´Immigrants´ are persons who were not born in an EU Member State or a European Economic Area (EEA)/European Free Trade Association (EFTA) country (Iceland, Liechtenstein, Norway and Switzerland), who had their usual residence in the territory of the EU Member State where the survey was conducted and who had been living in the survey country for at least 12 months before the interview.
+- Descendants of immigrants´ are persons who were born in one of the 28 EU Member States (including the United Kingdom in 2016) or in an EEA/EFTA country, whose usual residence was on the territory of the EU Member State where the survey was conducted and who had at least one parent who was not born in an EU or EEA/EFTA country (Liechtenstein, Iceland, Norway and Switzerland).
+- In some EU Member States, ´new immigrants´ were surveyed as part of EU-MIDIS II. These are persons who immigrated to an EU Member State in the ten years preceding the survey (i.e. after 2004), had their usual residence in the territory of the EU Member State where the survey was conducted and had lived in the survey country for at least 12 months before the interview. The country of birth of ´new immigrants´ can be any country outside the EU-28 or an EEA/EFTA country. EU-MIDIS II covered the following groups:
+- Immigrants and descendants of immigrants from North Africa (in BE, ES, FR, IT, NL);
+- Immigrants and descendants of immigrants from Turkey (in AT, BE, DE, DK, NL, SE);
+- Immigrants and descendants of immigrants from Sub-Saharan Africa (in AT, DE, DK, FI, FR, IE, IT, LU, MT, PT, SE, UK);
+- Immigrants and descendants of immigrants from Asia and South Asia (in CY , EL, IT, UK);
+- New immigrants (in PL, SI);
+- Roma (in BG, CZ, EL, ES, HR, HU, PT, RO, SK);
+- Russian minorities (in EE, LT, LV).</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Wahrscheinlichkeitsauswahl: Einfache Zufallsauswahl; Nicht-Wahrscheinlichkeitsauswahl: Quotenstichprobe; Kombination aus Zufallsstichprobe und Nicht-Zufallsstichprobe; Auswahlverfahren Kommentar: Die meisten der Zielgruppen in EU-MIDIS II können als "schwer erreichbar" für die Umfrageforschung angesehen werden - im Sinne von relativ klein und/oder verstreut - und aufgrund des Fehlens von Stichprobenrahmen der Zielgruppen. Wann immer möglich, wurde eine Stichprobe aus einem Stichprobenrahmen gezogen, der die Zielpopulation abdeckt. Die Möglichkeiten, eine Stichprobe aus der Zielpopulation zu ziehen, waren jedoch in den einzelnen Mitgliedstaaten sehr unterschiedlich, was auf die unterschiedliche Verfügbarkeit von Stichprobenrahmen und die Verteilung der Zielgruppe in den Ländern zurückzuführen ist (d. h. eine Liste von Personen, aus der eine kontrollierte repräsentative Auswahl der Zielgruppe getroffen werden kann). In den meisten Ländern mussten fortschrittliche und neue Stichprobenmethoden entwickelt und eingesetzt werden, wobei für jede Zielgruppe in jedem Land das bestmögliche Design gewählt wurde. Für einige Zielgruppen in einigen Ländern wurde eine Kombination verschiedener Methoden verwendet, um eine bessere Abdeckung der Zielpopulation zu gewährleisten. Detaillierte Beschreibungen der verwendeten Stichprobenmethoden sind in einem eigenen technischen Bericht veröffentlicht.
+In einigen Ländern musste der Erfassungsgrad aus Effizienzgründen reduziert werden. Das bedeutet, dass bei der mehrstufigen Stichprobenziehung Gebiete mit einer geringeren Dichte der Zielbevölkerung ausgeschlossen wurden, weil ein Screening der Zielbevölkerung nicht möglich gewesen wäre. Die mediane Abdeckung über Länder und Zielgruppen hinweg lag bei 60 % der Zielbevölkerung.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Probability: Simple random; Non-probability: Quota; Mixed probability and non-probability; Sampling Procedure Comment: Most of the target groups in EU-MIDIS II can be considered as ‘hard-to-reach’ for survey research – in terms of being relatively small in size and/or dispersed – and due the absence of sampling frames of the target groups. Whenever possible, a sample was drawn from a sampling frame covering the target population. However, the opportunities to sample the target population differed greatly across Member States due to different availability of sampling frames and distribution of the target group in the countries (i.e. list of persons that can be used to make a controlled representative selection of the target group). Advanced and new sampling methodologies had to be developed and employed in most countries, and the best possible design was chosen for each target group in each of the countries. For some target groups in some countries, a combination of different methods was used to ensure better coverage of the target population. Detailed descriptions of sampling methods used are published in a dedicated Technical Report.
+National coverage in some countries had to be reduced for efficiency reasons. This means that in multistage sampling, areas with lower densities of the target population were excluded because screening of the target population would not have been possible. The median coverage across countries and target groups was 60 % of the target population.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2015-09-24</date>
+				</startDate>
+				<endDate>
+					<date>2016-09-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Varies from country to country; overall duration </freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Ipsos MORI, United Kingdom</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Rossalina</firstName>
+				<middleName/>
+				<lastName>Latcheva</lastName>
+				<contributorType>ProjectManager</contributorType>
+				<affiliation>
+					<affiliationName>Fair and Equal Societies, Research and Data Unit, European Union Agency for Fundamental Rights</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>The main interview mode for EU-MIDIS II was Computer Assisted Personal Interview (CAPI) – that is, face-to-face interviews administered by interviewers using a computerised questionnaire. </freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>77656</numberUnits>
+			<numberVariables>1283</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Gewichtung:
+Die Umfrageergebnisse basieren auf gewichteten Daten, um die Auswahlwahrscheinlichkeiten der einzelnen Haushalte und Einzelpersonen aufgrund des Stichprobendesigns widerzuspiegeln. Die Gewichte berücksichtigen auch die Unterschiede in der (geschätzten) Größe der Zielbevölkerung in jedem der Länder. Wo es möglich war, wurde die Stichprobe entsprechend der regionalen Verteilung und den Bevölkerungsmerkmalen der erfassten Zielpopulation nachstratifiziert. In Finnland und den Niederlanden wurde die Stichprobe auch an die Geschlechts- und Altersverteilung angepasst. Die Stichprobe in den Niederlanden wurde zusätzlich nach Generation (erste oder zweite Generation), Herkunftsland für Einwanderer und Nachkommen von Einwanderern aus Nordafrika und Alter bereinigt. Für die Statistik wurden die Stichproben nach ihrer geschätzten Größe gewichtet, was bedeutet, dass Länder- und Gruppenvergleiche die geschätzte Gesamtgröße der Zielgruppen pro Land berücksichtigen und nicht (direkt) die Stichprobengrößen widerspiegeln.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Weighting: 
+The survey results are based on weighted data to reflect the selection probabilities of each household and individual based on the sampling design. The weights also account for the differences in the (estimated) size of the target population in each of the countries. Where possible, the sample was post-stratified to the regional distribution and population characteristics of the covered target population.  In Finland and the Netherlands, the sample was also adjusted to the gender and age distribution. The sample in the Netherlands was further adjusted according to generation (first- or second-generation), country of origin for immigrants and descendants of immigrants from North Africa, and age. For statistics, the samples were weighted by their estimated size, which means that country and group comparisons take the estimated total size of the target groups per country into account and do not (directly) reflect the sample sizes.
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>FRA (European Union Agency for Fundamental Rights) (2017), Second European Union Minorities and Discrimination Survey - Main results, Luxembourg, Publications Office of the European Union (Publications Office). Available at: https://fra.europa.eu/en/publication/2017/eumidis-ii-main-results </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>FRA (European Union Agency for Fundamental Rights) (2017), Second European Union Minorities and Discrimination Survey - Technical report, Luxembourg, Publications Office of the European Union (Publications Office). Available at: https://fra.europa.eu/en/publication/2017/eumidis-ii-technical-report</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

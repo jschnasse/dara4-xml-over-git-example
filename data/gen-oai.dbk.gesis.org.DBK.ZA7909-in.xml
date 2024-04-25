@@ -1,0 +1,231 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Current Questions on Migration / Integration (July 2022)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Aktuelle Fragen zur Migration / Integration (Juli 2022)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7909</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Aktuelle Fragen zur Migration / Integration (Juli 2022)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Current Questions on Migration / Integration (July 2022)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Presse- und Informationsamt der Bundesregierung, Berlin</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7909?doi=10.4232/1.14041</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.14041</doiProposal>
+	<publicationDate>
+		<date>2023-01-21</date>
+	</publicationDate>
+	<publicationPlace>Cologne, Germany</publicationPlace>
+	<publisher>
+		<institution>
+			<institutionName>GESIS</institutionName>
+		</institution>
+	</publisher>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7909</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT10</identifier>
+					<!-- Staat -->
+					<identifier>KAT14</identifier>
+					<!-- Politische Fragen (Issues) -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Government, political systems and organisations</term>
+					<term>Political behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Kurzumfrage über Aktuelle Fragen zur Migration / Integration wurde vom Meinungsforschungsinstitut Kantar im Auftrag des Presse- und Informationsamts der Bundesregierung durchgeführt. Im Erhebungszeitraum 13.07.2022 bis 19.07.2022 wurde die deutschsprachige Bevölkerung ab 14 Jahren in telefonischen Interviews (CATI) zu ihrer Einstellung zu Migration und Integration befragt. Schwerpunkt ist dabei die Einstellung zu Flüchtlingsfragen, insbesondere zu Flüchtlingen aus der Ukraine. Die Auswahl der Befragten erfolgte durch eine mehrstufige Zufallsstichprobe im Rahmen einer Mehrthemenbefragung (Emnid-Bus) unter Einschluss von Festnetz- und Mobilfunknummern (Dual-Frame Stichprobe).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Sorgen darüber, dass so viele Flüchtlinge in Deutschland sind (Split A), Sorgen über die aktuellen Flüchtlingszahlen in Deutschland (Split B); kurzfristige und langfristige Prognose hinsichtlich der Vorteile oder Nachteile für Deutschland durch die Aufnahme von Flüchtlingen; Bewältigung der Flüchtlingssituation seitens der Bundesregierung (kommt eher voran vs. eher nicht voran; Bewertung der Zusammenarbeit der EU-Mitgliedsstaaten bei der Bewältigung der Flüchtlingssituation vor dem Hintergrund des Kriegs in der Ukraine; Fähigkeit Deutschlands, noch mehr Flüchtlinge aus der Ukraine aufzunehmen; Bewertung von Aufenthaltsrecht und Arbeitserlaubnis ohne Asylverfahren für Flüchtlinge aus der Ukraine; Bewertung von Asylverfahren für Flüchtlinge aus anderen Ländern wie Syrien oder Afghanistan; Unterbringung von Flüchtlingen bzw. Asylbewerbern in der Wohngegend; bisher eher positive oder eher negative Erfahrungen mit der Unterbringung von Flüchtlingen bzw. Asylbewerbern in der Wohngegend.
+Demographie: Geschlecht; Alter; Bildung; Berufstätigkeit; Haushaltsgröße; Anzahl der Personen im Haushalt ab 14 Jahren; Parteipräferenz; Wahlberechtigung; Haushaltsnettoeinkommen; Erhebung per Mobilfunk oder Festnetz.
+Zusätzlich verkodet wurde: laufende Befragtennummer; Gewichtungsfaktor; Interviewdatum; Ortsgröße (BIK-Regionen); Bundesland; Befragungsgebiet West/Ost.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The short survey on Current Questions on Migration / Integration was conducted by the opinion research institute Kantar on behalf of the Press and Information Office of the Federal Government. During the survey period 13.07.2022 to 19.07.2022, the German-speaking population aged 14 and over was surveyed in telephone interviews (CATI) on their attitudes toward migration and integration. The focus is on attitudes toward refugee issues, especially refugees from Ukraine. Respondents were selected by a multi-stage random sample in a multi-topic survey (Emnid bus) including landline and mobile phone numbers (dual-frame sample).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Concerns about having so many refugees in Germany (split A), concerns about current refugee numbers in Germany (split B); short-term and long-term prognosis regarding the advantages or disadvantages for Germany of accepting refugees; management of the refugee situation on the part of the German government (tends to make progress vs. rather not progressing; assessment of the cooperation of EU member states in coping with the refugee situation against the background of the war in Ukraine; ability of Germany to take in even more refugees from Ukraine; assessment of residence rights and work permits without asylum procedures for refugees from Ukraine; assessment of asylum procedures for refugees from other countries such as Syria or Afghanistan; housing of refugees or asylum seekers in the residential area; so far rather positive or rather negative experiences with housing of refugees or asylum seekers in the residential area.
+Demography: sex; age; education; employment status; household size; number of persons in the household aged 14 and over; party preference; voter eligibility; net household income; survey by mobile or landline.
+Additonally coded was: current respondent number; weighting factor; interview date; city size (BIK regions); federal state; survey area west/ east.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutschsprachige Bevölkerung ab 14 Jahren in Privathaushalten in der Bundesrepublik Deutschland. Auswahlgesamtheit sind die Privathaushalte in der Bundesrepublik mit mindestens einem Festnetzanschluss sowie Personen mit mindestens einem Mobiltelefon.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German-speaking population aged 14 and over in private households in the Federal Republic of Germany. The sample population consists of private households in the Federal Republic of Germany with at least one fixed network connection and persons with at least one mobile phone.
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Kombinierte Festnetz- und Mobilfunk-Stichprobe (Dual-Frame-Ansatz (80 % Festnetz, 20 % Mobil) im Rahmen einer Mehrthemenbefragung (Emnid-Bus)
+Die Telefonnummern der Festnetzstichprobe wurden per ”Random Last Two Digits - RL(2)DVerfahren” in Anlehnung an das sogenannte Gabler/ Häder-Verfahren generiert. Innerhalb der Haushalte wurden die zu befragenden Personen systematisch per Zufallsschlüssel ausgewählt.
+Die Mobilfunkstichprobe wurde analog gezogen, allerdings entfiel hier die regionale Schichtung, da aus dem ADM-Mobilfunksample keine Regionalinformationen zu den Nummernstämmen verfügbar sind. Da Mobiltelefone fast ausschließlich von einer Person genutzt werden, entfiel für die Mobilfunkstichprobe zudem die systematische Zielpersonenauswahl.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Combined landline and mobile phone sample (dual frame approach (80% landline, 20% mobile) within the framework of a multi-topic survey (EMNIDbus).
+The telephone numbers of the fixed-network sample were generated by the ´Random Last Two Digits - RL(2)DV method´ following the so-called Gabler/Häder method. Within the households, the persons to be interviewed were systematically selected by random key.
+The mobile phone sample was drawn in the same way, but here the regional stratification was omitted, since no regional information on the number trunks is available from the ADM mobile phone sample. Since mobile phones are almost exclusively used by one person, the systematic target person selection was also omitted for the mobile phone sample.
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2022-07-13</date>
+				</startDate>
+				<endDate>
+					<date>2022-07-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Kantar, München</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>1499</numberUnits>
+			<numberVariables>30</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Migration – Juli 2022 : Auswertungen zu Studie ZA7909 – Aktuelle Fragen zur Migration / Integration (Juli 2022).
+Herausgeber: Kantar</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

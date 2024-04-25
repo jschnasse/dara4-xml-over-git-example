@@ -1,0 +1,290 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Immigration of Skilled Workers'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Fachkräfteeinwanderung'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA6722</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Fachkräfteeinwanderung</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Immigration of Skilled Workers</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Presse- und Informationsamt der Bundesregierung</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6722?doi=10.4232/1.13303</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13303</doiProposal>
+	<publicationDate>
+		<date>2019-06-28</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6722</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT14</identifier>
+					<!-- Politische Fragen (Issues) -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Minderheiten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Government, political systems and organisations</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Minorities</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Fremdenfeindlichkeit</term>
+					<term>Sprachdiskriminierung</term>
+					<term>Terrorismus</term>
+					<term>Kriminalität</term>
+					<term>Migrationspolitik</term>
+					<term>Einbürgerungsmaßnahmen</term>
+					<term>Fluchtgrund</term>
+					<term>Wirtschaftsmigrant*innen</term>
+					<term>Intergruppenkontakt</term>
+					<term>Integration</term>
+					<term>Assimilation</term>
+					<term>Realistische Bedrohungswahrnehmungen</term>
+					<term>Symbolische Bedrohungswahrnehmungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Migrationsgeschichte</term>
+					<term>Ost-Deutschland</term>
+					<term>West-Deutschland</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Xenophobia</term>
+					<term>Language discrimination</term>
+					<term>Terrorism</term>
+					<term>Criminality</term>
+					<term>Migration policy</term>
+					<term>Naturalisation measures</term>
+					<term>Reasons for fleeing a country</term>
+					<term>Economic migrants</term>
+					<term>Intergroup contact</term>
+					<term>Integration</term>
+					<term>Assimilation</term>
+					<term>Realistic threat perceptions</term>
+					<term>Symbolic threat perceptions</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Migrationsgeschichte</term>
+					<term>Ost-Deutschland</term>
+					<term>West-Deutschland</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellungen zu Einwanderung im Allgemeinen, zur Integration und zur Fachkräfteeinwanderung.
+Einstellungen zu Einwanderung im Allgemeinen: Einstellung zum Thema Einwanderung in Deutschland (Skala); Bedeutung der Einwanderungspolitik; Zufriedenheit mit der Einwanderungspolitik der Bundesregierung im Hinblick auf: Sorgen der  Bevölkerung, Verdeutlichung von Zielen und Maßnahmen der Einwanderungspolitik, Integrationsbemühungen in die deutsche Gesellschaft und den Arbeitsmarkt, europäische Lösung für die Einwanderung nach Europa sowie die Einwanderungspolitik im Allgemeinen; wichtiges Kriterium für Einwanderung (z.B. in Deutschland nachgefragter Beruf, Familienangehörige in Deutschland, politische Verfolgung im Heimatland, Universitätsabschluss, keine Straffälligkeit im Heimatland, gute Deutschkenntnisse, etc. ); Möglichkeiten der Politik, Einwanderung zu steuern und zu kontrollieren; Umgang mit abgelehnten Asylbewerbern bzw. mit straffällig geworden Asylbewerbern (Abschiebung vs. Duldung unter bestimmten Bedingungen, Split-Half). 
+Einstellung zur Integration: Beurteilung des Zusammenlebens von Deutschen und Einwanderern;  Häufigkeit verschiedener Gründe für Einwanderung nach Deutschland (Bürgerkrieg im Heimatland, Perspektivlosigkeit, gute soziale Sicherungssysteme in Deutschland,  Hoffnung auf mehr Geld, Arbeitslosigkeit, Verfolgung im Heimatland aus politischen bzw. religiösen Gründen, Hunger- oder Naturkatastrophe im Heimatland, Teil der Familie lebt in Deutschland, Gefallen an Land und Leuten in Deutschland).
+Fachkräfteeinwanderung: Meinung zur Zuwanderung hochqualifizierter Fachkräfte aus dem Ausland (Zuwanderung von Fachkräften erlauben wenn sich hierzulande niemand findet vs. Qualifizierung von Arbeitslosen); Einschätzung des Fachkräftemangels in Deutschland; Fachkräftemangel als Aufgabe für Unternehmen oder für die Politik; Bereiche mit Fachkräftemangel in Deutschland (Pflege, Medizin, Computerbranche/ Digitalbereich, Handwerk, Industrie, Gastronomie, Tourismus, Einzelhandel , weitere - offen); Wichtigkeit verschiedener Maßnahmen zur Bekämpfung des Fachkräftemangels in Deutschland (Qualifizierung bereits in Deutschland lebender Menschen, Anwerbung von  Fachkräften aus dem europäischen Ausland bzw. aus dem nicht-europäischen Ausland); Bewertung verschiedener  Maßnahmen zur Regelung der Zuwanderung zu Arbeits- und Ausbildungszwecken; Arbeitserlaubnis für qualifizierte Einwanderer in allen Berufen vs. nur in Berufen mit Engpass; Bewertung der geltenden Regelung zur Einreise von Arbeit suchenden Ausländern mit Hochschulabschluss; Befürwortung der Anwendung dieser Regelung auch für die Einreise von Ausländern mit einer anerkannten Berufsausbildung; erwartete Folgen des geplanten Fachkräfteeinwanderungsgesetzes (deutliche Abnahme des Fachkräftemangels, bessere Steuerung und Kontrolle der Einwanderung, wirtschaftliche Entwicklung Deutschlands wird profitieren, Stabilisierung der sozialen Sicherungssysteme, Wohlstandssicherung, Bereicherung des Lebens in Deutschland, Löhne werden deutlich sinken, zunehmende Konkurrenz auf dem Arbeitsmarkt, Verlust deutscher Kultur und Eigenart, weitere Parallelgesellschaften, zunehmende Kriminalität, steigende Terrorgefahr, kulturelle Konflikte);  persönlicher Kontakt zu nicht in Deutschland geborenen Personen am Arbeitsplatz, im Freundeskreis, in der Nachbarschaft und in der Familie; Gefühl in der Gesellschaft eher bevorzugt, eher benachteiligt oder angemessen behandelt zu werden; Parteipräferenz.
+Demographie: Geschlecht; Alter; Bildung ; Berufstätigkeit; berufliche Stellung; Familienstand; Haushaltsgröße; Anzahl der Personen im Haushalt ab 18 Jahren; Migrationshintergrund; Haushaltsnettoeinkommen.
+Zusätzlich verkodet wurde: Befragten ID; Bundesland; Ortsgröße; Gewichtungsfaktor.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Attitudes towards immigration in general, integration and immigration of skilled workers.
+Attitude towards immigration in general: attitude towards immigration in Germany (scale); significance of immigration policy; satisfaction with the immigration policy of the Federal Government with regard to: concerns of the population, clarification of objectives and measures of immigration policy, integration efforts into German society and the labour market, European solution for immigration to Europe as well as immigration policy in general; important criterion for immigration (e.g. occupation in demand in Germany, family members in Germany, political persecution in the home country, university degree, no delinquency in the home country, good knowledge of German, etc.); policy options for managing and controlling immigration; dealing with rejected asylum seekers or with asylum seekers who have committed crimes (deportation vs. toleration under certain conditions, split-half).
+Attitude towards integration: assessment of the coexistence of Germans and immigrants; frequency of various reasons for immigration to Germany (civil war in the home country, lack of prospects, good social security systems in Germany, hope for more money, unemployment, persecution in the home country for political or religious reasons, famine or natural disaster in the home country, part of the family lives in Germany, favours on the country and people in Germany).
+Immigration of skilled workers: opinion on the immigration of highly qualified skilled workers from abroad (allow immigration of skilled workers if no one can be found in Germany vs. qualification of the unemployed); assessment of the shortage of skilled workers in Germany; shortage of skilled workers as a task for companies or politicians; areas with a shortage of skilled workers in Germany (nursing, medicine, the computer sector/ digital sector, crafts, industry, gastronomy, tourism, retail trade , others - open); importance of various measures to combat the shortage of skilled workers in Germany (qualification of people already living in Germany, recruitment of skilled workers from other European countries or from non-European countries); evaluation of various measures to regulate immigration for work and training purposes; work permits for qualified immigrants in all occupations vs. only in occupations with a bottleneck; evaluation of the current regulation on the entry of foreigners with a university degree seeking employment; advocacy of the application of this regulation also for the entry of foreigners with recognised vocational training; expected consequences of the planned Immigration Act for skilled workers (significant reduction in the shortage of skilled workers, better management and control of immigration, Germany´s economic development will benefit, stabilisation of social security systems, securing prosperity, enrichment of life in Germany, wages will fall significantly, increasing competition on the labour market, loss of German culture and idiosyncrasy, further parallel societies, increasing crime, increasing danger of terrorism, cultural conflicts); personal contact with people not born in Germany at work, in the circle of friends, in the neighbourhood and in the family; feeling in society rather preferred, rather disadvantaged or appropriately treated; party preference.
+Demography: sex; age; education; occupation; occupational status; marital status; household size; number of persons in the household aged 18 and over; migration background; net household income.
+Additionally coded was: respondent ID; federal state; local size; weighting factor.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutschsprachige Bevölkerung ab 18 Jahren</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Resident population aged 18 and over in private households</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2018-11-02</date>
+				</startDate>
+				<endDate>
+					<date>2018-11-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Infrastest dimap, Berlin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>1000</numberUnits>
+			<numberVariables>104</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie wurde im Auftrag des Bundespresseamtes durchgeführt.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The study was carried out on behalf of the Federal Press Office.</text>
+		</note>
+	</notes>
+</resource>

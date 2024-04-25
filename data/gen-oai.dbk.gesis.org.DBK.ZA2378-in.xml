@@ -1,0 +1,338 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Politbarometer West 1993 (Cumulated Data Set) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Politbarometer West 1993 (Kumulierter Datensatz)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch; Text</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric; Text</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA2378</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Politbarometer West 1993 (Kumulierter Datensatz)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Politbarometer West 1993 (Cumulated Data Set) 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Manfred</firstName>
+				<middleName/>
+				<lastName>Berger</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Matthias</firstName>
+				<middleName/>
+				<lastName>Jung</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Dieter</firstName>
+				<middleName/>
+				<lastName>Roth</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2378?doi=10.4232/1.2378</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.2378</doiProposal>
+	<publicationDate>
+		<year>1994</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2378</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Arbeitsbedingungen</term>
+					<term>Migration</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Konflikte, Sicherheit und Frieden</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+					<term>Inanspruchnahme sozialer Dienstleistungen</term>
+					<term>Sozialsysteme und Strukturen der Sozialfürsorge</term>
+					<term>TRANSPORT UND REISEN</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Wirtschaftspolitik, öffentliche Ausgaben und Einnahmen</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Working conditions</term>
+					<term>Migration</term>
+					<term>International politics and organisations</term>
+					<term>Conflict, security and peace</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+					<term>Specific social services: use and availability</term>
+					<term>Social welfare systems/structures</term>
+					<term>TRANSPORT AND TRAVEL</term>
+					<term>Economic conditions and indicators</term>
+					<term>Economic policy,  public expenditure and revenue</term>
+					<term>Economic systems and development</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Politbarometer werden seit 1977 etwa monatlich von der Forschungsgruppe Wahlen für das Zweite Deutsche Fernsehen (ZDF) durchgeführt. Seit 1990 steht diese Datenbasis auch für die neuen Bundesländer zur Verfügung. Im Zentrum der Untersuchung stehen die Meinungen und Einstellungen der wahlberechtigten Bevölkerung in der Bundesrepublik zu aktuellen politischen Themen, Parteien und Politikern sowie dem Wahlverhalten. 1990 bis 1995 und ab 1999 wurden die Politbarometer-Umfragen in den neuen und alten Bundesländern getrennt durchgeführt (Politbarometer Ost bzw. Politbarometer West). Die monatlichen Einzelumfragen eines Jahres werden in einen kumulierten Datensatz integriert, der alle Erhebungen eines Jahres und alle Variablen des jeweiligen Jahrganges umfasst. Ab 2003 sind die Politbarometer-Kurzbefragungen, die unterschiedlich häufig im Jahr erhoben werden, in die Jahreskumulation integriert.  </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Wichtigste Probleme in Deutschland; Parteipräferenz(Bundestagswahl, Landtagswahl, Sonntagsfrage undRangordnungsverfahren); Wahlverhalten bei der letztenBundestagswahl und der letzten Landtagswahl; Sympathie-Skalometer für die Parteien, die Koalition, die Opposition, dieLandesregierung und ausgewählte Bundespolitiker;Selbsteinstufung auf einem Links-Rechts-Kontinuum; eigeneArbeitsplatzsicherheit; Kompetenz der Regierung bzw. derOpposition bei der Lösung der wirtschaftlichen Probleme inOstdeutschland; Gewerkschaftsmitgliedschaft; Religiosität;Parteineigung und Parteiidentifikation; Zusammenleben mit einemPartner.
+Zusätzlich verkodet wurde: Befragungstag.
+Über diesen gemeinsamen Teil für alle Erhebungsmonate desJahres 1993 hinaus wurde in mindestens einem weiterenErhebungsmonat zusätzlich gefragt: Einschätzung derZerstrittenheit der Bundesparteien; wichtigste Politiker imLande; Bundeskanzlerpräferenz; Demokratiezufriedenheit;Wohlfühlen in Deutschland und Interesse an einer Auswanderung;richtige Leute in den führenden Stellungen; Politikinteresse;allgemeine Beurteilung des Zustands der Gesellschaft sowieVergleich mit anderen westlichen Gesellschaften; allgemeineBeurteilung der Vereinigung Deutschlands und erfülltepersönliche Erwartungen an die Vereinigung; allgemeineBeurteilung der Wirtschaftsentwicklung in Deutschland und dereigenen wirtschaftlichen Lage; Wunsch nach Trennung der beidendeutschen Staaten; Zufriedenheit mit der Angleichung derLebensverhältnisse zwischen Ost und West; ausreichendeAktivitäten der Bundesregierung für eine solche Angleichung;ausreichender Einsatz der westdeutschen Wirtschaft und derostdeutschen Bevölkerung zur Entwicklung Ostdeutschlands;zuviel Gejammer in der öffentlichen Meinung; Beurteilung derArbeit der Treuhandanstalt; Kompetenz der Regierung bzw. derOpposition in Sachen Geldwertstabilität, Staatsschulden undWohlstandssicherung; empfundene Bedrohung durch Kriminalität;Notwendigkeit von Steuererhöhungen zur Finanzierung derdeutschen Einheit; Kenntnis des Solidarpakts zwischenBundesregierung, SPD-Opposition und Ländern sowie Beurteilungdes Solidarpakts; Einstellung zur Wiedereinführung desSolidaritätszuschlags und präferierter Zeitpunkt dafür;Einstellung zur Kürzung von Sozialleistungen und zu einerArbeitsmarktabgabe für Beamte, Selbständige und besserVerdienende; präferierte Sparvorschläge bei denSozialleistungen; Beurteilung der von der Bundesregierungdurchgeführten Kürzungen im Sozialbereich; Einstellung zu einerKürzung des Arbeitslosengeldes; vermuteter Umfang desMißbrauchs von Sozialleistungen; erwarteter Erfolg desRegierungsprogramms zur Bekämpfung des Mißbrauchs; Einstellungzum Verkauf von Staatsvermögen zur Vermeidung vonSteuererhöhungen; Beurteilung der Streitkultur in wichtigenFragen; Vorteilhaftigkeit der EG-Mitgliedschaft für diedeutsche Bevölkerung; Beurteilung der Geschwindigkeit dereuropäischen Einigung und Präferenz für die Vertiefung derBindung zwischen den derzeitigen EG-Ländern oder für dieAufnahme neuer Länder; Präferenz für eine SelbständigkeitDeutschlands oder für einen stärkeren Zusammenschluß zu einemeuropäischen Staat; Vorteilhaftigkeit des europäischenBinnenmarkts und Einstellung zu einer europäischen Währung;Vergleich der Stabilität einer europäischen Währung und der DM;eigenes Stimmverhalten im Falle einer Abstimmung über dieBeschlüsse von Maastricht; präferierte Länder für eineNeuaufnahme in die EG; zuviele Ausländer in Deutschland;Einstellung zum Kommunalwahlrecht für Ausländer und zumerleichterten Erwerb der deutschen Staatsbürgerschaft;Einstellung zur doppelten Staatsbürgerschaft; vermuteterAsylrechtsmißbrauch; kompetenteste Partei zur Lösung desAsylbewerberproblems; erwartete Wirksamkeit derAsylrechtsänderung nach dem Kompromiß zwischen Regierung undOpposition; Einstellung zu einem sofortigen Abschieben vonAsylbewerbern aus Ländern, in denen es keine politischeVerfolgung gibt; Nähe zu Asylbewerberunterkünften; erlebteProbleme mit Asylbewerbern; Einstellung zu einer vermehrtenoder verringerten Aufnahme von Asylbewerbern; Verständnis fürdie gewalttätigen Ausschreitungen gegen Asylbewerber; Schämenfür diese Gewalttätigkeit; Einstellung zum Einsatz vonInfrarot- und Radaranlagen zur Bekämpfung der illegalenEinwanderung; Notwendigkeit von schärferen Gesetzen zurBekämpfung des Rechtsextremismus; Einstellung zur Bezeichnungder Republikaner als neue Nazis; überzeugte Anhänger oderProtestwähler bei den Wahlen; Einstellung zur Übernahmevermehrter Verantwortung des vereinigten Deutschlands in derWeltpolitik; Einstellung zu Kampfeinsätzen der Bundeswehr imRahmen der UNO; Einstellung zur Bombardierung militärischerZiele im Irak durch Amerikaner, Franzosen und Engländer;Einstellung zur Teilnahme deutscher Soldaten in den AWACS-Aufklärungsflugzeugen zur Durchsetzung des Flugverbots überBosnien-Herzegowina; Einverständnis mit militärischen Aktionender UNO gegen Serbien sowie Einstellung zu einer Beteiligungder Bundeswehr; Einstellung zu Bundeswehreinsätzen in Somalia;Beurteilung der Entscheidung des Bundesverfassungsgerichts zumSomalia-Einsatz der Bundeswehr; Einstellung zur MitgliedschaftDeutschlands im UN-Sicherheitsrat; vermehrter Einsatz vonMännern im Zivildienst, bei einem Überschuß an Wehrpflichtigen;Zivildienst für Frauen; Einstellung zu einer wehrpflichtigenArmee oder Präferenz für Berufssoldaten; Einstellung zu einerVerringerung der Bundeswehr; Einschätzung der Gefährdung desFriedens in Europa; Forderung nach höheren moralischenMaßstäben bei Politikern; eigener Wunsch, Politiker zu werden;Beurteilung der Berichterstattung der Medien über politischeAffären; Beurteilung der Arbeit der Bundesregierung underwartete Verbesserung im Falle einer SPD-Regierung; erwarteterWahlsieger bei der nächsten Bundestagswahl; Präferenz für einenmännlichen oder weiblichen Bundeskanzler; Beurteilung von BjörnEngholm als Kanzlerkandidat der SPD; Kenntnis der Geldübergabedes ehemaligen SPD-Landesvorsitzenden in Schleswig-HolsteinGünther Jansen an Rainer Pfeiffer sowie Beurteilung derGlaubwürdigkeit Jansens, keine Gegenleistung erhalten zu haben;Beurteilung des Rücktritts von Verkehrsminister Krause sowiedes Rücktritts von Björn Engholm; Einschätzung derInformiertheit der SPD in der Barschel-Affäre; Beurteilung desSeiters-Rücktritts; präferierter Kanzlerkandidat für die SPD;Einstellung zur Mitgliederbefragung der SPD über den künftigenParteivorsitzenden; Einstellung zum Abhören von Gesprächen inPrivaträumen zur Bekämpfung des organisierten Verbrechens;Präferenz für oder gegen Polizeieinheiten wie die GSG-9;grundsätzliche Einstellung zur Idee des Sozialismus;Einstellung zur Abtreibung und Partei, die in derAbtreibungsfrage die Interessen des Befragten vertritt;Beurteilung der Entscheidung des Bundesverfassungsgerichts zurNeuregelung des Abtreibungsgesetzes; Einstellung zurAbschaffung der Kostenübernahme einer Abtreibung durch dieKrankenkassen; Präferenz für einen ostdeutschen oderwestdeutschen Kandidaten für das Bundespräsidentenamt;Bundespräsidentenpräferenz; Wichtigkeit desBundespräsidentenamtes; Beurteilung der Einstellung desVerfahrens gegen Erich Honecker; Einstellung zum vermehrtenStraßenbau zur Verringerung von Staus; erwartete Verteuerungdes Autofahrens; Einstellung zur Einführung vonAutobahngebühren; Präferenz für Mineralölsteuererhöhung oderAutobahngebühr; Einstellung zur Privatisierung von Autobahnen;Einstellung zu Kernkraftwerken; Einstellung zur Verkürzung derSchulzeit an Gymnasien auf 12 Jahre; Einstellung zur Einführungeiner Pflegeversicherung; Präferenz für die Aufteilung derPflegekosten auf den Staat, Arbeitnehmer und Arbeitgeber;Präferenz für die Einführung eines Karenztages, den Wegfalleines Urlaubstages oder staatlichen Feiertags zur Finanzierungder Pflegeversicherung; Einstellung zu einer verringertenLohnerhöhung im Westen zur Angleichung der Gehälter; gewünschteTariferhöhung oberhalb oder unterhalb der Inflationsrate;Einschätzung des Lohnanstiegs in Ostdeutschland gemessen an derwirtschaftlichen Lage; Einstellung zum Verzicht aufLohnerhöhungen, um den Erhalt von Arbeitsplätzen zu sichern;Einstellung zum Vorschlag von Lafontaine zum verringertenAnstieg der Löhne in Ostdeutschland; gerechtfertigteLohndifferenzen zwischen Ost- und Westdeutschland; erwartetesLohnniveau für die Zukunft; Einstellung zu einem begrenztenLohnverzicht im Falle einer schwierigen wirtschaftlichen Lagedes Unternehmens; Einstellung zu einer Vier-Tage-Woche mitLohnverzicht; Präferenz für Vollzeitbeschäftigung oderTeilzeitbeschäftigung; Einstellung zu einem reduziertenEinstiegslohn für Arbeitslose; Einstellung zurunterschiedlichen Bezahlung der Politiker in Ost- undWestdeutschland; Beurteilung der für 1993 vorgesehenen 26%igenLohnerhöhung in der ostdeutschen Metallindustrie; Einschätzungder Verkraftbarkeit solcher Erhöhungen für die Betriebe;Einstellung zu einem Streik wegen der Kündigung desMetalltarifvertrags; befürchteter Verlust von Arbeitsplätzendurch die 26%ige Lohnerhöhung; Einstellung zu einer Rückkehrzur 40-Stunden-Woche mit bzw. ohne vollen Lohnausgleich;Einstellung zu einer verlängerten Arbeitszeit für Beamte ohneGehaltserhöhung; Präferenz für eine Abschaffung derKirchensteuer; Einstellung zu einer verstärkten finanziellenUnterstützung Rußlands; Einstellung zur Parteinahme derBundesregierung für Boris Jelzin; vermutetes Ergebnis derrussischen Volksabstimmung in bezug auf Boris Jelzin; erwarteteNachteile für die Deutschen durch die politischen Probleme inder ehemaligen Sowjetunion; früheres Wohnen in der DDR undZeitpunkt der Übersiedlung; militärische Bedrohung Deutschlandsdurch die Probleme in der ehemaligen Sowjetunion; Einstellungzum Umzug der Regierung nach Berlin und präferierteUmzugsgeschwindigkeit; Wohnzufriedenheit; Mieterstatus;Beurteilung des aktuellen Mietpreises; Einstellung zu einerOlympiabewerbung Berlins und zur Änderung derLadenschlußgesetze; Rückblick auf das vergangene Jahr undAusblick auf das zukünftige Jahr.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The Politbarometer has been conducted since 1977 on an almost monthly basis by the Forschungsgruppe Wahlen on behalf of the Second German Television (ZDF). Since 1990, this database has also been available for the new German states. The survey focuses on the opinions and attitudes of the voting-age population in the Federal Republic on current political issues, parties, politicians, and voting behavior. From 1990 to 1995 and from 1999 onward, the Politbarometer surveys were conducted separately both in the newly formed eastern and in the western German states (Politbarometer East and Politbarometer West). The separate monthly surveys of a year are integrated into a cumulative data set that includes all surveys of a year and all variables of the respective year. Starting in 2003, the Politbarometer short surveys, collected with varying frequency throughout the year, are integrated into the annual cumulation.  </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Judgement on parties and attitude to current political questions.Topics: Most important problems in Germany; party preference (FederalParliament election, state parliament election, Sunday question andrank order procedure); behavior at the polls in the last FederalParliament election and the last state parliament election; sympathyscale for the parties, coalition, opposition, state government andselected federal politicians; self-classification on a left-rightcontinuum; personal job security; ability of the government oropposition in solving economic problems in Eastern Germany; unionmembership; religiousness; party inclination and party identification;living together with a partner. Also encoded was: day of survey. Beyondthis common part for all survey months of 1993 the following questionswere also posed in at least one further survey month: assessment of thedisagreement of the federal parties; most important politicians in thecountry; preference for federal chancellor; satisfaction withdemocracy; sense of well-being in Germany and interest in emigrating;the right people in leading positions; interest in politics; generaljudgement on the condition of society as well as comparison with otherwestern societies; general judgement on the unification of Germany andfulfilled personal expectations in unification; general judgement onthe economic development in Germany and one´s own economic situation;desire for separation of the two German nations; satisfaction withachievement of equivalent living conditions in east and west; adequateactivities of the Federal Government for such an equalization; adequateeffort of West German economy and East German population to developEastern Germany; too much complaining in the public opinion; judgementon the job of the trust-company; ability of the government oropposition regarding stability of monetary value, national debt andsecuring prosperity; perceived threat from crime; necessity of taxincreases to finance German unity; knowledge about the solidarity pactbetween the Federal Government, SPD opposition and states as well asjudgement on the solidarity pact; attitude to reintroduction of thesolidarity tax and preferred point in time for this; attitude toreduction in social services and a job market tax for civil servants,self-employed and higher earners; preferred savings recommendations forsocial services; judgement on the reductions in the social areaintroduced by the Federal Government; attitude to reduction of theearnings-related unemployment benefit; assumed extent of abuse ofsocial services; expected outcome of the government program to combatabuse; attitude to sale of government assets to avoid tax increases;judgement on the disputes in important questions; advantageousness ofEC membership for the German population; judgement on the speed ofEuropean unification and preference for deepening the tie betweencurrent EC countries or for admission of new countries; preference forindependence of Germany or for a stronger merger into a Europeannation; advantageousness of the European domestic market and attitudeto a European currency; comparison of stability of a European currencyand the DM; personal voting in case of a vote on the Maastricht Treaty;preferred countries for new admission into the EC; too many foreignersin Germany; attitude to the right to vote in municipal elections forforeigners and making acquisition of German citizenship easier;attitude to dual citizenship; assumed abuse of the right to asylum;party most able to solve the problem of applicants for asylum; expectedeffectiveness of change in the right to asylum after the compromisebetween government and opposition; attitude to immediate deportation ofapplicants for political asylum from countries in which there is nopolitical persecution; proximity to accomodations for applicants forpolitical asylum; problems experienced with applicants for politicalasylum; attitude to increase or reduction in admission of applicantsfor political asylum; understanding for violent demonstrations againstapplicants for political asylum; being ashamed due to these acts ofviolence; attitude to use of infrared and radar facilities to combatillegal immigration; necessity of stricter laws to combat right-wingextremism; attitude to designation of Republicans as new Nazis;dedicated supporters or protest voters in the elections; attitude toacceptance of increased responsibility in world politics by unitedGermany; attitude to combat missions of the Federal German Armed Forcesin the framework of the UN; attitude to bombardment of military targetsin Irak by the Americans, French and English; attitude to participationof German soldiers in AWACS air surveillance to enforce the flightprohibition over Bosnia and Herzegovina; consent with military actionsof the UN against Serbia as well as attitude to participation ofFederal German Armed Forces; attitude to Federal German Armed Forcesmissions in Somalia; judgement on the decision of the FederalConstitutional Court on the Somalia mission of the Federal German ArmedForces; attitude to membership of Germany in the UN Security Council;increased use of men in community service with an excess of personsliable for military service; community service for women; attitude to aconscript army or preference for professional soldiers; attitude to areduction in Federal German Armed Forces; assessment of the jeopardy topeace in Europe; demand for higher moral standards among politicians;personal desire to become a politician; judgement on reporting by themedia on political affairs; judgement on the job of the FederalGovernment and expected improvement in case of an SPD government;expected winner in the next Federal Parliament election; preference fora male or female federal chancellor; judgement on Bjoern Engholm ascandidate for chancellor of the SPD; knowledge about the transfer ofmoney by former SPD state chairman in Schleswig-Holstein, GuentherJansen, to Rainer Pfeiffer as well as judgement on the credibility ofJansen not to have received any reciprocation; judgement on theresignation of Traffic Minister Krause as well as the resignation ofBjoern Engholm; assessment of the extent to which informed of the SPDin the Barschel affair; judgement on Seiters´ resignation; preferredcandidate for chancellor for the SPD; attitude to the member survey ofthe SPD on the future party chairman; attitude to bugging ofconversations in private areas to combat organized crime; preferencefor or against police units such as GSG-9; basic attitude to the ideaof socialism; attitude to abortion and party representing the interestsof respondent on the abortion question; judgement on the decision ofthe Federal Constitutional Court on new regulation of the abortion law;attitude to elimination of bearing the costs of an abortion by healthinsurance companies; preference for an East German or West Germancandidate for the office of Federal President; Federal Presidentpreference; importance of the office of Federal President; judgement onthe discontinuation of the proceedings against Erich Honecker; attitudeto increased road construction to reduce traffic jams; expectedincrease in the cost of driving a car; attitude to introduction offreeway tolls; preference for petroleum tax increase or freeway toll;attitude to privatization of freeways; attitude to nuclear powerplants; attitude to reduction of time in school at high schools to 12years; attitude to introduction of nursing care insurance; preferencefor division of the nursing care costs among government, workers andemployers; preference for introduction of a day without compensation,elimination of a day of vacation or government holiday to financenursing care insurance; attitude to a reduced wage increase in the westto equalize wages; desired wage increase above or below the inflationrate; assessment of wage increase in Eastern Germany measured on theeconomic situation; attitude to giving up wage increases to securepreservation of jobs; attitude to the recommendation of Lafontaine forreduced increase of wages in Eastern Germany; justified wagedifferences between East and West Germany; expected wage level for thefuture; attitude to a limited reduction in wages in case of a difficulteconomic situation of the company; attitude to a four-day week withreduction in wages; preference for full-time employment or part-timeemployment; attitude to reduced entry-level wages for unemployed;attitude to different payment of the politicians in East and WestGermany; judgement on the 26% wage increase scheduled for 1993 in theEast German metal industry; assessment of the ability of companies tohandle such an increase; attitude to a strike due to cancellation ofthe metal wage agreement; feared loss of job through the 26% wageincrease; attitude to a return to the 40-hour week with or without fullwage compensation; attitude to longer working hours for civil servantswithout salary increase; preference for elimination of the church tax;attitude to increased financial support for Russia; attitude to theFederal Government taking sides with Boris Yeltsin; assumed result ofthe Russian plebiscite regarding Boris Yeltsin; expected disadvantagesfor the Germans from the political problems in the former Soviet Union;earlier living in the GDR and time of moving; military threat toGermany from the problems in the former Soviet Union; attitude to themove of the government to Berlin and preferred speed; satisfaction withhousing; tenant status; judgement on the current rent; attitude toapplication for selection as Olympic site by Berlin and to change ofstore closing laws; retrospect on the last year and prospect for thefuture year. </freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>with West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>mit Berlin-West</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BW</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BY</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-HB</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-HE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-HH</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-RP</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SH</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte, die in Privathaushalten mit Telefonanschluss leben</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Eligible voters living in private households with a telephone</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Systematische Zufallsauswahl; Auswahlverfahren Kommentar: Zufallsauswahl. Auswahl nach dem RLD-Verfahren (Randomize last digit) </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Systematic random; Sampling Procedure Comment: Random selection. Sample according to the RLD procedure (randomize last digit) 
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1993-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1993-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Trend/RepeatedCrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Monika</firstName>
+				<middleName/>
+				<lastName>Langhans</lastName>
+				<contributorType>DataCurator</contributorType>
+				<affiliation>
+					<affiliationName>GESIS – Leibniz-Institut für Sozialwissenschaften</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview (CATI) with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>11187</numberUnits>
+			<numberVariables>313</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Politbarometer stellen eine monatliche Trend-Erhebung der
+Monate Januar bis Juli und September bis Dezember dar, die vom
+Zweiten Deutschen Fernsehen (ZDF) in Auftrag gegeben werden.
+Die Politbarometer des Jahres 1993 sind als kumulierte Datei unter der
+ZA-Studien-Nrn. 2378 (West) und 2390 (Ost)archiviert.
+Weitere Politbarometer sind unter den ZA-Studien-Nrn. 1053,
+1275, 1276, 1536, 1762, 1779, 1899, 1901, 1920, 1987, 2101,
+2102, 2114, 2160, 2171, 2182, 2194, 2201, 2209, 2221, 2275
+sowie 2287 archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The Politbarometers present a monthly trend survey of the months 
+January to July and September to December commissioned by the Second 
+German Television (ZDF). The Politbarometers for 1993 are archived 
+under ZA Study Nos. 2367 to 2377 (West) and 2379 to 2389 (east) as 
+well as in cumulation under ZA Study Nos. 2378 (West) and 2390 
+(East). Further Politbarometers are archived under the ZA Study Nos. 
+1053, 1275, 1276, 1536, 1762, 1779, 1899, 1901, 1920, 1987, 2101, 
+2102, 2114, 2160, 2171, 2182, 2194, 2201, 2209, 2221, 2275 as well as 2287. 
+</text>
+		</note>
+	</notes>
+</resource>

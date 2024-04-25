@@ -1,0 +1,245 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'German overseas migration between 1683 and 1945'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Deutsche Überseewanderungen von 1683 bis 1945'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA8272</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Deutsche Überseewanderungen von 1683 bis 1945</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>German overseas migration between 1683 and 1945</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Christoph</firstName>
+				<middleName/>
+				<lastName>Besser</lastName>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA8272?doi=10.4232/1.8272</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.8272</doiProposal>
+	<publicationDate>
+		<year>2007</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA8272</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT76</identifier>
+					<!-- Daten Historischer Studien -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die hier vorliegende Daten-Kompilation beschäftigt sich mit der deutschen Überseewanderung zwischen 1683 und 1945. Im Zentrum der Datenübersicht stehen die Tabellen, welche die Zeit ab 1820 umfassen, da zuvor die deutsche Wanderung vorwiegend in den Osten ging, d.h. auf den Balkan und in das Russische Reich. Vornehmlich wurden in den einschlägigen wissenschaftlichen Publikationen Statistiken zur Auswanderung ausgewertet; zusätzlich wurden noch diejenigen Einwanderungsstatistiken des jeweiligen Landes berücksichtigt, welche die deutsche Einwanderung behandeln.
+Die Datenkompilation ist in sechs Teilbereiche unterteilt, die nach Zeitabschnitten gegliedert sind. Teilbereich A umfasst die Langen Reihen, basierend auf verschiedenen Quellen u.a. Marschalck und Willcox;Teilbereich B die Zeit von 1683 und 1820, basierend auf Wokeck und Grabbe;Teilbereich C die Zeit von 1820 bis 1870, hauptsächlich basierend auf Mönckmeier, Willcox und Burgdörfer;Teilbereich D die Zeit von 1871 bis 1919, hauptsächlich basierend auf Mönckmeier, Willcox und Burgdörfer;Teilbereich E die Zeit von 1919 bis 1945, hauptsächlich basierend auf Bickelmann;Teilbereich F die internationalen Tabellen, basierend auf verschiedenen Quellen u.a. Willcox und Bickelmann.
+Themen: 
+Tabellen in der ZA-Online-Datenbank HISTATA: Lange ReihenA.01 Auswanderung aus Deutschland nach Zielgebieten (1820-1939)A.02 Deutsche Auswanderung (1820-1914)A.03 Gesamteinwanderung und deutsche Einwanderung in verschiedene Länder (1820-1924)A.04 Die Bestimmungsländer der deutschen Auswanderer (1847-1910)A.05 Deutsche Einwanderung nach verschiedenen Ländern an deren Gesamteinwanderung nach Jahresintervallen (1821-1924)A.06 Gesamteinwanderung und deutsche Einwanderung nach den USA (1820-1939)A.07 Deutsche und gesamte Einwanderung und Rückwanderung nach Argentinien, Uruguay und Mexiko (1857-1924)A.08 Deutsche Auswanderung nach Einschiffungshäfen (1832-1939)A.09 Deutschbürtiger Einwohneranteil ausgewählter Städte in den USA (1850-1940)
+B: Vor 1820B.01 Geschätzte deutsche Einwanderung und ankommende Schiffe nach Nordamerika nach Häfen (1683-1775)B.02 Einwanderung in die Vereinigten Staaten von Amerika nach Herkunft der Einwanderer (1783-1820)B.03 Wachstum der deutschstämmigen Bevölkerung in den  dreizehn Kolonien/ den USA (1683-1790)
+C: 1820-1871C.01 Berichtigung der Zahl der deutschen Auswanderer (1820-1849)C.02 Direkte und indirekte Auswanderung über Bremen und Hamburg (1832-1870)C.03 Deutsche Auswanderer über Hamburg nach Geschlecht (1855-1870)C.04 Deutsche Auswanderer über Hamburg nach Alter (1855-1870)C.05 Herkunftsländer der deutschen Auswanderer über Hamburg und Bremen (1851-1870)C.06 Deutsche und ausländische Auswanderung über die deutschen Häfen Bremen und Hamburg (1832-1870)C.07 Auswanderung aus Preußen nach Provinzen (1844-1871)C.08 Auswanderer aus Preußen nach Beruf (1862-1880)C.09 Anteil der Auswanderung nach Texas an der deutschen Gesamtauswanderung (1842-1860)C.10 Im Zollbezirk Galveston, TX ankommende überseeische Einwanderer (1846-1900)
+D: 1871-1919D1:AllgemeinD1.01 Deutsche Auswanderung nach ausgewählten Ländern nach der deutschen Auswanderungs- und Einwanderungsstatistik der jeweiligen Länder (1871-1928)D1.02 Deutsche Auswanderung nach Zielland in den deutschen Auswandererstatistiken und den Einwandererstatistiken des jeweiligen Ziellandes (1871-1928)D2: Speziell – Alter, Geschlecht, BerufD2.01 Deutsche Auswanderer nach Geschlecht und Alter (1871-1924)D2.02 Alter und Geschlecht der deutschen Auswanderer über deutsche und fremde Häfen (1872-1910)D2.03 Altersaufbau der Auswanderung im Verhältnis zur Bevölkerung (Auswanderungsziffer) nach Geschlecht (1885-1896)
+D2.04 Deutsche Auswanderer nach Geschlecht und Beruf (1899-1924)D2.05 Berufe und Berufsstellung der deutschen Auswanderer (1899-1910)D2.06 Berufe der deutschen Auswanderer über die Häfen Hamburg, Bremen und Stettin (1871-1898)D2.07 Index, Anteil und Gesamtzahl der Berufe der deutschen Auswanderer über Hamburg (1871-1898)D2.08 Selbsttätige und Angehörige in den Berufen der deutschen Auswanderer über Hamburg (1871-1886)D2.09 Selbstständige und unselbstständige deutsche Auswanderer nach Berufsgruppen (1899-1910)D2.10 Familien- und Einzelauswanderung nach Geschlecht und Familienstand (1879-1910)D3: Häfen – Auswanderer über deutsche Häfen und nach EinschiffungshafenD3.01 Die deutsche Auswanderung nach Einschiffungshäfen (1871-1924)D3.02 Auswandernde fremde Staatsbürger über deutsche Häfen nach Einschiffungshafen (1871-1924)D3.03 Auswandernde fremde Staatsbürger über deutsche Häfen nach Herkunftsländern (1871-1924)D3.04 Auswanderung fremder Staatsbürger über deutsche Häfen nach Zielgebieten (1871-1924)D4: Region – Herkunfts- und Zielregion der AuswandererD4.01 Die Beteiligung der einzelnen Länder und Landesteile an der deutschen überseeischen Auswanderung (1871-1910)D4.02 Durchschnittliche jährliche Zahl der überseeischen Auswanderer auf je 100000 der mittleren Bevölkerung (Auswandererziffer) nach Ländern und Landesteilen im Deutschen Reich (1871-1928)D4.03Die Beteiligung der einzelnen Länder und Landesteile an der deutschen überseeischen Auswanderung im Vergleich zur Einwohnerzahl (Auswanderungsziffer) (1887-1910)D4.04 Beteiligung der Gebietsgruppen an der deutschen Auswanderung in Prozent (1871-1910)D5: SonstigeD5.01 Einwanderung aus Deutschland nach den USA nach Sprachen und Volkszugehörigkeit (1899-1924)D5.02 Einwanderung Deutschstämmiger und Deutschsprachiger in die USA nach Herkunft (1899-1924)D5.03 Deutsche, deutschstämmige und deutschsprachige Einwanderer in die USA nach Berufen (1899-1924)
+E: 1919-1945E.01 Vergleich zwischen deutscher Auswanderungsstatistik und ausländischer Einwanderungsstatistik (1919-1932)E.02 Gliederung der deutschen Auswanderer über Hamburg nach Geschlecht und Zielland (1926-1932)E.03 Gliederung der Auswanderer nach Geschlecht in Prozent (1913-1938)E.04 Gliederung der Auswanderer nach Alter in Prozent (1913-1938)E.05 Ledige und verheiratete Auswanderer in Prozent (1913-1934)E.06 Gliederung der Auswanderer nach Berufsgruppen in Prozent (1913-1935)E.07 Deutsche Auswanderer über deutsche und ausländische Häfen sowie fremde Auswanderer über deutsche Häfen (1905-1939)E.08 Deutsche und ausländische Auswanderer über Hamburg und Bremen (1913-1936)E.09 Deutsche Überseewanderung nach Herkunftsgebieten im Verhältnis zum Reichsdurchschnitt (1911-1934)E.10 Anteile bei einzelnen Landesteilen in Prozent bei der Auswanderung nach Argentinien (1922-1932)E.11 Anteile bei einzelnen Landesteilen in Prozent bei der Auswanderung nach Brasilien (1922-1932)E.12 Anteile bei einzelnen Landesteilen in Prozent bei der Auswanderung nach Kanada (1924-1932)E.13 Anteile bei einzelnen Landesteilen in Prozent bei der Auswanderung in die USA (1922-1932)E.14 Prozentualer Anteil der Auswanderung in einzelne Zielländer im Verhältnis zur Gesamtauswanderung nach der deutschen Auswanderungsstatistik (1920-1939)E.15 Arbeitslosigkeit unter Gewerkschaftsmitgliedern in Prozent, deutsche Überseeauswanderung, deutsche Auswanderung über Hamburg nach Bestimmungsländern jeweils nach Monaten (1919-1932)E.16 Gesamte und deutsche Einwanderung nach Kanada und den USA (1928-1945)
+F: InternationalF.01 Gesamtauswanderung in die Überseeländer (Übersee-Einwanderung) (1920-1933)F.02 Menschen, die eine legale dauerhafte Aufenthaltserlaubnis für die USA erhalten haben, nach Land und Region des letzten permanenten Aufenthaltes, in Tausend, 10-Jahres-Werte (1820-1939)F.03 Einwanderung in die USA (1914-1918)F.04 Einwanderer in die USA nach Berufen (1820-1924)F.05 Einwanderung nach Brasilien (1930-1936)F.06 Einwanderung nach Kanada nach Herkunft (1907-1915)F.07 Italienische Auswanderung während des Ersten Weltkriegs nach Zielländern (1914-1917)</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The existing data compilation deals with German overseas migration between 1683 and 1945. In the center of the data overview are tables which cover the time starting from 1820, since before that time German migration went predominantly to Eastern Europe, i.e. to the Balkans and to the Russian Empire. Primarily statistics for emigration in the relevant scientific publications were evaluated; additionally those immigration statistics of the respective country were included which deal with German immigration. 
+The data compilation is divided into six partitions, which are arranged according to time periods. Partition A contains long time series which are based on different sources, among others Marschalck and Willcox; Partition B covers the time span from 1683 to 1820 and is based on Wokeck and Grabbe; Partition C covers the time span from 1820 to 1870 and is based mainly on Mönckmeier, Willcox and castle villages; Partition D covers the time span from 1871 to 1919 and is based mainly on Mönckmeier, Willcox and castle villages; Partition E covers the time span from 1919 to 1945 and is based mainly on Bickelmann; Partition F contains the international tables which are based on different sources, among others Willcox and Bickelmann.
+Subjects: 
+Tables in the ZA-Online-Database HISTAT
+A: Long Time SeriesA.01 Auswanderung aus Deutschland nach Zielgebieten (1820-1939)A.02 Deutsche Auswanderung (1820-1914)A.03 Gesamteinwanderung und deutsche Einwanderung in verschiedene Länder (1820-1924)A.04 Die Bestimmungsländer der deutschen Auswanderer (1847-1910)A.05 Deutsche Einwanderung nach verschiedenen Ländern an deren Gesamteinwanderung nach Jahresintervallen (1821-1924)A.06 Gesamteinwanderung und deutsche Einwanderung nach den USA (1820-1939)A.07 Deutsche und gesamte Einwanderung und Rückwanderung nach Argentinien, Uruguay und Mexiko (1857-1924)A.08 Deutsche Auswanderung nach Einschiffungshäfen (1832-1939)A.09 Deutschbürtiger Einwohneranteil ausgewählter Städte in den USA (1850-1940)
+B: Before 1820B.01 Geschätzte deutsche Einwanderung und ankommende Schiffe nach Nordamerika nach Häfen (1683-1775)B.02 Einwanderung in die Vereinigten Staaten von Amerika nach Herkunft der Einwanderer (1783-1820)B.03 Wachstum der deutschstämmigen Bevölkerung in den  dreizehn Kolonien/ den USA (1683-1790)
+C: 1820-1871C.01 Berichtigung der Zahl der deutschen Auswanderer (1820-1849)C.02 Direkte und indirekte Auswanderung über Bremen und Hamburg (1832-1870)C.03 Deutsche Auswanderer über Hamburg nach Geschlecht (1855-1870)C.04 Deutsche Auswanderer über Hamburg nach Alter (1855-1870)C.05 Herkunftsländer der deutschen Auswanderer über Hamburg und Bremen (1851-1870)C.06 Deutsche und ausländische Auswanderung über die deutschen Häfen Bremen und Hamburg (1832-1870)C.07 Auswanderung aus Preußen nach Provinzen (1844-1871)C.08 Auswanderer aus Preußen nach Beruf (1862-1880)C.09 Anteil der Auswanderung nach Texas an der deutschen Gesamtauswanderung (1842-1860)C.10 Im Zollbezirk Galveston, TX ankommende überseeische Einwanderer (1846-1900)
+D: 1871-1919D1:AllgemeinD1.01 Deutsche Auswanderung nach ausgewählten Ländern nach der deutschen Auswanderungs- und Einwanderungsstatistik der jeweiligen Länder (1871-1928)D1.02 Deutsche Auswanderung nach Zielland in den deutschen Auswandererstatistiken und den Einwandererstatistiken des jeweiligen Ziellandes (1871-1928)D2: Speziell – Alter, Geschlecht, BerufD2.01 Deutsche Auswanderer nach Geschlecht und Alter (1871-1924)D2.02 Alter und Geschlecht der deutschen Auswanderer über deutsche und fremde Häfen (1872-1910)D2.03 Altersaufbau der Auswanderung im Verhältnis zur Bevölkerung (Auswanderungsziffer) nach Geschlecht (1885-1896)
+D2.04 Deutsche Auswanderer nach Geschlecht und Beruf (1899-1924)D2.05 Berufe und Berufsstellung der deutschen Auswanderer (1899-1910)D2.06 Berufe der deutschen Auswanderer über die Häfen Hamburg, Bremen und Stettin (1871-1898)D2.07 Index, Anteil und Gesamtzahl der Berufe der deutschen Auswanderer über Hamburg (1871-1898)D2.08 Selbsttätige und Angehörige in den Berufen der deutschen Auswanderer über Hamburg (1871-1886)D2.09 Selbstständige und unselbstständige deutsche Auswanderer nach Berufsgruppen (1899-1910)D2.10 Familien- und Einzelauswanderung nach Geschlecht und Familienstand (1879-1910)D3: Häfen – Auswanderer über deutsche Häfen und nach EinschiffungshafenD3.01 Die deutsche Auswanderung nach Einschiffungshäfen (1871-1924)D3.02 Auswandernde fremde Staatsbürger über deutsche Häfen nach Einschiffungshafen (1871-1924)D3.03 Auswandernde fremde Staatsbürger über deutsche Häfen nach Herkunftsländern (1871-1924)D3.04 Auswanderung fremder Staatsbürger über deutsche Häfen nach Zielgebieten (1871-1924)D4: Region – Herkunfts- und Zielregion der AuswandererD4.01 Die Beteiligung der einzelnen Länder und Landesteile an der deutschen überseeischen Auswanderung (1871-1910)D4.02 Durchschnittliche jährliche Zahl der überseeischen Auswanderer auf je 100000 der mittleren Bevölkerung (Auswandererziffer) nach Ländern und Landesteilen im Deutschen Reich (1871-1928)D4.03Die Beteiligung der einzelnen Länder und Landesteile an der deutschen überseeischen Auswanderung im Vergleich zur Einwohnerzahl (Auswanderungsziffer) (1887-1910)D4.04 Beteiligung der Gebietsgruppen an der deutschen Auswanderung in Prozent (1871-1910)D5: SonstigeD5.01 Einwanderung aus Deutschland nach den USA nach Sprachen und Volkszugehörigkeit (1899-1924)D5.02 Einwanderung Deutschstämmiger und Deutschsprachiger in die USA nach Herkunft (1899-1924)D5.03 Deutsche, deutschstämmige und deutschsprachige Einwanderer in die USA nach Berufen (1899-1924)
+E: 1919-1945E.01 Vergleich zwischen deutscher Auswanderungsstatistik und ausländischer Einwanderungsstatistik (1919-1932)E.02 Gliederung der deutschen Auswanderer über Hamburg nach Geschlecht und Zielland (1926-1932)E.03 Gliederung der Auswanderer nach Geschlecht in Prozent (1913-1938)E.04 Gliederung der Auswanderer nach Alter in Prozent (1913-1938)E.05 Ledige und verheiratete Auswanderer in Prozent (1913-1934)E.06 Gliederung der Auswanderer nach Berufsgruppen in Prozent (1913-1935)E.07 Deutsche Auswanderer über deutsche und ausländische Häfen sowie fremde Auswanderer über deutsche Häfen (1905-1939)E.08 Deutsche und ausländische Auswanderer über Hamburg und Bremen (1913-1936)E.09 Deutsche Überseewanderung nach Herkunftsgebieten im Verhältnis zum Reichsdurchschnitt (1911-1934)E.10 Anteile bei einzelnen Landesteilen in Prozent bei der Auswanderung nach Argentinien (1922-1932)E.11 Anteile bei einzelnen Landesteilen in Prozent bei der Auswanderung nach Brasilien (1922-1932)E.12 Anteile bei einzelnen Landesteilen in Prozent bei der Auswanderung nach Kanada (1924-1932)E.13 Anteile bei einzelnen Landesteilen in Prozent bei der Auswanderung in die USA (1922-1932)E.14 Prozentualer Anteil der Auswanderung in einzelne Zielländer im Verhältnis zur Gesamtauswanderung nach der deutschen Auswanderungsstatistik (1920-1939)E.15 Arbeitslosigkeit unter Gewerkschaftsmitgliedern in Prozent, deutsche Überseeauswanderung, deutsche Auswanderung über Hamburg nach Bestimmungsländern jeweils nach Monaten (1919-1932)E.16 Gesamte und deutsche Einwanderung nach Kanada und den USA (1928-1945)
+F: InternationalF.01 Gesamtauswanderung in die Überseeländer (Übersee-Einwanderung) (1920-1933)F.02 Menschen, die eine legale dauerhafte Aufenthaltserlaubnis für die USA erhalten haben, nach Land und Region des letzten permanenten Aufenthaltes, in Tausend, 10-Jahres-Werte (1820-1939)F.03 Einwanderung in die USA (1914-1918)F.04 Einwanderer in die USA nach Berufen (1820-1924)F.05 Einwanderung nach Brasilien (1930-1936)F.06 Einwanderung nach Kanada nach Herkunft (1907-1915)F.07 Italienische Auswanderung während des Ersten Weltkriegs nach Zielländern (1914-1917)</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DQDE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DXDE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Emigration from Germany according to the German Statistics and german immigration to Argentina, Australia (Queensland), Brasil, Chile, Mexico, Canada, Cuba, Paraguay, South Africa, USA according to the Official Statistics of the respective foreign country.</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Auswanderung aus Deutschland nach deutschen Statistiken und deutsche Einwanderung nach Argentinien, Australien (Queensland), Brasilien, Chile, Mexiko, Kanada, Kuba, Paraguay, Südafrika, USA nach den Statistiken des jeweiligen Auslandes.</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Auswanderung aus Deutschland nach deutschen Statistiken und deutsche Einwanderung nach Argentinien, Australien (Queensland), Brasilien, Chile, Mexiko, Kanada, Kuba, Paraguay, Südafrika, USA nach den Statistiken des jeweiligen Auslandes.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Emigration from Germany according to the German Statistics and german immigration to Argentina, Australia (Queensland), Brasil, Chile, Mexico, Canada, Cuba, Paraguay, South Africa, USA  according to the Official Statistics of the respective foreign country.</sampled>
+		</universe>
+	</universes>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>1683</year>
+				</startDate>
+				<endDate>
+					<year>1945</year>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Quellen: 
+Statistische Jahrbücher, Zeitungsberichte, Wissenschaftliche Veröffentlichungen.
+
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Sources: 
+Statistical Yearbooks, Newspaper-Articles, Scientific Publications.</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>983</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Auspurg-Hackert, Dagmar: Deutsche Auswanderung nach Texas im 19. Jahrhundert, Diss., Bochum 1984.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Bickelmann, Hartmut: Deutsche Überseeauswanderung in der Weimarer Zeit, Diss., Wiesbaden: Franz Steiner Verlag 1980.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Buckeley, August: Auswanderung nach Südamerika, München: Verlag Kurt Desch 1947.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Burgdörfer, Friedrich: Die Wanderungen über die deutschen Reichsgrenzen im letzten Jahrhundert, Berlin 1930. Wiederabgedruckt in: Köllmann, W./Marschalck, P. (Hrsg.): Bevölkerungsgeschichte, Köln 1972.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Grabbe, Hans-Jürgen: Vor der großen Flut. Die europäische Migration in die Vereinigten Staaten von Amerika 1783-1820, Stuttgart: Franz Steiner Verlag 2001.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Marschalck, Peter: Deutsche Überseewanderung im 19. Jahrhundert: Ein Beitrag zur soziologischen Theorie der Bevölkerung, Stuttgart 1973.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Mönckmeier, Wilhelm: Die deutsche überseeische Auswanderung. Ein Beitrag zur deutschen Wanderungsgeschichte, Jena: Verlag von Gustav Fischer 1912.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Reichswanderungsamt (Hrsg.): Nachrichtenblatt des Reichsamts für deutsche Einwanderung, Rückwanderung und Auswanderung, 1.Jahrgang, Berlin 1919.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Susemihl, Geneviève: "…and it became my home". Die Assimilation der deutsch-jüdischen Hitlerflüchtlinge in New York und Toronto, Rostock, Univ., Diss., Münster: LIT Verlag 2004.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Willcox, Walter F. (Hrsg.): International Migrations. Volume I: Statistics, New York u.a.: Gordon and Breach Science Publishers 1969, Erstveröffentlichung 1929.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Wokeck, Marianne S.: Trade in Strangers. The Beginnings of Mass Migration to North America, University Park: The Pennsylvania State University Press 1999.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Wust, Klaus; Heinz Moss (Hrsg.): Dreihundert Jahre deutsche Einwanderer in Nordamerika 1683-1983, Gräfeling: "300 Jahre Deutsche in Amerika" Verlags-GmbH 1983.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

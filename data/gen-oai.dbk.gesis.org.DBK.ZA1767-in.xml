@@ -1,0 +1,205 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Municipal Election in Frankfurt 1989 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Kommunalwahl in Frankfurt 1989
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1767</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Kommunalwahl in Frankfurt 1989
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Municipal Election in Frankfurt 1989 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1767?doi=10.4232/1.1767</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1767</doiProposal>
+	<publicationDate>
+		<year>1989</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1767</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Beurteilung kommunalpolitischer Fragen, wenige Tage vor derKommunalwahl in Frankfurt.
+Themen:  Wichtigste Probleme der Stadt; Wahlbeteiligungsabsicht undParteipräferenz; Wahlverhalten bei der letzten Kommunalwahl;Sympathie-Skalometer für ausgewählte Parteien und Politiker auf Bundes-und Kommunalebene; Zufriedenheit mit den Leistungen der Bundes- undLandesregierung sowie mit dem Magistrat in Frankfurt; Rangfolge derpräferierten Parteien; Einstellung zur absoluten Mehrheit einer Parteiin der stadtverordneten Versammlung; Koalitionspräferenz;Oberbürgermeisterpräferenz; Issue-Kompetenz der beiden großen Parteienin wirtschaftlichen Fragen, in der Wohnungsmarktpolitik, Kulturpolitikund Ausländerpolitik; Vergleich der wirtschaftlichen Lage der Stadt mitdem übrigen Bundesgebiet; Einstellung zur Aufnahme deutschstämmigerAussiedler aus Osteuropa sowie zur Aufnahme von politisch verfolgtenAsylanten; Einstellung zu Ausländern in Frankfurt und zumKommunalwahlrecht für Ausländer; Kontakte zu Ausländern;Links-Rechts-Orientierung; Bedeutung der Kommunalwahl für die Zukunftder Stadt; vermuteter Wahlgewinner; Einstellung zu den Republikanern;Kenntnis von Bestechungsvorfällen in der Frankfurter Stadtverwaltungsowie davon betroffene Partei; Arbeitsplatzsicherheit; Zusammenleben miteinem Partner; abgeschlossenes Staatsexamen oder Diplom bzw.abgeschlossene Gesellenprüfung; Beamtenlaufbahn sowie Dienstgrad beiSoldaten; Gewerkschaftsmitgliedschaft; Religiosität.
+Demographie: Alter; Geschlecht; Familienstand; Zusammenleben miteinem(r) LebenspartnerIn; Konfession; Kirchgangshäufigkeit;Schulbildung; Berufsausbildung; Hochschulabschluss; Beruf;Berufstätigkeit; Art des Tätigkeitt; Haushaltszusammensetzung; Befragterist Haushaltsvorstand; Charakteristika des Haushaltsvorstands;Parteineigung, Parteiidentifikation; Ortsgröße (klassiert); Bundesland.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Judgement on questions of municipal policies a few days before themunicipal election in Frankfurt. 
+Topics: most important problems of the city; intent to participate inthe election and party preference; behavior at the polls in the lastmunicipal election; sympathy scale for selected parties and politiciansat federal and municipal level; satisfaction with the achievements offederal and state government as well as municipal authorities inFrankfurt; order of preferred parties; attitude to an absolute majorityof one party in the city council; coalition preference; mayorpreference; issue competence of the two major parties in economicquestions, housing policy, culture policy and policies towardsforeigners; comparison of the economic situation of the city with therest of the federal territory; attitude to admission of ethnic Germansfrom Eastern Europe as well as admission of politically persecutedasylum-seekers; attitude to foreigners in Frankfurt and the right forforeigners to vote in municipal elections; contacts with foreigners;left-right orientation; significance of the municipal election for thefuture of the city; assumed election winner; attitude to theRepublicans; knowledge of instances of bribery in the Frankfurt citygovernment as well as party impacted; job security; living togetherwith a partner; completed government examination or diploma orcompleted journeymen´s test; civil service career as well as servicerank for soldiers; union membership; religiousness. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-HE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Frankfurt am Main</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Frankfurt am Main</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte Bevölkerung</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>The population eligible to vote </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Zufallsauswahl 
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Random selection 
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1989-03</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>87</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

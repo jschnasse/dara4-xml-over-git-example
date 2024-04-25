@@ -1,0 +1,341 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'German General Social Survey - ALLBUS 2000 - CAPI-PAPI'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'German General Social Survey - ALLBUS 2000 - CAPI-PAPI
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA3755</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>German General Social Survey - ALLBUS 2000 - CAPI-PAPI
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>German General Social Survey - ALLBUS 2000 - CAPI-PAPI</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>GESIS - Leibniz-Institut für Sozialwissenschaften</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3755?doi=10.4232/1.10106</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.10106</doiProposal>
+	<publicationDate>
+		<year>2008</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3755</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>ALLBUS</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Familie und Ehe</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Umweltschutz und Naturschutz</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Family life and marriage</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Environment and conservation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Allgemeine Bevölkerungsumfrage der Sozialwissenschaften (ALLBUS) ist eine Trenderhebung, in der seit 1980 alle zwei Jahre eine Zufallsstichprobe der deutschen Bevölkerung befragt wird. Das primäre Ziel des Umfrageprogramms ist die Beobachtung von Einstellungen, Verhalten und sozialen Wandel in Deutschland. Jede ALLBUS-Querschnittserhebung besteht aus ein oder zwei Schwerpunktmodulen zu wechselnden Themen. Diese werden ergänzt durch weitere inhaltliche Fragen und ein Kernmodul mit detaillierten demografischen Informationen. Zudem werden Zusatzinformation zum Interview und den Interviewern bereitgestellt. Die Schwerpunktmodule folgen in der Regel einem 10-jährigen Replikationszyklus, viele Einzelindikatoren und Itembatterien werden aber auch in kürzeren Abständen repliziert. 
+Seit Mitte der 1980er Jahre werden zusammen mit ALLBUS auch regelmäßig ein oder zwei Module des ISSP (International Social Survey Programme) erhoben.
+Der Schwerpunkt des ALLBUS/GGSS 2000 liegt in der Replikation von Fragen aus einem weiten Spektrum von Themen aus dem bisherigen ALLBUS-Programm (u.a. zu sozialer Ungleichheit, Politik, Religion, sozialen Netzwerken und abweichendem Verhalten). Neben den replizierten Fragen wurden neu konzipierte Fragen zu den Bereichen Kinderwunsch und ökonomischen Befindlichkeiten und Perzeptionen erstmals erhoben. Schließlich enthält der Datensatz auch die ISSP-Module "Umwelt II" und "Soziale Ungleichheit III“. ALLBUS/GGSS 2000 (Integrierte Version) enthält die kombinierten Daten aus der CAPI-Hauptstudie und der methodologischen PAPI-Begleitstudie.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>ALLBUS/GGSS 2000 CAPI-PAPI ist eine englische Übersetzung der deutschenOriginalstudie ALLBUS 2000 CAPI-PAPI. Eine vollständigeStudienbeschreibung finden Sie unter der &lt;a href=https://dbk.gesis.org/dbksearch/SDESC2.asp?no=3450&amp;search=allbus&amp;search2=&amp;DB=D target=_self&gt;Studiennummer 3450&lt;/a&gt;.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>ALLBUS (GGSS - the German General Social Survey) is a biennial trend survey based on random samples of the German population. Established in 1980, its mission is to monitor attitudes, behavior, and social change in Germany. Each ALLBUS cross-sectional survey consists of one or two main question modules covering changing topics, a range of supplementary questions and a core module providing detailed demographic information. Additionally, data on the interview and the interviewers are provided as well. Key topics generally follow a 10-year replication cycle, many individual indicators and item batteries are replicated at shorter intervals.
+Since the mid-1980ies ALLBUS also regularly hosts one or two modules of the ISSP (International Social Survey Programme).
+The focus of ALLBUS/GGSS 2000 is on the replication of previously fielded ALLBUS questions covering an extensive range of topics including, for example, social inequality, politics, religion, social networks, and deviant behavior. In addition to the replicated questions, the data set contains newly designed questions on the desire to have children and on economic perceptions. Also included are the ISSP modules "Environment II" and "Social Inequality III." ALLBUS/GGSS 2000 CAPI-PAPI comprises all the data from the main CAPI-survey and the methodological companion PAPI-survey.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>ALLBUS/GGSS 2000 CAPI-PAPI is an English translation of the originalGerman survey ALLBUS 2000 CAPI-PAPI. For a comprehensive studydescription please compare &lt;a href=https://dbk.gesis.org/dbksearch/SDesc2_eng.asp?no=3450&amp;search=allbus&amp;search2=&amp;db=E target=_self&gt;Study No. 3450&lt;/a&gt;.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alle in der Bundesrepublik Deutschland lebende Personen (Deutsche und
+Ausländer), die zum Befragungszeitpunkt in Privathaushalten lebten und
+vor dem 01.01.82 geboren sind</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>All persons (German and non-German) who resided in private households and were born before 1 January 1982</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Disproportional geschichtete Zufallsauswahl; Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Stratified: Disproportional; Probability: Multistage</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2000-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2000-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Jutta</firstName>
+				<middleName/>
+				<lastName>Allmendinger</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität München</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hans-Jürgen</firstName>
+				<middleName/>
+				<lastName>Andreß</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bielefeld, Vorsitzender</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Wilhelm</firstName>
+				<middleName/>
+				<lastName>Bürklin</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Potsdam</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Diekmann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bern</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hubert</firstName>
+				<middleName/>
+				<lastName>Feger</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Freie Universität Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Johannes</firstName>
+				<middleName/>
+				<lastName>Huinink</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Rostock</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heiner</firstName>
+				<middleName/>
+				<lastName>Meulemann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität zu Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Walter</firstName>
+				<middleName/>
+				<lastName>Müller</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Karl-Dieter</firstName>
+				<middleName/>
+				<lastName>Opp</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Leipzig</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Erwin K.</firstName>
+				<middleName/>
+				<lastName>Scheuch</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität zu Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heike</firstName>
+				<middleName/>
+				<lastName>Solga</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Max-Planck-Institut für Bildungsforschung, Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.FaceToFace.PAPI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.Paper</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>3804</numberUnits>
+			<numberVariables>843</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

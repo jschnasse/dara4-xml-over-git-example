@@ -1,0 +1,408 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Cultural and Ethnic Identity of Migrant Workers in Intercontextual and
+Intergenerational Comparison
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Kulturelle und ethnische Identität bei Arbeitsmigranten im interkontextuellen und intergenerationalen Vergleich
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA1580</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Kulturelle und ethnische Identität bei Arbeitsmigranten im interkontextuellen und intergenerationalen Vergleich
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Cultural and Ethnic Identity of Migrant Workers in Intercontextual and
+Intergenerational Comparison
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Hannes</firstName>
+				<middleName/>
+				<lastName>Alpheis</lastName>
+				<affiliation>
+					<affiliationName>Institut für Soziologie, Universität Hamburg
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Elke</firstName>
+				<middleName/>
+				<lastName>Esser</lastName>
+				<affiliation>
+					<affiliationName>Fachbereich 1, Fach Empirische Sozialforschung,
+Universität-Gesamthochschule Essen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Hartmut</firstName>
+				<middleName/>
+				<lastName>Esser</lastName>
+				<affiliation>
+					<affiliationName>Fachbereich 1, Fach Empirische Sozialforschung,
+Universität-Gesamthochschule Essen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Jürgen</firstName>
+				<middleName/>
+				<lastName>Friedrichs</lastName>
+				<affiliation>
+					<affiliationName>Institut für Soziologie, Universität Hamburg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Paul B.</firstName>
+				<middleName/>
+				<lastName>Hill</lastName>
+				<affiliation>
+					<affiliationName>Fachbereich 1, Fach Empirische Sozialforschung, 
+Universität-Gesamthochschule Essen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Ingo</firstName>
+				<middleName/>
+				<lastName>Kurosch</lastName>
+				<affiliation>
+					<affiliationName>Fachbereich 1, Fach Empirische Sozialforschung,
+Universität-Gesamthochschule Essen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Elke</firstName>
+				<middleName/>
+				<lastName>Korte</lastName>
+				<affiliation>
+					<affiliationName>Fachbereich 1, Fach Empirische Sozialforschung,
+Universität-Gesamthochschule Essen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Renate</firstName>
+				<middleName/>
+				<lastName>Prust</lastName>
+				<affiliation>
+					<affiliationName>Fachbereich 1, Fach Empirische Sozialforschung,
+Universität-Gesamthochschule Essen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Rainer</firstName>
+				<middleName/>
+				<lastName>Schnell</lastName>
+				<affiliation>
+					<affiliationName>Fachbereich 1, Fach Empirische Sozialforschung,
+Universität-Gesamthochschule Essen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1580?doi=10.4232/1.1580</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1580</doiProposal>
+	<publicationDate>
+		<year>1987</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1580</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>1</identifier>
+			<type>VerbundFDB</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Minderheiten</term>
+					<term>Wohnraum</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Community, urban and rural life</term>
+					<term>Cultural and national identity</term>
+					<term>Social conditions and indicators</term>
+					<term>Minorities</term>
+					<term>Housing</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>Migrant</keyword>
+				<keyword>regionale Herkunft</keyword>
+				<keyword>soziale Herkunft</keyword>
+				<keyword>Schulbildung</keyword>
+				<keyword>Berufsverlauf</keyword>
+				<keyword>Religiosität</keyword>
+				<keyword>Integration</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>migrant</keyword>
+				<keyword>regional origin</keyword>
+				<keyword>social background</keyword>
+				<keyword>school education</keyword>
+				<keyword>job history</keyword>
+				<keyword>religiousness</keyword>
+				<keyword>integration</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die allgemeine Situation ausländischer Arbeitnehmer in fünf deutschen Großstädten.
+Themen: Ethnische Herkunft; Einreisejahr der Eltern in Deutschland bzw. eigenes Ankunftsjahr; Besuch von Kindertagesstätte, Kindergarten und Schule in der Bundesrepublik; Dauer des Schulbesuchs; Besuch und Dauer einer speziellen Vorbereitungsklasse für Ausländer; Zeitpunkt der Einschulung in Regelklasse; Besuch allgemeinbildender Schulen; Schulabschluß; Ausländeranteil der Schulklasse; Dauer des muttersprachlichen Unterrichts neben dem Regelunterricht; Tätigkeiten nach Beendigung der allgemeinbildenden Schule.
+Personen, die im Herkunftsland geboren wurden, wurden gefragt: Regionale Herkunft und Ortsgröße; Schulbesuch und Berufsausbildung im Herkunftsland.
+Berufsausbildung; derzeitige bzw. zuletzt ausgeübte Berufstätigkeit; Schichtarbeit; Zusammenwohnen mit Eltern; Ausländeranteil im Haus, in der direkten Wohnumgebung und im Stadtteil; Wohnungsausstattung mit sanitären Einrichtungen; Besitz langlebiger Wirtschaftsgüter; Vorhandensein ausländerbezogener Einrichtungen in der Wohngegend; Leben der Eltern in Deutschland; regionale Herkunft des Vaters; Schulbesuch der Eltern; Kinderzahl; Anzahl der im Herkunftsland lebenden Kinder; religiöses Verhalten im Elternhaus und Strenge beim Einhalten religiöser Regeln; Erziehungsziele der Eltern; innerfamiliäre Entscheidungsstruktur; Lesen von Zeitungen aus Deutschland oder dem Herkunftsland; Ernährungsgewohnheiten wie in der Heimat; Nutzung von Videofilmen und Hören von Musik in Deutsch bzw. der eigenen Sprache; Verwendung der deutschen Sprache bzw. der Muttersprache bei Gesprächen innerhalb der Familie; Häufigkeit gegenseitiger Besuche von Deutschen; Kontakte zu Deutschen, Verwandten, Freunden und Bekannten sowie Wohnort dieser Personen; Mitgliedschaften; Freundeskreis; Nationalität der Freunde; Häufigkeit gemeinsamer Treffen; Hilfe aus dem Freundeskreis bei persönlichen Schwierigkeiten; kulturelles Milieu im Freundeskreis; Übereinstimmung mit den Freunden in Fragen von Religion und Mode; Gespräche über die Situation als Ausländer in Deutschland; Gespräche über religiöse Fragen; Nationalität von Arbeitskollegen bzw. Mitschülern; Einstellung zur Assimilation und Integration; Selbsteinschätzung der Deutschkenntnisse; Kenntnisse der Muttersprache; Diskriminierungswahrnehmung (Skala); Zufriedenheit mit den Lebensverhältnissen, der schulischen bzw. beruflichen Situation und der Wohnsituation in Deutschland; identifikative Assimilation; Heimatlosigkeitsgefühle und Gefühle bei Besuchen im Herkunftsland; gefühlsmäßige Bindungen an Volksgruppen im Herkunftsland; Interesse an Beteiligung an Kommunalwahlen; Parteipräferenz; Postmaterialismus-Index; eigene Segregationsgefühle; eigene Sympathie für verschiedene Nationalitäten bzw. vermutete Sympathie der Deutschen für diese Nationalitäten; Verbundenheit mit der Region, der Stadt sowie dem Stadtteil; frühere Wohnorte; eigene Religiosität; Besuch einer Koranschule; Geschlechtsrollenorientierung; eigener Wunsch und Rückkehrplanung der Eltern ins Herkunftsland; Interesse an Zusammenwohnen mit Deutschen; eigene Geldanlagen bzw. Investitionen im Heimatland; Beurteilung der eigenen Lebenssituation bei einerRückkehr ins Herkunftsland im Vergleich zur jetzigen Situation in Deutschland; Kinderzahl; Nationalität, Wohnort und Aufenthaltsdauer des Ehepartners in Deutschland; Religionszugehörigkeit des Ehepartners; derzeitige Tätigkeit des Ehepartners; detaillierte Angaben zum Freundeskreis; Verwandtschaftsgrad und Nationalität; Aufenthaltsdauer in Deutschland; Freunde als Ratgeber; Sprachkompetenz der Freunde; kulturelles und religiöses Milieu im Freundeskreis; Geschlechtsrollenorientierung der Freunde; identifikative Assimilation der Freunde und Anzahl der Kontakte mit den Freunden; Kenntnis von Veranstaltungen zur Verbesserung der Situation der Ausländer bzw. zur Förderung des Verständnisses von Deutschen und Ausländern; Teilnahme an solchen Veranstaltungen; Status der Aufenthaltsgenehmigung; Interesse am Erwerb der deutschen Staatsangehörigkeit; gewünschte Maßnahmen zur Verbesserung der Lebenssituation von Ausländern in Deutschland.
+Skalen: Ambiguitätsintoleranz; Anomie; kurzer, deutscher Sprachtest.
+Demographie: Alter; Geschlecht; Religionszugehörigkeit.
+Interviewerrating: Interviewdauer; Sprachkompetenz des Befragten; Anwesenheit Dritter; Störungen des Interviews durch andere Personen; Kooperationsbereitschaft des Befragten und Verhalten gegenüber dem Interviewer.
+Zusätzlich verkodet wurde: Haustyp und Nutzung des Hauses; Zustand sowie Alter des Hauses; Industriebetriebe in Wohnhausnähe; Untereinheit des Stadtteils; Interviewdatum.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The general situation of foreign workers in five large German cities.
+Topics: ethnic origin; year of arrival of parents in Germany or personal year of arrival; attendance at day nursery, kindergarten and school in the Federal Republic; length of school attendance; attendance and duration of a special preparation class for foreigners; time of first day at school in regular school; attendance at schools providing all-round education; school degree; proportion of foreigners in the school class; length of native language instruction along with regular instruction; occupation after conclusion of all-round education school. The following questions were posed to persons born in country of origin: regional origin and city size; school attendance and vocational training in country of origin; vocational training; current or last employment practiced; shift work; living together with parents; proportion of foreigners in the building, in the immediate residential surroundings and in the part of town; residence equipped with sanitary facilities; possession durable economic goods; presence of institutions for foreigners in the residential area; parents living in Germany; regional origin of father; school attendance of parents; number of children; number of children living in country of origin; religious practices in parental home and strictness of observing religious rules; educational goals of parents; decision-making structure within the family; reading newspapers from Germany or the country of origin; nutrition habits as in the native country; use of video films and listening to music in German or one´s own language; use of the German language or native language in conversations within the family; frequency of mutual visits with Germans; contacts with Germans, relatives, friends and acquaintances as well as place of residence of these persons; memberships; circle of friends; nationality of friends; frequency of getting together; help from the circle of friends with personal difficulties; cultural milieu in one´s circle of friends; agreement with friends on questions of religion and fashion; conversations about the situation as foreigner in Germany; conversations about religious matters; nationality of colleagues or other students; attitude to assimilation and integration; self-assessment of knowledge of German; knowledge of native language; perception of discrimination (scale); satisfaction with living conditions, school or occupational situation and the housing situation in Germany; identity assimilation; feelings of homelessness and feelings on visits to country of origin; instinctive ties to ethnic groups in country of origin; interest in participation in municipal elections; party preference; postmaterialism index; personal feelings of segregation; personal sympathy for various nationalities or assumed sympathy of the Germans for these nationalities; solidarity with the region, the city as well as the part of town; earlier places of residence; personal religiousness; attendance at a Koran school; sex role orientation; personal wish and plans for return of parents to country of origin; interest in living together with with Germans; personal investments in native country; judgement on one´s own situation in life given a return to country of origin in comparison to the current situation in Germany; number of children; nationality, place of residence and length of stay of spouse in Germany; religious affiliation of spouse; current occupation of spouse; detailed information on circle of friends; degree of relationship and nationality; length of stay in Germany; friends as advisers; language ability of friends; cultural and religious milieu in one´s circle of friends; sex role orientation of friends; identity assimilation of friends and number of contacts with friends; knowledge of events to improve the situation of foreigners or promote understanding of Germans and foreigners; participation in such events; status of residence permit; interest in acquisition of German citizenship; desired measures to improve the situation in life of foreigners in Germany.
+Scales: intolerance of ambiguity; anomy; brief German language test.
+Demography: age; sex; religious affiliation.
+Interviewer rating: length of interview; language ability of respondent; presence of others; disturbances during the interview by other persons; willingness of respondent to cooperate and conduct regarding the interviewer.
+Also encoded was: type of building and use of building; condition as well as age of building; industrial companies in vicinity of residential building; sub-unit of part of town; date of interview. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-HH</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW-DUI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BY-MUC</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW-ESS</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen türkischer und jugoslawischer Nationalität aus den Einwohnermelderegistern </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons of Turkish and Yugoslav nationality from the resident registries </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl 
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Multi-stage stratified random sample </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1984-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1984-11</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Fachbereich 1, Fach Empirische Sozialforschung,
+Universitaet-Gesamthochschule Essen
+Institut fuer Soziologie, Universitaet Hamburg
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>Distributor</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>HostingInstitution</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.PAPI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>1846</numberUnits>
+			<numberVariables>455</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Erhebungseinheit: Erwachsene; sonstiges###
+Befragt wurden in jeder Stadt etwa 180 Personen jugoslawischer und 180 Personen türkischer Nationalität, von denen jeweils 90 der 1. (14 bis 25 Jahre) und 90 der 2. Generation (über 25 Jahre) angehören sollten. Die Auswahl der befragten Personen erfolgte in Stadtteilen mit unterschiedlich hohem Ausländeranteil. Die
+Interviews wurden in der jeweiligen Landessprache durchgeführt. Vergleichbare Untersuchungen finden sich u.a. unter den ZA-Studien-Nrn. 1578 und 1579 archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Survey unit: adults; others###
+In every city about 180 persons of Yugoslav and 180 persons of Turkish nationality were interviewed, of which 90 were to be from each of the the 1st (14 to 25 years) and the 2nd generation (above 25 years). The selection of persons interviewed took place in parts of town with differing proportions of foreigners. The interviews were conducted in the respective national language. Comparable investigations can be found archived under ZA Study Nos. 1578 and 1579. </text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Esser, Hartmut; Friedrichs, Jürgen: 
+Kulturelle und ethnische Identität bei Arbeitsmigranten im interkontextuellen, intergenerationalen und internationalen Vergleich: Zwischenbericht. 
+Essen und Hamburg: Universität, o.J. 
+Esser, Hartmut; Friedrichs, Jürgen: 
+Kulturelle und ethnische Identität bei Arbeitsmigranten im interkontextuellen und intergenerationalen Vergleich: Endbericht. 
+Essen und Hamburg: Universität, 1986. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Esser, Hartmut; Friedrichs, Jürgen: 
+Kulturelle und ethnische Identität bei Arbeitsmigranten im interkontextuellen und intergenerationalen Vergleich: Endbericht. 
+Essen und Hamburg: Universität, 1986. </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Hill, Paul Bernhard: 
+Ohne Heimat zwischen zwei Kulturen: Probleme der Ausländerintegration. 
+In: Forschung-Mitteilungen der DFG 1/88, S. 12-15.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

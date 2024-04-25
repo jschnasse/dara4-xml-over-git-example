@@ -1,0 +1,240 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Perceptions and Experiences of Racism in Germany'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Rassismuswahrnehmungen und -erfahrungen in Deutschland'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7681</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Rassismuswahrnehmungen und -erfahrungen in Deutschland</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Perceptions and Experiences of Racism in Germany</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Presse- und Informationsamt der Bundesregierung, Berlin</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7681?doi=10.4232/1.13719</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13719</doiProposal>
+	<publicationDate>
+		<date>2021-05-02</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7681</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT14</identifier>
+					<!-- Politische Fragen (Issues) -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Minderheiten</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Social behaviour and attitudes</term>
+					<term>Minorities</term>
+					<term>Government, political systems and organisations</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Vor dem Hintergrund der weltweiten Proteste gegen Polizeigewalt und Rassismus nach der gewaltsamen Tötung des Afroamerikaners George Floyd in den USA untersucht diese Studie, wie Rassismus in Deutschland wahrgenommen wird und welche Erfahrungen Menschen mit Migrationshintergrund mit Rassismus in Deutschland gemacht haben. Hierzu werden sowohl Menschen mit als auch ohne Migrationshintergrund befragt. Die Studie fragt nach der Verbreitung rassistischer Vorurteile im Alltag der Befragten, nach Erfahrungen mit Rassismus in unterschiedlichen Lebensbereichen, nach dem Gefühl von Sicherheit, Anerkennung und Wohlbefinden in der deutschen Gesellschaft und nach dem Vertrauen in Politik, politische Institutionen und die Polizei. Außerdem wird abgefragt, wie der aktuelle Einsatz der Politik in der Rassismusbekämpfung bewertet wird und in welchen Bereichen mehr getan werden sollte.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>1. Gesellschaftliche Beteiligung und Anerkennung: Lebenszufriedenheit; gerechter Anteil im Leben; Faktoren für Erfolg in der Gesellschaft (offen); Einschätzung persönlicher Akzeptanz als gleichberechtigte(r) Bürger(in), der persönlichen  Einflussmöglichkeiten auf die deutsche Politik und der Gerechtigkeit in Deutschland; Institutionenvertrauen (Justiz, Bundesregierung, Medien, Polizei, Behörden); Verbundenheit mit der Wohngemeinde/ Stadt, der Region, dem Bundesland, Deutschland, dem Herkunftsland und dem Herkunftsland der Eltern; persönliches Sicherheitsgefühl in Deutschland.
+2. Zusammenleben in Deutschland: Häufigkeit des Kontakts zu Menschen mit anderem ethnischen Hintergrund; Bewertung des  Zusammenlebens von Personen mit unterschiedlichen ethnischen Hintergründen; Gründe für Probleme beim Zusammenleben von Personenmit unterschiedlichen ethnischen Hintergründen in Deutschland (offen); Behandlung von Menschen mit einem anderen ethnischen Hintergrund im Vergleich zu Menschen mit deutschem Hintergrund (schlechter, gleich behandelt oder besser).
+3. Problemempfinden von Rassismus in Deutschland: Zustimmung zu verschiedenen Aussagen zum Thema Rassismus (die meisten Menschen in Deutschland machen keine Unterschiede je nachdem, was jemand für eine Hautfarbe hat, über Rassismus wird in Deutschland mittlerweile zu viel geredet, was das Problem größer macht, als es eigentlich ist, die Rassismusdebatte ist von Hysterie und Überempfindlichkeit geprägt, mittlerweile gibt es in Deutschland auch Rassismus gegen weiße Deutsche, bin mir nicht sicher, ob ich mich nicht manchmal aus Versehen rassistisch verhalte, Rassismus tritt heutzutage nur noch in Einzelfällen auf, eine Handlung oder Aussage kann auch rassistisch sein, wenn sie gar nicht so gemeint war, Menschen aus verschiedenen Kulturen bereichern Deutschland); Wahrnehmung von Rassismus in Deutschland als Problem; Wahrnehmung der Häufigkeit von Gewalt gegenüber Menschen mit anderem ethnischen Hintergrund als Problem in Deutschland; Einschätzung Rassismus in Deutschland im Vergleich zu anderen europäischen Ländern und im Vergleich zu den USA; Einschätzung Rassismus in Deutschland heute im Zeitvergleich mit den 1990er Jahren; Zukunftserwartung im Hinblick auf die Zu- oder Abnahme von rassistischen Vorurteilen und rassistischem Verhalten.
+4. Definition von Rassismus: Einschätzung rassistischer Situationen (z.B. eine nicht-weiße Person fragen, wo sie ursprünglich herkommt, eine Person mit einem anderen ethnischen Hintergrund in einfachem Deutsch anreden, etc.); von Rassismus betroffene Personengruppen (Menschen mit anderer Hautfarbe, Menschen, die nicht akzentfrei Deutsch sprechen, Frauen mit Kopftuch, Menschen, die religiöse Symbole sichtbar tragen bzw. die einer nicht-christlichen Religion angehören, Menschen, deren Name nicht-deutsch klingt); rassistisches Verhalten nach Personengruppen (Jede/r Einzelne, Bevölkerungsmehrheit, Bildungsinstitutionen, Polizei, Medien, Parteien, rechtsextreme Einzeltäter oder Gruppierungen); Häufigkeit rassistischen Verhaltens nach Personengruppen; Wahrnehmung von Rassismus in verschiedenen Lebensbereichen (im Arbeitsleben, in Geschäften oder im Dienstleistungsbereich, auf dem Wohnungsmarkt, in der Öffentlichkeit, in der Freizeit, im Gesundheits- oder Pflegebereich, durch Ämter oder Behörden, im Internet oder in sozialen Netzwerken, in der Schule bzw. im Kindergarten, durch die Polizei); Einschätzung Angemessenheit von Racial Profiling. 5. Diskriminierungserfahrungen: Frage nach dem ursprünglichen Herkunftsland; vermutete Gründe für die Frage nach der Herkunft (Aussehen, Akzent, Namen, Kopftuch, Kleidung, wegen der Begleitpersonen, wegen Äußerungen im Gespräch); Aussehen als Grund (Haare, Bart, Gesicht, Hautfarbe, Augen bzw. Augenfarbe, Kopftuch, anderes Kleidungsstück, sonstiges (offen); persönliche Erfahrung von rassistisch motivierter Benachteiligung nach Lebensbereichen und im persönlichen Umfeld oder von unbekannten Dritten.
+6. Antirassistische Maßnahmen: Meinung zur Umbenennung von Straßennamen, die als rassistisch wahrgenommene Begriffe enthalten oder nach rassistischen Gewaltverursachern benannt sind; Meinung zur Überarbeitung von rassistisch wahrgenommenen Wörtern in Büchern; Bewertung der Arbeit der Bundesregierung bei der Bekämpfung von Rassismus; Bewertung von Maßnahmen gegen Rassismus nach Institutionen und Bereichen (Bildungsbereich, Polizei, Ämter oder Behörden, Arbeitsleben, Internet oder soziale Netzwerke, Sensibilisierung in der breiten Öffentlichkeit). 
+Demographie: Alter; Geschlecht; Migrationshintergrund; Bundesland; Schulbildung; Erwerbstätigkeit; Haushaltsnettoeinkommen (gruppiert); Haushaltsgröße; Anzahl der Kinder unter 18 Jahren im Haushalt; Ortsgröße; Religionszugehörigkeit; Parteipräferenz; eigenes Herkunftsland bzw. Herkunftsland der Eltern; eigener bzw. Herkunftskontinent der Eltern; Tragen eines Kopftuches in der Öffentlichkeit (nur Frauen).
+Zusätzlich verkodet wurde: lfd. Nr.; sichtbarer Migrationshintergrund als Grund für Frage nach Herkunft genannt; Gewichtungsfaktor. </freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Against the background of the worldwide protests against police violence and racism after the violent killing of the African-American George Floyd in the USA, this survey examines how racism is perceived in Germany and what experiences people with a migration background have had with racism in Germany. For this purpose, both people with and without a migration background are interviewed. The study asks about the prevalence of racist prejudices in the everyday life of the interviewees, about experiences with racism in different areas of life, about the feeling of security, recognition and well-being in German society and about trust in politics, political institutions and the police. In addition, respondents are asked how they assess the current use of politics in combating racism and in which areas more should be done.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>1. Social participation and recognition: life satisfaction; fair share in life; factors for success in society (open); assessment of personal acceptance as an equal citizen, of personal possibilities to influence German politics and justice in Germany; trust in institutions (judiciary, federal government, media, police, authorities); attachment to the community/city of residence, the region, the federal state, Germany, the country of origin and the country of origin of the parents; personal feeling of security in Germany.
+2. Living together in Germany: frequency of contact with people from a different ethnic background; assessment of living together with people from different ethnic backgrounds; reasons for problems in living together with people from different ethnic backgrounds in Germany (open); treatment of people from a different ethnic background compared to people from a German background (worse, same treatment or better).
+3. Problem perception of racism in Germany: agreement with various statements about racism (most people in Germany do not differentiate according to the colour of someone´s skin, there is now too much talk about racism in Germany, which makes the problem bigger than it actually is, the racism debate is characterised by hysteria and oversensitivity, meanwhile there is also racism against white Germans in Germany, I´m not sure if I don´t sometimes act racist by mistake, racism nowadays only occurs in isolated cases, an action or statement can also be racist if it wasn´t meant that way at all, people from different cultures enrich Germany); perception of racism in Germany as a problem; perception of the frequency of violence against people with a different ethnic background as a problem in Germany; assessment of racism in Germany in comparison to other European countries and in comparison to the USA; assessment of racism in Germany today in comparison to the 1990s; future expectations with regard to the increase or decrease of racist prejudices and racist behaviour.
+4. Definition of racism: assessment of racist situations (e.g. asking a non-white person where he/she originally comes from, addressing a person with a different ethnic background in simple German, etc.); groups of people affected by racism (people with a different skin colour, people who do not speak German without an accent, women with headscarves, people who visibly wear religious symbols or who belong to a non-Christian religion, people whose name sounds non-German); racist behaviour according to groups of people (everyone/individuals, majority of the population, educational institutions, police, media, parties, people whose name sounds non-German). (people with a different skin colour, people who do not speak German without an accent, women with headscarves, people who visibly wear religious symbols or belong to a non-Christian religion, people whose name sounds non-German); racist behaviour by groups of people (each individual, majority of the population, educational institutions, police, media, political parties, right-wing extremist individuals or groups); frequency of racist behaviour by groups of people; perception of racism in different areas of life (at work, in shops or in the service sector, in the housing market, in public, in leisure time, in the health or care sector, by offices or authorities, on the internet or in social networks, at school or kindergarten, by the police); assessment of the appropriateness of racial profiling. 
+5. Experiences of discrimination: question about the original country of origin; suspected reasons for the question about origin (appearance, accent, name, headscarf, clothing, because of accompanying persons, because of statements in conversation); appearance as a reason (hair, beard, face, skin colour, eyes or eye colour, headscarf, other item of clothing, other (open); personal experience of racially motivated discrimination according to areas of life and in the personal environment or by unknown third parties.
+6. Anti-racist measures: opinion on renaming street names that contain terms perceived as racist or are named after racist perpetrators of violence; opinion on revising words perceived as racist in books; assessment of the work of the federal government in combating racism; assessment of measures against racism by institutions and areas (education, police, offices or authorities, working life, internet or social networks, raising awareness among the general public).
+Demography: age; sex; migration background; federal state; school education; employment; net household income (grouped); household size; number of children under 18 in household; city size; religious affiliation; party preference; own country of origin or country of origin of parents; own continent or continent of origin of parents; wearing a headscarf in public (women only).
+Additionally coded: serial no.; visible migration background named as reason for question about origin; weighting factor.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutschsprachige Bevölkerung ab 18 Jahren, aufgeteilt in Personen mit Migrationshintergrund und ohne Migrationshintergrund. Ein Migrationshintergrund liegt vor, wenn eine Person selbst oder mindestens ein Elternteil aus einem anderen Land nach Deutschland zugewandert ist.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German-speaking population aged 18 and over, divided into persons with a migration background and persons without a migration background. A migration background exists if a person himself or herself or at least one parent immigrated to Germany from another country.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Nicht-Wahrscheinlichkeitsauswahl: Quotenstichprobe; Auswahlverfahren Kommentar: Quotenstichprobe aus einem vollständig offline rekrutierten Online-Access-Panel. Im Rahmen dieser Studie wurde die Gesamtbevölkerung mit einem disproportionalen Schwerpunkt auf Menschen mit Migrationshintergrund befragt. Ein Migrationshintergrund liegt vor, wenn eine Person selbst oder mindestens ein Elternteil aus einem anderen Land nach Deutschland zugewandert ist. Aus forschungsökonomischen Gründen wurden nur deutschsprachige Personen mit Migrationshintergrund befragt. Die Stichprobe ist damit nicht repräsentativ für alle in Deutschland lebenden Personen mit Migrationshintergrund.
+Die Teilnehmer wurden nach einem Quotenplan nach den Merkmalen Geschlecht, formale Schulbildung, Alter, Haushaltsnettoeinkommen, Haushaltsgröße, Kinder im Haushalt unter 16 Jahren, Berufstätigkeit und Aufteilung nach Migrationshintergrund rekrutiert.
+Die Aufteilung nach Migrationshintergrund wurde für die Rekrutierung wie folgt definiert:
+A) Personen mit sichtbarem Migrationshintergrund, d.h. solche die angaben, dass sie schon einmal nach ihrer Herkunft gefragt wurden und die vermuten, dass sie aufgrund ihres Aussehens nach der Herkunft gefragt wurden. 
+B) Personen ohne sichtbaren Migrationshintergrund 
+C) Personen ohne Migrationshintergrund.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Non-probability: Quota; Sampling Procedure Comment: Quota sample from a fully offline recruited online access panel. In the context of this survey, the total population was interviewed with a disproportionate focus on people with a migration background. A migration background exists if a person himself or at least one parent immigrated to Germany from another country. For reasons of research economics, only German-speaking persons with a migration background were interviewed. The sample is thus not representative of all persons with a migration background living in Germany.
+The participants were recruited according to a quota plan according to the characteristics gender, formal school education, age, net household income, household size, children in the household under 16, occupation and division by migration background.
+The division by migration background was defined for recruitment as follows:
+A) Persons with a visible migration background, i.e. those who stated that they had already been asked about their origin at some time and who suspected that they had been asked about their origin because of their appearance.
+B) Persons without a visible migration background
+C) Persons without a migration background.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2020-08-20</date>
+				</startDate>
+				<endDate>
+					<date>2020-09-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Kantar Deutschland, München</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.WebBased</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>1782</numberUnits>
+			<numberVariables>381</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie bestand aus einem qualitativen und einem quantitativen Teil. Nur die quantitativen Daten sind bei GESIS archiviert.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The study consisted of a qualitative and a quantitative part. Only the quantitative data are archived at GESIS.</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kantar: Rassismuswahrnehmungen und -erfahrungen in Deutschland : Eine Studie von Kantar, Public Division im Auftrag des Presse- und Informationsamtes der Bundesregierung (BPA).
+München: Kantar, Oktober 2020 </freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

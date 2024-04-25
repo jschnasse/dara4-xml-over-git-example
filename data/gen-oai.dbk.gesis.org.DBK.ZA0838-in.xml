@@ -1,0 +1,241 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Antisemitism in the FRG
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Antisemitismus in der BRD
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA0838</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Antisemitismus in der BRD
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Antisemitism in the FRG
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Herbert A.</firstName>
+				<middleName/>
+				<lastName>Sallen</lastName>
+				<affiliation>
+					<affiliationName>Forschungsinstitut für Soziologie, Universität zu Köln</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA0838?doi=10.4232/1.0838</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.0838</doiProposal>
+	<publicationDate>
+		<year>1977</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA0838</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Politische Ideologie</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Cultural and national identity</term>
+					<term>Political ideology</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellung zu Juden in der Bundesrepublik.
+Themen: Selbstbild der Deutschen und Fremdbild von den Juden(semantische Differentiale); Verhaltensintentionen im Bereich deswirtschaftlichen Antisemitismus, wie z. B. keine Geschäfte mit Juden;Einschätzung der Bedeutung von Juden in der Finanz- und Geschäftsweltsowie im kulturellen Bereich; Informationsquellen über die heutigenJuden in der Bundesrepublik und ihre Geschichte; Einschätzung derallgemeinen Haltung der Bevölkerung gegenüber den Juden und Einschätzungder Mitschuld der Juden an ihrem Schicksal; Fragen zumarabisch-israelischen Krieg von 1973 und persönlicheSympathieverteilung; Beurteilung der Nahostpolitik der Bundesregierung;Ortsgröße.
+Skalen: Anomie, antidemokratische Tendenzen; religiöse und säkulareantisemitische Vorstellungen sowie völkischer Rassismus.
+Demographie: Alter (klassiert); Geschlecht; Familienstand; Konfession;Schulbildung; Beruf; Berufstätigkeit; Haushaltseinkommen;Haushaltsgröße; Haushaltungsvorstand; Ortsgröße; Bundesland.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Attitude to Jews in the Federal Republic. 
+Topics: Self-image of Germans and third-party image of Jews (semanticdifferentials); conduct intentions in the area of economicantisemitism, such as e.g. no business transactions with Jews;assessment of the significance of Jews in the finance and businessworld as well as in the cultural area; sources of information abouttoday´s Jews in the Federal Republic and their history; assessment ofthe general attitude of the population regarding Jews and assessment ofthe share of blame of the Jews for their fate; questions on theArab-Israeli War of 1973 and personal distribution of sympathy;judgement on the Middle East policy of the Federal Government. 
+Scales: anomy, antidemocratic tendencies; religious and secularantisemitic concepts as well as national racism. 
+Demography: age (classified); sex; marital status; religiousdenomination; school education; occupation; employment; householdincome; size of household; head of household; city size; state. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>FRG incl. West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD einschl. West-Berlin</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 16 Jahre und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons 16 years old and older.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Quotenauswahl 
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Quota sample 
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1974-10</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>EMNID, Bielefeld
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>128</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Sallen, Herbert A.: 
+Zum Antisemitismus in der Bundesrepublik Deutschland: Konzepte, Methoden und Ergebnisse der empirischen Antisemitismusforschung. 
+Frankfurt: Haag und Herchen 1977. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Silbermann, Alphons; Sallen, Herbert A.: 
+Latenter Antisemitismus in der Bundesrepublik Deutschland. 
+In: Kölner Zeitschrift für Soziologie und Sozialpsychologie, 28, 1976, S. 706 - 723. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Silbermann, Alfons: 
+Minoritätenforschung: Antisemitismus in der Bundesrepublik Deutschland. 
+In: Bild der Wissenschaft, 13, Heft 6, Juni 1976, S. 68-74. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Silbermann, Alfons: 
+Sind wir Antisemiten? Ausmaß und Wirkungen eines sozialen Vorurteils in der Bundesrepublik Deutschland. 
+Köln: Verlag Wissenschaft und Politik 1982.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

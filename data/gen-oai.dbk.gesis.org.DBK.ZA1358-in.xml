@@ -1,0 +1,256 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Foreign Workers in the Federal Republic (Data Pool 1970-1982) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Ausländische Arbeitnehmer in der Bundesrepublik (Datenpool 1970-1982)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1358</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Ausländische Arbeitnehmer in der Bundesrepublik (Datenpool 1970-1982)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Foreign Workers in the Federal Republic (Data Pool 1970-1982) 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>MARPLAN, Offenbach</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1358?doi=10.4232/1.1358</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1358</doiProposal>
+	<publicationDate>
+		<year>1982</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1358</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Medien</term>
+					<term>Einkommen, Vermögen und Geldanlagen/Sparen</term>
+					<term>Konsum und Konsumverhalten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Social conditions and indicators</term>
+					<term>Media</term>
+					<term>Income, property and investment/saving</term>
+					<term>Consumption and consumer behaviour</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die soziale und wirtschaftliche Situation der ausländischenArbeitnehmer in der Bundesrepublik. Zusammengefaßter Datensatz derzunächst jährlichen, dann alle zwei Jahre durchgeführten Erhebungen.
+Themen: Der Datensatz faßt die Inhalte der ZA-Studien-Nrn. 0606 bis0608, 0676, 0677, 0928, 0929, 1075 bis 1077, 1328 und 1329 zusammen.Unter den einzelnen Studiennummern sind die Inhalte detailliertbeschrieben.
+Über alle bzw. nahezu alle Befragungszeitpunkte hinweg wurden u.a.erhoben: Aufenthaltsdauer und Angaben zu Heimatbesuchen; Situation derFamilienmitglieder in der BRD; größte Sorgen und Schwierigkeiten;vermutete Einstellungen der Deutschen zu ausländischen Arbeitnehmern;Interesse an deutscher Staatsbürgerschaft.
+Demographie: Alter; Geschlecht; Beruf; Einkommen; Familienstand;Kinderzahl; Haushaltsgröße; Nationalität; Parteipräferenz; Angaben zurWohnsituation und zur Miete; Dauer des Schulbesuchs und Angaben zurBerufsbildung; Bundesland; Angaben zum PKW-Besitz.
+Interviewerrating: Störung des Interviewablaufs durch andere;Verständigungsschwierigkeiten; Kooperationsbereitschaft des Befragten;Einschätzung der Kenntnisse der Landessprache sowie der deutschenSprache; Ortsgröße.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The social and economic situation of foreign workers in the FederalRepublic. 
+Summarized data set of surveys conducted at first annually, then everytwo years. 
+Topics: The data set summarizes the contents of ZA Study Nos. 0606 to0608, 0676, 0677, 0928, 0929, 1075 to 1077, 1328 and 1329. 
+Under the individual study numbers the contents are described indetail. 
+For all or almost all times of survey among other things the followingwas collected: length of stay and information on visits home; situationof family members in the FRG; greatest concerns and difficulties;assumed attitudes of Germans to foreign workers; interest in Germancitizenship and party preference; information on housing situation andrent; length of school attendance and information on professionaltraining; information on car possession. 
+Interviewer rating: disturbance of the course of the interview byothers; communication difficulties; willingness of respondent tocooperate; assessment of knowledge of national language as well as ofthe German language; city size. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>FRG incl. West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD einschl. West-Berlin</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Türken, Italiener, Jugoslawen, Griechen und Spanier</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Turks, Italians, Yugoslavs, Greeks and Spaniards 
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Quotenauswahl </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Quota sample </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>1970</year>
+				</startDate>
+				<endDate>
+					<year>1982</year>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>497</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Das Vorgehen bei der Befragung der ausländischen Arbeitnehmer
+ist bei der ZA-Studien-Nr. 1328 näher beschrieben. Die Studie
+ist Teil einer Mehrthemen-Erhebung und Teil einer Trend-Erhebung.
+Die übrigen "Ausländerstudien" aus dieser Reihe sind unter den
+folgenden ZA-Studien-Nrn. archiviert:
+ZA-Studien-Nr. 0606 (1970)
+ZA-Studien-Nr. 0607 (1971)
+ZA-Studien-Nr. 0608 (1972)
+ZA-Studien-Nr. 0676 (1973)
+ZA-Studien-Nr. 0677 (1974)
+ZA-Studien-Nr. 0928 (1975)
+ZA-Studien-Nr. 0929 (1976)
+ZA-Studien-Nr. 1075 (1977)
+ZA-Studien-Nr. 1076 (1978)
+ZA-Studien-Nr. 1077 (1979)
+ZA-Studien-Nr. 1328 (1980)
+ZA-Studien-Nr. 1329 (1982)
+ZA-Studien-Nr. 1629 (1984)
+ZA-Studien-Nr. 1630 (1985)
+ZA-Studien-Nr. 1631 (1986)
+ZA-Studien-Nr. 1678 (1988)
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The procedure in interviewing foreign workers is more closely 
+described in ZA Study No. 1328. The study is part of an omnibus 
+survey and part of a trend survey. The rest of the "foreigner 
+studies" in this series are archived under the following ZA Study Nos.: 
+ZA Study No. 0606 (1970) 
+ZA Study No. 0607 (1971) 
+ZA Study No. 0608 (1972) 
+ZA Study No. 0676 (1973) 
+ZA Study No. 0677 (1974) 
+ZA Study No. 0928 (1975) 
+ZA Study No. 0929 (1976) 
+ZA Study No. 1075 (1977) 
+ZA Study No. 1076 (1978) 
+ZA Study No. 1077 (1979) 
+ZA Study No. 1328 (1980) 
+ZA Study No. 1329 (1982) 
+ZA Study No. 1629 (1984) 
+ZA Study No. 1630 (1985) 
+ZA Study No. 1631 (1986) 
+ZA Study No. 1678 (1988) 
+</text>
+		</note>
+	</notes>
+</resource>

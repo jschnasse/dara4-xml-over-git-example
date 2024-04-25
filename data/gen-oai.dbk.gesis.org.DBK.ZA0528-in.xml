@@ -1,0 +1,224 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Youth and Democracy 1968
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Jugend und Demokratie 1968
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA0528</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Jugend und Demokratie 1968
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Youth and Democracy 1968
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Walter</firstName>
+				<middleName/>
+				<lastName>Jaide</lastName>
+				<affiliation>
+					<affiliationName>Forschungsstelle für Jugendfragen, Hannover
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA0528?doi=10.4232/1.0528</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.0528</doiProposal>
+	<publicationDate>
+		<year>1968</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA0528</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT10</identifier>
+					<!-- Staat -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Jugend</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Political behaviour and attitudes</term>
+					<term>Youth</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Politisch-historische Kenntnisse, politische Einstellungen undpolitische Engagement-Bereitschaft von Jugendlichen.
+Themen: Einstellungen zur Staatsform, zur Verfassung, zur Demokratie,zu Politikern, zu Staatsbürgern, zu Parteien, zur Außenpolitik, zurWirtschaftspolitik, zur Sozialpolitik, zur Kulturpolitik, zu aktuellenpolitischen Ereignissen, zu Zukunftsfragen, zum Nationalsozialismus, zupolitischen Persönlichkeiten, zur Deutschland- und Ostpolitik; soziale,politische Aktivitäten und Erfahrungen; politische Offenheit;politisches Interesse der Eltern und Parteipräferenz des Vaters; eigeneParteipräferenz; eigene Teilnahme an politischen Veranstaltungen;Mediennutzung; Mitgliedschaft in Vereinen und Organisationen; Tätigkeitin sozialen Hilfsdiensten; Arbeitszufriedenheit; Betriebsgröße;beliebtestes Schulfach; soziale Herkunft; Auslandsaufenthalte.
+Test: politisch-historische Kenntnisse und Intelligenz(Intelligenzstrukturtest nach Amthauer); politisch-sozialeEngagement-Bereitschaft, PSE (Bildertest, 55Paar-Vergleich-Entscheidungen).
+Skalen: Konservatismus, Dogmatismus, Neurotizismus, Extra-Intro-Versionund Antisemitismus.
+Demographie: Familienstand; Alter und Anzahl der Geschwister;Konfession; Religiosität; Schulbildung; Beruf; berufliche Position;Einkommen; Wirtschaftsraum; regionale Herkunft; Besitz langlebigerWirtschaftsgüter.
+Interviewerrating: Ortsgröße.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Political-historical knowledge, political attitudes and politicalreadiness for commitment of young people. 
+Topics: Attitudes to form of government, constitution, democracy,politicians, citizens, parties, foreign policy, economic policy, socialpolicy, culture policies, current political events, future questions,National Socialism, political personalities, Germany and Ostpolitik;social, political activities and experiences; political openness;political interest of parents and party preference of father; personalparty preference; personal participation in political events; mediausage; membership in clubs and organizations; activity in socialservices; work satisfaction; company size; favorite school subject;social origins; stays abroad. 
+Test: political-historical knowledge and intelligence (intelligencestructure test after Amthauer); readiness for political-socialcommitment, PSE (picture test, 55 pair-comparison decisions). Scales:conservatism, dogmatism, neuroticism, extra/introversion andantisemitism. 
+Demography: marital status; age und number of siblings; religiousdenomination; religiousness; school education; occupation; professionalposition; income; economic area; regional origins; possession ofdurable economic goods. 
+Interviewer rating: city size. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NI</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>en</language>
+			<sampled>Schoolchildren 15 - 19 years old
+at high schools, secondary schools, vocational schools and occupational schools.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Quotenauswahl von Schülern an Gymnasien, Realschulen,
+Berufsschulen und Berufsfachschulen im Alter von 15-19 Jahren.
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Quota sample 
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1968-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1968-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Forschungsstelle fuer Jugendfragen, Hannover
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Schriftliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Written survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Erhebungen des umfangreichen Materials an Einstellungen
+und Tests geschah in drei jeweils etwa zweistündigen
+Untersuchungen.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The surveys of the extensive material on attitudes and tests took
+place in three approximately two-hour investigations.
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Jaide, Walter: 
+Jugend und Demokratie: Politische Einstellungen der westdeutschen Jugend. 
+München: Juventa 1970. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Hartjens, Peter G.: 
+Varieties of Democratic Political Development: The German Experience. 
+Chapel Hill: University of North Carolina, Diss. 1972.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

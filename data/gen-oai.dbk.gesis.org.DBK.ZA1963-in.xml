@@ -1,0 +1,224 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'State Election in Bavaria 1990 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Landtagswahl in Bayern 1990
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA1963</identifier>
+		<currentVersion>2.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Landtagswahl in Bayern 1990
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>State Election in Bavaria 1990 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1963?doi=10.4232/1.11237</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11237</doiProposal>
+	<publicationDate>
+		<date>2012-02-27</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1963</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+					<term>Wohnraum</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+					<term>Economic systems and development</term>
+					<term>Housing</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Beurteilung von Parteien und Politikern in Bayern. Einstellungzu landespolitischen Fragen.
+Themen: Wichtigste politische Probleme in Bayern;Wahlbeteiligungsabsicht bei der nächsten Landtagswahl;Wahlabsicht; Parteipräferenz (Rangordnungsverfahren);Wahlverhalten bei der letzten Landtagswahl;Sympathie-Skalometer für ausgewählte Spitzenpolitiker und für die großenParteien auf Bundesebene sowie auf Landesebene; Zufriedenheitmit der CSU-Regierung, mit der SPD-Opposition und den Grünen imLandtag und mit den Leistungen der Bundesregierung in Bonn;Ministerpräsidentenpräferenz; Einstellung zum Einzug der FDPsowie der Grünen in den Landtag und zu einer absoluten Mehrheitfür die CSU; erwarteter Einzug dieser Parteien;Koalitionspräferenz; Issue-Relevanz sowie Issue-Kompetenz derCSU bzw. der SPD in Fragen der Arbeitslosigkeit, desUmweltschutzes, des Wohnungsmarktes und der Ausländerpolitik;Mietwohnung; Einstellung zum Asyl für politisch Verfolgte undEinschätzung der derzeitigen Asylbewerber als politischVerfolgte oder Wirtschaftsflüchtlinge; Einschätzung derderzeitigen wirtschaftlichen Lage Bayerns und der zukünftigenEntwicklung; Vergleich der wirtschaftlichen Lage im Lande mitdem Bundesgebiet; Präferenz für das Müllbeseitigungskonzept derLandesregierung oder der Bayerischen Bürgerinitiative;Notwendigkeit von Steuererhöhungen zur Finanzierung derdeutschen Einheit; Einstellung zu einer vorübergehendenSteuererhöhung; Partei mit den aktivsten Anhängern imWahlkampf; Wichtigkeit des Wahlausgangs für das Land;erwarteter Wahlgewinner; Parteineigung undParteiidentifikation.
+Demographie: Alter (klassiert); Geschlecht; Familienstand; Konfession;Kirchgangshäufigkeit; Schulbildung; Berufsausbildung; BeruflichePosition; Berufstätigkeit; Staatsexamen oder Diplom bzw.Gesellenprüfung; Haushaltszusammensetzung; Befragter istHaushaltsvorstand; Charakteristika des Haushaltsvorstands;Parteineigung, Parteiidentifikation; Ortsgröße;Gewerkschaftsmitgliedschaft;</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Judgement on parties and politicians in Bavaria. Attitude to politicalquestions at the state level. 
+Topics: most important political problems in Bavaria; intent toparticipate in the next state parliament election; voting intent; partypreference (rank order procedure); behavior at the polls in the laststate parliament election; sympathy scale for selected top politiciansand for the major parties on the Federal level as well as at the statelevel; satisfaction with the CSU government, with the SPD oppositionand the Greens in the state parliament and with the achievements of theFederal Government in Bonn; preference for prime minister; attitude tothe FDP and Greens taking seats in the state parliament and to anabsolute majority for the CSU; expected taking seats in Parliament bythese parties; coalition preference; issue relevance as well as issuecompetence of the CSU or of the SPD in questions of unemployment,environmental protection, the housing market and policies towardsforeigners; apartment; attitude to asylum for the politicallypersecuted and assessment of the current applicants for politicalasylum as politically persecuted or economic refugees; assessment ofthe current economic situation of Bavaria and of future development;comparison of the economic situation in the state with that in the restof the Federal Republic; preference for the garbage disposal concept ofthe state government or of the Bavarian citizen initiative; necessityof tax increases to finance German unity; attitude to a temporary taxincrease; party with the most active supporters in the electioncampaign; importance of the election result for the state; expectedelection winner; government examination or diploma or journeymen´stest; religiousness; party inclination and party identification. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BY</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Einfache Zufallsauswahl; Auswahlverfahren Kommentar: RLD-Verfahren (Randomize last digit)
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Simple random; Sampling Procedure Comment: RLD procedure (Randomize last digit)
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1990-10</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>1024</numberUnits>
+			<numberVariables>96</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.1963</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+</resource>

@@ -1,0 +1,199 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Foreigners in Germany 1993 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Ausländer in Deutschland 1993
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA2423</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Ausländer in Deutschland 1993
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Foreigners in Germany 1993 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>MARPLAN, Offenbach</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2423?doi=10.4232/1.2423</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.2423</doiProposal>
+	<publicationDate>
+		<year>1994</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2423</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Konsum und Konsumverhalten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Social conditions and indicators</term>
+					<term>Consumption and consumer behaviour</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die soziale und wirtschaftliche Situation ausländischerArbeitnehmer in der Bundesrepublik.
+Themen: Nationalität des Befragten; ethnische Zugehörigkeit beiBefragten aus dem ehemaligen Jugoslawien; Geburtsort inDeutschland oder Ausland; bisherige Aufenthaltsdauer inDeutschland; geschätzter Zeitraum, der noch in Deutschlandverbracht wird; Heimataufenthalte seit dem Umzug nachDeutschland; Heimataufenthalt im Vorjahr; geplanterHeimataufenthalt 1991; Verkehrsmittelnutzung bei Fahrten insHeimatland; Zusammensein mit Familienangehörigen in Deutschland;Anzahl und Alter der Kinder in Deutschland; Anzahl derberufstätigen Haushaltsmitglieder; Anzahl der über 15jährigen imHaushalt; Familienmitglieder im Heimatland; Alter von Kindern imHeimatland; größte Sorgen und Probleme in Deutschland;Interesse an deutscher Staatsangehörigkeit; perzipierteEinstellung der Deutschen zu Gastarbeitern am Arbeitsplatz;Zufriedenheit mit derzeitigem Arbeitsplatz; sympathischstePartei in Deutschland; durchschnittliche monatliche Ausgabenfür Lebensmittel und Dinge des täglichen Bedarfs; präferierteKaufstätten für Lebensmittel und Dinge des täglichen Bedarfssowie Gebrauchsgüter und Spielwaren; Wohnstatus; Miethöhe;Mieterhöhung für Grundmiete oder Nebenkosten im letzten Jahr;Zufriedenheit mit Wohnung/Unterkunft; Anzahl der Schuljahre;Schulabschluß in Deutschland oder Heimat; Art desSchulabschlusses; Selbsteinschätzung der Deutschkenntnisse(Lesen); abgeschlossene Berufsausbildung sowie Dauer derBerufsausbildung; PKW-Besitz; PKW-Marke; Neu- oderGebrauchtwagen; jährliche Kilometerleistung;Haushaltsnettoeinkommen.
+Demographie: Alter; Familienstand; Beruf; Berufstätigkeit; Branche des Betriebes; Haushaltsgröße; Wohnsituation; 
+Interviewerrating: Anwesenheit Dritter beim Interview sowieBeeinflussung durch Dritte; Bewertung der Verständigung;Kooperationsbereitschaft des Befragten; Kenntnisse derdeutschen und der eigenen Sprache.Zusätzlich verkodet wurde: Bundesland; Ortskennziffer.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The social and economic situation of foreign workers in the FederalRepublic. Topics: Nationality of respondent; ethnic affiliation ofrespondents from former Yugoslavia; place of birth in Germany orforeign country; duration of stay in Germany up to now; estimatedperiod of time still to be spent in Germany; visits to one´s nativecountry since moving to Germany; visit to one´s native country in theprevious year; planned visit to one´s native country in 1991; use ofvarious means of transport for trips to native country; stayingtogether with family members in Germany; number and ages of children inGermany; number of working members of household; number of over15-year-olds in household; family members in native country; age ofchildren in native country; greatest concerns and problems in Germany;interest in German citizenship; perceived attitude of Germans to guestworkers at work; satisfaction with current job; most sympathetic partyin Germany; average monthly expenditures for food and everydaynecessities; preferred shopping places for food and everydaynecessities as well as consumer goods and toys; residential status;amount of rent; rent increase for base rent or additional costs in thelast year; satisfaction with apartment/housing; number of years ofschool; school degree in Germany or native country; type of schooldegree; self-assessment of knowledge of German (reading); completedvocational training as well as length of vocational training; carpossession; car brand; new or used car; number of kilometers drivenannually; net household income. Interviewer rating: presence of thirdpersons during interview as well as influence through third parties;evaluation of communication; willingness of respondent to cooperate;knowledge of German and one´s own language. Also encoded was: state;city code. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Ausländische Wohnbevölkerung ab 14 Jahren (Türken, Italiener,
+Jugoslawen, Griechen und Spanier)
+</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>The foreign residential population 14 years old and older (Spaniards, Italians, Yugoslavs, Greeks and Turks over-sample according to nationalities)</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Quotenauswahl nach Geschlecht, Alter, Familienstand und Haushaltsgröße </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Quota sample according to sex, age, marital status and size of household 
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1993-05</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>110</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie ist Teil einer Mehrthemen-Erhebung. Hinweise auf die
+weiteren "Ausländerstudien" aus dieser Reihe sind der ZA-Studie
+Nr. 1787 zu entnehmen.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The study is part of an omnibus survey. References to the further 
+"Foreigner Studies" in this series can be found in ZA Study No. 1787. 
+</text>
+		</note>
+	</notes>
+</resource>

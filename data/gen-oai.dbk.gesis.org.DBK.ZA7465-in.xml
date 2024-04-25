@@ -1,0 +1,296 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'WISIND - Crime Survey'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'WISIND-Kriminalitätsbefragung'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA7465</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>WISIND-Kriminalitätsbefragung</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>WISIND - Crime Survey</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Mathias</firstName>
+				<middleName/>
+				<lastName>Bug</lastName>
+				<affiliation>
+					<affiliationName>Deutsches Institut für Wirtschaftsforschung (DIW Berlin), Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Martin</firstName>
+				<middleName/>
+				<lastName>Kroh</lastName>
+				<affiliation>
+					<affiliationName>Deutsches Institut für Wirtschaftsforschung (DIW Berlin), Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Kristina</firstName>
+				<middleName/>
+				<lastName>Meier</lastName>
+				<affiliation>
+					<affiliationName>Deutsches Institut für Wirtschaftsforschung (DIW Berlin), Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Johannes</firstName>
+				<middleName/>
+				<lastName>Rieckmann</lastName>
+				<affiliation>
+					<affiliationName>Deutsches Institut für Wirtschaftsforschung (DIW Berlin), Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Eric van</firstName>
+				<middleName/>
+				<lastName>Um</lastName>
+				<affiliation>
+					<affiliationName>Deutsches Institut für Wirtschaftsforschung (DIW Berlin), Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Nina</firstName>
+				<middleName/>
+				<lastName>Wald</lastName>
+				<affiliation>
+					<affiliationName>Deutsches Institut für Wirtschaftsforschung (DIW Berlin), Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7465?doi=10.4232/1.12480</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12480</doiProposal>
+	<publicationDate>
+		<date>2016-03-03</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7465</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT14</identifier>
+					<!-- Politische Fragen (Issues) -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT20</identifier>
+					<!-- Rechtssystem, Rechtsprechung, Gesetz -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Kriminalität und Gesetzesvollzug</term>
+					<term>Informationsgesellschaft</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Crime and law enforcement</term>
+					<term>Information society</term>
+					<term>Government, political systems and organisations</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Viktimisierung und Kriminalitätsfurcht bezogen auf die Deliktbereiche Wohnungseinbruch, Diebstahl, Körperverletzung, Internetkriminalität, Belästigung/grobe Pöbelei. Parteineigung, Wahlverhalten und Innere Sicherheit.
+Themen: A. Sicherheitsempfinden und Kriminalitätsfurcht allgemein: Sicherheitsempfinden in der Wohngegend nach Einbruch der Dunkelheit.
+B. Fragen zu verschiedenen Kriminalitätsformen: Kriminalitätsfurcht bezogen auf die Deliktbereiche Diebstahl, vorsätzlicher Körperverletzung und Internetkriminalität (Cybercrime); geschätzte Wahrscheinlichkeit, selbst Opfer von Diebstahl, vorsätzlicher Körperverletzung und Internetkriminalität (Cybercrime) zu werden; Viktimisierung durch Wohnungseinbruch, Diebstahl, vorsätzliche Körperverletzung, Bedrohung und grobe Pöbelei in den letzten zweieinhalb Jahren; Anzahl der Wohnungseinbrüche, Diebstähle, Körperverletzungen, Bedrohung und grobe Pöbelei seit 2012; Jahr bzw. Jahre der Vorfälle; Gründe für die aktuellste Körperverletzung, die letzte Bedrohung oder grobe Pöbelei. 
+Internetkriminalität (Cybercrime): Häufigkeit der Internetnutzung; Phishing: Nutzung von Online-Bezahlung mit Kreditkarte bzw. Bankkarte und Online-Banking; unrechtmäßig erfolgte Aufforderung zur Bekanntgabe des Passwortes der Kredit- oder Bankkarte oder des Zugangs zum Online-Banking seit Anfang 2012; unrechtmäßige Belastung des Kredit- oder Bankkontos nach Phishing; Häufigkeit der Viktimisierung durch online-Kontomissbrauch und Jahr bzw. Jahre der Vorfälle; Höhe des finanziellen Schadens (offen und klassiert) des jüngsten online-Kontomissbrauchs; Entschädigung durch die Versicherung oder Bank und Höhe der Entschädigungssumme; Identitätsdiebstahl: erfolgter Missbrauch persönlicher Daten seit Anfang 2012; Anzahl und Jahr der Fälle; Höhe des finanziellen Schadens;  Waren- und Dienstleistungsbetrug im Internet: Internetnutzung für den Einkauf von Waren- und Dienstleistungen; Viktimisierung durch Waren- und Dienstleistungsbetrug im Internet; Anzahl und Jahr der Fälle; Höhe des finanziellen Schadens; Entschädigung durch die Versicherung oder Bank bzw. einen Dienstleister und Höhe der Entschädigungssumme; Schadsoftware: Befall privater Geräte von Schadsoftware; Folgen des Befalls mit Schadsoftware (Schadsoftware konnte sofort oder erst nach längerer Reparatur unschädlich gemacht werden, zerstörte das Gerät, dauerhafter Datenverlust); Häufigkeit der Viktimisierung durch Schadsoftware und Jahre der Vorfälle; privater Schutz vor Internetkriminalität und Art der verwendeten Schutzvorkehrungen (z.B. aktuelle Virensoftware, etc.).
+C. Parteineigung, Wahlverhalten und Innere Sicherheit: Geburt des Befragten und seiner Eltern in Deutschland bzw. jeweiliges Geburtsland; deutsche Staatsangehörigkeit; Staatsangehörigkeit eines EU-Mitgliedsstaates; Bedeutung der Forderungen einer Partei zu Kriminalität und Innerer Sicherheit für die eigene Wahlentscheidung; persönliche Bedeutung der Politikfelder Innere Sicherheit versus Freiheitsrechte; Parteineigung.
+Demographie: Geschlecht; Alter (Geburtsjahr); Altersgruppe; Anzahl Personen im Haushalt (Haushaltsgröße); Kinder; höchster Bildungsabschluss; Meister- oder Technikerabschluss; Erwerbstätigkeit bzw. derzeitige Tätigkeit; Berufsgruppe; Haushaltsnettoeinkommen. 
+Zusätzlich verkodet wurde: Interviewnummer; Gewichtungsfaktoren; Interviewdatum; Ortsgröße (politische und BIK); Bundesland; Befragung per Mobiltelefon oder Festnetz; Anzahl Mobiltelefone; Anzahl der Festnetznummern; Anzahl Personen im Haushalt ab 16 Jahren.  </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Victimisation and fear of crime related to the delict areas burglary, theft, bodily harm, cyber crime, harassment / rude behaviour. Party affiliation, election behavior and internal security.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutschsprachige Wohnbevölkerung ab 16 Jahren in Privathaushalten</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German-speaking resident population aged 16 years and over in private households</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Disproportional geschichtete Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample: Stratified Sample: Disproportional</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2014-07-28</date>
+				</startDate>
+				<endDate>
+					<date>2014-10-22</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>TNS Emnid, Bielefeld</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview: CATI (Computer Assisted Telephone Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>214</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Bug, Mathias (2015): 
+Ansätze und Datenquellen in der Kriminalitätsmessung – ein Überblick zu den offen zugänglichen WISIND-Daten. 
+In: Bug, Mathias; Krähnert, Kati; Kroh, Martin (Hrsg.): Kriminalität und Innere Sicherheit: Objektive Lage und Wahrnehmung durch Medien und Politik. DIW-Vierteljahrsheft 84. Jahrgang 2.2015. </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Entorf, Horst; Rieckmann, Johannes (2015): 
+Smarte Täter, naive Opfer? Eine Studie zur Typisierung der Opfer von Diebstahl und Wohnungseinbruch. 
+In: Bug, Mathias; Krähnert, Kati; Kroh, Martin (Hrsg.): Kriminalität und Innere Sicherheit: Objektive Lage und Wahrnehmung durch Medien und Politik. DIW-Vierteljahrsheft 84. Jahrgang 2.2015.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Bug, Mathias; Kraus, Martina; Walenda, Bartosz (2015): 
+Analoge und digitale Unsicherheiten: Neue Perspektive auf Kriminalitätsfurcht. 
+In: DIW Wochenbericht 12/2015, S. 280-287. 
+http://www.diw.de/documents/publikationen/73/diw\_01.c.498292.de/15-12-4.pdf</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Bug, Mathias; Kroh, Martin; Meier, Kristina (2015): 
+Regional Crime Rates and Fear of Crime: WISIND Findings. 
+In: DIW-Economic Bulletin 12-2015. 
+http://www.diw.de/documents/publikationen/73/diw\_01.c.498987.de/diw\_econ\_bull\_2015-12-1.pdf</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Bug, Mathias; Meier, Kristina (2015): 
+Aufbereitung der Kriminalstatistik zu einem aussagekräftigen Bedrohungsbild - Vorschläge der Berechnung. 
+In: DIW Wochenbericht 3-2015.  
+http://www.diw.de/documents/publikationen/73/diw\_01.c.494702.de/15-3-1.pdf</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Bug, Mathias; Kroh, Martin; Meier, Kristina (2015): 
+Regionale Kriminalitätsbelastung und Kriminalitätsfurcht – Befunde der WISIND-Studie. 
+In: DIW-Wochenbericht 12-2015. 
+http://www.diw.de/documents/publikationen/73/diw\_01.c.498286.de/15-12-1.pdf</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

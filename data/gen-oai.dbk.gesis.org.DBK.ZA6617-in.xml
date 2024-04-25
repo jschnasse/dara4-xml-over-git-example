@@ -1,0 +1,217 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Young People of Turkish Descent in Germany'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Junge Türkischstämmige in Deutschland'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA6617</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Junge Türkischstämmige in Deutschland</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Young People of Turkish Descent in Germany</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Berlin</firstName>
+				<middleName/>
+				<lastName>Presse- und Informationsamt der Bundesregierung</lastName>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6617?doi=10.4232/1.12556</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12556</doiProposal>
+	<publicationDate>
+		<date>2016-06-30</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6617</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Religion und Werte</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Religion and values</term>
+					<term>Social conditions and indicators</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Allgemeine Lebenssituation von Türkischstämmigen in Deutschland  und deren Verhältnis zu Deutschland und den Deutschen. Zugehörigkeitsgefühl und Identität. Integration. Gesellschaft und Politik. 
+1. Allgemeine Lebenssituation und Verhältnis zu Deutschland und den Deutschen: Geburt in Deutschland; allgemeine Lebenszufriedenheit; Eltern leben noch, Eltern leben in Deutschland oder im Ausland; eigene Zukunft eher in Deutschland, in der Türkei, in Europa oder anderswo; Lebenszufriedenheit in Deutschland; positive Merkmale Deutschlands bzw. Störendes; Kontakte zu Deutschen: Anteil der Personen deutscher Herkunft im Freundeskreis; Herkunft der beiden engsten Freunde; Bereitschaft zu einer Partnerschaft mit einem nicht-muslimischen Partner (nur Muslime); 
+2. Zugehörigkeitsgefühl und Identität: Deutsche Staatsangehörigkeit; beabsichtigte deutsche Staatsbürgerschaft; Verbundenheit mit Deutschland und mit der Türkei; Selbsteinschätzung der deutschen und türkischen Sprachkenntnisse; Identität als Deutsche/r, Türke/Türkin oder (nur Muslime: Muslim/Muslima); Kultur und kulturelle Fremdheit: Religiosität und Glaubenspraxis im Alltag; Einstellungen zum Thema Religion und Gesellschaft. 
+3. Integration: Gefühl der Akzeptanz als gleichberechtigter Bürger; Häufigkeit erfahrener Diskriminierung in verschiedenen Situationen; Einstellung zum Thema Integration (Skala); Angaben zum eigenen Migrationshintergrund (Generation); bessere Integration der Generation der Eltern oder der eigenen Generation; Selbsteinschätzung der eigenen Integration; wichtige Aspekte im Hinblick auf die Integration von Zuwanderern (Zuwanderer selbst sowie Staat bzw. deutsche Gesellschaft); Realisierung dieser Aspekte bzw. Maßnahmen.
+4. Gesellschaft und Politik: Zukunftssorgen; Politikinteresse; Demokratiezufriedenheit; Meinung zum Thema Zuwanderung: eher Vorteile oder Nachteile für Deutschland durch die Zuwanderung; Deutschland sollte mehr oder weniger Flüchtlinge aufnehmen. 
+Demographie: Geschlecht; Alter; Erwerbsstatus; Religionszugehörigkeit; muslimische Glaubensgemeinschaft; Kinder und Anzahl eigener Kinder; Familienstand; Aufenthaltsdauer in Deutschland (Lebensjahr); Mitgliedschaften in Vereinen, Verbänden, kirchlichen und gesellschaftlichen Organisationen sowie Gruppen, die Traditionen des Herkunftslandes der Familie pflegen; Zweck der erteilten Aufenthaltserlaubnis; Schulabschluss erworben; Erwerb des Schulabschlusses in Deutschland, in der Türkei oder anderswo; höchster Schulabschluss; höchster in der Türkei erworbener Schulabschluss; berufliche Stellung; Haushaltsnettoeinkommen.
+Zusätzlich verkodet wurde: Befragten-ID; Gewichtungsfaktor; BIK-Gemeindetyp; Integrations-INDEX.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>General situation of young people of Turkish descent and their relationship to Germany and the Germans. Sense of belonging and identity. Integration. Society and politics.
+1. General situation and relationship to Germany and the Germans: born in Germany; general life satisfaction; parents are still alive, parents live in Germany or abroad; own future rather in Germany, in Turkey, in Europe, or elsewhere; life satisfaction in Germany; positive and or disturbing characteristics of Germany; personal contacts with Germans: proportion of people of German origin in the circle of friends; origin of the two closest friends; readiness for a partnership with a non-Muslim partner (Muslims only).
+2. Sense of belonging and identity: German nationality; intention to German citizenship; closeness to Germany and to Turkey; self-assessment of German and Turkish language skills; identity as a German Turk (Muslims only: or Muslim); culture and cultural alienation: religiousness and religious practice in everyday life; attitudes towards religion and society.
+3. Integration: sense of acceptance as an equal citizen; frequency of discrimination experience in different situations; attitude towards integration (scale); information on personal immigrant background (generation); better integration of the generation of the parents or of the own generation; self-assessment of personal integration; important aspects with regard to the integration of immigrants (immigrants themselves, state and German society); realization of these aspects and measures.
+4. Society and politics: future worries; interest in politics; satisfaction with democracy; opinion on immigration: more advantages or disadvantages by immigration for Germany; Germany should take more or less refugees.
+Demography: sex; age; employment status; religious affiliation; Muslim affiliation; number of own children; marital status; duration of stay in Germany (age); memberships in clubs, associations, ecclesial and social organizations, and in groups, that maintain the traditions of the country of origin of the family; purpose of residence permit; graduation acquired; acquisition of graduation in Germany, in Turkey or elsewhere; highest education degree; highest in Turkey acquired education degree; occupational position; household income.
+Also encoded was: respondent-ID; weighting factor; BIK-type of municipality; integration-INDEX.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Türkischstämmige Bevölkerung in Deutschland im Alter von 18 bis 34 Jahren</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Young people of Turkish descent in Germany aged 18 to 34 years</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Repräsentative Zufallsauswahl aus onomastischer Stichprobe</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2015-10-21</date>
+				</startDate>
+				<endDate>
+					<date>2015-11-21</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest Politikforschung, Berlin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview: CATI (Computer Assisted Telephone Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>155</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie wurde im Auftrag des Bundespresseamtes durchgeführt.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The study was conducted on behalf of the Federal Press Office.</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Infratest: Junge Türkischstämmige in Deutschland: Dezember 2015.
+Berlin 2015</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

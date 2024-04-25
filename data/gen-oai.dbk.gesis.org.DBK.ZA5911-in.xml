@@ -1,0 +1,343 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'The Europeanisation of Everyday Life: Cross-Border Practices and Transnational Identities among EU and Third-Country Citizens (EUCROSS)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'The Europeanisation of Everyday Life: Cross-Border Practices and Transnational Identities among EU and Third-Country Citizens (EUCROSS)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5911</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>The Europeanisation of Everyday Life: Cross-Border Practices and Transnational Identities among EU and Third-Country Citizens (EUCROSS)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>The Europeanisation of Everyday Life: Cross-Border Practices and Transnational Identities among EU and Third-Country Citizens (EUCROSS)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Ettore</firstName>
+				<middleName/>
+				<lastName>Recchi</lastName>
+				<affiliation>
+					<affiliationName>Università ‘G. d’Annunzio’ di Chieti-Pescara, Italy</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Michael</firstName>
+				<middleName/>
+				<lastName>Braun</lastName>
+				<affiliation>
+					<affiliationName>GESIS–Leibniz Institut für Sozialwissenschaften, Mannheim, Germany</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Adrian</firstName>
+				<middleName/>
+				<lastName>Favell</lastName>
+				<affiliation>
+					<affiliationName>Aarhus Universitet, Denmark</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Juan Díez</firstName>
+				<middleName/>
+				<lastName>Medrano</lastName>
+				<affiliation>
+					<affiliationName>IBEI–Institut Barcelona d’Estudis Internacionals, Spain</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Mike; Laurie Hanquinet</firstName>
+				<middleName/>
+				<lastName>Savage</lastName>
+				<affiliation>
+					<affiliationName>University of York, United Kingdom</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Dumitru</firstName>
+				<middleName/>
+				<lastName>Sandu</lastName>
+				<affiliation>
+					<affiliationName>Universitatea din Bucuresti, Romania</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5911?doi=10.4232/1.12381</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12381</doiProposal>
+	<publicationDate>
+		<date>2016-03-11</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5911</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Migration</term>
+					<term>Informationsgesellschaft</term>
+					<term>Soziale und berufliche Mobilität</term>
+					<term>Minderheiten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Cultural and national identity</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Migration</term>
+					<term>Information society</term>
+					<term>Social and occupational mobility</term>
+					<term>Minorities</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>EUCROSS untersucht die Beziehung zwischen den vielfältigen Aktivitäten von Einwohnern der EU (Bürger im eigenen Land, mobile EU Bürger, Bürger aus Drittstaaten) über nationale Grenzen hinweg, sowie die Ausprägung kollektiver Identitäten.
+Themen: 1. Grenzüberschreitende Praktiken: Regionen und Länder, mit denen der Befragte vertraut ist; Gründe für diese Vertrautheit (Arbeit, Studium, Familie, Partnerbeziehung, Freunde, Freizeit, Urlaub, andere); Motivation für die Entscheidung, sich im Land niederzulassen; Jemals in einem anderen Land für drei oder mehr aufeinander folgende Monate gelebt vor Erreichen des 18. Lebensjahres und jeweilige Länder; Jahr oder Zeitraum, in dem der Befragte in diesem Land lebte; Land sowie Jahr oder Zeitraum des längsten Aufenthalts; Anzahl der besuchten Länder für Auslandsreisen; Bereitschaft, in das Land der Geburt zurückzukehren zur Verbesserung der  Arbeitsbedingungen und der Lebensbedingungen; Teilnahme an einem internationalen Austauschprogramm, das von der Europäischen Union finanziert wurde; eigene Kinder im Schulalter sollten einige Monate in einem anderen Land verbringen; Anzahl der Auslandsreisen mit mindestens einer Übernachtung in den letzten 24 Monaten; besuchte Länder; Hauptgründe für diese Reisen; Anteil der Familienmitglieder, Schwiegereltern und Freunde, die ursprünglich aus anderen Ländern stammen (Migranten: aus dem Land der Geburt, aus dem Land des Wohnsitzes, aus anderen Ländern); Anteil der Familienmitglieder, Schwiegereltern oder Freunde, die außerhalb des Landes leben und Herkunft dieser Personen; Häufigkeit der Kommunikation mit Familienmitgliedern, Schwiegereltern oder im Ausland lebenden Freunden; Kommunikationswege; Amtssprache des Landes ist die Muttersprache des Befragten; Muttersprache; primär gesprochene Sprache im Haushalt des Befragten; jemals andere Sprachen neben der Muttersprache und der Amtssprache im Land gelernt; Fremdsprachenkompetenz; Fremdsprache, die der Befragte am besten spricht; Prozentsatz aller erhaltenen privaten und geschäftlichen Mitteilungen aus dem Ausland; Aktivität in einer Organisation oder Gruppe, die auf andere Länder oder Kulturen ausgerichtet ist; Häufigkeit von Geldüberweisungen ins Ausland aus anderen Gründen als dem Kauf von Waren oder Dienstleistungen; Empfänger des Geldes (Verhältnis zum Befragten); Befragter erhielt Geld von jemandem, der in einem anderen Land lebt; Beziehung zu diesen Personen; Befragter oder sein Partner besitzt Eigentum im Land des Wohnsitzes oder in einem anderen Land; Land des Eigentums; Kauf von Waren oder Dienstleistungen von Verkäufern oder Anbietern im Ausland und deren Geschäftssitz (Land); Häufigkeit der Rezeption von Sportarten in den Medien; Rezeption von Sport auf nationaler Ebene oder in einem anderen Land; Häufigkeit des Empfangs von TV-Inhalten in anderen Sprachen (nicht synchronisiert) als die offizielle Landessprache oder die Muttersprache; präferierte Musikarten; präferierte fremde Küche; Lebenszufriedenheit.
+2. Europäische Identifizierung und kosmopolitische Werte: Identifizierung als Bürger der Stadt des Wohnsitzes, der Region, des Landes, Europas, der Welt); Identität  (nur regionale, regionale und europäische, europäische und regionale, nur europäische, Geburtsland usw.); Assoziation mit dem Begriff Europa (der europäische Kontinent, die Europäische Union, eine gemeinsame europäische Kultur und Geschichte, die christliche Religion, keine); Teilnahme an den letzten Wahlen zum Europäischen Parlaments im Juni 2009 (nicht im türkischen Fragebogen enthalten) und bei den letzten nationalen Wahlen im Land; Wahrnehmung der Flagge der Europäischen Union oder eines Bildes der Flagge während der letzten sieben Tage und Gelegenheit (z.B. Fahne als solche, Piktogramm auf Pass, Ausweis, Führerschein usw., Links-Rechts-Selbst-Selbsteinstufung; gute Sache für eine  Gesellschaft, die sich aus Menschen aus verschiedenen ethnischen Gruppen, Religionen und Kulturen zusammensetzt; steigende Verbreitung von ausländischen Filmen, Musik und Büchern schadet der nationalen und lokalen Kultur; Wichtigkeit ausgewählter Ziele der Europäischen Union (Solidarität zwischen den Völkern in der EU, Demokratie und Menschenrechte in den einzelnen EU-Ländern, wirtschaftliche Stabilität in den einzelnen EU-Ländern, das Recht, in jedem Land der EU zu arbeiten, eine gemeinsame Währung); die EU sollte keine neuen Mitgliedstaaten akzeptieren; EU-Institutionen sollten einige ihrer Entscheidungsbefugnisse zurück übertragen auf ihre Mitgliedsstaaten; Meinung zum Beitritt ausgewählter Länder zur Europäischen Union (Türkei, Kroatien, Ukraine, Norwegen sowie retrospektiv: Finnland, Griechenland, Polen und Bulgarien);  finanzielle Unterstützung im Falle einer Naturkatastrophe im regionalen Verwaltungsbezirk (nur die jeweilige Verwaltung der Landesregion versus  das Land als Ganzes); finanzielle Unterstützung im Falle einer Naturkatastrophe eines anderen EU-Mitgliedsstaates (nur durch das jeweilige Land versus durch alle EU-Mitgliedsstaaten); Meinung zu nationalen staatlichen Hilfsfonds, um EU-Ländern zu helfen,  die Schwierigkeiten bei der Rückzahlung ihrer Schulden haben; Meinung im Falle der Auflösung der Europäischen Union (Bedauern, Gleichgültigkeit, Erleichterung).
+Migranten zusätzlich: Selbsteinschätzung der Sprachkenntnisse zum Zeitpunkt der Einwanderung und jetzt; erfahrene Diskriminierung wegen der Geburt in einem anderen Land.
+Demographie: Geschlecht; Alter (Geburtsjahr); Staatsbürgerschaften; Geburtsland; Jahr der Übersiedlung; Familienstand; Partner; Partner lebt im Umfrageland; Land des Wohnsitzes des Partners; höchster Bildungsstand; Beschäftigungsstatus oder aktuelle Situation; jemals erwerbstätig; Hauptberuf; Name oder Titel des Hauptberufs; Häufigkeit der beruflichen Interaktion mit Menschen im Ausland (z. B. Geschäftspartnern, Klienten, Kollegen); nationale Staatsbürgerschaft von Vater und Mutter bei ihrer Geburt; höchstes Bildungsniveau der Eltern; als der Befragte 14 Jahre alt war: Elternteil, der am meisten zum Haushaltseinkommen beitrug; Vater / Mutter war Angestellter, selbständig oder arbeitete nicht; Name oder Titel des Hauptberufs von Vater / Mutter; finanzielle Situation des Haushaltes, als der Befragte 14 Jahre alt war; Partner: Geschlecht des Partners; Jahr des Beziehungsbeginns; nationale Staatsbürgerschaft des Partners bei seiner Geburt; höchstes Bildungsniveau des Partners; Beschäftigungsstatus oder aktuelle Situation des Partners; Erwerbstätigkeit des Partners in der Vergangenheit; Partner ist / war Angestellter, selbständig oder arbeitete für das Unternehmen seiner Familie; Name oder Titel des Hauptberufs des Partners; derzeitige finanzielle Situation des Haushalts.
+Zusätzlich verkodet wurde: Eindeutige Nummer; Internationale Standardklassifikation der Berufe (ISCO 2008); Internationaler sozioökonomischer Index des beruflichen Status (ISEI, nach Ganzeboom); Stichprobengruppe.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>EUCROSS examined the relationship between the manifold activities of EU residents (nationals, mobile EU citizens, and third-country nationals) across the borders of nation states and their collective identities. 
+Topics: 1. Cross-border practices: regions and countries the respondent is familiar with; reasons for this familiarity (work, study, family, partner relationship, friends, leisure, holidays, other); motivation for the decision to settle in the country; ever lived in another country for three or more consecutive months before the respondent turned 18 and countries; year or period the respondent lived in this country; country, and year or period of the longest stay; number of visited countries for journeys abroad; willingness to move back to the country of birth to improve work and living conditions; participation in an international exchange program that has been funded or co-funded by the European Union; own school age children should spend some months in another country; number of trips abroad with at least one overnight stay in the past 24 months; visited countries; main reasons for those trips; percentage of family members, in-laws and friends who are originally from other countries (migrants: from respondent´s country of birth, from the country of residence, from other countries); percentage of family-members, in-laws or friends living outside respondent´s country and origin of those people; frequency of communication with family-members, in-laws or friends living abroad; ways of communication; official language of the country is respondent´s native language; native language; primarily spoken language in the respondent´s household; ever learned other languages beside the native language and the official language in the country; foreign language competence; foreign language the respondent speaks best; percentage of all received private and business related messages which came from abroad; activity in any organisation or group which is oriented towards other countries or cultures; frequency of sending money abroad for reasons other than purchasing good or services; recipient of the money (relationship to the respondent); respondent received money from someone who is living in another country; relationship to those persons; respondent or his partner owns property in the country of residence or in another country; country of property; purchase of good or services from sellers or providers located abroad; place of business of these sellers or providers (country); frequency of following sports in the media; sports on international level or in another country; frequency of receiving TV content in other languages (and not dubbed) than the official country language or the native language; preferred kinds of music; preferred foreign cuisine; life satisfaction. 
+2. European identification and cosmopolitan values: identification as a citizen of the town of residence, of the region, of the country, European, of the world); identity: (regional only, regional and European, European and regional, European only, country of birth, etc.); association with the term Europe (the European continent, the European Union, a shared European culture and history, the Christian Religion, none of these); voted in the last elections of the European Parliament in June 2009 (not included in the Turkish questionnaire) and in the last general elections in the country; perception of the flag of the European Union or an image of the flag during the last seven days, and occasion (e.g. flag as such, Pictogram on passport, ID cards, on drivers licenses, etc.; left-right self-placement; it is a good thing of a society to be made up of people from different ethnic groups, religions and cultures; increased exposure to foreign films, music, and books is damaging national and local cultures; importance of different aims of the European Union (solidarity between the peoples in the EU, democracy and human rights in the single EU countries, economic stability in the single EU countries, the right to work in any country of the EU, a common currency); the EU should not continue to accept new member states; EU institutions should transfer some of their decision-making power Back to the member states; opinion on the admittance of several countries to the European Union (Turkey, Croatia, Ukraine, Norway, and in retrospect: Finland, Greece, Poland and Bulgaria); financial contributions in the case of a natural disaster of another country´s relevant administrative district or region (only the respective country´s relevant administrative district or region vs. the country as a whole); financial contributions in the case of a natural disaster of another member state of the European Union (only the respective country vs. all member states of the European Union); opinion on national state funds to help EU countries having difficulties in paying their debts; opinion in the case of the European Union´s dissolving (sorry, indifferent, relieved). 
+Migrants additionally: self-assessment of language skills at the time of immigration and now; experienced discrimination because of birth in another country. 
+Demography: sex; age (year of birth); citizenships; country of birth; year of settlement; marital status; partner; partner lives in the survey country; partner´s country of residence; highest level of education; employment status or current situation; ever had a paid job; main job; name or title of main job; frequency of interaction with people (e.g. business partners, clients, colleagues) who are located in another country, national citizenship of father and mother at their birth; parents´ highest level of education; when the respondent was 14 years old: father or mother contributed financially the most to the household income; father/mother was an employee, self-employed or not working; name or title of father/mother; financial situation of the household when the respondent was 14 years old; partner: sex of respondent´s partner; start year of the relationship with the partner; national citizenship of partner at his/her birth; partner´s highest level of education; employment status or current situation of partner; partner ever had a paid job; partner is/was an employee, self-employed or working for his/her family business; name or title of partner´s main job; current financial situation of the household. 
+Additionally coded was: respondent ID number; International Standard Classification of Occupations (ISCO 2008); International Socio-economic Index of Occupational Status (ISEI, according to Ganzeboom); sample group.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>RO</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Staatsangehörige und Migranten aus Rumänien und der Türkei ab 18 Jahren in Dänemark, Deutschland, Italien, Rumänien, Spanien und Großbritannien</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Nationals and migrants from Romania and Turkey aged 18 and over in Denmark, Germany, Italy, Romania, Spain, and the UK</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample: Multistage Sample
+
+Random digit dialing (RDD) was used to sample national populations. The sampling of migrants was realised via linguistic screening of names in telephone directories (the so-called ´onomastic procedure´).</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2012-06</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2013-04</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Sozialwissenschaftliches Umfragezentrum (SUZ), Duisburg
+BERENT Deutschland GmbH, Witzenhausen (only the interviews with Danish nationals)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)
+Persönliches Interview: CAPI (Computerunterstützte persönliche Befragung)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview: CATI (Computer Assisted Telephone Interview)
+Face-to-face interview: CAPI (Computer Assisted Personal Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>1038</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Das Projekt ´Europeanisation of Everyday Life: Cross-Border Practices and Transnational Identities among EU and Third-Country Citizens (EUCROSS)´ wurde im 7. Rahmenprogramm durch die Europäische Kommission gefördert.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The ´Europeanisation of Everyday Life: Cross-Border Practices and Transnational Identities among EU and Third-Country Citizens (EUCROSS)´ project has been funded by the European Commission as part of the 7th Framework Programme.</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Favell, Adrian and David Reimer. 2013. Winners and Losers? Citizens and Sceptics? European Integration and the Spread of Cosmopolitanism. EUCROSS Policy Brief 1. 
+http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395294.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Apaydin, Fulya and Juan Díez Medrano. 2014. Are Cross-Border Practices a Threat to Democratic Participation among EU Citizens?. EUCROSS Policy Brief 2. 
+http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395599.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Croitoru, Alin, Dumitru Sandu, and Elena Tudor. 2014. Romanians’ Social Transnationalism in the Making. EUCROSS Working Paper 8. 
+http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395609.
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Pötzschke, Steffen, Deniz Duru, Nazli Sila Cesur, and Michael Braun. 2014. Cross-Border Activities and Transnational Identification of Turkish Migrants in Europe. EUCROSS Working Paper 7. 
+http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395374.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Hanquinet, Laurie and Mike Savage. 2013. Europeanisation and Globalisation. EUCROSS Working Paper 6. 
+http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395684.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Salamonska, Justyna, Lorenzo Grifone Baglioni, and Ettore Recchi. 2013. Navigating the European Space. Physical and Virtual Forms of Cross-Border Mobility among EU Citizens. EUCROSS Working Paper 5. http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395617.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Pötzschke, Steffen. 2012. Measuring Transnational Behaviours and Identities. EUCROSS Working Paper 4. 
+http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395325.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Recchi, Ettore. 2012. Transnational Practices and European Identity. from Theoretical to Policy Issues. EUCROSS Working Paper 3. 
+http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395725.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Favell, Adrian, Ettore Recchi, Theresa Kuhn, Janne Solgaard, and Juliane Klein. 2011. State of the Art Report. EUCROSS Working Paper 1. 
+http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395738.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Hanquinet, Laurie and Mike Savage. 2011. Operationalisation of European Identity, Cosmopolitanism and Cross-Border Practices. EUCROSS Working Paper 2. 
+http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395749.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Recchi, Ettore, ed. 2014. The Europeanisation of Everyday Life: Cross-Border Practices and Transnational Identifications among EU and Third-Country Citizens - Final Report. http://nbn-resolving.de/urn:nbn:de:0168-ssoar-395269.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

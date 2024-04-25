@@ -1,0 +1,372 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Identity Development and Value Transmission among Veteran and Migrant Adolescents and Their Families in Germany and Israel: Life Transitions and Contexts'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Entwicklung  von Identität und Werten unter eingesessenen und eingewanderten Jugendlichen und ihren Familien in Deutschland und Israel: Lebensübergänge und Kontexte'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA5088</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Entwicklung  von Identität und Werten unter eingesessenen und eingewanderten Jugendlichen und ihren Familien in Deutschland und Israel: Lebensübergänge und Kontexte</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Identity Development and Value Transmission among Veteran and Migrant Adolescents and Their Families in Germany and Israel: Life Transitions and Contexts</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Maya</firstName>
+				<middleName/>
+				<lastName>Banish-Weisman</lastName>
+				<affiliation>
+					<affiliationName>Hebrew University of Jerusalem</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Klaus</firstName>
+				<middleName/>
+				<lastName>Boehnke</lastName>
+				<affiliation>
+					<affiliationName>Jacobs University Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Ella</firstName>
+				<middleName/>
+				<lastName>Daniel</lastName>
+				<affiliation>
+					<affiliationName>Hebrew University of Jerusalem</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Hadjar</lastName>
+				<affiliation>
+					<affiliationName>Université de Luxembourg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Ariel</firstName>
+				<middleName/>
+				<lastName>Knafo</lastName>
+				<affiliation>
+					<affiliationName>Hebrew University of Jerusalem</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Anna</firstName>
+				<middleName/>
+				<lastName>Möllering</lastName>
+				<affiliation>
+					<affiliationName>Jacobs University Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Anna-Lena</firstName>
+				<middleName/>
+				<lastName>Musiol</lastName>
+				<affiliation>
+					<affiliationName>Jacobs University Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>David</firstName>
+				<middleName/>
+				<lastName>Schiefer</lastName>
+				<affiliation>
+					<affiliationName>Jacobs University Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5088?doi=10.4232/1.11704</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11704</doiProposal>
+	<publicationDate>
+		<date>2013-06-26</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5088</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>1</identifier>
+			<type>VerbundFDB</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT55</identifier>
+					<!-- Erziehung, Schulwesen -->
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+					<identifier>KAT54</identifier>
+					<!-- Person, Persönlichkeit, Rolle -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Religion und Werte</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>PSYCHOLOGIE</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>Jugend</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Religion and values</term>
+					<term>Social conditions and indicators</term>
+					<term>PSYCHOLOGY</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>Youth</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>Wertorientierung</keyword>
+				<keyword>Rollenbild</keyword>
+				<keyword>nationale Identität</keyword>
+				<keyword>Persönlichkeit</keyword>
+				<keyword>Migrationshintergrund</keyword>
+				<keyword>Ausländerfeindlichkeit</keyword>
+				<keyword>Separation</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>value-orientation</keyword>
+				<keyword>role image</keyword>
+				<keyword>national identity</keyword>
+				<keyword>personality</keyword>
+				<keyword>migration background</keyword>
+				<keyword>xenophobia</keyword>
+				<keyword>separation</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Entwicklung von Identität und Werten unter eingesessenen und eingewanderten Jugendlichen und ihren Familien in Deutschland und Israel.Allgemeine persönliche Werte und Werte im Kontext Familie, Schule bzw. Arbeit, nationale Gruppe und ethnische Gruppe. Wohlbefinden und Selbstwertgefühl. Identifikation mit der nationalen Gruppe und ethnischen Minderheitengruppen.
+A: Kinderfragebogen 
+Welle 1: Allgemeine persönliche Werte und Werte im Kontext Familie, Schule, nationale Gruppe und ethnische Gruppe: Identifikation als Familienmitglied, Schüler, Isreali bzw. Deutscher (wichtiger Teil der eigenen Identität, für die Selbstwahrnehmung bzw. die Fremdwahrnehmung wichtig); Wichtigkeit verschiedener Eigenschaften für das Selbstverständnis als Familienmitglied, Schüler, Israeli bzw. Deutscher; Zuwanderung des Befragten bzw. seiner Eltern aus der Ehemaligen Sowjetunion nach Israel bzw. nach Deutschland; Russisches Selbstverständnis als wichtiger Teil der eigenen Identität, für die Selbstwahrnehmung bzw. die Fremdwahrnehmung wichtig; Wichtigkeit verschiedener Eigenschaften für das Selbstverständnis als Russe (bzw. ehemaliger Sowjetbürger); Zuwanderung des Befragten bzw. seiner Eltern aus der Türkei nach Deutschland; Türkisches Selbstverständnis als wichtiger Teil der eigenen Identität, für die Selbstwahrnehmung bzw. die Fremdwahrnehmung wichtig; Wichtigkeit verschiedener Eigenschaften für das Selbstverständnis als Türke; nur Israel: Selbstverständnis als arabischer Israeli als wichtiger Teil der eigenen Identität, für die Selbstwahrnehmung bzw. die Fremdwahrnehmung wichtig; Wichtigkeit verschiedener Eigenschaften für das Selbstverständnis als arabischer Israeli; Values in Context Questionnaire (VICQ) nach Daniels: Fragen zu den allgemeinen Werten Wohlwollen, Leistung, Konformität und Selbststeuerung im Kontext von Familie, Schule, nationaler Gruppe und ethnischer Gruppe. 
+Portrait Value Questionnaire (PVQ) nach Schwartz: Macht: Sozialer Status und Prestige, Kontrolle oder Dominanz über Menschen und Ressourcen (Autorität, soziale Macht, Reichtum, Erhaltung meines öffentlichen Images), Leistung: Persönlicher Erfolg durch den Nachweis von Kompetenz gemäß Sozialstandards (ehrgeizig, erfolgreich, kompetent, einflussreich), Hedonismus: Vergnügen oder sinnliche Befriedigung für sich selbst (Vergnügen, Lebensgenuss), selbstverliebt), Stimulation: Aufregung, Neuheit und Herausforderung im Leben (Kühnheit, ein abwechslungsreiches Leben, ein aufregendes Leben), Selbstausrichtung: Selbstständiges Denken und Handeln - Auswählen, Gestalten, Erforschen (Kreativität, Freiheit, Unabhängigkeit, Auswahl eigener Ziele, Neugierde), Universalismus: Verständnis, Wertschätzung, Toleranz, Schutz für das Wohlergehen aller Menschen und für die Natur (Gleichheit, soziale Gerechtigkeit, Weisheit, Großzügigkeit), Umweltschutz, Einheit mit der Natur, eine Welt der Schönheit), Güte: Erhaltung und Verbesserung des Wohlergehens der Menschen, mit denen man in häufigem persönlichen Kontakt ist (hilfsbereit, ehrlich, verzeihend, loyal, verantwortungsbewusst), Tradition: Respekt, Engagement und Akzeptanz der Gepflogenheiten und Ideen, die von der traditionelle Kultur oder Religion angeboten werden (fromm, Respekt vor der Tradition, demütig), moderat), Konformität: Beherrschung von Handlungen, Neigungen und Impulsen, die geeignet sind, andere zu stören oder zu schädigen und soziale Erwartungen oder Normen zu verletzen (Selbstdisziplin, Höflichkeit, Ehrerbietung gegenüber Eltern und Alten, Gehorsam), Sicherheit: Sicherheit, Harmonie und Stabilität der Gesellschaft, der Beziehungen und des Selbst (Familiensicherheit, national).
+Wohlbefinden und Selbstwertgefühl: Leben entspricht den eigenen Idealen, Selbstwertgefühl, viele gute Eigenschaften, ausgezeichnete Lebensbedingungen, gleiche Fähigkeiten wie andere Menschen, positive Einstellung zu sich selbst, Selbstzufriedenheit, Lebenszufriedenheit, wichtige Dinge im Leben erreicht, würde nichts im Leben ändern; Need for cognitive closure scale: Abneigung gegen unsichere Situationen, Unwohlsein bei Nichtverstehen von Lebensereignissen, unentschlossen, schnelle und sichere Entscheidungen, mit Entscheidungen herumschlagen, beide Seiten in Konfliktsituationen sehen, Problemlösungsverhalten: unterschiedliche Meinungen berücksichtigen, Unwohlsein bei unklaren Absichten Dritter, viele Lösungsmöglichkeiten).
+Identifikation mit der nationalen Gruppe und ethnischen Minderheitengruppen: Soziale Distanz zu verschiedenen Bevölkerungsgruppen (Israel: eingesessene israelische Juden, Einwanderer aus der früheren Sowjetunion, israelische Araber, äthiopische Einwanderer, Deutschland: Deutsche, Einwanderer aus der früheren Sowjetunion, Türken, Menschen mit schwarzer Hautfarbe) als Familienmitglied, Freund bzw. Klassenkamerad; Intergruppen-Einstellung: Einstellung gegenüber den vorgenannten Bevölkerungsgruppen (bereichern durch ihre Kultur, Unwohlsein beim Händeschütteln, möglichst kein Kontakt); Intergruppen-Kontakt: Häufigkeit persönlicher Kontakte mit Autoritätspersonen aus den vorgenannten Bevölkerungsgruppen sowie im privaten Umfeld. 
+Die kognitive Komplexität wurde mit der ´Latin Square Task´ (nach Birney, Halford, &amp; Andrews (2006) gemessen, ähnlich einer Sudoku-Aufgabe mit dem Unterschied, dass Zahlen durch geometrische Figuren (Dreieck, X, Kreis, Raute) ersetzt werden, die in verschiedene Quadrat-Gitter eingefügt werden. 
+Demographie: Alter; Geschlecht; Anzahl Geschwister; Position in der Geschwisterfolge; Familiensituation; Migrationshintergrund: Geburtsland; Alter bei Zuwanderung; Herkunftsland von Vater und Mutter; Zeitpunkt der Zuwanderung (als Kind, als Erwachsener, nach der Geburt des Befragten, vor der Geburt des Befragten (nur Deutschland); Sprachkenntnisse; zu Hause gesprochene Sprache; Anzahl der Russisch und Hebräisch sprechenden Freunde (Israel) bzw. der Russisch und Türkisch sprechenden Freunde (Deutschland); Anzahl der Wohnräume; Beruf von Vater und Mutter; Religion der Familie (jüdisch, christlich, muslimisch oder andere); Bildung der Eltern; Kinderwunsch; Anzahl der gewünschten Kinder. 
+Zusätzlich verkodet wurde: ID Befragter; Herkunftsland des Befragten (Deutschland, Israel); Welle; ID Schule; ID Klasse; Fragebogensprache (Hebräisch, Russisch, Arabisch, Deutsch).
+Welle 2: Werteorientiertes Verhalten (Value-Related Behavior);Zusätzlich nur in Deutschland: Fragebogen zum Ego-Identitätsprozess (Ego Identity Process Questionnaire) und Hierarchisches Eigeninteresse (Hierarchical Self-Interest- HSI): Machiavellismus, Wettbewerbsfähigkeit, Leistungsorientierung und Individualismus.
+B: Elternfragebogen 
+Welle 1: Allgemeine persönliche Werte und Werte im Kontext Familie, Arbeit, nationale Gruppe und ethnische Gruppe; Portrait Value Questionnaire (PVQ) nach Schwartz; allgemeine Lebenszufriedenheit (nahe an eigenen Idealen, Lebenszufriedenheit, ausgezeichnete Lebensbedingungen, wichtige Dinge im Leben erreicht, kein Änderungsbedarf); Abwertende Einstellungen gegenüber anderen ethnischen oder nationalen Gruppen (soziale Distanz); Erziehungsstil (Dyadische Einstellung): Umfang von Übereinstimmung oder Unstimmigkeit mit dem Partner in Bezug auf Lebensphilosophie, wichtige Ziele und Zielsetzungen, Anteil gemeinsam verbrachter Zeit und Kindererziehung; Häufigkeit von anregendem Ideenaustausch, ruhigen Diskussionen und gemeinsamer Arbeit an einem Projekt mit dem Partner.
+Demographie: Alter; Familienstand; Ehedauer bzw. Jahre seit der Scheidung; Zusammenleben mit dem Elternteil des teilnehmenden Kindes; Anzahl der Kinder und Alter dieser Kinder; Migrationshintergrund: Geburtsland; Alter bei Migration nach Deutschland bzw. Israel; Muttersprache(n); Anzahl der Wohnräume; Haushaltsgröße; Haushaltseinkommen im Verhältnis zum Durchschnittseinkommen; erlernter Beruf; Beruf der derzeitigen Beschäftigung; Religion der Familie (jüdisch, christlich, muslimisch oder andere); Religiosität; Religionszugehörigkeit (nur Israel); Jahre der Schulbildung höchster Bildungsabschluss.
+Welle 2: Zusätzlich Skala Identitätsstatus; nur in Deutschland: Hierarchisches Eigeninteresse (Hierarchical Self-Interest- HSI): Machiavellismus, Wettbewerbsfähigkeit, Leistungsorientierung und Individualismus.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>General personal values and values in the context of family, school and work, national group and ethnic group. Well-being and self-esteem. Identification with national group and ethnic minority group. Intergroup attitudes and intergroup contact. Social distance.
+A: Adolescents questionnaire:
+Wave 1: General personal values: Portrait Value Questionnaire (PVQ): Power: social status and prestige, control or dominance over people and resources (authority, social power, wealth, preserving my public image), Achievement: personal success through demonstrating competence according to social standards (ambitious, successful, capable, influential), Hedonism: pleasure or sensuous gratification for oneself (pleasure, enjoying life,self-indulgent), Stimulation: excitement, novelty, and challenge in life (daring, a varied life, an exciting life), Self-direction: independent thought and action-choosing, creating, exploring (creativity, freedom, independent, choosing own goals, curious), Universalism: understanding, appreciation, tolerance, and protection for the welfare of all people and for nature (equality, social justice, wisdom, broadminded, protecting the environment, unity with nature, a world of beauty), Benevolence: preservation and enhancement of the welfare of people with whom one is in frequent personal contact (helpful, honest, forgiving, loyal, responsible), Tradition: respect, commitment, and acceptance of the customs and ideas that traditional culture or religion provide (devout, respect for tradition, humble, moderate), Conformity: restraint of actions, inclinations, and impulses likely to upset or harm others and violate social expectations or norms (self-discipline, politeness, honoring parents and elders, obedience), Security: safety, harmony, and stability of society, of relationships, and of self (family security, national); values in the context: familiy, student, nationality, ethnic group (Values in Context Questionnaire (VICQ); self-esteem (Rosenberg Self-Esteem Scale), satisfaction with life; need for cognitive closure; identification with national group and ethnic minority group; intergroup attitudes; intergroup contact; social distance; cognititve ability (Latin Square Task).
+Demography: age; sex; number of siblings; position in sibling succession; family situation; migration background: country of birth; age at immigration; country of origin of father and mother; time of immigration (as a child, as an adult, after the respondent´s birth, before the respondent´s birth (Germany only); language skills; language spoken at home; number of Russian- and Hebrew-speaking friends (Israel) or of Russian and Turkish-speaking friends (Germany); number of living space; occupation of father and mother; family religion (Jewish, Christian, Muslim or other); parents´ education; wish to have children; number of children the respondent would like to have. 
+Wave 2: General personal values (Portrait Value Questionnaire (PVQ); values in the context: familiy, student, nationality, ethnic group (Values in Context Questionnaire (VICQ); self-esteem (Rosenberg Self-Esteem Scale), satisfaction with life; need for cognitive closure; identification with national group and ethnic minority group; intergroup attitudes; intergroup contact; ego identitiy questionnaire (only Germany); hierarchical self-interest (only Germany).
+B: Parents questionnaire: 
+Wave 1: General personal values (Portrait Value Questionnaire (PVQ); values in the context: familiy, work, nationality, ethnic group (Values in Context Questionnaire (VICQ); satisfaction with life; outgroup attitudes; education style (dyadic adjustment).
+Wave 2: General personal values (Portrait Value Questionnaire (PVQ); values in the context: familiy, work, nationality, ethnic group (Values in Context Questionnaire (VICQ); satisfaction with life; outgroup attitudes; education style (dyadic adjustment); ego identitiy questionnaire (only Germany); hierarchical self-interest (only Germany).
+Demography: age; marital status; duration of marriage or years since divorce; living together with the parent of the participating child; number of children and age of these children; migration background: country of birth; age when migrating to Germany or Germany, respectively Israel; mother tongue(s); number of living space; household size; household income in relation to average income; occupation learnt; occupation of current activity; religion of the family (Jewish, Christian, Muslim or others); religiosity; religious affiliation (Israel only); years of schooling; highest level of education. 
+
+ </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IL</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Kinder und Jugendliche zwischen 9 und 18 Jahren sowie mindestens einer ihrer Eltern (Deutsche, Israelis und israelische Araber, türkische Migranten nach Deutschland sowie russische Migranten nach Israel und Deutschland) 
+In Deutschland wurden Kinder und Jugendliche der Klassenstufen 5 und 6 sowie 10, in Israel wurden Kinder und Jugendliche der Klassensstufen 6 sowie 10 und 11 befragt.
+</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Children and adolescents between the ages of 9 and 18 and at least one of their parents (native Germans, native Israelis and Israeli Arabs, Turkish immigrants to Germany and Russian immigrants to Israel and Germany)
+In Germany, children and adolescents in grades 5, 6 and 10 were interviewed, in Israel children and adolescents in grades 6, 10 and 11 were interviewed.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Geschichtete Klumpenauswahl; Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Geschichtete Klumpenauswahl
+
+In Deutschland wurden Schulen in Bremen und Bremerhaven (Bremen), in Hannover, Osnabrück, Werlte und Cloppenburg (Niedersachsen) sowie privat geführte türkische Schulen in Köln, Paderborn und Mannheim (Nordrhein-Westfalen) ausgewählt.
+In Israel wurden landesweit Schulen ausgewählt.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Cluster: Stratified random; Sampling Procedure Comment: Probability Sample: Stratified Cluster Sample
+
+In Germany, schools were selected in Bremen and Bremerhaven (Federal State of Bremen), in Hanover, Osnabrück, Werlte and Cloppenburg (Lower Saxony) as well as privately run Turkish schools in Cologne, Paderborn and Mannheim (North Rhine-Westphalia).
+In Israel, schools were selected nationwide.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>2007</year>
+				</startDate>
+				<endDate>
+					<year>2008</year>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Jacobs University Bremen
+The Hebrew University of Jerusalem</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>Distributor</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>HostingInstitution</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.Paper</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Selbstausfüller: Papier</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Self-administered questionnaire: Paper</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>8410</numberUnits>
+			<numberVariables>1447</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Erhebungseinheit: Jugendliche; Schüler; Eltern###
+Zweiwellige Längsschnittstudie</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Survey unit: teenagers; students; parents###</text>
+		</note>
+	</notes>
+</resource>

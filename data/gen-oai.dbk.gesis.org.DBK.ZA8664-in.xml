@@ -1,0 +1,171 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'National Tables of international Migration Statistics: Ireland, 1851-1924'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Nationale Tabellen der internationalen Migrations-Statistik: Irland, 1851-1924'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA8664</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Nationale Tabellen der internationalen Migrations-Statistik: Irland, 1851-1924</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>National Tables of international Migration Statistics: Ireland, 1851-1924</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Imre</firstName>
+				<middleName/>
+				<lastName>Ferenczi</lastName>
+				<affiliation>
+					<affiliationName>International Labour Office (ILO), Abt. Migration </affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Walter F.</firstName>
+				<middleName/>
+				<lastName>Willcox</lastName>
+				<affiliation>
+					<affiliationName>National Bureau of Economic Research (NBER) </affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA8664?doi=10.4232/1.12895</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12895</doiProposal>
+	<publicationDate>
+		<date>2017-09-30</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA8664</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT76</identifier>
+					<!-- Daten Historischer Studien -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>GESCHICHTE</term>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>HISTORY</term>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Das vorliegende Datenhandbuch soll der Forschung zu den Aspekten internationaler Migration das adäquate Datenmaterial an die Hand geben. Anregung für diese Datensammlung wurde 1924 durch das Komitee zu den wissenschaftlichen Aspekten menschlicher Wanderung des Social Science Research Council gegeben. Die Durchführung der statistischen Studie wurde dem National Bureau of Economic Research (NBER) in New York (Prof. Dr. Willcox) anvertraut, welches unterstützt wurde von der Abteilung Migration des International Labour Office (ILO bzw. Internationale Arbeitsorganisation (IAO), Prof. Dr. Ferenczi) in Genf (Schweiz). Das vorliegende Datenhandbuch geht über die Zusammenstellung bekannter, vorliegender Statistiken der einzelnen Länder hinaus. Viele Materialien wurden neben den schon publizierten öffentlichen Statistiken in den Archiven zusätzlich gesichtet und aufbereitet. 
+Die Forscher sammelten nationale Statistiken und stellten sie in internationalen Tabellen zusammen, soweit es die Datenlage erlaubte. Die besondere Herausforderung dieser Arbeit lag in der Tatsache, dass die Unvollständigkeit der nationalen Migrationsstatistiken steigt, je weiter die Daten in die Vergangenheit zurückreichen. Für jedes Land wurde die Anzahl der Auswanderer nach dem von ihnen angegebenen Zielland bzw. Einwanderungsland erhoben. Weiterhin wurden im Gegenzug für jedes Land die Einwanderer nach dem Land ihrer Abfahrt erfasst. Damit sollte für jedes Land ein Überblick der dieses Land betreffenden Migrationsflüsse erstellt werden. Interkontinentale Wanderungsbewegungen stellen den Schwerpunkt dieser Studie dar. Die kontinentale Wanderung innerhalb Europas und anderen Teilen der Welt wurde jedoch ebenfalls erfasst. 
+Das Material für die Statistiken wurde beschafft durch die Korrespondenz mit dem ILO und seinen Mitglieds-Staaten (Vereinte Nationen), durch die Zusammenarbeit mit den statistischen Ämtern der jeweiligen Länder und durch Sichtung der Archive.
+In den nationalen Datentabellen werden die Migranten zum Zeitpunkt ihrer Abreise aus dem Land ihres gegenwärtigen Aufenthalts bzw. zum Zeitpunkt ihrer Ankunft in dem Land ihres zukünftigen Aufenthaltes erfasst. Bevölkerungsstatistiken oder Arbeitsmarktstatistiken, in denen auch die ausländische Bevölkerung erfasst wird und die daher eine indirekte Schlussfolgerung auf Wanderungsbewegungen zulassen, sind von den Autoren nicht berücksichtigt worden. (Ferenczi und Willcox, 1969, S. 67) Dort, wo Migrationsstatistiken auf der Basis von unterschiedlichen Methoden erhoben wurden, wie z.B. Hafen-Statistiken, Reisepass-Statistiken, oder Grenz-Statistiken, sind die entsprechenden Werte berücksichtigt worden und in den Tabellen wurde auf die Quelle hingewiesen. Dort, wo in den nationalen Migrationsstatistiken Auswanderer nach dem Zielland oder Einwanderer nach ihrem Herkunftsland klassifiziert wurden, wird sich in der Statistik indirekt auf ein anderes Land bezogen. Für die jeweiligen anderen Länder, welche in diesen nationalen Datentabellen erwähnt werden, stellen diese Statistiken eine Art ’indirekte Wanderungsstatistik‘ dar. Indirekte Statistiken beziehen sich normalerweise auf die Nennung von Ländern (z.B. Herkunftsland). Dort, wo diese Nennungen fehlen, wurde die Nationalität oder die Volkszugehörigkeit der Migranten herangezogen. Weiterhin wird in den Daten zwischen Bürgern des Landes (Dänen, d.h. in Dänemark geborene Bürger) und Ausländern unterschieden. Hierbei wurde immer die Definition des jeweiligen Landes für Staatsbürger und für Ausländer bei der Datenerhebung herangezogen. (Ferenczi und Willcox, 1969, S. 67) Ebenfalls wurde zwischen kontinentalen und interkontinentalen Migrationsbewegungen unterschieden. Eine Migration wird als kontinental bezeichnet, wenn sie zwischen den Territorien verschiedener Länder des gleichen Kontinents stattfindet. Sie wird als interkontinental bezeichnet, wenn Länder unterschiedlicher Kontinente betroffen sind. (Ferenczi und Willcox, 1969, S. 68) Als Regel geben die Autoren folgende persönliche Charakteristiken der Migranten an: Geschlecht, Alter, Nationalität, Beruf, Land des letzten ständigen Aufenthaltsortes und das Land des zukünftigen ständigen Aufenthaltsortes. Diese Eigenschaften wurden auf der Basis der ’International Labour Conference‘ von 1922, Empfehlung Nr. 19, gewählt. Für Migrations-Statistiken sind die staatlichen Territorien von besonderer Bedeutung. Historische Grenzverläufe und ihre Veränderungen über die Zeit sind von besonderer Bedeutung. So ist es z.B. irreführend, den heutigen Begriff des ‚Vereinten Königreichs von England‘ (United Kingdom) zu verwenden, da seine heutige Bedeutung durch die Etablierung des Freien Irischen Staates sich verändert hat. Daher wird der Begriff ‚Britische Inseln‘ von den Autoren verwendet. Dort, wo sich historische Territorien über die Zeit verändert haben, wurde das neue Territorium in der Hauptüberschrift und das ältere Territorium unterhalb der Hauptüberschrift genannt (z.B.: Ungarn – vor dem Krieg und nach dem Krieg; Irish Free State – Ireland, etc.) (Ferenczi und Willcox, 1969, S. 68) Wo frühere Territorien aufgehört haben, ein selbständiges politisches oder administratives Gebiet zu sein, wurde es unter dem früheren vorherrschenden Gebiet klassifiziert (z.B. wurden Bosnien und Herzegovina unter Österreich plaziert). In allen Tabellen werden die Migranten in 12-Monats-Perioden dargestellt, soweit es möglich war. Rechnungsjahre wurden meistens von Kalenderjahren getrennt dargestellt, wobei eine Information über die exakte Periode des Rechnungsjahres in den Anmerkungen gegeben wurde. Wo Statistiken nur für Fünfjahres- oder Zehnjahres-Zeiträume vorlagen, wurde in den Originalquellen nach den jeweiligen Jahresdaten recherchiert. Es kamen für die Studie nur Statistiken offizieller Quellen zur Anwendung. Nur in seltenen Fällen wurde auf sekundäre Quellen zurückgegriffen (Briefe, offizielle Korrespondenzen). Der Vorzug wurde den offiziellen Statistiken mit dem spätesten Datum gegeben. Die Nationalen Statistiken des vorliegenden Datenhandbuches berichten die Berufe in der Klassifikation, die in den Quellen verwendet wurde. Wo möglich, wurde die Untergliederung mit den sechs Klassen ’Landwirtschaft‘, ’Industrie und Bergbau‘, ’Transport und Handel bzw. Kommunikation‘, ’Hausdienstleistungen und Handwerk‘, ’freie Berufe und öffentliche Dienstleistungen‘, sowie ’andere Berufe, keinen Beruf, Beruf unbekannt‘ gewählt. Familienmitglieder, die nicht berufstätig waren, wurden in Kategorie 6 (andere Berufe, keinen Beruf, Beruf unbekannt) eingeordnet. (Ferenczi und Willcox, 1969, S. 70)In den nationalen Datentabellen, in denen die Einwanderer nach dem Land des letzten ständigen Aufenthaltsortes oder nach ihrer Nationalität aufgeführt werden, wurde meistens die Klassifikation der genutzten offiziellen Quelle des jeweiligen Landes beibehalten, wobei die genutzte Klassifikation der USA als Arbeitsgrundlage für eine Vereinheitlichung der Kategorien diente. Wenn die jeweiligen nationalen Untergliederungen sehr viel mehr Klassifikationen hatten als jene der USA, wurden diese Untergliederungen den größeren Gruppen der US-Klassifikation angepasst. Wo es schwierig war, ein Territorium einem Land zuzuordnen, wurde die Klassifikation des ’International Statistical Institute‘ (ISI) herangezogen. In anderen Fällen wurde die Nationalität oder die Volkszugehörigkeit nach geographischen oder politischen Gesichtspunkten gewählt (z.B.: Juden (nicht spezifiziert) wurden unter den Gruppen ‚andere Europäer‘ aufgeführt. Juden (polnisch) wurden unter ‚Polen‘ aufgeführt. Türken (nicht spezifiziert) wurden unter ‚Türken in Asien‘ aufgeführt, etc.). (Ferenczi und Willcox, 1969, S. 70) 
+Irland
+Die Auswanderungsstatistik Irlands deckt einen Zeitraum von 1851 bis 1921 ab. Erfasst werden Auswanderer, die über die Häfen Irlands nach Groß Britannien und seinen Kolonien ausgewandert sind. Diese Zahlen weichen von den Zahlen für Irische Passagiere ab, die in der Britischen Statistik erfasst wurden. Die Irische Statistik teilt sich in zwei Bereiche auf, eine für die irischen Bürger (Natives of Ireland) und eine für irische Bürger und andere (Natives and those belonging to other countries combined). Eigenschaften wie das Alter sind nur für den zweiten Teil (Iren und andere) erhoben worden. 
+Daten in histat:
+A.01 Irland: Auswanderung Irischer Bürger nach Groß Britannien, den Britischen Kolonien und anderen Ländern nach Geschlecht, 1851-1885 A.02 Irland: Auswanderung Irischer Bürger nach Zielland, 1876-1921 A.03 Irland: Auswanderer (irische Bürger und in Irland lebende Ausländer) nach Alter, 1856-1920 </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Publikationen der Amtlichen Statistik Ungarns. 
+Informationen der Auswanderungs-Behörde Ungarn auf Anfrage.
+</sampled>
+		</universe>
+	</universes>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1851-01-01</date>
+				</startDate>
+				<endDate>
+					<date>1924-12-31</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<dataSets>
+		<dataSet>
+			<numberVariables>22</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Imre Ferenczi, Walter F. Willcox (1969), International Migrations. Volume I - Statistics. New York, Gordon and Breach Science Publishers. </freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

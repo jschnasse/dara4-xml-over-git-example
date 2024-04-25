@@ -1,0 +1,309 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'ALLBUScompact/GGSScompact 2012 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/German General Social Survey 2012)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUScompact 2012'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA4615</identifier>
+		<currentVersion>1.1.1</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUScompact 2012</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>ALLBUScompact/GGSScompact 2012 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/German General Social Survey 2012)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>GESIS - Leibniz-Institut für Sozialwissenschaften</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4615?doi=10.4232/1.11754</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11754</doiProposal>
+	<publicationDate>
+		<date>2013-08-05</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4615</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>ALLBUS</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+					<identifier>KAT59</identifier>
+					<!-- Medizin -->
+					<identifier>KAT54</identifier>
+					<!-- Person, Persönlichkeit, Rolle -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Religion und Werte</term>
+					<term>Medizinische Behandlung und Medikation</term>
+					<term>Reproduktionsmedizin</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Familie und Ehe</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Religion and values</term>
+					<term>Medication and treatment</term>
+					<term>Reproductive health</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Family life and marriage</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>ALLBUScompact ist als alternative Einsteigerversion (Public Use File)für die komplexer strukturierte Vollversion im Angebot. Speziell fürALLBUScompact wurde dementsprechend ein vereinfachtes Demografiemodulselektiert, das die wichtigsten demografischen Indikatoren in einerübersichtlichen Gruppe vereint. Die sonstigen inhaltlichen Fragemodule,die keine sensitiven Daten enthalten, entsprechen weiterhin vollständigder ALLBUS Vollversion (Scientific Use File). ALLBUScompact eignet sichdaher vor allem für Einsteiger in die Datenanalyse. Eine vollständigeBeschreibung der inhaltlichen Fragemodule finden Sie unter &lt;a href=https://dbk.gesis.org/dbksearch/SDESC2.asp?no=4614&amp;search=allbus&amp;search2=&amp;DB=D target=_self&gt;Studiennummer 4614 (ALLBUS 2012)&lt;/a&gt;.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>ALLBUScompact is offered as an alternative to the structurally morecomplex full version of ALLBUS. It addresses the needs of newcomers todata analysis by providing a simplified demography module containing aneasily manageable group of the most important demographic indicators.All topical question modules not containing sensitive data are retainedas in the ALLBUS full version (scientific use file). For acomprehensive description of study topics please compare &lt;a href=https://dbk.gesis.org/dbksearch/SDesc2_eng.asp?no=4614&amp;search=allbus&amp;search2=&amp;db=E target=_self&gt;Study-No. 4614 (ALLBUS 2012)&lt;/a&gt;.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen (Deutsche und Ausländer), die zum Befragungszeitpunkt in Privathaushalten lebten und vor dem 01.01.1994 geboren sind</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons (German and non-German) who resided in private households and were born before 1 January 1994.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Disproportional geschichtete Zufallsauswahl; Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Personenstichprobe: Zweistufige, disproportional geschichtete Zufallsauswahl in Westdeutschland (incl. West-Berlin) und Ostdeutschland (incl. Ost-Berlin) aus allen in der Bundesrepublik Deutschland lebenden Personen (Deutsche und Ausländer), die zum Befragungszeitpunkt in Privathaushalten lebten und vor dem 01.01.1994 geboren sind. In der ersten Auswahlstufe wurden Gemeinden in Westdeutschland und in Ostdeutschland mit einer Wahrscheinlichkeit proportional zur Zahl ihrer erwachsenen Einwohner ausgewählt, in der zweiten Auswahlstufe wurden Personen aus den Einwohnermeldekarteien zufällig gezogen.
+Zielpersonen mit nicht hinreichend guten Deutschkenntnissen zählen zu den systematischen Ausfällen. </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Stratified: Disproportional; Probability: Multistage</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2012-04</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2012-09</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Diekmann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ETH Zürich</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Detlef</firstName>
+				<middleName/>
+				<lastName>Fetchenhauer</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Steffen</firstName>
+				<middleName/>
+				<lastName>Kühnel</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Göttingen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Stefan</firstName>
+				<middleName/>
+				<lastName>Liebig</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bielefeld, Vorsitz</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Rüdiger</firstName>
+				<middleName/>
+				<lastName>Schmitt-Beck</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heike</firstName>
+				<middleName/>
+				<lastName>Trappe</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Rostock</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Michael</firstName>
+				<middleName/>
+				<lastName>Wagner</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest Sozialforschung, Munich</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.ComputerAssisted</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Frageprogramm (CAPI – Computer Assisted Personal Interviewing), zwei Zusatzbefragungen als CASI (Computer Assisted Self-Interviewing) im Rahmen des ISSP (Splitverfahren).</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>3480</numberUnits>
+			<numberVariables>412</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.11635</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.11596</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+</resource>

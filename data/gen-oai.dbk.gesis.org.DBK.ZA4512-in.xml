@@ -1,0 +1,294 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'European Internal Movers Social Survey (PIONEUR project)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'European Internal Movers Social Survey (PIONEUR project)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4512</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>European Internal Movers Social Survey (PIONEUR project)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>European Internal Movers Social Survey (PIONEUR project)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Antonio</firstName>
+				<middleName/>
+				<lastName>Alaminos</lastName>
+				<affiliation>
+					<affiliationName>Universität Alicante</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Ettore</firstName>
+				<middleName/>
+				<lastName>Recchi</lastName>
+				<affiliation>
+					<affiliationName>Universität Florenz</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Michael</firstName>
+				<middleName/>
+				<lastName>Braun</lastName>
+				<affiliation>
+					<affiliationName>ZUMA, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Anne</firstName>
+				<middleName/>
+				<lastName>Muxel</lastName>
+				<affiliation>
+					<affiliationName>CNRS, Paris</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Damian</firstName>
+				<middleName/>
+				<lastName>Tambini</lastName>
+				<affiliation>
+					<affiliationName>Universität Oxford</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Oskar</firstName>
+				<middleName/>
+				<lastName>Santacreu</lastName>
+				<affiliation>
+					<affiliationName>Universität Alicante</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4512?doi=10.4232/1.4512</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4512</doiProposal>
+	<publicationDate>
+		<year>2007</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4512</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>Soziale und berufliche Mobilität</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Political behaviour and attitudes</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>Social and occupational mobility</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Bedingungen, Motive und Barrieren EU-interner Migration. Effekte aufdie Lebensqualität und individuelle Erwartungen. Auswirkungen internerMobilität auf die Einstellungen zu europäischen Institutionen und dieIdentifikation mit Europa. 
+Themen: 1. Familiäre Herkunft und Migrationshintergrund: heutigeStaatsangehörigkeit(en); Angaben zum Vater und zur Mutter:Staatsangehörigkeit(en), höchster Bildungsabschluss,Beschäftigungssituation der Eltern als der Befragte 14 Jahre alt war;Berufsbezeichnung und Sprache, in der die Job-Beschreibung angegebenwurde; Urbanisierungsgrad der Wohngegend im Heimatland; höchsterBildungsabschluss des Befragten; Studium an einer Universität oderähnlichen Institution; Aufenthalt von mehr als drei Monaten im Ziellandvor der Zuwanderung; Motive für diesen Aufenthalt (Arbeitssuche,Bildung, Lebensqualität, Familiennachzug); weitere Aufenthalte von mehrals drei Monaten in anderen Ländern; Motive für diese Aufenthalte;Erwerbstätigkeit und Beruf vor der Zuwanderung; Bekannte aus demHerkunftsland, die im Zielland schon vor der eigenen Zuwanderunglebten; Motive für die eigene Zuwanderung; elterliche Beurteilungdieser Entscheidung; Sprachkenntnisse bei der Ankunft im Zielland undderzeitige Sprachkompetenz; Erwerbstätigkeit im Zielland; ersteBeschäftigung im Zielland; derzeitige Beschäftigungssituation(Vollzeit, Teilzeit, Ausbildung, Arbeitslosigkeit, Rentner,Hausarbeit); berufliche Mobilität im Zielland; Bereitschaft zurRückkehr in das Heimatland oder zur Migration aus Europa zurVerbesserung der persönlichen Lebens- oder Arbeitsbedingungen;mögliches Ausreiseland, in dem man in 5 Jahren oder im Ruhestand lebenmöchte; größte Entbehrungen seit dem Verlassen des Heimatlandes(Familie, Freunde, Traditionen, Lebensstil, Natur, Essen, Kunst, Sport,soziale Normen, Gesetze, Politik).
+2. Europäische Identität: Selbsteinschätzung zum Kenntnisstand überPolitik und Institutionen der Europäischen Union; Informationsbedarf zuverschiedenen Rechten der EU-Bürger (Arbeit, soziale Sicherheit,Anerkennung von Bildungs-Zertifikaten, Wahlrecht); Image der EU;Verbundenheit mit den verschiedenen Wohnorten; Identifikation mitEuropa, dem Heimatland (national) oder beiden; Häufigkeit politischerThemen in Gesprächen; persönliches Interesse an politischen Themen ausdem Zielland, dem Heimatland und der EU; politische Partizipation:Teilnahme an Demonstrationen, Unterschreiben von Petitionen,Kontaktsuche zu Politikern in den letzten 12 Monaten;Wahlbeteiligungsabsicht bei der Europa-Wahl bzw. Wahlteilnahme;Teilnahme bei den letzten Wahlen im Heimatland; Selbsteinschätzung aufeinem Links-Rechts-Kontinuum; Einstellung zur Intervention des Staatesin die Wirtschaft und zur Gleichstellung von Homosexuellen. 
+3. Lebensqualität: Lebenszufriedenheit (Skalometer); Häufigkeit derHeimatbesuche in den letzten 12 Monaten; Kontakthäufigkeit mitFamilienmitgliedern und Freunden aus dem Heimatland (per Telefon, Mail,E-Mail); Anteil der Freunde, die aus dem Heimatland, Zielland oderanderen Ländern stammen; Häufigkeit der persönlichen Internetnutzung;präferierte Medien bei der Informationssuche über das Heimatland,Zielland oder ein anderes Land; durchschnittliche Zeit pro Tag zumFernsehen und Lesen von Zeitungen aus dem Heimatland bzw. Zielland; inAnspruch genommene Transferleistungen im Zielland (Wohnkosten,Arbeitslosenhilfe, andere); Ehrenämter in den letzten 12 Monaten(Freizeit, Gewerkschaft, Organisationen, Parteien und Verbände);Vergleich von Heimatland und Zielland in Bezug auf dasGesundheitssystem, Bildungssystem, Wohnung, Einkommen,Kriminalitätsbekämpfung, Bürokratie, Politik; Diskriminierungserfahrungim Zielland aufgrund des Ausländerstatus; Diskriminierungssituationen(Arbeit, Bewerbung, öffentliche Einrichtungen, Geschäfte, Hauskauf,Nachbarschaft).
+Demographie: Jahr der Migration; Alter bei der Migration; Alter(Geburtsjahr); Geschlecht; Nationalität; Einbürgerung;Religionszugehörigkeit; Konfession; Urbanisierungsgrad der Wohngegendim Zielland; angemeldeter Wohnsitz; Familienstand; Partnerschaft;zusammenlebend bzw. Land, in dem der Partner lebt; Angaben zum Partner:Geschlecht, Staatsangehörigkeit, höchster Bildungsabschluss,Beschäftigungssituation; eigene Kinder; Anzahl der Kinder;hauptsächlich gesprochene Sprache mit den Kindern.
+Optional: Psychologische Selbstcharakterisierung.
+Zusätzlich verkodet wurde: Land, Sprache und Jahr des Interviews.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>EU-Bürger aus den anderen 4 Ländern, die als Erwachsene zwischen 1974
+und 2003 in das Zielland eingewandert sind und zum Befragungszeitpunkt
+schon mindestens ein Jahr dort lebten. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Zufallsauswahl.
+
+Die Auswahl basiert auf: Telefonbucheinträgen mittels der
+Namensforschung; snowball samplings; last-birthday-Methode. 
+
+Je Land wurden jeweils 1000 EU-Bürger befragt. Davon waren je 250 aus
+den anderen 4 Ländern, in denen die Befragung durchgeführt wurde.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2004-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2005-01</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Italien: PRAGMA, Rom</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Spanien: AVANCE, Alicante</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Deutschland: SUZ, Duisburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Frankreich: IFOP, Paris</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Großbritannien: IFOP, Paris und SUZ, Duisburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen durch 
+bilinguale Interviewer.</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>285</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Als Stichtag für das Befragungsende war ursprünglich der Termin für die
+Europawahl (13.06.2004) vorgesehen, in Großbritannien konnte dieser
+allerdings aufgrund von Feldproblemen nicht eingehalten werden. 
+
+Die Stichprobenziehung für Migrantenpopulationen stellt eine spezielle
+Form dar, welche unterschiedliche Methoden für einen internationalen
+Vergleich zum Einsatz bringt. Für Details vergleiche dazu den
+Literaturhinweis auf: Santacreu Fernàndez, Oskar; Rother, Nina; Braun,
+Michael (2006).</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Santacreu Fernàndez, Oskar; Rother, Nina; Braun, Michael:
+Stichprobenziehung für Migrantenpopulationen in fünf Ländern. Eine
+Darstellung des methodischen Vorgehens im PIONEUR-Projekt. 
+In: ZUMA-Nachrichten, 59. Jg., November 2006, S. 72-88.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

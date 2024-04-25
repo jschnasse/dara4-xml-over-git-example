@@ -1,0 +1,210 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Population Policy Acceptance Study (PPAS)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Population Policy Acceptance Study (PPAS)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4653</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Population Policy Acceptance Study (PPAS)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Population Policy Acceptance Study (PPAS)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Bundesinstitut für Bevölkerungsforschung (BiB), Wiesbaden</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4653?doi=10.4232/1.4653</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4653</doiProposal>
+	<publicationDate>
+		<year>2008</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4653</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>BEVÖLKERUNGSSTATISTIK</term>
+					<term>Migration</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>Ältere Menschen</term>
+					<term>Familie und Ehe</term>
+					<term>Geschlecht und Geschlechterrollen</term>
+					<term>Sozialsysteme und Strukturen der Sozialfürsorge</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>DEMOGRAPHY (POPULATION, VITAL STATISTICS, AND CENSUSES)</term>
+					<term>Migration</term>
+					<term>Political behaviour and attitudes</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>Elderly</term>
+					<term>Family life and marriage</term>
+					<term>Gender and gender roles</term>
+					<term>Social welfare systems/structures</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Aufgaben des Staates oder Wohlfahrtsstaates. Einstellung zubevölkerungsrelevanter Politik, Bewertungen des demographischenWandels. Einstellungen zu Ehe und Familie, Bewertungen des familialenWandels. Einstellungen zu Elternschaft und Kindern, Bewertungenfamilienpolitischer Maßnahmen.
+Einstellungen zu sich wandelnden Geschlechterrollen. Bedeutungverschiedener Lebensbereiche, allgemeine Wertvorstellungen.Möglichkeiten von und Einstellungen zu familialer Hilfeleistung undSolidarität. Einstellungen zum individuellen und demographischenAltern, Bewertungen der Alten- und Rentenpolitik. Einstellungen zuverschiedenen Formen der Kinderbetreuung, Verfügbarkeit und Nutzung.Einstellungen zu Ausländern und Zuwanderung.
+Themen: Verantwortung der Bundesregierung für ausgewähltesozialpolitische Aufgaben (Staatsaufgaben); wahrgenommeneAusgabenveränderungen der Bundesregierung in ausgewählten Bereichen(von Armut betroffene Familien, Familien mit kleinen Kindern,erwerbstätige Mütter, Kinderbetreuungseinrichtungen, Betreuung alterMenschen, Gesundheitswesen, Beschäftigung, Umwelt und Bildung);Kenntnistest: geschätzte Einwohnerzahl Deutschlands in Millionen,geschätzte Zahl der Einwanderer im letzten Jahr, geschätzter Anteil vonPersonen ab 65 Jahren an der deutschen Gesamtbevölkerung; Beurteilungdes Rückgangs junger Personen; Beurteilung von: steigende Anzahlunverheirateter bzw. kinderloser Paare, Rückgang der Eheschließungen,Geburtenrückgang, steigende Anzahl von Kindern mit nur einem Elternteilsowie von Einzelkindern, steigende Anzahl Alleinlebender, steigendeAnzahl von Geburten in nichtehelichen Lebensgemeinschaften, steigendeScheidungsrate, eingetragene gleichgeschlechtliche Partnerschaften;Wichtigkeit ausgewählter Gründe gegen Heiraten (Probleme, eine Arbeitzu finden, schwierige Lage auf dem Wohnungsmarkt, sinkendeWertschätzung der Ehe, wachsender Wunsch nach Unabhängigkeit,verweigerte Übernahme von Verantwortung, zunehmende Akzeptanz vonnichtehelichen Gemeinschaften, zu niedrige Einkommen, spätere Geburtder Kinder, Vorteile des Wohnens bei den Eltern sowie intimeBeziehungen außerhalb der Ehe); präferierte Lebensform mit oder ohneKinder; feste Partnerschaft oder Ehe in der Vergangenheit und Anzahldieser Partnerschaften; Einstellung zur Ehe und zu Kindern (Skalen).
+Alle Männer generell und Frauen, die 1958 und später geboren wurden,wurden gefragt: Kinderwunsch und gewünschte Kinderzahl; persönlicheGründe gegen ein (weiteres) Kind (Skala: Kinderwunsch bereits erfüllt,Gesundheitszustand, allein lebend, Berufstätigkeit, Freizeitinteressen,Lebensstandard halten, hohe Kosten, Sorgen über die Zukunft der Kinder,Leben genießen, Alter des Befragten bzw. seines Partners, Ablehnungdurch den Partner, Partnerschaftsprobleme); Einstellung zur Einführungausgewählter sozialpolitischer Maßnahmen, die die Entscheidung fürKinder und deren Erziehung erleichtern sowie präferierte Maßnahmen wiez.B. Mutterschaftsurlaub, Steuererleichterung,Kinderbetreuungsmaßnahmen, Kindergeld, flexible Arbeitszeiten fürEltern, Senkung von Ausbildungskosten und Verbesserung derWohnungssituation; Auswirkungen auf den Kinderwunsch des Befragten nacheiner angenommenen Einführung der präferierten Maßnahmen. 
+Wieder an Alle: Präferiertes Kindergeld: nach Familieneinkommen (inAbhängigkeit vom Familieneinkommen, nur für Familien mit geringemEinkommen oder unabhängig vom Familieneinkommen), nach dem Alter derKinder (je älter das Kind, desto höher das Kindergeld und vice versabzw. unabhängig vom Alter) sowie nach der Anzahl der Kinder (nur fürdie ersten beiden, ab dem dritten, für jedes Kind oder ansteigend mitder Anzahl der Kinder); derzeitiger Bezug von Kindergeld durch denBefragten oder seinen Partner; Beurteilung der Kindergeldhöhe sowie derDauer des Erziehungsurlaubs (bzw. der Elternzeit); Inanspruchnahme vonErziehungsurlaub durch den Befragten oder den Partner und ggf.Reduzierung der Arbeitstätigkeit; Einstellung zur Fremdbetreuung vonKindern (Skala); Folgen des Lebens mit Kindern für Eltern (Skala:Weinende Kinder für Eltern oft peinlich, Eltern lauter Kinder bekommenProbleme, schwierige Nutzung öffentlicher Verkehrsmittel mit kleinenKindern, keine Rücksicht auf Kinder im Straßenverkehr, zu wenigSpielplätze in der Nachbarschaft); geschätzte durchschnittlicheLebenserwartung von Frauen bzw. Männern in Deutschland; geschätzte undgewünschte persönliche Lebenserwartung; Postmaterialismus-Index;Parteineigung und Parteipräferenz; Einstellung zur Rolle von Frau undMann (Skalen: Mutterrolle, Vaterrolle); Wertorientierungen undLebensziele, Einschätzung der Erreichbarkeit dieser Ziele mit und ohneKindern; tatsächliche Netzwerkhilfe und Personen, von denen Hilfeerwartet wird; präferierte Arbeitszeitmodelle zur Vereinbarkeit vonKindererziehung und Berufstätigkeit; Beurteilung des demographischenWandels; Einstellung zu Älteren (Skala); Einstellung zur Pflege ältererMenschen (Skala); präferierte Personen oder Organisationen, die für diePflege älterer Menschen verantwortlich sein sollten; präferierteWohnform bei eigener Hilfsbedürftigkeit; präferierte gesetzlicheMaßnahmen zur Sicherstellung der Finanzierung des staatlichenRentensystems; voraussichtliches und präferiertes Alter beiRentenbeginn; wichtigste Regierungsmaßnahmen zur Verbesserung der Lageälterer Menschen; präferierte Regelung zum Übergang in den Ruhestand;präferiertes Modell für arbeitswillige Rentner; geschätzte AnzahlAusländer in Deutschland in Millionen; geschätzte Entwicklung desAusländeranteils und Bewertung des derzeitigen Ausländeranteils inDeutschland; Einstellung zu Ausländern (Skala: Vorteil durch Austauschmit anderen Kulturen, erledigen Arbeit, die Deutsche nicht machenwollen, Zunahme begünstigt Kriminalität und Terrorismus, Verdrängungder Deutschen bei der Arbeit, Deutschland gehört den Deutschen,Ausländer müssen Sprache und Gebräuche lernen, gemeinsamer Unterrichtfür Einwandererkinder mit deutschen Kindern); präferierte Maßnahmen derstaatlichen Ausländerpolitik (Skala: Höchstgrenze für jährlichen Zuzugvon Ausländern, kommunales Wahlrecht nach fünf Jahren, finanzielleUnterstützung für Heimkehrer, Ausweisung aller illegalen Einwanderer,schnelle Staatsbürgerschaft für integrierte Ausländer, hohe Geldstrafenfür Firmen, die illegale Einwanderer beschäftigen, generelle Amnestiefür illegale Einwanderer, Förderung der Integration, Nichtintegriertesollten in ihr Land zurückkehren, Kindernachzug stärkerbeschränken, Arbeitserleichterung für gut Ausgebildete); Einstellung zuEinwanderern (Skala: Moralische Pflicht zur Aufnahme politischerFlüchtlinge, Ausweisung abgelehnter Asylbewerber, Wählbarkeit vonAusländern in die Bundesregierung, Wahlrecht für Ausländer beiBundestagswahlen, Ausländer unterstützen das Sozialversicherungssystem,Anzahl aufzunehmender Ausländer in Abhängigkeit vom Arbeitsmarkt,Festlegung der jährlichen Einwandererzahl in einem Einwanderungsgesetz,Zunahme der Einwanderung aufgrund Verringerung der Deutschen, Erhöhungder Fertilität, keine neuen Einwanderer zulassen und keine Begrenzungder Einwanderung). 
+Demographie: Alter (Geburtsmonat und Geburtsjahr); Familienstand;Zusammenleben mit einem Partner; Haupteinkommensquelle des Haushalts;Haushaltsnettoeinkommen (klassiert); Geburtsort; Wohndauer inDeutschland (Jahr des Zuzugs); Land, in dem der Befragte aufgewachsenist; Haushaltszusammensetzung; Haushaltsgröße; Anzahl der Kinder imHaushalt; eigene Kinder; Anzahl eigener Kinder im Haushalt und Alter(Geburtsjahr) des ältesten und des jüngsten Kindes;Kirchenmitgliedschaft; Bedeutung der Religion für das Leben desBefragten; Erwerbstätigkeit bzw. frühere Erwerbstätigkeit; Zeitpunktdes Erwerbsendes; Gründe für das Erwerbsende; Urbanisierungsgrad;höchster Schulabschluss und beruflicher Ausbildungsabschluss;Berufliche Position, Alter des Partners (Geburtsmonat und Geburtsjahr);Erwerbstätigkeit des Partners bzw. frühere Erwerbstätigkeit; Zeitpunktdes Erwerbsendes des Partners; höchster Schulabschluss und beruflicherAusbildungsabschluss des Partners; Bundesland; Ortsgröße.   
+Zusätzlich verkodet wurde: Gewichtungsfaktoren.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>In Privathaushalten lebende Personen deutscher Staatsangehörigkeit im
+Alter von 20 bis 65 Jahren</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Disproportionale mehrstufig geschichtete Zufallsstichprobe (jeweils ca.
+2000 Ost und West) nach dem Random-Route-Verfahren (ADM-Design).</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-03-24</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-16</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>TNS Emnid, Bielefeld</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>373</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie ist Teil einer international vergleichenden Studie, an der
+neben Deutschland dreizehn weitere europäische Staaten beteiligt sind.
+Eine erste Erhebung der PPA-Surveys fand bereits zu Beginn der 1990er
+Jahre statt. In Deutschland erfolgte die im Jahr 1992 durchgeführte
+Befragung gemeinsam mit dem Family und Fertility Survey (ZA-Studien-Nr.
+3400) und beschränkte sich inhaltlich auf die Bereiche Familie und
+Familienpolitik.
+
+Die deutsche PPAS ist eine wiederholte Querschnittbefragung.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Dorbritz, Jürgen; Lengerer, Andrea; Ruckdeschel, Kerstin: 
+Einstellungen zu demographischen Trends und zu bevölkerungsrelevanten 
+Politiken: Ergebnisse der Population Policy Acceptance Study in Deutschland.
+Wiesbaden: Bundesinstitut für Bevölkerungsforschung beim Statistischen 
+Bundesamt, Schriftenreihe des BiB, Sonderheft, 2005
+
+http://www.bib-demographie.de/cln_090/nn_750530/SharedDocs/Publikationen/
+DE/Download/Broschueren/ppas__2005.html
+</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

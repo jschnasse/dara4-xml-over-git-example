@@ -1,0 +1,338 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Politbarometer West 1991 (Cumulated Data Set) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Politbarometer West 1991 (Kumulierter Datensatz)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch; Text</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric; Text</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA2102</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Politbarometer West 1991 (Kumulierter Datensatz)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Politbarometer West 1991 (Cumulated Data Set) 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Manfred</firstName>
+				<middleName/>
+				<lastName>Berger</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Matthias</firstName>
+				<middleName/>
+				<lastName>Jung</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Dieter</firstName>
+				<middleName/>
+				<lastName>Roth</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2102?doi=10.4232/1.2102</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.2102</doiProposal>
+	<publicationDate>
+		<year>1992</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2102</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Gesetzgebung und Rechtssysteme</term>
+					<term>Reproduktionsmedizin</term>
+					<term>Konflikte, Sicherheit und Frieden</term>
+					<term>Politische Ideologie</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+					<term>TRANSPORT UND REISEN</term>
+					<term>Energiequellen und natürliche Rohstoffquellen</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Wirtschaftspolitik, öffentliche Ausgaben und Einnahmen</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Legislation and legal systems</term>
+					<term>Reproductive health</term>
+					<term>Conflict, security and peace</term>
+					<term>Political ideology</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+					<term>TRANSPORT AND TRAVEL</term>
+					<term>Energy and natural resources</term>
+					<term>Economic conditions and indicators</term>
+					<term>Economic policy,  public expenditure and revenue</term>
+					<term>Economic systems and development</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Politbarometer werden seit 1977 etwa monatlich von der Forschungsgruppe Wahlen für das Zweite Deutsche Fernsehen (ZDF) durchgeführt. Seit 1990 steht diese Datenbasis auch für die neuen Bundesländer zur Verfügung. Im Zentrum der Untersuchung stehen die Meinungen und Einstellungen der wahlberechtigten Bevölkerung in der Bundesrepublik zu aktuellen politischen Themen, Parteien und Politikern sowie dem Wahlverhalten. 1990 bis 1995 und ab 1999 wurden die Politbarometer-Umfragen in den neuen und alten Bundesländern getrennt durchgeführt (Politbarometer Ost bzw. Politbarometer West). Die monatlichen Einzelumfragen eines Jahres werden in einen kumulierten Datensatz integriert, der alle Erhebungen eines Jahres und alle Variablen des jeweiligen Jahrganges umfasst. Ab 2003 sind die Politbarometer-Kurzbefragungen, die unterschiedlich häufig im Jahr erhoben werden, in die Jahreskumulation integriert.  </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Wichtigste Probleme in Deutschland;Demokratiezufriedenheit; Parteipräferenz (Sonntagsfrage undRangordnungsverfahren); richtige Politiker in den führendenPositionen; Koalitionspräferenz im Fall einer Neuwahl;wichtigste Politiker in der Bundesrepublik; Wahlverhalten beider letzten Bundestagswahl; Sympathie-Skalometer für dieParteien, die Koalition, die Opposition, ausgewählteBundespolitiker, Gorbatschow, Bush, Adenauer, Erhard, Honecker,Ulbricht sowie für die jeweilige Landesregierung und dieBundesbahn; Kanzlerpräferenz; Beurteilung der Unterstützung derjeweiligen Parteibasis für Kohl und Engholm; Unterstützung derKoalition durch CSU und FDP; erwarteter Koalitionswechsel sowieKoalitionsaussage der FDP bei der nächsten Bundestagswahl;Einschätzung der Einigkeit bzw. Zerstrittenheit der SPD, CDU,CSU, FDP und der Grünen; die Bedeutung von parlamentarischenEntscheidungen auf kommunaler-, Landes-, Bundes- undeuropäischer Ebene; Beurteilung der wirtschaftlichen Lage inder alten Bundesrepublik sowie in der ehemaligen DDR undvermutete weitere Entwicklung; eigene Wirtschaftslage underwartete Entwicklung; Kompetenz der Regierung oder derOpposition zur Behebung der wirtschaftlichen Probleme inOstdeutschland; Einstellung zu einer Erhöhung der Abgabe fürdie deutsche Einheit; deutsche Einheit oder Golfkrieg alsHauptgrund für die beschlossenen Steuererhöhungen;gerechtfertigte Einkommmensteuererhöhung durch denSolidaritätsbeitrag und Beurteilung derMineralölsteuererhöhung; KFZ-Besitz im Haushalt und Benutzungdes Fahrzeugs auf dem Weg zur Arbeit; Wählbarkeit einerAutofahrerpartei; Absehbarkeit des Finanzbedarfs für die neuenBundesländer; berechtigter Vorwurf einer Wahllüge gegen dieRegierungsparteien; Beurteilung des Vereinigungsprozesses;Gerechtigkeit des Lohnunterschieds zwischen Ost- undWestdeutschland; gerechtfertigte Unzufriedenheit derOstdeutschen mit der Verbesserung ihrer Lebensverhältnisse undausreichender Einsatz der Bundesregierung für eine Angleichung;Bereitschaft zum Einkommensverzicht für eine Verbesserung derLebensverhältnisse in Ostdeutschland; Einstellung zur Übernahmeinternationaler Konfliktlösungsverantwortung durch das vereinteDeutschland; Beurteilung der Arbeit der Treuhandanstalt;perzipierte Gefahr durch SED-Funktionäre in wichtigengesellschaftlichen und wirtschaftlichen Positionen;Einschätzung des Einflusses ehemaliger Blockparteipolitiker aufdie derzeitige Entwicklung der CDU im Osten; Beurteilung derStrafverfolgung von STASI-Mitarbeitern und früheren Vertreternder ehemaligen DDR; Einstellung zu einer Auslieferung undharten Bestrafung Honeckers; Einstellung zu einerZusammenarbeit von Regierung und Opposition zur Lösung derProbleme im Osten; allgemeine Beurteilung des Grundgesetzes undEinstellung zu einer umfassenden Überarbeitung; Einstellung zuHilfen für die Sowjetunion und zu einer Unabhängigkeit derBaltischen Republiken; Serben oder Kroaten als Hauptschuldigefür die gewalttätigen Auseinandersetzungen in Jugoslawien;Befürwortung einer staatlichen Unabhängigkeit für Slowenien undKroatien; Befürwortung eines Stops der Wirtschaftshilfe fürJugoslawien und eines Einsatzes von UNO- bzw. BRD-Truppen inJugoslawien; Beurteilung der Abschaffung der Visapflicht fürpolnische Staatsbürger; Einstellung zum Nobelpreis fürGorbatschow und erwartete Auswirkungen seines Sturzes;Einstellung zum Stop der Wirtschaftshilfe für die Sowjetunion;Friedenssicherheit in Europa; erwarteter Abzug der sowjetischenSoldaten aus Ostdeutschland und Einschätzung der Gefahr fürDeutschland bei einer andauernden Stationierung; Gründe für dieGefährdung des Friedens in Europa; Einstellung zum Eingreifender alliierten Streitkräfte am Golf; Hauptschuldiger für denGolfkrieg; persönliche Angst wegen des Golfkriegs; empfundeneMitschuld der Deutschen bzw. deutscher Firmen am Krieg;erwarteter Kriegsgewinner; Einstellung zu einem Einsatzdeutscher Soldaten in der Türkei; Einstellung zu einerGrundgesetzänderung, um einen Einsatz der Bundeswehr außerhalbdes Natobereichs zu ermöglichen; Einstellung zu einer direktenBeteiligung der Bundeswehr am Golfkrieg und zu einerBeteiligung beim Minenräumen; Grundgesetzänderung auch im Falleeines militärischen UNO-Auftrags; Zustimmung zu einer erhöhtenKostenbeteiligung der Bundesrepublik am Golfkrieg; Einstellungzu einer Beschränkung deutscher Waffenlieferungen ins Ausland,auch bei Gefährdung von Arbeitsplätzen; Einstellung zurLieferung deutscher Abwehrraketen nach Israel; eigeneÜbereinstimmung mit der Haltung der Bundesregierung oder derSPD im Golfkrieg; Beurteilung der alliierten Kritik an derZurückhaltung Deutschlands im Golfkrieg; Einschätzung derdeutsch-amerikanischen Beziehungen; Beurteilung dessprunghaften Anstiegs von Kriegsdienstverweigerungen;Beurteilung der deutschen Kurdenhilfe und des alliiertenTruppeneinsatzes im Norden Iraks; Präferenz für denRegierungssitz in kurzfristiger und langfristiger Sicht;präferierter Sitz für den Bundestag und Einstellung zu einerAufteilung von Ministerien auf Berlin und Bonn; Beurteilung derEntscheidung für Berlin; präferierte Abtreibungsregelung undWichtigkeit einer solchen Regelung aus persönlicher Sicht;Partei, die in der Abtreibungsfrage die eigenen Interessenvertritt; Einstellung zu einer ununterbrochenen Berufstätigkeitder Frau; Selbsteinstufung auf einem Links-Rechts-Kontinuum;Beurteilung der CDU-Verluste bei der Landtagswahl inRheinland-Pfalz; Urlaub im Sommer; Urlaubsland; Besuch in Ostdeutschlandnach Öffnen der Grenzen; Verwandte und Bekannte inOstdeutschland; Einstellung zu Ausländern in Deutschland;Regierung oder Opposition als Vetreter der eigenenAusländerpolitik; Beurteilung des Asylrechts und Einschätzungdes Asylrechtmißbrauchs; Einstellung zu einer Änderung desGrundgesetzes zur Verhinderung des Mißbrauchs; Einstellung zueiner Verkürzung des Asylverfahrens und zur Unterbringung vonAsylbewerbern in Gemeinschaftsunterkünften; Einstellung zurEinrichtung einer Gemeinschaftsunterkunft in der eigenen Nähe;Kontakt zu Ausländern; Nutzen ausländischer Arbeitskräfte fürdie Wirtschaft; Ausländer als kulturelle Bereicherung oderGefahr; Rechtsradikalismus als wichtiges Problem; Beurteilungder rechtsradikalen Aktivitäten in Ost- und Westdeutschlandsowie Einschätzung des Umfangs der Medienberichterstattung überden Rechtsradikalismus; Einstellung zur Begrenzung derAsylbewerber und zu einem Zurückschicken abgelehnter Bewerberin ihre Heimatländer; charakteristische Eigenschaften vonOstdeutschen und Westdeutschen (Autostereotyp, Heterostereotypund vermutetes Heterostereotyp); Politikinteresse; Freude überdie Vereinigung der beiden deutschen Staaten; Einstellung zumWeiterbetrieb und zum Neubau von Kernkraftwerken; Einstellungzur staatlichen Steinkohlenförderung und zu einereigenständigen Versorgung mit Steinkohle; Einstellung zurEinführung einer gemeinsamen Währung in Europa; Beurteilung derGefährdung durch Aids und Einstellung zu einerAids-Pflichtuntersuchung; Einstellung zu einer Privatisierung derBundesbahn; Präferenz für die Beschäftigung von Beamten oderAngestellten bei der Bundesbahn; Beurteilung der Arbeit derBundesregierung im letzten Jahr; persönlicher Rückblick auf dasvergangene Jahr und Ausblick auf das neue Jahr; allgemeineLebenszufriedenheit; persönliche Präferenzen für die Verwendungeines geschenkten größeren Geldbetrages; Religiosität;Parteineigung und Parteiidentifikation;Gewerkschaftsmitgliedschaft; abgeschlossene Gesellenprüfung,Staatsexamen oder Diplom; eigene Arbeitsplatzsicherheit undGefährdung des Arbeitsplatzes bei nahestehenden Personen.
+Zusätzlich verkodet wurde: Interviewdatum.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The Politbarometer has been conducted since 1977 on an almost monthly basis by the Forschungsgruppe Wahlen on behalf of the Second German Television (ZDF). Since 1990, this database has also been available for the new German states. The survey focuses on the opinions and attitudes of the voting-age population in the Federal Republic on current political issues, parties, politicians, and voting behavior. From 1990 to 1995 and from 1999 onward, the Politbarometer surveys were conducted separately both in the newly formed eastern and in the western German states (Politbarometer East and Politbarometer West). The separate monthly surveys of a year are integrated into a cumulative data set that includes all surveys of a year and all variables of the respective year. Starting in 2003, the Politbarometer short surveys, collected with varying frequency throughout the year, are integrated into the annual cumulation.  </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Most important problems in Germany; satisfaction withdemocracy; party preference (Sunday question and rank order procedure);right politicians in leading positions; coalition preference in case ofnew elections; most important politicians in the Federal Republic;behavior at the polls in the last Federal Parliament election; sympathyscale for the parties, coalition, opposition, selected federalpoliticians, Gorbachev, Bush, Adenauer, Erhard, Honecker, Ulbricht aswell as for the respective state government and the Federal Railway;preference for chancellor; judgement on the support of the respectiveparty rank and file for Kohl and Engholm; support of the coalition byCSU and FDP; expected coalition change as well as statement ofwillingness to form a coalition by the FDP in the next FederalParliament election; assessment of the unity or disagreement of theSPD, CDU, CSU, FDP and Greens; the significance of parliamentarydecisions on municipal, state, federal and European level; judgement onthe economic situation in the old Federal Republic as well as in theformer GDR and assumed further development; personal economic situationand expected development; ability of the government or opposition toalleviate the economic problems in Eastern Germany; attitude to anincrease in the tax for German unity; German unity or Gulf War as majorreason for the tax increases agreed upon; income tax increase justifiedthrough the solidarity tax and judgement on the petroleum tax increase;possession of vehicle in household and use of vehicle on the way towork; eligibility of a car driver party; forseeable financial need forthe new states; justified accusation of an election lie against thegoverning parties; judgement on the unification process; equity of thewage differential between Eastern and Western Germany; justifieddissatisfaction of the East Germans with improvement in their livingconditions and adequate effort of the Federal Government for anequalization; willingness to sacrifice some income for improvement inliving conditions in Eastern Germany; attitude to acceptance ofinternational responsibility for resolution of conflict by unitedGermany; judgement on the work of the trust-company; perceived dangerfrom SED functionaries in important social and economic positions;assessment of the influence of former block-party politicians on thecurrent development of the CDU in the East; judgement on criminalprosecution of STASI employees and earlier representatives of theformer GDR; attitude to extradition and strict punishment of Honecker;attitude to cooperation of government and opposition to solve theproblems in the East; general judgement on the constitution andattitude to a comprehensive revision; attitude to help for the SovietUnion and independence of the Baltic republics; Serbs or Croats asprimarily to blame for the violent conflicts in Yugoslavia; approval ofnational independence for Slovenia and Croatia; approval of asuspension of economic aid for Yugoslavia and deployment of UN or FRGtroops in Yugoslavia; judgement on the elimination of the visarequirement for Polish citizens; attitude to the Nobel Prize forGorbachev and expected effects of his overthrow; attitude to suspensionof economic aid for the Soviet Union; security of peace in Europe;expected withdrawal of the Soviet soldiers from Eastern Germany andassessment of the danger to Germany from a permanent stationing;reasons for the jeopardy to peace in Europe; attitude to interventionby allied military forces on the Gulf; the one primarily to blame forthe Gulf War; personal fear due to the Gulf War; perceived share ofblame for Germans or German companies in the war; expectedwar-profiteer; attitude to the use of German soldiers in Turkey;attitude to an ammendment to the constitution to make possible thedeployment of Federal German Armed Forces outside of the NATO area;attitude to a direct participation by the Federal German Armed Forcesin the Gulf war and to participation in removing mines; ammendment tothe constitution also in case of a military UN mission; agreement withan increased participation of the Federal Republic in the cost of theGulf War; attitude to a limitation of deliveries of German weapons toforeign countries, even at the risk of loss of jobs; attitude todelivery of German defensive missiles to Israel; personal agreementwith the stand of the Federal Government or SPD on the Gulf War;judgement on allied criticism of Germany´s cautiousness in the GulfWar; assessment of German-American relations; judgement on thedrammatic increase in conscientious objectors; judgement on German aidto the Kurds and allied troop deployment in the north of Irak;preference for the seat of government in the short and long term;preferred seat for the Federal Parliament and attitude to division ofministries between Berlin and Bonn; judgement on the decision forBerlin; preferred abortion regulation and importance of such aregulation in one´s own view; party representing one´s own interests onthe abortion question; attitude to uninterrupted employment of women;self-classification on a left-right continuum; judgement on the CDUlosses in the state parliament election in Rhineland-Palatinate;vacation in summer; country visited on vacation; trip to EasternGermany after opening of the borders; relatives and friends in EasternGermany; attitude to foreigners in Germany; government or opposition asrepresentative of one´s own policies on foreigners; judgement on theright to asylum and assessment of abuse of the right to asylum;attitude to a change of the constitution to prevent abuse; attitude toshortening of the asylum hearing and to housing applicants for asylumin communal housing; attitude to establishment of communal housingclose by; contact with foreigners; benefit of foreign workers for theeconomy; foreigners as cultural enrichment or danger; right-wingradicalism as important problem; judgement on right-wing radicalactivities in Eastern and Western Germany as well as assessment ofextent of media reporting about right-wing radicalism; attitude tolimitation of applicants for political asylum and deporting rejectedapplicants to their native country; typical characteristics of EastGermans and West Germans (autostereotype, heterostereotype and assumedheterostereotype); interest in politics; joy at unification of the twoGerman states; attitude to further operation and new construction ofnuclear power plants; attitude to government subsidy for coal miningand an independent supply of hard coal; attitude to introduction of acommon currency in Europe; judgement on the jeopardy from AIDS andattitude to an obligatory AIDS test; attitude to privatization of theFederal Railway; preference for the use of civil servants or employeesby the Federal Railroad; judgement on the work of the FederalGovernment in the last year; personal retrospect on the last year andprospect for the new year; general contentment with life; personalpreferences for use of a gift of a large sum of money; religiousness;party inclination and party identification; union membership; completedjourneymen´s test, government examination or university diploma;personal job security and jeopardy to the jobs of friends andrelatives. 
+Also encoded was: date of interview. </freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>with West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>mit Berlin-West</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BW</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BY</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-HB</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-HE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-HH</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-RP</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SH</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte, die in Privathaushalten mit Telefonanschluss leben</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Eligible voters living in private households with a telephone</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Systematische Zufallsauswahl; Auswahlverfahren Kommentar: Zufallsauswahl. Auswahl nach dem RLD-Verfahren (Randomize last digit) </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Systematic random; Sampling Procedure Comment: Random selection. Sample according to the RLD procedure (randomize last digit) </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1991-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1991-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Trend/RepeatedCrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Monika</firstName>
+				<middleName/>
+				<lastName>Langhans</lastName>
+				<contributorType>DataCurator</contributorType>
+				<affiliation>
+					<affiliationName>GESIS – Leibniz-Institut für Sozialwissenschaften</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview (CATI) with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>11268</numberUnits>
+			<numberVariables>295</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Politbarometer stellen eine monatliche Trend-Erhebung dar,
+die vom Zweiten Deutschen Fernsehen (ZDF) in Auftrag gegeben
+werden. Die Politbarometer (West) des Jahres 1991 sind unter
+den ZA-Studien-Nrn. 2091 bis 2101 archiviert. Die Politbarometer
+(Ost) des Jahres 1991 sind unter den ZA-Studien-Nrn. 2103 bis
+2113 und in der Kumulation unter der ZA-Studien-Nr. 2114
+archiviert. Weitere Politbarometer sind unter den ZA-Studien-Nrn.
+1053 bis 1063, 1277 bis 1281, 1469 bis 1479, 1677, 1687 bis 1696
+sowie 1768 bis 1779 archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The Politbarometers present a monthly trend investigation commissioned
+by the Second German Television (ZDF). The Politbarometers (west) of
+1991 are archived under ZA Study Nos. 2091 to 2101. The Politbarometers
+(east) of 1991 are archived under ZA Study Nos. 2103 to 2113 and in
+cumulation under ZA Study No. 2114. Further Politbarometers are
+archived under ZA Study Nos. 1053 to 1063, 1277 to 1281, 1469 to 1479,
+1677, 1687 to 1696 as well as 1768 to 1779. </text>
+		</note>
+	</notes>
+</resource>

@@ -1,0 +1,259 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Social and Cultural Determinants of the Conduct of Foreign workers
+in the Federal Republic of Germany
+(Primary Investigation: Foreigners)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Soziale und kulturelle Bestimmungsgründe des Verhaltens
+ausländischer Arbeitnehmer in der Bundesrepublik Deutschland
+(Hauptuntersuchung: Ausländer)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1044</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Soziale und kulturelle Bestimmungsgründe des Verhaltens
+ausländischer Arbeitnehmer in der Bundesrepublik Deutschland
+(Hauptuntersuchung: Ausländer)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Social and Cultural Determinants of the Conduct of Foreign workers
+in the Federal Republic of Germany
+(Primary Investigation: Foreigners)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Hartmut</firstName>
+				<middleName/>
+				<lastName>Esser</lastName>
+				<affiliation>
+					<affiliationName>Institut für Arbeitssoziologie und Arbeitspolitik,
+Ruhr-Universität Bochum
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1044?doi=10.4232/1.1044</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1044</doiProposal>
+	<publicationDate>
+		<year>1977</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1044</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Social conditions and indicators</term>
+					<term>Social behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Beschreibung der eigenen Arbeits- und Lebensbedingungen undEinreisegründe nach Deutschland. Wahrnehmung der eigenenLandsleute und Fremdbild von den Deutschen. Perzipierte Gründefür Integrationsschwierigkeiten.
+Themen: Die Befragung der ausländischen Arbeitnehmer wurde mitidentischen Fragen wie bei der ZA-Studien-Nr. 1043 durchgeführt.Neben dem identischen Befragungsteil wurden folgende Fragenzusätzlich gestellt: Herkunftsland; Ausbildung im Herkunftsland;Gründe für die Einreise nach Deutschland und Informationen überdie Arbeits- und Lebensbedingungen vor der Einreise in die BRD;geplante Aufenthaltsdauer vor Einreise in die BRD; Entsprechungvon Vorstellungen und Tatsachen über die BRD; Zufriedenheit mitder Wohnsituation und den Lebensverhältnissen nach der Ankunft;Beschreibung der Charakteristika der ersten beruflichenTätigkeit in der BRD (Skala); Zufriedenheit mit dieser Tätigkeit;Entwicklung der Kontakte zu den Landsleuten in der BRD; geplanteVerweildauer; Gründe für den gegenwärtigen Aufenthalt in derBRD; ethnische Infrastruktureinrichtungen in der Wohngegend;Interesse am Erwerb der deutschen Staatsangehörigkeit;Beurteilung der eigenen Deutschkenntnisse; Gefühl der nationalenIdentität.
+Demographie: Geschlecht; Geburtsjahr; Schulbildung; Berufsausbildung;berufliche Position; Berufstätigkeit; soziale Herkunft; Einkommen;Familienstand; Nationalität des Ehepartners; Berufstätigkeit undberufliche Position des Ehepartners.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Description of one´s own working and living conditions and reasons tomove to Germany. Perception of one´s own countrymen and third-partyimage of the Germans. Perceived reasons for integration difficulties.
+Topics: The survey of foreign workers was conducted with questionsidentical to ZA Study No. 1043.
+Besides the identical part of the survey the following additionalquestions were posed: country of origin; training in country of origin;reasons for moving to Germany and information about working and livingconditions before moving to the FRG; planned length of stay beforemoving to the FRG; correspondence of concepts and facts about the FRG;satisfaction with housing situation and living conditions afterarrival; description of characteristics of first occupational activityin the FRG (scale); satisfaction with this activity; development ofcontacts with countrymen in the FRG; planned length of stay; reasonsfor current stay in the FRG; ethnic infrastructure facilities inresidential area; interest in acquisition of German citizenship;judgement on one´s own knowledge of German; feeling of nationalidentity.
+Demography: sex; year of birth; school education; vocational training;occupational position; employment; social origins; income; maritalstatus; nationality of spouse; employment and occupational position ofspouse. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>selected cities</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>ausgewählte Orte</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutsche Personen über 18 Jahre in 5 ausgewählten Arbeitsamtsbezirken in den
+Städten München, Kempten, Solingen, Bochum und Braunschweig</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Foreign persons older than 18
+years in 5 selected employment office districts of the cities Munich,
+Kempten, Solingen, Bochum and Braunschweig. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Klumpenauswahl 
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage stratified cluster sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1977-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1977-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Kompakt-Institut, Muenchen
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Befragung wurde von Landsleuten in der jeweiligen Sprache des
+Befragten durchgeführt. Die vergleichbare Befragung deutscher
+Personen ist unter der ZA-Studien-Nr. 1043 archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The survey was conducted by countrymen in the respective language
+of the respondent.
+The comparable survey of German persons is archived under ZA Study No. 1043.
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Esser, Hartmut; Gaugler, Eduard; Neumann, Karl-Heinz: 
+Arbeitsmigration und Integration: Sozialwissenschaftliche Grundlagen. 
+Königstein/Taunus: Hanstein 1979. 
+(Materialien zur Arbeitsmigration und Ausländerbeschäftigung, Band 4).</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Esser, Hartmut: 
+Aspekte der Wanderungssoziologie: Assimilation und Integration von Wanderern, ethnischen Gruppen und Minderheiten. Eine handlungstheoretische Analyse. 
+Darmstadt: Luchterhand 1980. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kremer, Manfred; Spangenberg, Helga: 
+Assimilation ausländischer Arbeitnehmer in der Bundesrepublik Deutschland: Forschungsbericht. 
+Königstein/Taunus: Hanstein 1980. 
+(Materialien zur Arbeitsmigration und Ausländerbeschäftigung, Band 5).</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

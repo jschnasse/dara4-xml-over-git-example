@@ -1,0 +1,259 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Youth and Right-Wing Extremism 1990 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Jugend und Rechtsextremismus 1990
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA6004</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Jugend und Rechtsextremismus 1990
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Youth and Right-Wing Extremism 1990 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Zentralinstitut für Jugendforschung (ZIJ), Leipzig</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6004?doi=10.4232/1.6004</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.6004</doiProposal>
+	<publicationDate>
+		<year>1990</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6004</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kriminalität und Gesetzesvollzug</term>
+					<term>Politische Ideologie</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Jugend</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Crime and law enforcement</term>
+					<term>Political ideology</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Youth</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellungen zu Ausländern und zu extremen politischenOrganisationen sowie Meinungen zur gesellschaftlichen Wende inder DDR.
+Themen: Befindlichkeit vor und nach der Wende; Optimismusbezüglich der nächsten Jahre; als bedrohlich erlebtegesellschaftliche Bedingungen wie Arbeitslosigkeit, Armut,Drogenmißbrauch (Skala); Kenntnis der Ziele rechtsextremerGruppen; Einschätzung der Wirksamkeit verschiedener Formen undEinrichtungen in der Auseinandersetzung mit Rechtsextremismus(Skala); Motive Jugendlicher für den Anschluß an rechtsextremeGruppen (Skala); Einstellungen zum Umgang mit rechtsextremenGruppen und Parteien; eigene politische Prinzipien und Zielehinsichtlich Nationalstolz, Aufrechterhaltung von Recht undOrdnung, Umgang mit Konflikten und Gewalt, der Notwendigkeiteines starken politischen Führers, Haltung zum Faschismus,gleiches Lebensniveau für Ost und West, gleiche Rechte fürAusländer, Verbot der Partei der Republikaner und der PDS(Skala); Einstellung zu und Verhalten gegenüber Ausländern;Kontaktbereiche zu Ausländern (Skala); Empfindungen gegenübereinzelnen Volksgruppen; Ausmaß und Folgen von selbst erlebtenStraftaten wie Eigentumsdelikten und Formen physischer Gewalt;Umgang mit Straftaten; Haltung zu Skinheads; Beziehungen zuunterschiedlichen extremen politischen Parteien (Skala); Wirkungdes Begriffes "rechtsradikal"; Vereinbarkeit rechtsradikalerZiele mit Grundgesetz; Merkmale der Partei der Republikaner(Skala); Haltung zu linksextremen Gruppen und Kenntnis ihrerZiele (Skala); Einschätzung der PDS als linksextrem; Bewertungdes Einflusses linksextremer Gruppen im Arbeitsbereich;Verständnis für Antisemitismus und Kenntnis seiner Ursachen;Religiosität; Parteiverbundenheit; Einordnung inLinks-Rechts-Skala; Selbsteinschätzung des Leistungsstandes.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Attitudes to foreigners and extreme political organizations as well as opinions on the social turning point in the GDR. Topics: Condition before and after the turning point; optimism regarding the next few years; social conditions experienced as ominous such as unemployment, poverty, drug abuse (scale); knowledge about the goals of right-wing extremist groups; assessment of the effectiveness of various forms and institutions in the conflict with right-wing extremism (scale); motives of young people for joining right-wing extremist groups (scale); attitudes to contact with right-wing extremist groups and parties; personal political principles and goals regarding national pride, maintenance of law and order, dealing with conflicts and violence, the necessity of a strong political leader, stand on fascism, equal level of standard of living for East and West, equal rights for foreigners, prohibition of the Republican Party and the PDS (scale); attitude to and conduct regarding foreigners; areas of contact with foreigners (scale); feelings regarding individual ethnic groups; extent and consequences of crimes experienced oneself such as offenses against property and forms of physical violence; dealing with crimes; stand on skinheads; relations with different extreme political parties (scale); effect of the term "right-wing radical"; compatibility of right-wing radical goals with the constitution; characteristics of the Republican Party (scale); stand on left-wing extremist groups and knowledge of their goals (scale); assessment of the PDS as left-wing extreme; evaluation of the influence of left-wing extremist groups in the work area; understanding for antisemitism and knowledge of its causes; religiousness; party allegiance; classification on left-right scale; self-assessment of achievement status. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SN</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Leipzig</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Leipzig</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SN</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Dresden</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Dresden</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SN</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Chemnitz</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Chemnitz</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Schüler, Studente, Lehrlinge, Arbeiter und Angestellte</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: 
+Sample of schoolchildren, students, apprentices, workers and employees. 
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>1990</year>
+				</startDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Autumn 1990 </freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Herbst 1990</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Zentralinstitut fuer Jugendforschung, Leipzig 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Schriftliche Befragung
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Written survey 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>138</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Friedrich, W.; Netzker, W.; Schubarth, W.: Ostdeutsche Jugend: Ihr Verhältnis zu Ausländern und zu einigen aktuellen Problemen: Forschungsbericht. Leipzig 1991. ZIJ: F 91/3. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Schubarth, W.: Rechtsextremismus und Ausländerfeindlichkeit unter Jugendlichen in den neuen Bundesländern: Forschungsbericht. Leipzig 1991. ZIJ: F 91/5. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Friedrich, W.; Schubarth, W.: Ausländerfeindlichkeit und rechtsextreme Orientierungen bei ostdeutschen Jugendlichen: Eine empirische Studie. Forschungsbericht. Leipzig 1991. ZIJ: F 91/9. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Brück, W.: Orientierungspunkte zu Jugend und Rechtsextremismus. Forschungsbericht. Leipzig 1991. ZIJ: F 90/20.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

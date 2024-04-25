@@ -1,0 +1,766 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Eurobarometer 59.2 (May-Jun 2003)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Eurobarometer 59.2 (May-Jun 2003) 
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3905</identifier>
+		<currentVersion>1.0.1</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Eurobarometer 59.2 (May-Jun 2003) 
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Eurobarometer 59.2 (May-Jun 2003)</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>The Common Agricultural Policy, Issues of Immigration, Rail Transport, Consumer Protection, and Information Society</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>The Common Agricultural Policy, Issues of Immigration, Rail Transport, Consumer Protection, and Information Society</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Europäische Kommission</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3905?doi=10.4232/1.10956</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.10956</doiProposal>
+	<publicationDate>
+		<date>2012-03-30</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3905</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>doi:10.3886/ICPSR03950.v2</identifier>
+			<type>DOI</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Informationsgesellschaft</term>
+					<term>Medien</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Minderheiten</term>
+					<term>TRANSPORT UND REISEN</term>
+					<term>Landwirtschaft und Agrarindustrie</term>
+					<term>Konsum und Konsumverhalten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Information society</term>
+					<term>Media</term>
+					<term>International politics and organisations</term>
+					<term>Minorities</term>
+					<term>TRANSPORT AND TRAVEL</term>
+					<term>Agriculture and rural industry</term>
+					<term>Consumption and consumer behaviour</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Themenschwerpunkte sind:
+1. Landwirtschaft,
+2. Immigration und Asyl,
+3. Minderheiten,
+4. Bahnfahren und Bahnservice,
+5. Verbraucherschutz,
+6. Internetnutzung.
+Themen: Standardtrendvariablen: Einstellungen zur gemeinsamen Währung(Euro), zu einer gemeinsamen EU-Außenpolitik und Verteidigungspolitik,zur EU-Erweiterung und zur Konzentration von Verantwortlichkeiten aufEU-Ebene, die auf nationaler Ebene nicht effizient gehandhabt werdenkönnen; Einstellung zur Abdankung von EU-Regierungsmitgliedern, wenn sienicht die Mehrheit im Parlament haben sowie zur politischen Bildung inSchulen in Bezug auf EU-Institutionen; Beurteilung der Rolle der USA beifolgenden Problemen: Weltfrieden, Kampf gegen Terrorismus, Wachstum derWeltwirtschaft, Armutsbekämpfung und Umweltschutz.
+1. Landwirtschaft: präferierte Ziele einer verbraucherorientierten bzw.produzentenorientierten EU-Agrarpolitik und Beurteilung der Umsetzungdieser Ziele durch die EU-Agrarpolitik; Bewertung der EU-Agrarpolitikhinsichtlich folgender Aspekte: faire Verdienstmöglichkeiten für Bauern,Wettbewerbsfähigkeit der europäischen Landwirtschaft auf dem Weltmarkt,Unterstützung der Bauern bei einer kundenorientierten Produktion, Schutzder Interessen der Bauern, Verbesserung der ländlichenLebensverhältnisse, Ausgleich von Entwicklungsunterschieden zwischenRegionen, Verstärkung der Diversifikation der Landwirtschaft, Präferenzvon alternativen Anbaumethoden, Förderung des Umweltschutzes, Bewahrungder Eigenheiten der europäischen Landwirtschaft, Sicherung desGeschmacks der europäischen Agrarprodukte, Unterstützung kleiner undmittlerer Bauernhöfe, Garantie für gesunde und sichere Agrarproduktesowie Sicherstellung des Tierschutzes auf den Bauernhöfen; Bewertung deragrarpolitischen Entwicklung in der EU (weniger Subventionen für dieProdukte, mehr Gelder für den Schutz und die Entwicklung ländlicherRegionen und mehr direkte Unterstützung der Bauern).
+2. Immigration und Asyl: Persönliche Besorgnis in Bezug auf folgendeProbleme: Arbeitslosigkeit, Schwarzhandel und Schmuggel, Terrorismus,Betrug an Verbrauchern, Drogenhandel und Drogenkonsum, Kleinkriminalitätund Gewalt in Städten, organisiertes Verbrechen, staatlicher Missbrauchder Bürgerrechte, Korruption, Geldwäsche und Finanzverbrechen, Krieg,illegale Einwanderung, wachsende soziale Ungleichheit undMenschenhandel; Einstellung zu einer EU-weiten Koordination im Umgangmit den vorgenannten Problemen; Einstellung zu verschiedenenSicherheitsmaßnahmen und zu einer EU-weiten Koordination folgenderMaßnahmen: mehr Polizeikräfte, mehr Befugnisse für die Polizei, mehrBefugnisse für private Sicherheitskräfte, Bekämpfung von Korruption,Überwachungskameras in den Straßen installieren, Einreisekontrollenverstärken, bürgerliche Kompetenzen durch die Schule fördern, höhereStrafen für Kleinkriminalität, mehr Training für die Polizei inBürgerrechten, Bekämpfung der Armut, effizientere und schnellereJustizverfahren, mehr Sozialarbeiter, mehr Befugnisse für Sozialarbeiterund Bekämpfung von lokaler sowie internationaler Kriminalität;Einstellung zu EU-weiten Sicherheitsmaßnahmen: EU-weite Kooperation vonPolizei und Justiz, Schaffung einer Behörde zur EU-weiten Bekämpfung vonKriminalität, grenzüberschreitende Einsätze der Polizei in der EU,Schaffung einer zentralen bzw. EU-weiten Verbrecherkartei, Einführungeines EU-weiten Haftbefehls, EU-weites Verteidigungsrecht fürAngeklagte, Verstärkung der Einreisekontrollen aus Nicht-EU-Staaten,EU-weiter Grenzschutz, Einführung eines EU-einheitlichen Strafrechts,EU-weites Recht auf Untersuchungshaft und Strafvollzug im eigenen Land,EU-weite gemeinnützige Arbeit an Stelle von Freiheitsstrafen fürgeringfügige Straftaten und mehr Verträge der EU mit anderen Staaten zurBekämpfung der internationalen Kriminalität; Zustimmung zu folgendenPunkten: weltweit freie Wahl des Wohnorts (Niederlassung), Asylrecht alsMenschenrecht, Abschaffung aller Grenzkontrollen weltweit undungenügende Asylregelungen verstärken kriminelle Schlepperaktivitäten;Zustimmung zu folgenden, die Immigration und Immigranten betreffendenAspekten: Armut im eigenen Herkunftsland als Ursache fürFlüchtlingsbewegungen, zu viele Immigranten im eigenen Land,Begünstigung der kulturellen Vielfalt im eigenen Land durch Immigranten,viel Kleinkriminalität durch Immigranten, gleiche Rechte für legaleImmigranten und Bürger, Teilnahmerecht für Immigranten an lokalenWahlen, Anpassung der Immigranten an die landestypischen Gepflogenheiten(Assimilation), Nützlichkeit von Immigranten in einigenWirtschaftsbereichen, mehr Anstrengungen zur Integration von legalenImmigranten, Senkung der Immigration durch mehr Entwicklungshilfe,Verhindern von Flüchtlingsbewegungen durch die Entwicklungsländerselbst; keine Erwartung einer zukünftigen Beendung von Immigration;Ausweisung nicht anpassungswilliger wenn auch legaler Immigranten;Legalisierung aller illegalen Immigranten, die einige Jahre im eigenenLand arbeiten; Einwanderungsrecht für nahe Angehörige legalerImmigranten; Zustimmung zu folgenden das Asyl und Asylanten betreffendenFragen: Beurteilung der humanitären Behandlung von Asylanten im eigenenLand, zu lange Bearbeitungszeit von Asylanträgen, wirtschaftliche Gründeals Hauptursache für Asylanträge, Arbeitserlaubnis für Asylanten undSchulrecht für Asylantenkinder während der Zeit der Antragsbearbeitung,Sicherheitsverwahrung für Asylanten während der Zeit derAntragsbearbeitung, nur Lebensmittel und Obdach für Asylsuchende,Sozialhilfeberechtigung für Asylanten, gleiche Rechte für anerkannteAsylanten wie für Bürger, Rückkehrpflicht für Asylanten bei gegebenerSicherheit im Herkunftsland, Präferenz der Asylanten für Länder mit denbesten Bewilligungsaussichten, Präferenz der Asylanten für diewohlhabendsten Länder, Präferenz der Asylanten für Länder mit bereitsdort lebenden Menschen aus der gleichen Herkunftsregion, EU-weitgleiches Asylrecht und Gültigkeit der Asylanträge eines EU-Landes auchin allen anderen EU-Ländern; Einstellung zu bürgerrechtlichen Fragen:zeitweiliger Ausschluss von EU-Ländern, die gegen Menschenrechteverstoßen, EU-weite Richtlinien im Kampf gegen Rassismus, Harmonisierungder Rechtsprechung in der EU zur Garantie von Rechten für Minderheitenund Immigranten, Garantie für ein EU-weites Niederlassungsrecht für alleEU-Bürger, gleiche soziale Sicherheiten für andere EU-Bürger im eigenenLand, EU-weite Angleichung von Familienrecht, Zivilrecht sowieWirtschaftsrecht, EU-weite Richtlinien für vereinfachten Zugang derBürger zu den Gerichten, EU-weit gleiche Voraussetzungen fürHilfsbedürftigkeit, Vereinfachung der Handhabung vongrenzüberschreitenden Rechtstreitigkeiten.
+3. Minderheiten: Einstellung zu Fragen in Bezug auf Minderheiten:Vorteilhaftigkeit von Diversivität in einer Gesellschaft(Multi-Kulti-Gesellschaft), schon immer vorhandene kulturelle undreligiöse Diversivität im eigenen Land, Stärkung des eigenen Landesdurch kulturelle Vielfalt, Aufgeben der Herkunftskultur zur vollenIntegration oder Assimilation als Voraussetzung für Einwanderung,Aufgeben von im Einwanderungsland illegalen religiösen und kulturellenPraktiken wie Polygamie und Beschneidung von Frauen, Eingliederung derMinderheiten geschieht im Laufe der Generationen, begrenzteAufnahmekapazitäten für eine Gesellschaft, maximale Aufnahmekapazitätdes eigenen Landes erreicht, Integrationsverweigerung mancher Mitgliedervon Minderheiten, Abhängigkeit des Integrationswillens von derMinderheitenzugehörigkeit und grundsätzliche Unmöglichkeit derIntegration von einzelnen Minderheiten; Zustimmung zu Aussagen, die sichauf Immigranten beziehen: gleiche soziale Rechte für legale Immigrantenvon außerhalb der EU wie für EU-Bürger, Einwanderungsrecht fürAngehörige von legalen Immigranten von außerhalb der EU, Abschiebung derImmigranten bei Verurteilungen wegen schwerer Verbrechen und beiArbeitslosigkeit, grundsätzliche Abschiebung aller Immigranten,Staatsbürgerschaft für Immigranten, Abschiebung aller illegalenImmigranten, härtere Strafen für Anbieter von Schwarzarbeit,Abhängigkeit der Aufenthaltserlaubnis für illegale Immigranten von derenpersönlichen Umständen, Abschiebung von allen legalen und illegalenImmigranten einschließlich ihrer im Einwanderungsland geborenen Kinder,Erleichterung des Asylrechts.
+4. Bahnfahren und Bahnservice: Häufigkeit von Bahnreisen im eigenensowie anderen Ländern in den letzten zwölf Monaten; Art dieser Reisen(geschäftlich, Tourismus); Einstellung zum Bahnservice (getrenntermittelt für den Service im eigenen Land sowie für den Service aufinternationalen Reisen): allgemein gute Qualität des Bahnservices,ausreichende Frequenz der Züge, Pünktlichkeit, Kriminalität in denZügen, geringe Unfallquote bei Bahnreisen, Sauberkeit der Züge undBahnhöfe, Einfachheit von Reisen mit Gepäck, ausreichend Information inden Zügen, gute Verpflegungsangebote in den Zügen,Behindertenfreundlichkeit der Einrichtungen der Bahn, leichteErreichbarkeit von Bahnhöfen, faire Preise für Fahrkarten; benutzteInformationsquellen für Fahrpläne (Internet, Telefon, Reiseagentur,Bahnhof); Beurteilung der Informationsversorgung der Kundschaft der Bahnim eigenen Land und (jeweils getrennt erfragt) der internationalenBahnen: allgemein gute Qualität der Informationen über das Bahnsystem,Informationen über Fahrpläne, Informationen über Verspätungen undAusfälle von Zügen, Informationen über Fahrpreise, Informationen überdie Rechte und Pflichten von Bahnkunden, Informationen überReservierungen und Buchungen, Informationen zum Umgang mit Gepäck undInformationen zu Beschwerdemöglichkeiten; eigene Beschwerden in denletzten zwölf Monaten; Bewertung des Umgangs der Bahn mit diesenBeschwerden; Zustimmung zu folgenden, das Bahnsystem im Allgemeinenbetreffenden Punkten: mehr Effizienz der Bahnen durch freien Wettbewerb,Schaffung von international operierenden Billigfahrtanbietern,Verstärkung der internationalen Kooperation der Bahnen, Möglichkeit derNutzung aller europäischen Hochgeschwindigkeitszüge mit einem Ticket,Erhöhung der Verkehrshäufigkeit internationaler Züge, höhere Nutzung derBahn für Langstrecken bei Schaffung günstiger Preise für Schlafabteileund für Autozüge, höhere Nutzung der Bahn auf Langstrecken bei Schaffungvon Transportmöglichkeiten für größere Fahrzeuge wie Wohnmobile undEinstellung zu Subventionen für unprofitable internationale Bahnen durchdie EU.
+5. Verbraucherschutz: Ausreichender Verbraucherschutz im eigenen Landund in den anderen Ländern der EU; Einschätzung der Auswirkungen desgemeinsamen Europäischen Marktes auf die Preise, die Qualität undAuswahl von Produkten, Lebensmitteln und Dienstleistungen; Kauf oderBestellung bzw. Inanspruchnahme von Produkten oder Dienstleistungen ausanderen EU-Ländern in den letzten zwölf Monaten; Art des Kaufs bzw. derBestellung (während einer Reise, im Urlaub oder auf Geschäftsreisen, imInternet, per Post, Katalog oder Telefon, durch einen Vertreter); Höhedes Einkaufs; Wahrnehmung von Werbung oder erbetenen Informationen durchAnbieter aus anderen EU-Ländern und Quelle der Informationen (E-Mail,Post, Broschüren, Telefon, Internet, Fernsehen, Radio, Zeitungen undZeitschriften); Erhöhung des Interesses zum Einkauf in anderenEU-Ländern durch die Einführung des Euro; Einschätzung der Sicherheitvon Produkten und Dienstleistungen im eigenen Land und in der EU;Einschätzung der tatsächlichen Umsetzung bzw. Beachtung vonVerbraucherrechten im eigenen Land und der EU; Einschätzung desVerbraucherschutzes bei Einkäufen per Internet im eigenen Land und inder EU; Zugang zu Rechtsmitteln bei Streitigkeiten beim Kauf vonProdukten und Dienstleistungen im eigenen Land und in der EU; Kenntnisaußergerichtlicher Einigungsmöglichkeiten bei Streitfragen zwischenKonsumenten und Anbietern (Schlichtung, Schiedsverfahren); Einschätzungder eigenen Informiertheit über Verbraucherrechte im eigenen Land und inder EU; wahrgenommener Einfluss von Verbraucherorganisationen im eigenenLand und in der EU; wahrgenommene Beachtung der Verbraucherinteressenüber den persönlichen Verbraucherschutz hinaus; Nutzung vonFinanzdienstleistungen in anderen EU-Ländern in den letzten drei Jahren.
+6. Internetnutzung: Nutzung elektronischer Geräte (Computer, Internet,Mobiltelefon, Mobiltelefon mit Internetzugang (WAP), organizer (PDA),Fernsehen, Kabelfernsehen, Satellitenfernsehen, Digitales Fernsehen);Ort der Internetnutzung (auf der Arbeit, zu Hause, in der Schule, in derUniversität, bei Freunden, an öffentlichen Zugängen, in Internetcafes);Häufigkeit der Internetnutzung; wöchentliche Nutzungsdauer; Gründe fürnicht vorhandene Internetnutzung (keine Kenntnisse, keine Zeit, keinComputer, kein Geld, keine öffentlichen Zugänge, zu kompliziert,technische Schwierigkeiten, keine sinnvollen Inhalte im Internet,mangelhafte Sicherheit im Netz, Sprachprobleme, Probleme mit dem serviceprovider); Anreize für zukünftige Internetnutzung (Computertraining,billigere Computer und Internetzugänge, nahe gelegene öffentlicheZugänge, Beseitigung technischer Probleme, einfacheres Auffinden dernützlichen Informationen im Internet bzw. generelles Vorhandenseinnützlicher Informationen, mehr Seiten mit öffentlichen und politischenInformationen und Möglichkeiten zur Erledigung behördlicherAngelegenheiten, mehr Informationen in der Muttersprache); erwarteteÄnderungen im persönlichen Leben bei zukünftiger Internetnutzung (mehroder weniger Kontakt zu Menschen, mehr oder weniger Einbindung in dasWohnumfeld, höhere oder geringere Informiertheit über alltägliche Dinge,leichtere oder schwerere Möglichkeiten zur Nutzung öffentlicher Angeboteund Behörden, geringere oder höhere Kosten, veränderte Partizipation inGruppen und Organisationen, größere Einbindung in die Gesellschaft);gewünschte Informationen und Dienstleistungen im Internet(Kontaktmöglichkeiten zu Regierung und Verwaltung, Jobbörsen,Lernprogramme, Informationen und Dienstleistungen zum Thema Gesundheit,Wohnungsinformationen, Informationen zur Gleichberechtigung,Dienstleistungen und Hilfen für Familien und Jugendliche, für Behindertesowie für Geringverdiener, Informationen über Renten, Informationen überdie eigene Region, Verkehrsinformationen, kulturelle Informationen,Touristeninformationen); Gründe für tatsächliche oder zukünftigeInternetnutzung (Beruf, Ausbildung und Lernen, Produktinformationen undE-Shopping, allgemeine frei erhältliche Informationen wie Tourismus,Nachrichten, Kultur, für lokale oder nationale administrative Vorgänge,Gesundheitsinformationen, Kontakt zu Familie und Freunden sowie um neueBekanntschaften zu machen, Freizeit und Spiele, für Kontakte mit Gruppenund Organisationen); bereits absolviertes Computertraining und Art derVeranstaltung (an der Schule oder Universität, Kurs vom Arbeitgeber,Fortbildungsmaßnahme bei verschiedenen Institutionen, durch Familie oderFreunde sowie Kollegen).
+Demographie: Nationalität; Selbsteinschätzung auf einemLinks-Rechts-Kontinuum; Familienstand; Alter bei Ende der Ausbildung;Geschlecht; Alter; berufliche Position; Stellung im Haushalt; Beruf desHaushaltsvorstandes; Urbanisierungsgrad; monatliches Haushaltseinkommen.
+Zusätzlich verkodet wurden: Interviewdatum und Interviewbeginn;Interviewdauer; Anzahl der beim Interview anwesenden Personen;Kooperationsbereitschaft des Befragten; Ortsgröße; Region;Intervieweridentifikation; Telefonbesitz (Mobiltelefon und Festnetz);Entfernung zur nächsten internationalen Grenze.
+In Luxemburg, Belgien und Finnland: Interviewsprache.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>This Eurobarometer survey contains selected standard Eurobarometermeasures concerning key topical issues including the euro, EuropeanUnion (EU) enlargement, foreign policy, national internal policies, andthe role of the United States in world affairs. The surveys alsocollected information regarding computer and Internet usage, includingtraining, type of equipment, locations of use, frequency and durationof use, and about information and services respondents would like tofind on the Internet. A major focus of the surveys was concern aboutissues of immigration and the right of asylum with questions pertainingto unemployment, social inequality, urban violence, terrorism, war, andvarious types of crime such as illegal immigration, smuggling, andillegal trafficking of drugs and human beings. 
+Topics: Respondents were also asked about the importance anddesirability of certain measures associated with addressing theseissues as well as their level of agreement with selected statementsregarding immigration, immigrants, asylum, asylum seekers, and citizenrights. Respondents were further questioned about the place of peoplebelonging to racial, religious, and cultural minorities. Another focusof the surveys was the subject of EU agricultural policies withrespondents being queried about competition, diversification, economicsupport, and benefits to consumers as well as farmers. Two additionalareas of inquiry included rail services and consumer protection. Theseries of questions regarding rail services asked about frequency oftrain travel in the past 12 months, quality of rail services, handicapaccessibility, ticket prices, schedule information, and complaints madein the past 12 months. Questions pertaining to consumer protectionasked about aspects of the Single European Market, products or servicesbought or ordered from another EU country, advertising of products andservices by other EU countries, and about the safety of products andservices. 
+Demography: Age, gender, nationality, marital status, left-rightpolitical self-placement, occupation, age at completion of education,type and size of locality, and household income.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-GBN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-NIR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FI</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 15 Jahre und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>All respondents were aged 15 and over. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: A multi-stage sampling design was used for this Eurobarometer. In the
+first stage, primary sampling units (PSU) were selected from each of
+the administrative regions in every country (i.e., Statistical Office
+of the European Community, EUROSTAT regions). PSU selection was
+systematic with probability proportional to population size, from
+sampling frames stratified by the degree of urbanization. In the next
+stage, a cluster of addresses was selected from each sampled PSU.
+Addresses were chosen systematically using standard random route
+procedures, beginning with an initial address selected at random. In
+each household, a respondent was selected, by a random procedure. Up to
+three recalls were made to obtain an interview with the selected
+respondent. No more than one interview was conducted in each household.
+Separate samples were drawn for Northern Ireland and East Germany.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Belgium</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Belgien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-22</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Denmark</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Dänemark</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-17</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-13</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-19</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Greece</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Griechenland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Spain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Spanien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-27</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-20</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-16</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland (Republic)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland (Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-24</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-22</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-10</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Luxembourg</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Luxemburg</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-19</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Netherlands</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-21</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-21</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Northern Ireland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Nordirland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-20</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-06</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Austria</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Österreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-10</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Sweden</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweden</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-23</date>
+				</startDate>
+				<endDate>
+					<date>2003-06-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Finland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Finnland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>European Commission, Brussels
+Directorate-General for Communication, Public Opinion Analysis Sector </institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA BELGIUM, Brüssel</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GfK Danmark, Frederiksberg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA DEUTSCHLAND, Mölln</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MARKET ANALYSIS, Athen</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA ESPANA, Madrid</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>CSA-TMO, Paris</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>LANSDOWNE Market Research, Dublin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA Demoskopea, Rom</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ILReS, Luxemburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INTOMART, Hilversum, Niederlande</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SPECTRA, Linz, Österreich</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>METRIS GFK, Lissabon</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MDC MARKETING RESEARCH, Espoo, Finnland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GfK SVERIGE, Lund, Schweden</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MARTIN HAMBLIN, London, Großbritannien</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ULSTER Marketing Surveys, Nordirland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>European Opinion Research Group (EORG),Brüssel (internationale Kooperation, Consortium made out of INRA and GfK Worldwide)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Face-to-face interviews with standardized questionnaire</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>582</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Je Land wurden ca. 1000 Interviews durchgeführt, außer in Nordirland
+(ca. 300) und Luxemburg (ca. 600). Für die Bundesrepublik Deutschland
+gibt es getrennte Samples für Ost und West mit je ca. 1000 Befragten.
+
+
+Vergleichbare Daten über EU-Items und die speziellen Module "Informationens
+Technik" wie auch "Öffentliche Sicherheit" (Q.8 zu Q.13) sind im  Kandidatenländer Eurobarometer 2003.3 (ZA-Studien-Nr 3984) verfügbar.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The regular sample size (in the sense of completed interviews) is 1000
+respondents per country, except the United Kingdom with separate
+samples for Great Britain (1000) and Northern Ireland (300), Luxembourg
+(600) and Germany with separate samples for the Eastern and the Western
+part (1000 each). Effective number of realised interviews in this
+round: France 1010, Belgium 1030, Netherlands 1001, Germany-West 1014,
+Germany-East 1024, Italy 1013, Luxembourg 600, Denmark 1000, Ireland
+1004, Great Britain 1012, Northern Ireland 303, Greece 1001, Spain
+1000, Portugal 1000, Finland 1022, Sweden 1000, Austria 1027.	 
+
+Comparable data on EU items and the special modules on "Information
+Technology" and on "Public Safety" (Q.8 to Q.13) are available in the
+context of Candidate Countries Eurobarometer 2003.3 (ZA Study No. 3984). </text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.3905</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THE EUROPEAN OPINION RESEARCH GROUP (EORG): 
+Special Eurobarometer Wave 59.2. Consumer Protection in 
+the European Union. Requested by Directorate General 
+Health and Consumer Protection and coordinated by 
+Directorate General Press and Communication. 
+Brussels: November 2003.
+
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_193_en.pdf </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THE EUROPEAN OPINION RESEARCH GROUP (EORG): 
+Special Eurobarometer Wave 59.2. European Union 
+Citizens and the Common Agricultural Policy. Public Opinion
+in the Member States. Requested by Directorate General 
+Agriculture and coordinated by Directorate General Press and Communication. 
+Brussels: October 2003.
+
+http://ec.europa.eu/agriculture/survey/2003/rep_en.pdf </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THE EUROPEAN OPINION RESEARCH GROUP (EORG): Special Eurobarometer 194 / Wave 59.2. Internet. Public Opinion in the Member States. Requested by Directorate General Employment and coordinated by Directorate General Press and Communication. Brussels,  March 2004. (FRENCH) </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Majority Attitudes towards Migrants and Minorities: key theories, summary and reports on findings from the Eurobarometer (EU 15 and Candidate Countries) and the European Social Survey at the EUMC website      </freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

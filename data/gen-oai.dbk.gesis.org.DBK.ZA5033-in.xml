@@ -1,0 +1,399 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Turkish Migrant and Re-Immigrant Families
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Türkische Migranten- und Re-Immigrantenfamilien
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5033</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Türkische Migranten- und Re-Immigrantenfamilien
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Turkish Migrant and Re-Immigrant Families
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Manfred</firstName>
+				<middleName/>
+				<lastName>Markefka</lastName>
+				<affiliation>
+					<affiliationName>Seminar für Soziologie der Universität Bonn</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Bernhard</firstName>
+				<middleName/>
+				<lastName>Nauck</lastName>
+				<affiliation>
+					<affiliationName>Pädagogische Hochschule Weingarten, Fachbereich IV</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5033?doi=10.4232/1.5033</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.5033</doiProposal>
+	<publicationDate>
+		<year>1991</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5033</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Familie und Ehe</term>
+					<term>Geschlecht und Geschlechterrollen</term>
+					<term>Kinder</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Social conditions and indicators</term>
+					<term>Family life and marriage</term>
+					<term>Gender and gender roles</term>
+					<term>Children</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.2.0</classificationSchema>
+				<terms>
+					<term>Assimilation</term>
+					<term>Autoritarismus</term>
+					<term>Autoritäre Persönlichkeit</term>
+					<term>Chauvinismus</term>
+					<term>Identität &amp; soziales Zugehörigkeitsgefühl</term>
+					<term>Integration</term>
+					<term>Intergruppenkontakt</term>
+					<term>Religiöse Ideologie</term>
+					<term>Segregation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>Migrationsgeschichte</term>
+					<term>Muslim*innen</term>
+					<term>Türkei</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.3.0</classificationSchema>
+				<terms>
+					<term>Geschlechterrollenverständnis</term>
+					<term>Sprachdiskriminierung</term>
+					<term>Migrationsmotive</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.2.0</classificationSchema>
+				<terms>
+					<term>Assimilation</term>
+					<term>Authoritarianism</term>
+					<term>Authoritarian personality</term>
+					<term>Chauvinism</term>
+					<term>Identity &amp; sense of social belonging</term>
+					<term>Integration</term>
+					<term>Intergroup contact</term>
+					<term>Religious ideology</term>
+					<term>Segregation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>Migrationsgeschichte</term>
+					<term>Muslim*innen</term>
+					<term>Türkei</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.3.0</classificationSchema>
+				<terms>
+					<term>Understanding of gender roles</term>
+					<term>Language discrimination</term>
+					<term>Motives for migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Situation von deutschen Familien sowie türkischen Familien inDeutschland und in der Türkei. Kontakte, Kindererziehung undIntegrationsverhalten.
+Themen: Jeweils für den Mann und die Frau wurde Folgendes detaillierterfragt:
+1. Regionale Herkunft: Geburtsprovinz, Geburtsort; Größe desGeburtsorts; Verwandte im Haushalt, in der Nachbarschaft oder woanders;Geschwisterzahl; Schulabschluss und Beruf der Eltern undSchwiegereltern; Konfession und Religiosität der Eltern;Entscheidungsstruktur in der Familie; Rollenstruktur;Meinungsdifferenzen bei den Eltern; Angaben zur Kindheit (Verhalten derEltern bei Verstößen gegen Gebote des Islam, Beschäftigung der Elternmit dem Kind, Besitz von Kinderbüchern und Spielzeug); höchsterSchulabschluss des Befragten.
+2. Situation am Anfang der Ehe: Heiratsjahr; arrangierte Ehe;Veränderungen der Kontakte zu Eltern und Freunden und derFreizeitgestaltung durch die Ehe, Umstellung von Tagesrhythmus undLebensgewohnheiten; festgelegte Aufgaben; Aufgabenverteilung bei derHausarbeit: Entscheidungsstruktur im Haushalt bei Einkäufen,Behördengängen, Verwaltung des Haushaltsgeldes und Anschaffungen;Häufigkeit von Geldkonflikten; Entwickler von Nachbarschaftskontaktenund Kontaktabbruch; Konflikte in Bezug auf Kinderwunsch und Kleidung;Ehezufriedenheit.
+3. Situation unmittelbar vor der Ausreise nach Deutschland:Herkunftsprovinz und -ort; Verwandte im Haushalt, in der Nachbarschaftoder woanders; Erwerbsstatus und Berufsstatus; Verantwortlicher fürBerufsentscheidung der Ehefrau; Ausstattung der Wohnung und Besitzlanglebiger Wirtschaftsgüter; Entscheidungsträger für Wanderung;Wanderungskonflikt; Verwandtenbeteiligung an dieser Entscheidung;Veränderung im Ansehen bei den Verwandten; Migrationsmotive: fehlendeAusbildungsmöglichkeiten, Freundeserfahrung, finanzielle Unterstützungder Familie in der Türkei, Familienzusammenführung; Bleibeabsicht;Meinungsverschiedenheiten über Bleibedauer.
+4. Situation nach der Einreise nach Deutschland bzw. nach der Heirat:Einreisejahr; Probleme der Wiederanpassung; Regelung vonBehördenangelegenheiten; Arbeit und Beruf zu Beginn der Ehe bzw. nachMigration; Entscheidung und Konflikte über Berufstätigkeit der Ehefrau;Betriebssegregation; Bewertung des Arbeitsplatzes im Vergleich zurTürkei; Nettoeinkommen; Bewertung der Finanzsituation; Entscheidungüber die Finanzen im Haushalt; monatliche Sparrate; Sparkonflikte;Umzug seit Einreise; Ausstattung und Bewertung der Erstwohnung;Entscheidung und Konflikt beim Möbelkauf; Besitz langlebigerWirtschaftsgüter; Konsum türkischer Filme; Radiobesitz; Präferenzen fürausgewählte Musikrichtungen; türkische Küche; Übernahme des Einkaufs;Entfernung zu türkischen Infrastruktureinrichtungen; Wohngegend- undHaussegregation; deutsche Freunde und Kontakthäufigkeit; Einschätzungder eigenen deutschen Sprachkenntnisse (verstehen, sprechen, lesen undschreiben); Verwandte und türkische Freunde in Deutschland; Wohnort derVerwandten und türkischen Freunde und Art der Hilfeleistungen;Änderungen der familiären Situation allgemein und im Bezug auf Kontaktezu Eltern, Verwandten und Freunden, Freizeit und Tagesrhythmus;Bewertung der Familiensituation; Einstellung zu Rollenmodellen in derEhe und Kindererziehung (Geschlechtsnormen, Skalen); für bis zu siebenKinder wurde erfragt: Alter, Geschlecht, Geburtsland undAufenthaltsland; schwierige Kindererziehung in Deutschland; für einKind, das dem Alter von 14 Jahren am nächsten kommt, wurde erfragt:regelmäßige Arztbetreuung; Stilldauer in Monaten; regelmäßigeMahlzeiten; Mahlzeitenzusammenstellung nach ärztlichen Vorschriften;Erziehungsinstanz in den ersten Lebensjahren; Alter des Kindes nachAbschluss der Sauberkeitserziehung und Absetzen speziellerKindernahrung; Krabbelalter; Erziehungsverhalten in denKonstellationen: Mutter/Tochter, Mutter/Sohn, Vater/Tochter undVater/Sohn (Skalen); Erziehungsentscheidung; Religionskontrolle;genutzte Bildungsangebote in der Türkei und in Deutschland; Erlerneneines Musikinstrumentes; Schulaufgabenbetreuung; Lehrergespräch;Spielgelegenheiten in der Wohnung; Hausaufgabenplatz; Besitz und Anzahlmuttersprachlicher und deutscher Kinder- und Jugendbücher; präferierteMusikrichtungen der Kinder; Besitz von Platten oder Kassetten;Häufigkeit von Schulaufgabenbetreuung, Liedersingen, Vorlesen,Musikinstrument üben und Sport treiben mit dem Kind; Häufigkeit derÜbernahme ausgewählter Aufgaben und Pflichten durch das Kind; Bildungs-und Berufswunsch für das Kind und diesbezügliche Konflikte;Berufsentscheidungsträger.
+5. Derzeitige Situation: Art und Umfang der derzeitigenBerufstätigkeit; Berufsentscheidungsträger; Entscheidung und Konflikteüber Berufstätigkeit der Ehefrau; Betriebssegregation; Bewertung desArbeitsplatzes im Vergleich zum ersten Arbeitsplatz in Deutschland;Nettoeinkommen; Bewertung der finanziellen Situation;Entscheidungsträger über finanzielle Angelegenheiten; monatlicheSparrate; Sparkonflikte; Konflikte über Haushaltsaufgaben; Übernahmevon Kochgewohnheiten; Wohnungsgröße; Einzugsjahr; Wohnungsausstattung;Haushaltsgröße; Wohnungsbewertung; Einzugsmotive; Wohnzufriedenheit;Besitz langlebiger Wirtschaftsgüter (in Deutschland) bzw. vonImmobilien und Firmen (in der Türkei); Wanderungsbereitschaft;Rückkehrkonflikt; Verwandte in der Türkei bzw. im Ausland;Verwandtenkontakte und Konflikte bezüglich Verwandtenunterstützung;Wohnen im präferierten Wohnviertel; Entfernung zu türkischenInfrastruktureinrichtungen; Zeitpunkt des letzten Einkaufs in einemtürkischen Lebensmittelladen, des Besuchs eines türkischen Vereins undLokals, der Inanspruchnahme eines türkischen Beratungsdienstes;Häufigkeit von Freizeitkonflikten; Zufriedenheit mit dem Wohnviertel;Wohnhaussegregation; türkische Freunde und Verwandte in Deutschland;deutsche Bekannte und Kontakthäufigkeit; Art und Häufigkeit von:Hilfeleistungen durch Verwandte und Freunde, gemeinsamen Feiern,Ansehen eines Videos und Picknicks mit Verwandten und Freunden;Entwicklung des Verwandtenkontaktes; detaillierte Angaben zu den dreiwichtigsten Bezugspersonen außerhalb der Familie: Geschlecht, Alter,verwandt mit dem Befragten, Nationalität, Wohnort, Religiosität, Beruf,Familienstand, Rolle der Frau, Kinderzahl, Kindererziehungsverhalten,Beziehung der drei Personen untereinander; Teilnahme an einemDeutschkurs bzw. einer beruflichen Weiterbildung; letzter Besuch einerallgemeinen Beratungsstelle und eines deutschen Lokals; Vereins- bzw.Gewerkschaftsmitgliedschaft; gelesene Tages- und Wochenzeitungen;Lesehäufigkeit von türkischen Zeitungen; Besitz und Anzahl türkischerund deutscher Bücher; Besitz eines Kassettenrekorders; AnzahlSchallplatten oder Kassetten ausgewählter Musikrichtungen;Konsumhäufigkeit ausgewählter türkischer, deutscher und internationalerFilmgenres; Besitz von TV und Videorekorder; Einschätzung der deutschenSprachkenntnisse (verstehen, sprechen, lesen und schreiben);Veränderung der Aufgabenverteilung in der Ehe; Bewertung derErziehungsschwierigkeiten; Veränderungen in den Eltern-, Verwandten-und Freundeskontakten, in der Freizeit und im Tagesrhythmus; Bewertungder eigenen Gesundheit; Veränderung des Familienlebens; Zufriedenheitmit dem Familienleben.
+Demographie: Jeweils für den Mann und die Frau wurden erfragt:Geburtsjahr.
+Interviewerrating: Kooperationsbereitschaft des Befragten; Atmosphärewährend des Interviews.
+Zusätzlich verkodet wurde: Geschlecht des Befragten; Befragungsstadt;Befragungszeit und Interviewdauer; Haus- und Straßenzustand;Anwesenheit Dritter während des Interviews; Eingreifen Dritter in denInterviewverlauf; Anzahl der Kontaktversuche; Interviewergeschlecht.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Cologne</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Köln</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Bonn</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Bonn</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Troisdorf</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Troisdorf</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>TR</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Westanatolien</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Vollständige, in einem Haushalt lebende Familien einer Nationalität mit
+mindestens einem Kind zwischen 6 und 16 Jahren </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Vier Populationen sind in die Untersuchung einbezogen worden. Es wurden
+vollstandardisierte muttersprachliche Interviews mit Müttern oder
+Vätern durchgeführt: a) 443 deutsche Familien, b) 520 türkische
+Migrantenfamilien, c) 259 türkische Re-Immigrantenfamilien, d) 464
+türkische Familien. Die beiden ersten Gruppen sind als
+Zufallsstichprobe eines 3 x 3 Designs städtischer Kontexte in der
+Bundesrepublik Deutschland gezogen worden. Dabei ist einmal die
+Wohnortgröße von der Metropole Köln über die Großstadt Bonn zur
+Kleinstadt Troisdorf variiert worden, in dem aus jeder Stadt ein
+segregiertes Quartier (in dem die Konzentration der türkischen
+Bevölkerung hoch ist und eine möglichst dichte ethnische Infrastruktur
+existiert), ein konzentriertes Quartier (in dem zwar die Konzentration
+hoch ist, aber die ethnische Infrastruktur fehlt) und ein
+de-segregiertes Quartier ausgewählt worden ist.
+
+Die beiden letzten Gruppen sind als Quotenstichprobe aus fünf
+Wohnquartieren in drei westanatolischen Provinzen der Türkei gezogen
+worden. Es handelt sich dabei um ein Neubau-Wohnquartier der Metropole
+Istanbul, in dem vornehmlich besser gestellte Händlerfamilien wohnen
+(Erenköy), ein Quartier der Großstadt Bursa, in dem vornehmlich
+Industriearbeiter wohnen, um ein Quartier am Rande der Metropole
+Istanbul, in dem als Slum (gecekondu) vornehmlich Binnenmigranten aus
+ländlichen Gebieten der Türkei leben, um ein ländliches Wohnquartier an
+der Küste der Provinz Balikesir, in dem die Einwohner vom Tourismus
+leben, und um in der Provinz Bursa liegende ländliche Kontexte mit
+Agrarwirtschaft (Iznik).</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>1984</year>
+				</startDate>
+				<endDate>
+					<year>1986</year>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Seminar für Soziologie der Universität Bonn
+Staatsinstitut für Frühpädagogik und Familienforschung, München</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>560</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Nauck, Bernhard:
+Grundauswertung der Befragung von türkischen Migranten und
+Re-Immigrantenfamilien, von deutschen und türkischen Familien.
+Arbeitsbericht Nr. 20.
+München: Staatsinstitut für Frühpädagogik und Familienforschung 1987</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Nauck, Bernhard:
+Eltern-Kind-Beziehungen bei Deutschen, Türken und Migranten: Ein
+interkultureller Vergleich der Werte von Kindern, des generativen
+Verhaltens, der Erziehungseinstellungen und Sozialisationspraktiken.
+In: Zeitschrift für Bevölkerungswissenschaft, Jg. 16, 1/1990,
+S. 87-120</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Nauck, Bernhard:
+Sozial-ökologischer Kontext und außerfamiliäre Beziehungen: Ein
+interkultureller und interkontextueller Vergleich am Beispiel von
+deutschen und türkischen Familien.
+In: Friedrichs, Jürgen (Hrsg.): Soziologische Stadtforschung
+Opladen: Westdeutscher Verlag, Sonderheft 29 der Kölner Zeitschrift für
+Soziologie und Sozialpsychologie 1988, S. 310-327</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

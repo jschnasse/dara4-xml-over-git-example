@@ -1,0 +1,218 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Young People and Young Adults in Germany 1993 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Jugendliche und junge Erwachsene in Deutschland 1993
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA2397</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Jugendliche und junge Erwachsene in Deutschland 1993
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Young People and Young Adults in Germany 1993 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Deutsches Jugendinstitut (DJI), München</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2397?doi=10.4232/1.2397</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.2397</doiProposal>
+	<publicationDate>
+		<year>1994</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2397</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Freizeit, Tourismus und Sport</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Jugend</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Leisure, tourism and sport</term>
+					<term>Cultural and national identity</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Youth</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Situation von Jugendlichen in Ost- und Westdeutschland undEinstellungen zu jugendrelevanten und politischen Fragen.
+Themen: Wichtigste Probleme des Landes und wichtigstespersönliches Problem; Besuch des jeweils anderen TeilDeutschlands nach der Grenzöffnung und Auslandsreise in 1992;frühere Auslandsreisen; Politikinteresse; Sympathie-Skalometerfür die Parteien; kompetenteste Partei in bezug auf dieZukunftssicherung; Beurteilung der eigenen wirtschaftlichenLage und erwartete weitere Entwicklung; Vater oder Mutter alszuständige Person bei der Kindererziehung; Gleichberechtigungvon Mann und Frau; Einstellung zur Konfliktlösung durch Gewalt;Einstellung zum Sozialismus; Altersvorsorge vom Einzelnen oderdurch den Staat; Nationalstolz; Präferenz für dieSelbständigkeit des Landes oder als Teil eines europäischenStaates; Vorteilhaftigkeit der Europäischen Gemeinschaft fürdas Land; Einstellung zur Einführung der europäischen WährungECU; Einstellung zur Aufnahme von Asylbewerbern; Verständnisfür Ausschreitungen gegen Asylbewerber oder Scham deswegen;allgemeine Lebenszufriedenheit; Mobilitätsbereitschaft ausberuflichen Gründen; Wohnzufriedenheit; Hilfsbereitschaft derEltern oder anderer Personen bei schwerwiegenden Problemen;Gründe für die Rechtfertigung von Gewalt; Zufriedenheit mit demöffentlichen Angebot an Einrichtungen und Dienstleistungen fürJugendliche; Interesse an ausgewählten Freizeitaktivitäten(Skalometer); wichtigste Gründe für Einschränkungen im Bereichder Freizeitmöglichkeiten; Mitgliedschaft in einerJugendorganisation; regelmäßige Teilnahme an Veranstaltungendes Vereins; Cliquenzugehörigkeit; Ausländer im Freundeskreis;Einschätzung der Aidsgefahr und der Bedrohung durch Drogen;Verhalten bei einem angenommenen Angriff auf Ausländer durchJugendliche; Arbeitszufriedenheit; perzipierteArbeitsplatzgefährdung; Wohnen bei den Eltern; eigenes Zimmer;Einschätzung der wirtschaftlichen Lage des Elternhauses;perzipierte Gefährdung des Arbeitsplatzes des Vaters und derMutter; Alter beim Verlassen des Elternhauses; derzeitigerWohnstatus; Geschwisterzahl; Kinderzahl; gewünschte Kinderzahl;Sozialisationsinstanz in der Kindheit; zuständige Personen fürdie Betreuung in der eigenen Schulzeit; Erwerbstätigkeit desVaters sowie der Mutter während der Schulzeit; sozialeHerkunft; Kommunion oder Konfirmation; Konfession; Religiositätund Glaube an Gott.
+In Ostdeutschland wurde zusätzlich gefragt: Beurteilung derEntscheidung der DDR-Bürger bei der ersten freien Wahl im März1990; erfüllte Erwartungen bezüglich der Vereinigung der beidendeutschen Staaten; Beurteilung der Freizeitmöglichkeiten nachder Wende; Vergleich der Verhältnisse vor der Wende mit derderzeitigen Situation bezüglich der sozialen Absicherung, derSelbstentfaltung, der Verhältnisse zu den Mitmenschen, derAnforderungen an den Beruf, der Verwirklichung desBerufswunsches und der Anforderungen der Schule; Beteiligung ander Jugendweihe.
+Demographie: Alter; Geschlecht; Familienstand; Kirchgangshäufigkeit; Schulbildung; Berufsausbildung; Berufstätigkeit; Haushaltsgröße; Wohnsituation; Ortsgröße; Bundesland; </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The situation of young people in Eastern and Western Germany andattitudes to youth-relevant and political questions. Topics: Mostimportant problems of the country and most important personal problem;trip to the other part of Germany after the border opening and tripabroad in 1992; earlier trips abroad; interest in politics; sympathyscale for the parties; most able party regarding securing the future;judgement on one´s own economic situation and expected furtherdevelopment; father or mother as responsible person in raisingchildren; equal rights for men and women; attitude to solving conflictsthrough violence; attitude to socialism; provision for old age byindividuals or the government; national pride; preference forindependence of the country or as part of a European nation;advantageousness of the European Community for the country; attitude tointroduction of the European currency ECU; attitude to admission ofapplicants for political asylum; understanding for violentdemonstrations against applicants for political asylum or being ashameddue to this; general contentment with life; mobility readiness foroccupational reasons; satisfaction with housing; willingness to help ofparents or other persons given serious problems; reasons forjustification of violence; satisfaction with public selection offacilities and services for young people; interest in selected leisureactivities (scale); most important reasons for restrictions in the areaof leisure possibilities; membership in a youth organization; regularparticipation in events of the club; clique affiliation; foreigners inone´s circle of friends; assessment of the danger of AIDS and threatfrom drugs; conduct given a hypothetical attack on foreigners by youngpeople; work satisfaction; perceived jeopardy to job; living withparents; one´s own room; assessment of economic situation of parentalhome; perceived jeopardy to job of father and mother; age at leavingparental home; current residential status; number of siblings; numberof children; desired number of children; socialization authority inchildhood; persons responsible for care during one´s time in school;employment of father as well as mother during time in school; socialorigins; Communion or Confirmation; religious denomination;religiousness and belief in God. The following questions were posed inEastern Germany: judgement on the decision of the citizens of the GDRin the first free elections in March 1990; fulfilled expectationsregarding unification of the two German nations; judgement on leisurepossibilities after the turning point; comparison of conditions beforethe turning point with the current situation regarding socialprotection, self-development, relationships with fellow-men, demands ofoccupation, realization of desired occupation and demand of school;participation in the Jugendweihe {DDR ceremony of adulthood}. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Jugendliche im Alter von 14 bis 27 Jahren </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Young people between the ages of 14 to 27 years.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Zufallsauswahl nach dem RLD-Verfahren in Westdeutschland.
+Mehrstufig geschichtete Zufallsauswahl in Ostdeutschland.
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Random selection according to the RLD procedure in Western Germany.  
+Multi-stage stratified random sample in Eastern Germany. 
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1993-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1993-03</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>IPOS, Institut fuer Praxisorientierte Sozialforschung, Mannheim 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung in Ostdeutschland und telefonische
+Befragung in Westdeutschland
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey in Eastern Germany and telephone interview in Western 
+Germany 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>165</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Eine Kumulation dieser Studie und der Jugendstudie von 1995
+(ZA-Studien-Nrn. 2585) und ist unter der ZA-Studien-Nr. 3087 archiviert.
+Nachfolgeuntersuchungen sind unter den ZA-Studien-Nrn. 2585, 3975 und
+3976 archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Berger, Manfred; Jung, Matthias; Roth, Dieter: 
+Jugendliche und Erwachsene in Deutschland: Ergebnisse einer repräsentativen Bevölkerungsumfrage in den alten und neuen Bundesländern. 
+Mannheim: Institut für Praxisorientierte Sozialforschung, 1993.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

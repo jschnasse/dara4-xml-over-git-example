@@ -1,0 +1,317 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Youth and Young Adults in Germany 2002
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Jugendliche und junge Erwachsene in Deutschland 2002
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3976</identifier>
+		<currentVersion>2.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Jugendliche und junge Erwachsene in Deutschland 2002
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Youth and Young Adults in Germany 2002
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Institut für Praxisorientierte Sozialforschung (IPOS), Mannheim
+</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3976?doi=10.4232/1.11631</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11631</doiProposal>
+	<publicationDate>
+		<date>2013-05-02</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3976</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Freizeit, Tourismus und Sport</term>
+					<term>Medien</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Jugend</term>
+					<term>Informationsgesellschaft</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Leisure, tourism and sport</term>
+					<term>Media</term>
+					<term>Government, political systems and organisations</term>
+					<term>Youth</term>
+					<term>Information society</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.0.0</classificationSchema>
+				<terms>
+					<term>Bedrohungswahrnehmungen </term>
+					<term>Ethnozentrismus</term>
+					<term>Integration</term>
+					<term>Intergruppenkontakt</term>
+					<term>Migrationspolitik</term>
+					<term>Nationalismus</term>
+					<term>Patriotismus</term>
+					<term>Kriminalität</term>
+					<term>Xenophobie</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>Religiöse Zugehörigkeit</term>
+					<term>Eingebürgerte Personen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.2.0</classificationSchema>
+				<terms>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Staatsbürgerschaft</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.0.0</classificationSchema>
+				<terms>
+					<term>Threat perceptions</term>
+					<term>Ethnocentrism</term>
+					<term>Integration</term>
+					<term>Intergroup contact</term>
+					<term>Migration policies</term>
+					<term>Nationalism</term>
+					<term>Patriotism</term>
+					<term>Criminality</term>
+					<term>Xenophobia</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>Religiöse Zugehörigkeit</term>
+					<term>Eingebürgerte Personen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.2.0</classificationSchema>
+				<terms>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Citizenship</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Situation von Jugendlichen in Ost und West. PolitischeEinstellungen und Verhältnis zur Gewalt.
+Themen: Wichtigste Probleme in Deutschland und wichtigstes persönlichesProblem; Sympathie-Skalometer für die Parteien; eigenes Wohlbefinden;Beurteilung der eigenen wirtschaftlichen Lage und erwartete weitereEntwicklung; Aushilfsjobs bzw. Nebentätigkeiten; Nationalstolz;wichtigste Quellen für den Lebensunterhalt; Einstellung zur Anzahl vonAusländern in Deutschland; Einstellung zur Erleichterung des Zuzugsausländischer Arbeitskräfte in der Zukunft; Ausländer als kulturelleBereicherung oder Gefahr einer Überfremdung; Einstellung zuHilfsleistungen gegenüber Ausländern; Verständnis für Ausschreitungengegen Ausländer; allgemeine Lebenszufriedenheit; Vorbereitung der Regionauf wirtschaftliche Herausforderungen; Mobilitätsbereitschaft ausberuflichen Gründen; Vorbereitung auf das Berufsleben aus der Schulzeit;Kenntnisse von Sofortprogrammen gegen Jugendarbeitslosigkeit;Wohnzufriedenheit; Beurteilung des Anteils der Ausländer undArbeitslosen in der Wohngegend; Lösung von persönlichen schwerwiegendenProblemen; Hilfsbereitschaft der Eltern oder anderer Personen beischwerwiegenden Problemen (Vertrauensperson); Nutzung einerBeratungsstelle als eine Institution zur Lösung von Problemen; Gründefür die Rechtfertigung von Gewalt von Jugendlichen; Zufriedenheit mitdem öffentlichen Angebot an Einrichtungen und Dienstleistungen fürJugendliche; ausreichend Freizeit; Interesse an ausgewähltenFreizeitaktivitäten (Skalometer); Mitgliedschaft in einerJugendorganisation; Mitgliedschaft und aktive Mitarbeit in einerselbstorganisierten bürgerschaftlichen Organisation;Cliquenzugehörigkeit; Ausländer im Freundeskreis; Deutsche imFreundeskreis; Ort des Kontakts; Aufnahme eines Ausländers in denengeren Freundeskreis vorstellbar; Verhalten bei einem angenommenenAngriff auf Ausländer durch Jugendliche; eigenes Miterleben einesAngriffs auf einen Ausländer; wahrgenommene Zunahme vonGewalttätigkeiten; persönliches Bedrohtheitsgefühl; Einstellung zuerhöhten Anstrengungen der Polizei zum Schutz der Ausländer vor Gewalt;Einstellung zu einem größeren Einsatz der Bürger zum Schutz vonAusländern; Spielen von Computerspielen und Häufigkeit pro Woche;gemeinschaftliches Spielen oder alleine; Art der Spielekonsole; Besitzeines Handys; Zugang zu einem PC zu Hause; alleiniger Benutzer des PCs;Einschätzung der Stundenzahl am PC pro Woche; private Nutzung desInternets; Besitz eines eigenen Internet-Zugangs; Zeitraum derInternetznutzung in Jahren; Einschätzung der wöchentlichen Nutzung desInternets in Stunden; Ort der Nutzung des Internets, sowie Zweck derNutzung.
+Demographie: Alter; Geschlecht; Schulbildung bzw. angestrebterSchulabschluss; Berufsausbildung; Berufstätigkeit; Umschulung oderArbeitsbeschaffungsmaßnahme; Arbeitszufriedenheit; perzipierteArbeitsplatzgefährdung; Ort der Ausbildung; Arbeitslosigkeit;arbeitssuchend; Wohnen bei den Eltern; eigenes Zimmer; Einschätzung derwirtschaftlichen Lage des Elternhauses; perzipierte Gefährdung desArbeitsplatzes des Vaters und der Mutter; Alter beim Verlassen desElternhauses; derzeitiger Wohnstatus; Familienstand; Zusammenleben mitPartner; Geschwisterzahl; Kinderzahl; Haushaltsgröße;Haushaltszusammensetzung; Sozialisationsinstanz in der Kindheit;Berufsgruppe der Mutter, sowie Berufsgruppe des Vaters; Konfession;Religiosität und Glaube an Gott; Ortsgröße; Staatsbürgerschaft; deutscheStaatsbürgerschaft von Geburt an; Geburtsort Deutschland; frühereStaatsbürgerschaft; Jahr der Einbürgerung; frühere Staatsbürgerschaftbeibehalten; Staatsbürgerschaft des Vaters und der Mutter; Ruhestand.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutschsprachige Jugendliche im Alter von 14 bis 27 Jahren. In
+Ostdeutschland wurden jedoch nur deutsche Jugendliche ausgewählt.  </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: 1. Zufallsauswahl einer repräsentativen Stichprobe nach dem
+RLD-Verfahren und Geburtstagsschlüssel
+2. Oversampling von ´potentiell Benachteiligten´. Als potentiell
+benachteiligt wurde definiert: arbeitslos bzw. nur Hauptschulabschluss.
+
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2002-11</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2002-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Institut für Praxisorientierte Sozialforschung (IPOS),
+Mannheim
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>173</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Vorgängerstudien mit weitgehend identischem Fragenprogramm sind
+unter der ZA-Studien-Nr. 2397, 2585 und 3087 (Kumulation) sowie 3975
+archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.3976</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>IPOS - Institut für praxisorientierte Sozialforschung Mannheim (Hrsg.): 
+Jugendliche und junge Erwachsene in Deutschland: Ergebnisse einer repräsentativen Bevölkerungsumfrage. 
+Mannheim: IPOS März 2003</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

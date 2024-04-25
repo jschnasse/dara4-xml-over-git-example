@@ -1,0 +1,217 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Foreign Young People (District Offenbach) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Ausländische Jugendliche (Kreis Offenbach)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1264</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Ausländische Jugendliche (Kreis Offenbach)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Foreign Young People (District Offenbach) 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>MARPLAN, Offenbach</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1264?doi=10.4232/1.1264</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1264</doiProposal>
+	<publicationDate>
+		<year>1981</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1264</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Vorschulerziehung und Bildung in der Pflichtschulzeit</term>
+					<term>Freizeit, Tourismus und Sport</term>
+					<term>Jugend</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Compulsory and pre-school education</term>
+					<term>Leisure, tourism and sport</term>
+					<term>Youth</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Lebenssituation ausländischer Jugendlicher im Kreis Offenbach.
+Themen: Kenntnis der eigenen Landessprache sowie der deutschenSprache; Aufenthaltsdauer des Befragten, der Eltern sowie Geschwister inDeutschland; Einstellung zum Verbleib in der Bundesrepublik;Beschreibung der Wohnungssituation; Wohnungsbelegung und eigenes Zimmer;Ausländeranteil der Wohngegend; Art und Anzahl derVereinsmitgliedschaften; Mitgliederstruktur und Vereinsgründer;präferierte Mitgliederstruktur; präferierte Freizeitkontakte und Wunschnach deutschen oder ausländischen Jugendlichen als Freizeitpartner; Ortfür Freizeitaktivitäten; Kenntnisse der Eltern über Ort, Art und Partnerbei Freizeitbeschäftigungen; Interesse der Eltern an denFreizeitaktivitäten und Freizeitkontakten; Einverständnis der Eltern mitden Aktivitäten des Befragten; detaillierte Erfassung der Häufigkeit undBeliebtheit ausgewählter Freizeitaktivitäten; Interesse an derAusdehnung verschiedener Freizeitaktivitäten; Einstellung zur Ausweitungvon Freizeitbeschäftigungen mit den Eltern; Langeweile; Anlässe fürIntergenerationenkonflikte; vermutete Einstellung der deutschenJugendlichen gegenüber den ausländischen sowie der ausländischengegenüber den deutschen und der eigenen Landsleute gegenüber anderenAusländern in der Bundesrepublik; Gefühl der Akzeptanz durch diedeutschen Jugendlichen; Schulbesuch im Herkunftsland und in Deutschland;Interesse an der Schule; Verhältnis zu den Lehrern und Mitschülern;Einstellung zur Hausaufgabenbetreuung; Vorstellungen über eine Tätigkeitnach dem Schulabschluß; vermutete Erwartungen der Eltern für diese Zeit;Aussichten auf einen Ausbildungsplatz; Beurteilung der deutschenSchulausbildung im Vergleich zu derjenigen im Heimatland.
+Bei Jugendlichen, die schon aus der Schule entlassen waren, wurdezusätzlich gefragt: tatsächliche und gewünschte Tätigkeit nach demSchulbesuch; Gründe für die Berufsentscheidung; verwendeteInformationsquellen und Art der Arbeits- bzw. Ausbildungsplatzsuche;allgemeine Beurteilung der Berufsaussichten ausländischer Jugendlicher;Berufsaussichten der ausländischen Jugendlichen im Vergleich zu dendeutschen.
+Demographie: Alter; Geschlecht; Alter und Anzahl der Geschwister;Soziale Herkunft; Nationalität.
+Interviewerrating: Anwesenheit Dritter, insbesondere der Eltern, beimInterview; Anzahl der Wohnungen im Gebäude; Wohngegend.
+Zusätzlich verkodet wurden: Intervieweridentifikation;Intervieweralter; Interviewergeschlecht; Postleitzahl.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The situation in life of foreign young people in the district ofOffenbach. 
+Topics: knowledge of personal national language as well as the Germanlanguage; length of stay of respondent, parents as well as siblings inGermany; attitude to remaining in the Federal Republic; description ofresidence situation; residential occupancy and one´s own room;proportion of foreigners in residential area; type and number of clubmemberships; membership structure and club founders; preferredmembership structure; preferred leisure contacts and desire for Germanor foreign young people as leisure partners; place for leisureactivities; knowledge of parents about place, type and partners inleisure activities; interest of parents in leisure activities andleisure contacts; consent of parents with activities of respondent;detailed recording of frequency and popularity of selected leisureactivities; interest in extension of various leisure activities;attitude to extension of leisure activities with parents; boredom;motives for inter-generation conflicts; assumed attitude of Germanyoung people regarding foreign young people as well as of the foreignyoung people regarding German young people and of one´s own countrymenregarding other foreigners in the Federal Republic; feeling ofacceptance by German young people; school attendance in country oforigin and in Germany; interest in school; relationship with teachersand classmates; attitude to homework coaching; ideas about anoccupation after completion of school; assumed expectations of parentsfor this time; prospects for a training vacancy; judgement on theGerman school education in comparison to that in the native country. 
+The following additional questions were also posed with young peoplewho had already completed school: actual and desired occupation afterschool attendance; reasons for the occupation decision; sources ofinformation used and manner of search for work or training vacancy;general judgement on the occupation prospects of foreign young people;occupation prospects of foreign young people in comparison to Germans. 
+Demography: age; sex; age and number of siblings; social origins;nationality. 
+Interviewer rating: presence of others, in particular of parents,during the interview; number of apartments in the building; residentialarea. 
+Also encoded were: identification of interviewer; age of interviewer;sex of interviewer; ZIP (postal) code. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-HE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>the district of Offenbach</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Kreis Offenbach</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Spanische, italienische, jugoslawische, griechische und türkische
+Jugendliche im Alter von 12 bis 23 Jahren aus Listen ausländischer
+Einwohner der Geburtsjahrgänge 1958 bis 1968</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>100 Spanish, Italian, Yugoslav, Greek and
+Turkish young people between the ages of 12 to 23 years from lists of
+foreign residents born in 1958 to 1968. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Einfache Zufallsauswahl von je 100 Jugendlichen der unterschiedlichen Nationalitäten
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Simple random selection </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1981-06</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1981-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

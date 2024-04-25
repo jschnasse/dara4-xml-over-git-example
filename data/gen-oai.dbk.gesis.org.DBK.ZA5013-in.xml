@@ -1,0 +1,397 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Lines of Conflict of Egyptian Society 1986-1988: Remigration, 
+Segregation, Islam (Survey of Returned Migrants from 6 Egyptian Villages) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Konfliktlinien der ägyptischen Gesellschaft 1986-1988: Remigration, Segregation, Islamismus (Befragung von zurückgekehrten Migranten in 6 ägyptischen Dörfern)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5013</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Konfliktlinien der ägyptischen Gesellschaft 1986-1988: Remigration, Segregation, Islamismus (Befragung von zurückgekehrten Migranten in 6 ägyptischen Dörfern)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Lines of Conflict of Egyptian Society 1986-1988: Remigration, 
+Segregation, Islam (Survey of Returned Migrants from 6 Egyptian Villages) 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Georg</firstName>
+				<middleName/>
+				<lastName>Stauth</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Christoph</firstName>
+				<middleName/>
+				<lastName>Reichert</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Petra</firstName>
+				<middleName/>
+				<lastName>Weyland</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Renate</firstName>
+				<middleName/>
+				<lastName>Albrecht</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Laila</firstName>
+				<middleName/>
+				<lastName>El-Hamamsy</lastName>
+				<affiliation>
+					<affiliationName>Social Research Centre, American University in Cairo, Egypt</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Sohair</firstName>
+				<middleName/>
+				<lastName>Mehanna</lastName>
+				<affiliation>
+					<affiliationName>Social Research Centre, American University in Cairo, Egypt</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>A.</firstName>
+				<middleName/>
+				<lastName>Nada</lastName>
+				<affiliation>
+					<affiliationName>Social Research Centre, American University in Cairo, Egypt</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>E.</firstName>
+				<middleName/>
+				<lastName>Kheir</lastName>
+				<affiliation>
+					<affiliationName>Social Research Centre, American University in Cairo, Egypt</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5013?doi=10.4232/1.5013</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.5013</doiProposal>
+	<publicationDate>
+		<year>1990</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5013</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>HANDEL, INDUSTRIE UND MÄRKTE</term>
+					<term>Soziale und berufliche Mobilität</term>
+					<term>Landwirtschaft und Agrarindustrie</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Social conditions and indicators</term>
+					<term>TRADE, INDUSTRY AND MARKETS</term>
+					<term>Social and occupational mobility</term>
+					<term>Agriculture and rural industry</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Familiäre und finanzielle Situation von zurückgekehrtenMigranten sowie deren Wohnsituation. Angaben zurArbeitsmigration, der Arbeitszufriedenheit und denArbeitsbedingungen während der Migration sowie die Auswirkungender Migration.
+Themen: Der Fragebogen gliedert sich in 8 Befragungsteile:
+1.) Grundsätzliches: eigene Stellung sowie Stellung derEhefrau zum Familienoberhaupt; Familienstand; eigenerBildungsstand sowie Bildung der Ehefrau; eigener Haupt- undNebenberuf sowie Haupt- und Nebenberuf der Ehefrau;Haushaltsgröße; Kinderzahl; Familientyp; Leben in Kleinfamilieseit Rückkehr bzw. bereits vor der Migration.
+2.) Haus und neue Haushaltsgegenstände: Anzahl der Zimmer;Vorhandensein von fließend Wasser, Strom, Küche und Toilette imHaus; Besitz langlebiger Gebrauchsgüter.
+3.) Landwirtschaftlicher Boden, Landwirtschaftsmaschinen,Nutztiere: Bodenbesitz; Größe des eigenen bzw. gepachtetenLandes; Bodenbewirtschaftung vor und nach der Migration sowiezum gegenwärtigen Zeitpunkt; Besitz modernerlandwirtschaftlicher Arbeitsgeräte; Tierbesitz.
+4.) Arbeitsmigration: Anzahl der Auslandsaufenthalte; Gastlandder Arbeitsaufenthalte; Zeitpunkt und Dauer der letztenArbeitsmigrationen; Migrationsmotive; Rückkehrmotive; Kostenfür die Auslandsreise und Finanzquelle; Erledigung derReiseformalitäten; Berufstätigkeit vor und während derMigration; Vermittler der Arbeit im Ausland; Verwandte oderBekannte im Gastland; Lebens- und Wohnsituation im Gastland;Begleitung oder Besuch von Familienmitgliedern während derletzten Migration; Grund des Familienbesuchs;Freizeitaktivitäten; neue Freundschaften während der Migration;empfundene Fremdheit oder Sehnsucht im Gastland; Rückkehrjahrund vergangener Zeitraum seit der Rückkehr.
+5.) Grad der Zufriedenheit mit der Arbeit im Gastland, Erwerbneuer Kenntnisse, Arbeitsbedingungen, Ansichten des Migrantenüber das Land seines Arbeitsaufenthaltes: Verrichtung neuerTätigkeiten sowie Erwerb neuer Fähigkeiten während derMigration; Arbeitszufriedenheit; Beurteilung der Arbeits- undLebensbedingungen im Gastland; Beurteilung der wirtschaftlichenund sozialen Bedingungen im Gastland im Vergleich zu Ägypten;empfundener Mangel im Gastland; Zahlungen fürSozialversicherung im Heimatland oder Ausland; wahrgenommenePersönlichkeitsveränderungen durch den Auslandsaufenthalt.
+6.) Auswirkungen der Arbeitsmigration; Probleme, die Migrantim Anschluß an die Rückkehr hatte: wahrgenommene Auswirkungender Arbeit im Ausland auf das Dorf, die Familie, die Kindersowie die Rolle der Frau als Ehefrau; Veränderungen in derRolle der Frau nach der Rückkehr aus dem Ausland; vermuteteEinstellung der Dorfbewohner und Verwandten zu zurückgekehrtenArbeitsmigranten; Rückkehrprobleme; Arbeitstätigkeit nach derRückkehr; Zeitpunkt der Wiederaufnahme der Arbeit; Grund fürdie Wartezeit sowie die Nichtaufnahme einer Arbeit.
+7.) Sparen und Investitionen: Höhe des letztenMonatseinkommens im Ausland; Beurteilung des Einkommens imVergleich zu den eigenen Erwartungen; Überweisungen an dieFamilie sowie Überweisungsform; Mitnahme von Ersparnissen sowieGründe für Zurücklassung; Angaben zur Verwendung derErsparnisse für Verbesserungen im Haus, die Neuanschaffung vondauerhaften Konsumgütern, den Kauf von Grundstücken,Agrarboden, landwirtschaftlichen Geräte und Vieh sowie sonstigeAusgaben und Anschaffungen; Verwirklichung eines eigenenProjekts im Bereich Handel und Investition sowie Art desProjekts; Vorhandensein eines vergleichbaren Projekts im Dorfzu einem früheren Zeitpunkt; Angaben zur Verwendung modernerMaschinen und Geräte im eigenen Projekt; Projektteilhaber;Anzahl der Beschäftigten; Verwirklichung der eigenenMigrationsziele; Migrationsziele sowie nicht erreichte Zieleund Gründe dafür; Interesse an zukünftiger Migration; Gründefür nochmalige Migration bzw. die Ablehnung weitererMigrationen.
+8.) Mitwirkung/Mitgliedschaft bei verschiedenenAktivitäten/Organisationen: Mitgliedschaften sowie dörflicheLeitungsfunktionen.
+Zusätzlich verkodet wurde der Interviewer und das Dorf, in demdas Interview stattfand.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Family and financial situation of returned migrants as well as their housing situation. Information on labor migration, job satisfaction and working conditions during migration as well as effects of migration. Topics: The questionnaire is organized into 8 survey parts: 1. Fundamentals: personal attitude as well as wife´s attitude to the head of household; marital status; personal education level as well as wife´s education; personal primary and secondary occupations as well as those of wife; size of household; number of children; type of family; life in a small family since returning or even before migration. 2. House and new household objects: number of rooms; presence of running water, electricity, kitchen and toilet in the house; possession of durable consumer goods. 3. Agricultural land, agricultural machines, working animals: ownership of land; size of owned or leased land; cultivation of the land before and after migration as well as up to the present; ownership of modern agricultural equipment; ownership of animals. 4. Labor migration: number of stays abroad; host country during stays; time and length of the last work migration; reasons for migration; reasons for return; costs of the trip abroad and financial source; taking care of travel formalities; employment before and during migration; agent providing work abroad; relatives or acquaintances in host country; living and housing situation in host country; accompanied or visited by family members during the last migration; reasons for family visit; leisure activities; new friendships during the migration; perceived foreignness or home-sickness in host country; year of return and time elapsed since return. 5. Degree of job satisfaction in host country, acquisition of new knowledge, working conditions, migrant´s view of the host country: performing new activities and acquisition of new abilities during the migration; job satisfaction; judgement on working and living conditions in the host country; judgement on economic and social conditions of host country compared to Egypt; perceived faults of host country; payment for social insurance at home or in host country; perceived personality changes from the stay abroad. 6. Effects of labor migration; problems that the migrant had subsequent to return: perceived effects of work abroad on the village, the family, the children as well as on the role of women as wife; changes in the role of women after return from abroad; assumed attitude of village residents and relatives to the returned migrant; return problems; work activity after return; time of resumption of work; reason for waiting and for non-resumption of work. 7. Savings and investments: amount of last monthly income abroad; judgement on income compared to personal expectations; funds transfers to the family and form of transfer; taking savings along or reasons for leaving them behind; information on use of savings for improvements in the house, new acquisition of durable consumer goods, purchase of property, farm land, agricultural equipment and livestock as well as miscellaneous expenditures and acquisitions; realization of a personal project in the area of trade and investment as well as type of project; presence of a comparable project in the village at an earlier point in time; information on the use of modern machines and equipment in one´s project; project partners; number of employees; realization of personal migration goals; migration goals and also goals not realized and the reasons for this; interest in future migration; reasons for migrating again or for refusing further migration. 8. Cooperation/membership in various activities/organizations: memberships as well as village leadership functions. 
+Additionally encoded were: interviewer and village in which the interview took place. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>EG</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>selected villages in Egypt</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>ausgewählte Dörfer in Ägypten</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Zurückgekehrte Migranten in den Orten Shanawan und Kafr Shanawan
+(Provinz Minufiya, Delta), Tamboul El Kubra und Kafr Youssef (Provinz
+Dakhliya, Delta) sowie Abu Girg und Bani wallims (Provinz Minya,
+Oberägypten)</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Returned migrants from the cities Shanwan and Kafr Shanwan (province Minufiya, Delta), Tamboul El Kubra and Kafr Youssef (province Dakhliya, Delta) and Abu Girg and Bani wallims (province Minya, Upper Egypt). 
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Zufallsauswahl </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Random sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1987-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1988-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Social Research Center, American University in Cairo, Egypt 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral interview with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>473</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Der Befragungszeitraum gliedert sich wie folgt: Die Migranten
+in 2 Dörfern wurden im Mai bis Juli 1987 befragt. Die Daten in
+den anderen 4 Dörfern wurden zwischen Mai und Juli 1988
+erhoben.
+Die Befragung erfolgte in arabischer Sprache und wurde von
+ägyptischen Interviewern aus den jeweiligen Dörfern
+vorgenommen.
+Im Rahmen des gleichen Forschungsprojekts wurde auch
+umfangreiches qualitatives Material (teilnehmende Beobachtung
+und Gesprächsmitschriften) erhoben.
+Zwei weitere quantitative Datensätze des Forschungsprojekts
+sind im Zentralarchiv unter den ZA-Studien-Nrn. 5011, 5012 und
+5023 archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The interview time is organized as follows: the migrants in 2 
+villages were interviewed between May and July 1987. The data in the 
+other 4 villages was collected between May and July 1988. The 
+interviews were conducted in Arabic by Egyptian interviewers from the 
+respective villages. Within the framework of the same research 
+project extensive qualitative material was also collected 
+(participating observations and interview notes). Two further 
+quantitative data sets of the research project are archived in the 
+Central Archive under ZA Study Nos. 5011, 5012 and 5023. 
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stauth, Georg: 
+Remigration and Social Change. 
+Sociology of Development Research Centre, 
+Bielefeld University, Working Paper 84, 1986. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stauth, Georg: 
+Konfliktlinien der ägyptischen Gesellschaft 1986-1988: 
+Remigration, Segration, Islamismus - Eine Forschungsperspektive. 
+Working Paper 80a, 1986. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stauth, Georg: 
+Town and Countryside in Egypt. Consequences of Modernization. 
+Research Paper to the Symposium: Moslems, Migrants, Metropolis. 
+Berliner Institut für Vergleichende Sozialforschung, Juni 1989. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Weyland, Petra: 
+Remigration und Geschlechterverhältnis auf dem ägyptischen Dorf. 
+Forschungsperspektiven und -hypothesen. Working Paper 95, 1987. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Albrecht, Renate: 
+Remigration und Islamisierung auf dem ägyptischen Dorf. 
+Working Paper 99, 1987. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Reichert, Christoph: 
+Remigration und die Transformation ländlicher Macht- und Herrschaftsverhältnisse in Ägypten - Forschungshypothesen. 
+Working Paper 94, 1987. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Reichert, Christoph: 
+Labour Migration and Institutional Diversification in two Egyptian Villages. Some Preliminary Results. 
+Paper to the 2nd French-German Workshop on Labour Migration and the Process of Social and Political Change in the Middle East, Berlin 1988. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stauth, Georg: 
+How to Control Women? Socio-Economic Processes and Shifts of Power between Sexes in Rural Egypt. 
+In: Jahrbuch für Politik des Vorderen Orients, Hannover 1988, S.51 ff. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stauth, Georg: 
+Remigration and Social Change in Rural Areas. Prospects for the Migrant Worker Sending Regions of the Middle East. 
+In: Pakistan Development Review. An International Journal for Development Economics, 26, 1987, S. 735-744.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

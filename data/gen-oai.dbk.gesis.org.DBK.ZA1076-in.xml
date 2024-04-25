@@ -1,0 +1,211 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Foreign Workers in the Federal Republic (1978)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Ausländische Arbeitnehmer in der Bundesrepublik (1978)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1076</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Ausländische Arbeitnehmer in der Bundesrepublik (1978)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Foreign Workers in the Federal Republic (1978)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>MARPLAN, Offenbach</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1076?doi=10.4232/1.1076</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1076</doiProposal>
+	<publicationDate>
+		<year>1978</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1076</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Konsum und Konsumverhalten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Social conditions and indicators</term>
+					<term>Consumption and consumer behaviour</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die soziale und wirtschaftliche Situation der Gastarbeiter in der BRD.Kontakte zum Herkunftsland und Wunsch nach Rückkehr. 
+Themen: Derzeitige und geplante weitere Aufenthaltsdauer in der BRD;Häufigkeit von Heimatbesuchen in den letzten Jahren und dabei benutztesVerkehrsmittel; Kinderzahl und Familiengröße; Nachzug vonFamilienmitgliedern; größte Sorgen und Schwierigkeiten in der BRD;vermutete Einstellung der Deutschen zu Gastarbeitern; wichtigsteAufgaben der Gewerkschaften; Arbeitsplatzzufriedenheit;Geldüberweisungen und Geldmitnahme in die Heimat; Nutzung vonGastarbeitersendungen in Rundfunk und Fernsehen; Printmedienkonsum;Interesse an der deutschen Staatsbürgerschaft; Behörden, Organisationenund Verbände, die sich am meisten für ausländische Arbeitnehmereinsetzen; Zigarettenkonsum und präferierte Marke; mitgenommeneZigarettenmarken in die Heimat; Marke und Preis der im letzten Jahrgekauften Armbanduhr; Erwerb der Uhr aus zweiter Hand; detaillierteErmittlung des Besitzes langlebiger Wirtschaftsgüter; genutzteGeldanlagemöglichkeiten; Interesse an der Rückkehr in die Heimat unddort geplante Beschäftigungsart; Beurteilung der eigenenwirtschaftlichen Situation und der gesellschaftlichen Entwicklung imHeimatland; Einschätzung der Chancen ausländischer Arbeitnehmer in derBRD; Kurzarbeit; Zubereitung von Mahlzeiten und Kochgelegenheiten inder Wohnung; Schwierigkeiten der Kinder in der Schule; Kaffeekonsum undpräferierte Kaffeemarke; Zubereitung sowie Häufigkeit des Konsums vonKaffee.
+Demographie: Alter; Geschlecht; Familienstand; Alter der Kinder(klassiert); Schulbildung; Berufsausbildung; Beruf; Berufstätigkeit;Branche des Betriebes; Einkommen; Wohnsituation; Wohnstatus;Zufriedenheit mit der Wohnung; Monatsmiete; maximal tragbare Miete;Parteineigung; Nationalität; Beruf des Vaters; Ortsansässigkeit;PKW-Besitz; Gebrauchtwagen; Autoradio.
+Interviewerrating: Ortsgröße; Anwesenheit anderer Personen beimInterview; Verständigungsschwierigkeiten; Beurteilung derSprachkenntnis des Befragten; Bundesland.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The social and economic situation of guest workers in the FRG. Contactswith country of origin and desire to return.
+Topics: current and planned further length of stay in the FRG;frequency of trips home in the last few years and means of transportused for this; number of children and family size; family memberscoming later; greatest concerns and difficulties in the FRG; assumedattitude of Germans to guest workers; most important tasks of the tradeunions; job satisfaction; money transfers and taking money home; use ofguest worker programs on radio and television; use of print media;interest in German citizenship; authorities, organizations andassociations that make the greatest effort for foreign workers; use ofcigarettes and preferred brand; brand of cigarettes taken home; brandand price of watch purchased in the last year; purchase of the watchsecond-hand; detailed determination of possession of durable economicgoods; financial investment possibilities used; interest in return homeand type of employment planned there; judgement on one´s own economicsituation and social development in native country; assessment of thechances of foreign workers in the FRG; short time work; preparing mealsand cooking opportunities in one´s residence; difficulties of one´schildren in school; coffee consumption and preferred brand of coffee;making as well as frequency of consumption of coffee.
+Demography: age; sex; marital status; ages of children (classified);school education; vocational training; occupation; employment; area ofbusiness of company; income; housing situation; residential status;satisfaction with residence; monthly rent; maximum bearable rent; partyinclination; nationality; occupation of father; local residency; carpossession; used car; car radio.
+Interviewer rating: city size; presence of other persons during theinterview; communication difficulties; judgement on language knowledgeof respondent; state. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>FRG incl. West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD einschl. West-Berlin</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Spanier, Italiener, Jugoslawen, Griechen und Türken, die in der BRD leben</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Spaniards, Italians, Yugoslavs, Greeks and Turks who
+live in the FRG. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Quotenauswahl 
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Quota sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1978-03</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Das Vorgehen bei der Befragung der ausländischen Arbeitnehmer
+ist bei der ZA-Studien-Nr. 1328 näher beschrieben. Die Studie
+ist Teil einer Mehrthemen-Erhebung und Teil einer Trend-Erhebung.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The procedure in the survey of foreign workers
+is described in ZA Study No. 1328.
+The study is part of an omnibus survey and part of a trend survey.
+</text>
+		</note>
+	</notes>
+</resource>

@@ -1,0 +1,186 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Citizen Survey Duisburg (Autumn 1998)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Duisburger Bürgerumfrage (Herbst 1998)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3465</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Duisburger Bürgerumfrage (Herbst 1998)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Citizen Survey Duisburg (Autumn 1998)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Stadt Duisburg, Amt für Statistik, Stadtforschung und Europaangelegenheiten</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3465?doi=10.4232/1.3465</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.3465</doiProposal>
+	<publicationDate>
+		<year>2001</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3465</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT51</identifier>
+					<!-- Gemeinde, Wohnumwelt -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Community, urban and rural life</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellung zum Wohnen und zu den Lebensbedingungen in Duisburg.Beurteilung des wirtschaftlichen Klimas in Duisburg, der Arbeit derStadtverwaltung sowie der Kommunalpolitik und der Politik allgemein.Verhältnis von Deutschen und Ausländern. Duisburger Umwelttage.
+Themen: Wohnzufriedenheit in Duisburg; Zufriedenheit mit der eigenenWohnung, der Wohngegend, mit Duisburg allgemein und mit denUmweltbedingungen in der näheren Wohnumgebung; eigene Verbundenheit mitdem Stadtteil und mit der Stadt Duisburg; Beurteilung der derzeitigenwirtschaftlichen Lage in Deutschland, in Duisburg sowie der eigenenwirtschaftlichen Lage und in der nahen Zukunft; erwartete Entwicklungder Arbeitslosenzahlen in den nächsten 2 Jahren in Duisburg;Politikinteresse; Interesse für die Rats- und Verwaltungsarbeit inDuisburg; kompetenteste Partei zur Lösung der Probleme in Deutschlandund in Duisburg; Einschätzung der Erfüllung von Wählererwartungen durcheine neue Bundesregierung; Beschreibung der derzeitigen Situation imvereinten Deutschland; Gefühl politischer Wirksamkeit (Skala); Kenntnisder Image-Kampagne für das Ruhrgebiet und des Slogans; Beurteilung desSlogans; Einstellung zum Verhältnis von Deutschen und Ausländern(Skala); Einstellung zur Asylbewerberzahl und zur Aufnahmedeutschstämmiger Aussiedler aus Osteuropa; Einstellung zur Annahme,dass Ausländer lieber unter sich bleiben; wichtigste Probleme zwischenDeutschen und Ausländern; Kontakt des Befragten oder einesHaushaltsmitglieds zu ausländischen Mitbürgern; Ausländer im engstenFreundeskreis; Einschätzung des Verhältnisses von Ausländern undDeutschen in der Wohngegend; Ausländer im Freundeskreis; Beurteilungdes Zusammenlebens von Deutschen und Ausländern in der Nachbarschaft;Einstellung zum Kommunalwahlrecht für Ausländer ohne deutscheStaatsangehörigkeit; Sympathie-Skalometer für ausgewählteNationalitäten und ethnische Gruppen; Kenntnis der DuisburgerUmwelttage; Informationsquellen über die Veranstaltung; Teilnahme anVeranstaltungen der Duisburger Umwelttage; Gründe für Nichtteilnahme;Zufriedenheit mit den Veranstaltungen; Kenntnis der Figur ´UlliUmwelt´; Nutzung der Umwelt-Hotline in Duisburg.
+Demographie: Geschlecht; Geburtsjahr; Familienstand;Staatsangehörigkeit des Partners; Haushaltsgröße;Haushaltszusammensetzung; Anzahl Kinder über 18 Jahre; Schulabschluss;berufliche Ausbildung und Berufstätigkeit des Befragten; Einschätzungder eigenen Arbeitsplatzsicherheit; Häufigkeit der Nutzung öffentlicherVerkehrsmittel; PKW-Besitz; Befragter ist Haushaltsvorstand;Charakteristika des Haushaltsvorstands; Bezug von Transferleistungen;Anzahl Personen mit eigenem Einkommen; Höhe des monatlichenHaushaltsnettoeinkommens; Parteipräferenz; Ortsteil.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Duisburg</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Duisburg</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen mit Hauptwohnsitz in Duisburg im Alter von 18 bis 75 Jahren</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Repräsentative Zufallsauswahl aus der Einwohnermeldedatei</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1998-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1998-11</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Stadt Duisburg, Amt für Statistik, Stadtforschung und
+Europaangelegenheiten</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>133</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Weitere Studien aus Duisburg sind unter den ZA-Studien-Nrn. 3462, 3463,
+3464, 3466, 3467, 3468 und 3469 archiviert. </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

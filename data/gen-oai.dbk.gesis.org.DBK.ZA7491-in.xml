@@ -1,0 +1,399 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Survey on Discrimination and Hate Crime against Jews in the EU 2018'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Survey on Discrimination and Hate Crime against Jews in the EU 2018'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7491</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Survey on Discrimination and Hate Crime against Jews in the EU 2018</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Survey on Discrimination and Hate Crime against Jews in the EU 2018</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>European Union Agency for Fundamental Rights (FRA), Vienna, Austria</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7491?doi=10.4232/1.13264</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13264</doiProposal>
+	<publicationDate>
+		<date>2019-04-08</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7491</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT20</identifier>
+					<!-- Rechtssystem, Rechtsprechung, Gesetz -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Kriminalität und Gesetzesvollzug</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Beschäftigungspolitik</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Social behaviour and attitudes</term>
+					<term>Crime and law enforcement</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Labour and employment policy</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Rassismus</term>
+					<term>Neorassismus</term>
+					<term>Offener Rassismus</term>
+					<term>Expliziter Rassismus</term>
+					<term>Impliziter Rassismus</term>
+					<term>Institutioneller Rassismus</term>
+					<term>Antimuslimischer Rassismus</term>
+					<term>Antisemitismus</term>
+					<term>Klassischer Antisemitismus</term>
+					<term>Sekundärer Antisemitismus</term>
+					<term>NS-vergleichende Israelkritik</term>
+					<term>Israelbezogener Antisemitismus</term>
+					<term>Integrationspolitik</term>
+					<term>Identität &amp; soziales Zugehörigkeitsgefühl</term>
+					<term>Hassrede</term>
+					<term>Realistische Bedrohungswahrnehmungen</term>
+					<term>Diskriminierungserfahrungen</term>
+					<term>Diskriminierung aufgrund von ethnischer Zugehörigkeit</term>
+					<term>Diskriminierung aufgrund von religiöser Zugehörigkeit</term>
+					<term>Diskriminierung aufgrund von äußerlichen Merkmalen</term>
+					<term>Kriminalität</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>Jüd*innen</term>
+					<term>Europa</term>
+					<term>Christ*innen</term>
+					<term>Muslim*innen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Racism</term>
+					<term>Neoracism</term>
+					<term>Overt racism</term>
+					<term>Explicit racism</term>
+					<term>Implicit racism</term>
+					<term>Institutional racism</term>
+					<term>Anti-Muslim racism</term>
+					<term>Antisemitism</term>
+					<term>Classical antisemitism</term>
+					<term>Secondary antisemitism</term>
+					<term>NS-comparative Criticism of Israel</term>
+					<term>Israel-related antisemitism</term>
+					<term>Integration policy</term>
+					<term>Identity &amp; sense of social belonging</term>
+					<term>Hate speech</term>
+					<term>Realistic threat perceptions</term>
+					<term>Discrimination experiences</term>
+					<term>Discrimination based on ethnicity</term>
+					<term>Discrimination based on religious affiliation</term>
+					<term>Discrimination based on appearance</term>
+					<term>Criminality</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>Jüd*innen</term>
+					<term>Europa</term>
+					<term>Christ*innen</term>
+					<term>Muslim*innen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Umfrage liefert vergleichbare Daten über das wahrgenommene Ausmaß und die Art des Antisemitismus in einer Reihe ausgewählter EU-Mitgliedstaaten, unabhängig davon, ob er sich als Hassverbrechen, Hassrede, Diskriminierung oder in irgendeiner anderen Form manifestiert, die das Sicherheitsgefühl der Juden untergräbt. Die Umfrage wurde von der Agentur der Europäischen Union für Grundrechte (FRA) in Auftrag gegeben. Sie knüpft an die erste Umfrage der Agentur an, die 2012 in sieben Ländern durchgeführt wurde.
+Die Gesamtziele der zweiten Umfrage der FRA über Diskriminierung und Hassverbrechen gegen Juden in der Europäischen Union (EU) sind 1) die Erhebung vergleichbarer Daten in den ausgewählten EU-Mitgliedstaaten und damit ein Beitrag zur Bewertung und Weiterentwicklung von Maßnahmen zum Schutz der Grundrechte der in der EU lebenden Juden; 2) Veränderungen im Zeitablauf in Bezug auf die Ergebnisse der ersten Umfrage über Diskriminierung und Hassverbrechen gegen Juden im Jahr 2012 zu ermitteln; 3) Forschungsmethoden für die Befragung schwer erreichbarer Gruppen unter Verwendung von Online-Umfrageinstrumenten weiterzuentwickeln; 4) den wichtigsten Interessengruppen der FRA Forschungsergebnisse zu liefern, die dazu genutzt werden können, das Bewusstsein für Grundrechte zu schärfen und Lücken im Hinblick auf den Schutz der Rechte anzusprechen.
+Im Jahr 2018 wurden Daten von 16.395 selbst identifizierten jüdischen Befragten (ab 16 Jahren) in 12 EU-Mitgliedstaaten - Belgien, Dänemark, Deutschland, Frankreich, Italien, Niederlande, Österreich, Polen, Schweden, Spanien, Großbritannien, Ungarn - erhoben. In diesen Mitgliedstaaten leben über 96 % der geschätzten jüdischen Bevölkerung der EU. Die Umfrage wurde im Rahmen einer offenen Online-Umfrage durchgeführt und stand den Befragten im Mai-Juni 2018 für sieben Wochen zur Verfügung.
+Die Umfrage befragte die Teilnehmer zu ihren Meinungen über Trends im Antisemitismus, Antisemitismus als Problem im Alltag, persönliche Erfahrungen mit antisemitischen Vorfällen, Zeugen antisemitischer Vorfälle und Sorgen, Opfer eines antisemitischen Angriffs zu werden. Die Umfrage liefert auch Daten darüber, inwieweit antisemitische Handlungen gegen die jüdische Gemeinde - wie z.B. Vandalismus jüdischer Seiten oder antisemitische Nachrichten in den Medien oder im Internet - in den Ländern als Problem angesehen werden. Die Umfrage sammelte Daten über die Auswirkungen von Antisemitismus auf das tägliche Verhalten der Befragten und ihr Sicherheitsgefühl sowie über alle Maßnahmen, die sie aufgrund von Sicherheitsängsten ergreifen. Den Fragen nach persönlichen Erfahrungen mit bestimmten Formen von Belästigung oder körperlicher Gewalt folgten Fragen zu den Einzelheiten solcher Vorfälle, einschließlich ihrer Häufigkeit, der Anzahl und Merkmale der Täter sowie der Meldung des Vorfalls an eine Organisation oder Institution. Die Umfrage sammelte Daten über persönliche Erfahrungen mit dem Gefühl der Diskriminierung aus verschiedenen Gründen und in verschiedenen Bereichen des täglichen Lebens - zum Beispiel bei der Arbeit, in der Schule oder bei der Nutzung bestimmter Dienstleistungen. Die Umfrage griff die Diskriminierungserfahrungen der Befragten mit Fragen zur Meldung von Vorfällen und den Gründen für die Nichtberichterstattung auf. Die Umfrage untersuchte auch den Grad des Rechtsbewusstseins in Bezug auf Antidiskriminierungsgesetze, Opferhilfeorganisationen und Kenntnisse über alle Gesetze zur Verharmlosung oder Leugnung des Holocaust. Darüber hinaus wurden soziodemografische Daten wie Geschlecht und Alter der Befragten, Bildungsstand, Beschäftigungsstatus und Einkommen erhoben. 
+Themen: 1. Rechtsbewusstsein, Wahrnehmungen und Einstellungen: Wahrnehmung von Kriminalität, Arbeitslosigkeit, Rassismus, Antisemitismus, Einwanderung, Regierungskorruption und Intoleranz gegenüber Muslimen als Problem im Land; Zunahme vs. Abnahme von Kriminalität, Rassismus, Antisemitismus und Intoleranz gegenüber Muslimen im Land; Wahrnehmung antisemitischer Handlungen gegen die jüdische Gemeinde als Problem im Land (antisemitische Graffiti, Schändung jüdischer Friedhöfe, Vandalismus jüdischer Gebäude oder Institutionen, Ausdruck der Feindseligkeit gegenüber Juden auf der Straße oder an anderen öffentlichen Orten, Antisemitismus in den Medien, im politischen Leben und im Internet einschließlich der sozialen Medien); Zunahme vs. Abnahme der oben genannten Probleme; Häufigkeit von persönlich erlebten antisemitischen Kommentaren von Nichtjuden (Juden haben zu viel Macht im Land, Juden nutzen die Opferrolle des Holocaust für ihre eigenen Zwecke aus, der Holocaust ist ein Mythos oder wurde übertrieben, Israelis verhalten sich ´wie Nazis´ gegenüber den Palästinensern, Welt ein besserer Ort ohne Israel, Juden sind nicht in der Lage, sich in die nationale Gesellschaft zu integrieren, die Interessen der Juden im Land unterscheiden sich sehr von den Interessen der übrigen Bevölkerung, Juden bescheren sich Antisemitismus selbst); Orte oder Vorfälle, an denen der Befragte diese Kommentare gehört oder gesehen hat; Erwägung einer nichtjüdischen Person als antisemitisch aufgrund der oben genannten Kommentare und des folgenden Verhaltens: stellt immer fest, wer unter seinen Bekannten jüdisch ist, kritisiert Israel, betrachtet die im Land lebenden Juden nicht als Staatsangehörige, würde keinen Juden heiraten, denkt, dass Juden erkennbare Merkmale haben, unterstützt Boykotte gegen Israel oder Israelis; Auswirkungen des arabisch-israelischen Konflikts auf das Sicherheitsgefühl als Jude im Land; Gefühl, als Jude für Handeln der israelischen Regierung beschuldigt zu werden; die Bewertung der Bekämpfung von Antisemitismus durch die nationale Regierung; angemessene Reaktion der Regierung auf die Sicherheitsbedürfnisse jüdischer Gemeinden; Eltern eines oder mehrerer Kinder, die die die Schule besuchen; Kinder/Kinder besuchen eine jüdische vs. eine nicht-jüdische Schule; Gründe für die Wahl einer jüdischen Schule bzw. die Wahl einer nicht-jüdischen Schule; Häufigkeit des Vermeidungsverhaltens, weil sich der Befragte als Jude nicht sicher fühlt (Besuch jüdischer Ereignisse oder Stätten, bestimmter Orte in der Nähe oder Nachbarschaft); Überlegungen in den letzten fünf Jahren aus Sicherheitsgründen aus dem Land auszuwandern; aktive Vorbereitungen für Auswanderung und bevorzugtes Land; Umzug in ein anderes Gebiet oder Viertel aus Sicherheitsgründen; Überlegungen für den Umzug in ein anderes Gebiet und aktive Vorbereitungen.
+2. Belästigung: persönliche Erfahrungen mit bestimmten Formen von Belästigung oder körperlicher Gewalt und deren Häufigkeit in den letzten 5 Jahren und in den letzten 12 Monaten (beleidigende oder bedrohliche E-Mails oder Textnachrichten, beleidigende, bedrohliche oder schweigende Telefonanrufe, beleidigende oder bedrohliche Kommentare an den Befragten persönlich, beleidigende Gesten oder unangemessene Blicke, gepostete beleidigende Kommentare über den Befragten im Internet, einschließlich der sozialen Medien); Erfahrungen aufgrund von Antisemitismus; schwerwiegendster Vorfall von antisemitischer Belästigung der letzten 5 Jahre; Merkmale dieses schwerwiegendsten Vorfalls (antisemitische Sprache wurde verwendet, der Befragte konnte als jüdisch identifiziert werden, geschah am Sabbat oder an einem jüdischen Feiertag, geschah an einem bedeutenden Datum für den Täter, antisemitische Symbole wurden verwendet, traten an/bei einem jüdischen Ort oder Ereignis auf, Täter hatte eine Reputation für ähnliches Handeln, geschah während der Zeit der Spannungen oder Konflikte in Israel, etwas anderes geschah, das ihn antisemitisch machte, nicht sicher, ob er antisemitisch war; Anzahl und Charakteristika der Täter; Ort, an dem sich dieser Vorfall ereignet hat; Meldung des Vorfalls an die Polizei oder eine andere Organisation; Art der anderen Organisation (ein Mitglied des Parlaments, ein Gemeinderat, eine jüdische Autoritätsperson, eine jüdische Organisation, die sich auf Sicherheit und/oder Antisemitismus spezialisiert hat, eine andere jüdische Organisation, verantwortliche Person am Arbeitsplatz, in der Schule oder Universität, in den Medien, eine Opferhilfe, eine andere Organisation); Gründe für die Nichtberichterstattung an die Polizei.
+3. Erfahrungen mit Vandalismus und Gewalt: Häufigkeit der Erfahrungen mit Vandalismus (z.B. mit Graffiti) in den letzten 5 Jahren und in den letzten 12 Monaten am eigenen Haus, Auto oder anderen Gegenständen; Vandalismusereignis in den letzten 5 Jahren aufgrund von Antisemitismus; Anzahl der Vandalismusereignisse aufgrund von Antisemitismus; Häufigkeit der Erfahrungen mit körperlichen Angriffen (auf der Straße, im öffentlichen Verkehr, am Arbeitsplatz oder anderswo) in den letzten 5 Jahren und in den letzten 12 Monaten; körperlicher Angriff aufgrund von Antisemitismus; Anzahl der körperlichen Angriffe aufgrund von Antisemitismus; Merkmale des schwersten Vorfalls; Anzahl und Merkmale der Täter; Ort, an dem sich dieser Vorfall ereignet hat; Meldung des Vorfalls an die Polizei oder eine andere Organisation; Art einer anderen Organisation; Gründe für die Nichtberichterstattung an die Polizei; persönlich Zeuge einer der folgenden Arten von antisemitischen Vorfällen im Land in den letzten 12 Monaten (verbale Beleidigung oder Belästigung anderer Juden bzw. körperliche Angriffe gegen Juden); Besorgnis in den nächsten 12 Monaten Opfer von antisemitischen verbalen Beleidigungen oder Belästigungen und von antisemitischen körperlichen Angriffen zu werden; Erfahrungen von Familienmitgliedern, Verwandten oder engen Freunden mit verbalen Beleidigungen oder Belästigungen und körperlichen Angriffen; Belästigungen oder körperliche Angriffe von Familienmitgliedern aufgrund von Antisemitismus; Befürchtungen, dass ein Familienmitglied in den nächsten 12 Monaten Opfer von antisemitischen verbalen Beleidigungen oder Belästigungen und körperlichen Angriffen an einem öffentlichen Ort werden könnte.
+4. Rechtsbewusstsein: Kenntnis eines nationalen Rechts, das eine Diskriminierung aufgrund der Herkunft oder der Religion in den folgenden Situationen verbietet (bei der Bewerbung um eine Stelle, beim Betreten eines Geschäfts, Restaurants, einer Bar oder eines Clubs, bei der Inanspruchnahme von Gesundheitsdiensten, bei der Vermietung oder dem Kauf einer Wohnung oder eines Hauses); Kenntnis aller Behörden oder Organisationen, die Menschen, die diskriminiert wurden, unterstützen oder beraten; Art der Behörde oder Organisation (ein Mitglied des Parlaments, ein Gemeinderat, die Gleichstellungs- und Menschenrechtskommission (EHRC), eine jüdische Autoritätsperson, eine jüdische Organisation, die sich auf Sicherheit und/oder Antisemitismus spezialisiert hat, eine andere jüdische Organisation, verantwortliche Person am Arbeitsplatz, in der Schule oder Universität, Medien, Opferhilfe, andere Organisation); Kenntnis aller Gesetze, die die Trivialisierung oder Leugnung des Holocaust und die Aufstachelung zu Gewalt oder Hass gegen Juden betreffen.
+5. Erfahrungen mit Diskriminierung in den letzten 12 Monaten: Gefühl persönlicher Diskriminierung aus einem der folgenden Gründe: Hautfarbe, ethnische Herkunft oder Migrationshintergrund, Religion oder Weltanschauung, Alter, Geschlecht, Behinderung, sexuelle Orientierung, Geschlechtsidentität, aus einem anderen Grund); Befragter suchte einen Arbeitsplatz, arbeitete, suchte ein Haus oder eine Wohnung zur Miete oder zum Kauf, nutzte öffentliche oder private Gesundheitsdienste, war in der Ausbildung (Befragter selbst oder seine Kinder); Erfahrung von Diskriminierung aus irgendeinem Grund in den oben genannten Situationen; schwerwiegendste antisemitische Diskriminierung in den letzten 12 Monaten; Meldung des Vorfalls an die Polizei oder eine andere Organisation; Art von anderer Organisation; Gründe für die Nichtmeldung des Vorfalls; der Beklagte kann äußerlich als Jude erkannt werden, z.B. durch das Tragen einer Kippa; Vermeidung äußerer Erkennungszeichen als Jude in der Öffentlichkeit und Grund für diese Vermeidung; Einschränkungen am Arbeitsplatz oder in der Schule und Universität bei der Ausübung religiöser Praktiken und Bräuche und bei der Inanspruchnahme von Urlaub für einen wichtigen religiösen Feiertag; Wahrnehmung von Forderungen der nichtjüdischen Bevölkerung nach einem Verbot der Beschneidung und der traditionellen Schlachtung im Land; Ausmaß des Problems eines Verbots der Beschneidung und der traditionellen Schlachtung für die jüdische Identität des Befragten.
+Demographie und Hintergrund des Befragten: Geschlecht; Alter; Familienstand; Haushaltsgröße; Anzahl der Kinder im Haushalt unter 18 Jahren; höchster Bildungsstand (ISCED); Erwerbstätigkeit oder Schul- oder Hochschulbesuch in den letzten 12 Monaten; aktueller Erwerbsstatus; Voll- oder Teilzeitbeschäftigung; Urbanisierungsgrad des Wohngebietes; geschätzter Anteil der Juden im Ortsgebiet; Grundlage der Selbstidentifikation als Jüdisch (durch Religion, Ethnie, Abstammung, Erbe, Kultur, Erziehung oder durch etwas anderes); Selbsteinschätzung der Religiosität; Art der jüdischen Praktiken, die der Befragte persönlich wahrnimmt (besucht den Passah-Seder meistens oder alle Jahre, schaltet das Licht am Sabbat nicht ein, besucht die Synagoge wöchentlich oder öfter, isst zu Hause nur koscheres Fleisch, zündet meistens am Freitagabend Kerzen an, fastet meistens oder immer an Jom Kippur, keines davon); Charakterisierung der jüdischen Erziehung als Kind und der aktuellen jüdischen Identität; Bedeutung verschiedener Elemente für die jüdische Identität (Glaube an Gott, gemeinsames Feiern jüdischer Feste mit der Familie, Unterstützung Israels, jüdische Kultur, Bekämpfung von Antisemitismus, Erinnerung an den Holocaust, Spende an Wohltätigkeitsorganisationen, Zugehörigkeit zum jüdischen Volk); Selbsteinschätzung der jüdischen Identität (Skala); Bindung an die Region, an die Europäische Union und an Israel; Vertrauen in das nationale Parlament, das nationale Rechtssystem und das Europäische Parlament; Befragter war als Besucher oder im Urlaub in Israel, lebte mehr als ein Jahr lang in Israel oder wurde in Israel geboren bzw. war nie in Israel; in Israel lebende Familie oder Verwandte; finanzielle Situation des Haushalts; Geburtsland (Befragter und Ehepartner/Partner); Befragter, Mutter, Vater, Ehepartner/Partner sind von Geburt an jüdisch, übergetreten oder nicht jüdisch; Befragter ist Ashkenazi, Sephardi, gemischt oder anderes; Quelle, durch die der Befragte auf die Umfrage aufmerksam wurde; Teilnahme an einer ähnlichen Umfrage im Jahr 2012; Staatsangehörigkeit.
+Zusätzlich verkodet wurde: ID; Land; Erhebungsjahr; Gewicht, tertiärer Bildungsabschluss mit DE-Wertzuordnung.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The survey provides comparable data on the perceived extent and nature of antisemitism across a number of selected EU Member States, whether it is manifested as hate crime, hate speech, discrimination or in any other form that undermines Jewish people’s feelings of safety and security. The survey was commissioned by the European Union Agency for Fundamental Rights (FRA). It follows up on the agency’s first survey, conducted in seven countries in 2012.
+The overall objectives of FRA’s second survey on discrimination and hate crime against Jews in the European Union (EU) are 1) to collect comparable data in the selected EU Member States and thereby contributing to the assessment and further development of policies that aim to protect the fundamental rights of Jewish people living in the EU; 2) to identify changes over time with respect to the results of the first survey on discrimination and hate crime against Jews in 2012; 3) to further develop research methodologies for surveying hard-to-reach groups using online survey tools; 4) to deliver FRA’s key stakeholders research evidence that can be used to raise awareness of fundamental rights and address gaps in the protection of rights.
+The 2018 survey collected data from 16,395 self-identified Jewish respondents (aged 16 or over) in 12 EU Member States – Austria, Belgium, Denmark, France, Germany, Hungary, Italy, the Netherlands, Poland, Spain, Sweden, and the United Kingdom. These Member States are home to over 96 % of the EU’s estimated Jewish population. The survey collected data through an open online survey and was available for respondents to complete for seven weeks in May–June 2018.
+The survey asked respondents about their opinions on trends in antisemitism, antisemitism as a problem in everyday life, personal experiences of antisemitic incidents, witnessing antisemitic incidents and worries about becoming a victim of an antisemitic attack. The survey also provides data on the extent to which respondents consider antisemitic acts against the Jewish community – such as vandalism of Jewish sites or antisemitic messages in the broadcast media or on the internet – to be a problem in the countries. The survey collected data on the effects of antisemitism on respondents’ daily behaviour and their feelings of safety, and about any actions they take due to security fears. The questions about personal experiences of specific forms of harassment or physical violence were followed up with questions concerning the details of such incidents, including their frequency, the number and characteristics of perpetrators, and the reporting of the incident to any organisation or institution. The survey collected data about personal experiences of feeling discriminated against on different grounds and in various areas of everyday life – for example, at work, school, or when using specific services. The survey followed up on respondents’ discrimination experiences with questions concerning the reporting of incidents and the reasons for non-reporting. The survey also explored the level of rights awareness regarding antidiscrimination legislation, victim support organisations and knowledge of any legislation concerning the trivialisation or denial of the Holocaust. In addition, the survey collected socio-demographic data, such as respondents´ gender and age, educational background, employment status, and income.
+Topics: 1. Rights awareness, perceptions and attitudes: perception of crime level, unemployment racism, antisemitism, immigration, government corruption, and intolerance towards Muslims as a problem in the country; increase vs. decrease of racism, antisemitism and intolerance towards Muslims in the country; perception of antisemitic acts against the Jewish community as a problem in the country (antisemitic graffiti, desecration of Jewish cemeteries, vandalism of Jewish buildings or institutions, expressions of hostility towards Jews in the street or other public places, antisemitism in the media, in political life, and on the internet including social media; increase vs. decrease of the aforementioned problems;  frequency of personally experienced antisemitic comments of non-Jewish people (Jews have too much power in the country, Jews exploit Holocaust victimhood for their own purposes, the Holocaust is a myth or has been exaggerated, Israelis behave ‘like Nazis’ towards the Palestinians, world a better place without Israel,  Jews are not capable of integrating into national society, interests of Jews in the country are very different from the interests of the rest of the population,  Jews bring antisemitism on themselves); locations or occasions where the respondent heard or saw these comments; consideration of a non-Jewish person to be antisemitic due to the aforementioned comments and the following behavior: always notes who is Jewish among his/her acquaintances, criticizes Israel, does not consider Jews living in the country to be country national, would not marry a Jew, thinks that Jews have recognizable features, supports boycotts of Israel or Israelis; impact of the Arab-Israeli conflict on the feeling of safety as a Jewish person in the country; feeling of being accused or blamed for anything done by the  Israeli government because the respondent is Jewish; rating of the national government’s combating antisemitism; adequate responds of the government to the security needs of Jewish communities; parent of a child or children who are attending school;  child/children are in a Jewish school vs. a non-Jewish school; reasons for choosing a Jewish school respectively choosing a non-Jewish school; frequency of avoidance behavior because the respondent does not feel safe as a Jew (visiting Jewish events of sites, certain places or locations in the local area or neighbourhood); considerations to emigrate from the country in the past five years due to security fears; active preparations for emigrating and preferred country;  movement to another area or neighbourhood due to security fears; considerations for moving to another area and active preparations.
+2. Harassment: personal experiences of specific forms of harassment or physical violence and their frequency in the past 5 years and in the last 12 months (offensive or threatening emails or text messages, offensive, threatening or silent phone calls, following in a threatening way, offensive or threatening comments to the respondent in person, offensive gestures or staring inappropriately, posted offensive comments about the respondent in the internet, including social media); experiences due to antisemitism; most serious incident of antisemitic harassment from the past 5 years; characteristics of this most serious incident (antisemitic language was used, respondent could be identified as Jewish, happened on the Sabbath or a Jewish holiday, happened on significant date for offender, antisemitic symbolbs were used, occurred at/near a Jewish site or event, offender had a reputation for similar acts, happened during period of tension or conflict in Israel, something else happenend that made it antisemitic, not sure whether it was antisemitic); the number and characteristics of perpetrators; location where this incident happened; reporting of the incident to the police or to any other organization; kind of other organization (a member of Parliament,  a local government councilor, a Jewish authority figure, a Jewish organisation specialising in security and/or antisemitism, another jewish organization, someone in authority at the workplace, school or university, the media, a victim support, other organization); reasons for non-reporting to the police. 
+3. Experiences of vandalism and violence: frequency of experiences of vandalism (for example with graffiti) in the past 5 years and in the past 12 months at own home, car, or other property; vandalism incident in the past 5 years due to antisemitism; number of vandalism incidents due to antisemitism; frequency of experiences of physical attacks (on the street, on public transport, at the workplace or anywhere else) in the past 5 years, and in the past 12 months; physical attack due to antisemitism; number of physical attacks due to antisemitism; characteristics of the most serious incident; the number and characteristics of perpetrators; location where this incident happened; reporting of the incident to the police or to any other organization; kind of other organisation; reasons for non-reporting to the police; personally witnesses any of the following types of antisemitic incidents in the country in the last 12 months (other Jew(s) being verbally insulted or harassed, being physically attacked, or being both verbally insulted or harassed and physically attacked); worries about becoming a victim of antisemitic verbal insults or harassment and of antisemitic physical attack in the next 12 months; experiences of family members, relatives or close friends of verbal insults or harassment and physical attacks; harassment or physical attack of family members due to antisemitism; worries that in the next 12 months a family member will be a victim of antisemitic verbal insults or harassment and physical attacks in a public place. 4. Rights awareness:  awareness of a national las that forbids discrimination based on origin or religion in the following situations (when applying for a job, entering a shop, restaurant, baror clus, using healthcare services, renting or buying a flat or a house); knowledge of any authority or organisation(s) that provide support or advice to people who have been discriminated against;  kind of authority or organization (a member of Parliament,  a local government councilor, Equality and Human Rights Commission (EHRC), a Jewish authority figure, a Jewish organisation specialising in security and/or antisemitism, another jewish organization, someone in authority at the workplace, school or university, the media, a victim support, other organization); knowledge of any legislation concerning the trivialisation or denial of the Holocaust, and against incitement to violence or hatred against Jews. 
+5. Experiences of discrimination in the past 12 months: personally felt discriminated against for any of the following reasons: skin colour, ethnic origin or immigrant background, religion or belief, age, sex, disability, sexual orientation, gender identity, for another reason); respondent looked for a job, worked, looked for a house or apartment to rent or buy, used public or private healthcare services, has been in education (respondent himself or his children); experience of discrimination for any reason in the aforementioned situations; most serious antisemitic discrimination in the last 12 months; reporting of the incident to the police or to any other organization; kind of other organisation; reasons for non-reporting the incident; the respondent can be recognized externally as a Jew, e.g. by wearing a kippa; avoidance of external signs of recognition as a Jew in public and reason for this avoidance; restrictions experienced at the workplace or at school and university in the exercise of religious practices and customs and in taking time off for an important religious holiday; perception of demands of non-Jewish people for prohibition of circumcision and traditional slaughter in the country; extent of problem of the prohibition of circumcision and traditional slaughter for the respondent´s Jewish identity.  Demography and background of respondent: sex; age; marital status; household size; number of children in the household unter 18 years; highest level of education (ISCED); employment or school or university attendance in the past 12 months; current employment status; full-time or part-time employment; degree of urbanisation of the living area; estimated proportion of Jewish people in the local area; basis of self-identification as Jewish (by religion, ethnicity, parentage, heritage, culture, upbringing, or by something else); self-assessment of religiousity; kind of Jewish practices the respondent personally observes (attends Passover Seder most or all years, does not switch on lights on the Sabbath, attends synagogue weekly or more often, eats only kosher meat at home, lights candles most Friday nights, fast on Yom Kippur most or all years, none of these); characterisation of the Jewish upbringing as a child and of the current Jewish identity; importance of different items for Jewish identity (believing in God, sharing Jewish festivals with the family, supporting Israel, Jewish culture, combating antisemitism, remebering the Holocaust, donating funds to charity, feeling part of the Jewish people); self-assessment of Jewish identity (scale); attachment to the region, to the European Union, and to Israel; level of trust in the national parliament, the national legal system, and in the European Parliament; respondent has been to Israel as a visitor or on holiday, has lived in Isreal for more than one year, was born in Israel, or has never been to Isreal; family or relatives living in Isreal; financial situation of the household;  country of birth (respondent and spouse/partner); respondent, mother, father, spouse/partner are Jewish by birth, Jewish by conversion, or not Jewish; respondent is Ashkenazi, Sephardi, mixed, or other; source of awareness of the survey; participation in a similar survey in 2012; citizenship. 
+Additionally coded was: ID; country; year of survey; weight, tertiary education completed with DE values imputation.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Selbstidentifizierte jüdische Bevölkerung ab 16 Jahren, die in Österreich, Belgien, Dänemark, Deutschland, Frankreich, Ungarn, Italien, den Niederlanden, Polen, Spanien, Schweden und dem Vereinigten Königreich lebt.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Self-identified Jewish population aged 16 or over living in Austria, Belgium, Denmark, France, Germany, Hungary, Italy, the Netherlands, Poland, Spain, Sweden and the United Kingdom</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Nicht-Wahrscheinlichkeitsauswahl: Willkürliche Auswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Non-probability: Availability; Sampling Procedure Comment: opt-in sample (voluntary participation)</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2018-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2018-06-28</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Ipsos MORI, London
+Institute for Jewish Policy Research (JPR), London</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Joanna</firstName>
+				<middleName/>
+				<lastName>Goodey</lastName>
+				<contributorType>ProjectLeader</contributorType>
+				<affiliation>
+					<affiliationName>European Union Agency for Fundamental Rights</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Vida</firstName>
+				<middleName/>
+				<lastName>Beresneviciute</lastName>
+				<contributorType>ProjectManager</contributorType>
+				<affiliation>
+					<affiliationName>European Union Agency for Fundamental Rights</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.WebBased</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>an open online survey </freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>16395</numberUnits>
+			<numberVariables>396</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>FRA (European Union Agency for Fundamental Rights): Second Survey on discrimination and hate crime against Jews in EU Member States: Technical report
+Vienna: 2019
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>FRA (European Union Agency for Fundamental Rights) (2018), Experiences and perceptions of antisemitism: Second survey on discrimination and hate crime against Jews in the EU – Questionnaire, Luxembourg, Publications Office of the European Union (Publications Office). Available at: https://fra.europa.eu/en/publication/2018/2nd-survey-discrimination-hate-crime-against-jews</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>FRA (European Union Agency for Fundamental Rights) (2019), Experiences and perceptions of antisemitism - Second survey on discrimination and hate crime against Jews in the EU – Summary, Luxembourg, Publications Office of the European Union (Publications Office). Available at: https://fra.europa.eu/en/publication/2019/experiences-and-perceptions-antisemitism-second-survey-discrimination-and-hate</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>FRA (European Union Agency for Fundamental Rights) (2018), Discrimination and hate crime against Jews in EU Member States: experiences and perceptions of antisemitism, Luxembourg, Publications Office of the European Union (Publications Office). Available at: https://fra.europa.eu/en/publication/2018/2nd-survey-discrimination-hate-crime-against-jews</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

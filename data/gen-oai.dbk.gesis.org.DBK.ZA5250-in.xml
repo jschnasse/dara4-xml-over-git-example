@@ -1,0 +1,462 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'ALLBUS/GGSS 2016 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/German General Social Survey 2016)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2016'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA5250</identifier>
+		<currentVersion>2.1.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2016</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>ALLBUS/GGSS 2016 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/German General Social Survey 2016)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>GESIS - Leibniz-Institut für Sozialwissenschaften</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5250?doi=10.4232/1.12796</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12796</doiProposal>
+	<publicationDate>
+		<date>2017-05-29</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5250</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>ALLBUS</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Familie und Ehe</term>
+					<term>Migration</term>
+					<term>Minderheiten</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>ARBEIT UND BESCHÄFTIGUNG</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Family life and marriage</term>
+					<term>Migration</term>
+					<term>Minorities</term>
+					<term>Cultural and national identity</term>
+					<term>Political behaviour and attitudes</term>
+					<term>LABOUR AND EMPLOYMENT</term>
+					<term>Government, political systems and organisations</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.0.0</classificationSchema>
+				<terms>
+					<term>Antifeminismus</term>
+					<term>Antisemitismus</term>
+					<term>Assimilation</term>
+					<term>Autoritarismus</term>
+					<term>Bedrohungswahrnehmungen </term>
+					<term>Diskriminierungserfahrungen</term>
+					<term>diskriminierendes Verhalten</term>
+					<term>Ethnonationalismus</term>
+					<term>Ethnozentrismus</term>
+					<term>Gruppebezogene Menschenfeindlichkeit</term>
+					<term>Identität &amp; soziales Zugehörigkeitsgefühl</term>
+					<term>Integration</term>
+					<term>Intergruppenkontakt</term>
+					<term>Islamismus</term>
+					<term>Israelbezogener Antisemitismus</term>
+					<term>Nationalismus</term>
+					<term>Patriotismus</term>
+					<term>Rassismus</term>
+					<term>Realistische Bedrohungswahrnehmungen</term>
+					<term>Rechtsextremismus</term>
+					<term>Rechtspopulismus</term>
+					<term>Segregation</term>
+					<term>Totalitarismus</term>
+					<term>Xenophobie</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>Geflüchtete/Vertriebene</term>
+					<term>(Spät-)Aussiedler*innen/Russlanddeutsche</term>
+					<term>Migrantisierte Gruppen</term>
+					<term>Zentralasien</term>
+					<term>Türkei</term>
+					<term>Süd-Europa</term>
+					<term>Italien</term>
+					<term>Ost-Europa</term>
+					<term>Polen</term>
+					<term>Atheist*innen</term>
+					<term>Christ*innen</term>
+					<term>Jüd*innen</term>
+					<term>Muslim*innen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Staatsbürgerschaft</term>
+					<term>Wertorientierungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.0.0</classificationSchema>
+				<terms>
+					<term>Antifeminism</term>
+					<term>Antisemitism</term>
+					<term>Assimilation</term>
+					<term>Authoritarianism</term>
+					<term>Threat perceptions</term>
+					<term>Discrimination experience</term>
+					<term>Discriminatory behaviour</term>
+					<term>Ethnonationalism</term>
+					<term>Ethnocentrism</term>
+					<term>Group-based hostility</term>
+					<term>Identity &amp; sense of social belonging</term>
+					<term>Integration</term>
+					<term>Intergroup contact</term>
+					<term>Islamism</term>
+					<term>Israel-related antisemitism</term>
+					<term>Nationalism</term>
+					<term>Patriotism</term>
+					<term>Racism</term>
+					<term>Realistic threat perceptions</term>
+					<term>Right-wing extremism</term>
+					<term>Right-wing populism</term>
+					<term>Segregation</term>
+					<term>Totalitarianism</term>
+					<term>Xenophobia</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>Geflüchtete/Vertriebene</term>
+					<term>(Spät-)Aussiedler*innen/Russlanddeutsche</term>
+					<term>Migrantisierte Gruppen</term>
+					<term>Zentralasien</term>
+					<term>Türkei</term>
+					<term>Süd-Europa</term>
+					<term>Italien</term>
+					<term>Ost-Europa</term>
+					<term>Polen</term>
+					<term>Atheist*innen</term>
+					<term>Christ*innen</term>
+					<term>Jüd*innen</term>
+					<term>Muslim*innen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Citizenship</term>
+					<term>Value orientations</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Allgemeine Bevölkerungsumfrage der Sozialwissenschaften (ALLBUS) ist eine Trenderhebung, in der seit 1980 alle zwei Jahre eine Zufallsstichprobe der deutschen Bevölkerung befragt wird. Das primäre Ziel des Umfrageprogramms ist die Beobachtung von Einstellungen, Verhalten und sozialen Wandel in Deutschland. Jede ALLBUS-Querschnittserhebung besteht aus ein oder zwei Schwerpunktmodulen zu wechselnden Themen. Diese werden ergänzt durch weitere inhaltliche Fragen und ein Kernmodul mit detaillierten demografischen Informationen. Zudem werden Zusatzinformation zum Interview und den Interviewern bereitgestellt. Die Schwerpunktmodule folgen in der Regel einem 10-jährigen Replikationszyklus, viele Einzelindikatoren und Itembatterien werden aber auch in kürzeren Abständen repliziert. 
+Seit Mitte der 1980er Jahre werden zusammen mit ALLBUS auch regelmäßig ein oder zwei Module des ISSP (International Social Survey Programme) erhoben.
+Das Schwerpunktmodul von ALLBUS 2016 befasst sich mit der Akzeptanz von Immigration und Einstellungen gegenüber ethnischen und religiösen Minderheiten. Weitere Themen sind: Familie und Geschlechterrollen, Transnationalismus, Nationalstolz und politische Einstellungen. Zusätzlich sind die ISSP-Module „Arbeitsorientierung IV und “Staat und Regierung V“ enthalten.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>1.)	 Familie und Geschlechterrollen: Familie als Glücksvoraussetzung; Heirat bei dauernder Partnerschaft; Kinderwunsch; Einstellung zur Erwerbstätigkeit von Vätern und Müttern [im Split]; Aufteilung der Haus- und Familienarbeit.
+2.) Akzeptanz von Immigration und Einstellungen gegenüber ethnischen und religiösen Minderheiten in Deutschland: Einstellungen zum Zuzug verschiedener Zuwanderergruppen; Einstellungen zu Ausländern in Deutschland [im Split]; Kontakte zu Ausländern (bzw. zu Deutschen) in der Familie, am Arbeitsplatz, in der Nachbarschaft oder im Freundeskreis; Positive und negative Erfahrungen im Kontakt zu Ausländern (bzw. zu Deutschen); Wahrgenommene Konsequenzen der Anwesenheit von Ausländern in Deutschland; Wahrnehmung und Bewertung von diskriminierendem Verhalten gegenüber Ausländern; vermutete gesellschaftliche Bewertung von Aussagen über Ausländer; Wichtigkeitseinstufung verschiedener Einbürgerungsvoraussetzungen; Einstellung zur Möglichkeit Deutscher zu werden (Assimilation); Einstellung zur doppelten Staatsbürgerschaft und zur rechtlichen Gleichstellung von Ausländern; Befürwortung von Islamunterricht an Schulen; Haltung zu ethnisch gemischter Nachbarschaft; Ausländeranteilsschätzung für Ost- und Westdeutschland; Anwesenheit von Ausländern Vorteil für Deutschland; Wohnen in Wohngebieten mit hohem Ausländeranteil; geschätzter Ausländeranteil in Wohnumgebung; Einstellungen zu kultureller Vielfalt; perzipierte Lebensstildifferenzen; Indikatoren für soziale Distanz zu ethnischen Minderheiten und Ausländern; Einstellungen zur rechtlichen Gleichstellung ethnischer oder religiöser Minderheiten; Gefühle gegenüber ethnischen oder religiösen Minderheiten; Einstellungen gegenüber Juden (Antisemitismus); Einstellungen gegenüber dem Islam (Islamophobie). Kontakte zu Flüchtlingen; Flüchtlinge in der Wohnumgebung; wahrgenommene Risiken und Chancen durch Flüchtlinge.
+3.) Transnationalismus: Kontakte zu Familienangehörigen und Freunden im Ausland; Häufigkeit von Kontakten ins Ausland; Staaten in die Kontakte bestehen; Konsum fremdsprachlicher Medien; Häufigkeit des Konsums fremdsprachlicher Medien; Häufigkeit und Dauer von Auslandsaufenthalten.
+4.) Staatsbürgerschaften und Herkunftsland: Erste, zweite und dritte Staatsbürgerschaft des Befragten und des Ehe- oder Lebenspartners; Anzahl der Staatsbürgerschaften des Befragten; ursprüngliche Staatsbürgerschaft des Befragten und des Ehe- oder Lebenspartners; Herkunftsland des Befragten und der Eltern und Großeltern des Befragten; Land in dem Befragter in seiner Jugend lebte; bisherige Aufenthaltsdauer von eingewanderten Personen in Deutschland.
+5.) Nationalstolz: Stolz auf deutsche Einrichtungen und deutsche Leistungen; Stolz, ein Deutscher zu sein.
+6.) Politische Einstellungen: Politisches Interesse; Postmaterialismus (Wichtigkeit von Ruhe und Ordnung, Bürgereinfluss, Inflationsbekämpfung und freier Meinungsäußerung); Selbsteinstufung auf einem Links-Rechts-Kontinuum; Wahlabsicht (Sonntagsfrage) und Wahlbeteiligung; Mitgliedschaft in politischer Partei.
+7.) Persönlichkeit: Sozialer Pessimismus und Zukunftsorientierung (Anomia); interpersonales Vertrauen; Reziprozität; Autoritarismus; allgemeine Lebenszufriedenheit.
+8.) Sonstiges: Selbsteinschätzung der sozialen Schichtzugehörigkeit; gerechter Anteil am Lebensstandard; Beurteilung der derzeitigen und zukünftigen Wirtschaftslage in Deutschland; Beurteilung der eigenen derzeitigen und zukünftigen wirtschaftlichen Situation; Furcht im Wohnumfeld; Verbundenheit mit dem Wohnort, dem Bundesland, der Bundesrepublik, der ehemaligen DDR und Europa; Telefonanschluss, Handybesitz, Internetnutzung.
+9.) ALLBUS-Demographie:Angaben zur befragten Person: Geburtsmonat, Geburtsjahr, Alter, Geschlecht, Staatsbürgerschaft (Nationalität), Anzahl der Staatsbürgerschaften, Wohnort (Bundesland, politische Gemeindegröße, BIK-Stadtregion), Herkunft, Konfession bzw. Religionszugehörigkeit, Kirchgangshäufigkeit, allgemeiner Schulabschluss, berufliche Ausbildung, Erwerbsstatus, Angaben zum gegenwärtigen bzw. früheren Beruf, Furcht vor Verlust des Arbeitsplatzes, Zugehörigkeit zum öffentlichen Dienst, Angaben zur Befristung der Beschäftigung, berufliche Aufsichtsfunktion, Zeitpunkt der Aufgabe hauptberuflicher Erwerbstätigkeit, wöchentliche Arbeitsdauer (Haupt- und Nebenerwerb), Status der Nichterwerbstätigkeit, Dauer von Arbeitslosigkeit, Befragteneinkommen, Wohnungstyp, Selbstbeschreibung des Wohnortes, allgemeiner Gesundheitszustand, Familienstand, jetzige und frühere Gewerkschaftsmitgliedschaft.Angaben zum Ehepartner: Alter, Geburtsmonat, Geburtsjahr, Staatsbürgerschaft (Nationalität), Herkunftsland, allgemeiner Schulabschluss, berufliche Ausbildung, Erwerbsstatus, Angaben zum gegenwärtigen Beruf, Status der Nichterwerbstätigkeit.Angaben zu nichtehelichen Lebenspartnern: Alter, Geburtsmonat, Geburtsjahr, Staatsbürgerschaft (Nationalität), Herkunftsland, gemeinsamer Haushalt mit befragter Person, allgemeiner Schulabschluss, berufliche Ausbildung, Erwerbsstatus, Angaben zum gegenwärtigen Beruf, Status der Nichterwerbstätigkeit.Angaben zu den Eltern des Befragten: Allgemeiner Schulabschluss von Mutter und Vater, berufliche Ausbildung von Mutter und Vater, Angaben zum Beruf des Vaters und der Mutter.Haushaltsbeschreibung: Haushaltsgröße, Haushaltseinkommen, Anzahl von über 17-jährigen Haushaltspersonen (reduzierte Haushaltsgröße).Angaben zu den einzelnen Haushaltspersonen (Haushaltsliste): Verwandtschaft der Haushaltspersonen zum Befragten, Geschlecht der Personen, ihr Geburtsmonat, Geburtsjahr, Alter, Familienstand.Angaben zu Kindern außerhalb des Haushalts: Zahl der Kinder außer Haus, Geschlecht, Geburtsjahr, Alter.
+10.) Daten zum Interview (Paradaten): Eingeschätzte Attraktivität der Befragten, eingeschätzte Schichtzugehörigkeit des Haushaltes; Interviewdatum; Interviewbeginn und -ende; Interviewdauer; Erreichbarkeit des Befragten; Auskunftsbereitschaft des Befragten; Anwesenheit Dritter beim Interview; Anwesenheit des Ehepartners, Partners oder von Kindern beim Interview; Anwesenheit weiterer Familienangehöriger beim Interview; Eingriffe Dritter in den Interviewverlauf; Kooperationsbereitschaft und Zuverlässigkeit der Angaben des Befragten; Mitverfolgen des Interviews am Bildschirm; Angaben zum Wohngebäude des Befragten und der Wohnumgebung; Kontaktversuche; Teilnahme an den ISSP-Zusatzbefragungen; Teilnahmebereitschaft am GESIS Panel; Wahrscheinlichkeit der Teilnahme am GESIS Panel (Interviewereinschätzung); Nummer des Samplepoints.Angaben zum Interviewer: Geschlecht, Alter, Schulabschluss, Identifikationsnummer, Dauer der Interviewertätigkeit.
+11.) ISSP Arbeitsorientierungen IV (ISSP): Einstellung zu Arbeit (Arbeitsmotivation und Geld); Relevanz von Berufsaspekten (sichere Stellung, hohes Einkommen, gute Aufstiegschancen, interessante Arbeit, Autonomie, Möglichkeit zu helfen, soziale Nützlichkeit); Beeinträchtigung des Familienlebens als Arbeitnehmer; Konflikt und soziale Ausgrenzung im Arbeitsumfeld; Arbeitsplatzsicherheit und bessere Arbeitsbedingungen durch Gewerkschaften; gewünschte Arbeitsdauer; Befragter derzeit in Erziehungsurlaub; mehr oder weniger Arbeit und Geld; Aspekte des eigenen Arbeitsplatzes (sichere Stellung, hohes Einkommen, gute Aufstiegschancen, interessante Arbeit, Autonomie, Möglichkeit zu helfen, soziale Nützlichkeit, Ausbau persönlicher Kompetenz); gesundheitsschwächende und belastende Aspekte der Arbeit; Autonomie bei der Arbeitsorganisation; wechselseitige Beeinträchtigung von Beruf und Familienleben; Nützlichkeit von Berufserfahrungen bei der Arbeit und bei potentieller Arbeitssuche; Teilnahme an einer beruflichen Weiterbildung innerhalb der letzten zwölf Monate; Verhältnis zwischen Vorgesetzten und Mitarbeitern sowie zwischen den Kollegen; Berufszufriedenheit; Bereitschaft, hart zu arbeiten; stolz auf Arbeitgeber; Bereitschaft, besser bezahlte Stelle auszuschlagen; Wunsch nach anderer Tätigkeit; Stolz auf jetzige Tätigkeit; Schwierigkeit, eine gleichwertige Stelle zu finden; Wahrscheinlichkeit, bald eine neue Stelle zu suchen; Sorgen um Stellungsverlust; akzeptable Belastungen als Schutz vor Arbeitslosigkeit; Nebentätigkeit in den letzten zwölf Monaten; war Befragter mindestens ein Jahr erwerbstätig; bis wann erwerbstätig; Zufriedenheit mit letzter Tätigkeit; Hauptgrund für Ende der Erwerbstätigkeit; Wunsch nach Erwerbstätigkeit; Wahrscheinlichkeit erfolgreicher Arbeitssuche; Sorge, keine Arbeit zu finden; Kompromissbereitschaft bei Stellensuche; Arten der Arbeitssuche in den letzten zwölf Monaten; Weiterbildung in den letzten zwölf Monaten; im Moment auf Arbeitssuche; Haupteinkommensquelle Nichterwerbstätiger; Sorge, Haupteinkommensquelle zu verlieren; Arbeitsverhältnisse in den letzten fünf Jahren; Gesundheitszustand; Einstellungen zu älteren Arbeitnehmern.
+12.) ISSP Staat und Regierung V (ISSP): Einstellung zur Befolgung von Gesetzen; Einstellungen zu verschiedenen Protestformen gegen die Regierung; Ansichten bezüglich der Meinungsfreiheit für Extremisten; Einstellung zu einem Justizirrtum; Haltung zu wirtschaftsbezogenen Maßnahmen der Regierung; Einstellung zur Erhöhung von Regierungsausgaben für Umweltschutz, Gesundheitswesen, Polizei, Bildungswesen, Verteidigung, Renten, Arbeitslosenunterstützung, Kultur; Einschätzung der staatlichen Verantwortlichkeit für sozialpolitische Aufgaben (Absicherung von alten Menschen, Studenten, Wohnungsversorgung, Arbeitsplätzen, Wirtschaftswachstum durch Hilfen an die Industrie, Preisstabilität etc.); Einflussnahme auf Politik und Regierung; Einstellung zu Video- und Internetüberwachung; Geheimdienstliche Überwachung; Einstellung zur Beschränkung von Freiheiten für Terrorabwehr; politisches Interesse; generelle Einstellungen zur Politik und zum politischen System (subjektive Einschätzung der politischen Einflussmöglichkeiten, politische Informiertheit, Politiker und Wahlversprechen); Einschätzung der Arbeitsmotivation von Regierungsbeamten; Einschätzung der Steuergerechtigkeit bei verschiedenen Einkommensgruppen; Beurteilung des Finanzamtes; Einstellung zu Großunternehmen; Einschätzung der Verbreitung von Korruption unter Politikern und Beamten; Korruptionserfahrungen.
+13.) ISSP-Demographiemodul: Schulische Ausbildung in Jahren; Befragter derzeit oder früher erwerbstätig; Anzahl an Mitarbeitern; Weisungsbefugnis; Anzahl der Mitarbeiter, für die Weisungsbefugnis besteht; Art des Unternehmens: Profit vs. Non-Profit und öffentlich vs. privat; Hauptbeschäftigungsstatus (erwerbstätig, arbeitslos, Schüler/Student/Azubi, erwerbsunfähig, im Ruhestand, Hausfrau/-mann); Angaben zum Ehepartner bzw. Partner (Erwerbsstatus; Wochenarbeitszeit; Art der Erwerbstätigkeit; Weisungsbefugnis; Hauptbeschäftigungsstatus); Oben-Unten-Selbsteinstufung; Wahlbeteiligung bei der letzten Bundestagswahl; abgegebene Zweitstimme; Selbsteinschätzung der Zugehörigkeit zu einer ethnischen Gruppe.
+14.) Ergänzungen und abgeleitete Variablen: Postmaterialismus-Index (nach Inglehart); Berufsvercodung gemäß ISCO (International Standard Classification of Occupations) 1988 und 2008; SIOPS (nach Ganzeboom); ISEI (nach Ganzeboom); ISCED (International Standard Classification of Education) 1997 und 2011; Pro-Kopf-Einkommen; Äquivalenzeinkommen (modifizierte OECD-Skala); Haushaltsklassifikationen (nach Porst und Funk); Familientypologie; Ausländeranteil im Wohnumfeld und auf Kreisebene; Arbeitslosenquote auf Kreisebene; Transformationsgewicht für Auswertungen auf Haushaltsebene; Ost-West-Gewicht für gesamtdeutsche Auswertungen.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>ALLBUS (GGSS - the German General Social Survey) is a biennial trend survey based on random samples of the German population. Established in 1980, its mission is to monitor attitudes, behavior, and social change in Germany. Each ALLBUS cross-sectional survey consists of one or two main question modules covering changing topics, a range of supplementary questions and a core module providing detailed demographic information. Additionally, data on the interview and the interviewers are provided as well. Key topics generally follow a 10-year replication cycle, many individual indicators and item batteries are replicated at shorter intervals.
+Since the mid-1980ies ALLBUS also regularly hosts one or two modules of the ISSP (International Social Survey Programme).
+The main question module of ALLBUS/GGSS 2016 covers the acceptance of immigration and attitudes towards ethnic and religious minorities in Germany. Other topics include family and gender roles, transnationalism, national pride, and political attitudes. Additionally included are the ISSP modules “Work Orientations IV” and “Role of Government V”.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>1.) Family and gender roles: family as a prerequisite for happiness; marriage in case of steady partnership; desire to have children; attitudes towards working fathers and mothers [split]; division of labor regarding house and family work.
+2.) Acceptance of immigration and attitudes towards ethnic and religious minorities in Germany: attitude towards the influx of various groups of immigrants; scale of attitudes towards foreigners [split]; contacts with foreigners (or alternatively: contacts with Germans) within the family, at work, in the neighborhood, or among friends; positive and negative experiences with foreigners (or alternatively with Germans); perceived consequences of presence of foreigners in Germany; perception and evaluation of discriminatory behavior towards foreigners; assumed social evaluation of statements on foreigners; ranking in terms of importance of different citizenship requirements; attitudes towards the possibility of becoming German (assimilation); opinion on dual citizenship and on equal rights for foreigners; support for the teaching of Islam in public schools; attitude towards ethnically mixed neighborhoods; estimation of proportion of foreigners in East and West Germany; presence of foreigners as advantage for Germany; living in neighborhoods with high percentage of foreigners; estimated percentage of foreigners in own neighborhood; attitudes towards cultural diversity; perceived differences in lifestyle between Germans and different ethnic groups; indicators for social distance to ethnic minorities and foreigners; attitudes towards equal legal rights for ethnic and religious minorities; feelings towards ethnic and religious minorities; attitudes towards Jews (anti-Semitism); attitudes towards Islam (Islamophobia); contacts with refugees; presence of refugees in own neighborhood; perceived risks and chances with respect to refugees. 
+3.) Transnationalism: contacts with family members or friends living in another country, frequency of contacts with theses persons, countries in which these persons live; consumption of foreign-language media; frequency of consumption of foreign-language media; frequency and duration of visits to other countries.
+4.) Citizenships and country of origin: first, second, and third citizenship of respondent and of spouse or partner; number of citizenships of respondent; original citizenship of respondent and of spouse or partner; country of origin of respondent and of respondent´s parents and grandparents; country respondent lived in when young; length of residence in Germany.
+5.) National pride: pride in German institutions and German achievements, pride in being a German.
+6.) Political attitudes: political interest, postmaterialism (importance of law and order, fighting rising prices, free expression of opinions, and influence on governmental decisions), self-placement on left-right continuum, voting intention (Sonntagsfrage), participation in last federal elections, recall of vote in last federal elections, membership in a political party. 
+7.) Personality: social pessimism and orientation towards the future (anomia), interpersonal trust, reciprocity, authoritarianism, overall life satisfaction.
+8.) Other topics: self-assessment of social class, fair share in standard of living, assessment of the present and future economic situation in Germany, assessment of the present and future personal economic situation, sense of security in the immediate vicinity (fear of crime); identification with own community, the federal state, the Federal Republic of Germany, the former GDR and Europe; telephone, possession of mobile phone, Internet use.
+9.) ALLBUS-Demography: Details about the respondent: month and year of birth, age, gender, citizenship (nationality), number of citizenships, place of residence (federal state, size of municipality, BIK-type of region), geographical origin, religious affiliation, frequency of church attendance, school education, vocational training, employment status, details about current or former occupation, fear of unemployment, affiliation to public service, fixed-term or permanent employment contract, supervisory functions, date of termination of full-time employment, working hours per week (primary and secondary job), status of non-employment, length of unemployment, respondent´s income, type of dwelling, self-description of place of residence, overall health, marital status, current or former membership in a trade union.Details about respondent´s current spouse: month and year of birth, age, citizenship (nationality), number of citizenships, country of origin, school education, vocational training, employment status, details about current occupation, status of non-employment.Details about respondent´s steady partner: month and year of birth, age, citizenship (nationality), number of citizenships, country of origin, common household with respondent, school education, vocational training, employment status, details about current occupation, status of non-employment.Details about respondent´s parents: school education of mother and father, vocational training of mother and father, details about both parents´ occupation.Description of household: size of household, household income, number of persons older than 17 in household (reduced size of household).Details about household members: family relation to respondent, gender, month and year of birth, age, marital status.Details about children not living in the household: number of children not living in the household, gender, year of birth, age.
+10.) Data on the interview (paradata): perceived attractiveness of respondent; perceived social class of household; date of interview; beginning and end of interview; length of interview; reachability of respondent; willingness to participate; presence of other persons during interview; presence of spouse, partner or children during interview; presence of other relatives during interview; interference of other persons in the course of the interview; willingness to cooperate and reliability of information from respondent; respondent followed interview on screen; details about respondent´s residential building and its neighborhood; number of attempts to contact the respondent; participation in ISSP surveys; willingness to participate in GESIS panel; likelihood of participation in GESIS panel (assessed by interviewer); ID of sample point. Details about the interviewer: gender; age; school education; identification number; length of experience as an interviewer.
+11.) Work orientations IV (ISSP): attitude towards work (job motivation and money); relevance of job characteristics (secure job, high income, good career opportunities, interesting work, work autonomy, chance to help other people, social usefulness); impact of work on family life; conflict and social exclusion in work environment; assessment of job security; better job security and working conditions because of trade unions; preference for full- or part-time work; respondent on parental leave; preference for less or more work (and pay); characteristics of own job (secure job, high income, good career opportunities, interesting work, work autonomy, chance to help other people, social usefulness, allows development of personal skills); stressful, unhealthy or dangerous working conditions; autonomy regarding organization of own work; impact of work on family life and vice versa; usefulness of work experience in current job and in looking for new job; participation in further training over past 12 months; quality of relationship between superiors and employees and between colleagues; job satisfaction; willingness to work harder; pride in employer; willingness to turn down better paid job; desire to change jobs; pride in current job; chance of finding equivalent job; likelihood of looking for a new job in the near future; fear of unemployment; what respondent is prepared to do to avoid unemployment; secondary job in the past twelve months; respondent has previously been in work for at least one year; date of termination of full- or part-time employment; satisfaction with last job; main reason respondent stopped working; desire for work; likelihood of success in job search; fear of not finding an occupation; willingness to compromise in job search; means used in looking for work in the past twelve months; unemployed respondent further training during past twelve months; currently looking for work; main source of personal income while not working; fear of losing main source of personal income; employment history of the past five years; overall health; attitudes towards old people in the workplace. 
+12.) Role of government V (ISSP): attitudes towards the observance of laws; attitudes towards different forms of protest against the government; opinions on freedom of speech for extremists; attitude towards a miscarriage of justice; attitudes towards different economic policy positions; attitudes towards an increase of expenditures of the government for environmental protection, health service, police, the educational system, defense, pensions, unemployment benefit, culture; assessment of state responsibility for socio-political tasks (social support for the elderly, students, housing provision, job creation; economic growth through assistance to industry, price stability, etc.); assessment of the influence of different groups on politics and the government; attitude towards video and internet surveillance, attitude towards surveillance by domestic intelligence services; attitude towards the curtailing of freedoms in the name of fighting terrorism; political interest; overall attitude towards politics and the political system (subjective assessment of political influence (political efficacy), level of political awareness, politicians and election promises); trust in government officials; assessment of fairness of tax levels for different income groups; assessment of the fairness of tax authorities; attitudes towards ‘big business’; assessment of the extent of corruption (politicians, civil servants); personal experience with corruption.
+13.) ISSP-Demography: years of education in school and university; participation in workforce; number of employees; supervisory functions; number of employees supervised; type of employer (profit vs. non-profit, public vs. private); employment status; (employed, unemployed, in training, unfit for work, retired, house husband or wife); details about spouse or partner (employment status, working hours per week, type of work, supervisory functions, employment status); self-assessment of social class (top-bottom-scale); electoral participation; recall of vote in last federal election; ethnic self-identification.
+14.) Added value: Inglehart-Index; International Standard Classification of Occupations (ISCO) 1988 and 2008; Standard International Occupational Prestige Scale (SIOPS, according to Ganzeboom), International Socio-economic Index of Occupational Status (ISEI, according to Ganzeboom); International Standard Classification of Education (ISCED) 1997 and 2011; per capita income; equivalised income (OECD-modified scale); classification of private households (according to Porst and Funk); family typology; transformation weight for analyses on household level; east-west design weight; percentage of non-German residents at county level and in the immediate living environment; unemployment at county level.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen (Deutsche und Ausländer), die zum Befragungszeitpunkt in Privathaushalten lebten und vor dem 01.01.1998 geboren sind.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Residents in private households in the Federal Republic of Germany born before 1 January 1998.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Disproportional geschichtete Zufallsauswahl; Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Zweistufige, disproportional geschichtete Zufallsauswahl in Westdeutschland (incl. West-Berlin) und Ostdeutschland (incl. Ost-Berlin). In der ersten Auswahlstufe wurden Gemeinden in Westdeutschland und in Ostdeutschland mit einer Wahrscheinlichkeit proportional zur Zahl ihrer erwachsenen Einwohner ausgewählt. In der zweiten Auswahlstufe wurden Personen aus den Einwohnermeldekarteien zufällig gezogen.
+Zielpersonen mit nicht hinreichend guten Deutschkenntnissen zählen zu den systematischen Ausfällen.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Stratified: Disproportional; Probability: Multistage; Sampling Procedure Comment: Two stage disproportionate random sample in western Germany (incl. West Berlin) and eastern Germany (incl. East Berlin). In the first sample stage municipalities (Gemeinden) in western Germany and municipalities in eastern Germany were selected with a probability proportional to their number of adult residents; in the second sample stage individual persons were selected at random from the municipal registers of residents.	
+Targeted individuals who did not have adequate knowledge of German to conduct the inter-view were treated as systematic unit non-responses.
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-04-06</date>
+				</startDate>
+				<endDate>
+					<date>2016-09-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Stefan Bauernschuster</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Andreas Diekmann</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Andreas Hadjar</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Karin Kurz</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Ulrich Rosar</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Ulrich Wagner</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Bettina Westle</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>
+TNS Infratest, München</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.ComputerAssisted</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Persönlich-mündliche Befragung mit standardisiertem Frageprogramm (CAPI – Computer Assisted Personal Interview), zwei Zusatzbefragungen als CASI (Computer Assisted Self-Interview) im Rahmen des ISSP (Splitverfahren).</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Personal, oral interview with standardized questionnaire (CAPI – Computer Assisted Personal Inter-viewing) and two additional self-completion questionnaires (CASI – Computer Assisted Self-Interviewing) for ISSP (split questionnaire design).</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>3490</numberUnits>
+			<numberVariables>793</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Befragte aus dem Bereich der neuen Bundesländer sind in den Daten überrepräsentiert (oversample).  
+
+Eine in der Demographie vereinfachte Version des Datensatzes (589 Variablen) ist als ALLBUScompact 2016 (Studien-Nr. ZA5251) zusätzlich angeboten. 
+
+Ein Digital Object Identifier (DOI) zur Zitation der Datensätze ist dem Datensatz beigefügt. 
+
+Zusätzliche ALLBUS-Informationen sind erreichbar unter:  
+http://www.gesis.org/allbus </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Respondents from the area of the new federal states are oversampled. 
+
+A second version of this data set (589 variables) with a shortened demography module is additionally available as ALLBUScompact 2016 (ZA5251.
+
+A Digital Object Identifier (DOI) for use in data citations is supplied as part of the data set. 
+
+Additional information on ALLBUS is available at: 
+http://www.gesis.org/en/allbus</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.12754</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.12715</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+</resource>

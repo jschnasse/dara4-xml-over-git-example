@@ -1,0 +1,248 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Attitudes on Current Questions of Domestic Policy (1993) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Einstellungen zu aktuellen Fragen der Innenpolitik (1993)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA2396</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Einstellungen zu aktuellen Fragen der Innenpolitik (1993)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Attitudes on Current Questions of Domestic Policy (1993) 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Manfred</firstName>
+				<middleName/>
+				<lastName>Berger</lastName>
+				<affiliation>
+					<affiliationName>Institut für Praxisorientierte Sozialforschung (IPOS),
+Mannheim
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Matthias</firstName>
+				<middleName/>
+				<lastName>Jung</lastName>
+				<affiliation>
+					<affiliationName>Institut für Praxisorientierte Sozialforschung (IPOS),
+Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Dieter</firstName>
+				<middleName/>
+				<lastName>Roth</lastName>
+				<affiliation>
+					<affiliationName>Institut für Praxisorientierte Sozialforschung (IPOS),
+Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2396?doi=10.4232/1.2396</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.2396</doiProposal>
+	<publicationDate>
+		<year>1994</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2396</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Medien</term>
+					<term>Politische Ideologie</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Media</term>
+					<term>Political ideology</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellungen zu aktuellen innenpolitischen Themen.
+Themen: Demokratiezufriedenheit; Parteipräferenz;Wahlverhalten bei der letzten Bundestagswahl; Vertrauen inöffentliche Institutionen (Skalometer); Wichtigkeit vonBundesinstitutionen (Skalometer); präferierte Entwicklung derGesellschaft (Skala); wichtigste innenpolitische Ziele.
+Einstellung zu Ausländern und zum Asylrecht; Vermutungen überAsylrechtsmißbrauch; Einstellung zu einer Aufnahmebegrenzungfür Asylbewerber und zu einer konsequenten Abschiebung vonabgelehnten Asylbewerbern; Nähe zu Asylbewerberunterkünften undProbleme mit Asylbewerbern; Notwendigkeit ausländischerArbeitskräfte für die deutsche Wirtschaft.
+Zufriedenheit mit den gesellschaftlichen Bedingungen in derBundesrepublik; Zufriedenheit mit dem Grundgesetz; empfundeneBedrohung der öffentlichen Sicherheit; Wunsch nach verschärftenGesetzen oder erweiterten Befugnissen der Polizei; empfundenepersönliche Bedrohung durch ausgewählte Kriminalitätsformen.
+Politische Partizipation und Bereitschaft zu Protestverhalten;Präferenz für nationale oder europaweite Lösung ausgewählterpolitischer Probleme; Einschätzung der Vorteilhaftigkeit derEG-Mitgliedschaft des Landes; Einstellung zu einer verstärktenÜbernahme weltpolitischer Verantwortung durch dieBundesrepublik.
+Geschätzte Dauer bis zu einer Angleichung derLebensverhältnisse in Ost- und Westdeutschland; Einstellung zueinem Abschluß der Aufbereitung der DDR-Vergangenheit;Austragen gesellschaftlicher Konflikte mit Gewalt.
+Selbsteinstufung auf einem Links-Rechts-Kontinuum; Rückgangder Wahlbeteiligung als Gefahr für die Demokratie;Wahlbeteiligungsrückgang als Protestverhalten oder Rückgang desPolitikinteresses; Einstufung der Wähler von rechtsradikalenParteien als überzeugte Anhänger oder Protestwähler;Wichtigkeit des Problems des Rechtsradikalismus; verschärfteGesetze zum Kampf gegen Rechtsextremismus; Einstellung zurstaatlichen Abwehr gegen Radikale von rechts und links;Einschätzung der Gefährdung der Demokratie durch linksextremeund rechtsextreme Gruppen und Organisationen (Skalometer);Einstellung zur Bewerbung Berlins als Austragungsort für dieOlympischen Spiele; Präferenz für eine monatlicheGebührenerhöhung oder vermehrte Werbung zur Finanzierung derFernsehanstalten der ARD und des ZDF; akzeptierter Umfang undZeitpunkt für Werbung im öffentlich-rechtlichen Fernsehen;Einstellung zu Werbung in den Pausen von Sportsendungen;Beurteilung des Umfangs von Gewaltdarstellungen im Fernsehenund Einstellung zum sogenannten Reality-TV.
+Arbeitsplatzgefährdung des Befragten oder einer nahestehendenPerson; Gewerkschaftsmitgliedschaft; Religiosität;Parteineigung und Parteiidentifikation.
+Demographie: Alter; Geschlecht; Familienstand; Kirchgangshäufigkeit; Schulbildung; Berufsausbildung; </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Attitudes to current topics of domestic policy. Topics: Satisfactionwith democracy; party preference; behavior at the polls in the lastFederal Parliament election; trust in public institutions (scale);importance of federal institutions (scale); preferred development ofsociety (scale); most important goals of domestic policy. Attitude toforeigners and the right to asylum; assumptions about abuse of theright to asylum; attitude to a limit to admission for applicants forpolitical asylum and to consistent deportation of those whoseapplication for asylum was denied; closeness to accomodations forapplicants for political asylum and problems with applicants forpolitical asylum; necessity of foreign workers for the German economy.Satisfaction with social conditions in the Federal Republic;satisfaction with the constitution; perceived threat to public safety;desire for stricter laws or expanded powers for the police; perceivedpersonal threat from selected forms of crime. Political participationand readiness for protest behavior; preference for national orEurope-wide solution of selected political problems; assessment of theadvantageousness of EC membership of the country; attitude to anincreased acceptance of responsibility in world politics by the FederalRepublic. Estimated duration until achievement of equivalent livingconditions in Eastern and Western Germany; attitude to putting an endto processing of the GDR past; conducting social conflicts withviolence. Self-classification on a left-right continuum; reduction inelection turnout as danger to democracy; election turnout reduction asprotest behavior or reduction of interest in politics; classificationof voters for right-wing radical parties as dedicated supporters orprotest voters; importance of the problem of right-wing radicalism;stricter laws to combat right-wing extremism; attitude to governmentdefense against radicals of right and left; assessment of the jeopardyto democracy from left-wing extremist and right-wing extremist groupsand organizations (scale); attitude to the application of Berlin toconduct the Olympic Games; preference for a monthly increase in fees orincreased advertising to finance the television stations ARD {FirstGerman Television Network} and ZDF {Second German Television Network};accepted extent and point in time for advertising on public television;attitude to advertising in the breaks in sports broadcasts; judgementon the extent of presentation of violence on television and attitude toso-called reality TV. Jeopardy to job of respondent or a close person;union membership; religiousness; party inclination and partyidentification. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>The population eligible to vote</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl 
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage stratified random sample  
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1993-05</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>USUMA, Berlin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>151</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Vergleichbare Untersuchungen zu aktuellen Fragen der
+Innenpolitik wurden vom Bundesministerium des Inneren in
+Auftrag gegeben. Die Studien sind unter den ZA-Studien-Nrn.
+1373, 1463, 1516, 1662, 1698, 1763, 1937, 1967, 2120 sowie 2288
+archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Comparable investigations on current questions of domestic policy 
+were commissioned by the Bundesministerium des Inneren {Department of 
+the Interior}. The studies are archived under 
+ZA Study Nos. 1373, 1463, 1516, 1662, 1698, 1763, 1937, 1967, 2120 
+as well as 2288. 
+</text>
+		</note>
+	</notes>
+</resource>

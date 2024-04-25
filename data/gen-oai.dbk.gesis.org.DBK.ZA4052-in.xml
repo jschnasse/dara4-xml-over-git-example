@@ -1,0 +1,201 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Personality and Voting Behaviour 2003'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Persönlichkeit und Wahlverhalten 2003
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4052</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Persönlichkeit und Wahlverhalten 2003
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Personality and Voting Behaviour 2003</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Siegfried</firstName>
+				<middleName/>
+				<lastName>Schumann</lastName>
+				<affiliation>
+					<affiliationName>Universität Mainz</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4052?doi=10.4232/1.4052</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4052</doiProposal>
+	<publicationDate>
+		<year>2004</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4052</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Social conditions and indicators</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Persönlichkeitseigenschaften, Wahlverhalten und politischeOrientierung: politische Kenntnistests.
+Themen: Mündliche Befragung: Haushaltsgröße; Kinderzahl (gestaffeltnach Altersstufen); wichtigstes Ziel der Kindererziehung;Postmaterialismus; Politikinteresse; Sympathie-Skalometer für GerhardSchröder, Joschka Fischer, Angela Merkel, Guido Westerwelle, EdmundStoiber, Jürgen Trittin, Gregor Gysi, Franz Schönhuber und Gerhard Freysowie für die Parteien SPD, CDU, CSU, FDP, Bündnis 90/Die Grünen, PDS,Republikaner, DVU und NPD; Sympathie-Skalometer für die Gewerkschaftensowie die evangelische und die katholische Kirche; Anforderungsprofilfür eine politische Partei; Parteien, die sich besonders für dieInteressen von Arbeitern, Selbstständigen, Landwirten, Katholiken undGewerkschaftsmitgliedern einsetzen; Selbsteinschätzung derCharaktereigenschaften (semantisches Differential);Institutionenvertrauen (Skalometer); Lebenszufriedenheit (Skalometer);Bedeutung Gottes für das eigene Leben (Skalometer); Zustimmung zurAussage, Jesus sei Mensch und Gott zugleich gewesen; Glauben an einLeben nach dem Tod, an Gott, an den Himmel und an die Hölle(Skalometer); derzeit wichtigste Probleme in der BRD und Partei, die amehesten geeignet ist, es zu lösen; Wahlbeteiligungsabsicht im Falleeiner anstehenden Landtagswahl, Europawahl, Kommunalwahl undBundestagswahl; Parteipräferenz sowie Kriterien für die eigeneWahlentscheidung; Einstufung dieser Parteipräferenz als gefühlsmäßigaufgrund von Drängen von anderen; Protest als Motivation für dieWahlentscheidung; Selbsteinschätzung als Protestwähler; Vermutung, obdie Erststimme oder Zweitstimme bei der Wahl über die Stärke derParteien im Bundestag entscheidet; Kenntnis der Anzahl der Bundesländer;Zuordnung der Parteizugehörigkeit von Gerhard Schröder, Joschka Fischer,Angela Merkel, Guido Westerwelle, Edmund Stoiber, Jürgen Trittin, GregorGysi, Franz Schönhuber und Gerhard Frey; Positionierung von SPD, CDU,CSU, FDP, Bündnis 90/Die Grünen, PDS, Republikaner, DVU und NPD aufeinem Links-Rechts-Kontinuum; Selbsteinstufung auf einemLinks-Rechts-Kontinuum; Einstellung zum US-Militäreinsatz im Irak, zuGenforschung, zur Euro-Einführung, zur Erleichterung des Zuzugs vonAusländern, zur Aufrüstung der Bundeswehr, zur finanziellenUnterstützung Arbeitsloser, zur Intensivierung der EuropäischenEinigung, zur Legitimität von Schwangerschaftsabbrüchen, zur EheHomosexueller, zum weiteren Ausbau von Kernenergie; Wahlverhalten beider letzten Bundestagswahl und Gründe für eine mögliche Wahlenthaltung;Zufriedenheits-Skalometer für die SPD-Regierung, die Grünen alsKoalitionspartner sowie die Oppositionsparteien; Interesse anZeitungslektüre zur politischen Information; Häufigkeit derZeitungslektüre sowie präferierte überregionale Zeitung; Zustimmung zurEinschätzung der Medien, Schröders Politik habe sich seit der Wahlverschlechtert; Parteineigung und Parteiidentifikation; Dauer derParteiidentifikation; Einstellung und Verbundenheit zur genannten Partei(Skala); Demokratiezufriedenheit; Einstellung zu den politischenParteien und ihren Abgeordneten (Skala); politische Entfremdung;Einstellung zu den Themen: Religiosität, Astrologie, Wunderheiler,Ausländerpolitik, Fremdenfeindlichkeit, Antisemitismus,Nationalsozialismus, Meinungsfreiheit, soziale Gerechtigkeit politischesEngagement, Sozialismus, Imperialismus und Entwicklungspolitik (Skala);psychologische Selbsteinschätzung hinsichtlich Geselligkeit, Nervosität,Selbstvertrauen, Pragmatismus, Ordnungsliebe, Freundlichkeit,Zeitmanagement, Stressresistenz, Lebensfreude, Kommunikationsstärke,Teamfähigkeit, Pflichtbewusstsein, Ausgeglichenheit, Extrovertiertheit,Kunstverständnis, Sozialkompetenz, Zielstrebigkeit, Offenheit,Entschlossenheit, Ängstlichkeit, Beliebtheit, Fleiß, Religiosität,Wirkung auf andere, Zuverlässigkeit, Bestimmtheit,Wissenschaftsinteresse, Interesse an Astrologie, eigenemAbstraktionsvermögen und Perfektionismus (Skalen, Neo-FFI);
+Demographie: Alter (Geburtsdatum); deutsche Staatsangehörigkeit;Konfession; Relevanz des religiösen Glaubens; Kirchgangshäufigkeit,Erwerbstätigkeit; berufliche Stellung; Kinderzahl; Zusammenleben miteinem Partner; Verwandschaftsgrad der Personen im Haushalt;Hauptverdiener im Haushalt; Selbsteinschätzung sowie Einschätzung desHauptverdieners als Besserverdienende; Schulbildung;Gewerkschaftsmitgliedschaft; Wohnort vor der Wende in Ost oder West.
+Interviewerrating: Geschlecht; Anwesenheit Dritter während desInterviews; Eingreifen dieser Personen in den Interviewablauf;Kooperationsbereitschaft des Befragten; vermutete Zuverlässigkeit derAngaben des Befragten; Kontaktprotokoll; Interviewdauer; Uhrzeit fürInterviewbeginn und Interviewende; Ortsgröße; Intervieweridentifikation; Intervieweralter; Interviewergeschlecht.
+Schriftliche Befragung: Einschätzung der wirtschaftlichen Lage in denalten und neuen Bundesländern; Wertorientierungen: Gesetz und Ordnung,hoher Lebensstandard, Macht und Einfluss, Entwicklung der eigenenPhantasie und Kreativität, Sicherheit, soziales Engagement, Dominanz,Fleiß und Ehrgeiz, Toleranz, politisches Engagement, Hedonismus,Pflichtbewusstsein (Skalometer); Häufigkeit des Konsums vonFernsehnachrichten in der ARD, im ZDF sowie bei den privaten Sendern;Häufigkeit der Lektüre von BILD-Zeitung, Nachrichtenmagazinen undTageszeitungen; Interesse an Nachrichten aus den Bereichen Politik imIn- und Ausland, Regionales, Kultur, Sport, Vermischtes sowie Wirtschaft(Skalometer); Einschätzung von Gerhard Schröder, Joschka Fischer, AngelaMerkel, Guido Westerwelle, Edmund Stoiber, Jürgen Trittin, Gregor Gysi,Franz Schönhuber und Gerhard Frey hinsichtlichKompromissfähigkeit/Durchsetzungsfähigkeit,Gewissenhaftigkeit/Unbefangenheit undInnovationsfreude/Traditionsverbundenheit; Selbsteinschätzunghinsichtlich Geselligkeit, Durchsetzungsfähigkeit, Ausgeglichenheit,Gewissenhaftigkeit, Innovationsfreude, Religiosität,Kompromissfähigkeit; Kanzlerpräferenz (Angela Merkel oder GerhardSchröder); wichtigstes Problem in der BRD; Einschätzung der Fähigkeitvon SPD, CDU, CSU, FDP, Bündnis 90/Die Grünen, PDS, Republikaner, DVUund NPD dieses Problem zu lösen (Skalometer); Parteien, die sichbesonders für die Interessen von Angestellten, Beamten,Besserverdienende, Durchschnittsverdiener und schlechter Verdienendeeinsetzen; Parteien, die am ehesten mit sozialer Gerechtigkeit, freiemUnternehmertum, Veränderungsfreudigkeit, Protest, Pflichtbewusstsein,Gefühlsbetontheit, Traditionsverbundenheit, Phantasie,Gewissenhaftigkeit, Härte und Aufgeschlossenheit assoziiert werden;Einstellung des Befragten zu Schweizern, Türken, Franzosen, Amerikanern,Österreichern, Russen, Buddhisten, Christen, Juden und Mohammedanern(Skalometer); Selbsteinschätzung des Befragten hinsichtlichAufgeschlossenheit, Flexibilität, Empathiefähigkeit, Kontaktfreudigkeit,Spontanität, Opportunismus, Konfliktfähigkeit, Autoritätsglauben,Toleranz, Selbstständigkeit, Dominanzverhalten, Kompromissfähigkeit,Lernbereitschaft, Erfolgsorientierung und Diskussionsfreudigkeit;Demokratiezufriedenheit; Einschätzung der bestehendenGesellschaftsordnung als gerecht; Selbsteinschätzung gesellschaftlicherBenachteiligung; Einschätzung Gerhard Schröders und Angela Merkelshinsichtlich Tatkraft, Sympathie, politische Vertrauenswürdigkeit,Führungsstärke, Geschmack, umweltpolitische Kompetenz, Ehrlichkeit,außenpolitische Kompetenz, Ausstrahlung, Entscheidungsfreudigkeit,Verantwortung, Wirtschaftskompetenz, Kompetenz bei Sozialreformen undArbeitsmarktpolitik (Skalometer); Wählbarkeit von SPD, CDU/CSU, FDP,Bündnis ´90/Die Grünen, PDS und Republikaner auf einem Skalometer von 0bis 100; Institutionenvertrauen: Kirche, Gewerkschaften, Wirtschafts-und Arbeitgeberverbänden, Umweltschutzgruppen und Bundestagsabgeordneten(Skalometer); Vertrauen in Gerhard Schröder, Joschka Fischer, AngelaMerkel, Guido Westerwelle, Edmund Stoiber, Jürgen Trittin, Gregor Gysi,Franz Schönhuber und Gerhard Frey (Skalometer); Vertrauen in die SPD,CDU, CSU, FDP, Bündnis 90/Die Grünen, PDS, Republikaner, DVU und NPD(Skalometer); Selbsteinschätzung hinsichtlich Gesprächigkeit,Kritikfreudigkeit, Gründlichkeit, Deprimiertheit, Originalität,Reserviertheit, Hilfsbereitschaft, Achtlosigkeit, Entspanntheit,Aufgeschlossenheit, Aktivität, Streitlust, Zuverlässigkeit, Anspannung,Tiefsinn, Begeisterungsfähigkeit, Nachsichtigkeit, Unordentlichkeit,Besorgtheit, Phantasie, Wortkargheit, Gutgläubigkeit, Faulheit,Ausgeglichenheit, Einfallsreichtum, Durchsetzungsfähigkeit,Distanziertheit, Ausdauer, Launenhaftigkeit, Kunstverständnis,Schüchternheit, Einfühlungsvermögen, Fleiß, Stressresistenz,Ambitioniertheit, Geselligkeit, Unfreundlichkeit, Zielstrebigkeit,Unsicherheit, Interesse an eigener Abstraktionsfähigkeit,Kooperationsfähigkeit, Zerstreutheit und musisches Interesse;eigene Einstellung sowie vermutete Position von CDU/CSU, SPD, FDP,Bündnis 90/Die Grünen, Republikaner und PDS zum Ausbau der Kernenergie,dem Militäreinsatz der USA im Irak, zu Zuzugsmöglichkeiten vonAusländern und zur europäischen Einigung; Issue-Relevanz dieser Themen;Geschlecht des Befragten; Selbstcharakterisierung hinsichtlichOriginalität, Materialismus, Chancengleichheit, Bewundert werden,Sicherheitsbedürfnis, Abwechslung, Gewissenhaftigkeit,Empathiefähigkeit, Bescheidenheit, Hedonismus, Unabhängigkeitsstreben,Fürsorglichkeit, Anerkennung, starker Sicherheitsstaat,Risikofreudigkeit, korrektes Verhalten, Respekt erhalten, Loyalität,Umweltbewusstsein und Traditionsbewusstsein (Skala); Einschätzung vonGerhard Schröder, Joschka Fischer, Angela Merkel, Guido Westerwelle,Edmund Stoiber, Jürgen Trittin, Gregor Gysi, Franz Schönhuber undGerhard Frey hinsichtlich Geselligkeit und seelischer Ausgeglichenheit;Einschätzung von Gerhard Schröder, Joschka Fischer, Angela Merkel, GuidoWesterwelle, Edmund Stoiber, Jürgen Trittin, Gregor Gysi, FranzSchönhuber und Gerhard Frey auf einem Links-Rechts-Kontinuum;Einschätzung der eigenen wirtschaftlichen Lage; Gefühl politischerWirksamkeit, efficacy (Skala); wichtigste Bezugsperson des Befragten undvermutetes Einverständnis der beiden wichtigsten Personen im Hinblickauf eine angenommene Wahlentscheidung des Befragten für die SPD,CDU/CSU, FDP, Bündnis 90/Grüne, PDS oder Republikaner (Skalometer).Zusätzlich verkodet wurde: Rücklaufdatum;
+Indizes: Neurotizismus, Extraversion, Offenheit für Erfahrung,Verträglicheit, Gewissenhaftigkeit, extrem rechte Einstellung, extremlinke Einstellung.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte im Alter von 18 Jahren und mehr</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl (ADM-Mastersample). Es wurden
+getrennte Stichproben für Ost- und Westdeutschland gezogen. Der
+Datensatz enthält eine Überrepräsentation der neuen Bundesländer </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2003-09</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2003-10</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche und schriftliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>733</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Studien zu ähnlichen Themen sind unter den ZA-Studien-Nrn. 4174
+(Berlin-Studie 1999)und 4175 (Bundesstudie 2000) archiviert.
+Nach Beendigung der mündlichen Befragung wurde der Selbstausfüller dem
+Befragten als dropoff mit der Bitte um postalische Rücksendung
+übergeben.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Schumann, Siegfried: 
+Forschungsfragen, Forschungsdesign und Datengrundlage der Analysen. 
+In: Schumann, S. [Hrsg.]; Schoen, H. [Bearb.]: Persönlichkeit: Eine vergessene Größe der empirischen Sozialforschung. 
+Wiesbaden: VS Verlag für Sozialwissenschaften 2005, S. 13-27.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

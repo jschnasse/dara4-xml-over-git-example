@@ -1,0 +1,289 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Integration gelungen? Die fünf größten Zuwanderergruppen in Baden-Württemberg im Generationenvergleich'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Integration gelungen? Die fünf größten Zuwanderergruppen in Baden-Württemberg im Generationenvergleich'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA6761</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Integration gelungen? Die fünf größten Zuwanderergruppen in Baden-Württemberg im Generationenvergleich</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Integration gelungen? Die fünf größten Zuwanderergruppen in Baden-Württemberg im Generationenvergleich</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Patrick</firstName>
+				<middleName/>
+				<lastName>Fick</lastName>
+				<affiliation>
+					<affiliationName>Universität Konstanz</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Thomas</firstName>
+				<middleName/>
+				<lastName>Wöhler</lastName>
+				<affiliation>
+					<affiliationName>Universität Konstanz</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Claudia</firstName>
+				<middleName/>
+				<lastName>Diehl</lastName>
+				<affiliation>
+					<affiliationName>Universität Konstanz</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Thomas</firstName>
+				<middleName/>
+				<lastName>Hinz</lastName>
+				<affiliation>
+					<affiliationName>Universität Konstanz</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Wüst</lastName>
+				<affiliation>
+					<affiliationName>Ministerium für Soziales und Integration Baden-Württemberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Judith</firstName>
+				<middleName/>
+				<lastName>Halisch</lastName>
+				<affiliation>
+					<affiliationName>Ministerium für Soziales und Integration Baden-Württemberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6761?doi=10.4232/1.12704</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12704</doiProposal>
+	<publicationDate>
+		<date>2016-11-25</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6761</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Religion und Werte</term>
+					<term>Sprache und Sprachwissenschaft</term>
+					<term>Geschlecht und Geschlechterrollen</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Religion and values</term>
+					<term>Language and linguistics</term>
+					<term>Gender and gender roles</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Political behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Mehrthemenbefragung der ersten, zweiten und dritten Zuwanderergeneration der fünf größten Zuwanderergruppen (aus der Türkei, ehem. Sowjetunion, ehem. Jugoslawien, Italien, Polen) sowie einer Gruppe ohne Migrationshintergrund in Baden-Württemberg zu Fragen der Integration.
+Themen: Bildungsbiographie, Erwerbsbiographie, Zuwanderungsgründe, Staatsbürgerschaft, Transnationalismus, Wellbeing, Wohnkontext, Soziale Integration, Sprache, Diskriminierung, Partizipation, Kulturelle Integration, Werte, Soziale Distanzen, Identifikation, Religiosität, Integrationspolitik.
+1. Bildungsbiographie: Schulabschluss; Land, in dem der höchste Schulabschluss abgelegt wurde; höchster ausländischer Abschluss; Dauer der Schulbildung; höchster deutscher Abschluss; höchster Abschluss auf zweitem Bildungsweg; aktueller Schulbesuch; höchster Schulabschluss des Vaters; höchster Schulabschluss der Mutter; Wichtigkeit der Schulbildung für die Eltern; Selbständigkeit der Eltern; Aushilfe als Jugendlicher im elterlichen Betrieb.
+2. Erwerbsbiographie: aktueller Erwerbsstatus; frühere Berufstätigkeit; berufliche Stellung (generiert nach Hoffmeyer-Zlotnik); berufliche Stellung: Autonomie des Handelns (generiert); berufliche Stellung; berufliche Stellung Arbeiter; berufliche Stellung Angestellter; berufliche Stellung Beamter; Unternehmensgröße (Beschäftigtenzahl); Wochenarbeitszeit; Dauer der Arbeitslosigkeit; Ausbildung/Studium; Land, in dem die berufliche Ausbildung absolviert wurde; Anerkennung von Schul- und Ausbildungsabschlüssen in Deutschland; Abitur (generiert); aktuelle Erwerbstätigkeit (generiert).
+3. Zuwanderungsgründe, Staatsbürgerschaft: Zuwanderungsgründe; Reihenfolge des Zuzugs der Eltern nach Deutschland; Reihenfolge des Zuzugs der Großeltern nach Deutschland; Zuwanderungsgründe der Eltern/ Großeltern; Jahr der eigenen Migration; Alter bei der Migration; ehemalige Auswanderungsabsicht; aktuelle Auswanderungsabsicht; Ziel der Auswanderungsabsicht; Dauer einer möglichen Auswanderung; Herkunftsgruppe (generiert); Anzahl der Staatsbürgerschaften (generiert); Staatsangehörigkeit (generiert); Aufenthaltsstatus; Überlegung, dt. Staatsbürgerschaft zu beantragen; Beantragung der dt. Staatsbürgerschaft; Informationen über Einbürgerungsmöglichkeiten; Einbürgerungsabsicht; wichtigster Grund für eine Einbürgerung; wichtigster Grund gegen eine Einbürgerung; Meinung, ob das Leben mit dt. Staatsbürgerschaft leichter wäre; Meinung, ob das Leben mit dt. Staatsbürgerschaft leichter ist.
+4. Transnationalismus: Immobilienbesitz im Herkunfts-/Bezugsland; Remittances; Höhe der Remittances; Aufenthalt im Herkunfts-/Bezugsland; Aufenthaltsdauer im Herkunfts-/Bezugsland (generiert); Aufenthaltsgrund.
+5. Wellbeing: Zufriedenheit (Skala; Allgemein, Gesundheit, Wohnung, Beruf).
+6.Wohnkontext: Mietverhältnis; Wohnfläche (qm); Wohnfläche (Zimmerzahl); Jahre am Wohnort; Zuwanderer in der Nachbarschaft; Zuwanderer aus dem Herkunfts-/Bezugsland in der Nachbarschaft.
+7. Soziale Integration: Netzwerk (Geld leihen, praktische Hilfe, Rechtshilfe) nach Verwandtschaft und Herkunfts-/Bezugsland; Kontakt und Häufigkeit des Kontakts zu Personen ohne Migrationshintergrund (Freundeskreis, Nachbarschaft, Arbeit); soziale Kontakte in der Freizeit (Zusammensetzung nach Migrationshintergrund).
+8. Sprache: Sprachkenntnisse aus der Kindheit/Herkunftssprache(n); Anzahl der Herkunftssprachen (generiert); Wichtigkeit Deutschkenntnisse für eigene Kinder; Wichtigkeit Herkunftssprache(n) für eigene Kinder; Einschätzung Deutschkenntnisse;  Sprachkompetenzen Herkunftssprache(n); Besuch und Ort eines Deutschkurses; Sprachverwendung (Familie, Freunde, Arbeit); Nutzen der Herkunftssprache(n) im Arbeitsleben.
+9. Diskriminierung: Einschätzung Deutschland als einladendes Land; Willkommensgefühl bei Zuzug; Einschätzung Benachteiligung (allgemein Migranten; Migranten aus Herkunfts-/Bezugsland); Persönliche Benachteiligungserfahrungen (alltägliche Situationen, Arbeitssuche, Wohnungssuche, Behördenkontakt) und Benachteiligungsgrund; Einschätzung Chancengleichheit bei Bewerbung im öffentlichen Dienst.
+10. Partizipation: Wahlteilnahme (Wahlberechtigte, nicht-Wahlberechtigte); Parteipräferenz; politisches Engagement; Ansprache zu politischem Engagement; Partizipation in Verein, Vereinigung, Organisation; Art des Vereins; Zusammensetzung der besuchten Vereine nach Migrationshintergrund der Mitglieder; Anzahl der Vereinspartizipationen (generiert); Anzahl der Vereinspartizipationen nach Migrationshintergrund (generiert); Ehrenamt/Leitungsfunktion.
+11. Kulturelle Integration: Gender Equality Scale (weilbliche Führungskräfte, Berufstätigkeit von Müttern, Universitätsausbildung von Mädchen, Frauen als Manager.)
+12. Werte, Soziale Distanzen: Vereinbarkeit von Werten (Einheimische/Zuwanderer); Vereinbarkeit von Werten (Einheimische/Zuwanderer aus Herkunfts-/Bezugsland); Nachbarschaftspräferenz (Deutsche/Italiener/Polen/ehem. Sowjetunion/ ehem. Jugoslawien/Türken).
+13. Identifikation: Zugehörigkeit (Wohnort, Baden-Württemberg, Deutschland, Herkunfts-/Bezugsland, Europa); Hin- und Hergerissenheit.
+14. Religiosität: Selbsteinschätzung Religiosität; Zugehörigkeit zu Glaubensgemeinschaft; Religionsgemeinschaft; Religionszugehörigkeit (generiert); Besuch religiöser Veranstaltungen (Häufigkeit); Treffen in Gemeinderäumen außerhalb religiöser Veranstaltungen (Häufigkeit); Ehrenamt in der Gemeinde; Religionsausübung (Häufigkeit); Besuch einer Kirche, Synagoge, Moschee; Einstellung zu nicht-christlichem Religionsunterricht in der Schule; Einschätzung allgemeine Haltung gegenüber Muslimen in Deutschland; Veränderung der allgemeinen Haltung gegenüber Muslimen in Deutschland.
+15. Integrationspolitik: Maßnahmen, die man als Integrationsminister/in ergreifen würde.
+Demographie: Geschlecht; Alter (Geburtsmonat, Geburtsjahr); Geburtskohorte (generiert); Haushaltsgröße; Migrationshintergrund: Migrantengeneration (generiert); Migrantengeneration (Screening); Herkunfts- und Generationengruppen (generiert); binationales Elternhaus; Herkunftsland; Geburtsland des Befragten; Geburtsland der Mutter; Geburtsland des Vaters; Geburtsland der Großeltern mütterlicherseits; Geburtsland der Großeltern väterlicherseits; Familienstand; Partnerschaft; Wohnort Partner; Staatsbürgerschaft Partner; Migrationshintergrund Partner; Partner aus Herkunfts-/Bezugsland; Kinder; Anzahl der Kinder; Anzahl der Kinder im Haushalt; Anzahl Geschwister.
+Zustzlich verkodet wurde: Wohnort (Einwohner, kategorisiert); städtisches Wohnumfeld (generiert); Regierungsbezirk.
+Interviewerfragen: Einschätzung Deutschkenntnisse der Befragten; Interviewprobleme bei sprachlicher Verständigung; Einschätzung Kooperationsbereitschaft der Befragten.Gewichtung/Stichprobe: Personen-Identifikationsnummer; Personengewichtungsfaktor, Proportionalisierungsfaktor; Interviewernummer; Interviewsprache; Art der Stichprobe.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Information on the migration history of the respondents and, where planned, their future migration plans, intended naturalisation (citizenship), language competencies, discrimination, cultural and social integration, and religiosity. Questions on school and vocational training as well as on occupational activities before and after entering Germany. Information on the housing situation, the household constellation and other family members (children) were also collected.
+Topics: educational biography, occupational biography, immigration, citizenship, transnationalism, wellbeing, living context, social integration, language, discrimination, participation, cultural integration, values, social distances, identification, religiosity, integration policy.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BW</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen mit Migrationshintergrund aus der Türkei, dem ehemaligen Jugoslawien, Italien, der ehemaligen Sowjetunion und Polen der ersten, zweiten und dritten Zuwanderergeneration ab 14 Jahren, Deutsche ohne Migrationshintergrund
+
+Bei der Gruppe der Personen mit Migrationshintergrund handelt es sich um Personen, die entweder selbst, oder deren Eltern oder deren Großeltern nach Deutschland zugewandert sind. Relevante Herkunftsländer sind die Türkei, Italien, die Nachfolgestaaten von Ex-Jugoslawien, Polen und die Nachfolgestaaten der Ex-Sowjetunion. 
+ 
+Bei der Gruppe der Personen ohne Migrationshintergrund handelt es sich um Personen, die selbst ebenso wie ihre Eltern und ihre Großeltern in Deutschland geboren wurden. </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons aged 14 years and older with migration background from Turkey, the former Yugoslavia, Italy, the former Soviet Union and Poland of the first, second and third generation of immigrants, Germans without migration background</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl
+
+1. Schritt Haushaltsstichprobe: Onomastisches Verfahren auf Grundlage zugänglicher Telefonverzeichnisse (Befragte mit Migrationshintergrund); Zufallsbasierte Telefonstichprobe (Befragte mit und ohne Migrationshintergrund)
+2. Schritt Personenstichprobe: Zufallsstichprobe nach Screeningverfahren im Haushalt
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample: Multistage Sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2013-07-08</date>
+				</startDate>
+				<endDate>
+					<date>2013-10-31</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest, München</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)
+Zusatzsample (n=28): Persönliches Interview: CAPI (Computerunterstützte persönliche Befragung) </freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview: CATI (Computer Assisted Telephone Interview)
+Additional sample (n=28): Face-to-face interview: CAPI (Computer Assisted Personal Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>389</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Nach Vorlage des finalen deutschen Fragebogens für die Haupterhebung erfolgte die Übersetzung in fünf Sprachen (Türkisch, Italienisch, Kroatisch, Russisch und Polnisch).</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Fick, Patrick; Wöhler, Thomas; Diehl, Claudia; Hinz, Thomas 2014: 
+Integration gelungen? Die fünf größten Zuwanderergruppen in Baden-Württemberg im Generationenvergleich. 
+Stuttgart: Ministerium für Integration Baden-Württemberg.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

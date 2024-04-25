@@ -1,0 +1,931 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Children of Immigrants Longitudinal Survey in Four European Countries (CILS4EU) - Full version. Data file for on-site use'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Children of Immigrants Longitudinal Survey in Four European Countries (CILS4EU) - Vollversion. Datenbestand zur on-site Nutzung'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA5353</identifier>
+		<currentVersion>3.3.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Children of Immigrants Longitudinal Survey in Four European Countries (CILS4EU) - Vollversion. Datenbestand zur on-site Nutzung</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Children of Immigrants Longitudinal Survey in Four European Countries (CILS4EU) - Full version. Data file for on-site use</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Kalter, Frank; Heath, Anthony F.; Hewstone, Miles; Jonsson, Jan O.; Kalmijn, Matthijs; Kogan, Irena; Tubergen, Frank van;</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5353?doi=10.4232/cils4eu.5353.3.3.0</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/cils4eu.5353.3.3.0</doiProposal>
+	<publicationDate>
+		<date>2017-04-11</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5353</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+					<identifier>KAT55</identifier>
+					<!-- Erziehung, Schulwesen -->
+					<identifier>KAT54</identifier>
+					<!-- Person, Persönlichkeit, Rolle -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Vorschulerziehung und Bildung in der Pflichtschulzeit</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Spezifische Krankheiten, Störungen und Gesundheitsprobleme</term>
+					<term>Jugend</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>Sprache und Sprachwissenschaft</term>
+					<term>Allgemeine Gesundheit und Wohlbefinden</term>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Compulsory and pre-school education</term>
+					<term>Cultural and national identity</term>
+					<term>Social conditions and indicators</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Specific diseases, disorders and medical conditions</term>
+					<term>Youth</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>Language and linguistics</term>
+					<term>General health and well-being</term>
+					<term>Employment</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>Migrationshintergrund</keyword>
+				<keyword>Schulbildung</keyword>
+				<keyword>soziale Herkunft</keyword>
+				<keyword>Familiensituation</keyword>
+				<keyword>soziale Beziehungen</keyword>
+				<keyword>nationale Identität</keyword>
+				<keyword>Religiosität</keyword>
+				<keyword>Partnerschaft</keyword>
+				<keyword>Freizeitverhalten</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>migration background</keyword>
+				<keyword>school education</keyword>
+				<keyword>social background</keyword>
+				<keyword>family situation</keyword>
+				<keyword>social relations</keyword>
+				<keyword>national identity</keyword>
+				<keyword>religiousness</keyword>
+				<keyword>partnership</keyword>
+				<keyword>leisure time behavior</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Studie ist eine Panel-Befragung von Jugendlichen, die eine Untersuchung der komplexen kausalen Mechanismen struktureller, sozialer und kultureller Integration von Jugendlichen mit Migrationshintergrund erlaubt. Momentan sind Daten aus drei Erhebungswellen verfügbar.
+Der Datensatz der ersten Welle umfasst Befragungen von Schülern, Eltern und Lehrern. Dies erlaubt es,  intergenerationale Transmissions- und Integrationsprozesse zu untersuchen. Der Haupt-Fragebogen umfasst (1) kognitiv-kulturelle Integration, (2) strukturelle Integration, (3) soziale Integration, (4) emotional-kulturelle Integration, (5) Gesundheit und Wohlbefinden und (6) Information zur Migrationserfahrungen.
+Weiterhin wurde die kognitiv-kulturellen Integration anhand eines (1) verbalen Kompetenztests (Messung sprachlicher Fähigkeiten) und eines (2) kognitiven Kompetenztestes (Messung der Intelligenz) erhoben.
+Darüber hinaus wurden zwei Aspekte sozialer Integration erhoben: (1) soziale Integration außerhalb des Klassenkontextes mit Hilfe egozentrierter Netzwerke und (2) soziale Integration innerhalb des Klassenkontextes mit Hilfe eines soziometrischen Fragebogens.
+Der Datensatz der zweiten Welle umfasst die Wiederbefragung von Schülern aus der ersten Welle. Darüber hinaus wurden in den Niederlanden Schüler befragt, die zwischen den Erhebungswellen in die Schulklassen aufgenommen wurden und nicht Teil der ersten Stichprobe waren (Newcomer). Wiederholt erhoben wurden der Hauptfragebogen und die soziale Integration innerhalb des Klassenkontextes (soziometrischer Fragebogen).
+Der Datensatz der dritten Welle umfasst die Wiederbefragung von Schülern aus der ersten oder der zweiten Welle. Zusätzlich wurden 10 Schüler befragt, die Teil der Klassenliste der ersten Welle und damit Teil der Grundgesamtheit der ersten Welle waren, aber abwesend an den Tagen des Schulsurveys in Welle 1 und 2. 
+Wiederholt erhoben wurde der Hauptfragebogen.
+Darüber hinaus wurden zwei Aspekte sozialer Integration erhoben: (1) soziale Integration außerhalb des Klassenkontextes mit Hilfe egozentrierter Netzwerke und (2) soziale Integration innerhalb des Klassenkontextes mit Hilfe eines soziometrischen Fragebogens (nur in NL).
+Das Erhebungsinstrument enthält länderspezifische Variationen. Nähere Informationen hierzu finden Sie in der Studiendokumentation.
+Welle 1
+Schülerbefragung
+Kognitiv-kulturelle Integration: Sprache:  Selbsteinschätzung der Sprachkenntnisse in der Landessprache (sprechen, verstehen, lesen, schreiben); weitere zu Hause gesprochene Sprache; Selbsteinschätzung der Sprachkennnisse der zu Hause gesprochenen Sprache (sprechen, verstehen, lesen, schreiben); Häufigkeit des Sprachgebrauchs der zweiten Sprache zu Hause in Bezug auf Gespräche, Computernutzung, Musikhören und Fernsehen; Freizeitverhalten: Häufigkeit ausgewählter Freizeitaktivitäten (z.B. Verwandtenbesuch, Kino, Ausgehen, Lesen, Computerspiele); Anzahl der Bücher im Haushalt; Vereinsmitgliedschaften; ethnische Zusammensetzung des Vereins.
+Strukturelle Integration: Schulleistungen (Selbsteinschätzung der Schulleistungen (Mathematik, Landessprache und Englisch); Einstufungssystem an der Schule (Setting-System); länderspezifische Leistungsgruppenzugehörigkeit in den Fächern Mathematik, Landessprache und Englisch; Leistungsniveau der Lerngruppe in den jeweiligen Fächern;  Bildungsniveau; Landessprache als zweite Sprache; Noten; Wiederholung eines Schuljahres; Einstellungen gegenüber der Schule: Lieblingsfächer; unbeliebteste Fächer; präferierte und realistische Bildungsaspiration (länderspezifisch); erwarteter Hochschulabschluss; Bildungsaspiration der Eltern (länderspezifisch); Selbstwirksamkeit; negative Schulnormen; Anstrengungsbereitschaft in der Schule; Wert von Bildung; Statuserhaltmotiv; Unterstützung und Förderung  bzw. unfaire Behandlung durch Lehrer; wirtschaftliche Situation: Nebenjob; Wochenarbeitszeit; Nebenjob im elterlichen Betrieb; Nettoverdienst pro Monat; Taschengeld; Höhe des Taschengeldes pro Woche bzw. pro Monat; Häufigkeit der Nicht-Teilnahme an Aktivitäten wegen Geldmangels; Möglichkeit zur schnellen Geldbeschaffung; Besitztümer (eigener Computer, Internetzugang, eigenes Zimmer, Smartphone, TV, Spielekonsole); ökonomische Zukunftserwartungen hinsichtlich Job und Vermögen; deviantes Verhalten und Delinquenz: Häufigkeit devianten Verhaltens in der Schule (Auseinandersetzungen mit Lehrern, erfahrene Bestrafung, unerlaubtes Fernbleiben vom Unterricht, Zuspätkommen); Häufigkeit delinquenten Verhaltens  in den letzten drei Monaten (mutwilliges Zerstören, Stehlen, Tragen von Messer oder Waffe, Trunkenheit).
+Soziale Integration: Freundschaften: Strong Ties (Ethnischer  Hintergrund der Freunde); Ansprechperson bei Problemen; ernsthafte  Auseinandersetzung in den letzten drei Monaten mit den Eltern, einem Geschwister, anderen Familienmitgliedern, Freund bzw. Freundin, Klassenkamerad,  Lehrer oder anderen Personen; interethnischer Kontakt (Weak Ties): Kontakthäufigkeit  mit Mitschülern ausgewählter ethnischer Herkunft, Häufigkeit des interethnischen Kontakts in der Nachbarschaft sowie in Clubs bzw. Vereinen;  Diskriminierung: Einstellung gegenüber anderen ausgewählten Herkunftsgruppen; Viktimisierungserfahrung in der Schule (Einschüchterung, Hänselei, Mobbing); Häufigkeit eigener Diskriminierung in der Schule, in öffentlichen Verkehrsmitteln, Geschäften, Cafés, Restaurants oder Nachtclubs, durch Polizei oder Sicherheitspersonal; romantische Beziehungen: Freund oder Freundin; Freund oder Freundin besucht dieselbe Schule (falls Klassenkamerad: ID des Freundes bzw. der Freundin); Kontext des Kennenlernens; weitere Informationen zum Partner: Alter; besuchter Schultyp (länderspezifisch), ethnischer Hintergrund (länderspezifisch);  Beziehungsdauer; Anzahl der Partner; Zukunftserwartungen (Heirat, Kinder); familiäre Beziehungen: Kontakthäufigkeit zu Mutter und Vater; Qualität der Beziehung zu den Eltern; Unterstützung durch die Eltern (Interesse, Stolz auf die Leistungen des Kindes, Leistung anregen); Familienzusammenhalt in Bezug auf gemeinsame Freizeit, Anspannung, Nähe zueinander, unbehagliche Atmosphäre, Auseinandersetzungen wegen Banalitäten); Konflikte innerhalb der Familie (Streitigkeiten der Eltern, Vorwürfe, Sprachlosigkeit, außer Kontrolle geratene Auseinandersetzungen); Erziehungsstil der Eltern: elterliche Anforderungen (Trost spenden, Ruhe einfordern, Strenge, Kritisieren, Hilfe bei Problemen, Liebe zeigen, Verständnis für Gedanken und Gefühle); elterliche Einmischung (Forderung nach umfassender Information über Aktivitäten und Aufenthaltsort des Kindes, Kennenlernen der Eltern von Freunden).
+Kulturelle Integration: Identität: Stärke der Identität bezüglich des Aufnahmelandes (nationale Identität);  Gefühl der Zugehörigkeit zu einer anderen Gruppe; Stärke der ethnischen Identität; Wichtigkeit ethnischer Identität; Einstellungen zu Integration bzw. Strategien des kulturellen Anpassungsprozesses; Religion: Religionszugehörigkeit; Wichtigkeit von Religion; religiöse Praktiken (Häufigkeit des Besuchs religiöser Versammlungsorte, Gebetshäufigkeit); Einstellungen und Normen  (Geschlechterrollen, Maskulinitätsnormen, Toleranz im Hinblick auf wilde Ehe, Scheidung, Abtreibung und Homosexualität).Gesundheit und Wohlbefinden: Persönlichkeit und psychologisches Wohlbefinden: Lebenszufriedenheit; Zufriedenheit mit ausgewählten Lebensbereichen (Schule, Zuhause, Freunde, Freizeit); Selbstvertrauen; Verhaltensprobleme (besorgt, schnell ärgerlich, ängstlich, deprimiert, Gefühl von Wertlosigkeit, handeln ohne nachzudenken); Gesundheit: Selbsteinschätzung des Gesundheitszustands im Vergleich mit Gleichaltrigen; Gesundheitsprobleme (Kopfschmerzen, Magenschmerzen, Einschlafschwierigkeiten); Schlafverhalten während der Schulzeit; Körpergröße; Körpergewicht; gesundheitsorientiertes Verhalten: Häufigkeit von: warmen Mahlzeiten, Alkoholkonsum, Sport, Rauchen, Frühstück und Drogenkonsum; Zukunftserwartungen im Hinblick auf die eigene Gesundheit.
+Demographie und Migrationsbiographie: Geschlecht; Alter (Geburtstag, Geburtsmonat und Geburtsjahr); Lebenssituation und Haushaltszusammensetzung: Zusammenleben mit den biologischen Eltern; Gründe, warum der Befragte nicht mit seinen biologischen Eltern in einem Haushalt lebt; Haushaltsmitglieder; Geschwisterzahl; Haushaltsgröße; Anzahl der Zimmer; ethnische Zusammensetzung der Nachbarschaft; weiterer Wohnsitz; Haushaltsmitglieder des zweiten Wohnsitzes; Geschwisterzahl am zweiten Wohnsitz; Aufenthaltsdauer am zweiten Wohnsitz; sozialer Hintergrund: Bildung der Eltern; Erwerbsstatus der Eltern; Beruf der Eltern (ISCO 2008, ISEI, SIOPS); Migrationsgeschichte: Geburtsland des Befragten, seiner Eltern und Großeltern; Alter bei Zuzug; Nationalität; Migrationshintergrund des Befragten; Besuchshäufigkeit im Herkunftsland; Bleibeabsicht.
+Zusätzlich verkodet wurde: ID-Informationen (Befragter, Klasse, Schule); Schulort; nationale Befragten-ID; Land; Stratum der Schule (Migrantenanteil); Schultyp; Regionale Informationen: Regierungsbezirk bzw.  Bundesländer;  Interviewdatum (Tag, Monat, Jahr); Gewichtungsfaktoren. Generation und ethnische Herkunft: Status innerhalb der Generation; Herkunftsland nach UN-Klassifikation und nationaler Klassifikation; diverse Flaggenvariablen.
+Lehrerbefragung
+Informationen über den Lehrer: Unterrichtsfächer; unterrichtete Klassenstufen; Unterrichtserfahrung:  Jahre der Lehrtätigkeit insgesamt und an dieser Schule; Universität des Universitätsabschlusses; Examensnote; Art der Lehrerlaubnis; Häufigkeit von: mentaler Erschöpfung, Arbeit in den Abendstunden, mentaler Zufriedenheit, Kontakt mit der Polizei bzw. Sozialarbeitern.
+Informationen über die Klasse: Unterrichtsfächer und Unterrichtsstunden in der Klasse; Kontaktzeit mit dieser Klasse insgesamt; Dauer einer Unterrichtsstunde in Minuten; Klassenlehrer bzw. Art der Beziehung zu dieser Klasse; Schüler in der Klasse mit lwo-indikation; Schüler in dieser Klasse folgen dem Bildungsgrad lwoo; Schüler mit Legasthenie bzw. Dyskalkulie im Klassenverband; Klasse folgt dem Schultyp vmbo-mbo2; normale oder spezialisierte Klasse; Zusammensetzung der Klasse: Anzahl Mädchen und Jungen, soziale Herkunft der Schüler (Migrationshintergrund, alleinerziehender Elternteil, bildungsferne Familie, Akademikerfamilie, wirtschaftlich schwacher bzw. vermögender Haushalt, Arbeitslosigkeit eines Elternteils, Sozialhilfeempfänger, Schüler mit freien Schulmahlzeiten); Einschätzung der Kenntnisse der Schüler in den Fächern Mathematik, Landessprache und Englisch; Schüler mit Problemen dem Lehrplan zu folgen; Schüler mit Verständnisproblemen in der Landessprache; Anzahl abwesender Schüler; Gründe für Abwesenheiten: Krankheit, Schwänzen, Suspendierung; Herkunft abwesender Schüler aus Familien mit Migrationshintergrund; soziale Herkunft abwesender Schüler.
+Informationen über die Schule: Schultyp; religiöses Profil der Schule; Schülerzahl; durchschnittliche Klassengröße je Klassenstufe; soziale Herkunft der Schüler Einstufungssystem an der Schule (Setting System); Anzahl der angebotene Kurse für 10. Klassen in Mathematik, Landessprache und Englisch; spezielle Klassen für leistungsstarke oder leistungsschwache Schüler; Vorbereitungsklassen für neu aufgenommene Migranten; Einstellung der Schüler zur Schule (Spaß an der Schule, engagiertes Arbeiten, stolz auf die Schule, Wertschätzung des Lernerfolgs, kooperativ und respektvoll, Wertschätzung der erhaltenen Bildung, hohe Lernbereitschaft); Einstellung der Lehrer zur Schule (hohe Moral, engagiertes Arbeiten, stolz auf die Schule, Wertschätzung des Lernerfolgs, hohe Arbeitszufriedenheit, hohe Erwartungen an den Erfolg der Schüler, hohe Fluktuation); Anzahl der Lehrer an der Schule; Anzahl der Lehrer mit Migrationshintergrund; Anzahl männlicher Lehrer; Probleme in der Schule (Zuspätkommen von Schülern, Abwesenheiten von Schülern, Unterrichtsausfälle; Störungen im Klassenraum, Betrügereien, Obszönitäten, Vandalismus, Diebstahl, Einschüchterung oder Beleidigung von Schülern, Lehrern oder Personal, körperliche Auseinandersetzungen unter Schülern, Körperverletzungen von Lehrern oder Personal, Drogenmissbrauch, Waffen, Rassismus, sexuelle Belästigung, störende Kleiderordnung); Einschränkungen der Lernmöglichkeiten (schlechter Gebäudezustand, fehlende Lehrräume oder Unterrichtsmaterial, fehlende Computer, fehlendes Unterrichtsmaterial in der Bibliothek, fehlende Multi-Media-Ausstattung, unzureichende Laborausstattung, unzureichende Einrichtungen für bildende Kunst, überfüllte Klassenzimmer, keine angemessenen Arbeitsbereiche für Lehrer, Schwierigkeiten bei der Rekrutierung neuer Lehrer); Ausstattung der Schule (Schulbibliothek, Computernutzung außerhalb des Unterrichts, Schulschwester, Schulpsychologe, Schulsozialarbeiter, Studienberater, Sporteinrichtungen innen und außen); Bücherausleihe aus der Schulbibliothek; Lehrer-Eltern-Interaktion: Häufigkeit von: Lehrer-Eltern-Gesprächen, Elternabenden, Informationsschreiben, Berichte über Schüleraufführungen, Lehrerbesuche im Elternhaus, Veranstaltungen für Eltern, Spendensammlung mit Elternbeteiligung; Charakterisierung der elterlichen Unterstützung für den Schülererfolg; Anzahl der Schüler mit starker Unterstützung durch die Eltern; Häufigkeit nicht eingehaltener Gesprächstermine durch Eltern; Einbindung der Eltern in Schulangelegenheiten: Anteil der Schüler, deren Eltern sich regelmäßig freiwillig für die Schule engagieren, die Elternabende besuchen, die kulturelle oder soziale Schulveranstaltungen besuchen bzw. Spendensammlungen durchführen; Charakterisierung der Nachbarschaft der Schule: Einschätzung der Nachbarschaft als sicher, geschätzter Anteil von Einheimischen und Arbeitslosen in der Nachbarschaft.  Demografie: Geschlecht; Alter (Geburtsjahr); Migrationshintergrund; Bildungshintergrund der Eltern: Universitätsabschluss eines Elternteils. 
+Zusätzlich verkodet wurde: ID-Informationen (Klasse, Schule);  Schulort; Erhebungsland;  Stratum der Schule (Migrantenanteil); Schultyp; regionale Informationen: Regierungsbezirk bzw. Bundesländer; Teilnahmestatus; Interviewdatum (Tag, Monat, Jahr). 
+Elternbefragung
+Strukturelle Integration: Einstellung zur Schule: Präferierte und realistische Bildungsaspiration für das eigene Kind; Zufriedenheit mit der Schule (Vertrauen auf gute Ausbildung, Ansprechpartner bei Problemen, Vertrauen in die Lehrer, Wunsch nach einem Schulwechsel, um die Zukunft des Kindes bemüht, nicht erfüllte Erwartung an die Schule); wirtschaftliche Situation: Kind erhält Taschengeld; Höhe des wöchentlich bzw. monatlich gezahlten Taschengeldes.
+Soziale Integration: Freundschaften (Strong Ties): Ethnischer Hintergrund der Freunde; interethnischer Kontakt (Weak Ties): interethnischer Kontakt am Arbeitsplatz, in der Nachbarschaft und in Vereinen; Familienbeziehungen: Kontakthäufigkeit des Befragten und des Partners mit dem Kind; elterliche Unterstützung (Interesse am schulischen Fortschritt des Kindes, Stolz auf die Leistungen des Kindes, Unterstützen der Anstrengungsbereitschaft des Kindes).
+Kulturelle Integration: Sprache: Selbsteinschätzung der Sprachkenntnisse in der Landessprache (sprechen, verstehen, lesen, schreiben); weitere zu Hause gesprochene Sprache; Selbsteinschätzung der Sprachkennnisse der zu Hause gesprochenen Sprache (sprechen, verstehen, lesen, schreiben); Anwendungshäufigkeit dieser zweiten Sprache mit dem Kind; Identität: Stärke der Identität als Bewohner des Landes (nationale Identität); ethnische Identität und Stärke dieser Identität; Wichtigkeit, Sitten und Gebräuche dieser ethnischen Gruppe beizubehalten; Einstellung zu Integration bzw. kulturellen Anpassungsstrategien; ethnischer Hintergrund nach Census; Religion: Religionszugehörigkeit; Wichtigkeit von Religion; religiöse Praktiken (Häufigkeit des Besuchs religiöser Versammlungsorte, Gebetshäufigkeit); Freizeitaktivitäten: Vereinsmitgliedschaft; Anzahl Bücher im Haushalt; Einstellungen und Normen (Geschlechterrollen, Maskulinitätsnormen, Toleranz im Hinblick auf wilde Ehe, Scheidung, Abtreibung und Homosexualität); wünschenswerte Eigenschaften eines Kindes im Alter von 12-15 Jahren (Verantwortungsbewusstsein, Anstrengungsbereitschaft, kontrolliert, Interesse, gute Manieren, gefühlvoll und gesundes Urteilsvermögen, Rücksichtnahme, geschlechtsspezifisches Verhalten, Respekt gegenüber Älteren, Gehorsam).
+Demographie und Migrationsbiographie: Geschlecht; Alter (Geburtstag, Geburtsmonat und Geburtsjahr); Beziehung zum befragten Kind; Familienstand; Zusammenleben mit einem Partner; Lebenssituation und Haushaltszusammensetzung: Eigentümerstatus; Anzahl der Zimmer; Anzahl der Wohnungen im Gebäude; Probleme in der Nachbarschaft; Haushaltszusammensetzung; Anzahl Geschwister im Haushalt; Zweitwohnsitz des Kindes und Aufenthaltsdauer am zweiten Wohnsitz; sozialer Hintergrund: Urbanisierungsgrad des Wohnortes in der Kindheit; höchster Bildungsabschluss; Land des Bildungsabschlusses; Alter bei Beendigung der Ausbildung; abgeschlossene Berufsausbildung; Erwerbsstatus; Art der Tätigkeit; Selbstständigkeit; Kind arbeitet im elterlichen Betrieb; derzeitiger bzw. früherer Beruf (ISCO 2008, ISEI, SIOPS); Vorgesetztenfunktion; Anzahl der Mitarbeiter, für die Weisungsbefugnis besteht; Haushaltsnettoeinkommen; Möglichkeit schneller Geldbeschaffung im Notfall und Beschaffungsart; Migrationsgeschichte: Geburtsland des Befragten und seiner Eltern; Jahr der Migration; Nationalität; Besuchshäufigkeit im Herkunftsland; Bleibeabsicht.
+Angaben zum Partner: Beziehung zum Kind; Partner ist biologischer Elternteil; Alter (Geburtstag, Geburtsmonat und Geburtsjahr); Geburtsland; Jahr der Migration; Urbanisierungsgrad des Wohnortes in der Kindheit;  Nationalität; weitere Staatsangehörigkeiten; Herkunftsland der Eltern; höchster Bildungsabschluss; Land des Bildungsabschlusses; Alter bei Beendigung der Ausbildung; abgeschlossene Berufsausbildung; Erwerbsstatus; Art der Tätigkeit; derzeitiger bzw. früherer Beruf (ISCO 2008, ISEI, SIOPS); Vorgesetztenfunktion. 
+Zusätzlich verkodet wurde: ID-Informationen (befragter Schüler, Klasse, Schule); Schulort (NL); Erhebungsland;  Stratum der Schule (Migrantenanteil); Schultyp; regionale Informationen: Regierungsbezirk bzw. Bundesländer ;  Erhebungsmethode; Erhebung parallel zu Welle 1 oder zu Welle 2; Interviewdatum (Tag, Monat, Jahr); Interviewsprache;  Versionsnummer; Beantwortung der Partnerfragen unter Einbeziehung des Partners. 
+Welle 2
+Schülerbefragung
+Kognitiv-kulturelle Integration: Sprache: Selbsteinschätzung der Sprachkenntnisse in der Landessprache (sprechen, schreiben);  weitere zu Hause gesprochene Sprache; Selbsteinschätzung der Sprachkennnisse der zu Hause gesprochenen Sprache (sprechen, schreiben); Häufigkeit des Sprachgebrauchs der zweiten Sprache zu Hause in Bezug auf Gespräche mit der Familie und Freunden sowie Fernsehen; Freizeitverhalten: Häufigkeit ausgewählter Freizeitaktivitäten (z.B. Verwandtenbesuch, Kino, Ausgehen, Lesen, Museumsbesuch, Freunde treffen, Musikhören).
+Strukturelle Integration: Schulleistungen (Selbsteinschätzung der Schulleistungen (Mathematik, Landessprache und Englisch); Einstufungssystem an der Schule (Setting-System); länderspezifisches Einstufungssystem; länderspezifische Leistungsgruppenzugehörigkeit in den Fächern Mathematik, Landessprache und Englisch;  Bildungsniveau; derzeit eingeschlagener Bereich bzw. Profil (NL);  Noten; Nachhilfe außerhalb der regulären Schulstunden; Wiederholung eines Schuljahres; Einstellungen gegenüber der Schule: Lieblingsfächer; präferierte und realistische Bildungsaspiration (länderspezifisch); erwarteter Abschluss bzw. Hochschulabschluss; Bildungsaspiration der Eltern (länderspezifisch); Selbstwirksamkeit; negative Schulnormen; Anstrengungsbereitschaft in der Schule; Wert von Bildung (Relation von Bildung und Job); Erfordernis eines Hochschulabschlusses wegen erwarteter Diskriminierung; Bereitschaft zu finanziellen Einschränkungen für Bildung; Meinung zu den Kosten für Bildung; Pläne für die Zukunft: Gedanken über zukünftige Bildung; Wichtigkeit des Nachdenkens über zukünftige Bildung; Informationsquellen über zukünftige Bildung; geplanter Abschluss zum Ende des Schuljahres; konkrete Pläne nach Schuljahresende; Bewerbungen bezüglich Job, Ausbildung bzw. Praktikum; geplante Kurse und Fächer falls weitere Ausbildung; Berufsaspiration (ISCO 2008, ISEI, SIOPS); Wichtigkeit ausgewählter Aspekte im zukünftigen Beruf; wirtschaftliche Situation: zeitliche Präferenz in Bezug auf den sofortigen Erhalt eines Geldbetrages bzw. des doppelten Geldbetrages in einem Jahr; Nebenjob; Art des Nebenjobs (ISCO 2008, ISEI, SIOPS);  Wochenarbeitszeit; Nebenjob im elterlichen Betrieb; Nettoverdienst pro Monat; Taschengeld;  Höhe des Taschengeldes  pro Woche bzw. pro Monat; Häufigkeit der Nicht-Teilnahme an Aktivitäten wegen Geldmangels; Möglichkeit zur schnellen Geldbeschaffung; deviantes Verhalten und Delinquenz: Häufigkeit devianten Verhaltens in der Schule (Auseinandersetzungen mit Lehrern, erfahrene Bestrafung, unerlaubtes Fernbleiben vom Unterricht, Zuspätkommen); Häufigkeit delinquenten Verhaltens in den letzten drei Monaten (mutwilliges Zerstören, Stehlen, Tragen von Messer oder Waffe, Trunkenheit); derzeitige Situation: Besuch derselben Schule wie im Vorjahr; Klassenstufe (länderspezifisch); Gründe für Nicht-Teilnahme an der  Schülerbefragung; Bildungsabschluss erreicht während des letzten Schuljahres; Gründe für Schulwechsel; Schultyp (länderspezifisch); besuchter Zweig bei Gesamtschule; Schulabgänger wurden gefragt: Bildungsabschluss erreicht (von anderer Schule); Gründe für den Schulabgang ohne Abschluss; derzeitige Tätigkeit; Auszubildende wurden gefragt: Ausbildungsberuf (ISCO 2008, ISEI, SIOPS); gesamte Ausbildungsdauer; erwarteter erfolgreicher Ausbildungsabschluss; mit der Ausbildung wird eine zusätzlicher Bildungsgrad erreicht; Art dieses Bildungsgrades; Ausbildungsvergütung; wichtigster Grund für Berufsvorbereitungsjahr; mit dem Berufsvorbereitungsjahr angestrebter Beruf (ISCO 2008, ISEI, SIOPS) bzw. Bildungsgrad; Anzahl Bewerbungen; Vollzeit-Arbeitende wurden gefragt: aktive Suche nach einem Ausbildungsplatz nach Schulabgang; gewünschter Ausbildungsberuf (ISCO 2008, ISEI, SIOPS); Anzahl Bewerbungen; derzeitige Tätigkeit (ISCO 2008, ISEI, SIOPS); Nettoverdienst; Wochenarbeitszeit; Arbeitsvertrag; Art des Arbeitsvertrages; befristeter oder Zeitvertrag bietet langfristige Perspektive; Art der Jobsuche; ethnischer Hintergrund von Freunden oder Bekannten, die bei der Jobsuche behilflich waren; Monat und Jahr des Arbeitsbeginns im derzeitigen Job; derzeitiger Job ist erster Job nach Schulabgang; Anzahl der Jobs nach Schulabgang; Befragte, die derzeit nicht im ersten Job arbeiten: erster Job (ISCO 2008, ISEI, SIOPS); Praktikanten bzw. Personen, die keiner oder einer anderen Tätigkeit nachgehen, wurden gefragt: Suche nach einem Ausbildungsplatz; gewünschter Ausbildungsberuf (ISCO 2008, ISEI, SIOPS); Anzahl Bewerbungen.
+Soziale Integration: Freundschaften: Strong Ties (Ethnischer  Hintergrund der Freunde);  interethnischer Kontakt (Weak Ties): Kontakthäufigkeit Personen ausgewählter ethnischer Herkunft; Diskriminierung: Sympathie-Skalometer für  ausgewählte Herkunftsgruppen; romantische Beziehungen: Freund oder Freundin; Freund oder Freundin besucht dieselbe Schule (falls Klassenkamerad: ID des Freundes bzw. der Freundin); Bildung und ethnischer Hintergrund des Partners (länderspezifisch); Beziehungsdauer; familiäre Beziehungen: Kontakthäufigkeit zu Mutter und Vater; Kommunikationshäufigkeit mit den Eltern allgemein sowie über politische und soziale Themen, Bücher, Filme oder TV-Programme.
+Kulturelle Integration: Identität: Stärke der Identität bezüglich des Aufnahmelandes (nationale Identität); Gefühl der Zugehörigkeit zu einer anderen Gruppe; Stärke der ethnischen Identität; Wichtigkeit ethnischer Identität; Besuch von speziellen ethnischen Klassen oder Organisationen; ethnische Identität nach Census; Einstellungen zu Integration bzw.  Strategien des kulturellen Anpassungsprozesses; Religion: Religionszugehörigkeit; Wichtigkeit von Religion; religiöse Praktiken (Häufigkeit des außerschulischen Besuchs religiöser Klassen, des Besuchs religiöser Versammlungsorte, Gebetshäufigkeit); Einstellungen und Normen: Geschlechterrollen; kulturelles Interesse in Bezug auf die Politik und Geschichte des eigenen Herkunftslandes sowie des Herkunftslandes der Eltern; Selbsteinschätzung des Wissens über Politik und Geschichte des eigenen  Herkunftslandes sowie des Herkunftslandes der Eltern; Lieblingssänger oder Lieblingsbands, Schauspieler oder Schauspielerin und deren jeweilige Herkunftsländer; Interesse an Fußballspielen; Lieblingsfußballvereine und deren Herkunftsländer; Lieblingssportart; Lieblingssportler und deren Herkunftsländer; Lieblingsfernsehshows; Lieblingsbücher (Titel und Autor).Gesundheit und Wohlbefinden: Persönlichkeit und psychologisches Wohlbefinden: Lebenszufriedenheit allgemein sowie in Bezug auf die Schule und die derzeitige Lebenssituation; Verhaltensprobleme (besorgt, schnell ärgerlich, ängstlich, deprimiert, Gefühl von Wertlosigkeit, handeln ohne nachzudenken); Selbstkontrolle (Konzentrationsschwierigkeiten, Einflussmöglichkeit auf die eigene Zukunft, Umsetzen eigener Pläne); Gesundheit: gesundheitsorientiertes Verhalten: Häufigkeit von warmen Mahlzeiten, Alkoholkonsum, Sport, Rauchen, Frühstück und Drogenkonsum; Selbsteinschätzung des Gesundheitszustands im Vergleich mit Gleichaltrigen; Gesundheitsprobleme (Kopfschmerzen, Magenschmerzen, Einschlafschwierigkeiten, Schwindel, Nacken- und Schulterschmerzen); Schlafverhalten während der Schulzeit; Zubettgehzeit und Aufwachzeit während der Schulzeit. 
+Demographie und Migrationsbiographie: Geschlecht; Alter (Geburtstag, Geburtsmonat und Geburtsjahr); Lebenssituation und Haushaltszusammensetzung: Zusammenleben mit den biologischen Eltern; Gründe, warum der Befragte nicht mit seinen biologischen Eltern in einem Haushalt lebt; Wohnstatus; sozialer Hintergrund: Bildung der Eltern; Erwerbsstatus der Eltern; Mutter und Vater leben noch; freie Schulmahlzeit; Migrationsgeschichte: Geburtsland des Befragten, seiner Eltern und Großeltern; Geburtsland des Vaters identisch mit dem der Mutter; Alter bei Zuzug; Migrationshintergrund des Befragten; Besuchshäufigkeit im Herkunftsland und Herkunftsland der Mutter und des Vaters.
+Zusätzlich verkodet wurde: ID-Informationen (Befragter, Klasse, Schule); nationale Befragten-ID; Land; Interviewdatum; Erhebungsmethode; Kontext der Befragung (In-school survey, out-school survey); Version; Data release version.Generation und ethnische Herkunft: Status innerhalb der Generation; Herkunftsland nach UN-Klassifikation und nationaler Klassifikation; diverse Flaggenvariablen.
+Newcomer-Befragung
+Demographie und Migrationsbiographie: Geschlecht; Alter (Geburtstag, Geburtsmonat und Geburtsjahr); sozialer Hintergrund: Beruf der Eltern (ISCO 2008, ISEI, SIOPS); Lebenssituation und Haushaltszusammensetzung: Haushaltsmitglieder; Geschwisterzahl; Haushaltsgröße; weiterer Wohnsitz; Haushaltsmitglieder des zweiten Wohnsitzes; Geschwisterzahl am zweiten Wohnsitz; Aufenthaltsdauer am zweiten Wohnsitz; Internetzugang zu Hause; eigenes Zimmer; Besitztümer (Smartphone, TV und Spielekonsole); Anzahl der Zimmer im Haushalt; soziale Integration: Interethnische Kontakte (Weak Ties); kulturelle Integration: Anzahl der Bücher im Haushalt. 
+Zusätzlich verkodet wurde: Befragten-ID; nationale Befragten-ID; Erhebungseinheit, Klassenstufe und Schulstufe Welle 2; Land; Data release version.
+Welle 3
+Schülerbefragung
+Kognitiv-kulturelle Integration: Sprache:  Selbsteinschätzung der Sprachkenntnisse in der Landessprache (sprechen und schreiben); weitere zu Hause gesprochene Sprache; Selbsteinschätzung der Sprachkennnisse der zu Hause gesprochenen Sprache (sprechen und schreiben); Häufigkeit des Sprachgebrauchs der zweiten Sprache zu Hause in Bezug auf Gespräche in der Familie und mit Freunden sowie Fernsehen. 
+Strukturelle Integration: Einstellungen zur Schule: angestrebte und realistische Bildungsaspiration (länderspezifisch); Berufswunsch (ISEI und SIOPS); Einstufungssystem an der Schule (Setting-System); länderspezifische Leistungsgruppenzugehörigkeit in den Fächern Mathematik, Landessprache und Englisch; Leistungsniveau der Lerngruppe in den jeweiligen Fächern; Zeugnisnoten in Mathematik, Landessprache und Englisch; Pläne nach Ende des Schuljahres.Gefühle und Überzeugungen: Generelles Personenvertrauen; Stärkegefühl.
+Kulturelle Integration: Nationale Identität; Zugehörigkeitsgefühl zu einer anderen Gruppe und Stärke dieses Zugehörigkeitsgefühls (ethnische Identität); persönliche Bedeutung von Gewohnheiten und Traditionen dieser Gruppe; Religion: Religionszugehörigkeit; Wichtigkeit von Religion; religiöse Praktiken (Häufigkeit des Besuchs religiöser Versammlungsorte, Gebetshäufigkeit); Einstellungen zu Integration bzw. Strategien des kulturellen Anpassungsprozesses; Einstellung zu ausgewählten Aspekten von Religionsausübung.Freizeitverhalten: Häufigkeit ausgewählter Freizeitaktivitäten (Verwandtenbesuch, Ausgehen, Lesen, Sportverein, Musikverein, ehrenamtliches Engagement); Nebenjob; Wochenarbeitszeit des Nebenjobs; Nebenjob im Betrieb der Eltern; Monatseinkommen; Häufigkeit von Taschengeld und Höhe des Taschengeldes; Liquidität bzw. schnelle Verfügbarkeit einer bestimmten Geldsumme; politisches Interesse; politisches Verhalten im letzten Jahr (Diskussionen im Internet über politische und soziale Themen, Teilnahme an einem Treffen einer politischen Partei, Tragen von Abzeichen oder Symbolen). Gesundheit, Einstellungen und Ansichten: Zukunftserwartungen im Alter von 30 Jahren: Arbeitsstelle, Universitätsabschluss, Wohnsitz im Erhebungsland; Lebenszufriedenheit (Skalometer); Verhaltensprobleme (besorgt, schnell ärgerlich, ängstlich, deprimiert, Gefühl von Wertlosigkeit, handeln ohne nachzudenken, Konzentrationsschwierigkeiten); Gesundheitsprobleme (Kopfschmerzen, Magenschmerzen, Einschlafschwierigkeiten, Schwindel, Nacken- und Schulterschmerzen); Gesundheitsorientiertes Verhalten: Häufigkeit von warmen Mahlzeiten, Alkoholkonsum, Sport, Rauchen, Frühstück und Drogenkonsum; Häufigkeit persönlich erfahrener Diskriminierung in der Schule, in öffentlichen Verkehrsmitteln, Geschäften, Cafés, Restaurants oder Nachtclubs, durch Polizei oder Sicherheitspersonal; Häufigkeit persönlich erfahrener Diskriminierung im letzten Jahr aufgrund Hautfarbe, Rasse, ethnischer Herkunft oder Religion in den vorgenannten Fällen; Einstellungen und Normen (Toleranz im Hinblick auf wilde Ehe, Scheidung, Abtreibung und Homosexualität); Einstellung gegenüber ausgewählten Herkunftsgruppen (100-stufiges Skalometer).Delinquenz: Häufigkeit delinquenten Verhaltens in den letzten drei Monaten (mutwilliges Zerstören, Stehlen, Tragen von Messer oder Waffe, Trunkenheit).
+Soziale Integration:Familie: Migrationsgeschichte: Geburtsland der biologischen Eltern; jeweils für Vater und Mutter wurde erfragt: Geburt im Ausland, Angaben zu  Bildungsabschlüssen, Erwerbsstatus sowie derzeitiger bzw. letzter Beruf (ISCO 2008, ISEI, SIOPS);  Besuchshäufigkeit im Herkunftsland von Mutter und Vater und Besuch im letzten Jahr; Interesse an der Politik des Herkunftslandes von Mutter und Vater; Haushaltssituation und Haushaltszusammensetzung (Haushaltsmitglieder); Anzahl der Brüder und Schwestern; weiterer Wohnsitz; Haushaltsmitglieder des zweiten Wohnsitzes; Geschwisterzahl am zweiten Wohnsitz; Haushaltsgröße des zweiten Wohnsitzes; Aufenthaltsdauer am zweiten Wohnsitz; elterliche Einmischung (Forderung nach umfassender Information über Aktivitäten und Aufenthaltsort des Kindes, Kennenlernen der Eltern von Freunden); Geburt der Großeltern im Erhebungsland. 
+Freundschaften: Strong Ties (Ethnischer Hintergrund der Freunde); fester Freund bzw. feste Freundin; Bildungshintergrund und ethnischer Hintergrund des festen Freundes bzw. der festen Freundin (länderspezifisch); interethnischer Kontakt (Weak Ties) mit Menschen ausgewählter ethnischer Herkunft.
+Derzeitige Situation: Schulabschluss während des letzten Schuljahres (länderspezifisch); länderspezifische Fragen zu Abschlussnoten und derzeitiger Tätigkeit.
+Schule: Besuch derselben Schule wie im letzten Jahr; länderspezifische Fragen zum derzeit besuchten Schultyp, zu angestrebten Qualifikationen bzw. zum derzeit eingeschlagenen Bereich (Profil); Schuljahr; Häufigkeit devianten Verhaltens in der Schule (Auseinandersetzungen mit Lehrern, erfahrene Bestrafung, unerlaubtes Fernbleiben vom Unterricht, Zuspätkommen); Selbstwirksamkeit; Einstellung zur Schule: Wichtigkeit guter Schulnoten; Ausbildungsberuf (ISCO 2008, ISEI, SIOPS); länderspezifische Angaben zu: Ausbildungsniveau oder Ausbildungstyp, Ausbildungsdauer, Sektor, duale oder Vollzeit-Ausbildung, Erreichen eines zusätzlichen Bildungsabschlusses durch die Ausbildung, Art dieses Bildungsabschlusses, Höhe der Ausbildungsvergütung pro Monat.
+Beruf: Berufsbezeichnung  (ISCO 2008, ISEI, SIOPS); Höhe des Nettoeinkommens pro Monat; Art des Arbeitsvertrags; Arbeitsbeginn in diesem Beruf (Monat und Jahr); Job ist erste Arbeitsstelle seit Verlassen der Schule; Berufsbezeichnung der ersten Arbeitsstelle (ISCO 2008, ISEI, SIOPS); Praktikanten bzw. Personen, die keiner oder einer anderen Tätigkeit nachgehen, wurden gefragt: aktive Suche nach einem Ausbildungsplatz oder einer Arbeitsstelle seit Verlassen der Schule; gewünschter Ausbildungsberuf (ISCO 2008, ISEI, SIOPS).
+Namensgenerator für bis zu fünf beste Freunde bzw. Freundinnen: Alter (Geburtstag, Geburtsmonat und Geburtsjahr); Geschlecht; ethnischer Hintergrund (länderspezifische Herkunft); derzeit bzw. früher besuchter Schultyp (länderspezifisch).
+Zusätzlich verkodet wurde: Befragten-ID; nationale Befragten-ID; Land; Erhebungsmethode; Version; Interviewdatum; Data release version. Nur in NL wurden zusätzliche Informationen zu den Klassenkameraden erfragt: beste Freunde innerhalb der Klasse; beliebteste Schüler in der Klasse; Klassenkameraden, mit denen außerhalb des Schulkontextes häufig Zeit verbracht wird; Personen mit zeitweiser Bedeutung für den Befragten; Zusammensetzung der Klasse identisch mit der letzten; Strategie für die Zusammensetzung der Klasse (Teilnahme aller Klassen oder zeitweise Zusammenlegung alter Klassen).
+Demographie: Geschlecht; Alter (Geburtstag, Geburtsmonat und Geburtsjahr); Staatsangehörigkeit.Generation und ethnische Herkunft: Status innerhalb der Generation; Herkunftsland nach UN-Klassifikation und nationaler Klassifikation; diverse Flaggenvariablen.
+Zusätzlich verkodet wurde: ID-Informationen (Befragter, Klasse, Schule); nationale Befragten-ID; Land; Interviewdatum; Erhebungsmethode; Kontext der Befragung (In-school survey, out-school survey); Version; Data release version; Teilnahmestatus Welle 1, 2 und 3; Schule identisch mit Welle 1.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The study is a panel survey of adolescents designed to study the complex causal mechanism of structural, social, and cultural integration of adolescents with migration background. The data of three waves are currently available. The data set of the first wave includes surveys of students, parents, and teachers. It enables studying processes of intergenerational transmission and integration. The survey covers topics of (1) cognitive-cultural integration), (2) structural integration, (3) social integration, (4) emotional-cultural integration, and (5) health and wellbeing. In addition there is (6) detailed information about migration experience and demographics. 
+Furthermore, the cognitive-cultural integration on the basis of (1) language proficiency tests (measuring linguistic skills) and (2) a cognitive skills test (measurement of intelligence) was measured.
+In addition, two aspects of social integration were measured: (1) social integration outside the class context by means of egocentric networks and (2) social integration within the class context by means of a sociometric questionnaire.
+The data set of the second wave includes re-interviews with students from the first wave.  In addition, in the Netherlands students were interviewed who were not part of the first sample (newcomers). These students were integrated in the school classes between the survey waves. The main questionnaire and the social integration within the class context (sociometric questionnaire) were measured repeatedly.
+The data set of the third wave includes re-interviews with students from the first wave or the second wave. Additionally, 10 students are included who were part of the class list of the first wave, and therefore form part of the first wave’s target population, but were absent  at the days of the school surveys in wave 1 and wave 2. 
+The main questionnaire was measured repeatedly.
+In addition, two aspects of social integration were measured: (1) social integration outside the class context by means of egocentric networks and (2) social integration within the class context by means of a sociometric questionnaire (only in NL).
+The survey instrument includes country-specific variations. The questionnaire also varies between various modules. For more information, see the study documentation.
+Cognitive-cultural integration: language (objective measures of proficiency in the host country’s language, self-assessed knowledge of L1, self-assessed knowledge of L2, language use, language spoken at home); measurement of cognitive skills; leisure time activities (memberships, leisure time activities); number of books at home. 
+Structural Integration: school performance (self-assessment, grades, setting system, school type, repeating classes, private lessons); attitudes towards school (favourite subjects, educational aspirations, self-efficacy, anti-school norms, efforts in school, value of education, status maintenance motive, teacher support, satisfaction with school, success probabilities, perceived association between educational and occupational success, expected discrimination, financial restrictions, educational costs); economic situation (side job, pocket money, possessions, expected development of own economic situation); deviant behaviour and delinquency (school-related problem behaviour, delinquent behaviour).
+Social Integration: sociometric information within classrooms; strong ties (ethnic background of friends); contact person in case of problems; person one is having trouble with; weak ties (in school, neighbourhood, clubs/associations); discrimination (victimisation in school, perceived discrimination); attitudes towards other ethnic groups; romantic relationships (characteristics of partner and relationship, expectations about the future of the relationship), family relations (parental support, parent-child contact, family cohesion, parental expectations, family conflict, embeddedness/influence of parents).
+Emotional-cultural Integration: identity (with respect to host, respectively sending country, importance of ethnic identity); attitudes towards integration; religion (religious affiliation, importance of religion, religious practices); attitudes and norms (gender roles, violence legitimizing norms of masculinity, tolerance). 
+Health and well-being: personality and psychological well-being (life satisfaction, self-esteem, behavioural problems, self-control); health (general health status, health problems, sleeping behaviour, weight, height, health related behaviour, future expectations about health).
+Demography and migration history: gender; age; living situation and household composition (household members, household situation, neighbourhood); social background (parents´ education, parents´ employment status, parents´ occupation), migration history (child´s, parents´, and grandparents´ country of birth, age of migration, home-country visits, return migration).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-ENG</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alle Schülerinnen und Schüler, die in den einzelnen Ländern eine Jahrgangsstufe besuchen, die hauptsächlich von 14-Jährigen besucht wird. Deutschland: Jahrgangsstufe 9; England: Jahrgangsstufe 10; Niederlande: 3. Jahrgangsstufe der Sekundarschule; Schweden: Jahrgangsstufe 8.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>All students attending a grade level in which mainly 14-year olds are enrolled. England: grade level 10; Germany: grade level 9; the Netherlands: grade level 3 in secondary schools; Sweden: grade level 8.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Zweistufige disproportional geschichtete Klumpenauswahl (Erste Stufe: disproportional geschichtete Zufallsauswahl von Schulen; zweite Stufe: Zufallsauswahl von Klassen in den Schulen. Innerhalb der Klassen wurden alle Schüler befragt).</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Two-stage disproportionate stratified cluster sample (First step: disproportionate random sample of schools; second step: random sample of classes within schools. All students within classes were included in the datacollection).
+
+More detailed information on the sampling procedure and sample design can be found in the Technical Report of the first wave.
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2010-11</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2011-03</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany, wave 1
+(parent survey: 11.2010-05.2011)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland, Welle 1
+(Elternbefragung: 11.2010-05.2011)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2010-11</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2011-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>England, wave 1</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>England, Welle 1</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2010-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2011-04</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>The Netherlands, wave 1</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande, Welle 1</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2010-12</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2011-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Sweden, wave 1
+(parent survey: 04.2011-09.2011; 03.2012-10.2012 together with the student survey of wave 2) </freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweden, Welle 1
+(Elternbefragung: 04.2011-09.2011; 03.2012-10.2012 zusammen mit Schülerbefragung Welle 2)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2011-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2011-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany, wave 2</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland, Welle 2</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2011-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2012-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>England, wave 2</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>England, Welle 2</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2011-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2012-04</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>The Netherlands, wave 2</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande, Welle 2</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2012-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2012-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Sweden, wave 2</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweden, Welle 2</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2012-11</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2013-09</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany, wave 3</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland, Welle 3</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2013-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2013-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>England, wave 3</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>England, Welle 3</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2012-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2013-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>The Netherlands, wave 3</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande, Welle 3</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2013-04</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2013-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Sweden, wave 3</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweden, Welle 3</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Panel</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Frank</firstName>
+				<middleName/>
+				<lastName>Kalter</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Anthony F.</firstName>
+				<middleName/>
+				<lastName>Heath</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Oxford</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Miles</firstName>
+				<middleName/>
+				<lastName>Hewstone</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Oxford</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jan O.</firstName>
+				<middleName/>
+				<lastName>Jonsson</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Stockholm</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Matthijs</firstName>
+				<middleName/>
+				<lastName>Kalmijn</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Amsterdam</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Irena</firstName>
+				<middleName/>
+				<lastName>Kogan</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Frank van</firstName>
+				<middleName/>
+				<lastName>Tubergen</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Utrecht</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Clemens</firstName>
+				<middleName/>
+				<lastName>Kroneberg</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität zu Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Linus</firstName>
+				<middleName/>
+				<lastName>Andersson Rydell</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Stockholm</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Sara</firstName>
+				<middleName/>
+				<lastName>Brolin Låftman</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Stockholm</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jörg</firstName>
+				<middleName/>
+				<lastName>Dollmann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Per</firstName>
+				<middleName/>
+				<lastName>Engzell</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Stockholm</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Sara</firstName>
+				<middleName/>
+				<lastName>Geven</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Utrecht</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Horr</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Lou</firstName>
+				<middleName/>
+				<lastName>Huuva</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Stockholm</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Konstanze</firstName>
+				<middleName/>
+				<lastName>Jacob</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Eva</firstName>
+				<middleName/>
+				<lastName>Jaspers</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Utrecht</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hanno</firstName>
+				<middleName/>
+				<lastName>Kruse</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Meenakshi</firstName>
+				<middleName/>
+				<lastName>Parameshwaran</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Manchester</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Frida</firstName>
+				<middleName/>
+				<lastName>Rudolphi</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Stockholm</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Zerrin</firstName>
+				<middleName/>
+				<lastName>Salikutluk</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Sanne</firstName>
+				<middleName/>
+				<lastName>Smith</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Utrecht</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Pascale van</firstName>
+				<middleName/>
+				<lastName>Zantvliet</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Tilburg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Germany: IEA Data Processing and Research Center, Hamburg (student, parent and teacher surveys) und University of Mannheim (parent survey (telephone/postal)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Mannheim Centre for European Social Research (MZES) at the University of Mannheim (wave 3, student survey)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>England: National Centre for Social Research (NatCen), London</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>The Netherlands: University of Utrecht, University of Tilburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Sweden: Statistiska centralbyrån (Statistics Sweden), Stockholm</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>Distributor</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>HostingInstitution</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.Paper</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.Telephone</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.WebBased</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.ComputerAssisted</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Welle 1:
+Schülerbefragungen: 
+Standardisierter Selbstausfüller - Papier (SAQ)
+
+Lehrerbefragung:
+Standardisierter Selbstausfüller - Papier (SAQ)
+
+Elternbefragungen: 
+Standardisierter Selbstausfüller - Papier (SAQ) &amp; Telefonische Befragung
+
+Welle 2: 
+Schülerbefragung
+• Selbstausfüller: Papier
+• Selbstausfüller: CAWI (Computerunterstütztes Web-Interview)
+• Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)
+
+Welle 3:
+Schülerbefragung 
+• Selbstausfüller: Papier 
+• Selbstausfüller: CAWI (Computerunterstütztes Web-Interview) 
+• Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)
+• Schulsurvey NL: Selbstausfüller: CASI (Computerunterstützte Selbstbefragung)
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Student survey: 
+Fixed form self-administered questionnaire: Paper (SAQ) 
+
+Teacher survey:
+Fixed form self-administered questionnaire: Paper (SAQ) 
+
+Parent Survey:
+Fixed form self-administered questionnaire: Paper (SAQ) &amp; Telephone interview (follow up)
+
+Wave 2:
+Student survey:
+• Self-administered questionnaire: Paper
+• Self-administered questionnaire: CAWI (Computer Assisted Web-Interviewing)
+• Telephone Interview: CATI (Computer Assisted Telephone Interview)
+
+Wave 3:
+Student survey:
+• Self-administered questionnaire: Paper
+• Self-administered questionnaire: CAWI (Computer Assisted Web-Interviewing)
+• Telephone Interview: CATI (Computer Assisted Telephone Interview)
+• School Survey NL: Self-administered questionnaire: CASI (Computer-Assisted Self-Interview)
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>In Deutschland nahm Bayern nicht an der Erhebung teil. </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The German Federal State of Bavaria did not take part in the survey.
+The study is part of the NORFACE-Programme on migration (http://www.norface-migration.org/)</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/cils4eu.5353.3.2.0</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/cils4eu.5353.3.1.0</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/cils4eu.5353.2.1.0</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/cils4eu.5353.1.1.0</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/cils4eu.5353.1.0.0</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+</resource>

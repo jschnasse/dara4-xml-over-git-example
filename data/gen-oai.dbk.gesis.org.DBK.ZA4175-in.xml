@@ -1,0 +1,197 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Personality-Based Attitudes towards Political Parties, 
+German Federation Study 2000'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Persönlichkeitsbedingte Einstellungen zu Parteien, Bundesstudie 2000
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4175</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Persönlichkeitsbedingte Einstellungen zu Parteien, Bundesstudie 2000
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Personality-Based Attitudes towards Political Parties, 
+German Federation Study 2000</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Siegfried</firstName>
+				<middleName/>
+				<lastName>Schumann</lastName>
+				<affiliation>
+					<affiliationName>Institut für Politikwissenschaft, Johannes-Gutenberg-Universität,
+Mainz</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<institution>
+				<institutionName>Fritz Thyssen Stiftung, Köln</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4175?doi=10.4232/1.4175</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4175</doiProposal>
+	<publicationDate>
+		<year>2003</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4175</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>PSYCHOLOGIE</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>PSYCHOLOGY</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Parteineigung und Persönlichkeitsbeschreibung.
+Themen: Beurteilung der wirtschaftlichen Lage der BRD sowie der eigenenwirtschaftlichen Lage; Sympathie-Skalometer für die Parteien SPD, CDU,CSU, FDP, Bündnis90/Grüne, PDS, Republikaner und DVU sowie für diePolitiker Gerhard Schröder, Joschka Fischer, Wolfgang Schäuble, GuidoWesterwelle, Edmund Stoiber, Jürgen Trittin, Gregor Gysi, FranzSchönhuber und Gerhard Frey; Sympathie-Skalometer für dieGewerkschaften, die katholische und die evangelische Kirche; Einstellungzu konservativen und innovativen Vorgehensweisen (ASCO-Skala);Wählbarkeit von SPD, CDU, CSU, FDP, Bündnis90/Grüne, PDS, Republikanerund DVU; positive oder negative Empfindungen bei den BegriffenTraditionsverbundenheit, Protest, Veränderungsfreudigkeit,Aufgeschlossenheit gegenüber Neuem, Pflichtbewusstsein, Phantasie,Gefühlsbetontheit und Härte; Selbsteinstufung auf einemLinks-Rechts-Kontinuum; Politikinteresse; Postmaterialismus;Selbsteinschätzung der Charaktermerkmale (NEO-FFI-Skalen: Offenheit fürErfahrungen, Verträglichkeit und Gewissenhaftigkeit; Zuordnung derBegriffe Traditionsverbundenheit, Protest, Veränderungsfreudigkeit,Aufgeschlossenheit gegenüber Neuem, Pflichtbewusstsein, Phantasie,Gewissenhaftigkeit, Gefühlsbetontheit und Härte zu Parteien;Einschätzung der Aufgeschlossenheit gegenüber Neuem von Parteien,Spitzenpolitikern und des Befragten selbst (Skalometer); wichtigstesProblem in Deutschland; Problemlösungskompetenz der einzelnen Parteien(Skalometer); charakterliche Selbsteinschätzung (Skala);Wahlbeteiligungsabsicht und Parteipräferenz (Sonntagsfrage); Gründe fürdie Wahlentscheidung: Gefühl oder Sympathie und Antipathie gegenüberbestimmten Politikern; Protestabsicht in der eigenen Wahlentscheidung(100-stufiges Skalometer); Selbsteinstufung als Protestwähler;politischer Kenntnistest (Bedeutung von Erststimme und Zweitstimme sowieParteizugehörigkeit von ausgewählten Spitzenpolitikern); Einstellung zurZuwanderung von Ausländern, zur Abtreibung, zur Abrüstung derBundeswehr, zur Arbeitslosenunterstützung und zur Einführung des Euro;Parteineigung und Parteiidentifikation; Wahlverhalten bei der letztenBundestagswahl; Selbsteinstufung in eine soziale Schicht(Arbeiterschicht, Mittelschicht, Oberschicht) sowie Einstufung innerhalbder Schicht; soziale Mobilität; Skala zur Erfassung extrem rechter undlinker politischer Einstellungen: Vertrauenswürdigkeit derParteipolitiker, Wahlbeteiligung als Bürgerpflicht, Nationalstolz,Machtgier von Parteien, Firmengewinne für alle Beschäftigten, Diktaturals Staatsform, Bürgernähe von Politikern, Überfremdung durch hohenAusländeranteil in der BRD, Ausbeutung der Dritten Welt,Parteienverhalten gegenüber dem Staat, Heiratsverhalten von Ausländern,Ausrüstung der Bundeswehr, Korruption von Parteien und Politikern,Sozialismus als Idee, Unterordnung von Verbandsinteressen zugunsten desGemeinwohls, soziale Gerechtigkeit als politisches Ziel, Mut zumNationalgefühl, Einfluss der Parteien auf die Gesellschaft, Ausbeutungvon Arbeitern, Antisemitismus, positive Bewertung der DDR, Verständnisfür Anschläge auf Asylbewerberheime, Verstaatlichung wichtigerWirtschaftsunternehmen, Parteien nur auf Stimmenfang, amerikanischerImperialismus als Gefahr für den Weltfrieden, positive Bewertung desNationalsozialismus, Hitler als großer Staatsmann, zu großer Einflussvon Juden; vermutetes Einverständnis der drei wichtigsten Bezugspersonenim Hinblick auf eine angenommene Wahlentscheidung des Befragten für dieCDU/CSU, Bündnis90/Grüne, SPD und die Republikaner (Skalometer) sowiedie persönliche Empfindung gegenüber einer solchen angenommenenWahlentscheidung.
+Demographie: Geschlecht; Alter (Geburtsjahr); Religionszugehörigkeit;höchster Schulabschluss; Haushaltsgröße (Personen über 18 Jahre);Erwerbstätigkeit; berufliche Stellung; Gewerkschaftsmitgliedschaft;regionale Zugehörigkeit vor der Wende; Bundesland; Kreiskennziffer.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte im Alter von 18 Jahren und älter </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Zufallsauswahl 
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2000-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2000-02</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Marplan, Offenbach
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>233</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Eine Studie mit vergleichbarem Inhalt in Berlin ist unter der
+ZA-Studien-Nr. 4174 archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Schumann, Siegfried: 
+Persönlichkeitsbedingte Einstellungen zu Parteien: der Einfluß von Persönlichkeitseigenschaften auf Einstellungen zu politischen Parteien. 
+München, Wien: Oldenbourg 2001</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

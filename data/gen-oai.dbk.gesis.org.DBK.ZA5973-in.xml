@@ -1,0 +1,285 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'German Bundestag Elections 2013: Twitter Usage by Electoral Candidates'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Deutsche Bundestagswahl 2013: Nutzung von Twitter durch Kandidaten'
+-->
+	<resourceType>Text</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Text; Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Text; Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA5973</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Deutsche Bundestagswahl 2013: Nutzung von Twitter durch Kandidaten</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>German Bundestag Elections 2013: Twitter Usage by Electoral Candidates</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Lars</firstName>
+				<middleName/>
+				<lastName>Kaczmirek</lastName>
+				<affiliation>
+					<affiliationName>GESIS – Leibniz-Institut für Sozialwissenschaften</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Philipp</firstName>
+				<middleName/>
+				<lastName>Mayr</lastName>
+				<affiliation>
+					<affiliationName>GESIS – Leibniz-Institut für Sozialwissenschaften</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5973?doi=10.4232/1.12319</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12319</doiProposal>
+	<publicationDate>
+		<date>2015-08-07</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5973</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT16</identifier>
+					<!-- Politische Parteien, Verbände -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Wahlen</term>
+					<term>Medien</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Elections</term>
+					<term>Media</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Integrationspolitik</term>
+					<term>Geschlechterrollenverständnis</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Soziale Medien Daten</term>
+					<term>Textdaten</term>
+					<term>Ereignisdaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Integration policy</term>
+					<term>Understanding of gender roles</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Soziale Medien Daten</term>
+					<term>Textdaten</term>
+					<term>Ereignisdaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Der Datensatz ist das Ergebnis eines Forschungsprojekts von GESIS, das die Nutzung sozialer Medien im Bundestagswahlkampf 2013 untersucht hat. Die Daten enthalten Tweets sowie eine Beschreibung der Kandidaten inkl. ihrer Twitter- und Facebook-Accounts.
+Dabei wurden Tweets von Kandidaten aller großen Parteien mit Ausnahme der AfD untersucht. Alle Daten waren zum Zeitpunkt der Datensammlung öffentlich zugänglich. Nicht aufgenommen wurden Accounts, die von den Kandidaten ganz oder überwiegend für private Zwecke genutzt wurden.
+Aus rechtlichen Gründen können nur folgende Daten zur Verfügung gestellt werden:
+(1) Eine Liste aller im Projekt aufgenommenen Kandidaten, ihre Schlüsselmerkmale sowie - falls vorhanden - die IDs ihrer Twitter- und Facebook-Accounts.
+(2) Eine Liste der Tweet-IDs, die zum Abruf der Original-Tweets der Kandidaten genutzt werden kann.
+Kandidatendatensatz: Vor- und Nachname des Kandidaten; Parteizugehörigkeit, Bundesland, Listenplatz (Ja/Nein); Direktkandidat (Ja/Nein); Wahlkreis; Facebook-Account; Facebook-Link; Twitter-Account, Twitter-Name; Twitter User-ID; Tweets (Ja/Nein); Anzahl der Tweets; Anzahl der Tweets mit URLS; Anzahl der Tweets mit @-Messages; Anzahl der Tweets pro Woche, Anzahl der Re-Tweets.                                                                 </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The data is a result of a research project at GESIS which aimed to explore social media communication related to the election of the German parliament on September 22nd, 2013. The data includes tweets by candidates and a file describing the key attributes of the candidates and lists their Twitter and Facebook accounts. 
+Tweets were collected for candidates of all covered parties except the AfD. All data was publicly available at the time of data collection. Cases in which a Twitter or Facebook account was not used as part of the role as a candidate (i.e., private accounts and accounts merely used for private postings) were not included.
+Due to legal reasons only the following data can be shared:
+(1) A list of all candidates that were considered in the project, their key attributes and if available the identification of their Twitter and Facebook accounts.
+(2) A list of Tweet-IDs which can be used to retrieve the original tweets of the candidates which they posted between June and December 2013. It includes the Tweet-ID and an ID identifying the candidate.
+The data describing the candidates include variables with the following content: a subsequent number, name of candidate, first name, member of which party ("AfD", "CDU", "CSU", "Die LINKE", "FDP", "GRUENE", "PIRATEN", "SPD"), state (e.g. "Bayern"), is listed (yes, no), is directe candidate (yes, no), constituency (e.g., "Aachen I"), has facebook account (yes, no), facebook_link, has twitter account (yes, no), twitter_screenname and variables on the frequency of twitter use.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alle Kandidaten (Direkt- und Listenkandidaten) zur Wahl des Bundestages am 22. September 2013, die über einen Social-Media-Account (Twitter und/oder Facebook) verfügen. Berücksichtigt wurden Kandidaten aller im Bundestag vertretenen Parteien, sowie der Piratenpartie und der AfD (nur Facebook).</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>The population comprises all candidates (district and party list candidates) for the 2013 German Federal Election on September 22, 2013, who maintain a social media account (Twitter and/or Facebook). The population was further restricted to candidates of political parties which were represented in the German Parliament before the election and to candidates of the Pirate Party and the Alternative for Germany (Facebook only).</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Vollerhebung; Auswahlverfahren Kommentar: Vollerhebung. Der Auswahlrahmen umfasst 2741 Kandidaten, denen ein Twitter- oder Facebook-Account zugeordnet werden konnte.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Total universe/Complete enumeration; Sampling Procedure Comment: No sample (complete count)
+The sample frame includes 2741 candidates, whom a Twitter or Facebook account could be assigned.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2013-06</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2013-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>GESIS – Leibniz-Institut für Sozialwissenschaften </institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Observation.Field</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Feldbeobachtung. Die Daten wurden mit Hilfe des Twitter API erhoben. Weitere Informationen können dem Methodenbericht entnommen werden.</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Non-participant field observation
+Data was collected using the Twitter API. Technical details can be found in the methodological report.</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>TextUnit</unitType>
+			<numberUnits>2741</numberUnits>
+			<numberVariables>22</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Lietz, Haiko; Wagner, Claudia; Bleier, Arnim, and Strohmaier, Markus (2014):
+´When politicians talk: assessing online conversational practices of political parties on Twitter´.
+In Proceedings of the Eighth International AAAI Conference on Weblogs and Social Media, 285-294. Ann Arbor, MI: AAAI Press. http://www.aaai.org/ocs/index.php/ICWSM/ICWSM14/paper/view/8069/.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kaczmirek, L.; Mayr, P.; Vatrapu, R.; Bleier, A.; Blumenberg, M.; Gummer, T.; Hussain, A.; Kinder-Kurlanda, K.; Manshaei, K.; Thamm, M.; Weller, K.; Wenz, A.; Wolf, C. (2014):
+Social Media Monitoring of the Campaigns for the 2013 German Bundestag Elections on Facebook and Twitter.
+Retrieved from http://www.gesis.org/fileadmin/upload/forschung/publikationen/gesis_reihen/gesis_arbeitsberichte/WorkingPapers_2014-31.pdf
+</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

@@ -1,0 +1,229 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'DJI Youth Survey 1992 and 1997 (Cumulated Data Set)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'DJI-Jugendsurvey 1992 und 1997 (Kumulierter Datensatz)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3608</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>DJI-Jugendsurvey 1992 und 1997 (Kumulierter Datensatz)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>DJI Youth Survey 1992 and 1997 (Cumulated Data Set)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Deutsches Jugendinstitut (DJI), München</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3608?doi=10.4232/1.3608</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.3608</doiProposal>
+	<publicationDate>
+		<year>1997</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3608</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>DJI</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Jugend</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Youth</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Lebensverhältnisse, Wertorientierungen, politische Orientierungen undpolitische Verhaltensbereitschaft von Jugendlichen und jungenErwachsenen.
+Themen: Subjektiver Altersstatus; Zufriedenheiten mit denLebensbereichen; Häufigkeit politischer Gespräche mit Eltern,Ehepartnern, Freunden, Schulkameraden und Arbeitskollegen;Wertorientierungen; Postmaterialismus (Skala); Wichtigkeit vonLebensbereichen; Geschlechtsrollenorientierungen; Verbundenheit mit derGemeinde, den alten und neuen Bundesländern, Deutschland, derEuropäischen Union; Nationalstolz; bürgerferne Politiker und Gefühl derpolitischen Wirksamkeit; politisches Verständnis und Kompliziertheit derPolitik; Demokratieverständnis; Einstellung zur Idee der Demokratie;Zufriedenheit mit der Demokratie in der Bundesrepublik; Einstellung zurIdee des Sozialismus und zum Sozialismus in der DDR; Selbsteinschätzungauf dem Links-Rechts-Kontinuum; Sympathie-Skalometer für die Parteien;Anomie; soziale Verunsicherung, Normlosigkeit; Vertrauen inInstitutionen wie Gewerkschaften, Kirchen, Gerichte, Parteien,Bundeswehr, Presse, Bundesumweltministerium, Bürgerinitiativen,Großunternehmen, Bundesregierung, Polizei, Fernsehen,Bundesverfassungsgericht, Bundestag, Greenpeace; detaillierte Angabenüber derzeitige und frühere Mitgliedschaften sowie Intensität derBeteiligung an den Aktivitäten in Verbänden oder Vereinen; Übernahme vonFunktionen in diesen Vereinen; Einstellung zu und eigene Aktivitäten inFriedensinitiativen, Umweltschutzgruppen, Selbsthilfegruppen,nationalistische Gruppierungen, linken Gruppierungen undMenschenrechtsgruppen usw.; Politikinteresse; Bereitschaft zuverschiedenen politischen Partizipationsmöglichkeiten (Skala);Berücksichtigung der Interessen der ehemaligen DDR-Bürger bei derVereinigung Deutschlands; persönliche Vor- oder Nachteile durch diedeutsche Vereinigung; Möglichkeiten des Lernens von den Menschen imanderen Teil Deutschlands; gerechter Anteil am Lebensstandard in derBundesrepublik; Einstellungen gegenüber Ausländern (Skala).
+Demographie: Geschlecht; Alter; Schulabschluss; Ausbildungsabschluß;Erwerbsstatus; berufliche Stellung; Berufszufriedenheit; Familienstand;Kinderzahl; Schulabschluß, Erwerbsstatus, berufliche Stellung von Mutterund Vater; Religionszugehörigkeit; Kirchgangshäufigkeit; Wohnen imHaushalt der Eltern; Zeitpunkt des Verlassens des elterlichen Haushalts.
+Zusätzlich verkodet wurde: Interviewdatum; Bundesland.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Living conditions, moral orientations, political orientations andreadiness of young people and young adults for political conduct.Topics:subjective age status;satisfaction with areas of life;frequency of political conversations with parents,spouse, friends, school friends and colleagues;moral orientations;postmaterialism (scale);importance of areas of life;sex role orientations;solidarity with the municipality, the old and new states, Germany,the European Union;national pride;politicians distant from the citizens and feeling of political effectiveness;political understanding and complexity of politics;understanding of democracy;attitude to the idea of democracy;satisfaction with democracy in the Federal Republic;attitude to the idea of socialism and socialism in the GDR;self-assessment on a left-right continuum;sympathy scale for the parties;anomy;social insecurity, lack of norm;trust in institutions such as trade unions, churches, judiciary, parties,Federal German Armed Forces, press, Federal Ministry for the Environment,citizens' initiatives, large concerns, the Federal Government, the police,television, the Federal Constitutional Court, the Federal Parliament,Greenpeace;detailed information on current and earlier memberships as well asintensity of participation in the activities in associations or clubs;acceptance of functions in these clubs;attitude to and personal activities in peace initiatives,environmental protection groups, self-help groups, nationalist groupings,leftist groupings and human rights groups etc.;interest in politics;readiness for various opportunities for political participation (scale);consideration of the interests of the citizens of the former GDRin the unification of Germany;personal advantages or disadvantages through German unification;opportunities to learn about the people in the other part of Germany;fair share of the standard of living in the Federal Republic;attitudes regarding foreigners (scale).Demography:sex;age;school degree;educational level;employment status;occupational position;occupational satisfaction;marital status;number of children;school degree,employment status,occupational position of mother and father;religious affiliation;frequency of church attendance;living in parental household;time of leaving parental household.Also encoded was:date of interview;state.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutsche Personen im Alter von 16 bis 29 Jahren mit Wohnsitz in der
+Bundesrepublik</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Germans between the ages of 16 to 29 years with residence in the Federal Republic</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl (nach dem ADM-Design).
+Disproportionale Auswahl alte Bundesländer - neue Bundesländer.
+Random-Route bei der Auswahl der Zielhaushalte und Auswahl der
+Zielpersonen im Haushalt durch Zufallszahlen-Auswahlschlüssel. </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage stratified random sample (after the ADM-Design).
+Over-sample selection old states - new states.
+Random-Route in the sample of the target households and
+selection of the target persons in the household through random number key.
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1992-09</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1997-11</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>GFM-GETAS, Hamburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>infas Sozialforschung, Bonn</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>613</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Der DJI-Jugendsurvey 1997 ist als 2. Welle eine weitgehende Replikation
+des DJI-Jugendsurveys 1992. Der hier beschriebene kumulierte Datensatz
+enthält nicht alle
+Variablen der Originaldatensätze aus den Jahren 1992 und 1997.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The DJI Youth Survey 1997 as 2nd wave is largely a replication
+of the DJI Youth Survey 1992.
+The cumulated data set described here does not contain all
+variables of the original data sets from 1992 and 1997.
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Gille, Martina; Krüger, Winfried (Hrsg.) 
+Unzufriedene Demokraten: Politische Orientierungen der 16- bis 29jährigen im vereinigten Deutschland. DJI-Jugendsurvey 2. 
+Opladen: Leske und Budrich 2000.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

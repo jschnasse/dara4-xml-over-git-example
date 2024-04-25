@@ -1,0 +1,204 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'New Citizen Study 1999 (Political Attitudes and Voting Behaviour
+of naturalised Persons in Heidelberg)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Neubürger-Studie 1999 (Politische Einstellungen und Wahlverhalten eingebürgerter Personen in Heidelberg)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4226</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Neubürger-Studie 1999 (Politische Einstellungen und Wahlverhalten eingebürgerter Personen in Heidelberg)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>New Citizen Study 1999 (Political Attitudes and Voting Behaviour
+of naturalised Persons in Heidelberg)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Andreas M.</firstName>
+				<middleName/>
+				<lastName>Wüst</lastName>
+				<affiliation>
+					<affiliationName>Institut für Politische Wissenschaft der Universität Heidelberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4226?doi=10.4232/1.4226</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4226</doiProposal>
+	<publicationDate>
+		<year>2005</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4226</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Medien</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Media</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Politische Einstellungen sowie Beurteilung von Parteien und Politikern.
+Themen: Einbürgerungsjahr; Einbürgerungsdauer; Beurteilung derdeutschen Behörden hinsichtlich des Einbürgerungsverfahrens; alteStaatsbürgerschaft; Abgabe, Wiederannahme oder Beibehalten der altenStaatsbürgerschaft bei der Einbürgerung; Wahlbeteiligungsabsicht;Parteipräferenz (Sonntagsfrage); Wahlverhalten bei der letztenBundestagswahl; Sympathie-Skalometer für ausgewählte Parteien undSpitzenpolitiker; wichtigstes Problem in Heidelberg; kompetentestePartei zur Lösung dieses Problems; Informationsverhalten bei derKommunalpolitik in Heidelberg; wichtigste Informationsquelle über dieKommunalpolitik, die Deutschlandpolitik und die Weltpolitik; Häufigkeitdes Zeitunglesens, des Radiohörens und des Fernsehens; Sprache derZeitung, der Radiosendungen und der Fernsehsendungen; Politikinteresse;Zeitung, Radio oder TV als vertrauenswürdigstes Medium; Einstellung zurpolitischen Partizipation und in Deutschland durchgeführtePartizipation; Zufriedenheit mit der Demokratie in Deutschland;Einstellung zur Demokratie als Staatsform; Selbsteinschätzung auf einemLinks-Rechts-Kontinuum; Selbsteinschätzung der Religiosität(Skalometer); stolz, Deutscher zu sein; Postmaterialismusskala;Beurteilung der eigenen sowie der derzeitigen wirtschaftlichen Lage inDeutschland; kompetenteste Partei zur Lösung der wirtschaftlichenProbleme in Deutschland.
+Demographie: Geschlecht; Alter; Familienstand; Zusammenleben mit einemPartner; Partner in Deutschland geboren; Geburtsland des Partners;deutsche Staatsbürgerschaft des Partners; Geburtsland des Befragten;Jahr der Einreise nach Deutschland; temporäre Rückkehr ins Heimatland;Asylantrag in Deutschland gestellt; Schulbesuch (Jahre); Schulabschlussin Deutschland; Schulabschluss; abgeschlossene Berufsausbildung oderStudium; Berufstätigkeit; Einschätzung der eigenenArbeitsplatzsicherheit; berufliche Position; Haushaltsgröße; AnzahlPersonen im Haushalt unter 18 Jahren; Gewerkschaftsmitgliedschaft;Vereinsmitgliedschaft in einem deutschen Verein; Mitgliedschaft in einemVerein des Heimatlandes (Kulturverein, Sportverein oder politischeVereinigung); Konfession; Kirchgangshäufigkeit; Selbsteinschätzung derdeutschen Sprachkompetenz; Identifikation als Deutscher oder alsAusländer; Parteineigung und Parteiidentifikation.
+Interviewerrating: Sprachkompetenz; Anwesenheit und Eingriffe Dritterbeim Interview; Übersetzungshilfe durch Dritte; Einschätzung derWohngegend des Befragten; Einschätzung der Integration des Befragten.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Heidelberg</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Heidelberg</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte, die im Mai 1998 in der Stadt Heidelberg lebten und
+zwischen dem 01.01.1988 und dem 31.12.1997 eingebürgert worden waren
+(=2.718 Personen)</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Von der Grundgesamtheit wurden 971 Zielpersonen zufällig aus dem
+Register des Einwohnermeldeamtes der Stadt Heidelberg ausgewählt. </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1999-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1999-02</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Mannheimer Zentrum für Europäische Sozialforschung (MZES), Mannheim
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>124</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Wüst, Andreas M.: 
+Wie wählen Neubürger? Politische Einstellungen und Wahlverhalten eingebürgerter Personen in Deutschland. 
+Opladen: Leske + Budrich, 2002</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

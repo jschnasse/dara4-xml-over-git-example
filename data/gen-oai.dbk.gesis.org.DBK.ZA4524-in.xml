@@ -1,0 +1,200 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Duisburg Citizen Survey (Autumn 2006, Foreign population)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Duisburger Bürgerumfrage (Herbst 2006, ausländische Befragte)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4524</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Duisburger Bürgerumfrage (Herbst 2006, ausländische Befragte)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Duisburg Citizen Survey (Autumn 2006, Foreign population)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Stadt Duisburg, Amt für Statistik, Stadtforschung und Europaangelegenheiten</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4524?doi=10.4232/1.4524</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4524</doiProposal>
+	<publicationDate>
+		<year>2007</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4524</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT51</identifier>
+					<!-- Gemeinde, Wohnumwelt -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Konsum und Konsumverhalten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Community, urban and rural life</term>
+					<term>Government, political systems and organisations</term>
+					<term>Consumption and consumer behaviour</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellung zum Wohnen und zu den Lebensbedingungen in Duisburg.Beurteilung des wirtschaftlichen Klimas in Duisburg und Deutschland.Beurteilung von Fragen der Kommunalpolitik. Einkaufsverhalten.Verhältnis Deutsche - Ausländer.
+Themen: 1. Wohnen: Wohnzufriedenheit in Duisburg; Zufriedenheit mitder eigenen Wohnung, der Wohngegend, mit Duisburg allgemein und mit denUmweltbedingungen in der näheren Wohnumgebung (Skalometer); derzeitigerWohnstatus (zur Miete bzw. Untermiete, eigenes Haus oderEigentumswohnung); Wohnhaustyp; Zimmeranzahl der Wohnung;Stadtteilverbundenheit oder Identität als Duisburger.
+2. Größte derzeitige Probleme in Duisburg; größte Umweltprobleme inDuisburg.
+3. Wichtigkeit einzelner Lebensbedingungen (Skalometer: Arbeits- undVerdienstmöglichkeiten, Ausbildungsplätze und Lehrstellen, Radwegenetz,öffentliche Verkehrsmittel, Ärzte und Krankenhäuser, Schwimmbäder undSportanlagen, Park- und Grünanlagen, kulturelle Veranstaltungen undEinrichtungen, Sauberkeit der Luft, Stadtbücherei, gute und preiswerteWohnungen, Gastronomie, Kindergärten und Kindertagesstätten, Gebäude-und Straßenbild, Arbeit der Duisburger Stadtverwaltung, Volkshochschulesowie Treffpunkte für ältere Menschen und für die Jugend).
+4. Politik, Kommunalpolitik: Politikinteresse allgemein und Interessean der Kommunalpolitik; Parteipräferenz.
+5. Einkaufsverhalten: Ort für Einkauf von Lebensmitteln und Artikelndes täglichen Bedarfs sowie des mittel- oder langfristigen Bedarfs;Bewertung der Versorgung mit Einzelhandelsgeschäften in der Wohngegendund in der Duisburger City; alternative Kauforte außerhalb Duisburgs(Angabe der Stadt); konkrete Angabe vermisster Einzelhandelsgeschäfte.
+6. Verhältnis Deutsche - Ausländer: Kontakt zu deutschen Mitbürgern;Deutsche im engsten und weiteren Freundeskreis; Einschätzung desVerhältnisses zwischen Ausländern und Deutschen in der Wohngegend;Einstellung zum Zusammenleben von Deutschen und Ausländern in derNachbarschaft; Einstellung zum Kommunalwahlrecht für Ausländer;Deutsche wollen unter sich bleiben; Interesse an der deutschenStaatsangehörigkeit. 
+7. Arbeit der Stadtverwaltung: Kontakthäufigkeit zur DuisburgerStadtverwaltung im letzten Jahr; genutzte Ansprechmöglichkeiten;Zufriedenheit mit der Bearbeitung der Anliegen durch die Mitarbeiter derStadtverwaltung; wichtigste Aspekte für die Zufriedenheit mitVerwaltungsdienstleistungen (Erreichbarkeit und Freundlichkeit derzuständigen Mitarbeiter, Öffnungszeiten der Dienststellen, Zügigkeitder Bearbeitung, Vollständigkeit und Richtigkeit der erteiltenAuskünfte, Möglichkeit, die Anliegen von zuhause aus zu erledigen,Verständlichkeit von Entscheidungen, Formularen und Auskünften sowieVermeidung von Mehrfachkontakten); Besuch einer der Veranstaltungen derWorld Games; Kenntnis von Duisburg als Gastgeber der italienischenNationalmannschaft während der Fußballweltmeisterschaft 2006; Einstellungzur Wirksamkeit von Großveranstaltungen für Duisburg. 
+Demographie: Geschlecht; Alter (Geburtsjahr); Staatsangehörigkeit;Familienstand; Zusammenleben mit einem Partner; andereStaatsangehörigkeit des Partners; Kinderzahl; Haushaltsgröße;Haushaltszusammensetzung; Kinder im Alter von 18 Jahren und älter;höchster Schulabschluss; Berufsausbildung; Vollzeit- bzw.Teilzeitbeschäftigung; Beruf; Einschätzung der eigenenArbeitsplatzsicherheit; Betriebsgröße; PKW-Besitz, Nutzungshäufigkeitöffentlicher Verkehrsmittel; Gewerkschaftsmitgliedschaft; Befragter istHaushaltsvorstand; Charakteristika des Haushaltsvorstands; Bezug vonTransferleistungen; Anzahl Personen, die zum Haushaltseinkommenbeitragen; Haushaltsnettoeinkommen; Befragter und dessen Eltern inDeutschland geboren; Ortsteil.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Duisburg</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Duisburg</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Ausländische Personen mit Hauptwohnsitz in Duisburg im Alter von 18 bis
+75 Jahren aus der Einwohnermeldedatei</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Einfache Zufallsauswahl aus der Einwohnermeldedatei</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>2006</year>
+				</startDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Autumn 2006</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Herbst 2006</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Stadt Duisburg, Amt für Statistik, Stadtforschung und Europaangelegenheiten</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>170</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Befragung wurde in deutscher Sprache durchgeführt.
+
+Unter der ZA-Studien-Nr. 4517 ist eine Parallelstudie (deutsche
+Befragte) archiviert. 
+
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

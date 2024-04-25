@@ -1,0 +1,208 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Young Ethnic Germans from Eastern Europe in North Rhine-Westphalia
+(Representative Survey)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Junge Aussiedler in Nordrhein-Westfalen (Repräsentativ-Befragung)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1382</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Junge Aussiedler in Nordrhein-Westfalen (Repräsentativ-Befragung)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Young Ethnic Germans from Eastern Europe in North Rhine-Westphalia
+(Representative Survey)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Institut für Soziale Arbeit, Münster</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1382?doi=10.4232/1.1382</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1382</doiProposal>
+	<publicationDate>
+		<year>1984</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1382</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT51</identifier>
+					<!-- Gemeinde, Wohnumwelt -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Sprache und Sprachwissenschaft</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Language and linguistics</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Schulische und berufliche Integration von jungen Aussiedlern.Beurteilung des Intensivsprachkurses.
+Themen: Deutschunterricht in der Schule des Herkunftslandes;Deutschkenntnisse bei der Ankunft in der Bundesrepublik; Jahr desAbschlusses des Intensivsprachkurses; Kursort und Kursheim; Fortsetzungder Ausbildung nach Beendigung des Sprachkurses sowie Art desSchulbesuchs bzw. der Berufsausbildung; empfundene Hilfe durch denIntensivsprachkurs Deutsch für die weitere Ausbildung; ausreichendeDeutschkenntnisse bei der schulischen oder beruflichen Ausbildung bzw.bei Beginn der beruflichen Tätigkeit; nähere Angaben zu den fehlendenDeutschkenntnissen; Beurteilung der zeitlichen Dauer des Sprachkurses;zusätzliche Sprachförderungen außerhalb der Schule und Art dervermittelnden Institution; Beurteilung des Intensivsprachkurses alsempfehlenswert für junge Aussiedler; Verbesserungsvorschläge.
+Demographie: Alter; Geschlecht; Familienstand; Schulbildung;Berufsausbildung; Beruf; Berufstätigkeit; Herkunftsland.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>School and occupational integration of young ethnic Germans fromEastern Europe. Judgement on the intensive language course.
+Topics: German instruction in school of country of origin; knowledgeof German at arrival in the Federal Republic; year of conclusion of theintensive language course; place of course and course housing;continuation of training after conclusion of the language course aswell as type of school attendance or vocational training; perceived aidfrom the intensive language course in German for further training;adequate knowledge of German in school or vocational training or atstart of occupational activity; closer information on lack of knowledgeof German; judgement on the temporal duration of the language course;additional language support outside the school and type of institutionproviding this; judgement on the intensive language course as to berecommended for young ethnic Germans from Eastern Europe; improvementsuggestions.
+Demography: age; sex; marital status; school education; vocationaltraining; occupation; employment; country of origin. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Junge Spätaussiedler, die zwischen 1975 und Januar 1980 an einem
+Intensivsprachkurs teilgenommen hatten</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Young recently-arrived ethnic Germans from Eastern Europe who took part in an intensive language course between 1975 und January 1980 </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Totalerhebung 
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Census</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1980-08</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1980-10</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Institut fuer Soziale Arbeit, Muenster
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Postalische Befragung
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Mail survey
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>30</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Vergleiche auch die Intensivbefragung der Aussiedler unter der
+ZA-Studien-Nr. 1383.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>See also the intensive survey of ethnic Germans from Eastern Europe
+under ZA Study No. 1383. </text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Krieg, Robert: 
+Junge Aussiedler in Nordrhein-Westfalen: Studie über die berufliche und soziale Integration von ehemaligen Sprachkursteilnehmern. 
+Münster: Institut für Soziale Arbeit, o.J.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

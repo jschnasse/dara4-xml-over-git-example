@@ -1,0 +1,252 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Attitudes to Current Questions of Domestic Policy (1995) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Einstellungen zu aktuellen Fragen der Innenpolitik (1995)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA2625</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Einstellungen zu aktuellen Fragen der Innenpolitik (1995)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Attitudes to Current Questions of Domestic Policy (1995) 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Manfred</firstName>
+				<middleName/>
+				<lastName>Berger</lastName>
+				<affiliation>
+					<affiliationName>Institut für Praxisorientierte Sozialforschung (IPOS),
+Mannheim
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Matthias</firstName>
+				<middleName/>
+				<lastName>Jung</lastName>
+				<affiliation>
+					<affiliationName>Institut für Praxisorientierte Sozialforschung (IPOS),
+Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Dieter</firstName>
+				<middleName/>
+				<lastName>Roth</lastName>
+				<affiliation>
+					<affiliationName>Institut für Praxisorientierte Sozialforschung (IPOS),
+Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2625?doi=10.4232/1.2625</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.2625</doiProposal>
+	<publicationDate>
+		<year>1995</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2625</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kriminalität und Gesetzesvollzug</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Crime and law enforcement</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellung zu aktuellen innenpolitischen Themen.
+Themen: Demokratiezufriedenheit; Parteipräferenz; Wahlverhalten beider letzten Bundestagswahl; Vertrauen in öffentliche Institutionen(Skalometer); Wichtigkeit von Bundesinstitutionen (Skalometer);präferierte Entwicklung der Gesellschaft (Skala); wichtigsteinnenpolitische Ziele; zu viele Ausländer in der Bundesrepublik;Einstellung zu einem erleichterten Erwerb der deutschenStaatsbürgerschaft für Ausländer; Einstellung zur Einführung einerdoppelten Staatsbürgerschaft; Elternstatus oder Geburtsland alspräferiertes Kriterium für die Staatsbürgerschaft; Zufriedenheit mitden gesellschaftlichen Bedingungen in der Bundesrepublik(Karrierechancen, Gleichberechtigung, Rechtssystem,Kriminalitätsschutz, wirtschaftliche Lage, Arbeitsmarkt und sozialeSicherheit); empfundene Bedrohung der öffentlichen Sicherheit; Wunschnach verschärften Gesetzen oder erweiterten Befugnissen der Polizei;Wunsch nach besonderen Polizeibefugnissen zur Bekämpfung desorganisierten Verbrechens; Einstellung zum Abhören von Privaträumendurch die Polizei; Einstellung zur Abschaffung der Personenkontrollenan den innereuropäischen Grenzen; erwartete Erschwernis derVerbrechensbekämpfung durch den Wegfall der Grenzkontrollen;Einstellung zum Besitz kleinerer Mengen weicher Drogen; Einstellung derHäufigkeit von Bestechungsfällen in Deutschland; Bestechungshäufigkeitin Deutschland im Vergleich zu anderen europäischen Ländern; empfundenepersönliche Bedrohung durch ausgewählte Kriminalitätsformen; politischePartizipation und Bereitschaft zum Protestverhalten; Präferenz fürnationale oder europaweite Lösung ausgewählter politischer Probleme;Einschätzung der Vorteilhaftigkeit einer EU- Mitgliedschaft des Landes;geschätzte Dauer bis zu einer Angleichung der Lebensverhältnisse inOst- und Westdeutschland; Einstellung zu einem Abschluß derAufbereitung der DDR- Vergangenheit; Glaubhaftigkeit der politischenUmorientierung der SED zur PDS; Einstellung zur 5%-Klausel für dieBundestagswahlen; Einstellung zum Einzug der PDS in den Bundestag durchdie Direktmandatsregelung; Selbsteinstufung auf einemLinks-Rechts-Kontinuum; Einstellung zur staatlichen Abwehr gegenRadikale von rechts und links; Einschätzung der Gefährdung derDemokratie durch linksextreme sowie durch rechtsextreme Gruppen undausländische extremistische Organisationen (Skalometer); positive odernegative Behördenkontakte; Gesetze oder Staatsmitarbeiter als Ursachefür individuelle Behördenprobleme; allgemeine Einschätzung derGesetzesverständlichkeit; Einstellung zur Sommerzeit; persönlicheProbleme mit der Sommerzeitregelung; Beurteilung des Umfangs vonGewaltdarstellungen im Fernsehen; Geburtsjahr und Geburtsmonat;Arbeitsplatzgefährdung des Befragten; Gewerkschaftsmitgliedschaft;Religiosität.
+In Westdeutschland wurde zusätzlich gefragt: Arbeitsplatzgefährdungeiner nahestehenden Person; Parteineigung und Parteiidentifikation.
+In Ostdeutschland wurde zusätzlich gefragt: Ortsgröße; Einstellung zurÜbernahme des politischen Systems der Bundesrepublik.
+Demographie: Alter; Geschlecht; Familienstand; Kirchgangshäufigkeit;Schulbildung; Berufsausbildung; Berufstätigkeit.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Attitude to current topics of domestic policy. Topics: Satisfactionwith democracy; party preference; behavior at the polls in the lastFederal Parliament election; trust in public institutions (scale);importance of federal institutions (scale); preferred development ofsociety (scale); most important goals of domestic policy; too manyforeigners in the Federal Republic; attitude to making it easier forforeigners to acquire German citizenship; attitude to introduction ofdual citizenship; parent status or country of birth as preferredcriterion for citizenship; satisfaction with social conditions in theFederal Republic (career chances, equal rights, legal system,protection against crime, economic situation, job market and socialsecurity); perceived threat to public safety; desire for stricter lawsor expanded powers for the police; desire for particular policeauthority to combat organized crime; attitude to bugging of privaterooms by the police; attitude to elimination of checks of persons atborders within Europe; expected increase in difficulty of combatingcrime from elimination of border checks; attitude to possession ofsmaller amounts of soft drugs; attitude to frequency of cases ofbribery in Germany; frequency of bribery in Germany in comparison toother European countries; perceived personal threat from selected formsof crime; political participation and readiness for protest behavior;preference for national or Europe-wide solution of selected politicalproblems; assessment of the advantageousness of EU-membership of thecountry; estimated time until achievement of equivalent livingconditions in Eastern and Western Germany; attitude to conclusion ofworking on the GDR past; credibility of the political re-orientation ofthe SED into the PDS; attitude to the 5%-clause for Federal Parliamentelections; attitude to the PDS taking seats in Federal Parliamentthrough the direct mandate regulation; self-classification on aleft-right continuum; attitude to government defense against radicalsfrom right and left; assessment of jeopardy to democracy from left-wingextremist as well as from right-wing extremist groups and foreignextremist organizations (scale); positive or negative contacts withauthorities; laws or government employees as cause for individualproblems with authorities; general assessment of the understandabilityof laws; attitude to summer time; personal problems with the summertime arrangement; judgement on the extent of portraying violence ontelevision; year of birth and month of birth; jeopardy to job ofrespondent; union membership; religiousness. The following questionswere posed in Western Germany: jeopardy to job of a close person; partyinclination and party identification. The following questions wereposed in Eastern Germany: city size; attitude to acceptance of thepolitical system of the Federal Republic. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte in Ost und West</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl (ADM-Mastersample) von
+Wahlberechtigten in Ost und West (2 Samples)
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: 
+Multi-stage stratified random sample (ADM mastersample) 
+of eligible voters in East and West (2 samples) 
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1995-04</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1995-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>USUMA, Berlin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>144</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Vergleichbare Untersuchungen zu aktuellen Fragen der
+Innenpolitik, die vom Bundesministerium des Inneren in Auftrag
+gegeben wurden, sind unter den ZA-Studien-Nrn. 1373, 1463,
+1516, 1662, 1698, 1763, 1937, 1967, 2120, 2228 und 2396
+archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Comparable investigations on current questions of domestic policy 
+commissioned by the Bundesministerium des Inneren {Department of the 
+Interior} are archived under 
+ZA Study Nos. 1373, 1463, 1516, 1662, 1698, 1763, 1937, 1967, 2120, 2228 
+and 2396. 
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Berger, Manfred; Jung, Matthias; Roth, Dieter: 
+Einstellung zu aktuellen Fragen der Innenpolitik 1995 in Deutschland: Ergebnisse jeweils einer repräsentativen Bevölkerungsumfrage in den alten und neuen Bundesländern. 
+Mannheim: Institut für Praxisorientierte Sozialforschung, 1995.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

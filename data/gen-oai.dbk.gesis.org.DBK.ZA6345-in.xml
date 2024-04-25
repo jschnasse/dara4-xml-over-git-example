@@ -1,0 +1,748 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Thüringen-Monitor 2000-2022'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Thüringen-Monitor 2000-2022'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA6345</identifier>
+		<currentVersion>7.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Thüringen-Monitor 2000-2022</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Thüringen-Monitor 2000-2022</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Karl</firstName>
+				<middleName/>
+				<lastName>Schmitt</lastName>
+				<affiliation>
+					<affiliationName>Institut für Politikwissenschaft, Friedrich-Schiller-Universität Jena</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Heinrich</firstName>
+				<middleName/>
+				<lastName>Best</lastName>
+				<affiliation>
+					<affiliationName>Institut für Soziologie, Friedrich-Schiller-Universität Jena</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Marion</firstName>
+				<middleName/>
+				<lastName>Reiser</lastName>
+				<affiliation>
+					<affiliationName>Institut für Politikwissenschaft, Friedrich-Schiller-Universität Jena</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6345?doi=10.4232/1.14191</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.14191</doiProposal>
+	<publicationDate>
+		<date>2023-10-02</date>
+	</publicationDate>
+	<publicationPlace>Cologne, Germany</publicationPlace>
+	<publisher>
+		<institution>
+			<institutionName>GESIS</institutionName>
+		</institution>
+	</publisher>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6345</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT31</identifier>
+					<!-- Wirtschaftspolitik, wirtschaftliche Lage -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Religion und Werte</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Politische Ideologie</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Familie und Ehe</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Wirtschaftspolitik, öffentliche Ausgaben und Einnahmen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Religion and values</term>
+					<term>Social conditions and indicators</term>
+					<term>Social behaviour and attitudes</term>
+					<term>International politics and organisations</term>
+					<term>Political ideology</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Family life and marriage</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Economic policy,  public expenditure and revenue</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Der Thüringen-Monitor ist eine seit 2000 jährlich stattfindende repräsentative Bevölkerungsbefragung zur politischen Kultur im Freistaat Thüringen mit festen und wechselnden Fragenkomplexen. Der Thüringen-Monitor wird von der Thüringer Staatskanzlei (Erfurt) in Auftrag gegeben. Ein besonderer Fokus liegt auf der Erforschung rechtsextremer Einstellungen, der Demokratieakzeptanz, der Demokratiezufriedenheit und dem Institutionenvertrauen der Thüringer Bevölkerung. Grundgesamtheit ist die wahlberechtigte Bevölkerung des Freistaats Thüringen. Bis 2022 wurden im Trend-Design von wechselnden Befragungsinstituten insgesamt 22 Befragungswellen mit jeweils min. 1.000 Befragten durchgeführt (CATI, Stichprobenziehung nach dem Gabler-Häder-Design). 2009 fand keine Befragung statt. Die Daten wurden ab 2012 nach Angaben des Thüringer Landesamtes für Statistik bezüglich des Alters, des Geschlechts, der Bildung und der Haushaltsgröße gewichtet (IPF-Gewichtung).
+Im Thüringen-Monitor wurden von 2000 bis 2022 insgesamt 1.362 verschiedene Variablen erhoben, die sich den folgenden Kategorien zuordnen lassen:  					1 Deprivation/Anomie/Zufriedenheit						2 Thüringen/Identität/Deutsche Einheit						3 Politik/Demokratie/Institutionen/Akteure					4 Rechtsextremismus/Einstellung zu Migration/Minderheiten			5 DDR/Sozialismus						6 Sozialstaat/Marktwirtschaft/Ökologie						7 Gesellschaftliche Probleme						8 Werte						9 Familie/Erziehung und Bildung/Generationenbeziehungen				10 Internationalisierung/Europäisierung/kulturelle Kompetenz	11 Gesundheit und Pflege 12 Covid-19 Pandemie13 Stadt und Land14 Umwelt und Klima
+Die Messreihe zu rechtsextremen Einstellungen basiert auf zehn Zustimmungsitems (mit vierstufigen Antwortskalen) und beginnt 2001. Sie erfasst nach der Konsensdefinition des Rechtsextremismus die Einstellungsdimensionen Fremdenfeindlichkeit, Nationalismus/Chauvinismus, Sozialdarwinismus, Verharmlosung des Nationalsozialismus, Antisemitismus sowie die Befürwortung einer rechten Diktatur (vgl. Heinrich Best / Katja Salomo (2014): Güte und Reichweite der Messung des Rechtsextremismus im THÜRINGEN-MONITOR 2000 bis 2014. Expertise für die Thüringer Staatskanzlei. Erfurt.)</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Soziodemographie: Alter (Geburtsjahr); Geschlecht; berufliche Stellung; Dauer der Arbeitslosigkeit (in Monaten); Arbeitslosigkeit länger als sechs Monate seit der Wende; Beschäftigung im öffentlichen Dienst; Berufstätigkeit; hauptberuflich ausgeübte Tätigkeit; höchster Bildungsabschluss des Befragten; höchster Bildungsabschluss der Eltern; Bildung des Partners bzw. der Partnerin sowie Tätigkeit; vor Oktober 1989 Bürger der DDR; Anzahl der Enkelkinder; Familienstand; Geburtsort; Haushaltsnettoeinkommen; Haushaltszusammensetzung: Anzahl der Kinder unter 18 (2000: unter 16) Jahren im Haushalt; Anzahl der Personen im Haushalt insgesamt; Anzahl Personen im Haushalt ab 18 Jahren; Haushaltsgröße (gruppiert); Anzahl der Kinder außerhalb des Haushalts; Kinder besuchen derzeit Kindertageseinrichtung, Schule, (Fach-)Hochschule; Anzahl eigene Kinder insgesamt; Anzahl Wunschkinder; Anzahl der Kinder in der Schule; Anzahl der Kinder unter 6 Jahren; Kirchgangshäufigkeit; feste Partnerschaft; Zusammenleben mit Partner/in; Konfession; Wohnsituation; Sicherheit des Arbeitsplatzes; Sozialisation (Ost/West/Ausland); Wohnstatus; Anzahl der Telefonnummern im Haushalt.  
+Zusätzlich verkodet wurde: Welle (Erhebungsjahr); Interviewnummer; Personengewicht; Quotengruppen Geschlecht und Alter für IPF-Gewichtung ab 2012; Zufallsvariablen (2013, 2014); Beantwortung offene Frage und Fragereihenfolge (2015); durchschnittlicher Bevölkerungsanteil Kreis 2005 bis 2009; Freiheitskonsistenz; Ortsgrößenklasse; Wohnortgröße; wahrgenommene Responsivität sonstige öffentliche rechtsextreme Aktivitäten (Anteil Kreis an Gesamtzahl Thüringen und Anzahl Vorkommnisse im Kreis); mutmaßliche rechtsextreme Straftaten (Anteil Kreis an Gesamtzahl Thüringen und Anzahl Vorkommnisse im Kreis).
+Welle 2000:
+Zustimmung zu verschiedenen Aussagen: Thüringen braucht den Vergleich mit vielen westdeutschen Bundesländern nicht zu scheuen; die wirtschaftliche Lage in Thüringen ist besser als in anderen ostdeutschen Bundesländern; Identität als Thüringer, als Ostdeutscher, als Deutscher oder als Europäer; Beurteilung der wirtschaftlichen Lage in Thüringen und der eigenen finanziellen Situation; gerechter Anteil am Lebensstandard im Vergleich mit anderen in Deutschland; Überwiegen von Vorteilen oder Nachteilen der deutschen Einheit; persönlich erfahrene Benachteiligung aufgrund der ostdeutschen Herkunft; Präferenz Freiheit vs. Gleichheit bzw. Freiheit vs. Sicherheit.
+Politik und Gesellschaft: Links-Rechts-Selbsteinstufung; Politikinteresse; Demokratie als beste aller Staatsideen; Demokratiezufriedenheit; Institutionenvertrauen (Bundesregierung, Landesregierung, Gerichte, Polizei, Ärzten, Krankenschwestern und Pflegern); Überfremdung durch viele Ausländer; kann politische Fragen gut verstehen und einschätzen;  Zustimmung zu verschiedenen Aussagen:  die Ausländer kommen nur hierher, um unseren Sozialstaat auszunutzen; es gibt wertvolles und unwertes Leben; Ausländer sollten grundsätzlich ihre Ehepartner unter den eigenen Landsleuten auswählen; unser Land braucht ein hartes und energisches Durchsetzen deutscher Interessen gegenüber dem Ausland; im nationalen Interesse ist unter bestimmten Umständen eine Diktatur die bessere Staatsform; Leute wie ich haben so oder so keinen Einfluss darauf, was die Regierung tut (Political Efficacy); Parteien wollen nur die Stimmen der Wähler, ihre Ansichten interessieren sie nicht; heute ändert sich alles so schnell, dass ich oft nicht weiß, woran ich mich halten soll (Anomie); Kriminalitätsfurcht; Abstiegsangst; Lebenszufriedenheit; manche Gruppen von Menschen sind anderen einfach überlegen; um im Leben voranzukommen, muss man sich über andere hinwegsetzen; Wunsch nach Rückkehr zur sozialistischen Ordnung; Juden versuchen heute Vorteile daraus zu ziehen, dass sie während der Nazi-Zeit die Opfer gewesen sind; zukünftig den Wertvorstellungen und Maßstäben anderer Kulturen stärker öffnen; die meisten Flüchtlinge und Asylsuchenden sind aufgrund ihrer Kultur gar nicht in Deutschland integrierbar; Zuwanderer sollten ihren Lebensstil beibehalten dürfen; Frauen sollten sich wieder mehr auf die Rolle der Ehefrau und Mutter besinnen; mit dem Begriff Heimat verbundene Assoziationen; Wichtigkeit von Heimat; Verbundenheit mit der Gemeinde, mit der Region, mit Thüringen, mit Deutschland und mit Europa; Region; Wichtigkeit verschiedener Aspekte für eine Identität als Thüringer (in Thüringen geboren zu sein, mindestens ein Thüringer Elternteil zu haben, sich als Thüringer zu fühlen, der Teilnahme am politischen Leben in Thüringen, in Thüringen aufgewachsen zu sein, lange in Thüringen gelebt zu haben, einen der Thüringer Dialekte zu sprechen, Thüringer Traditionen zu pflegen); Beurteilung der Umgebung im Hinblick auf: Berufsaussichten, Bildungsangebote, Freizeit- und Kulturangebote, Umweltbedingungen, Lebensbedingungen, Einkaufsmöglichkeiten, öffentlichen Nahverkehr, Versorgung mit Ärzten und Pflegeeinrichtungen, Erreichbarkeit von Behörden, Kinderbetreuungseinrichtungen und Schulen, Internetzugang, öffentliche Sicherheit; Bereitschaft zur Erledigung von Behördenangelegenheiten per Internet; Zukunft der eigenen Region; Rettung der Umwelt nur bei weniger Konsum; Vorrang für Wirtschaftswachstum, außer, wenn die Umwelt dabei Schaden nimmt; um die Umwelt zu schonen, sollte auf das eigene Auto verzichtet werden; Meinung zu Maßnahmen im Zuge einer klimafreundlichen Energiepolitik; generell dafür oder dagegen, gezielt Arbeitskräfte im Ausland anzuwerben; Einschätzung des Zusammenlebens von Menschen unterschiedlicher Herkunft, Religionen und Kulturen in Thüringen; persönlicher Kontakt zu Flüchtlingen oder Asylsuchenden; Empfindungen bei der persönlichen Begegnung mit Flüchtlingen; Gefühl der Störung durch den Bau von Moscheen in der Nachbarschaft;  Gefühl der Störung wenn muslimische Frauen in der Öffentlichkeit Kopftuch tragen; Parteineigung; Stärke der Parteineigung; politische Partizipation: an einen Politiker wenden, Teilnahme an einer Unterschriftenaktion, Mitarbeit in einer politischen Partei bzw. Bürgerinitiative,  Teilnahme an einer Demonstration, für eigene Ziele kämpfen auch mit Gewaltanwendung; Bereitschaft zu ehrenamtlichem Engagement; Überfremdung Thüringens durch die vielen Ausländer; bei der Politik, die Israel macht, kann ich gut verstehen, dass man etwas gegen Juden hat; die meisten Arbeitslosen machen sich auf Kosten der Anderen ein schönes Leben; in diesen Zeiten brauchen wir unbedingt eine starke Hand; von den eigenen Kindern Gehorsam und Disziplin verlangen um sie zu anständigen Bürgern zu erziehen, Einstellung gegenüber Muslimen (die meisten Muslime akzeptieren unsere im Grundgesetz festgeschriebenen Werte, stellen zu viele Forderungen, Muslimen sollte die Zuwanderung nach Deutschland untersagt werden); bei der Prüfung von Asylanträgen sollte der Staat großzügig sein; der Nationalsozialismus hatte auch seine guten Seiten; deutsche Leistungen größer als die anderer Völker; Recht des Stärkeren auch in der Gesellschaft; die meisten Asylbewerber befürchten nicht wirklich in ihrem Heimatland verfolgt zu werden; in unserer Demokratie werden die Anliegen der Menschen nicht mehr wirksam vertreten; es sollte mehr für die Mehrheit im Land getan werden als sich um Minderheiten zu kümmern; wir sollten uns wieder mehr auf unsere Traditionen besinnen; Westdeutsche behandeln Ostdeutsche als Menschen zweiter Klasse; DDR hatte mehr gute als schlechte Seiten; Juden haben etwas Besonderes und Eigentümliches an sich und passen nicht so recht zu uns; gesellschaftlicher Zusammenhalt in Deutschland ist gefährdet; Rückführung aller Flüchtlinge und Asylsuchenden in ihre Heimatländer, sobald Krieg und Verfolgung beendet sind; verpflichtende Teilnahme an Integrations- und Sprachkursen für alle Flüchtlinge und Asylsuchenden; wer schon immer hier lebt, sollte mehr Rechte haben als später Zugezogene; Wohnumgebung durch die vielen Ausländer überfremdet. 
+Demographie: Alter (Geburtsjahr); Familienstand; Berufstätigkeit; Sozialisation Ost/ West; berufliche Stellung; Beschäftigung im öffentlichen Dienst; Sicherheit des Arbeitsplatzes; Bildung; Haushaltsgröße; Anzahl Kinder insgesamt; Anzahl der Kinder unter 18 Jahren; Religionsgemeinschaft; Migrationshintergrund; Zuzug nach Thüringen aus einem anderen Bundesland oder aus dem Ausland; Wegzugsabsicht; Nettoeinkommen.
+Welle 2019:
+Gesundheit: Zufriedenheit mit der medizinischen Versorgung in Deutschland und in Thüringen; Zufriedenheit mit den Leistungen der Krankenkasse; Zufriedenheit mit der Gesundheitsversorgung in der näheren Umgebung in Bezug auf: Hausärzte, Fachärzte, Erreichbarkeit des nächsten Krankenhauses, Versorgung mit Psychotherapeuten, Apotheken, ambulanten Pflegediensten, Einrichtungen der Gesundheitsberatung, Versorgung mit Hebammen und Geburtshäusern, Wartezeit auf einen Termin bei Fachärzten; Versorgungslücken oder andere Probleme im Bereich der Gesundheitsversorgung  (offen); Meinung zum Berufsbild der Versorgungsassistenz in der Hausarztpraxis; Beurteilung der persönlichen finanziellen Belastungen durch medizinische Behandlungen und Medikamente; Einschätzung der Maßnahmen zum Erhalt und zur Förderung der Gesundheit am eigenen Arbeitsplatz; Einstellung zur Organspende; Blutspender.
+Pflege: Beurteilung der persönlichen finanziellen Belastung durch Pflege; Einschätzung der zeitlichen Belastung, der gesundheitlichen Belastung sowie der Belastung für die Berufstätigkeit durch Pflegeaufgaben; Akzeptanz von Seniorenwohngemeinschaft oder Mehrgenerationenhaus als Möglichkeit des Wohnens im Alter; Bereitschaft zum Umzug in eine altersgerechte Wohnung.
+Gesundheitspolitische Maßnahmen: Wichtigkeit verschiedener gesundheitspolitischer Maßnahmen (Gewinnung von Hausärzten für den ländlichen Raum, Einrichtung von medizinischen Gesundheitszentren, Anwerbung von Fachkräften für den Bereich Pflege und Gesundheit aus dem Ausland, Ausweitung der Medizin-Studienplatzangebote, Förderung von ärztlicher Betreuung und Beratung über das Internet (Videosprechstunde), Förderung mobiler Arztpraxen im ländlichen Raum und die Ausweitung von Angeboten zur Vorbeugung von Erkrankungen und für den Erhalt der Gesundheit; dafür vs. dagegen Pflegefachkräfte aus dem Ausland anzuwerben; Befürwortung höherer Gehälter für Pflegekräfte; Zustimmung zur Forderung nach einer Versicherung aller Bürger, also auch von Beamten und Selbständigen, in den gesetzlichen Krankenkassen. 
+Demographie: Mitglied einer gesetzlichen Krankenkasse oder privatversichert; chronische Krankheit oder Behinderung; eigene Pflegebedürftigkeit (Pflegegrad); Berufstätigkeit; abgeschlossene Berufsausbildung; höchster Bildungsabschluss der Eltern. 
+Welle 2020:
+Corona-Krise: Persönlich von Corona betroffen bzw. Verwandte, Freunde oder enge Bekannte;  Forderung nach härteren Strafen für Menschen, die sich nicht an die Corona-Maßnahmen halten; zum Schutz der Bevölkerung vor dem Corona-Virus müssen notfalls auch Grundrechte eingeschränkt werden; sollten dankbar sein für führende Köpfe, die uns sagen, wie wir die Corona-Krise bewältigen; Gefahr durch das Corona-Virus wird von den Medien stark übertrieben; Existenz geheimer Organisationen, die während der Corona-Krise großen Einfluss auf politische Entscheidungen haben; Verunsicherung durch wechselnde Einschätzungen der Experten; Corona-Virus nicht schlimmer als eine Grippe; vertraue eigenen Gefühlen im Umgang mit Corona mehr als Experten; bei der Bewältigung der Corona-Krise sollte die Opposition die Regierung nicht kritisieren sondern unterstützen; Einschätzung der Gefahr durch die Corona-Krise im Hinblick auf das Gesundheitssystem, en gesellschaftlichen Zusammenhalt, die Wirtschaft, die demokratischen Grundrechte, die eigene Gesundheit und die persönliche wirtschaftliche Situation; Impfbereitschaft; Beurteilung verschiedener Maßnahme zur Eindämmung der Corona-Pandemie (Einschränkung persönlicher Kontakte, Maskenpflicht, Schließung von Schulen und Kitas, Schließung von Läden und Restaurants; zu wenige vs. zu viele Maßnahmen der Politiker in Bezug auf folgende Punkte: medizinische Versorgung, Einschränkung des öffentlichen Lebens, Verminderung wirtschaftlicher Schäden; zur Bewältigung der Corona-Krise persönlich am wichtigsten (offen); Zufriedenheit mit der öffentlichen Kommunikation von Politikern in der Corona-Krise; Veränderungen des persönlichen Lebens in der Corona-Krise im Hinblick auf Familienleben, persönliche wirtschaftliche Situation, und soziale Kontakte; Zufriedenheit mit der bisherigen Politik in der Corona-Krise auf Bundesebene, im Kreis bzw. der Stadt und auf Landesebene; Vertrauen in die Wissenschaft;  wichtige Entscheidungen sollten in einer Demokratie besser von unabhängigen Experten als von gewählten Politikern getroffen werden; es ist Zeit für mehr Widerstand gegen die aktuelle Politik.
+Welle 2021:
+Corona-Krise: Bewertung der Corona-Politik der Bundesregierung, der Landesregierung, der Kommune; Wahrnehmung von Gefahren durch die Corona-Krise für den gesellschaftlichen Zusammenhalt, für die demokratischen Grundrechte, für die eigene Gesundheit, für die persönliche wirtschaftliche Situation sowie für die Bildungschancen junger Menschen; Gefahr durch das Corona-Virus wird von den Medien stark übertrieben; Existenz geheimer Organisationen, die während der Corona-Krise großen Einfluss auf politische Entscheidungen haben; Corona-Virus nicht schlimmer als eine Grippe; vertraue eigenen Gefühlen im Umgang mit Corona mehr als Experten; Regierung hat Bevölkerung gezielt in Angst versetzt, um massive Grundrechtseinschränkungen durchsetzen zu können; Maßnahmen zur Eindämmung der Pandemie sind stark übertrieben; Politik unternimmt genug, um Maßnahmen zu erklären; müssen aufpassen, nicht in Diktatur abzugleiten; Wer Corona-Einschränkungen mit Nazi-Zeit vergleicht, verhöhnt wirkliche Opfer der NS-Diktatur; persönlich von Corona gesundheitlich betroffen; Bereitschaft zur Teilnahme an einer Protestdemonstration gegen die Corona-Maßnahmen.
+Demokratieverständnis: wichtigstes Merkmal von Demokratie; Beurteilung der Relevanz von unterschiedlichen Demokratiemerkmalen: Gleichheit vor dem Gesetz; Staat kümmert sich um die Schwachen; gleiche Lebenschancen für alle; Meinungsfreiheit; freie und geheime Wahlen; starke Opposition; Minderheitenrechte; Politiker richten Politik an Wünschen der Bürger aus; Politiker informieren sich über Wünsche der Bürger; Politiker erklären Entscheidungen; gleiche Rechte für alle, die dauerhaft im Land leben; Abgeordnete sollten Spiegel der Gesellschaft sein; enger Dialog zwischen Politik und Bürgern; aktive Beteiligung von Bürgern.
+Welle 2022:
+Thüringen braucht den Vergleich mit vielen westdeutschen Bundesländern nicht zu scheuen; die wirtschaftliche Lage in Thüringen ist besser als in anderen ostdeutschen Bundesländern; Beurteilung der wirtschaftlichen Lage in Thüringen und der eigenen finanziellen Situation; gerechter Anteil am Lebensstandard im Vergleich mit anderen in Deutschland; Überwiegen von Vorteilen oder Nachteilen der deutschen Einheit; persönlich erfahrene Benachteiligung aufgrund der ostdeutschen Herkunft; Politikinteresse; Demokratie ist die beste aller Staatsideen; Demokratiezufriedenheit; Institutionenvertrauen (Bundesregierung, Landesregierung, Gerichte, Bürgermeister in Thüringen, Zustimmung zu verschiedenen Aussagen: Überfremdung der Bundesrepublik durch die vielen Ausländer; die Ausländer kommen nur hierher, um unseren Sozialstaat auszunutzen; es gibt wertvolles und unwertes Leben; Ausländer sollten grundsätzlich ihre Ehepartner unter den eigenen Landsleuten auswählen; unser Land braucht ein hartes und energisches Durchsetzen deutscher Interessen gegenüber dem Ausland; im nationalen Interesse ist unter bestimmten Umständen eine Diktatur die bessere Staatsform; Leute wie ich haben so oder so keinen Einfluss darauf, was die Regierung tut (Political Efficacy); Parteien wollen nur die Stimmen der Wähler, ihre Ansichten interessieren sie nicht; heute ändert sich alles so schnell, dass ich oft nicht weiß, woran ich mich halten soll (Anomie); Kriminalitätsfurcht; Abstiegsangst; Lebenszufriedenheit; manche Gruppen von Menschen sind anderen einfach überlegen; um im Leben voranzukommen, muss man sich über andere hinwegsetzen; Wunsch nach Rückkehr zur sozialistischen Ordnung; durch den Feminismus werden in unserer Gesellschaft die Männer systematisch benachteiligt; das Volk sollte die wichtigsten Entscheidungen treffen und nicht die Politiker; die Politiker sind sich immer einige, wenn es darum geht ihre Privilegien zu schützen; die Regierung hat die Bevölkerung in der Corona-Krise gezielt in Angst und Schrecken versetzt, um massive Grundrechtseinschränkungen durchsetzen zu können.
+Stadt und Land: Assoziationen zu den Begriffen Stadt und Land (offen); Charakterisierung der eigenen Stadt oder Gemeinde anhand von Gegensatzpaaren (ländlich/ städtisch, traditionell/ modern, anonym/ sozial vernetzt, abseits/ zentral, familienunfreundlich/ familienfreundlich, ruhig/ lebhaft, kein attraktiver Ort zum Leben/ ein attraktiver Ort zum Leben); Verbundenheit mit der Stadt oder Gemeinde, der Region und mit Thüringen; Zufriedenheit mit dem Wohnort hinsichtlich folgender Aspekte: mobile Datenversorgung, ÖPNV, Notfallversorgung und Versorgung mit Hausärzten; Erreichbarkeit von: Einkaufsmöglichkeiten für den alltäglichen Bedarf, Facharzt, kulturellen Einrichtungen und Freizeitmöglichkeiten, Kinderbetreuungseinrichtungen und Schulen sowie Angeboten von Pflegeleistungen, Zufriedenheit mit der Hilfe unter Nachbarn und Bekannten, der Aktivität von Vereinen und der Bereitschaft zum ehrenamtlichen Engagement; Bewertung der Entwicklung der Stadt/ Gemeinde in den letzten 10 bis 15 Jahren; Beurteilung der wirtschaftlichen Lage der Stadt oder Gemeinde im Vergleich zum Rest von Thüringen und im Vergleich zum Rest von Deutschland; erwartete zukünftige Entwicklung der Stadt oder Gemeinde; Problemwahrnehmung für die Stadt oder Gemeinde durch die Abwanderung von jungen Menschen, Fachkräftemangel von jungen Menschen und die Verfügbarkeit von bezahlbarem Wohnraum,  Meinung zur Landespolitik und zu den Menschen im Rest von Thüringen (die Politik in Erfurt hat zu wenig getan, um die wirtschaftliche Situation in meiner Region zu verbessern, die Menschen im Rest von Thüringen verstehen und respektieren nicht, wie die Menschen in meiner Region leben, die Politiker in Erfurt interessieren sich nicht für die Region in der ich lebe); Meinung zur Bundespolitik und zu den Menschen im Rest von Deutschland (die Politik in Berlin hat zu wenig getan, um die wirtschaftliche Situation meiner Region zu verbessern, die Menschen im Rest von Deutschland verstehen und respektieren nicht, wie die Menschen in meiner Region leben, die Politiker in Berlin interessieren sich nicht für die Region, in der ich lebe); Einverständnis mit neuen Erneuerbare-Energien-Anlagen im Wohnumfeld; ausreichende Berücksichtigung der Anliegen von Bürgern beim Aufbau Erneuerbarer-Energien-Anlagen.
+Parteineigung; politische Partizipation (Teilnahme an einer Unterschriftensammlung, Mitarbeit in einer politischen Partei, Teilnahme an einer genehmigten bzw. einer nicht genehmigten Demonstration, politische Gewalt); ehrenamtliches Engagement; regelmäßige Teilnahme an Bundestagwahlen; Zustimmung zu verschiedenen Aussagen: bei der Politik, die Israel macht, kann ich gut verstehen, dass man etwas gegen Juden hat; es macht mir Sorgen, durch die gesellschaftliche Entwicklung immer mehr auf die Verliererseite des Lebens zu geraten; in diesen Zeiten brauchen wir unbedingt eine starke Hand; wer seine Kinder zu anständigen Bürgern erziehen will, muss von ihnen vor allem Gehorsam und Disziplin verlangen; die meisten in Deutschland lebenden Muslime akzeptieren unsere Werte, so wie sie im Grundgesetz festgeschrieben sind; der Nationalsozialismus hatte auch seine guten Seiten; andere Völker mögen Wichtiges vollbracht haben, an deutsche Leistungen reicht das aber nicht heran; wie in der Natur sollte sich auch in der Gesellschaft immer der Stärkere durchsetzen; die Politiker bemühen sich im Allgemeinen darum, die Interessen der Bevölkerung zu vertreten; die Herrschenden und Mächtigen handeln gegen die Interessen der einfachen Bevölkerung,; es ist Zeit, mehr Widerstand gegen die aktuelle Politik zu zeigen; wir sollten uns wieder stärker auf unsere Traditionen besinnen; Westdeutsche behandeln Ostdeutsche als Menschen zweiter Klasse; die DDR hatte mehr gute als schlechte Seiten; die Juden haben etwas Besonderes und Eigentümliches an sich und passen nicht so recht zu uns; die Bürger in Deutschland sind sich im Prinzip einig darüber, was politische passieren muss; was in der Politik Kompromiss genannt wird, ist in Wirklichkeit nur ein Verrat von Prinzipien; es wird immer nur von der Judenverfolgung geredet, wie die Deutschen gelitten haben, davon redet niemand; die herrschenden Eliten verfolgen das Ziel, das deutsche Volk durch Einwanderer auszutauschen, die westliche Welt hat sich gegen Russland und Putin verschworen, um die eigene Macht auszubauen; meine Wohnumgebung ist durch die vielen Ausländer in einem gefährlichen Maß überfremdet; heutzutage kann man seine Meinung nicht frei äußern, weil man sonst Nachteil haben könnte. 
+Demographie: Alter (Geburtsjahr); Geschlecht; Familienstand; Berufstätigkeit; Sozialisation; Wohndauer am Wohnort; Beruf; Sicherheit des Arbeitsplatzes; finanzielle Sorgen durch höhere Lebenshaltungskosten infolge der Inflation; Bildung: höchster Schulabschluss; höchster beruflicher Bildungsabschluss; Haushaltsgröße; Anzahl der Kinder im Haushalt; eigene Kinder außerhalb des Haushalts; Religionsgemeinschaft; Ortsgröße; Haushaltsnettoeinkommen.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The Thüringen-Monitor is a representative population survey on political culture in the Free State of Thuringia that has been held annually since 2000. It contains fixed and changing questions. The Thuringia Monitor is commissioned by the Thuringian State Chancellery (Erfurt). A particular focus is on research into right-wing extremist attitudes, acceptance of democracy, satisfaction with democracy and the institutional trust of the Thuringian population. The basic population is the electorate of the Free State of Thuringia. By 2022, a total of 22 survey waves with at least 1,000 respondents each were carried out in the trend design by changing survey institutes (CATI, random sampling according to the Gabler-Häder design). No survey took place in 2009. From 2012, the data were weighted according to the Thuringian State Statistical Office with regard to age, gender, education and household size (IPF weighting).
+From 2000 to 2022, a total of 1,362 different variables were collected in the Thüringen-Monitor, which can be assigned to the following categories:
+1 Deprivation/Anomy/Satisfaction2 Thuringia/Identity/German Unity3 Politics/Democracy/Institutions/Actors4 Right-wing extremism/attitude towards migration/minorities5 GDR/Socialism6 Social State/Market Economy/Ecology7 Social problems8 Values9 Family/education and education/generational relations10 Internationalization/Europeanization/Cultural Competence11 Health and care12 Covid-19 Pandemic13 City and country14 Environment and climate
+The series of measurements on right-wing extremist attitudes is based on ten consent items (with four-step response scales) and begins in 2001. According to the consensus definition of right-wing extremism, it covers the following attitudinal dimensions: xenophobia, nationalism/chauvinism, social Darwinism, trivialisation of National Socialism, anti-Semitism and advocacy of a right-wing dictatorship (vgl. Heinrich Best / Katja Salomo (2014): Güte und Reichweite der Messung des Rechtsextremismus im THÜRINGEN-MONITOR 2000 bis 2014. Expertise für die Thüringer Staatskanzlei. Erfurt.)</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Sociodemography: age (year of birth); sex; occupational status; length of unemployment (in months); unemployment longer than six months since the fall of communism; employment in the public sector; occupation; main occupation; highest educational attainment of respondent; highest educational attainment of parents; education of partner; activity of partner; GDR citizen before October 1989; number of grandchildren; marital status; place of birth; net household income; household composition: number of children under 18 (2000: under 16) years of age in the household; number of persons in the household as a whole; number of persons in the household from 18 years of age; household size (grouped); number of children outside the household; children currently attending day-care centre, school, (technical) college; number of own children in total; number of desired children; number of children in school; number of children under 6 years of age; frequency of church attendance; fixed partnership; living together with partner; denomination; housing situation; job security; socialisation (East/West / abroad); residential status; number of telephone numbers in the household.
+Additionally coded was: Wave (survey year); interview number; person weight; quota groups gender and age for IPF weighting from 2012 onwards; random variables (2013, 2014); answer open question and question order (2015); average population share district 2005 to 2009; consistency of freedom; class of location; residence size; perceived responsivity of other public right-wing extremist activities (share of district in total number of Thuringia and number of incidents in district); suspected right-wing extremist crimes (share of district in total number of Thuringia and number of incidents in district).
+Wave 2000:
+Agreement with various statements: Thuringia need not shy away from comparison with many West German states; the economic situation in Thuringia is better than in other East German states; identity as a Thuringian, as an East German, as a German or as a European; assessment of the economic situation in Thuringia and of one´s own financial situation; fair share of standard of living compared with others in Germany; preponderance of advantages or disadvantages of German unification; personally experienced disadvantage due to East German origin; preference for freedom vs. equality or freedom vs. security.
+Politics and society: left-right self-ranking; interest in politics; democracy as the best of all state ideas; satisfaction with democracy; trust in institutions (federal government, state government, courts, police, doctors, nurses); overfamiliarity with many foreigners; can understand and assess political issues well; agreement with various statements: foreigners only come here to exploit our welfare state; there are valuable and unvaluable lives; foreigners should in principle choose their spouses from among their own countrymen; our country needs tough and vigorous enforcement of German interests against foreign countries; in the national interest, a dictatorship is the better form of government in certain circumstances; people like me have no influence on what the government does (political efficacy); parties only want the votes of the electorate, they are not interested in their views; today everything is changing so fast that I often don´t know what to stick to (anomie); fear of crime; fear of descent; satisfaction with life; some groups of people are simply superior to others; in order to get ahead in life one has to override others; desire for a return to the socialist order; Jews today try to take advantage of the fact that they were the victims during the Nazi era; open up more to the values and standards of other cultures in the future; most refugees and asylum seekers cannot be integrated into Germany at all because of their culture; immigrants should be allowed to retain their lifestyle; women should once again focus more on the role of wife and mother; associations associated with the concept of home; importance of home; attachment to the community, to the region, to Thuringia, to Germany and to Europe; Region; importance of various aspects for an identity as a Thuringian (being born in Thuringia, having at least one Thuringian parent, feeling Thuringian, participating in political life in Thuringia, having grown up in Thuringia, having lived in Thuringia for a long time, speaking one of the Thuringian dialects, maintaining Thuringian traditions); assessment of the environment with regard to: Job prospects, educational opportunities, leisure and cultural opportunities, environmental conditions, living conditions, shopping opportunities, local public transport, provision of doctors and care facilities, accessibility of authorities, childcare facilities and schools, internet access, public safety; willingness to deal with official matters via the internet; future of own region; Saving the environment only with less consumption; priority for economic growth, unless the environment is damaged in the process; to protect the environment, people should do without their own cars; opinion on measures in the course of a climate-friendly energy policy; generally for or against recruiting workers abroad in a targeted manner; assessment of people of different origins, religions and cultures living together in Thuringia; Personal contact with refugees or asylum seekers; feelings when meeting refugees in person; feeling disturbed by the building of mosques in the neighbourhood; feeling disturbed when Muslim women wear headscarves in public; party affiliation; strength of party affiliation; political participation: approaching a politician, taking part in a signature campaign, working in a political party or citizens´ initiative, fighting for one´s own goals, even with the use of violence; willingness to do voluntary work; being overly alienated by the many foreigners in Thuringia; with the policies that Israel is pursuing, I can well understand that people have something against Jews; most unemployed people make a nice life for themselves at the expense of others; in these times we absolutely need a strong hand; demand obedience and discipline from one´s own children to raise them to be decent citizens; attitude towards Muslims (most Muslims accept our values laid down in the Basic Law, make too many demands, Muslims should be banned from immigrating to Germany); the state should be generous when examining asylum applications; National Socialism also had its good sides; German achievements greater than those of other peoples; right of the strongest also in society; most asylum seekers do not really fear persecution in their home country; in our democracy people´s concerns are no longer effectively represented; more should be done for the majority in the country than worrying about minorities; we should think more about our traditions again; West Germans treat East Germans as second-class people; GDR had more good sides than bad; Jews have something special and peculiar about them and don´t really fit in; social cohesion in Germany is endangered; repatriation of all refugees and asylum seekers to their home countries as soon as war and persecution have ended; compulsory participation in integration and language courses for all refugees and asylum seekers; those who have lived here all their lives should have more rights than those who moved here later; living environment overly alienated by the many foreigners.
+Demography: age (year of birth); marital status; occupation; socialisation east/west; occupational status; employment in public service; job security; education; household size; total number of children; number of children under 18; religious community; migration background; moving to Thuringia from another federal state or from abroad; intention to move away; net income.
+Wave 2019:
+Health: satisfaction with medical care in Germany and in Thuringia; satisfaction with health insurance services; satisfaction with health care in the immediate vicinity with regard to: GPs, specialists, accessibility of the nearest hospital, provision of psychotherapists, pharmacies, outpatient nursing services, health advice facilities, provision of midwives and birthing centres, waiting time for an appointment with specialists; gaps in provision or other problems in the area of health care (open); opinion on the job description of care assistants in GP practices; assessment of the personal financial burden of medical treatment and medication; assessment of measures to maintain and promote health in one´s own workplace; attitude towards organ donation; blood donors.
+Care: assessment of the personal financial burden of care; assessment of the time burden, the health burden as well as the burden on one´s occupation due to care tasks; acceptance of senior housing community or multi-generation house as a possibility of living in old age; willingness to move into an age-appropriate flat.
+Health policy measures: Importance of various health policy measures (attracting family doctors to rural areas, setting up medical health centres, recruiting nursing and health professionals from abroad, expanding medical school places, promoting medical care and advice via the internet (video consultation hours), promoting mobile medical practices in rural areas and expanding offers for preventing illness and maintaining health; for vs. against recruiting care workers from abroad; support for higher salaries for care workers; agreement with the demand for all citizens, i.e. also civil servants and self-employed, to be insured in the statutory health insurance funds.
+Demography: member of a statutory health insurance fund or privately insured; chronic illness or disability; own need for care (care degree); occupation; completed vocational training; highest educational attainment of parents.
+Wave 2020:
+Corona crisis: Personally affected by Corona resp. relatives, friends or close acquaintances; demand harsher punishments for people who do not comply with Corona measures; to protect the population from the Corona virus, basic rights must also be restricted if necessary; should be grateful for leaders who tell us how to deal with the Corona crisis; danger from the Corona virus is greatly exaggerated by the media; existence of secret organisations that have great influence on political decisions during the Corona crisis; uncertainty due to changing assessments by experts; Corona virus no worse than flu; Trust own feelings in dealing with Corona more than experts; in dealing with the Corona crisis, the opposition should not criticise the government but support it; assessment of the danger posed by the Corona crisis with regard to the health system, social cohesion, the economy, basic democratic rights, one´s own health and personal economic situation; willingness to be vaccinated; assessment of various measures to contain the Corona pandemic (restriction of personal contacts, compulsory wearing of masks, closure of schools and day-care centres, closure of shops and restaurants; too few vs. too many measures taken by politicians with regard to the following: medical care, restriction of public life, reduction of economic damage; personally most important (open) for coping with the Corona crisis; satisfaction with public communication by politicians during the Corona crisis; changes in personal life during the Corona crisis with regard to family life, personal economic situation, and social contacts; satisfaction with previous policies during the Corona crisis at the federal, district/city, and state level; trust in science; important decisions in a democracy should better be made by independent experts than by elected politicians; it is time for more resistance against current policies.
+Wave 2021:
+Corona crisis: Evaluation of the Corona policy of the federal government, the state government, the municipality; perception of dangers posed by the Corona crisis for social cohesion, for basic democratic rights, for one´s own health, for one´s personal economic situation as well as for the educational opportunities of young people; danger posed by the Corona virus is greatly exaggerated by the media; existence of secret organisations that have great influence on political decisions during the Corona crisis; Corona virus no worse than flu; trust own feelings more than experts when dealing with Corona; government has deliberately put population in fear in order to be able to enforce massive restrictions on basic rights; measures to contain the pandemic are greatly exaggerated; politicians are doing enough to explain measures; must be careful not to slide into dictatorship; those who compare Corona restrictions with Nazi period ridicule real victims of Nazi dictatorship; personally affected by Corona in terms of health; willing to take part in a protest demonstration against Corona measures.
+Understanding of democracy: most important feature of democracy; assessment of relevance of different features of democracy: equality before the law; state cares for the weak; equal life chances for all; freedom of expression; free and secret elections; strong opposition; minority rights; politicians align policies with citizens´ wishes; politicians inform themselves about citizens´ wishes; politicians explain decisions; equal rights for all who live permanently in the country; MPs should be mirrors of society; close dialogue between politics and citizens; active participation of citizens.
+Wave 2022:
+Thuringia need not fear comparison with many West German federal states; economic situation in Thuringia is better than in other East German federal states; assessment of economic situation in Thuringia and own financial situation; fair share of standard of living compared with others in Germany; predominance of advantages or disadvantages of German unification; personally experienced disadvantage due to East German origin; interest in politics; democracy is the best of all state ideas; satisfaction with democracy; trust in institutions (federal government, state government, courts, mayors in Thuringia, agreement with various statements: Over-alienation of the Federal Republic by the many foreigners; the foreigners only come here to take advantage of our welfare state; there is valuable and unvaluable life; foreigners should in principle choose their spouses from among their own compatriots; our country needs a tough and vigorous enforcement of German interests vis-à-vis foreign countries; in the national interest, under certain circumstances, a dictatorship is the better form of government; people like me have no influence either way on what the government does (political efficacy); parties only want the votes of the electorate, they are not interested in their views; today everything changes so fast that I often don´t know what to adhere to (anomie); fear of crime; fear of descent; life satisfaction; some groups of people are simply superior to others; in order to get ahead in life, one must override others; desire for a return to the socialist order; feminism systematically disadvantages men in our society; the people should make the most important decisions and not the politicians; politicians are always in agreement when it comes to protecting their privileges; the government deliberately frightened the population in the Corona crisis in order to be able to impose massive restrictions on fundamental rights.
+Town and country: associations with the terms town and country (open); characterisation of one´s own town or municipality on the basis of pairs of opposites (rural/ urban, traditional/ modern, anonymous/ socially networked, remote/ central, family unfriendly/ family friendly, quiet/ lively, not an attractive place to live/ an attractive place to live); attachment to the town or municipality, the region and to Thuringia; satisfaction with the place of residence with regard to the following aspects: mobile data provision, local public transport, emergency care and provision of GPs; accessibility of: Shopping facilities for everyday needs, specialist doctor, cultural and leisure facilities, childcare facilities and schools as well as offers of care services; satisfaction with the help among neighbours and acquaintances, the activity of associations and the willingness to do voluntary work; assessment of the development of the town/municipality in the last 10 to 15 years; Assessment of the economic situation of the town or municipality compared to the rest of Thuringia and compared to the rest of Germany; expected future development of the town or municipality; perception of problems for the town or municipality due to out-migration of young people, lack of skilled workers among young people and availability of affordable housing; opinion on state politics and the people in the rest of Thuringia (the politicians in Erfurt have done too little to improve the economic situation in my region, the people in the rest of Thuringia do not understand and respect how the people in my region live, the politicians in Erfurt are not interested in the region I live in); opinion about federal politics and about the people in the rest of Germany (the politicians in Berlin have done too little to improve the economic situation in my region, the people in the rest of Germany do not understand and respect how the people in my region live, the politicians in Berlin are not interested in the region where I live); agreement with new renewable energy plants in the residential area; sufficient consideration of citizens´ concerns when building renewable energy plants.
+Party affiliation; political participation (participation in a signature collection, participation in a political party, participation in an authorized or an an unauthorized demonstration, political violence); volunteer work; regular participation in federal elections; agreement with various statements: with the policies Israel is making, I can well understand having something against Jews; it worries me to get more and more on the losing side of life due to social development; in these times we absolutely need a strong hand; whoever wants to raise his children to be decent citizens must demand obedience and discipline from them above all; most Muslims living in Germany accept our values as they are laid down in the Basic Law; National Socialism also had its good sides; other peoples may have accomplished important things, but they do not come close to German achievements; as in nature, the strongest should always prevail in society; politicians generally strive to represent the interests of the people; the ruling and powerful act against the interests of the ordinary people; it is time to show more resistance to current politics; we should think more about our traditions again; West Germans treat East Germans as second-class people; the GDR had more good sides than bad; the Jews have something special and peculiar about them and don´t really fit in with us; the citizens in Germany agree in principle about what must happen politically; what is called compromise in politics is really just a betrayal of principles; there is always talk only about the persecution of the Jews, how the Germans suffered, nobody talks about that; the ruling elites are pursuing the goal of replacing the German people with immigrants; the Western world has conspired against Russia and Putin in order to expand its own power; my living environment has been dangerously alienated by the many foreigners; nowadays, one cannot express one´s opinion freely because otherwise one could be at a disadvantage.
+Demography: age (year of birth); sex; marital status; occupation; socialization; length of residence in the place of residence; occupation; job security; financial worries due to higher cost of living as a result of inflation; education: highest school-leaving qualification; highest vocational qualification; household size; number of children in the household; own children outside the household; religious community; size of place; net household income.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-TH</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte Personen ab 18 Jahren in Privathaushalten</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Eligible voters aged 18 and over in private households</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl
+
+Die Altersgruppe der 16-29 Jährigen wurde 2001 überrepräsentiert (Oversampling, N=600)
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Probability sample: Multi-stage random sample
+
+The age group 16-29 was overrepresented in 2001 (oversampling, N=600)</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-09-19</date>
+				</startDate>
+				<endDate>
+					<date>2000-09-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2001-05-16</date>
+				</startDate>
+				<endDate>
+					<date>2001-05-31</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-08-13</date>
+				</startDate>
+				<endDate>
+					<date>2002-08-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-09-03</date>
+				</startDate>
+				<endDate>
+					<date>2003-09-09</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2004-09-13</date>
+				</startDate>
+				<endDate>
+					<date>2004-09-28</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2005-06-20</date>
+				</startDate>
+				<endDate>
+					<date>2005-07-03</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-28</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2007-10-11</date>
+				</startDate>
+				<endDate>
+					<date>2007-10-24</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2008-06-26</date>
+				</startDate>
+				<endDate>
+					<date>2008-07-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-01-11</date>
+				</startDate>
+				<endDate>
+					<date>2010-01-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2011-05-02</date>
+				</startDate>
+				<endDate>
+					<date>2011-05-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-05-21</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-09</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2013-05-13</date>
+				</startDate>
+				<endDate>
+					<date>2013-05-27</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2014-05-26</date>
+				</startDate>
+				<endDate>
+					<date>2014-06-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2015-06-08</date>
+				</startDate>
+				<endDate>
+					<date>2015-06-27</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-05-30</date>
+				</startDate>
+				<endDate>
+					<date>2016-06-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2017-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2017-06-26</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2018-05-31</date>
+				</startDate>
+				<endDate>
+					<date>2018-07-07</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-27</date>
+				</startDate>
+				<endDate>
+					<date>2019-07-06</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2020-09-03</date>
+				</startDate>
+				<endDate>
+					<date>2020-10-05</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2021-06-04</date>
+				</startDate>
+				<endDate>
+					<date>2021-07-03</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2022-09-19</date>
+				</startDate>
+				<endDate>
+					<date>2022-12-06</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Trend/RepeatedCrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Infratest dimap, Bonn (2000 bis einschließlich 2008)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>aproxima, Weimar (2010)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen Telefonfeld, Mannheim (2011)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Institut für Soziologie, Friedrich-Schiller-Universität Jena (seit 2012)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>
+					</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>23414</numberUnits>
+			<numberVariables>1362</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Zusätzlich zu einer herkömmlichen Variablenliste und den Originalfragebögen wird ein Fragenkataster im Excel-Format bereitgestellt, in dem die Verfügbarkeit der Variablen nach Befragungswelle, die Item-Formulierungen sowie alle Veränderungen und Modifikationen dokumentiert werden.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>In addition to a traditional variable list and the original questionnaires, a question register is provided in Excel format in which the availability of the variables by survey wave, the item wording and all changes and modifications are documented.</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.13952</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.13811</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.13524</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.13311</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.13128</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.12570</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2014: Die Thüringer als Europäer. Drucksache des Thüringer Landtags 6/287.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2015: Thüringen im 25. Jahr der deutschen Einheit. Drucksache des Thüringer Landtags 6/1347.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2013: Wie leben wir? Wie wollen wir leben? – Zufriedenheit, Werte und gesellschaftliche Orientierungen der Thüringer Bevölkerung. Drucksache des Thüringer Landtags 5/7051.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2011: Staatsaufgaben und Staatsausgaben. Drucksache des Thüringer Landtags 5/3396.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2012: Thüringen International: Weltoffenheit, Zuwanderung und Akzeptanz. Drucksache des Thüringer Landtags 5/5244.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2010: Beziehungen und Verhältnis der Generationen in Thüringen. Drucksache des Thüringer Landtags 5/1120.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2008: Soziale Marktwirtschaft in Thüringen: Die Einstellungen der Bürgerinnen und Bürger. Drucksache des Thüringer Landtags 4/4734.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2007: Bildung in einer sich wandelnden Gesellschaft. Drucksache des Thüringer Landtags 4/3860.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2006: Thüringens Zukunft aus Bürgersicht: Erwartungen, Herausforderungen, Gestaltungsmöglichkeiten. Drucksache des Thüringer Landtags 4/2485.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2005: 1990–2005: Das vereinigte Deutschland im Urteil der Thüringer. Drucksache des Thüringer Landtags 4/1347.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2004: Gerechtigkeit und Eigenverantwortung. Einstellungen zur Reform des Sozialstaats. Drucksache des Thüringer Landtags 4/551.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2003: Einstellungen zur Demokratie. Drucksache des Thüringer Landtags 3/3765.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2001: Jugend und Politik. Drucksache des Thüringer Landtags 3/1970.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2002: Familie und Politik. Drucksache des Thüringer Landtags 3/2882.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2000: Politische Kultur im Freistaat Thüringen. Drucksache des Thüringer Landtags 3/1106.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Edinger, Michael; Hallermann, Andreas (2007): Politische Kultur in Thüringen – Ergebnisse des THÜRINGEN-MONITORs, in: Anselm Cypionka u.a. (Hrsg.): Perspektiven Politischer Kultur in Thüringen, Erfurt, S. 11–40.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Edinger, Michael; Hallermann, Andreas (2004): Politische Kultur in Ostdeutschland. Die Unterstützung des politischen Systems am Beispiel Thüringens. 
+Frankfurt a.M. u.a.: Peter Lang.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Best, Heinrich; Salomo, Katja (2014): Güte und Reichweite der Messung des Rechtsextremismus im THÜRINGEN-MONITOR 2000 bis 2014. Expertise für die Thüringer Staatskanzlei. Erfurt.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2018: Heimat Thüringen. Drucksache des Thüringer Landtags 6/6383.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2017: Thüringens ambivalente Mitte: Soziale Lagen und politische Einstellungen. Drucksache des Thüringer Landtags 6/4700.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2016: Gemischte Gefühle: Thüringen nach der "Flüchtlingskrise". Drucksache des Thüringer Landtags 6/2989.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Reiser, Marion; Best, Heinrich; Salheiser, Axel (2018): Gutachten zur Weiterentwicklung des Datenerhebungsdesigns des Thüringen-Monitors: Telefonische und persönlche Befragung im Vergleich. Begleitendes Methodenprojekt zum Thüringen-Monitor 2018.
+Jena: Friedrich-Schiller-Universität, KomRex - Zentrum für Rechtsextremismusforschung, Demokratiebildung und gesellschaftliche Integration.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Best, Heinrich; Miehlke, Marius; Salheiser, Axel (2018): Topografie des Rechtsextremismus und der gruppenbezogenen Menschenfeindlichkeit in Thüringen: Dokumentation und Analysen: Forschungsberricht 2018. 
+Jena: Friedrich-Schiller-Universität, KomRex - Zentrum für Rechtsextremismusforschung, Demokratiebildung und gesellschaftliche Integration.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Best, Heinrich (2018): Rechtsextremismus im Kontext der politischen Kultur des Freistaats Thüringen. Eine Metanalyse von Befunden der THÜRINGEN-MONITORe 2000-2017. 
+In: Torsten Oppelland (Hrsg.): Politik und Regieren in Thüringen. Institutionen, Strukturen und Politikfelder im 21. Jahrhundert.
+Wiesbaden: Springer VS, S. 99-113. </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Reiser, Marion; Best, Heinrich; Salheiser, Axel; Fürnberg, Ossip; Hebenstreit, Jörg; Vogel, Lars (2019): Politische Kultur im Freistaat Thüringen : Gesundheit und Pflege in Thüringen : Ergebnisse des Thüringen-Monitors 2019.
+Jena: Friedrich-Schiller-Universität, KomRex - Zentrum für Rechtsextremismusforschung, Demokratiebildung und gesellschaftliche Integration.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Reiser, Marion; Küppers, Anne; Hebenstreit, Jörg; Salheiser, Axel; Vogel, Lars (2020): Politische Kultur im Freistaat Thüringen : Die Corona-Pandemie im Thüringen : Ergebnisse des Thüringen-Monitors 2020.
+Jena: Friedrich-Schiller-Universität, KomRex - Zentrum für Rechtsextremismusforschung, Demokratiebildung und gesellschaftliche Integration.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Reiser, Marion; Küppers, Anne; Hebenstreit, Jörg; Salheiser, Axel; Vogel, Lars (2021): Politische Kultur im Freistaat Thüringen: Demokratie in der Corona-Pandemie. Ergebnisse des Thüringen-Monitors 2021. 
+Jena: Friedrich-Schiller-Universität Jena, KomRex - Zentrum für Rechtsextremismusforschung, Demokratiebildung und gesellschaftliche Integration.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2019: Gesundheit und Pflege in Thüringen. Drucksache des Thüringer Landtags 7/46.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2020: Die Corona-Pandemie in Thüringen. Drucksache des Thüringer Landtags 7/3054.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2021: Demokratie in der Corona-Pandemie: Drucksache des Thüringer Landtags 7/4518.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>THÜRINGEN-MONITOR 2022: Politische Kultur in Stadt und Land: Drucksache des Thüringer Landtags 7/8028.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Reiser, Marion; Küppers, Anne; Brandy, Volker; Hebenstreit, Jörg; Vogel, Lars (2022): Politische Kultur in Stadt und Land : Ergebnisse des Thüringen-Monitors 2022.
+Jena: Friedrich-Schiller-Universität Jena, KomRex - Zentrum für Rechtsextremismusforschung, Demokratiebildung und gesellschaftliche Integration.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

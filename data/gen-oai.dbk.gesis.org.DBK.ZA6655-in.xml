@@ -1,0 +1,629 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Children of Immigrants Longitudinal Survey in Four European Countries - Germany (CILS4EU-DE) - Full version. Data file for on-site use'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Children of Immigrants Longitudinal Survey in Four European Countries - Germany (CILS4EU-DE) - Vollversion. Datenbestand zur on-site Nutzung'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA6655</identifier>
+		<currentVersion>6.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Children of Immigrants Longitudinal Survey in Four European Countries - Germany (CILS4EU-DE) - Vollversion. Datenbestand zur on-site Nutzung</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Children of Immigrants Longitudinal Survey in Four European Countries - Germany (CILS4EU-DE) - Full version. Data file for on-site use</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Frank</firstName>
+				<middleName/>
+				<lastName>Kalter</lastName>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Irena</firstName>
+				<middleName/>
+				<lastName>Kogan</lastName>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Jörg</firstName>
+				<middleName/>
+				<lastName>Dollmann</lastName>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6655?doi=10.4232/cils4eu-de.6655.6.0.0</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/cils4eu-de.6655.6.0.0</doiProposal>
+	<publicationDate>
+		<date>2021-08-03</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6655</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT38</identifier>
+					<!-- Beruf -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+					<identifier>KAT55</identifier>
+					<!-- Erziehung, Schulwesen -->
+					<identifier>KAT60</identifier>
+					<!-- Freizeit -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Vorschulerziehung und Bildung in der Pflichtschulzeit</term>
+					<term>Freizeit, Tourismus und Sport</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Familie und Ehe</term>
+					<term>Jugend</term>
+					<term>Öffentliche Gesundheit/Public Health</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Compulsory and pre-school education</term>
+					<term>Leisure, tourism and sport</term>
+					<term>Cultural and national identity</term>
+					<term>Social conditions and indicators</term>
+					<term>Family life and marriage</term>
+					<term>Youth</term>
+					<term>Public health</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>Jugendlicher</keyword>
+				<keyword>Freizeitverhalten</keyword>
+				<keyword>soziale Beziehungen</keyword>
+				<keyword>Migrant</keyword>
+				<keyword>Integration</keyword>
+				<keyword>ethnische Beziehungen</keyword>
+				<keyword>Partnerschaft</keyword>
+				<keyword>soziale Herkunft</keyword>
+				<keyword>kulturelle Identität</keyword>
+				<keyword>Bildungsverlauf</keyword>
+				<keyword>Berufsverlauf</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>adolescent</keyword>
+				<keyword>leisure time behavior</keyword>
+				<keyword>social relations</keyword>
+				<keyword>migrant</keyword>
+				<keyword>integration</keyword>
+				<keyword>ethnic relations</keyword>
+				<keyword>partnership</keyword>
+				<keyword>social background</keyword>
+				<keyword>cultural identity</keyword>
+				<keyword>course of education</keyword>
+				<keyword>job history</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Freizeitverhalten, Freundschaften, Familie, Gefühle und Überzeugungen, Identität, derzeitige Situation und Berufsausbildung von Jugendlichen. Geschwistersituation. 
+Welle 4
+Fragebogen Jugendliche: 
+Themen: Freizeitverhalten: Häufigkeit ausgewählter Freizeitaktivitäten (Verwandtenbesuch, Kino, Ausgehen, Lesen, Sportverein oder Musikverein, Konzert, Museum, Zeitunglesen); Stundenaufwand an einem typischen Schultag für Fernsehen, Chatten, Arbeiten im Haushalt, Video oder Computerspiele allein und mit anderen. 
+Freundschaften: Ethnischer Hintergrund der Freunde; interethnischer Kontakt mit Menschen ausgewählter ethnischer Herkunft; Migrationshintergrund; Wichtigkeit von gleicher Bildung, Religion und ethnischem Hintergrund beim eigenen Partner für den Befragten persönlich und für dessen Eltern; fester Freund oder Freundin; Angaben zu Partner bzw. Partnerin: derzeitige Tätigkeit, besuchter Schultyp bzw. höchster Bildungsabschluss, ethnischer Hintergrund, Konfession, Wichtigkeit von Religion für den Partner bzw. die Partnerin; Beziehungsbeginn (Beziehungsdauer); Kontext des Kennenlernens (z.B. durch Freunde); Partner bzw. Partnerin lebt in derselben Nachbarschaft; Eltern haben Kenntnis von der Beziehung bzw. haben den Partner bzw. die Partnerin bereits getroffen; Eltern kannten sich bereits vor Beziehungsbeginn; familiäre Beziehungen: Interesse der Familie an Gesprächen über den Freund bzw. die Freundin; elterliche Einmischung: Forderung nach Informationen über Aktivitäten und Aufenthaltsort bei Unternehmungen mit dem Freund bzw. der Freundin, Forderung nach sofortigem Kennenlernen des Freundes bzw. der Freundin; erwartete Heirat; derzeitiger Freund bzw. Freundin ist erste feste Beziehung; Anzahl der vorherigen Freunde bzw. Freundinnen; Familie lehnt Beziehung ab; erwartete Offenheit der Familie bei ablehnender Haltung dem Freund bzw. der Freundin gegenüber; Familie überlässt Beziehungsentscheidungen dem Befragten; arrangierte Beziehungen durch die Familie; Forderung der Familie nach Abbruch der Beziehung bei fehlender Sympathie; präferiertes Heiratsalter; gewünschte Kinderzahl. Familie: Migrationshintergrund der biologischen Eltern; Besuchshäufigkeit im Herkunftsland der Eltern in den letzten 12 Monaten; Erwerbsstatus der Eltern; Häufigkeit von Taschengeld und Höhe des Taschengeldes. 
+Gefühle und Überzeugungen: Lebenszufriedenheit (Skalometer); Diskriminierung: Sympathie-Skalometer für ausgewählte Herkunftsgruppen; Rollenverständnis. 
+Selbsteinschätzung der Deutschkenntnisse (Sprechen, Schreiben); nationale Identität; Zugehörigkeitsgefühl zu einer anderen Gruppe und Stärke der Identität; Wichtigkeit von Religion für den Befragten; Selbsteinschätzung des Gesundheitszustands im Vergleich zu Gleichaltrigen; delinquentes Verhalten in den letzten drei Monaten: mutwilliges Zerstören fremden Eigentums, Stehlen, Tragen von Messer oder Waffe, Trunkenheit); Häufigkeit von warmer Mahlzeit und Frühstück; Häufigkeit von Alkoholkonsum, Sport, Zigarettenkonsum und Drogenkonsum; Körpergröße in Zentimeter und Gewicht in Kilogramm; präferierte und realistische Bildungsaspiration; Zukunftserwartungen hinsichtlich Aufenthalt in Deutschland, Heirat, Kinder und Gesundheitszustand. 
+Derzeitige Situation: Schule: Schulabschluss während des letzten Schuljahres; Noten in Mathematik, Deutsch und Englisch im Abschlusszeugnis; Gesamtnote im Abschlusszeugnis; derzeitige Situation; derzeit besuchte Schulform; Zweig der kooperativen Gesamtschule; derzeit besuchte Klassenstufe; Häufigkeit devianten Verhaltens in der Schule (Auseinandersetzungen mit Lehrern, erfahrene Bestrafung, unerlaubtes Fernbleiben vom Unterricht, Zuspätkommen); Selbstwirksamkeit; Einstellung zur Schule: Wichtigkeit guter Schulnoten. 
+Berufsausbildung: Bezeichnung des Ausbildungsberufs (ISCO 2008, ISEI, SIOPS); Ausbildungsdauer; Erreichen eines zusätzlichen Bildungsabschlusses durch die Ausbildung; Art dieses Bildungsabschlusses; Höhe der Ausbildungsvergütung pro Monat (kategorisiert); Berufsbezeichnung des derzeitigen Berufs oder Jobs; Höhe des monatlichen Nettoeinkommens (kategorisiert); Art des Arbeitsvertrages; Arbeitsbeginn in diesem Beruf (Monat und Jahr); Job ist erste Arbeitsstelle seit Verlassen der Schule; Berufsbezeichnung der ersten Arbeitsstelle (ISCO 2008, ISEI, SIOPS); aktive Suche nach einer Ausbildungs- oder Arbeitsstelle; Berufsbezeichnung des Wunschberufs (ISCO 2008, ISEI, SIOPS). Zusätzlich verkodet wurde: Internationale Befragten-ID; nationale Befragten-ID; Land der Datenerhebung; Erhebungsmethode des Hauptinterviews; Interviewdatum; Flaggenvariable (Interviewdatum abgeleitet vom Eingangsdatum der Kontaktinformationen); Data release version. 
+Abgeleitete Indizes: Berufsvercodung gemäß ISCO (International Standard Classification of Occupations) 1988; SIOPS (nach Ganzeboom); ISEI (nach Ganzeboom). 
+2. Fragebogen Geschwister: Anzahl Geschwister insgesamt; für bis zu 15 Geschwister wurde erfragt: Bruder oder Schwester; Alter; derzeitige Situation bzw. Tätigkeit; besuchte Schulform; Bildungsabschluss; Berufsbezeichnung (ISCO 2008, ISEI, SIOPS). 
+Zusätzlich verkodet wurde: Internationale Befragten-ID; nationale Befragten-ID; Land der Datenerhebung; Erhebungsmethode des Hauptinterviews; Interviewdatum; Flaggenvariable (Interviewdatum abgeleitet vom Eingangsdatum der Kontaktinformationen); Data release version. 
+Tracking Datensatz: Individuelle Befragten-ID; nationale Befragten-ID; ID der Klasse und der Schule; Erhebungseinheit auf Klassenebene und Schulebene Welle 2; Land; Stratum der Schule (Migrantenanteil); Schultyp; Bundesland; Teilnahmestatus aus Wellen 1 bis 4. 
+Welle 5
+Themen: Derzeitige Situation: Schule: Schulabschluss oder Ausbildungsabschluss im letzten Jahr; erreichter Ausbildungsabschluss und Bezeichnung des Abschlusses; Ausbildungsdauer; Abschlussnote; Erreichen eines Schulabschlusses gleichzeitig mit der Ausbildung; Art des Schulabschlusses; Noten in Mathematik, Deutsch und Englisch im Abschlusszeugnis; Gesamtnote im Abschlusszeugnis; derzeitige Tätigkeit; derzeit besuchte Schulform; Zweig der kooperativen Gesamtschule; derzeit besuchte Klassenstufe; Häufigkeit devianten Verhaltens in der Schule (Auseinandersetzungen mit Lehrern, erfahrene Bestrafung, unerlaubtes Fernbleiben vom Unterricht, Zuspätkommen); Selbstwirksamkeit; Einstellung zur Schule; Wichtigkeit guter Schulnoten. 
+Berufsausbildung: Bezeichnung des Ausbildungsberufs; Gesamtdauer der Ausbildung; Erreichen eins zusätzlichen Bildungsabschlusses durch die Ausbildung; Art dieses Bildungsabschlusses; Höhe des monatlichen Nettoeinkommen (kategorisiert). 
+Studium: Monat und Jahr des Studienbeginns; Art der Hochschule; Name und Ort der Hochschule; Studienfächer im Haupt- und Nebenfach; voraussichtlicher Studienabschluss; Studiengang mit Zulassungsbeschränkung oder Auswahlverfahren; Bezug von BAföG, Bildungskredit oder Stipendium; Gesamthöhe der Einnahmen aus BAföG, Bildungskredit und/oder Stipendium. 
+Beruf: Berufsbezeichnung des derzeitigen Berufs oder Jobs; Höhe des monatlichen Nettoeinkommens (kategorisiert); Art des Arbeitsvertrages; Arbeitsbeginn (Monat und Jahr); Job ist erste Arbeitsstelle seit Verlasse der Schule; Berufsbezeichnung der ersten Arbeitsstelle; aktive Suche nach einer Ausbildungs- oder Arbeitsstelle; Berufsbezeichnung des Wunschberufs. 
+Selbsteinschätzung der Deutschkenntnisse (Sprechen, Schreiben); weitere Sprache(n) zu Hause außer Deutsch; Selbsteinschätzung der Kenntnisse in dieser Sprache (Sprechen, Schreiben); Häufigkeit von Fernsehen, Gesprächen mit der Familie und Freunden sowie Zeitunglesen in dieser Sprache. 
+Besitz der deutschen Staatsangehörigkeit; Interesse an der deutschen Staatsangehörigkeit bzw. Einbürgerung; beabsichtigte Einbürgerung in den nächsten 5 Jahren; Meinung zu deutscher Staatsangehörigkeit bzw. Einbürgerung (aufwändig und teuer, wichtig, da Einbürgerung Wahlteilnahme ermöglicht, Schutz vor möglicher Abschiebung, bei Einbürgerung alte Staatsangehörigkeit abgeben); Einstellung zur deutschen Staatsangehörigkeit (ablehnende Haltung der Familie, weniger zum Herkunftsland der Familie zugehörig fühlen, Erleichterung des Alltags z.B. bei Behörden oder auf Reisen, Vorteile bei Ausbildung, Studium oder Jobsuche, richtig in Deutschland dazugehören). 
+Freizeitverhalten: Aktivität in Vereinen oder Gruppen; Verein oder Gruppe, in dem die meiste Zeit verbracht wird; Name des Vereins oder der Gruppe; Ausübung eines Amtes in diesem Verein; Anteil der Personen mit ausgewählter ethnischer Herkunft; Art der politischen Partizipation im letzten Jahr (Petition, Demonstration, Parteiunterstützung); Informationshäufigkeit über politische und soziale Themen; Häufigkeit von Diskussionen über politische und soziale Themen; Häufigkeit von warmer Mahlzeit und Frühstück; Häufigkeit von Alkoholkonsum, Sport, Rauchen, Drogenkonsum; Nebenjob; Wochenstunden und Monatsverdienst im Nebenjob. 
+Familie: Migrationshintergrund der Eltern; Besuchshäufigkeit im Herkunftsland der Eltern in den letzten 12 Monaten; Interesse an der Politik dieses Landes; Erwerbsstatus der Eltern; Häufigkeit von Taschengeld und Höhe des Taschengelds. 
+Freundschaften: Ethnischer Hintergrund der Freunde; Kontakt in Schule, Studium oder Beruf mit Menschen ausgewählter ethnischer Herkunft. 
+Gefühle und Einstellungen: Nationale Identität; Zugehörigkeitsgefühl zu einer anderen Gruppe und Stärke der Identität; Wichtigkeit von Traditionalismus im Hinblick auf diese Gruppe; Deutsche sollten alles tun, um ihre Bräuche und Traditionen zu bewahren, Ausländer sollten sich der deutschen Gesellschaft anpassen, Deutsche sollten offen für Bräuche und Traditionen von Ausländern sein, Ausländer sollten alles tun, um ihre Bräuche und Traditionen bewahren. 
+Religionszugehörigkeit; Wichtigkeit von Religion für den Befragten; Häufigkeit des Besuchs religiöser Begegnungsstätten; Häufigkeit von Gebeten; Sympathie-Skalometer für ausgewählte Herkunftsgruppen; Meinung zum Zusammenleben als unverheiratetes Paar, zu Scheidung, Abtreibung und Homosexualität; Lebenszufriedenheit (Skalometer); Gesundheitsprobleme: Häufigkeit von Kopfschmerzen, Bauchschmerzen und Einschlafproblemen in den letzten 6 Monaten; Zukunftserwartungen hinsichtlich Arbeitsstelle, Aufenthalt in Deutschland, Universitätsabschluss und Reichtum. 
+Politische Meinung: Kompliziertheit der Politik; einfache Meinungsbildung über politische Themen; Politiker nur an Wählerstimmen interessiert; Politiker sorgen sich darum, was Leute denken; besonders guter Politiker; Zufriedenheit mit dem demokratischen System in Deutschland und der Arbeit der Bundesregierung; Institutionenvertrauen (politische Parteien, Gerichte, Polizei, Politiker, Zeitungen, Radio und Fernsehen); Parteipräferenz (Sonntagsfrage); Wahlberechtigung und Teilnahme an der Europawahl im Mai 2014; Selbsteinstufung Links-rechts. 
+Demographie: Geschlecht; Geburtstag (Tag, Monat, Jahr). 
+Zusätzlich verkodet wurde: Internationale Befragten-ID; nationale Befragten-ID; Land der Datenerhebung; Erhebungsmethode; Interviewdatum; Data release version.
+Welle 6
+Themen: Beruflicher Werdegang nach der Schule, Familie, Freunde, Partnerschaft und Freizeit
+Youth main questionnaire:Wohnsituation: Beziehung zu weiteren Haushaltsmitgliedern. Selbsteinschätzung der Deutschkenntnisse (Sprechen, Schreiben); weitere Sprache(n) zu Hause außer Deutsch; am meisten zu Hause gesprochene zweite Sprache;  Selbsteinschätzung der Kenntnisse in dieser Sprache (Sprechen, Schreiben); Häufigkeit von Fernsehen, Gesprächen mit der Familie und Freunden sowie Zeitunglesen in dieser Sprache; Nationalität. Freizeitverhalten: Häufigkeit ausgewählter Freizeitaktivitäten (Verwandtenbesuch, Ausgehen, Lesen, Sportverein oder Musikverein, Konzert, Museum, Zeitunglesen); Informationshäufigkeit über politische und soziale Themen; Häufigkeit von Diskussionen über politische und soziale Themen; Anzahl der Bücher im Haushalt.
+Familie: Migrationshintergrund der Eltern und Großeltern; Besuchshäufigkeit im Herkunftsland der Eltern in den letzten 12 Monaten; Bildung der Eltern (nur Auffrischungsstichprobe); Erwerbsstatus  der Eltern; derzeitiger bzw. letzter Beruf der Eltern. Gefühle und Überzeugungen: Zukunftserwartungen im Alter von 30 Jahren bezüglich Aufenthaltsland, Heirat, Kinder, Gesundheitszustand, Nationale Identität; Zugehörigkeitsgefühl zu einer anderen Gruppe und Stärke der Identität; Meinung zur Einschränkung der Einwanderung von Flüchtlingen durch Festlegung einer Höchstgrenze; Meinung zur Flüchtlingsaufnahme im Land ( Kriegs- oder Bürgerkriegsflüchtlinge, Politisch Verfolgte, Religiös Verfolgte, Menschen, die vor dem Verhungern oder vor Naturkatastrophen fliehen, Ethnisch Verfolgte sowie Flüchtlinge, die ihr Land aufgrund unzureichender Beschäftigungschancen verlassen haben); Geschlechterrollen (Kindererziehung, Kochen, Saubermachen, Geld verdienen).
+Religionszugehörigkeit; Wichtigkeit von Religion für den Befragten; Häufigkeit des Besuchs religiöser Begegnungsstätten; Häufigkeit von Gebeten; Einschätzung der der Chancen auf  eine Ausbildung oder einen Job bei gleicher Abschlussnote (Männer oder Frauen, Ausländer oder  Einheimische, Kinder von Arbeitern oder von Akademikern); jemals beworben; Diskriminierungserfahrung aufgrund Geschlecht, ethnischer Zugehörigkeit und sozialer Herkunft.
+Freundschaften: fester Freund bzw. feste Freundin; Tätigkeit und Herkunft des festen Freundes/der festen Freundin; ethnischer Hintergrund der Freunde; Personenvertrauen; Selbsteinschätzung des Gesundheitszustands im Vergleich mit Gleichaltrigen; Anteil Personen bei der Hauptaktivität mit deutscher, italienischer, polnischer, russischer, türkischer bzw. anderer Herkunft; allgemeine Lebenszufriedenheit.
+Derzeitige Situation: Schulabschluss, Ausbildungsabschluss oder Hochschulabschluss seit dem letzten Interview und Art dieser Abschlüsse; Gesamtnote im Abschlusszeugnis; Bezeichnung des Ausbildungsberufs; Erreichen eines zusätzlichen Bildungsabschlusses durch die Ausbildung; Art dieses Bildungsabschlusses; derzeitige Tätigkeit; Schule: derzeit besuchte Schulform; Berufsausbildung: Bezeichnung des Ausbildungsberufs; Höhe des monatlichen Nettoeinkommen (kategorisiert); Studium: Studienfächer im Haupt- und Nebenfach; voraussichtlicher Studienabschluss; Berufstätigkeit: Berufsbezeichnung des derzeitigen Berufs oder Jobs; Höhe des monatlichen Nettoeinkommens (kategorisiert); Art der Einkommensquellen und Höhe der jeweils zur Verfügung stehenden Beträge.
+Feste Partnerschaft; Zusammenleben mit dem Partner seit Januar 2011; verheiratet; Kinder; Kinderzahl.
+Demographie: Geschlecht; Geburtstag (Tag, Monat, Jahr); Auffrischungstichprobe:  Geburtsland; Migrationsalter; Generation.
+Zusätzlich verkodet wurde: Gewichtungsfaktoren; Flaggenvariablen.
+Youth achievement questionnaire: Aufgaben zur Sprachkompetenz sowie ein Wort- und Figurenrätsel (kognitiver Fähigkeitstest) 
+Youth life history calendar -structural:Technische Informationen: Art des Wellenerfassung; persönlicher Wellen Index; Wellentyp (2 Ebenen); Wellenbeginn und Wellenende (Monat, Jahr); Andauern der Welle; Korrektur im Prüfmodul; technisches Problem im Längsschnitt.Informationen zu sämtlichen Bildungswegen seit Januar 2011: detaillierte Angaben zur allgemeinen Bildung  Erster und  Zweiter Bildungsweg,  Angaben zur Berufsausbildung (Lehre in einer Firma und in der Schule), Angaben zur Schulischen Berufsausbildung, Angaben zu berufsbildenden Schulen für Aus- und Weiterbildung, Angaben zu Umschulung, Angaben zum Studium, Berufsvorbereitung, andere Berufsausbildung, Erfasst wurden z.B. besuchte Schulform(en), Schulabschluss erreicht, Bundesland des Schulabschlusses, Abschlussnote; Ausbildungsberuf, Studienfächer, Hochschulart, Hochschulstadt, Zulassungsbeschränkung, Studienabschluss, erreichter Studiengrad, weitere Studiengänge. 
+Angaben zu sämtlichen Beschäftigungsformen (z.B. Vollzeitbeschäftigung: Beruf, Art des Arbeitsvertrages, Umwandlung der Befristung in einen unbefristeten Vertrag, Wochenarbeitszeit, Praktikum, Nebenjob, Art der Tätigkeit, etc.) , Angaben zu Mutterschutz, Elternzeit, Freiwilligendienst, Wehrdienst, Work &amp; Travel, Auslandsaufenthalten, Arbeitslosigkeit, Jobsuche; Tätigkeit als Hausmann bzw. Hausfrau, Arbeitsunfähigkeit.   Angaben zur Art anderer Aktivitäten.
+Überprüfung der Angaben durch Öffnen des Kalenders; fehlende Informationen. 
+Youth life history calendar - partner:Angaben zum Partner: Geschlecht; Alter (Geburtsmonat, Geburtsjahr); Zeitpunkt Beginn  und Ende der Partnerschaft; Andauern der Partnerschaft; weitere Partnerschaften; Beginn und Ende weiterer Partnerschaften; Schulbesuch des Partners zu Beginn der Partnerschaft und besuchte Schulform; Bildung des Partners zu Beginn der Partnerschaft; Migrationshintergrund; Zeitpunkt des Zusammenlebens mit dem Partner; Andauern des Zusammenlebens; verheiratet mit dem Partner; Zeitpunkt Beginn und Ende der Ehe; Andauern der Ehe.
+Youth life history calendar - children: Angaben zu Kindern: Geschlecht; Alter (Geburtsmonat, Geburtsjahr); leibliches Kind.
+Informationen zur Stichprobe (Youth main questionnaire, Youth achievement questionnaire, youth life history calendar, youth life history calendar - partner, youth life history calender - children): Internationale Befragten-ID; nationale Befragten-ID; Land der Datenerhebung; Datenerhebungsmethode (persönliches Interview); Version, Stichprobe (Panel, Auffrischung); Interviewdatum (Tag, Monat, Jahr); Data release version; eindeutiger Partner-Index; eindeutiger Kinder-Index; Teilnahmestatus Wellen 1 bis 6 (Gründe für Nichtteilnahme).
+Welle 7                 Youth main questionnaire: 
+Selbsteinschätzung der Sprachkompetenz in der Landessprache (sprechen und schreiben); weitere zu Hause gesprochene Sprache; Nennung dieser Sprache(n); Selbsteinschätzung der Sprachkompetenz in dieser zweiten Sprache (sprechen und schreiben); Anwendungshäufigkeit dieser zweiten Sprache (Gespräche mit der Familie und Freunden, Fernsehen und Zeitunglesen); Familiensituation bzw. Situation außerhalb der Familie oder alleinlebend; Vereinsmitgliedschaft; Persönlichkeitsmerkmale (Extrovertiertheit, Wohlwollen, Gewissenhaftigkeit, Neurotizismus, Offenheit für Erfahrungen).Angaben zum Partner: fester Partner/ feste Partnerin; Zeitpunkt des Beziehungsbeginns (Monat, Jahr); Alter; derzeitige Tätigkeit; höchster Bildungsabschluss; angestrebter Bildungsabschluss; Herkunft des Partners/ der Partnerin; Heirat; Zeitpunkt der Eheschließung (Monat, Jahr); Kinder; Anzahl der Kinder; Geburtsmonat und Geburtsjahr der Kinder.
+Einstellungen zu anderen Gruppen: Meinung zu Einwanderern: nationale Bevölkerung/ Einwanderer sollten an ihren Bräuchen und Traditionen festhalten, Einwanderer sollten sich der Gesellschaft im Land anpassen, nationale Bevölkerung sollte offen für Sitten und Gebräuche von Einwanderern sein; Zusammenleben ohne Trauschein, Scheidung, Abtreibung und Homosexualität sind ok; Gefühle gegenüber verschiedenen Bevölkerungsgruppen (Deutsche, Italiener, Polen, Russen, Türken, Syrer, Afghanen, Albaner, Bulgaren, Nordafrikaner, andere Afrikaner); Migrationshintergrund der Eltern; Besuchshäufigkeit im Herkunftsland der Eltern in den letzten 12 Monaten; derzeitiger Erwerbsstatus der Eltern.
+Gefühle und Überzeugungen: habe viele gute Eigenschaften, viel, auf das ich stolz sein kann, mag mich so wie ich bin, Zukunftszuversicht; Nationale Identität; Zugehörigkeitsgefühl zu einer anderen Gruppe und Stärke der Identität; persönliche Bedeutung an Sitten und Gebräuchen dieser Gruppe festzuhalten; Häufigkeit  verschiedener Gefühle (sorgenvoll, schnell wütend, ängstlich, niedergeschlagen, wertlos, handeln ohne nachzudenken); Religion: Religionszugehörigkeit; Wichtigkeit von Religion für den Befragten; Häufigkeit des Besuchs religiöser Begegnungsstätten; Häufigkeit von Gebeten.
+Freunde und Bekannte: Kontakthäufigkeit mit Personen verschiedener Herkunft (Deutsche, Italiener, Polen, Russen, Türken, Syrer, Afghanen, Albaner, Bulgaren, Nordafrikaner, andere Afrikaner, andere nationale Herkunft); Anteil der Freunde mit deutscher, italienischer, polnischer, russischer, türkischer bzw. anderer Herkunft.
+Aktivitäten und Gesundheit: allgemeine Lebenszufriedenheit; Häufigkeit von Kopfschmerzen, Magenschmerzen und Einschlafschwierigkeiten in den letzten sechs Monaten; delinquentes Verhalten in den letzten drei Monaten: mutwilliges Zerstören fremden Eigentums, Stehlen, Tragen von Messer oder Waffe, Trunkenheit); Häufigkeit von warmer Mahlzeit und Frühstück; Häufigkeit von Alkoholkonsum, Sport, Zigarettenkonsum und Drogenkonsum; Körpergröße in Zentimetern und Gewicht in Kilogramm; Zukunftserwartungen im Alter von 30 Jahren bezüglich Arbeitsplatz, Aufenthaltsort, Hochschulabschluss und finanzielle Situation.
+Derzeitige Situation: generierte Anzahl der genannten Aktivitäten aus Welle 6; Andauern dieser Aktivität; Zeitpunkt des Ende der Aktivität(en) (Monat, Jahr); Schulabschluss oder Ausbildungsabschluss seit dem letzten Interview und Art dieser Abschlüsse; Bezeichnung des Ausbildungsberufs (ISEI, SIOPS – generiert); Erwerb einer Hochschulzugangsberechtigung  bzw. Erreichen eines zusätzlichen Bildungsabschlusses durch die Ausbildung; Art dieses Bildungsabschlusses; Ausbildungsdauer insgesamt; Gesamtnote im Abschlusszeugnis; Gesamtnote im  Schulabgangszeugnis und in den Fächern Mathematik, Deutsch und, Englisch; Hochschulabschluss seit dem letzten Interview und Art dieses Hochschulabschlusses; Gesamtnote  Hochschulabschluss.
+Detaillierte Angaben zur derzeitigen Tätigkeit: Schule: derzeit besuchte Schulform; Beginn des Schulbesuchs (Monat, Jahr); Klassenstufe, Berufsausbildung: Bezeichnung des Ausbildungsberufs; Zeitpunkt des Ausbildungsbeginns (Monat, Jahr); Ausbildungsdauer insgesamt; Erreichen eines zusätzlichen Bildungsabschlusses durch die Ausbildung; Art dieses Bildungsabschlusses; Studium: Zeitpunkt des Studienbeginns (Monat, Jahr); Hochschulart; genaue Bezeichnung der Hochschule; Hochschulort; Studienfächer im Haupt- und Nebenfach; voraussichtlicher Studienabschluss; Studium mit Zugangsbeschränkung; Berufstätigkeit: Berufsbezeichnung des derzeitigen Berufs oder Jobs (ISCO-08, ISEI, SIOPS - generiert); Art des Arbeitsvertrages; Wochenarbeitszeit; Arbeitsbeginn in diesem Job (Monat, Jahr); derzeitiger Job ist erste Arbeitsstelle nach Verlassen der Schule; erste Arbeitsstelle nach Verlassen der Schule (ISCO-08, ISEI, SIOPS - generiert); aktive Suche nach einer Ausbildungsstelle bzw. einem Job in den letzten drei Monaten; Berufsbezeichnung (ISCO-08, ISEI, SIOPS - generiert); Art der Einkommensquellen und Höhe der jeweils zur Verfügung stehenden Beträge.
+Demographie: Geschlecht; Alter (Geburtsdatum - Tag, Monat, Jahr).
+Youth friends questionnaire:
+Angaben zu den drei besten Freunden: Geschlecht; Alter; Herkunft; derzeitige Tätigkeit; höchster Bildungsabschluss; Beruf (ISCO-08, ISEI, SIOPS). 
+Zusätzlich  verkodet wurde: Internationale Befragten-ID; nationale Befragten-ID (Deutschland); Untersuchungsgebiet; Erhebungsmethode; Interviewdatum (Tag, Monat, Jahr); Version Youth main Interview, Youth friends Interview).
+Tracking Datensatz: Individuelle Befragten-ID; nationale Befragten-ID; ID der Klasse und der Schule; Erhebungseinheit auf Klassenebene und Schulebene Welle 2; Sample (Panel, Auffrischungsstichprobe); Land; Stratum der Schule (Migrantenanteil); Schultyp; Bundesland; Teilnahmestatus aus Wellen 1 bis 7.
+COVID-19-Special - Zusatzbefragung zur Corona-Pandemie (Youth main questionnaire):  
+Derzeitige hauptsächlich ausgeübte Tätigkeit; Job im Februar 2020; Verlust dieses Jobs aufgrund der Corona-Pandemie; Veränderung des Arbeitsalltags durch die Corona-Pandemie (z.B. Arbeit von zu Hause aus, weniger/ mehr Geld, weniger/ mehr Wochenstunden, freigestellt ohne/ mit  Entgeltfortzahlung, zusätzlichen Nebenjob oder Minijob angenommen, Nebenjob oder Minijob verloren, nichts davon, momentan kein Job oder Nebenjob und nicht in Ausbildung); Informationshäufigkeit über die Corona-Pandemie durch folgende Quellen in deutscher Sprache (Zeitungen (auch online), öffentlich-rechtliche und private Fernseh- und Rundfunksender (auch online), öffentliche Stellen, z.B. Regierung oder Gesundheitsministerium, Informationen von Wissenschaftlern oder Forschungseinrichtungen, soziale Medien); Vertrauen in die vorgenannten Informationsquellen; Informieren über die Corona-Pandemie in einer anderen Sprache als Deutsch; am häufigsten genutzte Sprache für diese Informationen;  Informationshäufigkeit über die Corona-Pandemie durch ausgewählte Quellen in dieser Sprache; Vertrauen in die die Informationsquellen in dieser Sprache; Vertrauen  in verschiedene Parteien in Bezug auf die Bewältigung der Corona-Pandemie (CDU/CSU, SPD, AfD, FDP, Die Linke, Bündnis 90/Die Grünen); Zustimmung zu Aussagen zur Corona-Pandemie (die deutsche Bundesregierung hat rechtzeitig auf die Corona-Pandemie reagiert, die von der deutschen Bundesregierung ergriffenen Maßnahmen zur Bewältigung der Corona-Pandemie schränken die persönliche Freiheit unnötig ein, der wirtschaftliche Schaden durch die Maßnahmen  zur Bewältigung der Corona-Pandemie steht in keinem Verhältnis zu ihrem Nutzen);  Bewertung der Maßnahmen der Bundesregierung zur Bewältigung der Corona-Pandemie; Hauptverantwortung für die Eindämmung der Corona-Pandemie (Staat oder Bürger); mehr oder weniger Sorgen seit Beginn der Corona-Pandemie im Hinblick auf folgende Bereiche: finanzielle Situation, eigene Gesundheit, Gesundheit von Freunden und Verwandten, wirtschaftliche Situation in Deutschland; nachgewiesene Infektion mit dem Corona-Virus (selbst, eine Person aus der Familie, eine Person aus dem Freundeskreis, eine Person aus dem Bekanntenkreis, nein, möchte ich nicht sagen); Häufigkeit von Kopfschmerzen, Bauchschmerzen und Problemen beim Einschlafen in den letzten zwei Monaten; Häufigkeit persönlicher Vorsorgemaßnahmen gegen COVID-19 (niese oder huste  in die Armbeuge, trage in der Öffentlichkeit Mundschutz und /oder Handschuhe, wasche gründlich die Hände, gebe anderen Menschen zur Begrüßung nicht die Hand); Häufigkeit verschiedener Gefühlszustände seit Beginn der Corona-Pandemie (mache mir viele Sorgen, werde leicht wütend, fühle mich ängstlich, traurig, wertlos, handle ohne nachzudenken, fühle mich einsam); Veränderungen im Verhalten anderer Personen in der Öffentlichkeit seit Beginn der Corona-Pandemie (gehen mir auf der Straße oder in Geschäften häufiger aus dem Weg, setzen sich in der Öffentlichkeit häufiger von mir weg, sind mir gegenüber insgesamt hilfsbereiter geworden); Veränderung des eigenen Verhaltens; häufigeres Gefühl ungerechter Behandlung oder Diskriminierung aufgrund der ethnischen Herkunft seit Beginn der Corona-Pandemie; Veränderungen seit Beginn der Corona-Pandemie im Hinblick auf die Häufigkeit von Streit oder Auseinandersetzungen, Beleidigungen oder verbaler Gewalt, Handgreiflichkeiten oder körperlicher Gewalt, Störung durch Nachbarn sowie Hilfe von Nachbarn; Vertrauen  in verschiedene Parteien in Bezug auf die Bewältigung des Klimawandels (CDU/CSU, SPD, AfD, FDP, Die Linke, Bündnis 90/Die Grünen); Zustimmung zu verschiedenen Aussagen: Bundesregierung hat rechtzeitig auf den Klimawandel reagiert, die von der Bundesregierung ergriffenen Maßnahmen zur Bewältigung des Klimawandels schränken die persönliche Freiheit unnötig ein, der wirtschaftliche Schaden durch die Maßnahmen zur Bewältigung des Klimawandels steht in keinem Verhältnis zu ihrem Nutzen, es ist richtig, dass Themen wie Klimawandel oder Migration während der Corona-Pandemie nicht mehr im Vordergrund stehen); Bewertung der Maßnahmen der Bundesregierung zur Bewältigung des Klimawandels; Hauptverantwortung für die Eindämmung des Klimawandels (Staat oder Bürger); Zustimmung zu Aussagen zur Corona-Pandemie (Freiheit des Einzelnen sollte während der Corona-Pandemie hinter dem Wohl der Bevölkerung zurückstehen, während der Corona-Pandemie sollte Deutschland keine Geflüchteten aufnehmen, der wahre Ursprung der Corona-Pandemie wird uns verschwiegen, während der Corona-Pandemie brauchen wir eine starke Führungsperson, die für unsere Sicherheit sorgt); Zustimmung zu folgenden Aussagen (es ist wichtig, jetzt den Maßnahmen der Bundesregierung zu folgen, ohne sie zu hinterfragen, Personen mit deutscher Staatsangehörigkeit sollten während der Corona-Pandemie bevorzugt medizinisch versorgt werden, es ist nicht gut, wenn Virologen anstatt demokratisch gewählter Politiker das Land regieren, Menschen, die sich nicht an die Schutzmaßnahmen der Bundesregierung halten, sollten sofort bei der Polizei gemeldet werden); Zufriedenheit mit verschiedenen Lebensbereichen (allgemeine Lebenszufriedenheit, Gesundheit, deutsches Gesundheitssystem).
+Demographie: Geschlecht; Alter (Geburtsdatum).  
+Zusätzlich vekodet wurde: nationale Befragten-ID; Untersuchungsgebiet (Deutschland); Erhebungsmodus der Zusatzbefragung; Interviewdatum; Angabe des Datums; Version der Zusatzbefragung; Zuordnung zu Experimentalgruppen.
+Welle 8 Youth main questionnaire: 
+Selbsteinschätzung der Sprachkompetenz in der Landessprache (sprechen und schreiben); deutscher Dialekt; am häufigsten gesprochene Dialekte; weitere zu Hause gesprochene Sprache; Nennung dieser weiteren Sprache; Selbsteinschätzung der Sprachkompetenz in dieser zweiten Sprache (sprechen und schreiben); Anwendungshäufigkeit dieser zweiten Sprache (Gespräche mit der Familie und Freunden, Fernsehen und Zeitunglesen); Partner/ Partnerin; Herkunft des Partners/ der Partnerin; verheiratet, Zeitpunkt der Eheschließung (Monat, Jahr); Heiratsabsicht; Kinder; Anzahl der Kinder; Geburtsmonat und Geburtsjahr der Kinder; weiterer Kinderwunsch in den nächsten zwei Jahren; Familiensituation: Geburt der Eltern im Ausland (Migrationshintergrund); Besuch des Herkunftslandes der Mutter/ des Vaters. 
+Gefühle und Überzeugungen: Nationale Identität; Zugehörigkeitsgefühl zu einer anderen Gruppe und Stärke der Identität; Geschlechterrollen; Religion: Religionszugehörigkeit; Wichtigkeit von Religion für den Befragten; Häufigkeit des Besuchs religiöser Begegnungsstätten; Häufigkeit von Gebeten; Aktivität in einer religiösen Gemeinschaft.
+Wohnsituation: Alter bei Auszug aus dem Elternhaus; Hauptwohnsitz (Bundesland, Land, regionale Klassifikation; Wohnstatus; Höhe der monatlichen Miete bzw. monatlichen Rückzahlungskosten für Hypothekendarlehen und andere Darlehen zur Finanzierung der Eigentumswohnung bzw. des Hauses;  Anzahl der Wohn- und Schlafzimmer; Zusammensetzung der Wohngegend (Familien mit Kindern, Ältere, Ausländer, Arbeitslose); Bewertung der Wohngegend hinsichtlich Wohnungen, Grünflächen, öffentliche Verkehrsmittel, Einkaufsmöglichkeiten, Sicherheit tagsüber und nachts, Entfernung zum Arbeitsplatz bzw. Ausbildungsort oder Studienort; genutztes Verkehrsmittel; Umzugsabsicht innerhalb der nächsten zwei Jahre; Hauptgrund für die Umzugsabsicht; maximal akzeptierte Entfernung in Minuten zum Arbeitsplatz bzw. Ausbildungsort oder Studienort; präferierte Ortsgröße.
+Alltag: Häufigkeit verschiedener Freizeitaktivitäten; Zeitaufwand an einem Wochentag für Fernsehen, Nutzung von Streamingdiensten, sozialen Medien, Online Dating Plattformen, Haushaltstätigkeiten, Videospiele oder Computerspiele allein und mit anderen; Anteil der Freunde mit deutscher, italienischer, polnischer, russischer, türkischer bzw. anderer Herkunft; Selbsteinschätzung des Gesundheitszustands im Vergleich mit Gleichaltrigen; allgemeine Lebenszufriedenheit und Zufriedenheit mit der derzeitigen Wohnung sowie der Wohnumgebung; Zukunftsperspektiven mit 30 Jahren in Bezug auf den Aufenthalt im Land, Heirat, Kinder, Gesundheit und Wohneigentum.
+Derzeitige Situation: Schulabschluss oder Ausbildungsabschluss seit dem letzten Interview und Art des Ausbildungsabschlusses; Bezeichnung der beruflichen Qualifikation nach ISCO 2008 (ISEI, SIOPS – generiert); Erwerb einer Hochschulzugangsberechtigung durch die berufliche Qualifikation; Ausbildungsdauer insgesamt; Gesamtnote bzw. Credit Points im Abschlusszeugnis; Erwerb eines zusätzlichen Bildungsabschlusses mit dem Berufsabschluss; Art des zusätzlich erworbenen Bildungsabschlusses; Gesamtnote im Schulabgangszeugnis und in den Fächern Mathematik, Deutsch und, Englisch; Hochschulabschluss seit dem letzten Interview und Art dieses Hochschulabschlusses; Gesamtnote Hochschulabschluss; derzeitige Haupttätigkeit.
+Schule: Derzeit besuchter Schultyp; Schulzweig; Schulbesuch seit Monat, Jahr; Klassenstufe; Lehre/ berufsbezogene Ausbildung: Berufsbezeichnung; wichtige Aspekte für die Ausübung des Berufs (Schlichten bei Meinungsverschiedenheiten zwischen Personen, Aufrechterhaltung des Kontakts mit Menschen aus der Region, klare und verständliche Sprache, andere davon überzeugen ihre Meinung oder ihr Verhalten zu ändern, Unterstützen von Kunden oder Klienten  im persönlichen Gespräch, Lehren); Nettoeinkommen; Ausbildungsbeginn (Monat, Jahr); Ausbildungsdauer; Erwerb eines zusätzlichen Bildungsabschlusses mit der Ausbildung; Art des zusätzlich erworbenen Bildungsabschlusses.
+Studium: Studienbeginn (Monat, Jahr); Duales Studium; Beruf; Berufsbezeichnung im Rahmen des Dualen Studiums (ISCO-08, ISEI, SIOPS - generiert); Hochschulart; Name der Hochschule; Studienort; Anzahl der Studienfächer (Haupt- und Nebenfächer); Studienfächer; Art des Studienabschlusses; Zugangsbeschränkung oder Auswahlverfahren; Bezug von BAföG, Bildungskredit oder Stipendium; Höhe der bezogenen Leistungen.
+Arbeit: Derzeitiger Beruf  (ISCO-08, ISEI, SIOPS - generiert); wichtige Aspekte für die Ausübung des Berufs (Schlichten bei Meinungsverschiedenheiten zwischen Personen, Aufrechterhaltung des Kontakts mit Menschen aus der Region, klare und verständliche Sprache, andere davon überzeugen ihre Meinung oder ihr Verhalten zu ändern, Unterstützen von Kunden oder Klienten  im persönlichen Gespräch, Lehren); Teilnahme an Umschulung, Fortbildung oder Ausbildung zusätzlich zur Arbeit; Art der Umschulung etc.; Bezeichnung der Umschulung etc. (ISCO-08, ISEI, SIOPS - generiert); Nettoeinkommen; Art des Arbeitsvertrages; Wochenarbeitszeit; Monat und Jahr des Arbeitsbeginns in diesem Beruf; erste Stelle nach Schulabschluss; Berufsbezeichnung der ersten Stelle (ISCO-08, ISEI, SIOPS - generiert); Bezeichnung der Umschulung oder Fortbildung ISCO-08, ISEI, SIOPS - generiert); Beginn der Umschulung oder Fortbildung (Monat, Jahr); Gesamtumfang der Umschulung oder Fortbildung (Stundenzahl); Anbieter; Erhalt einer Teilnahmebescheinigung, anerkannten Lizenz oder einer anderen Zertifizierung mit dieser Umschulung, Fortbildung oder Weiterbildung; aktive Suche nach einer Ausbildungs- oder Arbeitsstelle in den letzten drei Monaten; Berufsbezeichnung  (ISCO-08, ISEI, SIOPS - generiert).
+Fragebogen Geschwister: Anzahl Geschwister insgesamt; biologischer Bruder oder Schwester, Halbbruder/ Halbschwester, Adoptivbruder/ Adoptivschwester, Stiefbruder/ Stiefschwester; Alter der Geschwister; derzeitige Situation bzw. Tätigkeit; besuchte Schulform; Bildungsabschluss; Berufsbezeichnung (ISCO 2008, ISEI, SIOPS). 
+Zusätzlich verkodet wurde: Internationale Befragten-ID; nationale Befragten-ID; Land der Datenerhebung; Erhebungsmethode des Geschwisterinterviews (telephone, post, online); Interviewdatum; Data release version; Flag: Technical error sibling 3 (telephone interview) .
+Youth residence history calendar: Alter beim Einzug; Wohnungsstatus (derzeitige oder letzte Wohnung - generiert); Bundesland; Land des Wohnsitzes; regionale Klassifikation (RegioStaR); Haushaltszusammensetzung; Anzahl und Art der Haushaltsmitglieder; Auszugsgründe. 
+Zusätzlich verkodet: Internationale Befragten ID; nationale Befragten-ID; Land der Datenerhebung; Erhebungsmethode des Youth residence history calendar (telephone, post, online); Interviewdatum; Data release version; Anzahl der Einträge in den youth residence history calendar.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Leisure behaviour, friendships, family, feelings and beliefs, identity, the current situation and vocational training of young people. Sibling situation.
+Wave 4
+1.Youth main questionnaire: 
+Topics: Leisure behaviour: frequency of different leisure activities (Visiting relatives, cinema, going out, reading, sports club or music club, concert, museum, newspaper reading); hourly expenditure on a typical school day for television, chatting, household work, video or computer games alone and with others.
+Friendships: ethnic background of friends; interethnic background of friends; contact with people of selected ethnic origin; migration background; importance of equal education, religion, and ethnic background of the respondent´s own partner for the respondent personally and for his or her parents; boyfriend or girlfriend; details to partner: current activity, type of school attended or highest educational level, ethnic background, denomination, importance of religion for the partner; beginning of the relationship (duration of the relationship); context of getting to know each other (e.g. via friends); partner lives in the same neighbourhood; parents have knowledge of the relationship or have the partner already met; parents already knew each other before start of relationship; family relationships: interest of the family in conversations about the boyfriend or girlfriend; parental interference: request for information about activities and whereabouts at undertakings with the boyfriend or girlfriend, demand for immediate acquaintance of the friend; expected marriage; current boyfriend/girlfriend is first steady relationship; number of previous friends; family rejects relationship expected openness of the family in case of negative attitude towards the friend or to the girlfriend; the family leaves relationship decisions up to the respondent; arranged relationships through the family; demand of the family after termination of the relationship in case of lack of sympathy; preferred marriage age; desired number of children. 
+Family: migration background of the biological parents; frequency of visits in the country of origin of parents in the last 12 months; employment status of parents in the last 12 months; frequency of pocket money and amount of pocket money. 
+Feelings and beliefs: life satisfaction (scalometer); discrimination: sympathy scale for selected groups of origin; understanding of gender roles. 
+Self-assessment of German language skills (speaking, writing); national identity; sense of belonging to another group, and strength of identity; importance of religion to the respondent; self-assessment of the state of health compared to peers; delinquent behavior in the last three months: deliberate destruction of foreign property, stealing, carrying knives or weapon, drunkenness); frequency of hot meal and breakfast; frequency of alcohol consumption, sports, cigarette consumption and drug consumption; body height in centimetres and weight in kilograms; preferred and realistic educational aspiration; expectations for the future in terms of stay in Germany, marriage, children and state of health. 
+Current situation: school leaving certificate during the last school year; grades in mathematics, German and English in the diploma; overall grade on leaving certificate; current situation; currently visited type of school; branch of cooperative comprehensive school; currently attended class level; frequency of deviant behaviour in school (disputes with teachers, experienced punishment, unauthorized absence from lessons, late arrival); self-efficacy; attitude towards school: importance of good grades. 
+Vocational training: title of the training occupation (ISCO 2008, ISEI, SIOPS); duration of training; achievement of an additional educational attainment through the training; nature of this educational attainment; amount of training allowance per month (categorised); job title of the current occupation or job; amount of monthly net income (categorized); type of employment contract; start of employment in this occupation (month and year); job is the first job since leaving school; job title of the first job (ISCO 2008, ISEI, SIOPS); active search for a place of training or employment; professional title of the desired profession (ISCO 2008, ISEI, SIOPS).
+Additionally coded: international respondent ID; national respondent ID; country of data collection; mode of collection; interview date; flag variable (interview date derived from the date of receipt of the contact information); data release version.
+Derived Indexes: occupational code according to ISCO (International Standard Classification of Occupations) 1988; SIOPS (Ganzeboom); ISEI (Ganzeboom). 
+2. Youth siblings questionnaire: total number of siblings; for up to 5 siblings were asked: brother or sister; age; present situation or activity; type of school attended; educational attainment; Job title (ISCO 2008, ISEI, SIOPS). 
+Additionally coded: international respondent ID; national respondent ID; country of data collection; mode of collection of the main interview; interview date; flag variable (Interview date derived from the receipt date of the contact information); Data release version.
+Derived indexes: occupational code according to ISCO (International Standard Classification of Occupations) 1988; SIOPS (Ganzeboom); ISEI (Ganzeboom).
+3. Tracking data set: individual respondent ID; national respondent ID; ID of the class and school; survey unit at class level and school level Wave 2; country; stratum of school (migrant share); school type; federal state; participation status from waves 1 until 4.
+Wave 5
+Topics: Current situation: School: school leaving certificate or diploma awarded in the last year; diploma obtained and title of diploma; duration of training; final grade; achievement of a school leaving certificate at the same time as training; type of school leaving certificate; grades in mathematics, German and English in the diploma; overall grade in the diploma; current activity; current type of school attended; branch of cooperative comprehensive school; current class level attended; frequency of deviant behaviour at school (arguments with teachers, experienced punishment, unauthorised absence from school, late arrival); self-efficacy; attitude towards school; importance of good school grades. 
+Vocational training: name of the training occupation; total duration of training; achievement of an additional educational qualification through training; type of this educational qualification; level of net monthly income (categorised).
+Studies: month and year of study start; type of university; major and minor subjects; expected degree; study programme with admission restrictions or selection procedure; receipt of BAföG, educational loan or scholarship; total income from BAföG, educational loan and/or scholarship. 
+Job title of current occupation or job; amount of net monthly income (categorised); type of employment contract; start of employment (month and year); job is first job since leaving school; job title of first job; active search for training or job; job title of desired occupation. 
+Self-assessment of German language skills (speaking, writing); other languages at home than German; self-assessment of knowledge of this language (speaking, writing); frequency of television, conversations with family and friends and newspaper reading in this language. 
+German citizenship; interest in German citizenship or naturalisation; intended naturalisation in the next 5 years; opinion on German citizenship or naturalisation (costly and expensive, important as naturalisation enables participation in elections, protection against possible deportation, surrender old citizenship in case of naturalisation); attitude towards German citizenship (negative attitude of the family, feeling less belonging to the country of origin of the family, facilitation of everyday life, e.g. with authorities or on journeys, advantages in education, studies or job search, correctly belonging to Germany).
+Leisure behavior: activity in associations or groups; association or group in which most of the time is spent; name of association or group; position held in this association; proportion of persons of selected ethnic origin; type of political participation in the last year (petition, demonstration, party support); frequency of information on political and social issues; frequency of discussions on political and social issues. 
+Frequency of hot meals and breakfast; frequency of alcohol consumption, sports, smoking, drug use; part-time job; weekly hours and monthly earnings in part-time job. 
+Family: parents´ migration background; frequency of visits to parents´ country of origin in the last 12 months; interest in this country´s policies; parents´ employment status; frequency of pocket money and amount of pocket money. 
+Friendships: ethnic background of the friends; contact in school, university or profession with people of selected ethnic origin. 
+Feelings and attitudes: national identity; sense of belonging to another group and strength of identity; importance of traditionalism with regard to this group; Germans should do everything to preserve their customs and traditions; foreigners should adapt to German society; Germans should be open to foreigners´ customs and traditions; foreigners should do everything to preserve their customs and traditions. 
+Religious affiliation; importance of religion for the respondent; frequency of visits to religious meeting places; frequency of prayers; sympathy scale for selected groups of origin; opinion on living together as an unmarried couple, on divorce, abortion and homosexuality; life satisfaction (scale); health problems: frequency of headaches, stomach pains and problems falling asleep in the last 6 months; future expectations regarding job, stay in Germany, university degree and wealth.
+Political opinion: complexity of politics; simple formation of opinions on political topics; politicians only interested in votes; politicians concerned about what people think; particularly good politicians; satisfaction with the democratic system in Germany and the work of the federal government; institutional trust (political parties, courts, police, politicians, newspapers, radio and television); party preference (Sunday question); eligibility to vote and participation in the European elections in May 2014; self-assessment left-right. 
+Demography: sex; age (day, month and year of birth).
+Additionally coded: International respondent ID; country of data collection; mode of collection; interview date (month, year); data release version.
+Wave 6
+Topics: Career history after school, family, friends, partnership and leisure time.
+Youth main questionnaire:Housing situation: relationship with other household members.
+Self-assessment of German language skills (speaking, writing); other language(s) at home than German; self-assessment of knowledge of this language (speaking, writing); frequency of television, conversations with family and friends and newspaper reading in this language; nationality.
+Leisure behaviour: frequency of selected leisure activities (visiting relatives, going out, reading, sports club or music club, concert, museum, newspaper reading); frequency of information on political and social topics; frequency of discussions on political and social topics; number of books in the household.
+Family: migration background of parents and grandparents; frequency of visits to parents´ country of origin in the last 12 months; education of parents (only refresher sample); activity status of parents; current or last occupation of parents.
+Feelings and beliefs: future expectations at the age of 30 regarding country of residence, marriage, children, state of health, national identity; sense of belonging to another group and strength of identity; opinion on limiting refugee immigration by setting a ceiling; opinion on refugee acceptance in the country (war or civil war refugees, politically persecuted, religiously persecuted, people fleeing starvation or natural disasters, ethnically persecuted and refugees who have left their country due to insufficient employment opportunities); gender roles (raising children, cooking, cleaning up, earning money).
+Religious affiliation; importance of religion for the respondent; frequency of visits to religious meeting places; frequency of prayers; assessment of opportunities for education or employment with the same grade (men or women, foreigners or natives, children of workers or academics); experience of discrimination based on gender, ethnicity and social origin.
+Friendships: boyfriend/girlfriend; activity and origin of boyfriend/girlfriend; ethnic background of boyfriend/girlfriend; personal trust; self-assessment of health compared to peers; proportion of people in main activity with German, Italian, Polish, Russian, Turkish or other origin; general life satisfaction.
+Current situation: school leaving certificate, training qualification or university degree since the last interview and type of these qualifications; overall mark on leaving certificate; designation of occupation requiring training; attainment of an additional educational qualification through training; type of this educational qualification; current job; school: type of school currently attended; vocational training: Title of occupation providing training; amount of net monthly income (categorised); studies: major and minor subjects; expected degree; occupation: title of current occupation or job; amount of net monthly income (categorised); type of income sources and of amounts available.
+Permanent partnership; living with a partner since January 2011; married; children; number of children.
+Demography: sex; age (day, month and year of birth); refreshment sample: country of birth; age of migration; generation.
+Additionally coded: weighting factors; flag variables.
+Youth achievement questionnaire:Linguistic competence tasks and a word and figure puzzle (cognitive ability test)
+Youth life history calendar -structural:Technical information: type of wave detection; personal wave index; wave type (2 levels); wave start and end (month, year); wave duration; correction in test module; technical problem in longitudinal section.Information on all educational pathways since January 2011: detailed information on general education first and second educational pathways, information on vocational training (apprenticeship in a company and at school), information on school-based vocational training, information on vocational schools for initial and continuing vocational training, information on retraining, information on studies, vocational preparation, other vocational training.For example, the following were recorded: type(s) of school attended, school leaving certificate obtained, final grade; occupation requiring training, subjects studied, type of higher education institution, restriction on admission, degree, degree attained, other courses of study.
+Information on all forms of employment (e.g. full-time employment: occupation, type of employment contract, conversion of fixed-term contract into open-ended contract, weekly working hours, internship, part-time job, type of activity, etc.) Information on maternity protection, parental leave, voluntary service, military service, work &amp; travel, stays abroad, unemployment, job search; work as a househusband or housewife, incapacity to work.Information on the kind of other activities.
+Verification of the data by opening the calendar; missing information.
+Youth life history calendar - partner:Information on partner: sex; age (month of birth, year of birth); start and end of partnership; duration of partnership; further partnerships; start and end of further partnerships; partner´s school attendance at start of partnership and type of school attended; partner´s education at start of partnership; migration background; time of living together with partner; duration of living together; married to partner; time of start and end of marriage; duration of marriage.
+Youth life history calendar - children:Information on children: sex; age (month and year of birth); biological child.
+Information on the sample (Youth main questionnaire, Youth achievement questionnaire, youth life history calendar, youth life history calendar - partner, youth life history calendar - children): International respondent ID; country of data collection; data collection method ( face-to-face interview); version, sample (panel, refresher); interview date (day, month, year); data release version; unique partner index; unique child index; participation status waves 1 to 6 (reasons for non-participation).
+Wave 7
+Youth main questionnaire: 
+Self-assessment of language skills in the national language (speaking and writing); other languages spoken at home; self-assessment of language skills in this second language (speaking and writing); frequency of use of this second language (conversations with family and friends, television and newspaper reading); family situation or situation outside the family or living alone; association membership; personality traits (extroversion, goodwill, conscientiousness, neuroticism, openness to experience).
+Information on partner: permanent partner; date of beginning of relationship (month, year); age; current job; highest educational attainment; desired educational attainment; partner´s origin; marriage; date of marriage (month, year); children; number of children; month and year of birth of children.Attitudes towards other groups: opinion on immigrants: national population/immigrants should adhere to their customs and traditions, immigrants should adapt to the society in the country, national population should be open to the customs and traditions of immigrants; cohabitation without marriage certificate, divorce, abortion and homosexuality are ok; feelings towards different population groups (Germans, Italians, Poles, Russians, Turks, Syrians, Afghans, Albanians, Bulgarians, North Africans, other Africans).
+Parents: parents´ migration background; frequency of visits to parents´ country of origin in the last 12 months; current employment status of parents.
+Feelings and beliefs: have many good qualities, much of which I can be proud, like me as I am, confidence in the future; national identity; sense of belonging to another group and strength of identity; personal meaning to hold on to the customs and habits of that group; frequency of different feelings (worried, quickly angry, anxious, downhearted, worthless, acting without thinking); religion: religious affiliation; importance of religion for the respondent; frequency of visits to religious meeting places; frequency of prayers; importance of religion for the respondent; frequency of visits to religious meeting places; frequency of prayers.
+Friends and acquaintances: frequency of contact with people of different origins (Germans, Italians, Poles, Russians, Turks, Syrians, Afghans, Albanians, Bulgarians, North Africans, other Africans, other national origins); proportion of friends of German, Italian, Polish, Russian, Turkish or other origin.
+Activities and health: general life satisfaction; frequency of headaches, stomach pains and difficulties falling asleep in the last six months; delinquent behaviour in the last three months (e.g., deliberate destruction of property, stealing, carrying a knife or weapon, drunkenness); frequency of hot meals and breakfast; frequency of alcohol consumption, sport, cigarette consumption and drug consumption; height in centimetres and weight in kilograms; future expectations at the age of 30 regarding job, whereabouts, university degree and financial situation.
+Current situation: number of activities generated from wave 6; duration of this activity; time of end of activity(s) (month, year); school leaving certificate or diploma since last interview and type of these qualifications; acquisition of a higher education entrance qualification or attainment of an additional educational qualification through education; total duration of education; overall grade in leaving certificate; overall grade in school leaving certificate and in mathematics, German and English; university leaving certificate since last interview and type of this university leaving certificate; overall grade university leaving certificate.
+Detailed information on current activities: School: type of school currently attended; start of school attendance (month, year); class level, vocational training: Date of commencement of training (month, year); total duration of training; attainment of an additional educational qualification as a result of training; type of educational qualification; studies: date of commencement of studies (month, year); type of higher education institution; major and minor subjects; expected level of studies; studies with restricted admission; professional activity: Job title of the current occupation or job (ISCO-08, ISEI, SIOPS - generated); type of employment contract; weekly working time; start of work in this job (month, year); current job is first job after leaving school; first job after leaving school (ISCO-08, ISEI, SIOPS - generated); active search for an apprenticeship or training position a job in the last three months; occupation (ISCO-08, ISEI, SIOPS - generated); type of income sources and amount of each available amount.
+Demography: sex; age (day, month and year of birth).
+Youth friends questionnaire:
+Information on the three best friends: sex; age; origin; current activity; highest educational attainment; occupation (ISCO, ISEI, SIOPS). 
+Additionally coded: international respondent ID; national respondent ID (Germany); study area; mode of collection; interview date (day, month, year); version Youth main Interview, Youth friends Interview)
+Tracking data set: individual respondent ID; national respondent ID; class and school ID; survey unit at class level and school level wave 2; sample (panel, refresher sample); country; stratum of school (migrant share); school type; participation status from waves 1 to 7.
+COVID-19 Supplementray Survey -CILS4COVID:
+Current main job; job in February 2020; loss of this job due to the Corona pandemic; change in everyday working life due to the Corona pandemic (e.g. Work from home, less/ more money, less/ more hours per week, time off without/ with continued pay, additional side job or mini-job taken, side job or mini-job lost, none of the above, currently no job or side job and not in education); frequency of information about the Corona pandemic from the following sources in German (newspapers (also online), public and private TV and radio stations (also online), public agencies, e.g. government or Ministry of Health, information from scientists or research institutions, social media); trust in the aforementioned sources of information; being informed about the Corona pandemic in a language other than German; most frequently used language for this information; frequency of being informed about the Corona pandemic by selected sources in this language; trust in the sources of information in this language; trust in different parties with regard to the management of the Corona pandemic (CDU/CSU, SPD, AfD, FDP, Die Linke, Bündnis 90/Die Grünen); agreement with statements on the Corona pandemic (the German Federal Government reacted to the Corona pandemic in good time, the measures taken by the German Federal Government to cope with the Corona pandemic unnecessarily restrict personal freedom, the economic damage caused by the measures to cope with the Corona pandemic is disproportionate to their benefit);  assessment of the federal government´s actions to address the Corona pandemic; primary responsibility for containing the Corona pandemic (state or citizen); more or less concern since the beginning of the Corona pandemic with regard to the following areas: financial situation, own health, health of friends and relatives, economic situation in Germany; proven infection with the Corona virus (self, a person from the family, a person from the circle of friends, a person from the circle of acquaintances, no, I don´t want to say); frequency of headaches, stomach aches and problems falling asleep in the last two months; frequency of personal precautions against COVID-19 (sneeze or cough into the crook of my arm, wear a face mask and/or gloves in public, wash hands thoroughly, do not shake hands with other people when greeting them); frequency of different emotional states since the start of the Corona pandemic (worry a lot, get angry easily, feel scared, sad, worthless, act without thinking, feel lonely); changes in other people´s behaviour in public since the start of the Corona pandemic (avoid me more often on the street or in shops, sit away from me more often in public, have become more helpful to me overall); change in own behaviour; feeling unfairly treated or discriminated against more often because of ethnicity since the start of the Corona pandemic; changes since the beginning of the Corona pandemic in terms of frequency of quarrels or arguments, insults or verbal violence, fisticuffs or physical violence, disturbance by neighbours, as well as help from neighbours; trust in various parties with regard to dealing with climate change (CDU/CSU, SPD, AfD, FDP, Die Linke, Bündnis 90/Die Grünen); agreement with various statements: Federal government responded to climate change in a timely manner, measures taken by the federal government to address climate change unnecessarily restrict personal freedom, the economic damage caused by measures to address climate change is disproportionate to their benefits, it is right that issues such as climate change or migration are no longer at the forefront during the Corona pandemic); assessment of measures taken by the federal government to address climate change; primary responsibility for mitigating climate change (state or citizen); agreement with statements on the Corona pandemic (freedom of the individual should take a back seat to the well-being of the population during the Corona pandemic, Germany should not take in refugees during the Corona pandemic, the true origin of the Corona pandemic is being concealed from us, during the Corona pandemic we need a strong leader to ensure our safety); agreement with the following statements (it is important to follow the measures of the federal government now without questioning them, people with German citizenship should be given preferential medical care during the Corona pandemic, it is not good to have virologists running the country instead of democratically elected politicians, people who do not follow the protective measures of the federal government should be reported to the police immediately); satisfaction with different areas of life (general life satisfaction, health, German health system).
+Demography: sex; age (date of birth).  
+Additionally coded: national respondent ID; country of survey (Germany); survey mode of the supplementary survey; interview date; indication of date; version of the supplementary survey; allocation to experimental groups.
+Wave 8 
+1. Youth main questionnaire: 
+Self-assessment of language competence in the national language (speaking and writing); German dialect; most frequently spoken dialects; other language spoken at home; naming of this other language; self-assessment of language competence in this second language (speaking and writing); frequency of use of this second language (conversations with family and friends, watching television and reading newspapers); partner; origin of partner; married, date of marriage (month, year); intention to marry; children; number of children; month and year of birth of children; further wish to have children in the next two years; family situation: Birth of parents abroad (migration background); visit to mother/father´s country of origin. 
+Feelings and beliefs: national identity; sense of belonging to another group and strength of identity; gender roles; religion: religious affiliation; importance of religion for the respondent; frequency of attending religious meeting places; frequency of prayer; activity in a religious community.
+Housing situation: age at moving out of parental home; main residence (state, country, regional classification; housing status; amount of monthly rent or monthly repayment costs for mortgage loans and other loans to finance the condominium/house; number of housing and house repairs; number of households living in the condominium/house; number of households living in the condominium/house; number of households living in the condominium/house; number of households living in the condominium/house. of the house; number of living rooms and bedrooms; composition of the neighbourhood (families with children, elderly, foreigners, unemployed); assessment of the neighbourhood with regard to housing, green spaces, public transport, shopping facilities, safety during the day and at night, distance to the workplace or place of education or study; means of transport used; intention to move within the next two years; main reason for the intention to move; maximum accepted distance in minutes to the workplace or place of education or study; preferred size of the town.
+Everyday life: frequency of different leisure activities; time spent on a weekday watching TV, using streaming services, social media, online dating platforms, household activities, video games or computer games alone and with others; proportion of friends with German, Italian, Polish, Russian, Turkish or other origin; self-assessment of health status compared to peers; general life satisfaction and satisfaction with current home as well as living environment; future prospects at age 30 in terms of staying in the country, marriage, children, health and home ownership.
+Current situation: school-leaving qualification or training qualification since the last interview and type of training qualification; designation of vocational qualification according to ISCO 2008 (ISEI, SIOPS - generated); acquisition of a higher education entrance qualification through the vocational qualification; total duration of training; overall grade or credit points in the leaving certificate; acquisition of an additional educational qualification with the vocational qualification; type of additional educational qualification acquired; overall grade in the leaving certificate and in the subjects mathematics, German and, English; higher education degree since the last interview and type of this higher education degree; overall grade of higher education degree; current main job.
+School: type of school currently attended; school branch; school attendance since month, year; grade level. Apprenticeship/vocational training: job title; important aspects for carrying out the job (mediating in disagreements between people, maintaining contact with people from the region, using clear and understandable language, convincing others to change their opinion or behaviour, assisting customers or clients in personal conversations, teaching); net income; start of training (month, year); duration of training; acquisition of an additional educational qualification with the training; type of additional educational qualification acquired.
+Studies: Start of studies (month, year); dual studies; occupation; occupational title in the context of dual studies (ISCO-08, ISEI, SIOPS - generated); type of higher education institution; name of higher education institution; place of study; number of subjects studied (major and minor); subjects studied; type of degree; access restriction or selection procedure; receipt of BAföG, education loan or scholarship; amount of benefits received.
+Work: current occupation (ISCO-08, ISEI, SIOPS - generated); important aspects for carrying out the occupation (mediating in disagreements between people, maintaining contact with people from the region, speaking clearly and understandably, persuading others to change their opinion or behaviour, assisting customers or clients in personal conversations, teaching); participation in retraining, further education or training in addition to work; type of retraining, etc.; name of retraining, etc. (ISCO-08, ISEI, SIOPS - generated); net income; type of employment contract; weekly working hours; month and year of starting work in this occupation; first job after leaving school; job title of first job (ISCO-08, ISEI, SIOPS - generated); name of retraining or in-service training ISCO-08, ISEI, SIOPS - generated); start of retraining or in-service training (month, year); total amount of retraining or CVT (number of hours); provider; receipt of a certificate of attendance, recognised licence or other certification with this retraining, CVT or CVD; active search for a training or work position in the last three months; Job title (ISCO-08, ISEI, SIOPS - generated).
+2. Sibling questionnaire: total number of siblings; biological brother or sister, half-brother/half-sister, adoptive brother/half-sister, step-brother/step-sister; age of siblings; current situation or occupation; type of school attended; educational attainment; job title (ISCO 2008, ISEI, SIOPS). 
+Additionally coded were: international respondent ID; National respondent ID; Country of data collection; method of sibling interview (telephone, post, online); interview date; Data release version; Flag: Technical error sibling 3 (telephone interview) .
+3. Youth residence history calendar: age at move-in; housing status (current or last dwelling - generated); federal state; country of residence; regional classification (RegioStaR); household composition; number and type of household members; reasons for moving out. 
+Additionally coded: International respondent ID, national respondent ID; country of data collection; Youth residence history calendar collection method (telephone, post, online); interview date; data release version; number of entries in the youth residence history calendar.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alle Schülerinnen und Schüler, die in der ersten Erhebungswelle (2010/11) von CILS4EU (ZA5656/ZA5353) die Jahrgangsstufe 9 besucht haben. Die Auswahlgesamtheit nachfolgender Wellen bilden alle Befragten der Ausgangserhebung, die sich grundsätzlich bereit erklären auch an zukünftigen Umfragen teilzunehmen.
+
+Die Grundgesamtheit der Auffrischungsstichprobe (Welle 6) bildeten junge Erwachsene der Geburtsjahrgänge 1994 bis 1996.
+
+
+</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>All students who have participated in the first wave of the survey (2010/11) of CILS4EU (ZA5656/ZA5353) and attended class level 9. 
+The universe of following waves is formed by all respondents of the initial survey, who agreed to participate in future surveys.
+The universe of the refreshment sample (wave 6) was formed by young adults born between 1994 and 1996.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Zweistufige disproportional geschichtete Klumpenauswahl
+(erste Stufe: disproportional geschichtete Zufallsauswahl von Schulen;
+zweite Stufe: Zufallsauswahl von Klassen in den Schulen. Innerhalb der
+Klassen wurden alle Schüler befragt.) 
+
+Für die 6. Erhebungswelle wurden zwei Stichproben herangezogen: 
+- Panelstichprobe: Panelteilnehmer/innen der vorangegangenen Erhebungswellen, 
+- Auffrischungsstichprobe: Personenstichprobe aus den Registern von 62 Einwohnermeldeämtern.
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Two-stage Disproportional Stratified  Cluster Sample
+(First stage:  Disproportional Stratified Probability Sample of schools;
+second stage: Random Sample of classes in schools. Within the classes all students were interviewed.
+Two samples were used for the 6th survey wave:
+- Panel sample: Panel members of the previous survey waves,
+- Refreshment sample: Sample of persons from the registers of 62 registration offices.
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2014-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2014-09</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>wave 4</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Welle 4</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2015-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2015-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>wave 5</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Welle 5</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2016-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2016-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>wave 6</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Welle 6</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2018-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2018-10</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>wave 7</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Welle 7</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2020-04-22</date>
+				</startDate>
+				<endDate>
+					<date>2021-01-12</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>COVID-19 special</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>COVID-19-Special</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2020-08-12</date>
+				</startDate>
+				<endDate>
+					<date>2020-10-31</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>wave 8</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Welle 8</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Panel</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Mannheimer Zentrum für Europäische Sozialforschung (MZES) an der Universität Mannheim</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>Distributor</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>HostingInstitution</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.WebBased</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.Paper</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Selbstausfüller: CAWI (Computerunterstütztes Web-Interview)
+Selbstausfüller: Papier
+Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)
+Persönliches Interview: CAPI (Computerunterstützte persönliche Befragung)
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Self-administered questionnaire: CAWI (Computer Assisted Web Interview)
+Self-administered questionnaire: Paper
+Telephone Interview: CATI (Computer Assisted Telephone Interview)
+Face-to-face interview: CAPI (Computer Assisted Personal Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Erhebungseinheit: Schüler###</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Survey unit: students###</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/cils4eu-de.6655.5.0.0</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/cils4eu-de.6655.4.0.0</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/cils4eu-de.6655.3.0.0</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/cils4eu-de.6655.2.0.0</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/cils4eu-de.6655.1.0.0</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/cils4eu‐de.6655.1.0.0</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Weißmann, Markus, and Amrei Maddox (2016): Early Ethnic Partner Choice among Natives and Descendants of Immigrants in Germany. The Role of Personal Preferences and Parental Influence. Mannheim [Mannheimer Zentrum für Europäische Sozialforschung: Arbeitspapiere; 164]</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

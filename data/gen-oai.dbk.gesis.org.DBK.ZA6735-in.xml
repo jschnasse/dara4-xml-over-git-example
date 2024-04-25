@@ -1,0 +1,236 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Structural Discrimination'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Strukturelle Diskriminierung'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA6735</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Strukturelle Diskriminierung</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Structural Discrimination</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Presse- und Informationsamt der Bundesregierung</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6735?doi=10.4232/1.13402</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13402</doiProposal>
+	<publicationDate>
+		<date>2019-12-30</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6735</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT37</identifier>
+					<!-- Arbeit und Betrieb -->
+					<identifier>KAT54</identifier>
+					<!-- Person, Persönlichkeit, Rolle -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Arbeitsbedingungen</term>
+					<term>Ältere Menschen</term>
+					<term>Geschlecht und Geschlechterrollen</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Minderheiten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Working conditions</term>
+					<term>Elderly</term>
+					<term>Gender and gender roles</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Minorities</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Erfahrungen mit und Einstellungen zu (struktureller) Diskriminierung
+Die Studie hat im Wesentlichen zwei Ziele: Zum einen soll sie die Erfahrung von Menschen, die diskriminiert wurden, in den Fokus rücken und mögliche Strukturen und Mechanismen, die einer solchen Diskriminierungserfahrung zu Grunde liegen, identifizieren. Hier spielt auch der Umgang mit und die Reaktion auf die Benachteiligung eine zentrale Rolle. Zum anderen sollen Einstellungen und Ansichten zu Diskriminierung in Deutschland und daraus abzuleitende Forderungen im Vergleich zwischen Betroffenen und nicht Betroffenen vergleichend untersucht werden. Hierzu werden nicht selbst Betroffene noch einmal unterschieden zwischen Menschen, die eine Diskriminierung anderer beobachtet haben und Menschen die weder als Betroffene, noch als Beobachtende mit Diskriminierung konfrontiert wurden.
+Themen: Erfahrungen mit Diskriminierung in den letzten 3 Jahren (selbst, Menschen im persönlichen Umfeld, unbekannte Dritte); Grund der persönlich erlebten Diskriminierung.
+Formen und Häufigkeit erlebter Diskriminierung: Häufigkeit der persönlichen Diskriminierung in ausgewählten Bereichen; Art der erfahrenen Benachteiligung (materielle Benachteiligung, soziale Herabwürdigung, körperliche Übergriffe).
+Umgang mit und Folgen von Diskriminierung: Reaktion auf die Diskriminierungserfahrung; Auswirkungen der Diskriminierungserfahrung auf den Befragten persönlich; Bekanntheit von öffentlichen Hilfsangeboten und Anlaufmöglichkeiten; Wunsch nach bislang nicht bestehenden Hilfsangeboten (offen); Kenntnis der eigenen Rechte im Falle von Diskriminierung; Beurteilung eines Gesetzes gegen Diskriminierung; Bekanntheit rechtlicher Grundlagen: Allgemeines Gleichbehandlungsgesetz (AGG); Bewertung des AGG; Zeuge von Diskriminierung anderer; Gründe der Diskriminierung anderer; persönliche Reaktion bei Diskriminierung anderer; Gründe für die Unterstützung der benachteiligten Person.
+Gesellschaftliche Dimension von Diskriminierung: geschätzte Verbreitung von Diskriminierung in Deutschland nach ethnischer Herkunft, Alter, Geschlecht und Geschlechtsidentität, religiöse Einstellung und Weltanschauung, sexuelle Identität, Behinderung oder chronische Krankheit; ; Vergleich der aktuellen Situation mit der vor fünf Jahren in Bezug auf die Verbreitung der vorgenannten Arten von Diskriminierung; wahrgenommene gruppenbezogene Diskriminierung aufgrund der Merkmale ethnische Herkunft (Migrationshintergrund), Alter, Geschlecht und Geschlechtsidentität, religiöse Einstellung und Weltanschauung, sexuelle Identität, Behinderung oder chronische Krankheit; mögliche Ursachen für Diskriminierung; Bewertung der Anstrengungen in Deutschland gegen Diskriminierung; Verantwortung für Handeln gegen Diskriminierung.
+Politische Einstellungen und Erwartungen an Politik:  Erwartungen an die Politik aufgrund verschiedener Aussagen zum Thema Diskriminierung; Politikinteresse; Institutionenvertrauen; Parteisympathie.
+Lebensumstände und allgemeine Einstellungen: allgemeine Lebenszufriedenheit; Beurteilung der eigenen wirtschaftlichen Lage; Stereotype  und Vorurteile gegenüber anderen Personen oder Gruppen (Behinderte, Homosexuelle, Person anderer ethnischer Herkunft, bzw. anderer Religion).
+Demographie: Geschlecht; Alter (offen, gruppiert); Bildung; Bundesland; Erwerbstätigkeit; Ortsgröße; Haushaltsnettoeinkommen; feste Partnerin/ fester Partner; sexuelle Orientierung; Migrationshintergrund; Herkunftsland; Konfession bzw. Religionsgemeinschaft; Behinderung oder  chronische Krankheit; Fremdzuweisung Gruppenzugehörigkeit.
+Zusätzlich verkodet wurde: Befragten-ID; Gruppe Diskriminierungserfahrung (eigene, fremde, keine Diskriminierungserfahrung); Gewichtungsfaktor.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Forms and frequency of discrimination. Dealing with and consequences of discrimination. Social dimension of discrimination. Political attitudes and expectations of politics. Living situations and general attitudes.
+Topics: Experiences of discrimination in the last 3 years (self, people in personal environment, unknown third parties); reason of personally experienced discrimination.
+Forms and frequency of experienced discrimination: Frequency of personal discrimination in selected areas; type of experienced disadvantage (material disadvantage, social degradation, physical assault).
+Dealing with and consequences of discrimination: reaction to the discrimination experience; effects of the discrimination experience on the respondent personally; awareness of public offers of assistance and opportunities to get started; desire for previously non-existent offers of assistance (open); knowledge of one´s own rights in case of discrimination; assessment of a law against discrimination; awareness of legal foundations: General Equal Treatment Act (AGG); assessment of the AGG; witness of discrimination of others; reasons for discrimination of others; personal reaction in case of discrimination of others; reasons for supporting the disadvantaged person.
+Social dimension of discrimination: estimated prevalence of discrimination in Germany according to ethnic origin, age, gender and gender identity, religious attitudes and beliefs, sexual identity, disability or chronic disease; ; comparison of the current situation with that of five years ago regarding the prevalence of the above types of discrimination; perceived group discrimination based on the characteristics of ethnic origin (migration background), age, gender and gender identity, religious attitudes and beliefs, sexual identity, disability or chronic disease; possible causes of discrimination; evaluation of efforts in Germany against discrimination; responsibility for action against discrimination.
+Political attitudes and expectations of politics: Expectations of politics based on various statements on the topic of discrimination; political interest; trust in institutions; party sympathy.
+Living situations and general attitudes: general life satisfaction; assessment of one´s own economic situation; stereotypes and prejudices against other persons or groups (disabled, homosexuals, persons of other ethnic origin or other religion).
+Demography: sex; age (open, grouped); education; state; employment; city size; net household income; steady partner; sexual orientation; migration background; country of origin; denomination or religious community; disability or chronic illness; foreign assignment of group membership.
+Additionally coded was: respondent ID; group discrimination experience (own, other, no discrimination experience); weighting factor.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Bevölkerung ab 18 Jahren in Deutschland</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Population aged 18 and over in Germany</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Nicht-Wahrscheinlichkeitsauswahl: Quotenstichprobe; Auswahlverfahren Kommentar: Quotenstichprobe aus Access-Panel (Brutto-Ausgangsstichprobe). Screening von Befragten mit eigener, fremder und keiner Diskriminierungserfahrung (disproportionale Gleichverteilung)</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Non-probability: Quota; Sampling Procedure Comment: Quota sample from access panel (gross initial sample). Screening of respondents with own, other and no experience of discrimination (disproportionate equal distribution)</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-04-01</date>
+				</startDate>
+				<endDate>
+					<date>2019-04-15</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Kantar Public, München</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.WebBased</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Online-Befragung (CAWI)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>1060</numberUnits>
+			<numberVariables>199</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie wurde im Auftrag des Bundespresseamtes durchgeführt.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The study was commissioned by the Federal Press Office.</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kantar:
+(Strukturelle) Diskriminierung: Eine Studie von Kantar, Public Division im Auftrag des Presse- und Informationsamtes der Bundesregierung (BPA).
+München: 2019
+</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

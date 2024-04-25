@@ -1,0 +1,246 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Social Cohesion Radar: Social Cohesion in Germany 2017'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Radar gesellschaftlicher Zusammenhalt: Sozialer Zusammenhalt in Deutschland 2017'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7486</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Radar gesellschaftlicher Zusammenhalt: Sozialer Zusammenhalt in Deutschland 2017</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Social Cohesion Radar: Social Cohesion in Germany 2017</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Kai</firstName>
+				<middleName/>
+				<lastName>Unzicker</lastName>
+				<affiliation>
+					<affiliationName>Bertelsmann Stiftung, Gütersloh</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Klaus</firstName>
+				<middleName/>
+				<lastName>Boehnke</lastName>
+				<affiliation>
+					<affiliationName>Jacobs University, Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7486?doi=10.4232/1.13280</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13280</doiProposal>
+	<publicationDate>
+		<date>2019-07-11</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7486</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT51</identifier>
+					<!-- Gemeinde, Wohnumwelt -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Community, urban and rural life</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Political behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Bertelsmann Stiftung führt seit 2012 das Projekt „Radar gesellschaftlicher Zusammenhalt“ durch. Das Ziel besteht darin, die Güte gesellschaftlichen Zusammenhalts in verschiedenen Gemeinwesen zu erfassen. Hierzu wurden 2017 aktuelle Daten zur sozialen Kohäsion, ihren Stärken und Schwächen, Ursachen und Wirkungen erhoben und dazu bundesweit 5.041 Menschen befragt hat, wovon 4.968 in den Analysen berücksichtigt werden konnten.
+Themen: Wohnort, Nachbarschaft, Freundeskreis: Lebenszufriedenheit; Wohndauer am Wohnort (Einzugsjahr); Umzugsabsicht; Verbundenheit mit Europa, Deutschland, dem Bundesland, der Region, dem Wohnort und der Nachbarschaft (geopolitische Identität); soziales Netzwerk: Größe des Freundes- und Bekanntenkreises; Häufigkeit privater Treffen mit Freunden, Verwandten und mit Arbeitskollegen; bei Schwierigkeiten Hilfe von Freunden; im Notfall finanzielle Unterstützung durch Freunde oder Bekannte. 
+Vertrauen zu Mitmenschen: allgemeines Personenvertrauen; Vertrauen in Fremde; überzeugt von guten Absichten der meisten Menschen; man kann sich auf niemanden verlassen; die meisten Menschen begegnen mir mit Respekt. 
+Toleranz und Vielfalt: Leben in Deutschland durch zunehmende Vielfalt bedroht oder bereichert; Akzeptanz von Diversität in der Nachbarschaft (Menschen mit einem ganz anderen Lebensstil, Menschen anderer Religionen, Ausländer/ Migranten, Homosexuelle und Flüchtlinge). 
+Vertrauen in Einrichtungen und Organisationen: Institutionenvertrauen (politische Parteien, Gerichte, Polizei, Landesregierung, Landtag, Bundesregierung, Bundestag, Europäische Kommission, Europäisches Parlament, öffentlich-rechtlicher Rundfunk, soziale Medien).
+Gerechtigkeit, soziale Unterschiede: finde soziale Unterschiede im Land gerecht; Vergütung entsprechend der eigenen Leistung; gerechte Verteilung wirtschaftlicher Gewinne; Rangunterschiede zwischen Menschen sind akzeptabel; die meisten Leute kümmern sich nicht darum, was mit ihren Mitmenschen geschieht.  
+Hilfsbereitschaft: regelmäßige oder gelegentliche Hilfsbereitschaft gegenüber Personen außerhalb des Haushalts; Geldspende für soziale oder gemeinnützige Zwecke in den letzten 12 Monaten; Hilfsbereitschaft gegenüber einer hilfsbedürftigen fremden Person. 
+Sicherheit, Gesetzestreue: Sicherheitsgefühl in der Nachbarschaft; Sicherheitsgefühl nachts in der Umgebung; verschiedene Probleme im Ortsteil (z.B. Hundekot auf der Straße, Falschparker, etc.). 
+Teilhabe, gesellschaftliches Engagement: Häufigkeit von ehrenamtlichem Engagement; Art des politischen Engagements in den letzten zwölf Monaten (z.B. Ausüben eines politischen Amts, Beteiligung an einer Demonstration, etc.); Politikinteresse; Interesse an Lokalpolitik; Mitgliedschaft in einem gemeinnützigen Verein oder einer gemeinnützigen Organisation; Wahrscheinlichkeit der eigenen Wahlbeteiligung bei den nächsten Wahlen.
+Flüchtlinge: gut, dass Deutschland viele Flüchtlinge aufgenommen hat; große Probleme mit Flüchtlingen in der Wohngegend; Staat kümmert sich mehr um Flüchtlinge als um hilfsbedürftige Deutsche; Deutschland wird Herausforderungen durch die Aufnahme und Integration von Flüchtlingen bewältigen.
+Gesundheit und Zufriedenheit im Leben, Religiosität: allgemeines Glücksgefühl; Selbsteinschätzung des Gesundheitszustands; Zustimmung zu verschiedenen Aussagen (eigenes Leben kommt dem Ideal nahe, Lebensbedingungen sind hervorragend, zufrieden mit dem Leben, bisher die wichtigsten vom Leben gewünschten Dinge bekommen, würde fast nichts ändern, falls ich mein Leben noch einmal leben könnte); Selbsteinschätzung der Religiosität.
+Selbsteinschätzung: persönliche Werte (neue Ideen entwickeln, Reichtum, Sicherheit, Amüsieren, Gutes tun, Erfolg, Risikofreude, Richtiges tun, Umwelt, Traditionen). 
+Politik, Demokratie, Zusammenhalt: Globalisierung als Bedrohung oder als Chance; Links-rechts-Selbsteinstufung; Parteinähe; Zukunftsoptimismus; Demokratiezufriedenheit; Unsicherheit durch Ereignisse der letzten Jahre; Demokratie als beste Staatsform; keine freie Meinungsäußerung in Deutschland ohne Ärger zu bekommen; Zusammenhalt in Deutschland ist gefährdet; Beurteilung des Zusammenhalts in der Wohngegend; Einschätzung der Spannungen zwischen sozialen Gruppen in Deutschland (zwischen Armen und Reichen, Männern und Frauen, Einheimischen und Einwanderern, politisch Rechts und Links sowie zwischen Christen und Muslimen). 
+Demographie: Geschlecht; Alter; Kinder; Anzahl der Kinder; Haushaltsgröße und Haushaltszusammensetzung; feste Partnerschaft; Erwerbstätigkeit; höchster Schulabschluss; höchster beruflicher Bildungsabschluss; Anzahl der Bücher im Haushalt; Besuchshäufigkeit von Musikveranstaltungen im vergangenen Jahr; soziale Mediennutzung;  laufende Hilfe zum Lebensunterhalt in den letzten 12 Monaten; Beurteilung der persönlichen wirtschaftlichen Lage; Haushaltsnettoeinkommen; in Deutschland geboren; Geburtsland; deutsche Staatsbürgerschaft; Staatsbürgerschaft des Befragten; Bundesland der Kindheit und Jugend; Geburt der Eltern in Deutschland; Geburtsland der Eltern; zu Hause gesprochene Sprache; Anzahl der Festnetznummern im Haushalt; Anzahl der Mobilfunknummern.  
+Zusätzlich verkodet wurde: Interviewnummer; Stichprobe (Festnetz, Mobilfunk); Ortsteil genannt; Landkreis bzw. kreisfreie Stadt genannt; Straße und Hausnummer genannt; Bundesland; Migrationshintergrund; Berlin Ost/West; Region; Gewichtungsfaktoren.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The Bertelsmann Stiftung has been conducting the ´Social Cohesion Radar´ project since 2012. The aim is to measure the quality of social cohesion in different communities. In 2017, current data on social cohesion, its strengths and weaknesses, causes and effects were collected, and 5,041 people nationwide were surveyed, 4,968 of whom were included in the analyses.
+Topics: Place of residence, neighbourhood, circle of friends: Satisfaction with life; duration of residence at place of residence (year of moving in); intention to move; solidarity with Europe, Germany, federal state, region, place of residence and neighbourhood (geopolitical identity); social network: size of circle of friends and acquaintances; frequency of private meetings with friends, relatives and work colleagues; help from friends in case of difficulties; financial support from friends or acquaintances in an emergency.
+Trust in others: general personal trust; trust in strangers; convinced of the good intentions of most people; you cannot rely on anyone; most people treat me with respect.
+Tolerance and diversity: Life in Germany threatened or enriched by increasing diversity; acceptance of diversity in the neighbourhood (people with a completely different lifestyle, people of other religions, foreigners/migrants, homosexuals and refugees).
+Trust in institutions and organisations: Institutional trust (political parties, courts, police, state government, state parliament, federal government, Bundestag, European Commission, European Parliament, public broadcasting, social media).
+Justice, social differences: find social differences in the country fair; remuneration according to one´s own performance; fair distribution of economic profits; differences in rank between people are acceptable; most people do not care what happens to their fellow human beings.
+Helpfulness: regular or occasional willingness to help people outside the home; donation of money for social or charitable purposes in the last 12 months; willingness to help a needy stranger.
+Security, legal compliance: feeling of security in the neighbourhood; feeling of security at night in the surrounding area; various problems in the district (e.g. dog excrement on the street, parking offenders, etc.).
+Participation, social commitment: frequency of volunteer work; type of political commitment in the last twelve months (e.g. political office, participation in a demonstration, etc.); political interest; interest in local politics; membership in a non-profit association or organisation; probability of participation in the next elections.
+Refugees: it is good that Germany has accepted many refugees; major problems with refugees in the residential area; the state cares more about refugees than about Germans in need of help; Germany will overcome challenges by accepting and integrating refugees.
+Health and satisfaction in life, religiosity: general feeling of happiness; self-assessment of state of health; agreement to various statements (own life comes close to the ideal, living conditions are excellent, satisfied with life, getting the most important things desired by life so far, would change almost nothing if I could live my life again); self-assessment of religiosity.
+Self-assessment: personal values (developing new ideas, wealth, security, amusement, doing good, success, risk-taking, doing right, environment, traditions).
+Politics, democracy, cohesion: globalisation as a threat or as an opportunity; left-right self-assessment; party proximity; optimism about the future; satisfaction with democracy; uncertainty due to events of recent years; democracy as the best form of government; no freedom of expression in Germany without anger to get; cohesion in Germany is endangered; assessment of cohesion in the residential area; assessment of tensions between social groups in Germany (between poor and rich, men and women, natives and immigrants, political right and left, and between Christians and Muslims).
+Demography: sex; age; children; number of children; household size and composition; steady partnership; employment status; highest school leaving certificate; highest vocational qualification; number of books in the household; frequency of visits to music events in the past year; social media use; ongoing livelihood support in the last 12 months; assessment of personal economic situation; net household income; born in Germany; country of birth; German citizenship; respondent´s citizenship; state of childhood and adolescence; parents´ birth in Germany; parents´ country of birth; language spoken at home; number of landline numbers in the household; number of mobile phone numbers.
+Additionally coded: interview number; sample (landline, mobile); named district; named administrative district or independent city; named street and house number; federal state; migration background; Berlin east/west; region; weighting factors.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wohnbevölkerung im Alter ab 16 Jahren</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Resident population aged 16 and over</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2017-01-10</date>
+				</startDate>
+				<endDate>
+					<date>2017-03-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>infas Institut für angewandte Sozialwissenschaft, Bonn</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>5041</numberUnits>
+			<numberVariables>153</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Arant, Regina; Dragolov, Georgi; Boehnke, Klaus: Sozialer Zusammenhalt in Deutschland 2017.
+Gütersloh: Bertelsmann Stiftung 2017</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

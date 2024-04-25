@@ -1,0 +1,475 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'The EU LGBTI II Survey, 2019'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'The EU LGBTI II Survey, 2019'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7604</identifier>
+		<currentVersion>1.1.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>The EU LGBTI II Survey, 2019</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>The EU LGBTI II Survey, 2019</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>European Union Agency for Fundamental Rights (FRA), Vienna, Austria</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7604?doi=10.4232/1.13733</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13733</doiProposal>
+	<publicationDate>
+		<date>2021-05-03</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7604</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT32</identifier>
+					<!-- Sozialpolitik -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+					<identifier>KAT54</identifier>
+					<!-- Person, Persönlichkeit, Rolle -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>GESELLSCHAFT UND KULTUR</term>
+					<term>Kriminalität und Gesetzesvollzug</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Minderheiten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>SOCIETY AND CULTURE</term>
+					<term>Crime and law enforcement</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Minorities</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die EU-LGBTI-II-Umfrage wurde 2019 von der Agentur der Europäischen Union für Grundrechte (FRA) durchgeführt. Es handelt sich um eine groß angelegte Umfrage über Erfahrungen und Ansichten von lesbischen, schwulen, bisexuellen, trans und intersexuellen (LGBTI) Personen. Die Umfrage ermöglicht vergleichende Untersuchungen dazu, wie LGBTI-Personen in der EU Diskriminierung, Gewalt und Belästigung in verschiedenen Lebensbereichen wie Beschäftigung, Bildung, Gesundheitswesen, Wohnungswesen und anderen Dienstleistungen erleben. 
+Die EU-LGBTI-II-Erhebung ist eine Folgeerhebung der ersten großen internationalen Umfrage über LGBT-Personen, die die Agentur 2012 durchführte. Die EU-LGBTI-II-Umfrage ist eine webgestützte Opt-in-Umfrage, bei der ein anonymer Online-Fragebogen verwendet wurde. Die Umfrage basiert auf einer selbst-selektiven Stichprobe. Die Umfrage wurde zwischen dem 27. Mai und dem 22. Juli 2019 über die Website www.lgbtisurvey.eu durchgeführt und sammelte gültige Antworten von 139.799 Teilnehmern aus den Mitgliedstaaten der Europäischen Union (EU), Nordmazedonien und Serbien (in diesem Zusammenhang ist das Vereinigte Königreich in der Gruppe der EU-Mitgliedstaaten enthalten, was die Situation zum Zeitpunkt der Datenerhebung im Jahr 2019 widerspiegelt). Im Anschluss an eine EU-weite offene Ausschreibung beauftragte die FRA ein Konsortium aus Agilis SA (http://www.agilis-sa.gr/) und Homoevolution (https://homoevolution.com/) mit Sitz in Griechenland mit der Durchführung der Erhebung nach den technischen Spezifikationen der FRA und unter der Aufsicht von FRA-Mitarbeitern, die die Einhaltung strenger Qualitätskontrollverfahren überwachten.
+In der EU LGBTI II-Umfrage wurde eine Reihe von Fragen zu den Erfahrungen von LGBTI-Personen in den folgenden Bereichen gestellt: (1) Wahrgenommene Zunahme oder Abnahme von Intoleranz, Vorurteilen und Gewalt gegen LGBTI-Personen; (2) Diskriminierung am Arbeitsplatz, bei der Arbeitssuche und in verschiedenen anderen Lebensbereichen; (3) Sichere Umgebung; (4) Physische oder sexuelle Viktimisierung; (5) Belästigung; (6) Sozialer Kontext des LGBTI-Seins; (7) Hintergrundinformationen (Alter, Bildung, Einkommen, Zivilstand); (8) Spezielle Abschnitte, die Fragen im Zusammenhang mit dem Leben von transsexuellen und intersexuellen Personen gewidmet sind.
+1. Sexuelle Orientierung und Sexualverhalten: Zu wem fühlt sich der Befragte sexuell hingezogen; Geschlecht der Sexualpartner in den letzten fünf Jahren; Land des derzeitigen Wohnsitzes und Aufenthaltsdauer; Staatsbürger des Landes; Staatsbürgerschaft; Geburtsland; Alter bei Realisierung der sexuellen Orientierung; Alter beim ersten Outing.
+2. Trans-Befragte: Alter bei Realisierung, dass Gefühle bezüglich des eigenen Geschlechts nicht mit dem bei der Geburt zugewiesenen Geschlecht übereinstimmen; Alter beim ersten Outing; Maßnahmen ergriffen um den Körper so zu verändern, dass er der eigenen Geschlechtsidentität besser entspricht und Alter bei der ersten Intervention; Gründe, warum keine Maßnahmen zur Veränderung des Körpers ergriffen wurden; ärztliche Behandlung im Ausland zur Veränderung des äußeren Erscheinungsbildes einschließlich des Kaufs von Hormonen über das Internet; Vermeidung, das eigene Geschlecht (oder Wunschgeschlecht) durch eigenes Aussehen und Kleidung auszudrücken aus Angst vor Angriffen, Bedrohung oder Belästigung; Änderung des gesetzlichen Geschlechts; Gründe für bislang fehlende Änderung des gesetzlichen Geschlechts.
+3. Intersexuelle Befragte: Art der vorhandenen Varianten der Geschlechtsmerkmale bzw. diesbezüglicher Behandlung; Diagnose der Varianten der Geschlechtsmerkmale durch medizinische Fachleute; Zeitpunkt der Diagnose (vor der Geburt, bei der Geburt, in der Kindheit, Jugend oder in einem späteren Alter); Zeitpunkt der ersten Diagnose in der Jugend oder in einem späteren Alter; Alter bei der ersten Realisierung von Varianten der eigenen Geschlechtsmerkmale; Alter beim ersten Outing; medizinische Behandlung zur Änderung der Geschlechtsmerkmale; Alter bei der ersten medizinischen Behandlung; Zustimmung zur Behandlung erteilt; Art der Behandlung; Aufklärung des Befragten oder seiner Eltern über mögliche positive oder negative Konsequenzen; Schwierigkeiten bei der Registrierung des Personenstands oder Geschlechts in öffentlichen Dokumenten; Art der Schwierigkeiten; größte Schwierigkeiten von Intersexuellen im Land.
+4.  Entwicklungen und Reaktionen auf Homophobie, Transphobie, Biphobie und Intersexphobie: wahrgenommene Zunahme oder Abnahme von Intoleranz, Vorurteilen und Gewalt gegen LGBTI-Personen im Land in den letzten fünf Jahren; Hauptgründe für die Abnahme bzw. Zunahme von Vorurteilen und Intoleranz bzw. Gewalt; Effektivität der Maßnahmen der Regierung im Kampf gegen Vorurteile und Intoleranz.
+5. Diskriminierung am Arbeitsplatz, bei der Arbeitssuche und in verschiedenen anderen Lebensbereichen:  Erfahrung mit Diskriminierung in verschiedenen Lebensbereichen;  Situation bei der letzten Diskriminierung; weitere Gründe für Diskriminierung außer LGBTI; Anzeige des Vorfalls durch den Befragten oder eine andere Person; Organisation oder Institution, der der Vorfall gemeldet wurde; Gründe, warum der Vorfall nicht gemeldet wurde; bezahlte Tätigkeit während der letzten fünf Jahre; persönlicher Umgang und Erfahrungen im Hinblick auf LGBTI während der Berufstätigkeit: Offenheit gegenüber anderen, Verschweigen, negative Kommentare gegenüber der eigenen Person bzw. allgemein; erfahrene bzw. wahrgenommene Unterstützung im beruflichen Umfeld; Erfahrungen im Hinblick auf LGBTI während der Schulzeit; erfahrene Diskriminierung durch Mitschüler bzw. Lehrer während der Schulzeit; Überlegungen die Schule zu wechseln, erfahrene bzw. wahrgenommene Unterstützung während der Schulzeit; LGBTI als Thema während der Schulbildung; erfahrene Diskriminierung bei Gesundheitsdienstleistungen; Bekanntheit der Unterstützungsorganisationen im Land; Bekanntheit der Gleichstellungsbehörden im Land.
+6. Sichere Umgebung: Häufigkeit von Vermeidungsverhalten aus Angst, angegriffen, bedroht oder belästigt zu werden (Händchen halten mit einem gleichgeschlechtlichen Partner in der Öffentlichkeit, Meiden bestimmter Orte oder Lokalitäten); Situation, in der offener Umgang mit LGBTI vermieden wird; angemessenes Eingehen der Landesregierung auf die Sicherheitsbedürfnisse von LGBTI-Personen.
+7. Physische und sexuelle Viktimisierung: Häufigkeit von physischen oder sexuellen Angriffen in den letzten fünf Jahren aus beliebigen Gründen und im Hinblick auf LGBTI; Zeitpunkt des letzten physischen oder sexuellen Angriffs aufgrund von LGBTI; Art des letzten Angriffs, Einzeltäter oder mehrere Angreifer; Täter bzw. Beziehung zum Täter; Geschlecht des Täters; Ort des Angriffs; Meldung des Vorfalls bei  einer Organisation oder Institution und Art dieser Institution; Grund, warum der Vorfall nicht bei der Polizei angezeigt wurde, gesundheitliche Auswirkungen des Vorfalls.
+8. Belästigung: Art der erfahrenen Belästigung aus beliebigen Gründen in den letzten fünf Jahren; Häufigkeit erfahrener Belästigung  in den letzten zwölf Monaten aus beliebigen Gründen und aufgrund von LGBTI; Häufigkeit der Vorfälle; anderer Grund für beleidigenden oder bedrohlichen Vorfall; Zeitpunkt des letzten Vorfalls; Art des beleidigenden oder bedrohlichen Vorfalls; Einzeltäter oder mehrerer Täter; Täter bzw. Beziehung zum Täter; Geschlecht des Täters; Ort des Vorfalls; Meldung des Vorfalls an eine Organisation oder Institution und Art dieser Institution; Grund, warum der Vorfall nicht bei der Polizei angezeigt wurde.
+9. Sozialer Kontext: Offenheit im Umgang mit LGBTI gegenüber verschiedenen Gruppen (Anteil), allgemeine Lebenszufriedenheit. 
+10. Hintergrundinformationen: Höchster Bildungsabschluss; Erwerbsstatus; Urbanisierungsgrad des Wohnortes; Familienstand; Zusammenleben mit Partner/  Partnerin/ Ehepartner; Geschlecht des Partners; völlige oder teilweise Offenheit gegenüber dem Partner; Staatsangehörigkeit des Partners; Umzug innerhalb der EU zusammen mit dem gleichgeschlechtlichen Partner nach der Heirat oder Registrierung der Partnerschaft; Schwierigkeiten beim Zugang zu  Leistungen oder Dienstleistungen aufgrund des gleichgeschlechtlichen Partners/ Ehepartners; Haushaltsgröße; Haushaltszusammensetzung; Kinder und Verhältnis zu diesen Kindern; Aufziehen eines Kindes/ von Kindern gemeinsam mit dem Partner; rechtliche Situation in der Familie hinsichtlich der Kinder; Zugehörigkeit zu einer Minderheit; Religionszugehörigkeit; Selbsteinschätzung der Gesundheit; lang anhaltende Krankheit oder Gesundheitsproblem; niedergeschlagen oder deprimiert gefühlt in den letzten zwei Wochen; Auskommen mit dem Haushaltseinkommen; Erfahrung mit Wohnungsproblemen; Dauer der Wohnungsprobleme; Rangfolge der drei wichtigsten Gründe für Wohnungsprobleme. 
+11. Kenntnis von der Umfrage: Informationsquelle über die Umfrage; Art und Häufigkeit der Mediennutzung; Teilnahme an der FRA EU LGBT Umfrage in 2012, Teilnahme an anderen Umfragen für LGBTI-Personen, keine Teilnahme an anderen Umfragen; aktive Unterstützung von LGBTI-Organisationen.
+Demographie: Alter (gruppiert); bei der Geburt zugewiesenes Geschlecht; Selbstbeschreibung; sexuelle Orientierung (gruppiert); intersexuell; Tans-Person; derzeitige Geschlechtsidentität.
+Zusätzlich verkodet wurde: Betragten-ID; Befragten-Kategorie; Interviewdauer (in Sekunden); Benchmark X Propensity Combination Weight standardised and trimmed (0.1 - 10.0 range); EU-30 country weight X Benchmark X Propensity Combination Weight (2019); EU-28 country weight X Benchmark X Propensity Combination Weight (2019); EU-27 country weight X Benchmark X Propensity Combination Weight (2019); Openness scale about being LGBTI, Openness about being LGBTI at work; Openness about being LGBTI at the school; Allgemeine Diskriminierung in den letzten 12 Monaten in verschiedenen Lebensbereichen	; Diskriminierungserfahrungen in den letzten 12 Monaten in der Beschäftigung (lkw work, atwork); Meldung eines physischen oder sexuellen Angriffs an eine Organisation; erlebte Belästigung in den 5 Jahren vor der Umfrage, aus welchem Grund auch immer; erlebte Belästigung in den 12 Monaten vor der Umfrage, aus welchem Grund auch immer; erlebte Belästigung in den 12 Monaten vor der Umfrage aufgrund von LGBTI; Informierte Einwilligung zur med. Behandlung/Intervention zur Veränderung der Geschlechtsmerkmale (nur Intersex).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The EU LGBTI II survey was carried out by the European Union Agency for Fundamental Rights (FRA) in 2019. It is a large-scale survey into experiences and views of lesbian, gay, bisexual, trans and intersex (LGBTI) individuals.  The survey provides comparative evidence on how LGBTI persons in the EU experience discrimination, violence and harassment in different areas of life, including employment, education, healthcare, housing and other services.
+The EU LGBTI II survey is a follow-up of the first–ever major international survey on LGBT people, which the Agency conducted in 2012. The EU LGBTI II survey is a follow-up to the first major international survey of LGBT people conducted by the Agency in 2012. The EU LGBTI II survey is a web-based opt-in survey using an anonymous online questionnaire. The survey is based on a self-selective sample. The survey was conducted between 27 May and 22 July 2019 via the website www.lgbtisurvey.eu and collected valid responses from 139,799 respondents from the Member States of the European Union (EU), Northern Macedonia and Serbia (in this context, the United Kingdom is included in the group of EU Member States, reflecting the situation at the time of data collection in 2019). Following an EU-wide open call for tenders, the FRA contracted a consortium of Agilis SA (http://www.agilis-sa.gr/) and Homoevolution (https://homoevolution.com/), based in Greece, to carry out the survey according to the FRA´s technical specifications and under the supervision of FRA staff who monitored compliance with strict quality control procedures.
+The EU LGBTI II survey asked a number of questions about the experiences of LGBTI people in the following areas: (1) Perceived increase or decrease in intolerance, prejudice and violence against LGBTI people; (2) Discrimination at work, looking for work and in several other areas of life; (3) Safe environment; (4) Physical or sexual victimisation; (5) Harassment; (6) Social context of being LGBTI; (7) Background information (age, education, income, civil status); (8) Specific sections dedicated to issues related to the life of trans as well as intersex persons.
+1. Sexual orientation and sexual behaviour: to whom is the respondent sexually attracted; sex of sexual partners in the last five years; country of current residence and length of stay; citizen of the country; citizenship; country of birth; age at realisation of sexual orientation; age at first outing.
+2. Trans respondents: Age at realisation that feelings about one´s own sex do not match the sex assigned at birth; age at first outing; measures taken to change body to better match one´s own sex identity and age at first intervention; reasons why no measures were taken to change body; medical treatment abroad to change one´s appearance, including buying hormones via the internet; avoiding expressing one´s own sex (or desired sex) by means of  appearance and clothing for fear of being attacked, threatened or harassed; changing one´s legal sex; reasons for not changing one´s legal sex so far.
+3. Intersexual respondents: type of existing variants of sexual characteristics or treatment for them; diagnosis of variants of sexual characteristics by health professionals; time of diagnosis (before birth, at birth, in childhood, adolescence or at a later age); time of first diagnosis in adolescence or at a later age; age at first realisation of variants of one´s own sexual characteristics; age at first outing; medical treatment to change sexual characteristics; age at first medical treatment; age at first medical treatment; consent given to treatment; type of treatment; informing the interviewee or his/her parents about possible positive or negative consequences; difficulties in registering civil status or sex in public documents; nature of difficulties; greatest difficulties encountered by intersexuals in the country.
+4. Developments and responses to homophobia, transphobia, biphobia and intersex phobia: perceived increase or decrease in intolerance, prejudice and violence against LGBTI persons in the country over the last five years; main reasons for decrease or increase in prejudice and intolerance or violence; effectiveness of government action in combating prejudice and intolerance
+5. Discrimination at work, when looking for work and in various other areas of life: Experience of discrimination in different spheres of life; situation at the time of the most recent discrimination; reasons for discrimination other than LGBTI; reporting of the incident by the respondent or another person; organisation or institution to which the incident was reported; reasons why the incident was not reported; paid employment during the last five years; personal contact and experiences of LGBTI during employment: openness towards others, silence, negative comments towards oneself or one´s own person general; experienced or perceived support in the professional environment; experience of LGBTI during schooling; experienced discrimination by classmates or teachers during schooling; consideration of changing schools, experienced or perceived support during schooling; LGBTI as an issue during schooling; experienced discrimination in health services; awareness of support organisations in the country; awareness of equality bodies in the country.
+6. Safe environment: frequency of avoidance behaviour for fear of being attacked, threatened or harassed (holding hands with a same-sex partner in public, avoiding certain places or locations); situation where open contact with LGBTI is avoided; appropriate response by the state government to the safety needs of LGBTI persons.                            7. Physical and sexual victimisation: frequency of physical or sexual assaults in the last five years for any reason and in relation to LGBTI; time of the last physical or sexual assault for LGBTI; type of last assault, single or multiple assailants; perpetrator or relationship to perpetrator; sex of perpetrator; location of assault; reporting of the incident to an organisation or institution and type of institution; reason why the incident was not reported to the police; health effects of the incident
+8. Harassment: type of experienced harassment for any reason in the last five years; frequency of experienced harassment for any reason and LGBTI in the last twelve months; frequency of incidents; other reason for offensive or threatening incident; time of the last incident; nature of the offensive or threatening incident; single or multiple perpetrators; perpetrator(s) or Relationship to the offender; sex of the offender; location of the incident; report of the incident to an organisation or institution and the nature of that institution; reason why the incident was not reported to the police.
+9. Social context: openness in dealing with LGBTI towards different groups (proportion), general life satisfaction.
+10. Background information: highest educational attainment; employment status; degree of urbanisation of the place of residence; marital status; living with partner/spouse; sex of the partner; full or partial openness towards the partner; nationality of the partner; moving within the EU together with the same sex partner after marriage or registration of the partnership; difficulties in accessing benefits or services due to the same sex partner; household size; household composition; Children and relationship with these children; raising a child/children together with the partner; legal situation in the family regarding children; membership of a minority; religious affiliation; self-assessment of health; longstanding illness or health problem; feeling depressed in the last two weeks; getting by on the household income; experience with housing problems; duration of housing problems; ranking of the three most important reasons for housing problems.
+11. Knowledge of the survey: source of information about the survey; type and frequency of media use; participation in the FRA EU LGBT survey in 2012, participation in other surveys for LGBTI people, no participation in other surveys; active support of LGBTI organisations
+Demography: age (grouped); sex assigned at birth; self-description; sexual orientation (grouped); intersexual; Trans person; current gender identity.
+Additionally coded: Respondent ID; respondent category; interview duration (in seconds); Benchmark X Propensity Combination Weight standardised and trimmed (0.1 - 10. 0 range); EU-30 country weight X Benchmark X Propensity Combination Weight (2019); EU-28 country weight X Benchmark X Propensity Combination Weight (2019); EU-27 country weight X Benchmark X Propensity Combination Weight (2019); Openness scale about being LGBTI, Openness about being LGBTI at work; Openness about being LGBTI at the school; General discrimination in the last 12 months in different areas of life ; Experienced discrimination in the last 12 months in employment (lkw work, atwork); reported a physical or sexual attack to an organisation; experienced harassment in the 5 years prior to the survey for any reason; experienced harassment in the 12 months prior to the survey for any reason; experienced harassment in the 12 months prior to the survey for any reason; experienced harassment in the 12 months prior to the survey because of LGBTI; informed consent to medical treatment; informed consent to medical treatment; informed consent to medical treatment. Treatment/intervention to change sexual characteristics (intersex only).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>BG</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CY</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CZ</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>EE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LV</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>MT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>MK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>RO</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>RS</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>LGBTI ist ein Akronym, das für lesbische, schwule, bisexuelle, transsexuelle und intersexuelle Menschen steht. Diese Begriffe werden zur Beschreibung der sexuellen Orientierung oder/und der geschlechtlichen Identität/des geschlechtlichen Ausdrucks und/oder der Geschlechtsmerkmale einer Person verwendet.
+
+Die Zielpopulation der EU-LGBTI-Erhebung II wurde wie folgt definiert
+(1) Personen, die sich unter den lesbischen, homosexuellen, bisexuellen, trans- oder intersexuellen Oberbegriffen identifizieren (wobei Unterkategorien in der Transgruppierung berücksichtigt werden, wie z.B. Transfrau, Transmann, nicht-binär, Cross-Dressing-Frau, Cross-Dressing-Mann, Genderqueer, Gender-Fluid, Agender oder Polygender).
+(2) Personen, die mindestens 15 Jahre alt sind.
+(3) Personen, die seit mindestens einem Jahr in ihrem derzeitigen Land leben und deren derzeitiger Staat ein EU-Mitgliedstaat, Serbien oder Nordmakedonien ist (unabhängig von ihrem Wohnsitz oder ihrer Staatsangehörigkeit).
+
+Aufgrund des Erhebungsdesigns basieren die Daten der LGBTI-Erhebung II auf einer engeren Bevölkerungsgruppe als die gesamte LGBTI-Bevölkerung der 30 untersuchten Länder. Die Erhebungspopulation besteht aus Personen, die: 
+- durch die verwendeten Online-Mittel erreicht werden können, d.h. diejenigen, die Zugang zum Internet haben; und
+- auf die Umfrage aufmerksam wurden, z.B. durch den Besuch einer Website/Applikation, auf der die Umfrage beworben wurde, und sich entschieden, die Umfrage auszufüllen.
+
+Im Vergleich zur Welle 2012 wurde der Abdeckungsbereich der zweiten Welle der LGBTI-Umfrage erweitert, um:
+- Spezifische Fragen an Intersex-Personen;
+- Befragte im Alter von 15-17 Jahren;
+- Befragte, die in Nordmazedonien und Serbien leben.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>LGBTI is an acronym that stands for Lesbian, Gay, Bisexual, Trans and Intersex people. These terms are used to describe a person’s sexual orientation or/and gender identity/expression and/or sex characteristics.
+
+The target population of the EU LGBTI survey II was defined as:
+(1) People who identify themselves under the lesbian, gay, bisexual, trans or intersex umbrella terms (allowing for sub-categories in the trans group, such as trans woman, trans man, non-binary, cross-dressing woman, cross-dressing man, genderqueer, gender-fluid, agender or polygender).
+(2) people who are at least 15 years old.
+(3) people who have lived in their current country for at least past 1 year and whose current country is EU Member State, Serbia or North Macedonia (regardless of residency or citizenship).
+
+Given the survey design, LGBTI survey II data are based on a narrower population than the whole LGBTI population of the 30 surveyed countries. The survey population consists of persons who:
+-  can be reached through the online means used, i.e. those who have access to internet; and
+-  became aware of the survey, for example by visiting a website/app where the survey was promoted; and chose to complete the survey.
+
+Compared to the 2012 wave, the coverage of the second wave of the LGBTI Survey has been extended by including:
+- Specific questions to Intersex people;
+- Respondents aged 15-17 years;
+- Respondents living in North Macedonia and Serbia.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Nicht-Wahrscheinlichkeitsauswahl: Willkürliche Auswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Non-probability: Availability; Sampling Procedure Comment: The LGBTI survey was an online opt-in survey. Respondents were self-selected as they volunteered to participate in the survey. This design was adopted because it would not have been possible to achieve a representative random sample of LGBTI persons across the EU in the absence of sampling frames and reliable, detailed information about the target population in terms of its size, characteristics and composition in the survey countries. 
+At the survey design stage the sizes of the target population and subpopulations were estimated to provide guidance for the recruitment process to help achieving a balanced sample. Because the true percentage of the LGBTI population is unknown, previous studies into prevalence of LGBTI people in the population were mapped. This provided estimates of the relative sizes of each LGBTI category.
+Continuous real-time monitoring of the data collection progress was used to determine which recruitment channels and strategies should be prioritized to attract more respondents from underrepresented strata. Strata were defined based on the combination of LGBTI group and age group (15-34 years, 35-54 years, 55+ years).
+In order to reduce a possible bias, survey dissemination was targeted as broadly as possible. A combination of recruitment channels across the participating countries was used to target separately all LGBTI groups, and reach out to respondents irrespective of their link or affiliation to LGBTI civil society organisations, communities or associations. Off-line activities were undertaken in order to recruit “hard-to-reach” subgroups of the target population (e.g. elderly or intersex persons).</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-27</date>
+				</startDate>
+				<endDate>
+					<date>2019-07-22</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>EU Fundamental Rights Agency (via contactors: Agilis SA – Homoevolution, Greece)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Miltos</firstName>
+				<middleName/>
+				<lastName>Pavlou</lastName>
+				<contributorType>DataCurator</contributorType>
+				<affiliation>
+					<affiliationName>Project Manager - Social Research, Research and Data Unit, European Union Agency for Fundamental Rights</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Karel</firstName>
+				<middleName/>
+				<lastName>Fric</lastName>
+				<contributorType>DataCurator</contributorType>
+				<affiliation>
+					<affiliationName>Programme Officer - Social Research, Research and Data Unit, European Union Agency for Fundamental Rights</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.WebBased</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Web-administered survey using anonymous online questionnaire</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>139799</numberUnits>
+			<numberVariables>514</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Bei der LGBTI-Umfrage handelte es sich um eine Online-Opt-in-Umfrage. Das heißt, anders als bei Umfragen mit Wahrscheinlichkeitsstichproben selektierten sich die Befragten selbst in die Stichprobe.
+
+Dieses Design wurde gewählt, weil es nicht möglich gewesen wäre, eine repräsentative Zufallsstichprobe von LGBTI-Personen in der gesamten EU zu erhalten, wenn es keine Stichprobenrahmen und zuverlässige, detaillierte Informationen über die Zielpopulation in Bezug auf ihre Größe, Merkmale und Zusammensetzung in den Umfrageländern gegeben hätte.
+
+Auch die Verwendung der traditionellen Stichprobentechniken wäre aufgrund der geringen erwarteten Prävalenz der Zielgruppe in der Bevölkerung eine Herausforderung. Aufgrund der sozialen Stigmatisierung könnten sich einige LGBTI-Befragte dazu entschließen, in herkömmlichen persönlichen Interviews zu verbergen, dass sie LGBTI sind, und nicht an einer Umfrage teilnehmen, die von den Befragten verlangt, sich als LGBTI zu identifizieren. Darüber hinaus hat die Forschung unter Berücksichtigung der verschiedenen Datenerhebungsmodi gezeigt, dass der herkömmliche Modus der Face-to-Face-Umfrage im Vergleich zu Web-Umfragen unter einem höheren Grad der Verzerrung in Bezug auf die soziale Erwünschtheit leidet, insbesondere wenn sensible Fragen gestellt werden. Bei Web-Umfragen, die als anonym und vertraulich wahrgenommen werden, wird erwartet, dass der soziale Erwünschtheitsbias geringer ist. Um solche Verzerrungen zu vermeiden, wurde die LGBTI-Umfrage II so konzipiert, dass Vertraulichkeit und Anonymität gewährleistet sind.
+
+Gewichtung
+
+Da es keine offiziellen Bevölkerungsstatistiken über die Anzahl und Struktur der LGBTI-Bevölkerung gibt, wurden die Schätzungen der Größen der Zielpopulation und der Teilpopulationen verwendet, um die Grundlage für eine Gewichtung nach der Stratifizierung zu schaffen. Die Stratifizierungsvariablen waren die LGBTI-Kategorie und die Altersgruppe. Für die Berechnung der Benchmark-Gewichtung wurden die Altersgruppen 35-54 und 55+ Jahre zusammengeführt, da die erhobene Stichprobe in den älteren Schichten nicht groß genug war, um separat behandelt zu werden.
+
+Ein weiterer Faktor für die unausgewogene Zusammensetzung der Stichprobe kann sich aus der Tatsache ergeben, dass Personen, die LGBTI-Organisationen angehören, überrepräsentiert sein können. Die Gewichte der Zugehörigkeit (Neigung) werden berechnet, um eine mögliche Überrepräsentation der angeschlossenen Befragten zu korrigieren.
+
+Neben den Gewichten auf Länderebene werden auch Gewichte auf EU-Ebene vorgesehen, um sicherzustellen, dass die Befragten aus jedem Land proportional zur Größe der Zielpopulation des Landes vertreten sind, wenn Indikatoren auf EU-Ebene erstellt werden.
+
+Hinweise zur Verwendung des LGBTI-II-Umfragedatensatzes
+
+Der folgende Text enthält Anweisungen zur Verwendung des LGBTI-II-Umfragedatensatzes.
+
+Der Datensatz enthält Informationen über die Ebene der Befragten. Der Datensatz besteht aus einer Zeile pro Einheit, die Informationen über den Befragten enthält. Jeder Befragte hat einen eindeutigen Zufallsbezeichner RESPONDENT\_ID.
+
+Jeder Befragte wurde auf der Grundlage der Screeningfragen in Abschnitt A des Fragebogens in eine von fünf Kategorien (lesbisch, schwul, bisexuell, transsexuell oder intersexuell) eingeteilt. Viele Fragen in der Umfrage wurden angepasst, um die Kategorie der Befragten widerzuspiegeln, wenn dies notwendig war. In der Praxis bedeutete dies, dass z.B. ein bisexueller Befragter die Frage C1 in der folgenden Form sehen würde: ´Haben Sie sich in den letzten 12 Monaten in einer der folgenden Situationen persönlich diskriminiert gefühlt, weil Sie bisexuell sind? Zwei Abschnitte des Fragebogens (Abschnitte TR und IX) wurden nur für transsexuelle bzw. intersexuelle Untergruppen zur Verfügung gestellt.
+
+Der Datensatz enthält vier Gewichtungen: BENAFFWT, BENAFFWTEU28, BENAFFWTEU30 und BENAFFWTEU27. BENAFFWT sollte für die Ableitung von Indikatoren auf Länderebene verwendet werden. BENAFFWTEU28 sollte für die Ableitung von Indikatoren auf EU-28-Ebene (d.h. EU-27 plus UK) verwendet werden. Analog bezieht sich BENAFFWTEU27 auf die EU-27 (d.h. EU ohne UK) und BENAFFWTEU30 auf die gesamte Erhebungsstichprobe (d.h. EU-27, MK, RS und UK).
+
+Weitere wichtige Anmerkungen:
+
+- Die Antwortkategorien -888 (Bevorzuge, nichts zu sagen) und -999 (Ich weiß nicht) waren für die Befragten nicht sichtbar, als eine Frage zum ersten Mal auftauchte. Sie wurden nur sichtbar, wenn die Befragten auf die Schaltfläche ´Nächste Frage´ klickten, ohne eine Antwort auf die aktuelle Frage auszuwählen. Dies geschah nur bei Fragen, bei denen die Kategorien -888 und/oder -999 im Fragebogen erwähnt wurden, sofern nicht anders angegeben.
+
+- Fragen A6 und A6\_1: Bis zum 30. Mai wurde A6 gefragt, ob die folgende Regel galt: WENN A3=1 oder 2. Ab dem 30. Mai änderte sich die Streckenführung, und daher wurde A6 gefragt: IF A3=1 oder 2 oder 6. Frage A3 betrifft die aktuelle Selbstidentifikation der Befragten als Frau/Mädchen, Mann/Junge, Trans-Frau/Mädchen, Trans-Mann/Junge usw. Frage A6 fragt, ob der Befragte eine Trans-Person ist oder war. Frage A6\_1 wurde bis zum 30. Mai IF (A3=3 oder 4 oder 5 oder 6) ODER A6 =1 gestellt. Nach dem 30. Mai wurde A6\_1 gefragt WENN (A3=3 oder 4 oder 5) ODER A6=1. Frage A6\_1 fragt nach der aktuellen Geschlechtsidentität der Befragten, die sich zu einem früheren Zeitpunkt in der Umfrage selbst als trans identifiziert hatten. Die Änderung des Routings von A6 und A6\_1 hatte eine begrenzte Auswirkung - 153 Fälle wurden in den ersten drei Tagen der Umfrage an die Sektion TR weitergeleitet (von denen einige möglicherweise korrekt als ´trans´ kategorisiert wurden).
+
+- Aufgrund eines Fehlers bei der Programmierung haben in C13\_A\_CODE 652 Befragte aus Ungarn (A10=13) eine Antwort bezüglich der Gleichbehandlungsstelle in Kroatien (C13\_A\_CODE=HR), während 86 Befragte aus Kroatien (A10=4) eine Antwort bezüglich der Gleichbehandlungsstelle in Ungarn (C13\_A\_CODE=HU1) haben. Gemäss C13\_B\_CODE haben 86 Befragte aus Kroatien (A10=4) auch eine Antwort auf die Frage bezüglich der zweiten Gleichbehandlungsstelle in Ungarn (C13\_B\_CODE=HU2). Das Problem wurde am 3. Juni 2019 gelöst, so dass die Befragten, die ab diesem Datum auf die Umfrage zugreifen, eine Frage mit den korrekten Namen der Gleichbehandlungsstellen in ihren jeweiligen Ländern erhielten.
+
+Im Datensatz verfügbare Variablen
+
+Der Datensatz basiert auf einem Fragebogen, der einige Fragen enthält, die nur für bestimmte Zielgruppen gelten, und oft mit mehreren Folgefragen gefiltert wird, die nur für eine Untergruppe von Befragten gelten. So wurden z.B. nur diejenigen, die in den letzten 5 Jahren eine bezahlte Arbeit hatten, nach ihren Arbeitserfahrungen in den fünf Jahren vor der Erhebung befragt. Oder nur denjenigen, die irgendeine Diskriminierung erlebt haben, wurden Folgefragen zu Diskriminierungsvorfällen gestellt. Daher ist es wichtig, auf die angewandten Filter zu achten, wie sie im Fragebogen beschrieben sind.
+Der EU-LGBTI-II-Datensatz wurde nach einer detaillierten Bewertung der Vertraulichkeit freigegeben. Infolgedessen wurden die Antwortkategorien einiger Variablen zu einem breiteren Bereich oder einer breiteren Gruppe aggregiert. Einige Variablen werden in dem anonymisierten Datensatz nicht veröffentlicht - dies gilt insbesondere für Antworten in offenen Textfeldern.
+Der Datensatz enthält die Variable RESPONDENT\_CATEGORY. Diese Variable spiegelt die Kategorisierung der Befragten wider, die in der von der FRA durchgeführten Analyse verwendet wurde. Die Berechnung dieser Variable wird im technischen Bericht beschrieben. Es ist wichtig, dies im Auge zu behalten:
+- die Kategorie ´lesbisch´ sich auf cis-geschlechtliche Endosex-Lesben bezieht;
+- die Kategorie ´schwul´ sich auf cis-geschlechtliche endosexuelle schwule Männer bezieht;
+- Die Kategorie ´bisexuelle Frau´ bezieht sich auf bisexuelle Frauen mit Cis-Geschlecht Endosexualität;
+- die Kategorie ´bisexueller Mann´ bezieht sich auf bisexuelle Männer mit Cis-Geschlecht Endosexualität.
+Um die Analyse zu erleichtern, wurden mehrere vorberechnete Variablen und Indikatoren in den Datensatz aufgenommen. Dazu gehören u.a. Variablen zur Offenheit in Bezug auf LGBTI und zur Prävalenz von Diskriminierung und Belästigung.
+
+Weitere wichtige Hinweise zur Verwendung des LGBTI-II-Umfragedatensatzes finden Sie im Methodenbericht.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The LGBTI survey was an online opt-in survey. This means that, unlike surveys with probability samples, the respondents selected themselves into the sample.
+
+This design was adopted because it would not have been possible to achieve a representative random sample of LGBTI persons across the EU in the absence of sampling frames and reliable, detailed information about the target population in terms of its size, characteristics and composition in the survey countries.
+Using the traditional sampling techniques would be also challenging due to low expected prevalence of the target group in the population. Due to social stigma, some LGBTI respondents may choose to conceal being LGBTI in conventional face-to-face interviews and not participate in a survey that requires respondents to identify as LGBTI. Furthermore, considering different data collection modes, research has shown that conventional face-to-face survey mode suffers from a higher level of social desirability bias compared to web surveys, especially when asking sensitive questions. The social desirability bias is expected to be lower in web surveys which are perceived as anonymous and confidential. To avoid such bias, LGBTI survey II was designed to ensure confidentiality and anonymity.
+
+Weighting
+
+In the absence of official population statistics on the number and structure of the LGBTI population, the estimates of the sizes of the target population and subpopulations were used to provide the basis for a post-stratification weighting. The stratification variables were the LGBTI category and age group. For the calculation of benchmark weights, the age bands 35-54 and 55+ years were merged because the collected sample in the older strata was not sufficiently large to be treated separately.
+Another factor of imbalance in the sample composition may arise from the fact that people affiliated with LGBTI organisations may be overrepresented. The affiliation (propensity) weights are calculated to correct for possible overrepresentation of affiliated respondents.
+Besides of the country level weights, EU level weights are provided to ensure that the respondents from each country are represented proportionally to the country’s target population size when producing EU level indicators.
+
+Notes on the use of the LGBTI II survey data set
+
+The following text provides instructions on how to use the LGBTI II Survey dataset.
+
+The dataset includes information on the level of the respondent. The dataset consists of one row per unit, which includes information about the respondent. Each respondent has a unique random identifier RESPONDENT\_ID.
+
+Each respondent was categorised into one of five categories (lesbian, gay, bisexual, trans or intersex) based on the screening questions in section A of the questionnaire. Many questions in the survey were adapted to reflect respondent’s category when this was necessary. In practice this meant that, for example, a bisexual respondent would see question C1 in the following form “During the last 12 months, have you personally felt discriminated against because of being bisexual in any of the following situations?” Two sections of the questionnaire (sections TR and IX) were made available for trans and intersex subgroups only, respectively.
+
+The dataset includes four weights: BENAFFWT, BENAFFWTEU28, BENAFFWTEU30 and BENAFFWTEU27. BENAFFWT should be used for derivation of indicators at country level. BENAFFWTEU28 should be used for derivation of indicators at EU-28 level (i.e. EU-27 plus UK). Analogically, BENAFFWTEU27 refers to EU27 (i.e. EU without UK) and BENAFFWTEU30 to the total survey sample (i.e. EU27, MK, RS and UK).
+
+Other important notes:
+
+- Answer categories -888 (Prefer not to say) and -999 (I don’t know) were not visible to respondents when a question first appeared. They became visible only if respondents clicked on the ‘next question’ button without selecting any answer to the current question. This was happening only for questions where categories -888 and/or -999 were mentioned in the questionnaire, unless stated otherwise.
+- Questions A6 and A6\_1: Until 30 May, A6 was asked if the following rule applied: IF A3=1 or 2. From 30 May onwards the routing changed and thus A6 was asked IF A3=1 or 2 or 6. Question A3 concerns respondent’s current self-identification as a woman / girl, man/ boy, trans woman / girl, trans man / boy, etc. Question A6 asks whether the respondent is or was a trans person. Question A6\_1 was until 30 May asked IF (A3=3 or 4 or 5 or 6) OR A6 =1. After 30 May A6\_1 was asked IF (A3=3 or 4 or 5) OR A6=1. Question A6\_1 asks about current gender identity of respondents who earlier in the survey self-identified as trans. The change in routing of A6 and A6\_1 had a limited impact - 153 cases were routed to the TR section in the first three days of the survey (from whom some may have been correctly categorized as “trans”).
+- Due to a mistake in programming, in C13\_A\_CODE, 652 respondents from Hungary (A10=13) have an answer with respect to the Equality Body in Croatia (C13\_A\_CODE=HR), while 86 respondents from Croatia (A10=4) have an answer concerning the Equality Body in Hungary (C13\_A\_CODE=HU1). According to C13\_B\_CODE, 86 respondents from Croatia (A10=4) also have an answer to the question concerning the second Equality Body in Hungary (C13\_B\_CODE=HU2). The problem was resolved on 3 June 2019, so that respondents accessing the survey from this date onwards received a question with the correct names of the Equality Bodies in their respective countries.
+
+Variables available in the dataset:
+The dataset is based on a sophisticated questionnaire that includes some questions that apply only to specific target groups and is often filtered with several follow-up questions applying only to a subset of respondents. For example, only those who had a paid job in the past 5 years were asked about their experiences at work in the five years before the survey. Or only those who experienced any discrimination were asked follow-up questions on discrimination incidents. Therefore it is essential to pay attention to the filters applied, as described in the questionnaire.
+The EU LGBTI II dataset was released following a detailed assessment of confidentiality. As a consequence, the answer categories of some variables were aggregated into a broader range or group. Some variables are not published in the anonymized dataset – this is especially the case for answers in open text fields.
+The dataset includes variable RESPONDENT\_CATEGORY. This variable reflects the categorisation of respondents which was used in analysis conducted by FRA. The calculation of this variable is described in the technical report. It is important to keep in mind that:
+- category “lesbian” refers to cisgender endosex lesbians;
+- category “gay” refers to cisgender endosex gay men;
+- category “bisexual woman” refers to cisgender endosex bisexual women;
+- category “bisexual man” refers to cisgender endosex bisexual men.
+To ease the analysis, several pre-calculated variables and indicators were included in the dataset.
+
+These include among others variables on openness about being LGBTI and prevalence of discrimination and harassment.
+
+Further important information on the use of the LGBTI II survey data set can be found in the Technical Report.</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.13616</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>FRA (European Union Agency for Fundamental Rights) (2020), A long way to go for LGBTI equality, Luxembourg, Publications Office. Available at: https://fra.europa.eu/en/publication/2020/eu-lgbti-survey-results</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>FRA (European Union Agency for Fundamental Rights) (2020), A long way to go for LGBTI equality – Technical report, Luxembourg, Publications Office. Available at: https://fra.europa.eu/sites/default/files/fra\_uploads/fra-2020-lgbti-equality-technical-report\_en.pdf</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

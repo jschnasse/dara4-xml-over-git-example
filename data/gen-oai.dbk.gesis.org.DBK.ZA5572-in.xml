@@ -1,0 +1,271 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Group-oriented animosity against people (GMF-Survey 2007)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Gruppenbezogene Menschenfeindlichkeit (GMF-Survey 2007)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5572</identifier>
+		<currentVersion>2.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Gruppenbezogene Menschenfeindlichkeit (GMF-Survey 2007)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Group-oriented animosity against people (GMF-Survey 2007)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Wilhelm</firstName>
+				<middleName/>
+				<lastName>Heitmeyer</lastName>
+				<affiliation>
+					<affiliationName>Institut für interdisziplinäre Konflikt- und Gewaltforschung der Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Zick</lastName>
+				<affiliation>
+					<affiliationName>Institut für interdisziplinäre Konflikt- und Gewaltforschung, Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Steffen</firstName>
+				<middleName/>
+				<lastName>Kühnel</lastName>
+				<affiliation>
+					<affiliationName>Universität Göttingen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Peter</firstName>
+				<middleName/>
+				<lastName>Schmidt</lastName>
+				<affiliation>
+					<affiliationName>Universität Gießen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Ulrich</firstName>
+				<middleName/>
+				<lastName>Wagner</lastName>
+				<affiliation>
+					<affiliationName>Universität Marburg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Jürgen</firstName>
+				<middleName/>
+				<lastName>Mansel</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Jost</firstName>
+				<middleName/>
+				<lastName>Reinecke</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5572?doi=10.4232/1.11814</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11814</doiProposal>
+	<publicationDate>
+		<date>2013-10-30</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5572</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Political behaviour and attitudes</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Vorurteile, Rassismus, Fremdenfeindlichkeit, Antisemitismus, Islamophobie,Etabliertenvorrechte, Sexismus, Homophobie, Abwertung vonLangzeitarbeitslosen.
+Themen: Wohnumfeld: Art der Wohnung; Eigentümerstatus; Wohndauer inder derzeitigen Wohnung; wohnhaft vor dem letzten Umzug;Ortsverbundenheit; Zuhause fühlen in der Wohngegend; Umzugswunsch ineinen anderen Stadtteil bzw. eine andere Stadt; Charakterisierung derNachbarschaft hinsichtlich gegenseitiger Hilfsbereitschaft und sozialemMiteinander; Probleme im Wohnumfeld (Incivilities: Abfall undSperrmüll, Betrunkene, Drogenabhängige, Drogendealer, Sachbeschädigungan z.B. Telefonzellen und Bushaltestellen, Graffiti sowie offeneBedrohung, Raub und Körperverletzung); Ausländeranteil in derNachbarschaft; deutsche bzw. andere Staatsangehörigkeit des Befragtensowie seiner Eltern und Großeltern; politische Selbsteinschätzung aufeinem Links-Rechts-Kontinuum; Parteipräferenz (Sonntagsfrage);Wichtigkeit politischer Selbstwirksamkeit; Konfession(Religionszugehörigkeit); Split A: Reaktion auf gleichaltrige Ausländer(unsicher, neugierig, genervt); Diversitätsüberzeugung (Skala);Ausländeranteil in der Nachbarschaft und am Arbeitsplatz; Einstellungzu Kontakten zu Ausländern bzw. von Ausländern zu Deutschen (Skala);Anteil in Deutschland lebender Ausländer am Freundeskreis;Selbstcharakterisierung hinsichtlich: Traditionalismus, Gebräuchen,Wunsch nach Harmonie im Zusammenleben aller Völker, eigener Beitrag fürden Frieden zwischen allen Gruppen) Split Ende; Split B: Einschätzungder wirtschaftlichen Lage in der Bundesrepublik Deutschland sowie dereigenen wirtschaftlichen Situation; gerechter Anteil am Sozialprodukt;bindungslose Flexibilität (Abschätzen von Kontakten nach Nutzen,Verbergen tatsächlicher Absichten, wichtigere Dinge als Beziehungen zuanderen); ökonomistische Einstellung (Skala: z.B. zu vielgesellschaftliche Rücksicht auf Versager, Moral als Luxus); soziale undemotionale Anerkennung und Unterstützung, gesellschaftliche Distanz;Selbstbewusstsein; Einengung durch Erwartungen Dritter; Antisemitismus(Skala: klassischer, sekundärer und israelbezogener Antisemitismus,antisemitische Separation, NS-vergleichende Israelkritik,israelkritische Einstellung) Ende Split B; Selbsteinschätzung:Selbsteinschätzung der Religiosität; Einstellung zumAbsolutheitsanspruch der eigenen Religion; Autoritarismus (Bestrafung,Ordnung, Gehorsam und Respekt, Autoritätsgläubigkeit); Forderung nachLeitkultur und verbindlichen Werten; Sexismus: Einstellung zur Rolleder Frau in der Gesellschaft (Mutterrolle, Karriere); nur Berufstätige:Erreichbarkeit beruflicher Ziele; Einstellung zum Thema Familie(Überforderung von Kindern, Familienleben kaum zu verwirklichen,Kontrollverlust von Eltern über ihre Kinder); Einstellung zurpolitischen Partizipation; Einstellung hinsichtlich derAufrechterhaltung dauerhafter bzw. dem Aufbau neuer Freundschaften;Orientierungslosigkeit; Islamophobie: Einstellung zum Islamund zu Muslimen; Homophobie; Abwertung von Behinderten und Obdachlosen;Einstellung zu Fremdenfeindlichkeit (bei den befragten Ausländernwurden alternative Frageformulierungen bei dieser Skala appliziert,die sich auf Aussiedler bzw. Türken beziehen);Einstellung zu Dominanz, Etabliertenvorrechten und Rassismus;Gewaltbilligung und Gewaltbereitschaft; Antisemitismus (zu viel Einflussder Juden, Mitschuld an Verfolgungen); Irrelevanz politischerPartizipation und Gefühl politischer Wirksamkeit; soziale Ungleichheit;Nationalstolz (nur Deutsche) Split Ende; Heterophobie: geschätzterProzentanteil von Muslimen in verschiedenen Ländern, die an religiösenRegeln orientierte Gesetze präferieren; Assimilation: Personen ohneMigrationshintergrund wurden gefragt: in Deutschland lebende Ausländersollen nach ihren Gewohnheiten leben; Ausländer sollen vollständig amLeben der Deutschen teilnehmen; Personen mit Migrationshintergrund: inDeutschland nach eigenen Gewohnheiten leben; vollständig am Leben derDeutschen teilnehmen; wieder alle: Selbsteinschätzung auf einerOben-Unten-Skala; Selbsteinschätzung der Schichtzugehörigkeit;Abwertung von Langzeitarbeitslosen (Skala: Angst vorsozialem Abstieg auf Hartz IV-Niveau, Langzeitarbeitslosen fehltJobinteresse, eigene Schuld an erfolgloser Jobsuche, Empörung überbequemes Leben auf Kosten der Gesellschaft, Wut über systematischesAusweichen vor der Arbeit, Heranziehen zu öffentliche Arbeiten offenbartArbeitswilligkeit, Forderung nach mehr Unterstützung fürLangzeitarbeitslose). 
+Demographie: Geschlecht; höchster Bildungsabschluss; abgeschlosseneBerufsausbildung; Erwerbstätigkeit; Charakteristika desHaushaltsvorstands (Erwerbstätigkeit, Arbeitslosigkeit undArbeitslosigkeitsdauer, Angst vor Arbeitslosigkeit desHaushaltsvorstands; Wahrscheinlichkeit eigener Arbeitslosigkeit in dennächsten fünf Jahren; nicht erwerbstätige HH-Vorstände: derzeitigeTätigkeit; schwierige Arbeitssuche); Einschätzung der eigenenwirtschaftlichen Situation in fünf Jahren; Schulbildung des Vaters;Alter (Geburtsjahr); Familienstand; fester Lebenspartner;Staatsangehörigkeit des Lebenspartners; Haushaltsgröße;Haushaltsnettoeinkommen; persönliches Brutto-Einkommen.
+Erwerbstätige wurden gefragt: Wichtigkeit von Aufstiegsmöglichkeitenim Beruf; Person im Haushalt mit höherem Einkommen.
+Nichterwerbstätige wurden gefragt: Erwerbstätigkeit in derVergangenheit.
+Zusätzlich verkodet wurde: Interviewtag; Bundesland; Regierungsbezirk;Gewichtung Ost-West; Gewichtungsfaktoren; Migrationshintergrund. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutschsprechende Personen ab 16 Jahren in Telefonhaushalten
+
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Repräsentative Zufallsauswahl nach dem RL2D-Verfahren und Auswahl der
+Zielperson nach dem Schwedenschlüssel
+
+Disproportionale Stichprobe von Personen in den alten Bundesländern
+(einschließlich Berlin) und in den neuen Bundesländern</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2007-06-05</date>
+				</startDate>
+				<endDate>
+					<date>2007-07-02</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Infratest Sozialforschung, München</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen (CATI)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>226</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Vgl. auch die Vorläuferstudien 4391, 5568 bis 5571. Die
+Nachfolgestudie ist unter der ZA-Studien-Nr. 5573 archiviert.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.11329</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Infratest Sozialforschung: 
+Gruppenbezogene Menschenfeindlichkeit: Methodenbericht zur 
+repräsentativen Befragung 2007.
+München: 2007</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Heitmeyer, Wilhelm (Hrsg.):
+Deutsche Zustände, Folge 6.
+Frankfurt am Main: Suhrkamp Verlag 2008.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

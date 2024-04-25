@@ -1,0 +1,177 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Population and Population Movement on the Territory of Today´s North Rhine-Westfalia, 1850 bis 1970'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Bevölkerung und Bevölkerungsbewegung auf dem Gebiet des heutigen NRW, 1850 bis 1970'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA8682</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Bevölkerung und Bevölkerungsbewegung auf dem Gebiet des heutigen NRW, 1850 bis 1970</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Population and Population Movement on the Territory of Today´s North Rhine-Westfalia, 1850 bis 1970</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Harald</firstName>
+				<middleName/>
+				<lastName>Klaudat</lastName>
+				<affiliation>
+					<affiliationName>Landesamt für Datenverarbeitung und Statistik Nordrhein-Westfalen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA8682?doi=10.4232/1.13050</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13050</doiProposal>
+	<publicationDate>
+		<date>2018-06-22</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA8682</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT76</identifier>
+					<!-- Daten Historischer Studien -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Volkszählungen</term>
+					<term>BEVÖLKERUNGSSTATISTIK</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Censuses</term>
+					<term>DEMOGRAPHY (POPULATION, VITAL STATISTICS, AND CENSUSES)</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die vorliegenden Daten sollen die Bevölkerungsstruktur der kreisfreien Städte und Kreise für das Gebiet Nordrhein-Westfalens darstellen. Vor allem mit Hilfe der Merkmalsausprägungen, die in der amtlichen Statistik nicht jährlich, sondern nur zu Zeiten umfassender Volkszählungen seit 1871 vorliegen, wird die Entwicklung der Bevölkerung auf dem Gebiet Nordrhein-Westfalens berichtet. Aufgrund der umfangreichen Gebietsänderungen in dem behandelten Zeitraum von 120 Jahren, die somit auch einen Zeitraum vor der Existenz des Bundeslandes erfassen, kommt den Anmerkungen eine besondere Bedeutung zu. Die Anmerkungen vor allem zu den Gebietsänderungen sind aufgrund des erheblichen Umfangs in der Studienbeschreibung und als downloadbare PDF-Datei beigefügt. 
+Hinweis auf zusätzliche Studien:Es folgen noch Daten zur Religionszugehörigkeit der Bevölkerung, nach Haushalten und Haushaltsgrößen, Daten zur Erwerbsttätigenstruktur nach wirtschaftlicher Gliederung für die Stadt- und Landkreise.
+In der bereits vorliegenden Studie ZA8681 (´Historische Entwicklung der kreisfreien Städte und Kreise und Ihrer Bevölkerung) wird die historische Flächen- und Gebietsentwicklung mit Schwerpunkt auf Bestandsdauer, Zuordnung von Gebieten sowie der Größe der Stadt- und Landkreise betrachtet. In diesem Zusammenhang wird die Einwohnerzahl nach der Verwaltungsgliederung wiedergegeben. 
+
+Die Daten der vorliegenden Studie (ZA8682) sind in HISTAT unter dem Thema Bevölkerung zu finden und beziehen sich auf folgende Regierungsbezirke mit ihren Stadtkreisen, kreisfreien Städten und Landkreise:01	Regierungsbezirk Aachen02	Regierungsbezirk Arnsberg03	Regierungsbezirk Düsseldorf	04	Regierungsbezirk Köln	05	Regierungsbezirk Minden bzw. Detmold	06	Regierungsbezirk Münster		07	Gesamtgebiet bzw. NRW
+Folgende Themenbereiche werden in den Datentabellen zu jedem Regierungsbezirk behandelt:
+A. Gebiet und BevölkerungB. Bevölkerung nach AltersgruppenC. Bevölkerung nach Altersgruppen und GeschlechtD. Bevölkerungsbewegung (Eheschließungen, Geburten, Todesfälle)E. Bevölkerung nach Familienstand und Geschlecht
+
+</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The contents of the present study at hand are data on the population of the territory of North Rhine-Westfalia and its government district, counties and urban counties, and the district-free cities as well for the period of the beginning of the official statistics in 1871 until to 1970 or 1980. The German Land North Rhine-Westfalia was founded in 1946. The particular value of this data compilation is the part of the data report for the North Rhine-Westphalian territory which includes the period of the German Empire and therefore the time period before the existence of this German Country. However, the counties and urban counties and communities of North Rhine-Westphalia exists already since the beginning of the 19th century and earlier (most of them since 1800), and have a history of about 200 years. Therefore, the use of historical documents and official historical statistics of these communities and counties allow the report of continuous and regional differentiated historical development of the North Rhine-Westphalian territory. The author Harald Klaudat used the historical demarcations of the counties and municipalities and their changes in the course of the history to develop an exact retrospective statistical history of population and workforce development for the period from 1871 until 1970 and partly until 1980. The author created with this comprehensive data manual the option of linking long historical time series with results of census data of the present.
+Due to the extensive area changes in the period of 120 years covered, the comments are of particular importance. Because of the considerable scope of the study description, the comments, above all on the changes to the territorial boundaries, are attached as downloadable PDF-document.  
+An indication of additional studies:Further studies on the North Rhine-Westphalian population´s religious affiliation, Population in households by household size, and the population´s workforce by economical sectors will be processed and offered via histat for the download.
+The already published data study za8681 with the title ´Historical Development of district-free cities and counties and their population´ focus on the historical development of the territory of the regions (period of existence, assignment of territories).
+The data of the study at hand (ZA8682) are offered via histat under the topic ´Population´ (=Bevölkerung). The compilation refers to the following governmental districts and their counties, urban counties and district-free (independent) cities: 
+01 Regierungsbezirk (=governmental district) Aachen02 Regierungsbezirk (=governmental district) Arnsberg03 Regierungsbezirk (=governmental district) Duesseldorf04 Regierungsbezirk (=governmental district) Cologne05 Regierungsbezirk (=governmental district) Minden and Detmold respectively06 Regierungsbezirk (=governmental district) Muenster07 General territory or North Rhine-Westphalia (NRW) respectively.
+The following issues are statistically reported for each governmental district and its territorial subcategorization:
+A. Territory and PopulationB. Population by Age GroupsC. Population by Age Groups and by Gender D. Population Movement (marriages, births, deaths)E. Population by Family Status and by Gender
+</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Northrhine Westfalia and its Districts</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Nordrhein-Westfalen und seine Regierungsbezirke: Aachen, Arnsberg, Düsseldorf, Köln, Minden bzw. Detmold, Münster.</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1850-01-01</date>
+				</startDate>
+				<endDate>
+					<date>1970-12-31</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<dataSets>
+		<dataSet>
+			<numberVariables>6587</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Harald Klaudat (1999), Bevölkerung und Erwerbstätigkeit 1850-1970. Eine historische Statistik für die kreisfreien Städte und Kreise und deren Vorgänger im Gebiet von Nordrhein-Westfalen. Herausgegeben vom Landesamt für Datenverarbeitung und Statistik Nordrhein-Westfalen. Düsseldorf. </freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

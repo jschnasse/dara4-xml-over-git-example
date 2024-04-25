@@ -1,0 +1,721 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Eurobarometer 57.0 (Feb-Apr 2002)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Eurobarometer 57.0 (Feb-Apr 2002)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3638</identifier>
+		<currentVersion>1.0.1</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Eurobarometer 57.0 (Feb-Apr 2002)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Eurobarometer 57.0 (Feb-Apr 2002)</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Agriculture, Energy, and Discrimination Issues</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Agriculture, Energy, and Discrimination Issues</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Europäische Kommission</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3638?doi=10.4232/1.10948</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.10948</doiProposal>
+	<publicationDate>
+		<date>2012-03-30</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3638</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>doi:10.3886/ICPSR03520.v3</identifier>
+			<type>DOI</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Energiequellen und natürliche Rohstoffquellen</term>
+					<term>Landwirtschaft und Agrarindustrie</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Energy and natural resources</term>
+					<term>Agriculture and rural industry</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Themenschwerpunkte sind:
+1. Landwirtschaft (Einstellung zur Landwirtschaft und Beurteilung derEuropäischen Agrarpolitik),
+2. Energie,
+3. Diskriminierung.
+Themen: 1. Landwirtschaft: Einfluss der EU-Agrarpolitik auf dieLebensmittelqualität, auf den Lebensmittelpreis, auf die Kennzeichnungder Lebensmittel hinsichtlich Herkunftsland und Produktionsweise sowieauf den Tierschutz; perzipierte Bevorzugung der Bauern oder derVerbraucher durch die Agrarpolitik; präferierte Ziele einerverbraucherorientierten bzw. produzentenorientierten EU-Agrarpolitik(Skala) und Beurteilung der Umsetzung dieser Ziele durch dieEU-Agrarpolitik; Einstellung zu Subventionen für die Agrarwirtschaft(Veränderung der EU-Agrarpolitik: weg von der Subventionierunglandwirtschaftlicher Produkte hin zur finanziellen Unterstützung derEntwicklung ländlicher Gebiete und der Landwirte).
+2. Energie: Kenntnis der Hauptenergieverbraucher (Haushaltsgeräte,Beleuchtung zu Hause, Heizung, Klimaanlage, Transportmittel oderFabriken); Wissen über Anstieg oder Abnahme des Energieverbrauchs imInland und in der EU; perzipierte Möglichkeit zum Energiesparen zu Hauseund im Büro; Abhängigkeit des Transportwesens von Energiequellen wie Öl,Benzin und Diesel; Kenntnis der wichtigsten Energiequellen im eigenenLand; Kenntnis der Energieanteile an der Elektrizitätsproduktion in derEU; Kenntnis des eigenen Elektrizitätsverbrauchs im Haus; Kenntnis derAuswirkungen ausgewählter Energiequellen und Verbraucher auf die Umweltund die globale Erwärmung (Skala); Einstellung zur wachsendenAbhängigkeit der EU von Energielieferanten außerhalb der EU; Einstellungzur Energiegewinnung mittels Kernfusion als Alternative zur Kernspaltung(Skala); Interesse an Informationen über Energiesparmöglichkeiten,erneuerbare Energiequellen, alternative Energien für Kraftfahrzeuge,Brennstoffzellen, Sicherheit von Atomanlagen und EU-Aktivitätenhinsichtlich Forschung und Entwicklung; Kenntnis der energiebezogenenForschung und Entwicklung der EU; Informationsquellen über Energiefragenund damit zusammenhängende Technologien; Einschätzung des Einflusses vonenergiebezogener Forschung und Entwicklung auf die soziale undwirtschaftliche Entwicklung, die Luft-, Boden- und Wasserqualität, denTreibhauseffekt, die Beschäftigungsrate und die Energiepreise;wichtigste Aufgaben der Landesregierung (niedrige Verbraucherpreise,dauerhafte Energieversorgung, Umweltschutz, Gesundheitswesen,öffentliche Sicherheit); Einschätzung der Wichtigkeit, Preisgünstigkeitund Umweltverträglichkeit ausgewählter Energieressourcen in 50 Jahren;wichtigste energiebezogene Aufgaben der EU-Regierung (Arbeitssicherheitund betriebliche Gesundheit, Sicherheit des Transports von Chemikalien,Öl und Gas, Sicherheit von Chemiefabriken, Kernkraftwerken undÖlraffinerien, Entsorgung radioaktiven Mülls, Nahrungsmittelsicherheit,Verkehrsunfälle); vermutete Energiebedarfsdeckung in 20 Jahren durcheine einzige oder mehrere verschiedene Energieressourcen; Gründe füreine Finanzierung nuklearer Forschung durch die EU; präferierte Bereichefür vermehrte energiebezogene Forschung in der EU; vermutete Hauptgründefür das fehlende Interesse junger Studenten an energiebezogenenStudieninhalten; perzipierte Einflussmöglichkeiten von Bürgern,Industrie, EU-Institutionen, Landesregierungen, lokalen und derregionalen Behörden auf den Energieverbrauch der EU; geplantes undtatsächliches Energiesparverhalten des Befragten (Skala); präferiertestaatliche Maßnahmen zur Energieeinsparung; Bereitschaft zur Zahlungeines erhöhten Energiepreises für regenerative Energie; Berücksichtigungdes Energieverbrauchs beim Kauf von Haushaltsprodukten und beim Neukaufeines Kraftfahrzeugs; Befürwortung langfristiger Forschungen im Bereichalternativer umweltverträglicher Energie; Wunsch nach Information überzukünftige Energieressourcen, über regionale Transportmittel und überzukünftige Energiekonzepte der Unternehmen und der Regierung.
+3. Diskriminierung: perzipierte Belästigung oder Diskriminierunganderer am Arbeitsplatz, während der Schulzeit oder des Studiums, alsKunde oder bei der Wohnungssuche sowie vermutete Diskriminierungsgründe(Herkunft, Religion, Behinderung, psychische Störung, Alter, sexuelleOrientierung, Geschlecht, Nationalität); erfahrene eigene Belästigungoder Diskriminierung am Arbeitsplatz und bezüglich eigener Beförderungwährend der vergangenen zwei Jahre, bei einer Arbeitsplatzsuche, währendder Schulzeit und an der Universität, als Kunde oder bei derWohnungssuche sowie vermutete Diskriminierungsgründe; Einschätzung derChancengleichheit bei der Vergabe von Arbeitsstellen, Ausbildungsstellenund Beförderungen von Personen mit anderer Herkunft, aus einerreligiösen Minderheit, mit einer Behinderung oder psychischen Störung,von Personen im Alter unter 25 oder über 50 oder von Personenhomosexueller Orientierung; Einstellung zur Diskriminierung bei derVergabe von Arbeitsstellen und Ausbildungsstellen, bei Beförderungen,bei der Wohnungssuche und zur Diskriminierung von Kunden sowieEinschätzung der öffentlichen Meinung dazu; Bereitschaft zu einermündlichen oder schriftlichen Beschwerde oder zum Führen eines Prozessesvor Gericht aufgrund einer erfahrenen eigenen Diskriminierung; Kenntniseigener Rechte bei erfahrener Diskriminierung oder Belästigung.
+Demographie: Nationalität; Selbsteinschätzung auf einemLinks-Rechts-Kontinuum; Familienstand; Alter bei Ende der Ausbildung;Geschlecht; Alter; Beruf; Stellung im Haushalt; Beruf desHaushaltungsvorstandes; Urbanisierungsgrad; monatlichesHaushaltseinkommen.
+Zusätzlich verkodet wurden: Interviewdatum und Interviewzeit;Interviewdauer; Anzahl der beim Interview anwesenden Personen;Kooperationsbereitschaft des Befragten; Ortsgröße; Region; Interviewernummer; Telefonbesitz.
+In Luxemburg, Belgien und Finnland: Interviewsprache.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The major topics are:1. Agriculture (attitude to agriculture andjudgement on European agricultural policy),2. Energy,3. Discrimination.Topics:1. Agriculture:influence of EU agricultural policy on food quality, the price of food,on labeling of food products regarding country of origin andmanner of production as well as on animal protection;perceived preference for farmers or consumers through agricultural policy;preferred objectives of consumer-oriented or producer-orientedEU agricultural policy (scale) andjudgement on the realization of these objectives through EU agricultural policy;attitude to subsidies for agricultural business(change of EU agricultural policy:away from subsidizing agricultural products tofinancial support of development of rural areas and farmers).2. Energy:knowledge about the main energy consumer (household appliances,lighting at home, heating, air-conditioner, means of transport or factories);knowledge about increase or decrease in energy consumption domestically and in the EU;perceived opportunity to conserve energy at home and in the office;dependence of the transportation system on energy sources such as oil,gasoline and diesel;knowledge about the most important sources of energy in one´s country;knowledge about the proportions of energy in the production of electricity in the EU;knowledge about personal electricity use at home;knowledge about the effects of selected energy sources andconsumers on the environment and global warming (scale);attitude to the growing dependence of the EU on energy providers outside of the EU;attitude to producing energy by means of nuclear fusion as alternative to nuclear fission (scale);interest in information about energy conservation opportunities,renewable energy sources, alternative fuel for motor vehicles, fuel cells,safety of nuclear facilities and EU activities regarding research and development;knowledge about energy-related research and development of the EU;sources of information about energy questions and related technologies;assessment of the influence of energy-related research and developmenton social and economic development, air, soil and water quality,the greenhouse effect, the employment rate and energy prices;most important tasks of the state government (low consumer prices,lasting provision of energy, environmental protection, public health system,public safety);assessment of the importance, favorable price and environment compatibilityof selected energy resources in 50 years;most important energy-related tasks of the EU government(job security and company health, safety of the transport of chemicals,oil and gas, safety of chemical factories, nuclear power plants andoil refineries, disposal of radioactive waste, food safety, traffic accidents);assumed provision of needed energy in 20 years througha single or several different energy resources;reasons for financing nuclear research by the EU;preferred areas for increased energy-related research in the EU;assumed major reasons for the lack of interest of young students in energy-related studies;perceived possibilities for citizens, industry, EU institutions, governments,local and regional authorities to influence energy consumption of the EU;planned and actual energy conservation practices of respondent (scale);preferred governmental measures to conserve energy;willingness to pay increased energy prices for renewable energy;consideration of energy consumption in purchase of household productsand purchase of a new motor vehicle;approval of long-term research in the area of alternative,environmentally compatible energy;desire for information about future energy resources,about regional means of transport and aboutfuture energy concepts of businesses and the government.3. Discrimination:perceived harassment or discrimination of others at work,during time in school or college, as customer or in house-hunting as well asassumed reasons for discrimination(origins, religion, disability, psychological disturbance, age,sexual orientation, sex, nationality);personally experienced harassment or discrimination at work andregarding personal promotion during the past two years, in the search for work,during time in school and at university,as customer or in house-hunting as well asassumed reasons for discrimination;assessment of equal opportunities in the allocation of jobs,training positions and promotions of persons with other origins,from a religious minority, with a disability or psychological disturbance,of persons under 25 or over 50 or of persons of homosexual orientation;attitude to discrimination in the allocation of jobs andtraining positions, in promotions, in house-hunting andon discrimination against customers as well asassessment of public opinion on this;willingness to file an oral or written complaint orgo to court because of experienced personal discrimination;knowledge of personal rights with discrimination or harassment experienced.Demography:nationality;self-assessment on a left-right continuum;marital status;age at end of education;sex;age;occupation;position in household;occupation of head of household;degree of urbanization;monthly household income.Also encoded was:date of interview and interview time;length of interview;number of persons present during the interview;willingness of respondent to cooperate;city size;region;interviewer number;possession of a telephone.In Luxembourg, Belgium and Finland:interview language.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-GBN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-NIR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FI</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 15 Jahre und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons 15 years old and older.
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage stratified random sample </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-02-25</date>
+				</startDate>
+				<endDate>
+					<date>2002-03-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Belgium</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Belgien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-02-23</date>
+				</startDate>
+				<endDate>
+					<date>2002-03-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Denmark</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Dänemark</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-02-23</date>
+				</startDate>
+				<endDate>
+					<date>2002-03-26</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-02-25</date>
+				</startDate>
+				<endDate>
+					<date>2002-03-29</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Greece</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Griechenland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-02-28</date>
+				</startDate>
+				<endDate>
+					<date>2002-03-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Spain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Spanien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-03-02</date>
+				</startDate>
+				<endDate>
+					<date>2002-03-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-03-03</date>
+				</startDate>
+				<endDate>
+					<date>2002-03-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland (Republic)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland (Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-02-27</date>
+				</startDate>
+				<endDate>
+					<date>2002-03-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-02-23</date>
+				</startDate>
+				<endDate>
+					<date>2002-04-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Luxembourg</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Luxemburg</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-02-25</date>
+				</startDate>
+				<endDate>
+					<date>2002-03-26</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Netherlands</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-02-24</date>
+				</startDate>
+				<endDate>
+					<date>2002-03-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-02-26</date>
+				</startDate>
+				<endDate>
+					<date>2002-03-21</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-03-02</date>
+				</startDate>
+				<endDate>
+					<date>2002-03-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Northern Ireland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Nordirland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-02-26</date>
+				</startDate>
+				<endDate>
+					<date>2002-03-26</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Austria</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Österreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-02-28</date>
+				</startDate>
+				<endDate>
+					<date>2002-04-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Sweden</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweden</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-02-23</date>
+				</startDate>
+				<endDate>
+					<date>2002-03-27</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Finland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Finnland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>European Commission, Brussels
+DG Press and Communication
+Opinion Polls 
+</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA BELGIUM, Bruessel</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GfK Danmark, Frederiksberg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA DEUTSCHLAND, Moelln</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MARKET ANALYSIS, Athen</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA ESPANA, Madrid</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>CSA-TMO, Paris</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>LANSDOWNE Market Research, Dublin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA Demoskopea, Rom</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ILReS, Luxemburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INTOMART, Hilversum, Niederlande</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SPECTRA, Linz, OEsterreich</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>METRIS, Lissabon</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MDC MARKETING RESEARCH Ltd, Espoo, Finnland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GfK SVERIGE, Lund, Schweden</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MARTIN HAMBLIN LTD, London, Grossbritannien</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ULSTER Marketing Surveys, Nordirland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>European Opinion Research Group (EORG),Bruessel (internationale Kooperation, Consortium made out of INRA and GfK Worldwide)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>599</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Je Land wurden ca. 1000 Interviews durchgeführt, außer in Nordirland
+(ca. 300) und Luxemburg (ca. 600). In der Bundesrepublik Deutschland
+gibt es getrennte Samples für Ost und West mit je ca. 1000 Befragten.
+Unter der ZA-Studien-Nr. 3521 ist ein kumulierter Datensatz der
+Eurobarometer (1970-2002) mit ausgewählten Trendfragen archiviert.
+
+
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Per country approx. 1000 interviews were conducted
+except in Northern Ireland (approx. 300) and Luxembourg (approx. 600).
+In the Federal Republic of Germany
+there are separate samples for East and West with approx. 1000 respondents each.
+
+
+</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.3638</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>The European Opinion Research Group (EORG): 
+Eurobarometer 57.0: Europeans and the Common Agricultural Policy 2001 - 2002. Report for: The Agriculture Directorate-General. 
+Bruxelles: June 2002.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Commission: Eurobarometer. Energy: Issues, Options and Technologies. Science and Society. A report produced by The European Opinion Research Group (EORG) for the Directorate-General for Research. December 2002.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Alan Marsh, Melahat Sahin-Dikmen: Discrimination in Europe (Report B). London (Policy Studies Institute). November 2002. </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Alan Marsh, Melahat Sahin-Dikmen (for the the European Commission, Directorate General Employment and Social Affaires): Eurobarometer 57.0, Discrimination in Europe (Executive Summary). May 2003. [fr] [de] </freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

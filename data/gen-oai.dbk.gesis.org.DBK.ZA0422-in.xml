@@ -1,0 +1,260 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Anti-democratic Thought and Potential for Right-wing Radicalism
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Antidemokratisches Denken und Rechtsradikalismus-Potential
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA0422</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Antidemokratisches Denken und Rechtsradikalismus-Potential
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Anti-democratic Thought and Potential for Right-wing Radicalism
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Thomas A.</firstName>
+				<middleName/>
+				<lastName>Herz</lastName>
+				<affiliation>
+					<affiliationName>Zentralarchiv für empirische Sozialforschung, Universität zu Köln</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Erwin K.</firstName>
+				<middleName/>
+				<lastName>Scheuch</lastName>
+				<affiliation>
+					<affiliationName>Institut für vergleichende Sozialforschung, Universität zu Köln
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA0422?doi=10.4232/1.0422</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.0422</doiProposal>
+	<publicationDate>
+		<year>1969</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA0422</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT13</identifier>
+					<!-- Politische Ideologie -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Politische Ideologie</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Political ideology</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellungen zu ausgewählten politischen Fragensowie die persönlichen Wertorientierungen und die Sozialstrukturvon Sympathisanten der Nationaldemokratischen Partei Deutschlands
+Themen:  Wichtigste Probleme in der BRD; Nationalstolz; Interesse anPolitik und politisches Wissen; Sympathie-Skalometer für SPD, CDU/CSU,FDP, NPD, DKP; Parteipräferenz; Wahlverhalten seit 1949; Abneigung zubestimmten Parteien; Einstellung zur Großen Koalition; Beurteilung derIssue-Kompetenz der Parteien bezüglich Wirtschafts-, Außen-, Ost-,Schul- und Sozialpolitik; Beurteilung der Parteien bezüglich ihresVerhaltens gegenüber den Gewerkschaften, der Presse- undMeinungsfreiheit, der Verjährung von NS-Verbrechen und einer autoritärenRegierungspolitik; wahrgenommener Einfluß von Interessengruppen wie auchder Kirchen auf die Politik; Einstellung zur Anerkennung der DDR, zuDemonstrationen, zur Todesstrafe, zu zurückkehrenden Emigranten desDritten Reiches, zum Dritten Reich, zum Kaiserreich und zur WeimarerRepublik; Beurteilung des Nationalsozialismus und der Ziele der NPD;Image der NPD; Quellen politischen Wissens; gelesene Tageszeitungen;Charaktereigenschaften von Menschen, die erfolgreich sind und solchen,die Freunde des Befragten werden könnten; Nennungen der Anzahl der imDritten Reich getöteten Juden; Zufriedenheit mit dem Wohnort;Beurteilung von Erziehungszielen; Wechsel von Beruf und Arbeitsplatz;exakte Ermittlung des Berufs des Befragten; soziale Herkunft;Religiosität; Beurteilung der wirtschaftlichen Lage.
+Skalen:  Anomie, Dogmatismus, Demokratie, Totalitarismus, autoritärerTraditionalismus, Nationalismus, rechtsextreme Ideologie, Antisemitismusund Ethnozentrismus.
+Demographie: Alter; Geschlecht; Familienstand; Kinderzahl; Konfession;Schulbildung; berufliche Position; Berufstätigkeit;Haushaltungsvorstand; Selbsteinschätzung der Schichtzugehörigkeit;Flüchtlingsstatus.
+Interviewerrating: Kooperationsbereitschaft desBefragten; Interviewdauer; Interviewdatum; Wochentag des Interviews;Anwesenheit anderer Personen; Anzahl der Kontaktversuche; Ausfallgründe.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Attitudes to selected political questions as well as personal valueorientations and the social structure of sympathisers with the NationalDemocratic Party of Germany {NPD}. 
+Topics: most important problems in the FRG; national pride; interestin politics and political knowledge; sympathy scale for SPD, CDU/CSU,FDP, NPD, DKP; party preference; election behavior since 1949; aversionto certain parties; attitude to the grand coalition; judgement onissue-competence of the parties concerning economic policy, foreignpolicy, policies to the East, educational and social policy; judgementon the parties concerning their behavior toward trade unions, freedomof the press and freedom of speech, the statute of limitations for NSwar crimes and authoritarian government policy; perceived influence ofspecial interest groups as well as the churches on politics; attitudeto recognition of the GDR, to demonstrations, to the death penalty, tothe return of emigrants from the Third Reich, to the Third Reich, tothe Empire and the Weimar Republic; judgement on National Socialism andthe goals of the NPD; image of the NPD; sources of political knowledge;daily newspapers read; character traits of successful people and thosewho might become friends of the respondent; statement of the number ofJews murdered in the Third Reich; satisfaction with place of residence;judgement on education goals; changes of profession and job; exactdetermination of respondent´s profession; social origins;religiousness; judgement on the economic situation. 
+Scales: Anomia, dogmatism, democracy, totalitarialism, authoritariantraditionalism, nationalism, right-wing extremist ideology,anti-semitism and ethnocentrism. 
+Demography: age; sex; marital status; number of children; religiousdenomination; school education; professional position; employment; headof household; self-assessment of social class; refugee status. 
+Interviewer rating: willingness of respondent to cooperate; length ofinterview; date of interview; day of interview; presence of otherpeople; number of contact attempts; reasons for non-completion. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>FRG without West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD ohne West-Berlin
+</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Befragte im Alter von 21 Jahren und älter aus 6 früheren Untersuchungen des DIVO Instituts</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Age: 21 and older.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl; Überrepräsentation von NPD-Anhängern in der zweiten Befragung. In dieser Befragung wurde auch versucht 263 Ausfälle der ersten Befragungen zu interviewen
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage stratified random sample of respondents from 6 earlier
+projects of the DIVO institute; over-representation of NPD-supporters
+in the 2nd survey.
+In this sample an attempt was made to interview 263 dropouts
+from the first survey.
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1969-08</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1969-10</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>DIVO, Frankfurt
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral interview with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>177</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie ist die zweite Welle einer Panel-Erhebung und wurde 6 Wochen
+vor der Bundestagswahl durchgeführt.  Der Aufbau der Untersuchung weicht
+von konventionellen Panel-Erhebungen ab.  Die Erstbefragung wurde nicht
+in einem einzigen Zeitraum durchgeführt.  Vielmehr wurden aus 6
+verschiedenen Untersuchungen des DIVO Instituts, die zwischen Januar
+1968 und März 1969 durchgeführt wurden, jeweils rund 450 Befragte
+ausgewählt.  Diese Auswahl geschah unter dem Gesichtspunkt der
+Maximierung von NPD-Anhängern.  Die Daten der ersten Befragung sind in
+den ZA-Studien-Nrn. 0281, 0283, 0310 bis 0313 enthalten.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>This study is the second wave of a panel survey and was carried out 6
+weeks before the Federal Parliament election. The structure of this
+study deviates from conventional panel surveys. The initial survey
+was not carried out during a single period. More importantly, 450
+respondents were chosen from 6 different surveys of the DIVO
+Institute carried out between January 1968 and March 1969. This
+selection was made with the intent of maximizing NPD supporters. The
+data from the first survey are contained
+in ZA Study Nos. 0281, 0283, 0310 to 0313.
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Herz, Thomas A.: 
+Soziale Bedingungen für Rechtsextremismus in der Bundesrepublik Deutschland und in den Vereinigten Staaten. 
+Meisenheim am Glan: Anton Hain 1975.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

@@ -1,0 +1,358 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Research Training Group Group&amp;#8208;Focused Enmity'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Graduiertenkolleg Gruppenbezogene Menschenfeindlichkeit'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5165</identifier>
+		<currentVersion>1.1.1</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Graduiertenkolleg Gruppenbezogene Menschenfeindlichkeit</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Research Training Group Group&amp;#8208;Focused Enmity</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Carvacho, Hector; Feldmann, Petra; Groß, Eva; Gundlach, Julia; Henseler, Ann&amp;#8208;Katrin; Knappertsbusch, Felix; Liersch, Benjamin; Lücke, Bastian; Müller, Michael; Süssenbach, Philipp; Wagner, Ulrich; Zick, Andreas</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5165?doi=10.4232/1.5165</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.5165</doiProposal>
+	<publicationDate>
+		<date>2017-04-01</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5165</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Religion und Werte</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Minderheiten</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Religion and values</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Minorities</term>
+					<term>Economic conditions and indicators</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellungen und Vorurteile gegenüber Menschen unterschiedlicher religiöser, sozialer und ethnischer Herkunft. Religion und Religiosität. Geschlechterrollen, Einstellung zu muslimischen Mitbürgern. Persönliche Ziele. Persönliche Identifikation.
+Themen: Identifikation als Deutsche/r; Gefühl der Zugehörigkeit zu einer Religionsgemeinschaft; Selbsteinstufung auf einer Oben-Unten-Skala; Links-Rechts-Selbsteinstufung; 
+Skalen: Rechter Autoritarismus (Right-Wing Authoritarianism); Soziale Dominanz; Responsibilisierung; Unternehmerisches Selbst; Protestantische Arbeitsethik; Islamophobie; Homophobie; Xenophobie; Traditioneller Antisemitismus; Antisemitische Israelkritik; Etabliertenvorrechte; Rassismus; Sexismus; Abwertung von Langzeitarbeitslosen; Diskriminierungsintention gegen Langzeitarbeitslose Antiamerikanismus; Allgemeine Wettbewerbswahrnehmung in der Gesellschaft; Wahrgenommene ethnische Konkurrenz (allgemein/realistisch); Wahrgenommene ethnische Konkurrenz (allgemein/symbolisch); Wahrgenommene ethnische Konkurrenz (persönlich); Wahrgenommene ethnische Bedrohung (realistisch); Wahrgenommene ethnische Bedrohung (symbolisch); Diskriminierungsintention gegen Migranten; Intergruppenkontakt; Religiöse Identifikation; Religiöse Zentralität; Religiöser Pluralismus; Religiöser Fundamentalismus; Unsicherheit; Sekundärer Antisemitismus; Norm zur freien Meinungsäußerung; Norm gegen Antisemitismus; Antisemitische Umwegkommunikation; Vergewaltigungsmythenakzeptanz; Respekt in Bezug auf Muslime; Sympathie für Muslime; Private Kontakte zu Muslimen; Arbeitsbedingte Kontakte zu Muslimen; Vorurteile gegenüber muslimischen Frauen; Zielorientierung; Geschlechtsidentität. 
+Demographie: Deutsche Staatsangehörigkeit; Konfession; deutsche Staatsangehörigkeit der Eltern und Großeltern (Migrationshintergrund); Selbstdefinition als Migrant vs. Deutscher; Geschlecht; Alter (klassiert); höchster allgemeinbildender Schulabschluss; beruflicher Ausbildungsabschluss; Erwerbsstatus bzw. sonstige Situation; Haushaltsgröße; Anzahl Personen, die zum Haushaltseinkommen beitragen; Haushaltsnettoeinkommen; persönliches Nettoeinkommen; Wiederbefragungsbereitschaft. 
+Zusätzlich verkodet wurde: ID; Angabe, zu welchem Split der Befragte gehört; Interviewdauer in Minuten; Kontaktdaten des Befragten; Bundesland; Ortsgröße.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Attitudes and prejudices towards people of different religious, social and ethnic origins. Religion and religiousness. Gender roles. Attitudes towards Muslim fellow citizens. Personal goals. Personal identification.
+Topics: Identification as German; feeling of belonging to a religious community; self-classification on an upper-bottom scale; left-right self-assessment;
+scales: Right-Wing Authoritarianism; Social Dominance Orientation; Responsibilisation; Entrepreneurial self; Protestant work ethic; Islamophobia; Homophobia; Xenophobia; Traditional anti-Semitism; Anti-Semitic criticism of Israel; Established privileges; Racism; Sexism; Devaluation of the long-term unemployed; Intention to discriminate against the long-term unemployed; Anti-Americanism; General perception of competition in society; Perceived ethnic competition (general/realistic); Perceived ethnic competition (general/symbolic); Perceived ethnic competition (personal); Perceived ethnic threat (realistic); Perceived ethnic threat (symbolic); Intention to discriminate against migrants; Intergroup contact; Religious identification; Religious centrality; Religious pluralism; Religious fundamentalism; Insecurity; Secondary anti-Semitism; Standard on freedom of expression; Anti-Semitism standard; Anti-Semitic detour communication; Rape myth acceptance; Respect (concerning Muslims); Liking (concerning Muslims); Private contact (concerning Muslims); Work-related contact (concerning Muslims); Prejudices against Muslim women; Target orientation; Gender identity.
+Demography: German nationality; denomination; German nationality of parents and grandparents (migration background); self-definition as migrant vs. German; sex; age (classified); highest general school leaving certificate; vocational qualification; employment status or other situation; household size; number of persons contributing to household income; household net income; personal net income; willingness to participate again.
+Additionally coded was: ID; details to which split the respondent belongs; interview duration in minutes; contact details of the respondent; federal state; city size.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen im Alter von 18 Jahren und älter in Privathaushalten mit Telefonanschluss</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German speaking residents of the Federal Republic of Germany aged 18 and over living in private households with telephone connection</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Einfache Zufallsauswahl
+
+Einfache Zufallsauswahl nach Gabler-Häder-Verfahren.
+Die Auswahl der Zielperson erfolgte nach der ´last birthday rule´ (Geburtstagsverfahren)</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample: Simple Random Sample
+
+Simple random sample according to the Gabler-Häder method.
+In each household, the respondent was drawn at random following the ´last birthday rule´</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2011-08-11</date>
+				</startDate>
+				<endDate>
+					<date>2011-09-05</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Hector</firstName>
+				<middleName/>
+				<lastName>Carvacho</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Petra</firstName>
+				<middleName/>
+				<lastName>Feldmann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Eva</firstName>
+				<middleName/>
+				<lastName>Groß</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Julia</firstName>
+				<middleName/>
+				<lastName>Gundlach</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Ann&amp;#8208;Katrin</firstName>
+				<middleName/>
+				<lastName>Henseler</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Felix</firstName>
+				<middleName/>
+				<lastName>Knappertsbusch</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Philipps-Universität Marburg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Benjamin</firstName>
+				<middleName/>
+				<lastName>Liersch</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Bastian</firstName>
+				<middleName/>
+				<lastName>Lücke</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Philipps-Universität Marburg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Michael</firstName>
+				<middleName/>
+				<lastName>Müller</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Philipp</firstName>
+				<middleName/>
+				<lastName>Süssenbach</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Ulrich</firstName>
+				<middleName/>
+				<lastName>Wagner</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Philipps-Universität Marburg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Zick</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Sozialwissenschaftliches Umfragezentrum (SUZ), Duisburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview: CATI (Computer Assisted Telephone Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>203</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Grau, A.; Heitmeyer, W. (Hrsg.) (2013): Menschenfeindlichkeit in Städten und Gemeinden. Beltz Juventa, Weinheim und Basel.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Derr, Maria; Hohlweg, Jelena; Salentin, Kurt (2014): Datenhandbuch Graduiertenkolleg Gruppenbezogene Menschenfeindlichkeit. IKG Technical Report Nr. 2, Version 2. Bielefeld.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Carvacho, H. (2013): Understanding social hierarchies: the role of ideological configurations for Group-Focused Enmity. Doctoral Thesis, Bielefeld University.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Carvacho, H., Zick, A., Haye, A., Gonzalez, R., Manzi, J., Kocik, C., &amp; Bertl, M. (2013). On the relation between social class and prejudice: The roles of education. income and ideological attitudes. European Journal of Social Psychology, 43(4), 272-285.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

@@ -1,0 +1,200 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Foreigners in Germany 2000 - 2nd Wave'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Ausländer in Deutschland 2000 - 2. Welle
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3650</identifier>
+		<currentVersion>2.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Ausländer in Deutschland 2000 - 2. Welle
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Foreigners in Germany 2000 - 2nd Wave</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>MARPLAN, Offenbach</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3650?doi=10.4232/1.11085</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11085</doiProposal>
+	<publicationDate>
+		<date>2012-01-11</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3650</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Konsum und Konsumverhalten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Consumption and consumer behaviour</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die soziale und wirtschaftliche Situation von Ausländern in derBundesrepublik.
+Themen: Bisherige Aufenthaltsdauer in Deutschland; geschätzterZeitraum, der noch in Deutschland verbracht wird; Heimataufenthalte seitdem Umzug nach Deutschland; Heimataufenthalt im Vorjahr; größte Sorgenund Probleme in Deutschland; Interesse an deutscher Staatsangehörigkeit;perzipierte Einstellung der Deutschen zu Gastarbeitern am Arbeitsplatz;Zufriedenheit mit dem derzeitigen Arbeitsplatz; sympathischste Partei inDeutschland; Parteipräferenz (Sonntagsfrage); durchschnittlichemonatliche Ausgaben für Lebensmittel und Dinge des täglichen Bedarfs;präferierte Kaufstätten für Lebensmittel und Dinge des täglichen Bedarfssowie für Gebrauchsgüter.
+Demographie: Nationalität; Geburtsort in Deutschland oder im Ausland;Haushaltsvorstand; Familienstand; Haushaltsgröße; Anzahl derberufstätigen Haushaltsmitglieder; Anzahl der Kinder im Haushalt; Alterder Kinder; weitere Familienmitglieder in Deutschland außerhalb deseigenen Haushalts; Familienmitglieder im Heimatland; Art derErwerbstätigkeit; Berufsbezeichnung; Einkommen; Alter; Geschlecht;Wohnstatus; Mieterhöhung im Vorjahr; Mieterhöhung für Grundmiete oderNebenkosten; Zufriedenheit mit Wohnung bzw. Unterkunft; Miethöhe undHeizungs- und Warmwasserkosten; Anzahl der absolvierten Schuljahre;Schulabschluss in Deutschland oder Heimat; Art des Schulabschlusses;Selbsteinschätzung der Deutschkenntnisse (Lesen); abgeschlosseneBerufsausbildung sowie Dauer der Berufsausbildung; PKW-Besitz;PKW-Marke; Neu- oder Gebrauchtwagen; jährliche Kilometerleistung;Haushaltsnettoeinkommen.
+Interviewerrating: Anwesenheit Dritter beim Interview sowieBeeinflussung durch Dritte; Bewertung der Verständigung;Kooperationsbereitschaft des Befragten; Kenntnisse der deutschen und dereigenen Sprache.
+Zusätzlich verkodet wurde: Bundesland; Ortsgröße.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>FRG (old states, incl. the former west Berlin)</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD (alte Bundesländer, einschl. den ehemaligen Berlin-West) </freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Ausländische Wohnbevölkerung ab 15 Jahren (Türken, Italiener,
+Jugoslawen, Griechen und Spanier)
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Quotenauswahl (disproportional nach Nationalitäten) nach Geschlecht,
+Alter, Erwerbsstatus und Haushaltsgröße, je etwa 400 Personen pro
+Nationalität</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2000-08</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2000-09</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>111</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie ist eine Mehrthemenumfrage und Teil einer Befragungsserie,
+die 1970 gestartet wurde.
+Die 1. Welle von "Ausländer in Deutschland 2000" ist unter der
+ZA-Studien-Nr. 3649 archiviert.
+Die Vorgängerstudie "Ausländer in Deutschland 1999" ist unter der
+ZA-Studien-Nr. 3366 archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.3650</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+</resource>

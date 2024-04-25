@@ -1,0 +1,294 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Cohesion in Diversity. Diversity Barometer 2019 of the Robert Bosch Stiftung'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Zusammenhalt in Vielfalt. Das Vielfaltsbarometer 2019 der Robert Bosch Stiftung'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA6854</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Zusammenhalt in Vielfalt. Das Vielfaltsbarometer 2019 der Robert Bosch Stiftung</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Cohesion in Diversity. Diversity Barometer 2019 of the Robert Bosch Stiftung</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Regina</firstName>
+				<middleName/>
+				<lastName>Arant</lastName>
+				<affiliation>
+					<affiliationName>Jacobs University Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Georgi</firstName>
+				<middleName/>
+				<lastName>Dragolov</lastName>
+				<affiliation>
+					<affiliationName>Jacobs University Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Björn</firstName>
+				<middleName/>
+				<lastName>Gernig</lastName>
+				<affiliation>
+					<affiliationName>Jacobs University Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Klaus</firstName>
+				<middleName/>
+				<lastName>Boehnke</lastName>
+				<affiliation>
+					<affiliationName>Jacobs University Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6854?doi=10.4232/1.13759</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13759</doiProposal>
+	<publicationDate>
+		<date>2021-06-15</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6854</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT39</identifier>
+					<!-- Einkommen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+					<identifier>KAT54</identifier>
+					<!-- Person, Persönlichkeit, Rolle -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Allgemeine Gesundheit und Wohlbefinden</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>PSYCHOLOGIE</term>
+					<term>Eliten und Führungspersönlichkeiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Minderheiten</term>
+					<term>Religion und Werte</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Sozialer Wandel</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Ältere Menschen</term>
+					<term>Familie und Ehe</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Economic conditions and indicators</term>
+					<term>General health and well-being</term>
+					<term>Political behaviour and attitudes</term>
+					<term>PSYCHOLOGY</term>
+					<term>Elites and leadership</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Minorities</term>
+					<term>Religion and values</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Social change</term>
+					<term>Social conditions and indicators</term>
+					<term>Cultural and national identity</term>
+					<term>Elderly</term>
+					<term>Family life and marriage</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Studie erforschte die Einstellungen zu zunehmender Vielfalt in der deutschen Gesellschaft und den individuellen Umgang damit. Im Fokus stand die Bedeutung der Akzeptanz von Vielfalt für den gesellschaftlichen Zusammenhalt im Land. Akzeptanz von Vielfalt wurde als mehrdimensionales Konstrukt konzipiert und hinsichtlich Lebensalter, Behinderung, Geschlecht, sexueller Orientierung, sozio-ökonomischer Schwäche, ethnischer Herkunft und Religion erfasst. Zudem wurden die personalen und strukturellen Bedingungen für eine hohe Akzeptanz von Vielfalt sowie Möglichkeiten einer fördernden politischen wie zivilgesellschaftlichen Einflussnahme darauf untersucht.
+Die vorliegenden Querschnittdaten wurden zwischen Anfang Mai und Mitte Juli 2018 im Rahmen einer standardisierten CATI-Umfrage erhoben. Hierzu wurde ein von ADM bereitgestellter Dual-Frame-Telefonauswahlrahmen aus Festnetz- und Mobilfunknummern im Verhältnis 55:45 herangezogen. Um eine aussagekräftige Darstellung der bevölkerungsärmeren Bundesländer zu ermöglichen, wurde eine disproportionale Länder-Schichtung vorgenommen, die sich durch Gewichtung ausgleichen lässt. Die Auswahl der Zielpersonen bei Festnetzanschlüssen erfolgte nach dem Last-Birthday-Verfahren, bei Mobilfunkanschlüssen wurde hingegen der Hauptnutzer des Geräts befragt. Die resultierende Stichprobe umfasst 3.025 zufällig erreichte deutschsprachige Personen und ist für die Wohnbevölkerung der Bundesrepublik Deutschland im Alter ab 16 Jahren repräsentativ. Die Interviews dauerten im Durchschnitt 34 Minuten. Die Datenerhebung erfolgte durch infas – Institut für angewandte Sozialwissenschaft GmbH, Bonn.
+Die Studie liefert Daten über Einstellungen zu Vielfalt und deren Dimensionen, zu Eliten und Menschen mit unterschiedlichen Lebensstilen, zu Politik und Globalisierung; sowie zur Akzeptanz von Vielfalt im eigenen Umfeld (Nachbarschaft und Familie). Ebenfalls erfasst wurden die Wahrnehmung des gesellschaftlichen Zusammenhalts; subjektives Wohlbefinden; Persönlichkeitsmerkmale; das Erleben von Respekt und Diskriminierung; sowie sozio-demografische und -ökonomische Merkmale der Zielpersonen.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Bekanntheit des Begriffs Vielfalt in Bezug auf die Gesellschaft; Lebenszufriedenheit; Beurteilung der wirtschaftlichen Lage in Deutschland und der eigenen wirtschaftlichen Lage; Bedrohung vs. Bereicherung des Lebens durch zunehmende Vielfalt; Zustimmung zu verschiedenen Aussagen (die meisten Menschen, mit denen ich im Alltag zu tun habe, begegnen mir mit Respekt, mit Menschen, die deutlich älter oder deutlich jünger sind als ich, komme ich nicht so gut klar, in einem Mehrgenerationenhaushalt möchte ich auf keinen Fall leben, wer alt ist, ist alt und soll nicht immer so tun als wäre er noch jung); Aussagen zum Mitgefühl (z.B. ich erlebe mich mitfühlend und zugewandt gegenüber Leuten, die weniger Glück haben als ich, etc.); Meinung zum Zusammenleben mit Menschen unterschiedlicher kultureller Herkunft (würde mit Ausländern lieber nichts zu tun haben, Menschen, die nach Deutschland kommen, sollten darin unterstützt werden, ihre kulturellen Wurzeln zu bewahren, ich lerne immer etwas Neues, wenn ich mit Menschen aus anderen Ländern zusammen bin); Zustimmung zu verschiedenen Aussagen über Religion (es sollte auch gesetzliche Feiertage zu den Festen anderer Religionen geben, der Islam passt durchaus auch in die westliche Welt, Religion ist Privatsache und religiöse Bekundungen und Symbole wie Kruzifix, Kopftuch oder Kippah haben in der Öffentlichkeit nichts verloren); BIG 5; Meinung zu Geschlechterrollen (ich bin gegen eine Frauenquote, Frauen machen zu viel Aufhebens um das Thema sexuelle Belästigung, ein Mann muss sich durchsetzen, sonst ist er kein richtiger Mann, viele Frauen fühlen sich in der Opferrolle sehr wohl); Einstellung zu sexueller Orientierung (transsexuelle Menschen sollten unter sich bleiben, Homosexuelle und eigene Kinder - das passt einfach nicht zusammen, das Geschlecht zu ändern ist wider die Natur, es ist ekelhaft, wenn Homosexuelle sich in der Öffentlichkeit küssen); Häufigkeit des Gefühls von Diskriminierung; Meinung zu Menschen mit Behinderungen (viele Forderungen von Behinderten finde ich überzogen, Inklusion benachteiligt normal entwickelte Kinder, mich stört der Anblick von behinderten Menschen); Zustimmung zur Aussage: die Politik setzt sich mehr für die Interessen von Eliten als für Bedürftige ein; Meinung hinsichtlich des Verhaltens von Eliten (Spitzenmanager, Intellektuelle und Superreiche); Meinung zu Armut in Deutschland (gutes soziales Netz in Deutschland, da braucht niemand obdachlos zu sein, die meisten Hartz-IV-Empfänger sind arbeitsscheu, zu viel Rücksicht in der Gesellschaft auf Versager); Meinung zu Menschen mit unterschiedlichen Lebensstilen (bereichern meine Nachbarschaft, Menschen, die immer im Anzug oder im Kostüm rumlaufen, sind mir suspekt, Veganer sind absolute Spinner); Globalisierung persönlich eher als Bedrohung oder als Chance; Gefühle bezüglich zunehmender Vielfalt (ängstlich, gelassen, behaglich, entspannt, angestrengt, unruhig, besorgt, zufrieden); Akzeptanz von Vielfalt im eigenen Umfeld (Nachbarschaft und Familie) (Menschen, die sehr viel älter oder jünger sind, Ausländer, Hausmänner, Homosexuelle, religiöse Moslems, Behindert, sehr Reiche, Sozialhilfeempfänger, Menschen mit einem ganz anderen Lebensstil); Häufigkeit der Treffen mit Freunden, Bekannten oder privat mit Arbeitskollegen; Vertrauen in andere Menschen; Gefühl der Verbundenheit mit der Stadt/ dem Land; Stärke des Vertrauens in die Bundesregierung; Zustimmung zur Aussage: die wirtschaftlichen Gewinne werden heute in Deutschland im Großen und Ganzen gerecht verteilt; Häufigkeit ehrenamtlicher Tätigkeit; Gegend in unmittelbarer Nähe, wo man nachts nicht allein gehen möchte; Politikinteresse; politische Rechts-Links-Einordnung; Selbsteinschätzung als glücklich derzeit, vor 5 Jahren und in 5 Jahren; Selbsteinschätzung des Gesundheitszustands; Religiosität; Zugehörigkeitsgefühl zu einer Religionsgemeinschaft; Religionsgemeinschaft; Häufigkeit der privaten Internetnutzung und Rolle von Internet bzw. sozialen Medien; Respekt gegenüber den meisten Menschen, mit denen man im Alltag zu tun hat; durch Ereignisse der letzten Jahre wind man richtig unsicher; in Deutschland darf man nicht mehr frei seine Meinung äußern, ohne Ärger zu bekommen; der Zusammenhalt in Deutschland ist gefährdet; Bewertung des Zusammenhalts in der Wohngegend; Befürwortung oder Ablehnung von Maßnahmen hinsichtlich Vielfalt (Absenken des Wahlalters im Bund auf 14 Jahre, Zuwanderungsgesetz mit definierten Höchstgrenzen für eine Zuwanderung, verpflichtender Sexualkundeunterricht an Schulen, bei dem ausdrücklich über alle sexuellen Orientierungen aufgeklärt wird, Pflicht zur Barrierefreiheit aller öffentlich zugänglichen Gebäude, wie Verwaltung, Schulen, Cafés oder Einkaufszentren, höhere Besteuerung von sehr hohem Einkommen und Vermögen, Einführung eines bedingungslosen Grundeinkommens, Burka-Verbot, Pflicht für alle Schüler, auch mit Migrationshintergrund, im Schulalltag ausschließlich Deutsch zu sprechen).
+Demographie: Geschlecht; Alter; Familienstand; Kinder; Anzahl der Kinder; Haushaltsgröße; Haushaltszusammensetzung (Anzahl der Personen im Haushalt von 0 bis 15 Jahren und ab 16 Jahren); derzeitige Hauptbeschäftigung (Erwerbsstatus); Bildung: höchster allgemeinbildender Schulabschluss; höchster Ausbildungsabschluss; Anzahl Bücher im Haushalt; Migrationshintergrund; Geburtsland Deutschland; Geburtsland; deutsche Staatsbürgerschaft; Staatsbürgerschaft; Vater und Mutter in Deutschland geboren; Geburtsland von Vater und Mutter; zu Hause gesprochene Sprache; Höhe des monatlichen Haushaltsnettoeinkommens (offen); Haushaltsnettoeinkommen kategorisiert; Bezug von Transferleistungen in den letzten 12 Monaten. 
+Zusätzlich verkodet wurde: Interviewnummer; Teilstichprobe: Festnetz oder Mobilfunk; Anzahl der Festnetztelefonnummern im Haushalt; Anzahl der Mobilfunknummern, unter denen der Befragte persönlich erreichbar ist; Anzahl der Mobilfunknummern anderer Haushaltsmitglieder ab 16 Jahren; Zufallsvariable (Frage zu Maßnahmen zur Stärkung des sozialen Zusammenhalts an jeden Dritten); offene Antwort zu Maßnahmen zur Stärkung des sozialen Zusammenhalts erteilt; Panelbereitschaft; Bundesland; Postleitzahl genannt (Mobilfunk); IQ-Test: verbale Kompetenzen; Gewichtungsfaktor Gesamtstichprobe; Designgewicht.Dem Datensatz wurden zusätzlich folgende Regionalmerkmale zugespielt: Politische Gemeindegrößenklasse, BBR Regionstyp (neu), Eurostat Stadt-Land Gliederung. 
+</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The survey explored attitudes towards increasing diversity in German society and how individuals deal with it. The focus was on the importance of acceptance of diversity for social cohesion in the country. Acceptance of diversity was conceived as a multidimensional construct and recorded in terms of age, disability, sex, sexual orientation, socio-economic weakness, ethnic origin and religion. In addition, the personal and structural conditions for a high level of acceptance of diversity as well as the possibilities of promoting political and civil society influence on it were surveyed.
+The cross-sectional data was collected between the beginning of May and mid-July 2018 within the framework of a standardised CATI survey. For this purpose, a dual-frame telephone selection frame of landline and mobile numbers in the ratio 55:45 provided by ADM was used. In order to provide a meaningful representation of the less populous federal states, a disproportionate country stratification was applied, which can be balanced by weighting. The selection of the target persons for fixed-network connections was carried out according to the last-birthday method, whereas for mobile connections the main user of the device was interviewed. The resulting sample comprises 3,025 randomly reached German-speaking persons and is representative of the resident population of the Federal Republic of Germany aged 16 and over. The interviews lasted an average of 34 minutes. Data collection was carried out by infas - Institut für angewandte Sozialwissenschaft GmbH, Bonn.
+The survey provides data on attitudes to diversity and its dimensions, to elites and people with different lifestyles, to politics and globalisation; and to the acceptance of diversity in one´s own environment (neighbourhood and family). Also recorded were perceptions of social cohesion; subjective well-being; personality traits; the experience of respect and discrimination; and socio-demographic and socio-economic characteristics of the target persons.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Awareness of the term diversity in relation to society; life satisfaction; assessment of the economic situation in Germany and of one´s own economic situation; threat vs. enrichment of life by increasing diversity; agreement with various statements (most of the people I deal with in everyday life treat me with respect, I don´t get on so well with people who are significantly older or significantly younger than me, I definitely wouldn´t want to live in a multi-generational household, if you´re old, you´re old and shouldn´t always pretend to be young); statements on compassion (e.g. I experience myself as compassionate and caring towards people who are less fortunate than I am, etc.); opinion on living together with people of different cultural backgrounds (I would rather not live with foreigners than with people from other countries, etc.); opinion on living together with people of different cultural backgrounds (would rather have nothing to do with foreigners, people who come to Germany should be supported in keeping their cultural roots, I always learn something new when I am together with people from other countries); agreement with various statements about religion (there should also be legal holidays for the festivals of other religions, Islam definitely fits into the Western world, religion is a private matter and religious manifestations and symbols such as crucifixes, headscarves or kippahs have no place in public); BIG 5; opinion on gender roles (I am against a women´s quota, women make too much fuss about the issue of sexual harassment, a man has to assert himself otherwise he is not a real man, many women feel very comfortable in the victim role); attitude towards sexual orientation (transsexual people should keep to themselves, homosexuals and their own children - it just doesn´t go together, changing gender is against nature, it is disgusting when homosexuals kiss in public); frequency of feeling discriminated against; opinion on people with disabilities (I find many demands of disabled people excessive, inclusion disadvantages normally developed children, the sight of disabled people bothers me); agreement with the statement: politics works more for the interests of elites than for the needy; opinion regarding the behaviour of elites (top managers, intellectuals and super-rich); opinion regarding poverty in Germany (good social net in Germany, nobody needs to be homeless, most Hartz IV recipients are work-shy, too much consideration in society for failures); opinion on people with different lifestyles (enrich my neighbourhood, people who always walk around in suits or costumes are suspicious to me, vegans are absolute weirdos); globalisation personally more as a threat or as an opportunity; feelings about increasing diversity (anxious, calm, comfortable, relaxed, strained, restless, worried, content); acceptance of diversity in one´s own environment (neighbourhood and family) (people who are much older or younger, foreigners, househusbands, homosexuals, religious Muslims, disabled, very rich, welfare recipients, people with a completely different lifestyle); frequency of meetings with friends, acquaintances or privately with work colleagues; trust in other people; feeling of attachment to the city/country; strength of trust in the federal government; agreement with the statement: economic gains are by and large fairly distributed in Germany today; frequency of voluntary work; area in the immediate vicinity where one would not want to go alone at night; interest in politics; political right-left classification; self-assessment as happy at present, 5 years ago and in 5 years´ time; self-assessment of state of health; religiosity; sense of belonging to a religious community; religious community; frequency of private internet use and role of internet or social media; respect for most people one deals with in everyday life; events of the last few years make one feel really insecure; in Germany one is no longer allowed to freely express one´s opinion without getting into trouble; cohesion in Germany is endangered; assessment of cohesion in the neighbourhood; support or rejection of measures regarding diversity (lowering the voting age in the federal government to 14 years, immigration law with defined maximum limits for immigration, compulsory sex education in schools that explicitly teaches about all sexual orientations, Compulsory accessibility of all publicly accessible buildings, such as administration, schools, cafés or shopping centres, higher taxation of very high incomes and wealth, introduction of an unconditional basic income, burqa ban, compulsory for all pupils, including those with a migration background, to speak only German in the school day).
+Demography: sex; age; marital status; children; number of children; household size; household composition (number of persons in the household from 0 to 15 years and from 16 years); current main occupation (employment status); education: Highest general education degree; Highest education degree; Number of books in household; Migration background; Country of birth Germany; Country of birth; German citizenship; Citizenship; Father and mother born in Germany; Country of birth of father and mother; Language spoken at home; Level of monthly household net income (open); Household net income categorised; Receipt of transfer payments in the last 12 months. 
+Additionally coded were: Interview number; subsample: landline or mobile; number of landline telephone numbers in household; number of mobile numbers where respondent can be reached in person; number of mobile numbers of other household members aged 16 and over; random variable (question on social cohesion measures to every third person); open response on social cohesion measures given; panel willingness; state; postcode named (mobile); IQ test: verbal competencies; weighting factor total sample; design weight.The following regional characteristics were also added to the data set: Political municipality size class, BBR region type (new), Eurostat urban-rural division. </freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wohnbevölkerung der Bundesrepublik Deutschland im Alter ab 16 Jahren</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Resident population of the Federal Republic of Germany aged 16 and over</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Dual-Frame-Telefonstichprobe (ADM, Häder/Gabler-Verfahren) aus Festnetz- und Mobilfunknummern im Verhältnis 55:45 mit disproportionaler Schichtung nach Bundesländern; Auswahl der Zielperson: Last-Birthday-Verfahren bei Festnetzanschlüssen, Hauptbenutzer des Geräts bei Mobilfunkanschlüssen</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Dual-frame telephone sample (ADM, Häder/Gabler method) from landline and mobile numbers in the ratio 55:45 with disproportionate stratification according to federal states; selection of the target person: last-birthday method for landline connections, main user of the device for mobile connections.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2018-05-03</date>
+				</startDate>
+				<endDate>
+					<date>2018-07-09</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>infas - Institut für angewandte Sozialwissenschaft GmbH, Bonn</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>3025</numberUnits>
+			<numberVariables>157</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Arant, R., Larsen, M., &amp; Boehnke, K. (2021). Acceptance of diversity as a building block of social cohesion: Individual and structural determinants. Frontiers in Psychology. doi: 10.17605/OSF.IO/RYFXS.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Arant, R., Dragolov, G., Gernig, B., &amp; Boehnke, K. (2019): Zusammenhalt in Vielfalt : Das Vielfaltsbarometer 2019 der Robert Bosch Stiftung. 
+Stuttgart: Robert Bosch Stiftung, Bericht</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>infas Institut für angewandte Sozialwissenschaften GmbH (2018): Methodenbericht : Studie "Zusammenhalt und Vielfalt" für die Robert Bosch Stiftung unter wissenschaftlicher Beteiligung der Jacobs University Bremen.
+Bonn: Infas</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

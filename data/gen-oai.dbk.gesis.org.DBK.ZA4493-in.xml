@@ -1,0 +1,562 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'IKG-Youth Panel 2001-2005 (Integration, interaction as well as the development of concepts of the enemy and the notion toward violence during adolescence)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'IKG-Jugendpanel 2001-2005 (Integration, Interaktion sowie die Entwicklung von Feindbildern und Gewaltbereitschaft bei Jugendlichen)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA4493</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>IKG-Jugendpanel 2001-2005 (Integration, Interaktion sowie die Entwicklung von Feindbildern und Gewaltbereitschaft bei Jugendlichen)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>IKG-Youth Panel 2001-2005 (Integration, interaction as well as the development of concepts of the enemy and the notion toward violence during adolescence)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Renate</firstName>
+				<middleName/>
+				<lastName>Möller</lastName>
+				<affiliation>
+					<affiliationName>Fakultät für Pädagogik, Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Christian</firstName>
+				<middleName/>
+				<lastName>Babka von Gostomski</lastName>
+				<affiliation>
+					<affiliationName>Institut für interdisziplinäre Konflikt- und Gewaltforschung, Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Gisela</firstName>
+				<middleName/>
+				<lastName>Wiebke</lastName>
+				<affiliation>
+					<affiliationName>Institut für interdisziplinäre Konflikt- und Gewaltforschung, Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Joachim</firstName>
+				<middleName/>
+				<lastName>Brüß</lastName>
+				<affiliation>
+					<affiliationName>Institut für interdisziplinäre Konflikt- und Gewaltforschung, Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Wilhelm</firstName>
+				<middleName/>
+				<lastName>Heitmeyer</lastName>
+				<affiliation>
+					<affiliationName>Institut für interdisziplinäre Konflikt- und Gewaltforschung, Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4493?doi=10.4232/1.4493</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4493</doiProposal>
+	<publicationDate>
+		<year>2006</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4493</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>1</identifier>
+			<type>VerbundFDB</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Jugend</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Youth</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>Migrationshintergrund</keyword>
+				<keyword>nationale Identität</keyword>
+				<keyword>soziale Beziehungen</keyword>
+				<keyword>Freizeitverhalten</keyword>
+				<keyword>Integration</keyword>
+				<keyword>Vorurteil</keyword>
+				<keyword>Ausländerfeindlichkeit</keyword>
+				<keyword>Diskriminierung</keyword>
+				<keyword>Konfliktverhalten</keyword>
+				<keyword>Erziehung</keyword>
+				<keyword>soziale Herkunft</keyword>
+				<keyword>Berufstätigkeit</keyword>
+				<keyword>Bildungsverlauf</keyword>
+				<keyword>Separation</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>migration background</keyword>
+				<keyword>national identity</keyword>
+				<keyword>social relations</keyword>
+				<keyword>leisure time behavior</keyword>
+				<keyword>integration</keyword>
+				<keyword>prejudice</keyword>
+				<keyword>xenophobia</keyword>
+				<keyword>discrimination</keyword>
+				<keyword>conflict behavior</keyword>
+				<keyword>education</keyword>
+				<keyword>social background</keyword>
+				<keyword>gainful occupation</keyword>
+				<keyword>course of education</keyword>
+				<keyword>separation</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Integration, Interaktion sowie die Entwicklung von Feindbildern undGewaltbereitschaft bei Jugendlichen. Untersuchung derIntegrationsprozesse türkischer, deutscher und Aussiedler-Jugendlicherin die bundesdeutsche Gesellschaft und die damit verbundenenwechselseitigen Wahrnehmungen und Bewertungen. WechselseitigeVorurteile gegenüber Türken, Aussiedlern, Deutschen;Gewaltbereitschaft; Gewalttätigkeit; abweichendes Verhalten;Desintegrationsprozesse.
+Themen: (in Klammern jeweils: Jahr der Erhebung 1 = Jahr 2001, 2 =Jahr 2002, 3 = Jahr 2003, 4 = Jahr 2004, 5 = Jahr 2005):
+Vorurteile und Einstellungen gegenüber anderen ethnischen Gruppen:Gefühle und Einstellungen gegenüber türkischen Jugendlichen,Aussiedler-Jugendlichen, deutschen Jugendlichen (1, 2, 3, 4, 5).
+Tätererfahrungen zu antisozialem Verhalten und Gewalt: Prügeln in derSchulzeit (1) mit türkischen Jugendlichen, Aussiedler-Jugendlichen,deutschen Jugendlichen; Belastung durch Prügeln in der Schulzeit (1);Häufigkeit von verspotten (1, 2, 3, 4, 5), Lügen verbreiten (2, 3, 4, 5), Streitanzettelung, Körperverletzung, Diebstahl, Beschädigung und Erpressung mit türkischen Jugendlichen, Aussiedler-Jugendlichen, deutschenJugendlichen als Opfer (1, 2, 3, 4, 5).
+Opfererfahrungen durch antisoziales Verhalten und Gewalt: Häufigkeitvon verspottet werden (1, 2, 3, 4, 5), Lügen verbreitet (2, 3, 4, 5), Streitanzettelung, Körperverletzung , Diebstahl, Beschädigung und Erpressung von Seiten von türkischen Jugendlichen, Aussiedler-Jugendlichen und deutschen Jugendlichen (1, 2, 3, 4, 5); Aussagen zu Gewalteinstellungen und Gewaltbereitschaft (1, 2, 3, 4, 5).
+Kontakte: Anzahl von türkischen Jugendlichen (1, 2),Aussiedler-Jugendlichen (1, 2), deutschen Jugendlichen (1, 2), die mankennt; Wichtigkeit der Kontakte zu türkischen Jugendlichen,Aussiedler-Jugendlichen und deutschen Jugendlichen (1 , 2, 3); Häufigkeitvon Kontakten zu türkischen Jugendlichen, Aussiedler-Jugendlichen unddeutschen Jugendlichen in der Nachbarschaft, in der Schule und imVerein (1); Häufigkeit verschiedener Freizeitaktivitäten (Spielen, nachHause einladen, Kino/Tanzen gehen, ausleihen, zu Hause besuchen) mittürkischen Jugendlichen, Aussiedler-Jugendlichen und deutschenJugendlichen (1, 2, 3, 4, 5); Anzahl der türkischen Jugendlichen, derAussiedler-Jugendlichen, der deutschen Jugendlichen und derJugendlichen anderer Herkunft in der Schulklasse (1); Zufriedenheit mitKontakten zu anderen Jugendlichen (1, 2, 3, 4, 5); Zufriedenheit mitKontakten zu türkischen Jugendlichen, Aussiedler-Jugendlichen unddeutschen Jugendlichen (5), Häufigkeit von Kontakten zu türkischenJugendlichen, Aussiedler-Jugendlichen und deutschen Jugendlichen(2, 3, 4, 5) in der Schule bzw. in der Ausbildung oder bei Militär-,Zivildienst oder Freiwilligem Sozialen Jahr; Häufigkeit von Kontaktenzu türkischen Kollegen, Kollegen mit Aussiedler-Hintergrund unddeutschen Kollegen am Arbeitsplatz (2, 3, 4, 5); Häufigkeit von Kontaktenzu türkischen Studierenden, Studierenden mit Aussiedler-Hintergrund und deutschen Studierenden im Studium (4, 5).
+Häufigkeit der Erfahrung von Benachteiligung in der Schule, beiBehörden/Ämtern, in Supermärkten/Geschäften, Diskotheken, öffentlichenVerkehrsmitteln, Cafes und Gaststätten (1, 2, 3, 4, 5), Sportvereinen,Jugendzentren (1), am Arbeits-/Ausbildungsplatz (2, 3, 4, 5), bei derAusbildungsplatzsuche (3) gegenüber türkischen Jugendlichen,Aussiedler-Jugendlichen und deutschen Jugendlichen.
+Personale Anerkennung durch türkische Jugendliche, durchAussiedler-Jugendliche und durch deutsche Jugendliche (1, 2, 3, 4, 5);Verbundenheit mit türkischen Jugendlichen, mit Aussiedler-Jugendlichenund mit deutschen Jugendlichen (1, 2); Aussagen zur Wahrnehmung dergesellschaftlichen Anerkennung der türkischen Jugendlichen, derAussiedler-Jugendlichen und der deutschen Jugendlichen in Deutschland(1, 2, 3, 4, 5).
+Aussagen zur Chanceneinschätzung für Personen der eigenen ethnischenHerkunftsgruppe: Einschätzung der derzeitigen Aufstiegschancen(2, 3, 4, 5); Einschätzung der Chancen auf dem Wohnungsmarkt (2, 3, 4, 5);Einschätzung einer allgemeinen Verbesserung der Lage für eigenethnischeJugendliche im nächsten Jahr (2, 3, 4, 5); Einschätzung einer allgemeinenVerbesserung der Lage für eigenethnische Jugendliche in drei Jahren(2); Einschätzung einer allgemeinen Verbesserung derArbeitsmarktsituation für eigenethnische Jugendliche in drei Jahren(2); Einschätzung einer allgemeinen Verbesserung des Wohnungsmarktes indrei Jahren und einer allgemeinen Verbesserung des Geldverdienens füreigenethnische Jugendliche in drei Jahren (2).
+Aussagen zur Favorisierung der eigenen ethnischen Gruppe (1, 2, 3, 4, 5);Wichtigkeit von Gruppenzugehörigkeiten als: Jugendlicher (1, 2), Russe(1, 2, 4, 5), Moslem (1, 2, 3, 4, 5), Christ (1, 2, 3, 4, 5), Sportler (1), Türke(1, 2, 3, 4, 5), Deutscher (1, 2, 3, 4), Tierfreund (1), Pole (1, 2, 3, 5), Frau(1, 2), Mann (1, 2), Musikfan (1), Europäer (1, 2), Aussiedler (2, 3, 4, 5).
+Sprache: Gesprochene Sprache mit Familienangehörigen (1); Bewertungder deutschen, türkischen, russischen, englischen, polnischenSprachkenntnisse in Sprechen, Schreiben, Lesen, Verstehen mitSchulnoten (2, 4); Sprechen mit Eltern (3, 4, 5) auf Deutsch, Türkisch,Russisch, Polnisch, andere Sprache, gar nicht; Filme im Fernsehen(3, 4, 5) auf Deutsch, Türkisch, Russisch, Polnisch, andere Sprache, garnicht; Zeitungen lesen (3, 4, 5) in Deutsch, Türkisch, Russisch,Polnisch, anderer Sprache oder gar nicht; Bücher lesen (3, 4, 5) inDeutsch, Türkisch, Russisch, Polnisch, anderer Sprache oder gar nicht; mitFreunden reden (5) auf Deutsch, Türkisch, Russisch, Polnisch, andereSprache oder gar nicht.
+Aussagen zu Akkulturationspräferenzen (1, 2, 3, 4, 5); Bereich Religion:Zugehörigkeit zu Religionsgemeinschaft (1, 3); Wichtigkeit der Religion(1, 2, 3, 4, 5); Wichtigkeit der Religion für Vater (1); Wichtigkeit derReligion für Mutter (1); Häufigkeit der Beteiligung am religiösen Lebender Gemeinde (1, 2, 3, 4, 5); Häufigkeit der Beteiligung des Vaters amreligiösen Leben der Gemeinde (1); Häufigkeit der Beteiligung derMutter am religiösen Leben der Gemeinde (1); Häufigkeit der Besuche ineiner Kirche/Moschee/Gebetshaus (1, 2, 3, 4, 5); Häufigkeit der Besuche desVaters und der Mutter in einer Kirche/Moschee/Gebetshaus (1);Häufigkeit des Betens (1, 2, 3, 4, 5); Einschätzung von Religionen(Christentum, Islam, Buddhismus, Judentum) als friedfertig (2, 3),aggressiv (2, 3,5), mulmig-ungutes Gefühl bei dieser Religion (2, 3);Einschätzung des Hinduismus als friedfertig (2), aggressiv (2),mulmig-ungutes Gefühl bei dieser Religion (2).
+Hilfe durch Andere: Ansprechpartner Mutter oder Vater bei Problemen,Ansprechpartner andere Familienmitglieder, Freunde, Nachbarn,andere Erwachsene, Cliquenmitglieder oder andere Person bei Problemen (1);jeweils Wichtigkeit dieser Ansprechpartner (1); Aussagen zuWahrscheinlichkeit der Hilfe aus dem sozialen Netzwerk (2,3,4,5).
+Wohnsituation: Haushaltszusammensetzung (1, 2, 3, 4, 5); Vorhandenseineines eigenen Zimmers; Wohnungsgröße; Einschätzung desGebäudezustands des Wohnhauses; Einschätzung des Zustands derHäuser in der Straße des Wohnhauses (1).
+Verhaltensweisen der Eltern gegenüber Befragten: Loben, in Schutznehmen, ausschimpfen, anschreien, ohrfeigen, schlagen durch die Mutterin der Kindheit (5); Loben, in Schutz nehmen, ausschimpfen, anschreien,ohrfeigen, schlagen durch die Mutter sowie den Vater in der Kindheitund in der Jugend (5); Häufigkeit der Gespräche mit Eltern in derJugend über Politik (5), Benehmen gegenüber anderen Menschen (5), Musik (5),Kochen/Speisezubereitung (5), Religion/religiöse Themen (5),Theater/Oper (5), Reparaturen im Haushalt (5), Philosophie (5),finanzielle Fragen/Geldumgang (5), Geschichte (5).
+Aussagen zu Erziehungsstilen/Erziehungserfahrungen/Umgang in derFamilie (1, 3).
+Status der Eltern: Berufsausbildung des Vaters und der Mutter (1);derzeitige Situation (Ganztagsarbeit, Halbtagsarbeit, Hausmann,Arbeitslosigkeit, Rentner, Umschulung, Sozialhilfebezug) des Vaters(1, 2, 3, 4, 5); derzeitige Situation (Ganztagsarbeit, Halbtagsarbeit,Hausfrau, Arbeitslosigkeit, Rentnerin, Umschulung, Sozialhilfebezug)der Mutter (1, 2, 3, 4, 5); Vater und Mutter noch am Leben (1, 2, 3, 4, 5).
+Aussagen zum Verhältnis von Mann und Frau; Rollenaufteilung derGeschlechter; Geschlechterstereotype (2, 4). 
+Clique: Zugehörigkeit (1, 2, 3, 4 ,5); Planung gemeinsamer Unternehmungen(1); Chef in Clique (1, 3); Zusammensetzung der Clique nach Geschlecht(2); Zusammensetzung der Clique nach ethnischer Herkunft (2); Aussagenüber Aktivitäten und Charakteristika der Clique (2, 3).
+Zugehörigkeiten und aktive Mitarbeit in Vereinen oder Gruppen:Sportverein (1, 2, 3, 4, 5), Jugendclub/Jugendgruppe (1);Musikverein/Musikgruppe (1, 2, 3, 4, 5), Freiwillige Feuerwehr (1, 2, 3, 4,  5),politische Partei/Jugendorganisation einer Partei (1, 2, 3, 4, 5),kirchliche/religiöse Jugendgruppe (1, 2, 3, 4, 5), anderer Verein(1, 2, 3, 4, 5), keinerlei Vereinsmitgliedschaft (1, 2, 3, 4, 5).
+Parteipräferenz (2, 3, 4, 5).
+Institutionenvertrauen: Aussagen zum Vertrauen in das Rechtssystem (1, 2, 3, 4, 5), die Behörden (1, 2, 3, 4, 5), die wirtschaftliche Stabilität (1, 2, 3, 4, 5) und die Regierung (3, 4, 5) in Deutschland; Arbeitsplatzsicherheit (1, 2, 3, 4, 5).
+Auftreten und Belastung von unangenehmen Ereignissen wie Opfer einerStraftat (2, 3, 4, 5), polizeiliche Anzeige (2, 3, 4, 5), polizeilicheFestnahme (2, 3, 4, 5), Ärger mit Behörden (2, 3, 4, 5), Trennung oderScheidung der Eltern (2, 3, 4, 5), Trennung oder Scheidung vom Partner(3, 4, 5), Tod eines Freundes (2, 3, 4, 5), Tod eines nahenFamilienangehörigen (2, 3, 4, 5), Wohnungswechsel oder Umzug (2, 3, 4, 5).Status des Befragten: zusammengesetzte Variable zum Status Ende 2001(2); zusammengesetzte Variable zum derzeitigen Status (Schule,berufliche Ausbildung, Erwerbstätigkeit; FSJ, Wehrdienst, Zivildienst,Studium, nichts von alledem) (3, 4, 5).
+Bereich Betriebspraktikum: Teilnahme an einem schulbetreutenBetriebspraktikum in der zehnten Klasse (1); Gefallen anBetriebspraktikum (1); Hilfe des Betriebspraktikums für beruflichePläne(1); Häufigkeit der Probleme im Arbeitsalltag beiBetriebspraktikum (1); Offene Angabe zu Problemen beimBetriebspraktikum (1).
+Bereich Schule: Schultyp in zehnter Klasse (1); Zufriedenheit mit dem,was in Schule erreicht wurde (1, 2, 3); Mathematiknote (1); Deutschnote(1); Sportnote (1); angestrebter Schulabschluss (1, 2, 3, 4, 5); Sicherheitdes Erreichens des angestrebten Schulabschlusses (2, 3, 4, 5); höchsterbisher erreichter Schulabschluss (2, 3, 4, 5); Auftreten und Belastung vonschulbezogenen Ereignissen wie Sitzen bleiben, Abbruch derSchulausbildung, Schulwechsel, Ärger mit Lehrern und mit Mitschülern(2, 3, 4, 5); Schulbesuch Ende Jahr 2001 (2); Typ der Schule Ende 2001(2, 3, 4, 5); besuchte Jahrgangsstufe (2, 3, 4, 5); Gefallen an der Schule inden letzten Monaten (2, 3, 4, 5).
+Bereich berufliche Ausbildung: Auftreten und Belastung vonberufsausbildungsbezogenen Ereignissen wie Ausbildungsplatzsuche,Ausbildungsplatzwechsel, Ärger mit Ausbilder und Ärger mitAuszubildenden (2, 3, 4, 5); Ausbildungsabbruch (4, 5); Suchen einesAusbildungsplatzes im Jahr 2001 (2); Anzahl der Bewerbungen beiAusbildungsplatzsuche (2, 3, 4, 5); Erhalt eines Ausbildungsplatzes imJahr 2001 oder in 2002 (2); erster Ausbildungsplatz (3); offene Angabezur Bezeichnung der beruflichen Ausbildung (2, 3, 4, 5); Gefallen anAusbildung in den letzten Monaten (2, 3, 4, 5); Ausbildungsabbruch (3);Sicherheit des Erreichens des angestrebten Ausbildungsziels (2, 3, 4, 5);erreichter beruflicher Ausbildungsabschluss (4, 5).
+Bereich Arbeitsplatz: Auftreten und Belastung vonarbeitsplatzbezogenen Ereignissen wie Arbeitsplatzsuche,Arbeitsplatzwechsel, Ärger mit Vorgesetzten, Ärger mit Kollegen amArbeitsplatz und Arbeitslosigkeit (2, 3, 4, 5); im Jahr 2001 mindestenszwei Monate hauptberuflich gearbeitet (2); Gefallen an der Arbeit(2, 3, 4, 5); offene Angabe zur Beschreibung der ausgeübten Arbeit(2, 3, 4, 5); auch 2002 hauptberuflich arbeiten (2); Arbeit mitArbeitsvertrag (3, 4, 5); Arbeit bei Bekannten oder im Familienbetrieb(3, 4, 5); Wochenarbeitsstunden (3, 4, 5); Ausübung dieser Arbeit auch inZukunft (3, 4, 5).
+Bereich Militär-, Zivildienst und Freiwilliges Soziales Jahr: Abfragewelcher der drei Dienste (2, 3, 4, 5); Gefallen am Dienst (2, 3, 4, 5).
+Bereich Studium: offene Angabe zur Beschreibung des Studiengangs undStudienfachs (4, 5); Semesteranzahl (4, 5); Gefallen am Studium (4, 5);Sicherheit des Erreichens eines erfolgreichen Studiums (4, 5).
+Aussagen zur Situation von Personen, die weder auf einer Schule waren,noch in beruflicher Ausbildung, noch einem Beruf nachgingen, nochMilitär-, Zivildienst oder ein Freiwilliges Soziales Jahr machten undauch nicht studierten (3, 4, 5).
+Bilanzierende Aussagen: Zufriedenheit mit dem, was inSchule/Ausbildung/Universität erreicht wurde (4); Zufriedenheit mitdem, was in bisheriger Ausbildung erreicht wurde (5); Gefallen desJahres 2001 mit Gesamtblick aufSchule/Ausbildung/Arbeit/Zivildienst/Militärdienst/FSJ (2); Gefallender letzten zwölf Monte mit Gesamtblick aufSchule/Ausbildung/Arbeit/Zivildienst/Militärdienst/FSJ/Studium (3, 4, 5);allgemeine Lebenszufriedenheit (1, 2, 3, 4, 5).
+Finanzielle Situation: Zufriedenheit mit derzeitigen finanziellenMöglichkeiten (1, 2, 3, 4, 5); Höhe der finanziellen Ausgabemöglichkeitenin DM (1); Beschreibung der finanziellen Situation von sehr gut bisSchulden (2, 3, 4, 5); Geldeinnahmequellen (Eltern, eigeneErwerbstätigkeit, Gelegenheitsjobs, Lehrgeld, Sozialhilfe, Stipendium,sonstiges) für Lebensunterhalt (2).
+Zukunftspläne: Pläne für Ausbildung im folgenden Jahr (1); Pläne fürdas folgende Jahr wie: allgemein bildende Schule, berufliche Ausbildung,hauptberufliche Arbeit, Militärdienst, Zivildienst, FSJ,Berufsschule/Berufsfachschule, Jobben, Ausland oder keine Pläne für dasJahr 2002 (2).
+Aussagen zur Zukunft: Zukunftserwartungen für 2002 (2),Zukunftserwartungen für die nächsten zwölf Monate (3, 4, 5). 
+Diverse weitere Möglichkeiten der Skalenbildung: Aussagen zuLebensstil, sozialen Gruppen und Milieugruppen (2, 4); Aussagen zurEinschätzung von eigenen Fähigkeiten (1, 3); Aussagen zu Autoritarismus(1, 2, 3, 4, 5); Aussagen zum hierarchischen Selbstinteresse mit denTeildimensionen Konkurrenzdenken, Leistungsorientierung,Machiavellismus (5); Aussagen zur Selbstkontrolle (2, 3, 4); Aussagen zuKonfliktlösungsstrategien (1, 2, 3, 4, 5).
+Offene Angaben zu Vorlieben: Lieblingsfach in der Schule (1),Lieblingshobby (1,2), liebste Musikrichtung (1), liebste Fernsehsendung(1, 2), liebstes Urlaubsland (1), Lieblingssport (1), Parteineigung (1),Lieblingskleidungsmarke (1), Lieblingsautomarke (1), Lieblingsfilm (1).
+Demographie und ethnische Herkunft: Geschlecht (1, 2, 3, 4, 5),Geburtsmonat (1, 2, 3, 4, 5), Geburtsjahr (1, 2, 3, 4, 5), Geburtsland (1),Zuzugsjahr nach Deutschland (1), Staatsbürgerschaft (1, 2, 3, 4, 5),Beantragung deutscher Staatsbürgerschaft (1), Geburtsland des Vaters(1), Geburtsland der Mutter (1), Staatsbürgerschaft des Vaters (1),Staatsbürgerschaft der Mutter (1), Familienstand (4, 5); eigene Kinder(5); Geburtsjahre der Kinder (5).
+Zusätzlich verkodet wurde: Gewichtungsfaktoren nach ethnischer Gruppe(1, 2, 3, 4, 5); Gewichtungsfaktoren nach Staatsbürgerschaft,Aussiedlerstatus (1, 2, 3, 4, 5), Rücklaufdatum (1, 2, 3, 4, 5);Gruppeneinteilungen nach ethnischer Herkunft (1); Schule 2000/2001 inkreisfreier Stadt/Kreis (1); ausgewählte Personen für Befragung(2, 3, 4, 5); Befragungsverfahren im Jahre 2001 (1); Anzahl der Missings(1, 2, 3, 4, 5); gruppierte Anzahl der Missings (1, 2, 3, 4, 5); Übersicht überDatenbestand. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutsche Jugendliche, türkische Jugendliche und
+Aussiedler-Jugendliche, die im Schuljahr 2000/2001 die zehnte Klasse in
+Haupt-, Real-, Gesamtschulen und Gymnasien in Nordrhein-Westfalen
+besuchten. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Kombination aus Zufallsstichprobe und Nicht-Zufallsstichprobe; Auswahlverfahren Kommentar: Mehrstufiges Auswahlverfahren: a) Kontaktierung aller Haupt-, Real-,
+Gesamtschulen und Gymnasien aus 24 Kreisen und kreisfreien Städten
+Nordrhein-Westfalens im Schuljahr 2000/2001, 
+
+b) Teilnahme aufgrund von in Schulen verteilten
+Einwilligungserklärungen von Jugendlichen aus Klasse 10, 
+
+c) Versuch der Totalerhebung der teilnahmebereiten Jugendlichen
+türkischer Herkunft und der teilnahmebereiten Jugendlichen mit
+Aussiedler-Hintergrund. 
+
+Quota-Auswahl nach Gebiet, Geschlecht und Schultyp der
+teilnahmebereiten Jugendlichen deutscher Herkunft.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Mixed probability and non-probability</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>2001</year>
+				</startDate>
+				<endDate>
+					<year>2005</year>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>2001: February to September; 2002: March to September; 2003: April to October; 2004: February to October; 2005: March to September</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>2001: Februar bis September; 2002: März bis September; 2003: April bis Oktober;2004: Februar bis Oktober; 2005: März bis September</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Panel</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Institut für interdisziplinäre Konflikt- und Gewaltforschung,
+Universität Bielefeld</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>Distributor</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>HostingInstitution</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.Paper</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Postalische Befragung und schriftliche Befragung in Schulen</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>11252</numberUnits>
+			<numberVariables>2361</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Erhebungseinheit: Schüler###
+Details der Längsschnittbefragung: a) Erhebung 2001: postalische
+Befragung und Befragungen in Schulen, b) Erhebungen 2002 bis 2005:
+postalische Befragungen, c) Datenbestand: 1. Welle 2001: 1.653 Türken,
+3.539 Aussiedler, 6.055 Deutsche; 2. Welle 2002: 926 Türken, 1.858
+Aussiedler, 2.577 Deutsche; 3. Welle 2003: 626 Türken, 1.359
+Aussiedler, 1.855 Deutsche; 4. Welle 2004: 510 Türken, 1.146
+Aussiedler, 1.502 Deutsche; 5. Welle 2005: 406 Türken, 963 Aussiedler,
+1.244 Deutsche.
+
+Im Datensatz sind Variablen, die aufgrund von Plausibilitätsprüfungen
+geändert wurden. Sie sind in der Regel im Datensatz beim Variablennamen
+mit „r1“ und beim Variablenlabel mit „korrigiert“ gekennzeichnet.
+Fragebogen im PDF-Format sind vorhanden. </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Survey unit: students###</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Babka von Gostomski, Christian: 
+Adressenscreening über Schulen: Erfahrungen beim IKG-Jugendpanel. 
+In: ZA-Information, 49, 2001, S. 29-48</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Babka von Gostomski, Christian: 
+Einflussfaktoren inter- und intraethnischen Gewalthandelns 
+bei männlichen deutschen, türkischen und Aussiedler-Jugendlichen. 
+In: Zeitschrift für Soziologie der Erziehung und Sozialisation, 23, 
+2003, S. 399-415</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Babka von Gostomski, Christian: 
+Gewalt als Reaktion auf Anerkennungsdefizite? Eine Analyse bei männlichen
+deutschen, türkischen und Aussiedler-Jugendlichen mit dem IKG-Jugendpanel 2001. 
+In: Kölner Zeitschrift für Soziologie und Sozialpsychologie, 55, 2003, 
+S. 253-277</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Babka von Gostomski, Christian: 
+Mortalitätsprobleme beim IKG-Jugendpanel 2001 bis 2003. 
+In: Journal für Konflikt- und Gewaltforschung, 6, 2004, S. 164-170 </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Babka von Gostomski, Christian: 
+In Vorurteilen gegenüber türkischen Jugendlichen vereint? Eine 
+desintegrationstheoretisch geleitete Längsschnittanalyse zur 
+Entwicklung von Einstellungen gegenüber türkischen Jugendlichen
+bei Jugendlichen deutscher Herkunft und Aussiedler-Jugendlichen 
+mit Daten des IKG-Jugendpanels 2001-2003. 
+Bielefeld, Universität, Dissertation, 2006 
+(Downloadbar: http://bieson.ub.uni-bielefeld.de/volltexte/2006/870/)</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Babka von Gostomski, Christian: 
+Vertrauen in die Regierung bei jungen Erwachsenen unterschiedlicher 
+Herkunft im Zeitverlauf 2003 bis 2005. 
+In: Diskurs Kindheits- und Jugendforschung, 1, 2006, S. 369-386</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Babka von Gostomski, Christian; Möller, Renate; Wiebke, Gisela: 
+Türkische Jugendliche mit schwerem Stand. Ergebnisse des 
+IKG-Jugendpanel 2001 und 2002. In: SchulVerwaltung, Ausgabe Bayern, 
+26, 2003, S. 137-138</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Brüß, Joachim: 
+Actitudes y acciones agresivas. Tensiones interétnicas entre 
+adolescentes Alemanes, Turcos y Reasentados. 
+In: Revista Migraciones, 13, 2003, S. 209-240</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Brüß, Joachim: 
+Kontakt aufnehmen und sich kennen lernen! 
+In: SchulVerwaltung NRW, 14, 2003, S. 23-25</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Brüß, Joachim: 
+Mutual acceptance or rejection? Exploring social distance 
+among German, Turkish and resettler adolescents. 
+In: Turton, David; Gonzalez, Julia; Garrido, Almudena (Hg.): 
+Immigration in Europe: issues, polities and case studies. 
+Bilbao: University of Deusto, 2003, S. 207-225</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Brüß, Joachim: 
+Täter und Opfer gleichermaßen? Ergebnisse des 
+IKG-Jugendpanel zu interethnischem aggressivem Verhalten 
+zwischen Jugendlichen. 
+In: SchulVerwaltung, Ausgabe Bayern, 26, 2003, S. 344-346</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Brüß, Joachim:
+Zur Persistenz von Akzeptanz bzw. Ablehnung bei deutschen, 
+türkischen und Aussiedler-Jugendlichen.  
+In: Merkens, Hans; Wessel, Anne (Hg.): Zwischen Anpassung und 
+Widerstand: Zur Herausbildung der sozialen Identität türkischer 
+und deutscher Jugendlicher. 
+Hohengehren: Schneider Verlag 2003, S. 75-90</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Brüß, Joachim: 
+Zwischen Gewaltbereitschaft und Systemvertrauen: Eine 
+Analyse zu aggressivem antisozialem Verhalten zwischen 
+deutschen, türkischen und Aussiedler-Jugendlichen. 
+In: Psychologie in Erziehung und Unterricht, 51, 2004, 
+S. 201-212</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Brüß, Joachim: 
+Proud but Isolated? Effects of In-Group Favouritism and 
+Acculturation Preferences on Inter-Ethnic Attitudes and 
+Contact between German, Turkish and Resettler Adolescents. 
+In: Journal of Ethnic and Migration Studies, 31, 2005, S. 3-27</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Brüß, Joachim: 
+Miteinander oder Nebeneinander? Zum Einfluss von 
+Akkulturationspräferenzen und Eigengruppenfavorisierung 
+auf die Kontakte zwischen deutschen, türkischen und 
+Aussiedler-Jugendlichen. 
+In: Ipsen-Peitzmeier, Sabine; Kaiser, Markus (Hg.): Zuhause fremd. 
+Russlanddeutsche zwischen Russland und Deutschland. 
+Bielefeld: Transcipt Verlag 2006, S. 63-86 </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Heitmeyer, Wilhelm; Möller, Renate; Babka von Gostomski, Christian;
+Brüß, Joachim; Wiebke, Gisela: 
+Forschungsprojekt Integration, Interaktion sowie die 
+Entwicklung von Feindbildern und Gewaltbereitschaft bei 
+Jugendlichen deutscher und türkischer Herkunft sowie bei 
+Aussiedler-Jugendlichen unter besonderer Berücksichtigung 
+ethnisch-kultureller Konfliktkonstellationen (Längsschnittstudie). 
+Zwischenbericht an die Deutsche Forschungsgemeinschaft.  Bielefeld: Universität Bielefeld 2002 (Downloadbar:
+http://www.uni-bielefeld.de/ikg/download/Projekt_Feindbilder_Zwischenbericht-1.pdf).</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Heitmeyer, Wilhelm; Möller, Renate; Babka von Gostomski, Christian; 
+Brüß, Joachim;  Wiebke, Gisela: 
+Forschungsprojekt Integration, Interaktion sowie die 
+Entwicklung von Feindbildern und Gewaltbereitschaft bei Jugendlichen 
+deutscher und türkischer Herkunft sowie bei Aussiedler-Jugendlichen 
+unter besonderer Berücksichtigung ethnisch-kultureller 
+Konfliktkonstellationen (Längsschnittstudie). 
+Zwischenbericht II (2. Förderphase: 01.11.2002-31.10.2005) an 
+die Deutsche Forschungsgemeinschaft. 
+Bielefeld: Universität Bielefeld  2005
+(Downloadbar: http://www.uni-bielefeld.de/ikg/download/Projekt_Feindbilder_Zwischenbericht-2.pdf).</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Möller, Renate; Heitmeyer, Wilhelm: 
+Anerkennungsdefizite und Vorurteile: Ergebnisse einer 
+Längsschnittuntersuchung mit Jugendlichen unterschiedlicher 
+ethnischer Herkunft. 
+In: Zeitschrift für Erziehungswissenschaft, 7, 2004, S. 497-517</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Wiebke, Gisela: 
+Ähnlichkeit oder Differenz – was bestimmt heute das 
+Zusammenleben von türkischen und deutschen Jugendlichen? S. 360-384 
+In: Bremer, Helmut; Lange-Vester, Andrea (Hg.): Soziale Milieus 
+und Wandel der Sozialstruktur: Die gesellschaftlichen Herausforderungen
+und die Strategien der sozialen Gruppen. 
+Wiesbaden: VS Verlag für Sozialwissenschaften 2006</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Wiebke, Gisela: 
+(Alltags-)kulturelle Orientierungen von türkischen und 
+deutschen Jugendlichen im Vergleich.  
+In CD-ROM zu: Rehberg, Karl-Siegbert (Hg.): Soziale Ungleichheit,
+Kulturelle Unterschiede. Verhandlungen des 32. Kongresses der 
+Deutschen Gesellschaft für Soziologie in München. 
+Frankfurt am Main: Campus 2006, S. 1776-1788</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

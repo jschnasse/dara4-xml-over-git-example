@@ -1,0 +1,263 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'International Relations (February 1964) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Internationale Beziehungen (Februar 1964)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA2073</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Internationale Beziehungen (Februar 1964)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>International Relations (February 1964) 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>USIA, Washington DIVO, Frankfurt
+</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2073?doi=10.4232/1.2073</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.2073</doiProposal>
+	<publicationDate>
+		<year>1996</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2073</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Konflikte, Sicherheit und Frieden</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Minderheiten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>International politics and organisations</term>
+					<term>Conflict, security and peace</term>
+					<term>Government, political systems and organisations</term>
+					<term>Minorities</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Außenpolitische und sicherheitspolitische Fragen. Beurteilungder Kernwaffenversuche und Abrüstungsfragen. Vergleich von USAund UdSSR.
+Themen: Wichtigste Probleme des Landes; Zufriedenheit mit demLebensstandard; bester Freund und größter Feind des Landes;Einstellung zu Frankreich, den USA, zu Großbritannien, zurSowjetunion und zu China; präferierte Ost-West-Orientierung desLandes; Übereinstimmung der Landesinteressen mit den Interessender Sowjetunion oder den Interessen der USA; Beurteilung deramerikanischen und sowjetischen Außenpolitik sowie derenFriedensbemühungen; Vergleich der wissenschaftlichen,wirtschaftlichen und militärischen Stärke der beidenWeltmächte; Präferenz für die Sowjetunion oder für Nordamerikaals militärische Führungsmacht; vermuteter Gewinner desWettkampfs der Wirtschaftssysteme; Bereitschaft zu einemverstärkten europäischen Verteidigungsbeitrag in der Nato;Einschätzung der Gefahr eines sowjetischen Angriffs; Vergleichzwischen Sowjetbürgern und Amerikanern bezüglich der gewährtenFreiheiten und des gerechten Anteils am Wohlstand des Landes;perzipierte Annäherung der beiden Weltmächte; Einstellung zueinem Abkommen zwischen den USA und der Sowjetunion zurAbschaffung von Kernwaffenversuchen und erwartete Auswirkungauf den Lebensstandard; USA oder UdSSR als Vorreiter fürAbrüstungsabkommen; Kenntnisse über das Verbot vonunterirdischen Atomversuchen im Rahmen eines solchen Abkommens;Einstellung zu einer kernwaffenfreien Zone in Europa;Einstellung zu einer Vereinigung Westeuropas; gewünschteHaltung einer Europäischen Gemeinschaft gegenüber denVereinigten Staaten; perzipierter Einfluß von Organisationenund Verbänden im Lande; Einstellung zu verstärktenamerikanischen Privatinvestitionen im Lande und zu einereuropäischen Entwicklungshilfe; perzipierte Annäherung derSowjetunion und Rotchina sowie Einschätzung der Entwicklung dessowjetisch-chinesischen Konflikts; wahrscheinlichster Auslöserund mögliche Umstände eines Atomkriegs; Kenntnis derUNO-Mitgliedschaft des Landes; Einstellung zur UNO und zu einereigenen UNO-Streitmacht; Einschätzung der Behandlung vonFarbigen in Frankreich, Amerika, in der Sowjetunion und inSüdafrika (in Großbritannien auch nach der Behandlung imeigenen Lande gefragt); Kenntnis von Rassenproblemen in den USAund Einfluß dieser Kenntnisse auf das Amerikabild; Interesse ander internationalen Politik; besonders bewunderter Politiker inWesteuropa; Hören ausländischer Radiosender;Gewerkschaftsmitgliedschaft; Parteipräferenz.
+Interviewerrating: Schichtzugehörigkeit des Befragten.
+Zusätzlich verkodet wurde: Interviewdauer; Anzahl derKontaktversuche; Kooperationsbereitschaft des Befragten;Ortsgröße; Interviewdatum (nur BRD).
+In Italien wurde zusätzlich gefragt: Gelesene Tageszeitungen;Veränderung der Wahlentscheidung im Vergleich zum Vorjahr;Radiobesitz und Wellenbereiche; Interviewort.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Questions on foreign policy and security policy. Judgement on nuclearweapon tests and disarmament questions. Comparison of USA and USSR. 
+Topics: Most important problems of the country; satisfaction with thestandard of living; best friend and greatest enemy of the country;attitude to France, USA, Great Britain, the Soviet Union and China;preferred East-West-orientation of the country; agreement of nationalinterests with the interests of the Soviet Union or the interests ofthe USA; judgement on American and Soviet foreign policy as well as ontheir peace efforts; comparison of the scientific, economic andmilitary strength of the two world powers; preference for the SovietUnion or for North America as major military power; expected winner inthe contest of the economic systems; willingness to make an increasedEuropean defense contribution to the NATO; estimate of the danger of aSoviet attack; comparison between Soviet citizens and Americansconcerning the liberties available and the fair share in the prosperityof the country; perceived rapproachment of the two world powers;attitude to an agreement between the USA and the Soviet Union onabolition of nuclear weapons tests and expected effect on the standardof living; USA or USSR as forerunner of disarmament agreements;knowledge about the prohibition of underground nuclear tests within thescope of such an agreement; attitude to a nuclear-weapon-free zone inEurope; attitude to a unification of Western Europe; desired attitudeof a European Community to the United States; perceived influence oforganizations and associations in the country; attitude to increasedAmerican private investments in the country and to a European foreignaid; perceived rapproachment of the Soviet Union and Red China as wellas assessment of the development of the Soviet-Chinese conflict; mostprobable cause and possible circumstances of a nuclear war; knowledgeabout the UN membership of one´s country; attitude to the UN and to aUN military force; assessment of the treatment of non-whites in France,America, in the Soviet Union and in South Africa (in Great Britain alsoasked about the treatment in one´s own country); knowledge about raceproblems in the USA and influence of this knowledge on the image ofAmerica; interest in international politics; especially admiredpolitician in Western Europe; listening to foreign radio stations;trade union membership; party preference. 
+Interviewer rating: social class of respondent. 
+Also encoded were: duration of interview; number of contact attempts; willingness of respondent to cooperate; size of city; date of interview (FRG only). 
+In Italy the following questions were also asked: daily papers read;change in election behavior compared to the year before; radioownership and frequency ranges; place of interview. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>FRG without West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD ohne West-Berlin</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-GBN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 21 Jahre und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons aged 21 and older. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufige Zufallsauswahl von Personen </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage random sample </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1964-02</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>DIVO, Frankfurt</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SIRME, Societa Internazionale per le Ricerche di Mercato, Mailand</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Institut Francais d'Opinion Publique, Paris</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Gallup Poll, London</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>DIVO, Frankfurt 
+SIRME, Societa Internazionale per le Ricerche di Mercato, Milano 
+Institut Francais d`Opinion Publique, Paris 
+Gallup Poll, London 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral interview with standardized questionnaire. 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>185</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>In der Bundesrepublik wurden 1200 Personen befragt, in
+Frankreich 1215, in Großbritannien 1055 und in Italien 1175.
+Die USIA-Bezeichnung der Studie lautet XX-16.
+Die USIA-Studien der XX-Serie (Internationale Beziehungen) von
+XX-2 bis XX-18 sind unter den ZA-Studien-Nrn. 1969 - 1976 sowie
+2069 - 2074 und 2124 - 2127 archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>1200 persons were interviewed in Germany, 1215 in France, 1055 in Great
+Britain and 1175 in Italy. The study has the USIA-designation XX-16.
+The USIA/Studies in the XX-series (international relations) from XX-2
+to XX-18 are archived under ZA Study Nos. 1969-1976 as well as
+2069-2074 and 2124-2127. </text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Merritt, Richard L.; Puchala, Donald J. (Hrsg.): 
+Western European Perspectives on International Affairs: Public Opinion Studies and Evaluations. 
+New York: Praeger 1968.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

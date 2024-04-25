@@ -1,0 +1,415 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'German Emigration and Remigration Panel Study (GERPS) 2018'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'German Emigration and Remigration Panel Study (GERPS) 2018'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7583</identifier>
+		<currentVersion>2.1.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>German Emigration and Remigration Panel Study (GERPS) 2018</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>German Emigration and Remigration Panel Study (GERPS) 2018</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Erlinghagen, Marcel; Schneider, Norbert; Ette, Andreas</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7583?doi=10.4232/1.13942</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13942</doiProposal>
+	<publicationDate>
+		<date>2022-06-30</date>
+	</publicationDate>
+	<publicationPlace>Cologne, Germany</publicationPlace>
+	<publisher>
+		<institution>
+			<institutionName>GESIS</institutionName>
+		</institution>
+	</publisher>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7583</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT38</identifier>
+					<!-- Beruf -->
+					<identifier>KAT39</identifier>
+					<!-- Einkommen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT51</identifier>
+					<!-- Gemeinde, Wohnumwelt -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+					<identifier>KAT55</identifier>
+					<!-- Erziehung, Schulwesen -->
+					<identifier>KAT54</identifier>
+					<!-- Person, Persönlichkeit, Rolle -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>ARBEIT UND BESCHÄFTIGUNG</term>
+					<term>Migration</term>
+					<term>BILDUNG</term>
+					<term>Soziale und berufliche Mobilität</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>GESUNDHEIT</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>WIRTSCHAFT</term>
+					<term>Wohnraum</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>LABOUR AND EMPLOYMENT</term>
+					<term>Migration</term>
+					<term>EDUCATION</term>
+					<term>Social and occupational mobility</term>
+					<term>Cultural and national identity</term>
+					<term>HEALTH</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>ECONOMICS</term>
+					<term>Housing</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Zielsetzung:Die German Emigration and Remigration Panel Study (GERPS) ist die Datenbasis, die im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts ´Individuelle Konsequenzen internationaler Migration im Lebensverlauf´ (Projektnummer 345626236) entwickelt wurde. GERPS verfolgt einen herkunftsbasierten Stichprobenansatz, der es erlaubt, individuelle Konsequenzen internationaler Migrationen aus einer Lebensverlaufsperspektive zu untersuchen. Neben dem Migrationsprozess und den soziodemographischen Merkmalen internationaler Migranten ist es das Ziel von GERPS, Längsschnittdaten über die vier folgenden Lebensbereiche zu erheben: Beschäftigung und Einkommen, Familie und Partnerschaft, Gesundheit und Wohlbefinden sowie soziale Netzwerke und Partizipation.
+Methode:Das Studiendesign von GERPS nutzt Informationen aus deutschen Melderegistern für eine mehrstufig, geschichtete Wahrscheinlichkeitsstichprobe von Auswanderern und Rückwanderern mit deutscher Staatsangehörigkeit im Alter zwischen 20 und 70 Jahren mit einer dokumentierten internationalen Migration zwischen Juli 2017 und Juni 2018. GERPS umfasst derzeit vier Wellen, die einen Zeitraum von 24 Monaten abdecken. Die erste Welle startete im November 2018 und endete im Februar 2019. Die zweite Welle begann im Mai 2019, sechs Monate nach dem Beginn von Welle 1. Die dritte Welle startete im November 2019 und endete im Januar 2020, sechs Monate nach Beginn von Welle 2. Die vierte Welle ist für November 2020 geplant. Welle 1 umfasst Informationen über 4.545 Auswanderer und 6.465 Rückwanderer.
+Analytisches Potenzial &amp; Fragebogen:Das Forschungsdesign ergänzt die traditionellen Befragungen von Zuwanderern in den wichtigsten Zielländern, indem es Auswanderer und Rückwanderer aus der Perspektive des Herkunftslandes befragt. Der herkunftsbezogene Stichprobenansatz hat drei wesentliche Vorteile im Vergleich zu traditionellen Ansätzen, bei denen die Stichproben aus Einwanderern in deren Zielländern gezogen werden: Erstens ermöglicht er vergleichende Studien von Auswanderern in verschiedenen Zielländern und von Rückkehrern aus verschiedenen Zielländern. Zweitens ermöglicht das Forschungsdesign, da GERPS als SOEP-nahe Studie konzipiert ist, Vergleiche der international mobilen Bevölkerung mit im Herkunftsland verbliebenen Nicht-Migranten durch Rückgriff auf das Sozioökonomische Panel (SOEP). Drittens erlaubt das Forschungsdesign vergleichende Studien über Auswanderer und Rückwanderer und bietet damit die Möglichkeit, die Folgen internationaler Migration aus mindestens zwei Perspektiven zu analysieren - kurz nach der Auswanderung und kurz nach der Rückkehr.Jede Welle von GERPS umfasst Fragen zur aktuellen Lebenssituation der deutschen Migranten in den verschiedenen Lebensbereichen, so dass Forschende mit jeder weiteren Welle schrittweise ein umfassendes Verständnis über die Lebensverläufe der Befragten gewinnen können. Zusätzlich hat jede Welle ihren eigenen Schwerpunkt: Die erste Welle erfasst Migrationsmotive und die Situation kurz vor der Migration. Dies ermöglicht die Realisierung eines hypothetischen fünften retrospektiven Messzeitpunkts, welcher es Forschenden erlaubt, Ursachen und Folgen der internationalen Migration von Anfang an zu untersuchen. Die zweite Welle fokussiert auf das Einkommen, die Arbeitsmarktintegration und die soziale Herkunft. Die dritte Welle erfasst insbesondere soziale und familiäre Beziehungen. Die vierte Welle wird durch ein offenes Modul ergänzt werden.
+Die vorliegende Studie umfasst die Daten der ersten Welle, die die Basiserhebung bildet.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext> Kontakt zu Personen im Land vor dem Auslandsaufenthalt (enge Verwandte, weitere Verwandte, Arbeitskollegen bzw. sonstige Freunde und Bekannte); Gründe für den Wegzug aus Deutschland (z.B. eigene berufliche Gründe bzw. berufliche Gründe des Partners, familiäre Gründe, finanzielle Gründe, etc.); Leichtigkeit des Zurechtfindens nach der Migration. 
+Lebenssituation drei Monate vor dem Wegzug aus Deutschland: feste Partnerschaft vor der Migration; Fortbestand der Partnerschaft über den Umzug ins Ausland hinaus; treibende Kraft für die Migration; Partner, der zuerst ausgewandert ist bzw. gemeinsamer Umzug; Haushaltsgröße vor der Migration; Sprachkenntnisse: andere Sprache als Deutsch im Migrationsland; Selbsteinschätzung der Kenntnisse der Sprache des Migrationslandes. 
+Erwerbstätigkeit vor dem Wegzug aus Deutschland: Selbstständige: Branche; Anzahl der Mitarbeiter; abhängig Beschäftigte und Beamte: Branche; vereinbarte und tatsächliche Wochenstundenzahl vor Migration; Vorgesetztenfunktion; Anzahl Personen, für die Weisungsbefugnis besteht. 
+Bisherige und geplante zukünftige Auslandsaufenthalte: Geplante Zeit im Migrationsland innerhalb der nächsten 12 Monate; geplante Zeit in Deutschland innerhalb der nächsten 12 Monate; geplante Dauer des Auslandsaufenthalts; geplante Aufenthaltsdauer im Migrationsland in Jahren; Aufenthaltsdauer im Ausland insgesamt.
+Vorherige längerfristige Auslandsaufenthalte: Anzahl vorheriger längerer Auslandsaufenthalte; letzter längerer Auslandsaufenthalt ebenfalls in dem derzeitigen Aufenthaltsland oder in einem anderen Land. 
+Zukünftige Pläne ins Ausland zu gehen: Überlegung hinsichtlich erneuter Migration ins Ausland, zur Dauer und zum Ort einer erneuten Migration; Absicht innerhalb der nächsten 12 Monate wieder ins Ausland umzuziehen bzw. auszuwandern; Gründe für erneute Migration ins Ausland.
+Verlassen des aktuellen Wohnlandes bzw. Rückkehr nach Deutschland: Überlegung nach Deutschland oder in ein anderes Land umzuziehen; Land der beabsichtigten Migration (zurück nach Deutschland, in ein anderes Land); Gründe für erneute Migration nach Deutschland. 
+Aktuelle Lebenssituation: Feste Partnerschaft; Haushaltsgröße; Wohnort (in demselben Haus/ derselben Wohnung wie vor dem Wegzug aus Deutschland, gleicher Ort, aber andere Wohnung, anderer Ort, aber im gleichen Bundesland, in einem anderen Bundesland als vor dem Wegzug); Kontakte zu Freunden und Verwandten: Anzahl enger Freunde insgesamt; Anzahl enger Freunde in Deutschland, im derzeitigen Migrationsland und in einem anderen Land (jeweils Auswanderer und Rückwanderer); Kontakthäufigkeit zu Verwandten und Freunden in Deutschland: (Ehe-)Partner, Eltern, Schwiegereltern, Geschwistern, Kindern, Enkeln, Großeltern, weiteren Verwandten und engen Freunden; Vergleich der derzeitigen persönlichen Situation in ausgewählten Lebensbereichen mit der vor dem Wegzug aus Deutschland (Familienleben, Freundes- und Bekanntenkreis, Gesundheit, Wohngegend, Nachbarschaftskontakte). 
+Aktuelle Erwerbssituation: Abhängig Beschäftigte und Beamte: Branche; vereinbarte und tatsächliche Wochenstundenzahl; Tätigkeit entspricht dem erlernten Beruf; gleicher Arbeitgeber wie in Deutschland, Tochterfirma des letzten Arbeitgebers in Deutschland oder ganz anderer Arbeitgeber als in Deutschland; Entsendung durch den Arbeitgeber; befristetes Arbeitsverhältnis; Vorgesetztenfunktion; Anzahl Personen, für die Weisungsbefugnis besteht; Anzahl Beschäftigte des Gesamtunternehmens; Vergleich der beruflichen Situation mit derjenigen vor dem Wegzug aus Deutschland in Bezug auf Arbeitslohn, Aufstiegsmöglichkeiten, Arbeitsplatzsicherheit und Entscheidungskompetenzen. 
+Selbstständige: Branche; Anzahl der Mitarbeiter; Tätigkeit entspricht dem erlernten Beruf; Vergleich der beruflichen Situation mit derjenigen vor dem Wegzug aus Deutschland in Bezug auf Verdienstmöglichkeiten, Unterstützung durch Behörden und unternehmerische Rahmenbedingungen.
+Nicht-Erwerbstätige: bereits erwerbstätig im Migrationsland; beabsichtigte zukünftige Erwerbstätigkeit; beabsichtigter Zeitpunkt der Erwerbstätigkeit; Einschätzung der Chancen eine geeignete Stelle zu finden; Vergleich der persönlichen Situation mit derjenigen vor dem Wegzug aus Deutschland in Bezug auf Chancen einen Job zu finden, einen zur Ausbildung passenden Job zu finden, und die Absicherung als Nicht-Erwerbstätiger. 
+Rentner: Bezug von Rentenzahlungen; Gründe für den Ruhestand (z.B. Erreichen der gesetzlichen Altersgrenze, etc.); Erwerbstätigkeit im Rahmen einer Nebentätigkeit; Gründe für die Erwerbstätigkeit; Gründe für gewünschte Erwerbstätigkeit; Gründe gegen eine Erwerbstätigkeit im Ruhestand. 
+Aktuelle finanzielle Situation: Beurteilung des aktuellen Haushaltseinkommens; Vergleich der finanziellen Situation mit derjenigen vor dem Wegzug aus Deutschland in Bezug auf Lebensstandard, persönliches Einkommen und Haushaltseinkommen.
+Allgemeine Fragen zur Person: Geschlecht; Deutschland als Geburtsort; Zeitpunkt des Umzugs nach Deutschland; deutsche Staatsangehörigkeit; Erwerb der deutschen Staatsangehörigkeit; Schulabschluss; Schulabschluss in Deutschland erworben; Auslandsaufenthalt während der Schulzeit; abgeschlossene Berufsausbildung oder Studium; Art des Abschlusses der Berufsausbildung oder des Studiums; Abschluss der Berufsausbildung oder des Studiums in Deutschland; Auslandsaufenthalt während des Studiums bzw. während der Ausbildung; andere Sprache als Deutsch im Migrationsland; Selbsteinschätzung der Kenntnisse der Sprache des Migrationslandes.
+Informationen zum Partner: Abgeschlossene Berufsausbildung oder Studium; Art des Abschlusses der Berufsausbildung oder des Studiums; Erwerbstätigkeit.
+Einstellungen, Persönlichkeit und Wohlbefinden: Selbsteinschätzung des Gesundheitszustands; Zustimmung zu Aussagen zur Selbstbestimmtheit (wie mein Leben verläuft, hängt von mir selbst ab, Erfolg muss man sich hart erarbeiten, häufig die Erfahrung, dass andere über mein Leben bestimmen, was man im Leben erreicht, ist in erster Linie eine Frage von Schicksal oder Glück); soziale Isolation (Gesellschaft anderer fehlt, außen vor sein, sozial isoliert sein); Zugehörigkeitsgefühl: Verbundenheit mit: der Gemeinde im derzeitigen Migrationsland, dem derzeitigen Migrationsland, der Herkunftsgemeinde bzw. Gemeinde in Deutschland, der Gemeinde im damaligen Migrationsland, dem damaligen Migrationsland, Deutschland und mit der Europäischen Union; Selbsteinschätzung der Risikobereitschaft; allgemeine Lebenszufriedenheit.
+Abgeleitete Variablen: Geschlecht; Partner-Indikator vor Migration und derzeit;  Familienstand vor Migration und derzeit; Partnerstatus während der Migration; Haushaltsstatus vor Migration, derzeit und nach Migration; Partner im Haushalt: Alter des Partners vor Migration und derzeit; vor der Migration und nach der Migration Kinder im Haushalt unter 6, von 6 bis unter 12, von 12 bis unter 17 Jahren; Alter des jüngsten Kindes im Haushalt vor der Migration und nach der Migration; Änderung der Haushaltszusammensetzung; Bildung: Klassifizierung nach ISCED 11 und Casmin; höchster Schulabschluss; höchster beruflicher Bildungsabschluss und Hochschulabschluss des Befragten und des Partners; Flag Variablen; Geburt in Deutschland; Migrationshintergrund; Beschäftigungsstatus vor Migration und derzeit; derzeitiger Beschäftigungsstatus des Partners; Wochenstunden  gemäß Arbeitsvertrag und tatsächlich; vertraglich vereinbarte und tatsächliche Arbeitszeit (Vollzeit, Teilzeit); ISEI 08 und SIOPS 88 vor Migration und nach Migration; Region; Gewichtungsfaktoren Welle 1; Aufenthaltsstatus; ISCO 08; KLDB 2010 nach Migration; Geburtsjahr (klassiert); monatliches Nettoeinkommen; monatliches Bruttoeinkommen; Geburtsland von Vater und Mutter (Migrationsland, anderes Land); Interviewdatum. 
+Zusätzlich verkodet wurde: Befragten-ID; Sample (Auswanderer mit ausländischer Adresse, Auswanderer mit deutscher Adresse, Rückwanderer); Jahr und Monat des Interviews; Anzahl der Tage zwischen Auswanderung und Interview); Erhebungsmethode (Online, PAPI); derzeitiger Migrationsstatus (Auswanderer/ Rückwanderer); Dauer der Auslandsaufenthalte insgesamt; Befristung des Auslandsaufenthalts.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Objective:The German Emigration and Remigration Panel Study (GERPS) is the data base developed within the project “Individuelle Konsequenzen internationaler Migration im Lebensverlauf” funded by the German Research Foundation (DFG) (project number 345626236). GERPS follows an origin-based sampling approach which allows to study individual consequences of international migrations form a life-course perspective. Apart the migration process and the sociodemographic attributes of international mobiles, the objective of GERPS is to conduct longitudinal data across the four following life domains: Employment and Income, Family and Partnership, Health and Well-being, and Social Networks and Participation.
+Method:The study design of GERPS exploits information from German registers within a multistage stratified probability sample of emigrants and remigrants with German citizenship aged between 20 and 70 with a documented international migration between July 2017 and June 2018. Currently GERPS is comprising four waves covering a period of 24 months. The first wave started in November 2018 and ended in February 2019. The second wave started in May 2019, six months after the beginning of wave 1. The third wave started in November 2019 and ended in January 2020, six months after the beginning of wave 2. The fourth wave is scheduled for November 2020. Wave 1 includes information about 4.545 emigrants and 6.465 remigrants.
+Analytical potential &amp; Questionnaire:The research design complements traditional immigrant surveys conducted in major destination countries by surveying emigrants and remigrants from the perspective of the country of origin. The origin-based sampling approach has at least three major advantages compared to traditional approaches where samples are drawn from immigrants in their destination countries: First, it enables comparative studies of emigrants in various destination countries and of remigrants returning from different destination countries. Second, as GERPS is organized as SOEP-related study, the research design enables comparisons of the internationally mobile population with non-migrants staying in the country of origin by drawing on the German Socioeconomic Panel (SOEP). Third, the research design allows comparative studies on emigrants and remigrants, providing the opportunity to analyse consequences of international migration from at least two perspectives – shortly after emigration and shortly after return.Each wave of GERPS covers questions on German migrant’s current living situation in the different areas of life, gradually enabling researchers to draw a picture of survey participants’ life course with every further wave. Additionally, each wave has its own focus: The first wave covers migration motives and the situation shortly before migration. This enables the realization of a hypothetical fifth retrospective measurement point, allowing researchers to reflect on causes and consequences of international migration right from the beginning. The second wave concentrates on income, labour market integration, and social background. The third wave covers in particular social and family relationships. The fourth wave will be supplemented by an open module.
+The present study comprises the data for the first wave providing the baseline survey.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Contact with people in the country before the stay abroad (close relatives, further relatives, work colleagues or other friends and acquaintances); reasons for leaving Germany (e.g. own professional reasons or professional reasons of the partner, family reasons, financial reasons, etc.); ease of finding one´s way around after migration.
+Life situation three months before moving away from Germany: steady partnership before migration; continuation of the partnership beyond the move abroad; driving force for migration; partner who emigrated first or joint move; household size before migration; language skills: language other than German in the country of migration; self-assessment of knowledge of the language of the country of migration.
+Employment before leaving Germany: self-employed persons: sector; number of employees; dependent employees and civil servants: sector; agreed and actual number of hours per week before migration; supervisor function; number of persons with authority to issue instructions.
+Previous and planned future stays abroad: planned time in the country of migration within the next 12 months; planned time in Germany within the next 12 months; planned duration of the stay abroad; planned duration of stay in the country of migration in years; total duration of stay abroad.
+Previous longer-term stays abroad: number of previous longer stays abroad; last longer stay abroad also in the current country of residence or in another country.
+Future plans to go abroad: consideration of re-migration abroad, duration and location of re-migration; intention to move abroad again within the next 12 months; reasons for re-migration abroad.
+Leaving the current country of residence or returning to Germany: consideration of moving to Germany or another country; country of intended migration (back to Germany, to another country); reasons for re-migration to Germany. 
+Current life situation: steady partnership; household size; place of residence (in the same house/flat as before leaving Germany, same place but different apartment, different place but in the same federal state, in a different federal state than before leaving); contacts with friends and relatives: Total number of close friends; number of close friends in Germany, in the current country of migration and in another country (in each case emigrants and re-migrants); frequency of contact with relatives and friends in Germany: (spouse) partner, parents, parents-in-law, siblings, children, grandchildren, grandparents, other relatives and close friends; comparison of the current personal situation in selected areas of life with that prior to leaving Germany (family life, circle of friends and acquaintances, health, residential area, neighbourhood contacts).
+Current employment situation:Dependent employees and civil servants: sector; agreed and actual number of hours per week; activity corresponds to the learned profession; same employer as in Germany, subsidiary of the last employer in Germany or completely different employer than in Germany; secondment by the employer; fixed-term employment relationship; supervisor function; number of persons for whom authority exists; number of employees in the company as a whole; comparison of the professional situation with that before leaving Germany in terms of wages, promotion opportunities, job security and decision-making powers.
+Self-employed persons: sector; number of employees; activity corresponds to the profession learned; comparison of the occupational situation with that prior to leaving Germany in terms of earning opportunities, support from authorities and entrepreneurial framework conditions.
+Non-employed persons: already employed in the country of migration; intended future employment; intended time of employment; assessment of the chances of finding a suitable job; comparison of the personal situation with that before leaving Germany in terms of chances of finding a job, finding a job suitable for the training, and security as a non-employed person.
+Retired persons: receiving pension payments; reasons for retirement (e.g. reaching the legal age limit, etc.); gainful employment in the context of a secondary occupation; reasons for gainful employment; reasons for desired employment; reasons against gainful employment in retirement.Current financial situation: assessment of the current household income; comparison of the financial situation with that prior to leaving Germany in terms of standard of living, personal income and household income
+General questions about the person: sex; Germany as place of birth; time of moving to Germany; German citizenship; acquisition of German citizenship; school-leaving certificate; school-leaving certificate acquired in Germany; stay abroad during schooling; completed vocational training or studies; type of completion of vocational training or studies; completion of vocational training or studies in Germany; stay abroad during studies or during training; language other than German in the country of migration; self-assessment of knowledge of the language of the country of migration.
+Information about the partner: completed vocational training or studies; type of completion of vocational training or studies; gainful employment.
+Attitudes, personality and well-being: self-assessment of the state of health; agreement with statements about self-determination (how my life is going to run depends on myself, success has to be worked hard for, often the experience that others determine my life, what one achieves in life is primarily a question of fate or luck); social isolation (lacking the company of others, being left out, being socially isolated); sense of belonging: attachment to: the community in the current country of migration, the current country of migration, the community of origin or Community in Germany, the community in the current country of migration, the current country of migration, Germany and with the European Union; self-assessment of the willingness to take risks; general life satisfaction.
+Derived variables: sex; partner indicator before migration and currently; marital status before migration and currently; partner status during migration; household status before migration, currently and after migration; partner in household: age of partner before migration and currently; before migration and after migration children in household under 6, from 6 to under 12, from 12 to under 17; age of youngest child in household before migration and after migration; change in household composition; education: Classification according to ISCED 11 and Casmin; highest school leaving degree; highest vocational and college degree of the respondent and partner; flag variables; birth in Germany; migration background; employment status before migration and currently; current employment status of partner; hours worked per week according to employment contract and actually worked; contractual and actual hours worked (full-time, part-time); ISEI 08 and SIOPS 88 before migration and after migration; region; weighting factors wave 1; residence status; ISCO 08; KLDB 2010 after migration; year of birth (classified); monthly net wage; monthly gross wage; country of birth of father and mother (country of migration, other country); date of interview. 
+Additionally coded: respondent ID; sample (emigrant with foreign address, emigrant with German address, returning emigrant); year and month of interview; number of days between emigration and interview); survey method (online, PAPI); current migration status (emigrant/returning emigrant); total duration of stay abroad; time limit of stay abroad.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutsche Staatsbürger im Alter zwischen 20 und 70 Jahren, die zwischen Juli 2017 und Juni 2018 entweder aus Deutschland ins Ausland gezogen sind oder aus dem Ausland zurückgekehrt sind.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German citizens aged between 20 and 70 years, who either moved abroad from Germany or returned from abroad between July 2017 and June 2018.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Erste Stufe: Stichprobenziehung von 81 Gemeinden im Verhältnis zu ihrer Gesamtzahl der Auswanderer und Rückwanderer in den Vorjahren. 
+Zweite Stufe: Stichprobenziehung von zwei getrennten Stichproben für Auswanderer und Rückwanderer; eine Person pro Haushalt.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: First stage: Sampling of 81 municipalities proportional to their total number of emigrants and remigrants in previous years. 
+Second stage: Sampling of two separate samples for emigrants and remigrants; one individual per household.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2018-11-07</date>
+				</startDate>
+				<endDate>
+					<date>2019-02-11</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Panel</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Marcel</firstName>
+				<middleName/>
+				<lastName>Erlinghagen</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Duisburg-Essen, Duisburg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Norbert</firstName>
+				<middleName/>
+				<lastName>Schneider</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Bundesinstitut für Bevölkerungsforschung (BiB), Wiesbaden</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SOKO Institut, Bielefeld</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jean Philippe</firstName>
+				<middleName/>
+				<lastName>Décieux</lastName>
+				<contributorType>DataCurator</contributorType>
+				<affiliation>
+					<affiliationName>Universität Duisburg-Essen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Marcel</firstName>
+				<middleName/>
+				<lastName>Erlinghagen</lastName>
+				<contributorType>ProjectLeader</contributorType>
+				<affiliation>
+					<affiliationName>Universität Duisburg-Essen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Ette</lastName>
+				<contributorType>ProjectMember</contributorType>
+				<affiliation>
+					<affiliationName>Bundesinstitut für Bevölkerungsforschung</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Genoni</lastName>
+				<contributorType>ProjectMember</contributorType>
+				<affiliation>
+					<affiliationName>Bundesinstitut für Bevölkerungsforschung</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jean</firstName>
+				<middleName/>
+				<lastName>Guedes Auditor</lastName>
+				<contributorType>ProjectMember</contributorType>
+				<affiliation>
+					<affiliationName>Bundesinstitut für Bevölkerungsforschung</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Lisa</firstName>
+				<middleName/>
+				<lastName>Mansfeld</lastName>
+				<contributorType>ProjectMember</contributorType>
+				<affiliation>
+					<affiliationName>Universität Duisburg-Essen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Norbert</firstName>
+				<middleName/>
+				<lastName>Schneider</lastName>
+				<contributorType>ProjectLeader</contributorType>
+				<affiliation>
+					<affiliationName>Bundesinstitut für Bevölkerungsforschung</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Nils</firstName>
+				<middleName/>
+				<lastName>Witte</lastName>
+				<contributorType>ProjectMember</contributorType>
+				<affiliation>
+					<affiliationName>Bundesinstitut für Bevölkerungsforschung</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.WebBased</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.FaceToFace.PAPI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Online Survey (Push-to-web) additional mixed-mode experiments using paper-and-pencil interviews (PAPI) in subsamples.
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>11010</numberUnits>
+			<numberVariables>266</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.13750</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.13479</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Ette, Andreas; Décieux, Jean; Erlinghagen, Marcel; Genoni, Andreas; Guedes Auditor, Jean; Knirsch, Frederik; Kühne, Simon; Mörchen, Luisa; Sand, Matthias; Schneider, Norbert; Witte, Nils (2020): German Emigration and Remigration Panel Study (GERPS): Methodology and Data Manual of the Baseline Survey (Wave 1). BiB Daten- und Methodenberichte 1/2020. Wiesbaden: Bundesinstitut für Bevölkerungsforschung.
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Ette, Andreas; Décieux, Jean P.; Erlinghagen, Marcel; Guedes Auditor, Jean; Mansfeld, Lisa; Sander, Nikola; Schneider, Norbert F.; Witte, Nils 2019a: German Emigration and Remigration Panel Study (GERPS): Neue GERPS-Daten über deutsche Aus- und Rückwandernde. In: Bevölkerungsforschung Aktuell 6-2019: 3–7.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

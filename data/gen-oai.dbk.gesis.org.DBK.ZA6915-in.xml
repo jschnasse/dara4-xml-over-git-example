@@ -1,0 +1,290 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'BAMF Refugees Survey 2014'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Integration von Asylberechtigten und anerkannten Flüchtlingen - BAMF-Flüchtlingsstudie 2014'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA6915</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Integration von Asylberechtigten und anerkannten Flüchtlingen - BAMF-Flüchtlingsstudie 2014</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>BAMF Refugees Survey 2014</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Axel</firstName>
+				<middleName/>
+				<lastName>Böhm</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Migration und Flüchtlinge, Nürnberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Eva</firstName>
+				<middleName/>
+				<lastName>Bund</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Migration und Flüchtlinge, Nürnberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Nina</firstName>
+				<middleName/>
+				<lastName>Rother</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Migration und Flüchtlinge, Nürnberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Susanne</firstName>
+				<middleName/>
+				<lastName>Worbs</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Migration und Flüchtlinge, Nürnberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6915?doi=10.4232/1.12942</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12942</doiProposal>
+	<publicationDate>
+		<date>2017-12-08</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6915</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Minderheiten</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Minorities</term>
+					<term>Social conditions and indicators</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Soziale, kulturelle und strukturelle Integration. Inanspruchnahme von Sprachkursen und Beratungsangeboten. Migrationsgeschichte und Asylverfahren. Bleibeabsicht und Lebenszufriedenheit.
+1. Soziale Integration: Häufigkeit von Kontakten mit Deutschen in der Nachbarschaft und im Freundeskreis; Häufigkeit von Kontakten mit Menschen aus anderen Ländern in der Nachbarschaft und im Freundeskreis; erfahrene Diskriminierung aufgrund der Herkunft in verschiedenen Lebensbereichen; Mitgliedschaft in Vereinen und Organisationen. 
+2. Kulturelle Integration: Religionszugehörigkeit; Gläubigkeit; Häufigkeit des Betens und des Gottesdienstbesuches; Muttersprache; Selbsteinschätzung der muttersprachlichen Kenntnisse (Sprechen, Verstehen, Lesen, Schreiben); Selbsteinschätzung der Deutschkenntnisse (Sprechen, Verstehen, Lesen, Schreiben); weitere Fremdsprachenkenntnisse; überwiegend im Haushalt gesprochene Sprache; überwiegend außerhalb des Haushalts gesprochene Sprache. 
+3. Strukturelle Integration: Dauer des Schulbesuchs; zuletzt/aktuell besuchte Schule; Schulabschluss und Land des Schulabschlusses; berufliche Bildung: Berufsausbildung oder Studium; Fachrichtung; Land des höchsten Ausbildungsabschlusses; Anerkennung ausländischer Berufsabschlüsse in Deutschland; Umschulung/Weiterqualifizierung in Deutschland; Erwerbsstatus in Deutschland; Merkmale der Beschäftigungsverhältnisse (Befristung, Zeitarbeit); inhaltliche Beschreibung der aktuellen Tätigkeit; Qualifikationsniveau der Tätigkeit; frühere Erwerbstätigkeit in Deutschland und im Herkunftsland; Wunsch nach Erwerbstätigkeit in Deutschland; Einkommensverhältnisse. 
+4. Inanspruchnahme von Sprachkursen und Beratungsangeboten: Teilnahme an Integrationskursen (Alphabetisierung, sonstiger Integrationskurs), berufsbezogenen und anderen Sprachkursen; Bewertung des Nutzens des Integrationskursbesuchs; Teilnahme an Sprachführung und Erwerb eines Zertifikats; Aufsuchen von Beratungsstellen (Flüchtlings- und Asylberatung, Migrationsberatung, Jugendmigrationsdienst, sonstige Beratungsstelle); Bewertung des Nutzens von Beratung. 
+5. Migrationsgeschichte und Asylverfahren: Mehr als dreimonatiger Aufenthalt in weiteren Ländern; Aufenthaltsland; Jahr des ersten Asylantrages in Deutschland; Gründe, den Asylantrag in Deutschland zu stellen; Dauer des Asylverfahrens; Klage gegen negativen Bescheid des Bundesamtes für Migration und Flüchtlinge; Bewertung von Dauer, Unterbringung, Behördenkontakt im Asylverfahren. 
+6. Bleibeabsicht und Lebenszufriedenheit: Einbürgerungsabsicht; Bleibeabsicht in Deutschland; Lebenszufriedenheit in Bezug auf berufliche Situation, Einkommen, Gesundheit, Wohnsituation, familiäre Situation und soziale Kontakte; größter Wunsch (offene Frage). 
+Soziodemographie, Herkunft, Haushalts- und Familiensituation: Alter; Geschlecht; aktueller Aufenthaltstitel; Haushaltsgröße und -Zusammensetzung; Art und Zimmerzahl der Unterkunft; Geburtsland; Staatsangehörigkeiten; Familienstand; Geburtsland des Ehe- oder festen Partners; Staatsangehörigkeiten des Ehe- oder festen Partners; Wohnort des Ehe- oder festen Partners; eigene Kinder insgesamt und im Haushalt; Betreuungssituation der Kinder im Haushalt bzw. Besuch von Schulen und Berufsbildungseinrichtungen. 
+Zusätzlich verkodet wurde: Befragten-ID; Sprachversion Fragebogen; Fragebogen allein oder mit Hilfe ausgefüllt; Anmerkungen zum Fragebogen; Plausibilisierungsvariablen (Schulbildung, Besuch von Sprachkursen, Besuch von Beratungsstellen sowie Aufenthaltsdauer/Aufenthaltstitel); Gewichtungsfaktoren.
+</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Social, cultural and structural integration. Taking advantage of language courses and consulting services. History of migration and asylum procedures. Intent to remain and life satisfaction.
+1. Social integration: frequency of contacts with Germans in the neighbourhood and circle of friends; frequency of contacts with people from other countries in the neighbourhood and circle of friends; experienced discrimination based on origin in different areas of life; membership in associations and organisations.
+2. Cultural integration: religious affiliation; faith; frequency of prayer and worship; mother tongue; self-assessment of mother-tongue skills (speaking, understanding, reading, writing); self-assessment of German language skills (speaking, understanding, reading, writing); further foreign language skills; predominantly household language; predominantly non-household language.
+3. Structural integration: duration of school attendance; last/current school attendance; school leaving certificate and country of education; vocational training: vocational education and training or studies; specialisation; country of the highest level of qualification; recognition of foreign vocational qualifications in Germany; retraining/further qualification in Germany; employment status in Germany; characteristics of employment relationships (limited duration, temporary employment); description of the content of the current occupation; level of qualification in employment; previous employment in Germany and the country of origin; desire for employment in Germany; income relationships.
+4. Taking advantage of language courses and counselling: participation in integration courses (literacy, other integration courses), vocational and other language courses; assessment of the benefits of the integration course visit; participation in language teaching and obtaining a certificate; visits to counselling centres (refugee and asylum counselling, migration counselling, youth migration service, other counselling centres); evaluation of the benefits of counselling.
+5. History of migration and asylum procedures: more than three months´ stay in other countries; country of residence; year of the first asylum application in Germany; reasons for filing the application for asylum in Germany; duration of the asylum procedure; action against negative decision of the Federal Office for Migration and Refugees; evaluation of duration, accommodation, contact with authorities in the asylum procedure.
+6. Intent to remain and satisfaction with life: intention to become naturalised; intent to remain in Germany; satisfaction with life in terms of professional situation, income, health, housing situation, family situation and social contacts; greatest desire (open question).
+Sociodemography, origin, household and family situation: age; sex; current residence permit; household size and composition; type and number of rooms in the accommodation; country of birth; nationality; marital status; marital or permanent partner´s country of birth; nationality of the spouse or permanent partner; place of residence of the spouse or permanent partner; children of one´s own in general and in the household; childcare situation in the household or attendance of schools and vocational training institutions.
+Additionally coded was: respondent ID; language version of the questionnaire; questionnaire completed alone or with help; comments on the questionnaire; plausibility variables (school education, attendance of language courses, attendance of counselling centres and length of stay/residence permits); weighting factors.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Asylberechtigte (nach Art. 16a Grundgesetz) oder anerkannte Flüchtlinge (nach § 3 Abs. 1 Asylgesetz) mit der Staatsangehörigkeit Afghanistan, Eritrea, Irak, Iran, Sri Lanka oder Syrien, Alter ab 18 Jahren, Statuszuerkennung zwischen 2008 und 2012, am 30. Juni 2013 verzeichnet im Ausländerzentralregister mit Aufenthaltserlaubnis nach § 25 Abs. 1 oder 2 Aufenthaltsgesetz oder Niederlassungserlaubnis nach § 26 Abs. 3 Aufenthaltsgesetz.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Asylum seekers (according to Article 16a of the Basic Law) or recognised refugees (according to Article 3, paragraph 1 of the Asylum Act) with nationality Afghanistan, Eritrea, Iraq, Iran, Sri Lanka or Syria, age from 18 years of age, recognition of status between 2008 and 2012, on 30 January 2012. In the foreigners´ central register with residence permit according to § 25, section 1 or 2 of the Residence Act or residence permit according to § 26, section 3 of the Residence Act.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Disproportional geschichtete Zufallsauswahl
+
+Zunächst Ziehung aus dem Ausländerzentralregister (AZR) nach den o.g. Merkmalen. Ausschluss von Zielpersonen im Zuständigkeitsbereich von 226 Ausländerbehörden, bei denen insgesamt weniger als 20 Zielpersonen und keine Zielpersonen der Nationalitäten Eritrea und Sri Lanka verzeichnet waren (vgl. Worbs/Bund/Böhm 2016: S. 43f.). Anschließend disproportional nach Herkunftsländern geschichtete Zufallsstichprobe von Zielpersonen und Adressermittlung über die zuständigen Ausländerbehörden</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample: Stratified Sample: Disproportional</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2014-07-04</date>
+				</startDate>
+				<endDate>
+					<date>2014-09-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Bundesamt für Migration und Flüchtlinge, Nürnberg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Susanne</firstName>
+				<middleName/>
+				<lastName>Worbs</lastName>
+				<contributorType>Other</contributorType>
+				<affiliation>
+					<affiliationName>Bundesamt für Migration und Flüchtlinge, Nürnberg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Selbstausfüller: Papier
+
+Fragebogen in Deutsch und sieben weiteren Sprachen vorliegend.</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Self-administered questionnaire: Paper
+
+Questionnaire available in German and seven other languages.</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>214</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Worbs, Susanne: 
+Asylberechtigte und anerkannte Flüchtlinge: Soziodemografie, berufliche Qualifikation und Erwerbsbeteiligung und Deutschland.
+In: Pfeffer-Hoffmann, Christian (Hg.): Profile der Neueinwanderung 2016. Analysen zum Wandel der Flucht- und Arbeitsmigration nach Deutschland, 
+Berlin: Mensch und Buch Verlag, 2016, S. 41-53</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Worbs, Susanne; Baraulina, Tatjana (2017): 
+Geflüchtete Frauen in Deutschland: Sprache, Bildung und Arbeitsmarkt. 
+Ausgabe 01/2017 der Kurzanalysen des Forschungszentrums Migration, Integration und Asyl des Bundesamtes für Migration und Flüchtlinge, Nürnberg, Online: http://www.bamf.de/SharedDocs/Anlagen/DE/Publikationen/Kurzanalysen/kurzanalyse7\_gefluchetete-frauen.pdf?\_\_blob=publicationFile</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Worbs, Susanne: 
+Asylberechtigte und anerkannte Flüchtlinge in Deutschland: Was sie mitbringen, wo und wie sie leben, in: Informationen zur Raumentwicklung, Heft 2/2017 Flüchtlinge – Zwischen Ankommen und Zusammenleben.
+Bonn: Bundesinstitut für Bau-, Stadt- und Raumforschung (BBSR), 2017, S. 32-43 </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Worbs, Susanne; Bund, Eva; Böhm, Axel: 
+Asyl – und dann? Die Lebenssituation von Asylberechtigten und anerkannten Flüchtlingen in Deutschland BAMF-Flüchtlingsstudie 2014.
+Nürnberg: Bundesamt für Migration und Flüchtlinge, Forschungsbericht 28, 2016</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Worbs, Susanne/Bund, Eva (2016): Asylberechtigte und anerkannte Flüchtlinge in Deutschland. Qualifikationsstruktur, Arbeitsmarktbeteiligung und Zukunftsorientierungen. Ausgabe 01/2016 der Kurzanalysen des Forschungszentrums Migration, Integration und Asyl des Bundesamtes für Migration und Flüchtlinge, Nürnberg, Online: http://www.bamf.de/SharedDocs/Anlagen/DE/Publikationen/Kurzanalysen/kurzanalyse1_qualifikationsstruktur_asylberechtigte.pdf?__blob=publicationFile</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

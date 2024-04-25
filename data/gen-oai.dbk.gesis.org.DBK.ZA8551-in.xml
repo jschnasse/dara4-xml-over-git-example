@@ -1,0 +1,154 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Histat-Data-Compilation online: The German Emigration 1820 to 2010'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Histat-Datenkompilation online: Die deutsche Auswanderung 1820 bis 2010
+
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA8551</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Histat-Datenkompilation online: Die deutsche Auswanderung 1820 bis 2010
+
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Histat-Data-Compilation online: The German Emigration 1820 to 2010</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Jürgen</firstName>
+				<middleName/>
+				<lastName>Sensch</lastName>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA8551?doi=10.4232/1.11732</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11732</doiProposal>
+	<publicationDate>
+		<date>2013-07-09</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA8551</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT76</identifier>
+					<!-- Daten Historischer Studien -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Mit der vorliegenden Datenkompilation werden ausgewählte Forschungsergebnisse zur deutschen Auswanderung anhand von Auswanderungsstatistiken dargestellt. Eine erste zusammenfassende Darstellung der deutschen Auswanderung des 19. Jahrhunderts legte Wilhelm Mönckmeier (1912) vor. Seine Untersuchung stützte sich auf die amerikanische Einwanderungsstatistik und auf die seit 1847 mit Angabe des Wanderungszieles vorliegenden Zahlen der über Hamburg und Bremen Ausgewanderten. Diese Quellen bildeten bereits die Grundlage für die im Jahr 1873 in dem zweiten Band der Statistik des Deutschen Reiches vorgenommene Berechnung der deutschen Auswandererzahlen. Wilhelm Mönchmeier hat in seiner Untersuchung weitgehend diese Zahlen übernommen; in einer Folgestudie von Friedrich Burgdörfer (1930) wurden diese Angaben weiter verbessert. Die Verbesserung ist durch die nachträgliche Richtigstellung der Zielangaben der über Hamburg und Bremen Ausgewanderten notwendig geworden. Sowohl Mönckmeier als auch Burgdörfer haben für ihre Berechnungen einen konstanten Anteil der Auswanderung nach den Vereinigten Staaten an der Gesamtauswanderung von 85% bzw. 90% für die Zeit bis 1847 angenommen. Eine Statistik der überseeischen Wanderungen (d.h. der Aus- und Einwanderungen über Seehäfen) wurde 1871 eingeführt. Sie basierte auf den Verzeichnissen der Einschiffungshäfen. Als deutsche Einschiffungshäfen kamen Ende des 19. Jahrhunderts nur noch Hamburg und Bremen in Betracht; ergänzend wurde auch in gewissem Umfang die Auswanderung deutscher über fremde Häfen erfasst (insbesondere über holländische belgische und englische Häfen). Die deutsche Statistik zählt als Auswanderer bis 1924 alle Personen, die im Zwischendeck oder der dritten Schiffsklasse befördert wurden, sowie alle diejenigen Personen anderer Klassen, die eindeutig als Auswanderer zu erkennen waren. Ab 1924 musste jeder Reisende ohne Rücksicht auf die benutzte Schiffsklasse als Auswanderer oder Nichtauswanderer bezeichnet werden. Die deutschen Statistiken, insbesondere die Reichsstatistikern, bieten zuverlässiges, umfangreiches und detailliertes Material, das Auskunft über die Auswanderungsbewegung hinsichtlich Ausmaß, Zielrichtung und Zusammensetzung der deutschen Überseeauswanderung. Nach dem Ersten Weltkrieg lebte in der Weimarer Zeit die Auswanderung wieder auf und nahm teilweise beträchtliche Ausmaße an. Eine detaillierte Analyse der deutschen Überseeauswanderung in der Weimarer Zeit legte Hartmut Bickelmann (1980) vor. Die deutsche Auswanderungsstatistik war auch in der Weimarer Zeit eine reine Hafenstatistik und konnte daher nur die Überseeauswanderung erfassen. Soweit sich der Umfang der Überlandwanderung abschätzen lässt, ist sie sie allerdings im Vergleich zu der Zeit vor dem Ersten Weltkrieg gestiegen, doch blieb sie immer noch weit hinter der Überseeauswanderung zurück. Die fehlenden Angaben über die Auswanderung über fremde Häfen fallen wenig ins Gewicht, da – außer in den ersten Jahren nach dem Ersten Weltkrieg – die deutsche Auswanderung über diese Häfen im Vergleich zur Vorkriegszeit gering war. Die Statistik der Überseeauswanderung birgt noch eine weitere Unsicherheit: die Diskrepanzen zwischen der deutschen Auswanderungsstatistik und den Einwanderungsstatistiken der Zielländer. Diese lassen sich hauptsächlich durch unterschiedliche Erhebungsmethoden und voneinander abweichende Definitionen der Begriffe „Auswanderer“ beziehungsweise „Einwanderer“ erklären. Eine umfassende Datensammlung zur internationalen Migration legte Walter F. Willcox im Jahr 1929 vor; das Kapitel über die Auswanderung aus Deutschland ist in der vorliegenden Datensammlung in Auszügen berücksichtigt. Für die Zeit nach 1950 wird die Gesamtwanderung dargestellt. Die Zahlen über die Wanderungen über die Grenzen des Bundesgebietes enthalten nicht nur Angaben über die Wanderungen aus dem bzw. nach dem Ausland, sondern auch über die Wanderungsbewegung zwischen der Bundesrepublik und der ehemaligen DDR und Berlin (Ost) sowie den früheren Ostgebieten des Deutschen Reiches. 
+Datentabellen in HISTAT:Die Datentabellen sind nach folgenden Abschnitten gegliedert:A. Die deutsche überseeische Auswanderung 1820 bis 1910 nach Wilhelm Mönckmeier B. Die deutsche überseeische Auswanderung 1820 bis 1870 nach Friedrich BurgdörferC. Deutsche Überseeauswanderung in der Weimarer Zeit nach Hartmut BickelmannD. Übersicht zu den (Forschungs-) Ergebnissen der deutschen Überseeauswanderung bis zum Jahre 1938E. Wanderungen über die Auslandsgrenzen Deutschlands nach Zielgebieten (1820 – 2010)F. Wanderungen zwischen dem Bundesgebiet und Berlin (Ost), der ehemaligen DDR und den Ostgebieten des Deutschen Reiches</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DQDE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>German Empire from 1820 to 1939; Federal Republic of Germany from 1949 to 2010.</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Deutsches Reich von 1820 bis 1939; Bundesrepublik Deutschland von 1946 bis 2010. </freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DXDE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>1820</year>
+				</startDate>
+				<endDate>
+					<year>2010</year>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Daten der amtlichen Statistik. Wissenschaftliche Einzelveröffentlichungen.</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>446</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Keine (Online-Publikation)</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

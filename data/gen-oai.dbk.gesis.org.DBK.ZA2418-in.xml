@@ -1,0 +1,189 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Attitudes to Jews and other Minorities 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Einstellungen gegenüber Juden und anderen Minderheiten
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA2418</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Einstellungen gegenüber Juden und anderen Minderheiten
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Attitudes to Jews and other Minorities 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>The American Jewish Committee, New York</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2418?doi=10.4232/1.2418</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.2418</doiProposal>
+	<publicationDate>
+		<year>1994</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2418</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Politische Ideologie</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Cultural and national identity</term>
+					<term>Political ideology</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellung zu Juden und anderen Minderheiten.
+Themen: Einstellung zu Westdeutschen/Ostdeutschen, Zigeunern, Arabern,Vietnamesen, Türken, Polen, Afrikanern und Juden als Nachbarn;provokantes Verhalten dieser Bevölkerungsgruppen; Beurteilung desSchutzes der Ausländer durch die Behörden; Beurteilung des Einflussesvon Großunternehmen, Gewerkschaften, Medien, Banken, Amerikanern,Japanern, Kirchen und Juden auf die Gesellschaft; Einschätzung desAntisemitismus in Deutschland und erwartete Entwicklung in den nächstenJahren; Einstellung zu einem jüdischen Bundespräsidentenkandidat;Beurteilung des Einflusses der Juden auf die Weltgeschehnisse; Bedeutungdes Begriffs Holocaust sowie Auschwitz, Dachau, Treblinka; Auschwitz alsLüge oder Wahrheit; Kenntnis der Zahl der im Holocaust getöteten Judensowie der durch die Nazis verfolgten Bevölkerungsgruppen; Kenntnis desJudensterns; Einstellung zu einer Holocaust-Gedenkstätte; Wichtigkeitdes Wissens über die nationalsozialistische Judenverfolgung für dieDeutschen; empfundenes Ausnutzen des Holocaust für eigene Absichten derJuden; Einstellung zum Setzen eines Schlußstrichs unter dieVergangenheit der Judenverfolgung; Konfession; Parteipräferenz(Sonntagsfrage); Politikinteresse; Gewerkschaftsmitgliedschaft;Wahlverhalten bei der letzten Bundestagswahl.
+Demographie: Alter; Geschlecht; Familienstand; Kinderzahl; Alter derKinder (klassiert); Schulbildung; Beruf; Berufstätigkeit; Einkommen;Haushaltseinkommen; Einkommensbezieher im Haushalt; Haushaltsgröße;Haushaltszusammensetzung; Befragter ist Haushaltsvorstand;Charakteristika des Haushaltsvorstands; Ost-West; Ortsgröße; Bundesland.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Attitude to Jews and other minorities. Topics: Attitude to WestGermans/East Germans, gipsies, Arabs, Vietnamese, Turks, Poles,Africans and Jews as neighbors; provocative behavior by thesepopulation groups; judgement on protection of foreigners byauthorities; judgement on the influence of large concerns, tradeunions, media, banks, Americans, Japanese, churches and Jews onsociety; assessment of antisemitism in Germany and expected developmentin the next few years; attitude to a Jewish candidate for FederalPresident; judgement on the influence of Jews on world events;significance of the term Holocaust as well as Auschwitz, Dachau,Treblinka; Auschwitz as lie or truth; knowledge about the number ofJews killed in the Holocaust as well as population groups persecuted bythe Nazis; knowledge about the star of David; attitude to a HolocaustMemorial; importance of knowledge about National Socialist perscutionof Jews for Germans; perceived exploitation of the Holocaust forpersonal intents by Jews; attitude to considering finished the topic ofpersecution of Jews in the past; religious denomination; partypreference; interest in politics; union membership; behavior at thepolls in the last Federal Parliament election. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutsche Staatsangehörige über 18 Jahren </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German citizens over 18 years 
+</sampled>
+		</universe>
+	</universes>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1994-01</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>EMNID, Bielefeld 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>91</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Der vorliegende Datensatz ist Teil einer Mehrthemen-Erhebung.
+Bei den ersten beiden Fragen wurde in Ostdeutschland nach der
+Einstellung zu Westdeutschen gefragt und umgekehrt.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The current data set is part of an omnibus survey. For the first two 
+questions in Eastern Germany the question was posed regarding the 
+attitude to West Germans and vice versa. 
+</text>
+		</note>
+	</notes>
+</resource>

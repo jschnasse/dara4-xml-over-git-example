@@ -1,0 +1,327 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Saxonian longitudinal study - wave 32, 2021'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Sächsische Längsschnittstudie - Welle 32, 2021'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7841</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Sächsische Längsschnittstudie - Welle 32, 2021</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Saxonian longitudinal study - wave 32, 2021</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Peter</firstName>
+				<middleName/>
+				<lastName>Förster</lastName>
+				<affiliation>
+					<affiliationName>Forschungsstelle Sozialanalysen Leipzig</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Elmar</firstName>
+				<middleName/>
+				<lastName>Brähler</lastName>
+				<affiliation>
+					<affiliationName>Universitätsmedizin Mainz, Klinik und Poliklinik für Psychosomatische Medizin und Psychotherapie, Mainz</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Yve</firstName>
+				<middleName/>
+				<lastName>Stöbel-Richter</lastName>
+				<affiliation>
+					<affiliationName>Fakultät Management- und Kulturwissenschaften an der Hochschule Zittau/Görlitz, Görlitz</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Hendrik</firstName>
+				<middleName/>
+				<lastName>Berth</lastName>
+				<affiliation>
+					<affiliationName>Medizinische Psychologie und Medizinische Soziologie Universitätsklinikum Carl Gustav Carus an der Technischen Universität Dresden</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Markus</firstName>
+				<middleName/>
+				<lastName>Zenger</lastName>
+				<affiliation>
+					<affiliationName>Fachbereich Angewandte Humanwissenschaften an der Hochschule Magdeburg/Stendal</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7841?doi=10.4232/1.13875</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13875</doiProposal>
+	<publicationDate>
+		<date>2022-02-10</date>
+	</publicationDate>
+	<publicationPlace>Cologne, Germany</publicationPlace>
+	<publisher>
+		<institution>
+			<institutionName>GESIS</institutionName>
+		</institution>
+	</publisher>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7841</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT10</identifier>
+					<!-- Staat -->
+					<identifier>KAT13</identifier>
+					<!-- Politische Ideologie -->
+					<identifier>KAT14</identifier>
+					<!-- Politische Fragen (Issues) -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT37</identifier>
+					<!-- Arbeit und Betrieb -->
+					<identifier>KAT59</identifier>
+					<!-- Medizin -->
+					<identifier>KAT54</identifier>
+					<!-- Person, Persönlichkeit, Rolle -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Arbeitsbedingungen</term>
+					<term>Arbeitslosigkeit</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Politische Ideologie</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>PSYCHOLOGIE</term>
+					<term>Migration</term>
+					<term>Krankheitszeichen, Symptome und krankhafte Befunde</term>
+					<term>Allgemeine Gesundheit und Wohlbefinden</term>
+					<term>Kulturelle und nationale Identität</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Working conditions</term>
+					<term>Unemployment</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Political ideology</term>
+					<term>Government, political systems and organisations</term>
+					<term>PSYCHOLOGY</term>
+					<term>Migration</term>
+					<term>Signs and symptoms; pathological conditions</term>
+					<term>General health and well-being</term>
+					<term>Cultural and national identity</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Bei der Sächsischen Längsschnittstudie handelt es sich um eine sozialwissenschaftliche Längsschnittstudie. Sie wurde 1987 begonnen und untersucht über die Vereinigung der Deutschen Demokratischen Republik (DDR) und Bundesrepublik hinweg den politischen Einstellungswandel junger Erwachsener in den neuen Bundesländern. Seit der 16. Welle (2002) wird das Thema Arbeitslosigkeit und Gesundheit intensiv untersucht. Einen weiteren neuen Schwerpunkt stellen Fragen zu Partnerschaft und Persönlichkeit dar. Bei der vorliegenden Studie handelt es sich um die im Jahr 2021 durchgeführte 32. Welle.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>1. Politische Einstellungen, Leben in der DDR: Meinung zur Vereinigung von DDR und BRD; mehr Trennendes vs. mehr Gemeinsamkeiten zwischen Ostdeutschen und Westdeutschen; geschätzte Anzahl der Jahre bis zur Angleichung Ost/West, bis Ostdeutsche und Westdeutsche zu einer richtigen Gemeinschaft zusammengewachsen sind und bis das eigene Einkommen 100 % des Einkommens im Westen beträgt; Veränderungen in Ostdeutschland seit der Wende in folgenden Bereichen: soziale Sicherheit, Schutz gegen Kriminalität, Verhältnis der Menschen untereinander, Gleichberechtigung der Frau, Achtung der Menschenwürde, Schulbildung, Förderung der Familie, Betreuung der Kinder, soziale Gerechtigkeit, Moral der herrschenden Politiker, persönliche Freiheiten, demokratische Mitwirkung, Gesundheitswesen/ medizinische Betreuung, Möglichkeiten der Selbstentfaltung;  Gefühl der Bedrohung durch mögliche (erneute) eigene Arbeitslosigkeit bzw. (erneute) Arbeitslosigkeit des Partners/der Partnerin und der Kinder, Eintreten einer persönlichen Notlage, zunehmende Verteuerung des Lebens, eigenen sozialen Abstieg, Verschlechterung des Gesundheitszustands, Altersarmut, Folgen der Corona-Pandemie, zunehmende Einwanderung von Ausländern, Ausweitung des internationalen Terrorismus, militärische Aktionen der USA, Ausbreitung von Linksradikalismus, Zunahme von Kriminalität, Ausbreitung von Rechtsradikalismus, militärische Aktionen Russlands, Folgen des Klimawandels, Zunahme des islamischen Terrors in Deutschland, Zunahme von Aggressivität und Gewalt, Zunahme von Egoismus, Zunahme von Mobbing, Zunahme von Leistungsdruck, Zunahme von Drogen, Zunahme von Wut und Hass zwischen den Menschen, Verrohung der Gefühle, Ausbruch eines neuen Weltkriegs, zunehmende Verteuerung der Mieten); Zufriedenheit in verschiedenen Bereichen (politisches System in der Bundesrepublik Deutschland,  jetzige Wirtschaftsordnung, Demokratie, Sozialpolitik, Rentenpolitik, Familienpolitik, Lohnpolitik des Staates in Ostdeutschland, Arbeitsmarktpolitik, nach 30 Jahren erreichter Stand der deutschen Einheit, Angleichung der Lebensverhältnisse im Osten an den Westen); Zukunftszuversicht für den Befragten persönlich, für die Eltern, für eigene Kinder, für die Entwicklung in Ostdeutschland,für die Entwicklung in Deutschland insgesamt, für die Entwicklung beruflicher Pläne und für die Entwicklung der Zusammenarbeit in der EU; Zufriedenheit mit den Möglichkeiten zur politischen Einflussnahme, mit dem Einkommen, mit der gesellschaftlichen Entwicklung, mit dem eigenen Gesundheitszustand und mit den Chancen, es im Leben durch Leistung zu etwas zu bringen; überzeugt von einem bedingungslosen Grundeinkommen; Höhe eines angemessenen Grundeinkommens für eine volljährige Person (Euro); Links-Rechts-Selbsteinstufung; Parteipräferenz (Sonntagsfrage); Beurteilung des Lebens in der DDR; Bewertung der gesellschaftlichen Entwicklung in Ostdeutschland als Fortschritt oder Rückschritt; Freude, dass die Einheit Deutschlands hergestellt ist; Sozialismus als gute Idee, die bisher nur schlecht ausgeführt wurde; Befürwortung der Ziele der Patriotischen Europäer gegen die Islamisierung des Abendlandes (PEGIDA, LEGIDA); viele Westdeutsche behandeln Ostdeutsche als Deutsche zweiter Klasse; im jetzigen Gesellschaftssystem erhält jeder seinen gerechten Anteil am gesellschaftlichen Wohlstand; gesicherte Zukunft in Ostdeutschland; froh, die DDR noch erlebt zu haben; froh, dass es die DDR nicht mehr gibt; Es war nicht alles falsch, was wir über den Kapitalismus in der Schule gelernt haben; in der Zeit vor der Wende häufig Angst vor der Stasi; politisch enge Verbundenheit mit der Bundesrepublik Deutschland; Präferenz für einen reformierten, humanistischen Sozialismus anstelle der gegenwärtigen politischen Ordnung; Zurechtkommen mit den jetzigen gesellschaftlichen Verhältnissen; Zustimmung zu Aussagen: Ostdeutsche sollten wieder auf die Straße gehen, um auf die Situation im Osten aufmerksam zu machen; die DDR war ein Unrechtsstaat; froh, heute in einem kapitalistischen Deutschland zu leben; es war höchste Zeit, dass das SED-Regime beseitigt worden ist; Ziele der ´Friedlichen Revolution´ im Herbst 1989 sind heute verwirklicht; mit der ´Friedlichen Revolution´ im Herbst 1989 haben die Ostdeutschen die Freiheit errungen; der Kapitalismus ist das beste Wirtschaftssystem, das die Geschichte bisher hervorgebracht hat; am liebsten würde ich auswandern; Befürwortung der Vereinigung von DDR und BRD; Hoffnung, dass eigene Kinder im jetzigen System aufwachsen; USA gehen bei der Verbreitung von Freiheit und Demokratie mit gutem Beispiel voran; mit dem Zusammenbruch des Sozialismus hat der Kapitalismus für immer gesiegt; der 30. Jahrestag der deutschen Einheit am 3. Oktober 2020 ist ein Grund zum Feiern; die sozialistischen Gesellschaftsideale werden sich eines Tages durchsetzen; Hoffnung, dass das jetzige Gesellschaftssystem für immer erhalten bleibt; Einstellung zu Ausländern allgemein; Politikinteresse; Nationalstolz; Bewertung der persönlichen Erfahrungen mit dem neuen Gesellschaftssystem; im nationalen Interesse ist unter bestimmten Umständen eine Diktatur die bessere Staatsform; ohne Judenvernichtung würde man Hitler heute als großen Staatsmann ansehen; was Deutschland jetzt braucht, ist eine einzige starke Partei, die die Volksgemeinschaft verkörpert; wir sollten einen Führer haben, der Deutschland zum Wohle aller mit starker Hand regiert; wie in der Natur sollte sich in der Gesellschaft immer der Stärkere durchsetzen; die Ausländer kommen nur hierher, um unseren Sozialstaat auszunutzen; auch heute noch ist der Einfluss der Juden zu groß; wir sollten endlich wieder Mut zu einem starken Nationalgefühl haben; eigentlich sind die Deutschen anderen Völkern von Natur aus überlegen; wenn Arbeitsplätze knapp werden, sollte man die Ausländer wieder in ihre Heimat zurückschicken; die Verbrechen des Nationalsozialismus sind in der Geschichtsschreibung weit übertrieben worden; was unser Land heute braucht, ist ein hartes und energisches Durchsetzen deutscher Interessen; die Juden arbeiten mehr als andere Menschen mit üblen Trick, um das zu erreichen, was sie wollen; das oberste Ziel der deutschen Politik sollte es sein, Deutschland die Macht und Geltung zu verschaffen; es gibt wertvolles und unwertes Leben; die Bundesrepublik ist durch die vielen Ausländer in einem gefährlichen Maß überfremdet; die Juden haben einfach etwas Besonderes und Eigentümliches an sich und passen nicht so recht zu uns; der Nationalsozialismus hatte auch seine guten Seiten; Vertrauen in Parteien und Institutionenvertrauen (SPD, CDU/CSU, Bündnis90/Die Grünen, Die Linke, FDP, AfD, jetzige Bundesregierung, jetziges Gesellschaftssystem); Partei, von der sich der Befragte am besten vertreten fühlt; Identität als Deutsche(r), als Sachse/ Sächsin, als Europäer(in), als Bürger(in) der ehemaligen DDR, als Bürger(in) der Bundesrepublik, als Ostdeutsche(r), als Bürger(in) der Stadt/Gemeinde, als Gewinner(in) bzw. als Verlierer(in) der deutschen Einheit; Zustimmung zu Aussagen: Gegen Außenseiter und Nichtstuer sollte in der Gesellschaft mit aller Härte vorgegangen werden; Unruhestifter sollten deutlich zu spüren bekommen, dass sie in der Gesellschaft unerwünscht sind; gesellschaftliche Regeln sollten ohne Mitleid durchgesetzt werden; wir brauchen starke Führungspersonen damit wir in der Gesellschaft sicher leben können; Menschen sollten wichtige Entscheidungen in der Gesellschaft Führungspersonen überlassen; wir sollten dankbar sein für führende Köpfe, die uns genau sagen, was wir zu tun haben; Traditionen sollten unbedingt gepflegt und aufrechterhalten werden; bewährte Verhaltensweisen sollten nicht in Frage gestellt werden; es ist immer das Beste, Dinge in der üblichen Art und Weise zu machen; entscheidend in Freiheit zu leben vs. Freiheit nützt nichts, wenn keine Arbeit; eigene Erfahrung deckt sich mit der früheren Charakterisierung der Bundesrepublik als Ausbeuterstaat; retrospektive Einschätzung des Tempos der Wiedervereinigung in der ersten Untersuchung nach der Wende 1990; Bewertung des damaligen Tempos der Wiedervereinigung; als ehemaliger DDR-Bürger in der Bundesrepublik angekommen; positiv bewertete Aspekte der deutschen Einheit (offen); negativ bewertete Aspekte der deutschen Einheit (offen). 
+2. Arbeitslosigkeit: eigene Arbeitslosigkeit seit der Wende; Häufigkeit von Arbeitslosigkeit insgesamt; Gesamtdauer der Arbeitslosigkeit seit der Wende in Monaten; Monate der Arbeitslosigkeit seit März 2020; Monate der Arbeitslosigkeit jeweils in den Jahren 2011 bis 2020; Arbeitslosigkeit des Partners/ der Partnerin seit der Wende; Eltern des Befragten waren oder sind von Arbeitslosigkeit betroffen; Sicherheit des Arbeitsplatzes; Sorgen wegen des Arbeitsplatzes; Kurzarbeit wegen der Corona-Pandemie.
+3. Einstellungen zu Corona (COVID-19): Angst, sich mit dem Corona-Virus zu infizieren; wenig Kontrolle über eine Ansteckung mit dem Corona-Virus; Gefühl, dass ich eine Corona-Infektion nicht überleben würde; Gefühl, ich müsste wegen Corona aufgeben; Angst, andere mit Corona zu infizieren; meine Familie und Freunde haben Angst, dass sie sich bei mir mit Corona infizieren; die Bundesregierung hat im Umgang mit Corona richtig gehandelt; Corona bereitet mir Sorgen; ich bin mir sicher, dass wir Corona bewältigen können; angesichts von Corona erscheinen mir viele Dinge nicht mehr so wichtig; nach Corona wird sich unsere Welt verändern; Corona ist nicht viel schlimmer als die jährlich wiederkehrende Grippe; die tatsächlichen Hintergründe der Corona-Erkrankung werden nie ans Licht der Öffentlichkeit kommen; die Corona-Krise wurde so großgeredet, damit einige wenige von ihr profitieren können.
+4. Gesundheit: Depressionstendenzen: fühle mich oft niedergeschlagen und mutlos (seit Jahren vs. erst seit einigen Monaten); manchmal weiß ich nicht mehr, was der Sinn meines Lebens ist (seit Jahren vs. erst seit einigen Monaten); bin oft ratlos, verstehe die Welt nicht mehr (seit Jahren vs. erst seit einigen Monaten); Zukunftsangst (seit Jahren vs. erst seit einigen Monaten); Beschwerden in den letzten 12 Monaten (Magenschmerzen, Schlaflosigkeit, Herzbeschwerden); Bewertung des eigenen Gesundheitszustands; Meinung zur Beeinflussbarkeit des eigenen Gesundheitszustands; Suizidgedanken; Häufigkeit von Schlafproblemen in den letzten vier Wochen – Jenkins Sleep Scale (Schwierigkeiten einzuschlafen, an wie vielen Tagen nachts aufgewacht, an wie vielen Tagen aufgewacht und dann Schwierigkeiten wieder einzuschlafen, wie oft morgens erschöpft und müde gefühlt, obwohl nachts geschlafen); Schlafdauer in Stunden an einem normalen Werktag und am Wochenende; Lebenszufriedenheit. 
+5. Persönlichkeit: Skala Selbstwahrnehmung (erlebe mich manchmal wie eine fremde Person, wenn ich viel über mich nachdenke, gerate ich eher in Verwirrung, wenn man andere zu nahe an sich herankommen lässt, kann das gefährlich werden, ich kann mich anderen oft schwer verständlich machen, in mir herrscht oft ein solches Gefühlschaos, dass ich es gar nicht beschreiben kann, ich schätze manchmal falsch ein, wie mein Verhalten auf andere wirkt, wenn andere viel über mich wissen, fühle ich mich oft irgendwie kontrolliert oder beobachtet, meine Gefühle sind manchmal so intensiv, dass ich Angst bekomme, ich bin schon sehr verletzt worden, weil ich mich in einem Menschen getäuscht hatte, es fällt mir schwer, zu anderen Kontakt aufzunehmen, Ich habe kein gutes Selbstbewusstsein, wenn man Menschen zu sehr vertraut, kann man böse Überraschungen erleben); Wichtigkeit verschiedener Lebensbereiche (Freunde/ Bekannte, Freizeitgestaltung/ Hobbies, Gesundheit, Einkommen/ finanzielle Sicherheit, Beruf/ Arbeit, Wohnsituation, Familienleben/ Kinder, Partnerschaft/ Sexualität); Zufriedenheit mit den vorgenannten Lebensbereichen.
+Nur an Personen, die schon einmal oder gegenwärtig in den alten Bundesländern oder im Ausland leben bzw. gelebt haben:  Wohndauer im Westen/im Ausland in Jahren; Gründe für die Abwanderung in den Westen (Verdienst, Situation auf dem Arbeitsmarkt, bessere Arbeitsbedingungen, partnerbezogene Gründe, Wunsch etwas zu erleben, Wunsch andere Menschen kennenzulernen, Wunsch, eine andere Gegend kennenzulernen).Nur an Personen, die gegenwärtig in den alten Bundesländern oder im Ausland leben: beabsichtigte Rückkehr in den Osten; Zeitraum für die Rückkehr in den Osten; Herkunft des Partners (aus dem Westen, aus dem Ausland oder aus dem Osten); Identität als Bürger/in des Bundeslandes/ Landes; Umzug in den Westen/ ins Ausland bereut; Wohlfühlen am Wohnort; Akzeptanz von den Nachbarn, von Arbeitskollegen und von den Vorgesetzten; lebe in einer schönen Umgebung; neuen Freundeskreis geschaffen; Arbeit/ Tätigkeit macht Spaß; schönes Zuhause; könnte mir vorstellen, dass auch meine (künftigen Kinder hier leben werden; Trennung von den Eltern, von den Freunden im Osten und von der Heimat allgemein bereitet Probleme; Rat an alle arbeitslosen Jugendlichen im Osten, in den Westen zu gehen.Nur an Personen, die wieder in die neuen Bundesländer zurückgezogen sind: Gründe für die Rückkehr in den Osten (unzufrieden mit dem Arbeitsplatz im Westen/ Ausland, besseren Arbeitsplatz im Osten gefunden, unzufrieden mit dem Wohnort im Westen/ Ausland, wollte in meine gewohnte Umgebung zurückkehren, habe mich in meinem sozialen Umfeld im Westen/ Ausland nicht mehr wohlgefühlt, habe meine Familie und Freunde vermisst, andere familiäre Gründe, andere Gründe (offen)); vorstellbar, noch einmal in den Westen/ ins Ausland umzuziehen.
+Demographie: Geschlecht; Alter; städtische oder ländliche Wohnumgebung; derzeitiger Wohnsitz in Ostdeutschland, in Westdeutschland bzw. im Ausland; zeitweise im Westen bzw. im Ausland gelebt und in den Osten zurückgekehrt; Aufenthaltsdauer (Jahre) im Westen/ im Ausland; Anzahl der Umzüge zwischen Osten und Westen/ Ausland; berufliche Stellung; Tätigkeit in Vollzeit oder Teilzeit; Nebenjob; Familienstand; feste Partnerschaft; Beziehungsdauer mit dem/der jetzigen Partner/in; geschieden; Anzahl der Ehescheidungen; berufliche Stellung des Partners/ der Partnerin; persönliches Nettoeinkommen pro Monat (gruppiert); Haushaltsnettoeinkommen (gruppiert); Haushaltsgröße; Auskommen mit den persönlichen bzw. Familieneinkommen; eigene Kinder; Anzahl der Kinder; Anzahl der eigenen Kinder im Haushalt; Geschlecht und Alter dieser Kinder; Zufriedenheit mit der derzeitigen Lebenssituation. 
+Zusätzlich verkodet wurde: Befragten-ID; Interviewbereitschaft zu Themen der Studie; Honorarverzicht zugunsten der Studie; Art der Erhebung; Weltanschauung; DDR- und BRD-Identifikation; Arbeitslosigkeit gruppiert; Extremismus (Befürwortung rechtsautoritärer Diktatur, Chauvinismus, Ausländerfeindlichkeit, Sozialdarwinismus, Verharmlosung des Nationalsozialismus); FLZ komb. Allg. Teil: Freunde, Hobbies, Gesundheit, Einkommen, Beruf, Wohnsituation, Familienleben, Partnerschaft, Gesamtscore); D-Score; G-Score; Kurzskala Autoritarismus (Autoritäre Aggression, Autoritäre Unterwürfigkeit/Submission, Konventionalismus, Gesamtskala); OPD-12-Skala (Selbstwahrnehmung, Beziehungsmodell, Kontaktgestaltung, Summenscore); Jenkins Sleep Scale – Schlafprobleme.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The Saxonian longitudinal study is a social science longitudinal study. It was begun in 1987 and examines the change in political attitudes of young adults in the new federal states of the former East Germany. Since the 16th wave (2002), the topic of unemployment and health has been intensively studied. Another new focus is on questions of partnership and personality. The present study was conducted in 2021 and represents the 32st wave.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>1. Political attitudes, life in the GDR: opinion on the unification of GDR and FRG; more dividing vs. more similarities between East Germans and West Germans; estimated number of years until East/West alignment, until East Germans and West Germans have grown together into a real community and until one´s income is 100% of that in the West; changes in East Germany since reunification in the following areas: Social security, protection against crime, relationship between people, equal rights for women, respect for human dignity, school education, support for the family, care for children, social justice, morality of ruling politicians, personal freedoms, democratic participation, health care/medical care, opportunities for self-development; feeling threatened by possible (renewed) own unemployment or (renewed) unemployment of partner and children, occurrence of personal hardship, increasing cost of living, own social decline, deterioration of health, poverty in old age, consequences of the Corona pandemic, increasing immigration of foreigners, expansion of international terrorism, military actions of the USA, spread of left-wing radicalism, increase in crime, spread of right-wing radicalism, military actions by Russia, consequences of climate change, increase in Islamic terror in Germany, increase in aggressiveness and violence, increase in egoism, increase in mobbing, increase in pressure to perform, increase in drugs, increase in anger and hatred between people, brutalisation of emotions, outbreak of a new world war, increasing rise in rents); satisfaction in various areas (political system in the Federal Republic of Germany, current economic order, democracy, social policy, pension policy, family policy, wage policy of the state in East Germany, labour market policy, level of German unity reached after 30 years, alignment of living conditions in the East with the West); confidence in the future for the respondent personally, for parents, for own children, for the development in East Germany, for the development in Germany as a whole, for the development of professional plans and for the development of cooperation in the EU; satisfaction with the possibilities for political influence, with income, with social development, with one´s own state of health and with the chances of achieving something in life through performance; convinced of an unconditional basic income; amount of an adequate basic income for a person of full age (euros); left-right self-assessment; party preference (Sunday question); assessment of life in the GDR; assessment of social development in East Germany as progress or regression; joy that German unity has been achieved; socialism as a good idea that has so far been poorly executed; support for the aims of the Patriotic Europeans Against the Islamisation of the Occident (PEGIDA, LEGIDA); many West Germans treat East Germans as second-class Germans; in the current social system everyone receives their fair share of social prosperity; secure future in East Germany; glad to have lived through the GDR; glad that the GDR no longer exists; not everything we learned about capitalism at school was wrong; often afraid of the Stasi in the time before the fall of the Wall; politically close ties with the Federal Republic of Germany; preference for a reformed, humanistic socialism instead of the current political order; getting along with the current social conditions; agreement with statements: East Germans should take to the streets again to draw attention to the situation in the East; the GDR was a state of injustice; happy to live in a capitalist Germany today; it was high time that the SED regime was removed; goals of the ´Peaceful Revolution´ in autumn 1989 have been realised today; with the ´Peaceful Revolution´ in autumn 1989 East Germans won freedom; Capitalism is the best economic system that history has produced so far; I would like to emigrate; I support the unification of the GDR and the FRG; I hope that my own children will grow up in the present system; the USA is setting a good example in spreading freedom and democracy; with the collapse of socialism, capitalism has won forever; the 30th anniversary of German unification on 3. October 2020 is a cause for celebration; socialist ideals of society will one day prevail; hope that the present social system will be preserved forever; attitude to foreigners in general; interest in politics; national pride; evaluation of personal experiences with the new social system; in the national interest, a dictatorship is the better form of government under certain circumstances; without the extermination of Jews, Hitler would be regarded as a great statesman today; what Germany needs now is a single strong party that embodies the Volksgemeinschaft; we should have a leader who rules Germany with a strong hand for the good of all; as in nature, the strongest should always prevail in society; foreigners only come here to take advantage of our welfare state; even today, the influence of the Jews is too great; we should finally have the courage to have a strong national feeling again; actually, Germans are naturally superior to other peoples; when jobs become scarce, foreigners should be sent back to their homeland; the crimes of National Socialism have been greatly exaggerated in the writing of history; what our country needs today is a tough and energetic assertion of German interests; the Jews work more evil tricks than other people to achieve what they want; the supreme goal of German politics should be to give Germany power and prestige; there are valuable and unvaluable lives; the Federal Republic has been dangerously over-alienated by the many foreigners; the Jews simply have something special and peculiar about them and do not really fit in with us; National Socialism also had its good sides; trust in parties and trust in institutions (SPD, CDU/CSU, Bündnis90/Die Grünen, Die Linke, FDP, AfD, current federal government, current social system); party by which the respondent feels best represented; identity as a German, as a Saxon, as a European, as a citizen of the former GDR, as a citizen of the Federal Republic, as an East German, as a citizen of the city/municipality, as a winner or loser of German politics, as a citizen of the former GDR, as a citizen of the Federal Republic of Germany, as a citizen of the former East Germany, as a citizen of the city/municipality, as a citizen of the former GDR, as a citizen of the Federal Republic of Germany, as a citizen of the former GDR, as a citizen of the Federal Republic of Germany as a loser of German unity; agreement with statements: Society should deal harshly with outsiders and non-payers; troublemakers should be made to feel clearly that they are unwanted in society; social rules should be enforced without compassion; we need strong leaders so that we can live safely in society; people should leave important decisions in society to leaders; we should be grateful for leaders who tell us exactly what to do; traditions should be maintained and upheld at all costs; tried and tested behaviours should not be questioned; it is always best to do things in the usual way; crucial to live in freedom vs. freedom is of no use if there is no work; own experience coincides with earlier characterisation of the Federal Republic as an exploitative state; retrospective assessment of the pace of reunification in the first survey after the fall of the Berlin Wall in 1990; assessment of the pace of reunification at that time; arrived in the Federal Republic as a former GDR citizen; positively assessed aspects of German unification (open); negatively assessed aspects of German unification (open). 
+2. Unemployment: own unemployment since the fall of communism; frequency of unemployment overall; total duration of unemployment since the fall of communism in months; months of unemployment since March 2020; months of unemployment in each of the years 2011 to 2020; partner´s unemployment since the fall of communism; parents of the respondent were or are affected by unemployment; job security; worries about the job; short-time work due to the Corona pandemic.
+3. Attitudes towards Corona (COVID-19): fear of being infected with Corona virus; little control over being infected with Corona virus; feeling that I would not survive a Corona infection; feeling that I would have to give up because of Corona; fear of infecting others with Corona; my family and friends are afraid that they will contract Corona from me; the federal government has done the right thing in dealing with Corona; Corona worries me; I am sure that we can overcome Corona; in the face of Corona, many things no longer seem so important to me; after Corona, our world will change; Corona is not much worse than the annual flu; the real background to Corona will never come to light; the Corona crisis has been talked up so that a few can profit from it.
+4. Health: tendencies towards depression: often feel depressed and despondent (for years vs. only a few months); sometimes I no longer know what the meaning of my life is (for years vs. only a few months); am often at a loss, no longer understand the world (for years vs. only a few months); fear of the future (for years vs. only a few months); complaints in the last 12 months (stomach ache, insomnia, heart complaints); assessment of own state of health; opinion on whether own state of health can be influenced; suicidal thoughts (for years vs. only a few months). only since a few months); complaints in the last 12 months (stomach ache, insomnia, heart problems); assessment of own health status; opinion on the influenceability of own health status; suicidal thoughts; frequency of sleep problems in the last four weeks - Jenkins Sleep Scale (difficulty falling asleep, how many days woke up at night, how many days woke up and then had difficulty falling asleep again, how often felt exhausted and tired in the morning even though slept at night); sleep duration in hours on a normal working day and at weekends; life satisfaction. 
+5. Personality: Self-perception scale (sometimes experience myself as a stranger, when I think about myself a lot, I tend to get confused, letting others get too close can be dangerous, I often find it difficult to make myself understood to others, there is often such emotional chaos inside me that I cannot describe it at all, I sometimes misjudge how my behaviour affects others, when others know a lot about me, I often feel somehow controlled or observed, my feelings are sometimes so intense that I get scared, I have already been hurt a lot because I was wrong about a person, I find it difficult to make contact with others, I don´t have good self-confidence, if you trust people too much, you can get nasty surprises); importance of different areas of life (friends/acquaintances, leisure activities/hobbies, health, income/financial security, job/work, housing situation, family life/children, partnership/sexuality); satisfaction with the aforementioned areas of life.Only to persons who have lived or are currently living in the old federal states or abroad: Length of residence in the West/abroad in years; reasons for moving to the West (earnings, situation on the labour market, better working conditions, partner-related reasons, desire to experience something, desire to meet other people, desire to get to know another area).
+Only to persons currently living in the old federal states or abroad: Intended return to the East; time period for return to the East; origin of partner (from the West, from abroad or from the East); identity as a citizen of the state/country; regretted moving to the West/abroad; feeling comfortable in the place of residence; acceptance by neighbours, by work colleagues and by superiors; live in a nice environment; created new circle of friends; work/activity is fun; nice home; could imagine that my (future) children will also live here; separation from parents, from friends in the East and from home in general causes problems; advice to all unemployed young people in the East to go to the West.Only to persons who have moved back to the new federal states: Reasons for returning to the East (dissatisfied with job in the West/abroad, found better job in the East, dissatisfied with place of residence in the West/abroad, wanted to return to my familiar surroundings, no longer felt comfortable in my social environment in the West/abroad, missed my family and friends, other family reasons, other reasons (open)); conceivable to move to the West/abroad again.
+Demography: sex; age; urban or rural living environment; current residence in East Germany, in West Germany or abroad; temporarily lived in the West or abroad and returned to the East; length of stay (years) in the West/abroad; number of moves between East and West/abroad; occupational status; full-time or part-time job; part-time job; marital status; stable partnership; length of relationship with current partner; divorced; number of divorces; occupational status of partner; net personal income per month (grouped); net household income (grouped); household size; getting by on personal/family income; own children; number of children; number of children living in household; sex and age of these children; satisfaction with the current living situation. 
+Additionally coded were: Respondent ID; willingness to be interviewed on topics of the study; waiver of fee in favour of the study; type of survey; world view; GDR and FRG identification; unemployment grouped; extremism (advocacy of right-wing authoritarian dictatorship, chauvinism, xenophobia, Social Darwinism, trivialisation of National Socialism); FLZ comb. general part: friends, hobbies, health, income, occupation, housing situation, family life, partnership, total score); D-Score; G-Score; Short Scale Authoritarianism (authoritarian aggression, authoritarian submissiveness/submission, conventionalism, total scale); OPD-12 Scale (self-perception, relationship model, contact design, total score); Jenkins Sleep Scale - sleep problems.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SN-LEJ</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SN-CHE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alle Schülerinnen und Schüler, die in der ersten Erhebungswelle (1987) (ZA6213) die Jahrgangsstufe 8 einer polytechnischen Oberschule (POS) aus den damaligen Bezirken Leipzig und Karl-Marx-Stadt der DDR besucht haben (Geburtsjahrgänge 1972/1973). Die Auswahlgesamtheit für die Wiederholungsbefragung bilden alle Befragten der Ausgangserhebung, die sich bereit erklärt haben auch an zukünftigen Umfragen teilzunehmen.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>All pupils who attended grade 8 of a polytechnic secondary school (POS) in the first survey wave (1987) (ZA6213) from the former districts of Leipzig and Karl-Marx-Stadt in the GDR (birth cohorts 1972/1973). The sample population for the follow-up survey consists of all respondents of the initial survey who have agreed to participate in future surveys.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2021-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2021-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Panel</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Forschungsstelle Sozialanalysen Leipzig
+Universitätsklinikum Carl Gustav Carus der Technischen Universität Dresden</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.WebBased</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.Paper</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>321</numberUnits>
+			<numberVariables>345</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Erhebungseinheit: Schüler; Jugendliche###
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Survey unit: Students; Teenagers###</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Berth, Hendrik; Förster, Peter; Brähler, Elmar; Stöbel-Richter, Ive (2007):
+Einheitslust und Einheitsfrust : Junge Ostdeutsche auf dem  Weg vom DDR- zum  Bundesbürger. Eine sozialwissenschaftliche Langzeitstudie von 1987–2006. 
+Gießen: Psychosozial-Verlag </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Berth, Hendrik; Brähler, Elmar; Zenger, Markus; Stöbel-Richter, Ive (Hg.) (2012):
+Innenansichten der Transformation : 25 Jahre Sächsische Längsschnittstudie (1987–2012). 
+Gießen: Psychosozial-Verlag</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Berth, Hendrik; Brähler, Elmar; Zenger, Markus; Stöbel-Richter, Ive (Hg.) (2015):
+Gesichter der ostdeutschen Transformation : Die Teilnehmerinnen und Teilnehmer der Sächsischen Längsschnittstudie im Porträt. 
+Gießen: Psychosozial-Verlag</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Berth, Hendrik; Brähler, Elmar; Zenger, Markus; Stöbel-Richter, Ive (Hg.) (2020):
+30 Jahre ostdeutsche Transformation : Sozialwissenschaftliche Ergebnisse und Perspektiven der Sächsischen Längsschnittstudie.
+Gießen: Psychosozial-Verlag
+</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

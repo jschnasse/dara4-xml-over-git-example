@@ -1,0 +1,315 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Politbarometer East 2004 (Cumulated Data Set, incl. Flash)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Politbarometer Ost 2004 (Kumulierter Datensatz, inkl. Kurzbarometer)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch; Text</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric; Text</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA4223</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Politbarometer Ost 2004 (Kumulierter Datensatz, inkl. Kurzbarometer)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Politbarometer East 2004 (Cumulated Data Set, incl. Flash)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Manfred</firstName>
+				<middleName/>
+				<lastName>Berger</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Matthias</firstName>
+				<middleName/>
+				<lastName>Jung</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Andrea</firstName>
+				<middleName/>
+				<lastName>Wolf</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4223?doi=10.4232/1.4223</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4223</doiProposal>
+	<publicationDate>
+		<year>2005</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4223</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Vorschulerziehung und Bildung in der Pflichtschulzeit</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Medizinische Behandlung und Medikation</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Sozialsysteme und Strukturen der Sozialfürsorge</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Wirtschaftspolitik, öffentliche Ausgaben und Einnahmen</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Compulsory and pre-school education</term>
+					<term>Cultural and national identity</term>
+					<term>Medication and treatment</term>
+					<term>International politics and organisations</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Social welfare systems/structures</term>
+					<term>Economic conditions and indicators</term>
+					<term>Economic policy,  public expenditure and revenue</term>
+					<term>Economic systems and development</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Politbarometer werden seit 1977 etwa monatlich von der Forschungsgruppe Wahlen für das Zweite Deutsche Fernsehen (ZDF) durchgeführt. Seit 1990 steht diese Datenbasis auch für die neuen Bundesländer zur Verfügung. Im Zentrum der Untersuchung stehen die Meinungen und Einstellungen der wahlberechtigten Bevölkerung in der Bundesrepublik zu aktuellen politischen Themen, Parteien und Politikern sowie dem Wahlverhalten. 1990 bis 1995 und ab 1999 wurden die Politbarometer-Umfragen in den neuen und alten Bundesländern getrennt durchgeführt (Politbarometer Ost bzw. Politbarometer West). Die monatlichen Einzelumfragen eines Jahres werden in einen kumulierten Datensatz integriert, der alle Erhebungen eines Jahres und alle Variablen des jeweiligen Jahrganges umfasst. Ab 2003 sind die Politbarometer-Kurzbefragungen, die unterschiedlich häufig im Jahr erhoben werden, in die Jahreskumulation integriert.  
+</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>1. Folgende Themen wurden zu jedem Erhebungszeitpunktwiederholt identisch gefragt: Wichtigste politische Probleme inDeutschland; Wahlbeteiligungsabsicht; Parteipräferenz (Sonntagsfrage,Rangordnung); Wahlverhalten bei der letzten Bundestagswahl;Koalitionspräferenz; Sympathie-Skalometer für die SPD, CDU, CSU, FDP,die Grünen und die PDS; Zufriedenheit mit den Leistungen derBundesregierung aus SPD und den Grünen sowie mit den einzelnenRegierungsparteien SPD und Grüne als auch mit den Leistungen derCDU/CSU und der FDP in der Opposition (Skalometer);Sympathie-Skalometer für ausgewählte Spitzenpolitiker (WolfgangClement, Joschka Fischer, Angela Merkel, Friedrich Merz, GerhardSchröder, Edmund Stoiber und Guido Westerwelle); Beurteilung derderzeitigen wirtschaftlichen Lage in Deutschland; kompetenteste Parteizur Lösung der derzeitigen wirtschaftlichen Probleme; Beurteilung derderzeitigen und zukünftigen eigenen wirtschaftlichen Lage; Beurteilungeines Aufwärtstrends in der deutschen Wirtschaft (Konjunkturerwartung);kompetenteste Partei zur Schaffung von Arbeitsplätzen;Selbsteinschätzung auf einem Links-Rechts-Kontinuum.
+2. Mindestens in einem oder in mehreren Befragungsmonaten wurdegefragt: Beurteilung einer großen Koalition von CDU/CSU und SPD, einerKoalition von SPD und den Grünen, einer Koalition von CDU/CSU und FDPsowie einer Koalition von CDU/CSU und den Grünen; Beurteilung einerLandesregierung aus CDU/CSU und den Grünen bei den kommendenLandtagswahlen; derzeit wichtigste Politiker bzw. Politikerinnen inDeutschland; Sympathie-Skalometer für ausgewählte Spitzenpolitiker(zusätzlich zu den oben genannten, erweitert um: Hans Eichel, RolandKoch, Horst Köhler, Renate Künast, Oskar Lafontaine, Franz Müntefering,Johannes Rau, Ulla Schmidt, Otto Schily, Wolfgang Gerhardt, KlausKinkel, Annette Schavan, Wolfgang Schäuble, Klaus Töpfer und George W.Bush); Zerstrittenheit innerhalb der SPD, CDU, CSU, CDU/CSU, derGrünen, der FDP und der PDS sowie innerhalb der CDU/CSU;Kanzlerkandidat der CDU/CSU mit den größten Chancen auf einen Wahlsieg;Einschätzung des geeignetsten Zeitpunkts für die Entscheidung derKanzlerkandidatenfrage bei der CDU/CSU; einflussreichste Person in derCDU: Angela Merkel oder Edmund Stoiber; Einschätzung einer Stärkungoder Schwächung von Angela Merkel auf dem Parteitag der CDU;Schwierigkeiten von Angela Merkel als Frau in der CDU/CSU; Auswirkungendes Rücktritts von Horst Seehofer auf die CDU/CSU; Zuordnung derEigenschaften ´fortschrittlich´, ´demokratisch´, ´sozial´, ´liberal´und ´modern´ zu den großen Parteien; Demokratiezufriedenheit; Stärkedes Politikinteresses; richtige Leute in den führenden Positionen(allgemein, in der Politik und in der Wirtschaft); Zustand derGesellschaft in Deutschland und im Vergleich zu westeuropäischenNachbarn; Einschätzung der Konfliktstärke in Deutschland zwischen Armund Reich, Arbeitgebern und Arbeitnehmern, Jung und Alt, Ausländern undDeutschen, Ostdeutschen und Westdeutschen sowie Frauen und Männern;Einstellung zum Rücktritt von Gerhard Schröder alsSPD-Parteivorsitzender; Beurteilung von Franz Müntefering alsNachfolger für den SPD-Parteivorsitz; Vertrauen in Gerhard Schröder undFranz Müntefering als Retter aus der SPD-Krise; Einschätzung derEntwicklung der Reformpolitik von Bundeskanzler Schröder; vermuteteVerlangsamung des Reformtempos der SPD nach dem Wechsel in derParteispitze; Richtigkeit und Ausreichen der bisherigen Reformen;persönliche Bedeutung von Hartz IV; ausreichende Informiertheit überHartz IV; Beurteilung des Arbeitslosengeldes II und der Kürzungen fürLangzeitarbeitslose; Einschätzung des Erfolgs der Reformen bei derSchaffung von mehr Arbeitsplätzen; Einstellung zuMontags-Demonstrationen gegen Hartz IV; Motive fürMontags-Demonstrationen im Osten Deutschlands (gegen Hartz IV oderwirtschaftliche Probleme); Bundesregierung, Unternehmen oderWeltwirtschaftslage als Ursache für die Arbeitslosigkeit inDeutschland; Einschätzung der Lösbarkeit des Arbeitslosenproblems inden nächsten Jahren; Einstellung zur Unterstützung von Unternehmen inwirtschaftlichen Schwierigkeiten durch den Staat; geeignete Maßnahmenzur Sicherung von Arbeitsplätzen (Arbeitszeitverlängerung,Lohnverzicht, Arbeitszeitverkürzung oder Lockerung desKündigungsschutzes); persönliche Bereitschaft zurArbeitszeitverlängerung ohne Lohnausgleich, zu Lohnverzicht beigleicher Arbeitszeit, zur Arbeitszeitverkürzung mit entsprechendweniger Lohn und zur Lockerung des Kündigungsschutzes; Reformen selbstoder Umsetzung der Reformen als Grund für hohe Verluste der SPD bei derEuropawahl; Einstellung zum Festhalten am Reformkurs durch GerhardSchröder; erwarteter Gewinner beim Reformenstreit: BundeskanzlerSchröder oder Reformgegner; Einstellung zu einer Kabinettsumbildungdurch Bundeskanzler Schröder; präferierte Maßnahmen des Staates zurSenkung des Haushaltsdefizits: Steuererhöhungen, Ausgabenkürzungen oderzusätzliche Schulden; Einstellung zum geplanten Verkauf vonStaatsvermögen durch die Bundesregierung zur Senkung desHaushaltsdefizits; Einschätzung des Bestands der Regierungskoalitionaus SPD und Grünen bis zur nächsten Bundestagswahl 2006 sowie vonGerhard Schröder als Bundeskanzler; Beurteilung des Zustands dersozialen Sicherungssysteme in Deutschland; Beurteilung derUnterstützung von Schröder durch die SPD, von Merkel durch die CDU, vonStoiber durch die CSU sowie von Westerwelle durch die FDP; Einschätzungder benötigten Dauer für die Angleichung der Verhältnisse zwischen Ostund West; kompetenteste Partei in der Familienpolitik, zur Angleichungder Lebensverhältnisse im Osten und Westen, bei der Gesundheitspolitik,Bildungspolitik und Steuerpolitik, bei der Lösung der Finanzproblemeund der Reform der sozialen Sicherungssysteme; Kriminalitätsfurcht;Einstellung zu einer Kürzung der Entfernungspauschale und zur geplantenStreichung der Eigenheimzulage; Einstellung zu Kürzungen bei derArbeitslosenunterstützung, bei der Sozialhilfe, bei denArbeitsbeschaffungsmaßnahmen der Arbeitsämter sowie bei denSteinkohle-Subventionen; ausreichende Gesundheitsreformen; Einstellungzur Vereinheitlichung der Beiträge zur gesetzlichen Krankenversicherung(Bürgerversicherung); präferierte staatliche Maßnahmen zur Erhöhung derGeburtenrate: Erhöhung des Kindergeldes, mehr Teilzeitarbeitsplätzeoder Einrichtungen mit Ganztagsbetreuung für Kinder; Beurteilung desSteuermittelumfangs für den ´Aufbau Ost´ und des sinnvollen Einsatzesdieser Steuermittel (Solidaritätsbeitrag); Vergleich des derzeitigenLebensstandards mit dem in der DDR vor der Wende; Unzufriedenheit imOsten aufgrund der Reformmaßnahmen um Hartz IV oder aufgrund derallgemeinen wirtschaftlichen Probleme in Ostdeutschland; Zufriedenheitmit den Schulen in Deutschland; Wichtigkeit der PISA-Studie;Hauptverantwortlicher für schlechtes Abschneiden deutscher Schüler beider PISA-Studie; Einstellung zur Einführung von Ganztagsschulen und zueiner Verlängerung der Grundschulzeit sowie zur vorgeschlagenenVorschulerziehung im Kindergarten; Beurteilung der Einigung in derSteuerreform; Steuerreform als wirksamer Beitrag zur Ankurbelung derWirtschaft; persönliche Entlastung durch die Steuerreform; Einstellungzur vorgeschlagenen Senkung der Steuersätze bei gleichzeitigem Wegfallvon Steuervergünstigungen; Präferenz für eine weitere Vereinfachung desSteuergesetzes oder für weitere Steuersenkung; persönlicheInformiertheit über Gesundheitsreform; Arztbesuch und Zahlung einerPraxisgebühr; Präferenz für eine Erhöhung derKrankenversicherungsbeiträge anstelle der Praxisgebühr oder Präferenzfür höhere Zuzahlungen; gesetzlich oder privat versichert; Einstellungzur geplanten strafrechtlichen Verfolgung von Schwarzarbeit inPrivathaushalten; Einstellung zur Einführung von Eliteuniversitäten inDeutschland; Befürwortung einer Vertragskündigung von Toll-Collectdurch das Verkehrsministerium; Beurteilung der Kompetenz vonVerkehrsminister Manfred Stolpe; Präferenz für die Festlegung derArbeitszeit durch Vereinbarung zwischen Gewerkschaften und Verbänden(Flächentarifvertrag) oder Betriebsrat und Unternehmen; Einstellung zueiner Verlängerung der Arbeitszeit ohne vollen Lohnausgleich ineinzelnen Unternehmen und zu einer Ausbildungsplatzabgabe für Betriebe,die nicht ausreichend ausbilden; Lohnsenkung als Mittel zur Schaffungneuer Arbeitsplätze in den neuen Bundesländern; Beurteilung desEinflusses der Gewerkschaften und der Arbeitgeberverbände; Einstellungzu einer Verlängerung der Wochenarbeitszeit; Bewertung der eigenenfinanziellen Absicherung im Alter; Vorhandensein einer eigenen privatenAltersvorsorge bzw. einer Altersvorsorge des Partners; Riester-Renteals Form der Altersvorsorge; Junge oder Alte als vermutete Hauptträgerzukünftiger finanzieller Belastungen; Einstellung zurWiedervereinigung, zu einer Rückführung in eine Zwei-Staaten-Teilung inDeutschland sowie zum Erhalt der DDR als eigenständigen Staat;Überwiegen von Unterschieden oder Gemeinsamkeiten zwischen dem Ostenund Westen bzw. dem Norden und Süden Deutschlands; erwartetesÜberwiegen von Unterschieden oder Gemeinsamkeiten zwischen Ost- undWestdeutschland in zehn Jahren; Meinung zum Bestehen bleibenunterschiedlicher Lebensverhältnisse in Ost- und Westdeutschland;Gerechtigkeit der Lohnunterschiede in Ost- und Westdeutschland; Ostoder West als Profiteur der Wiedervereinigung; Stimmenzuwachsrechtsextremer Parteien in Sachsen und Brandenburg durch Protestwähleroder überzeugte Anhänger; Wichtigkeit von Patriotismus; Partei, die amehesten die eigenen Vorstellungen von Patriotismus vertritt;Nationalstolz; Auswirkungen des Wahlsiegers für die eigene Person;Wahlbeteiligungsabsicht und Parteipräferenz bei der Europawahl;Interesse an der Europapolitik; Selbsteinschätzung der Informiertheitüber die Europäische Union; Vorteilhaftigkeit der EU-Mitgliedschaft fürDeutschland; Beurteilung der derzeitigen wirtschaftlichen Lage inDeutschland im Vergleich zu den westeuropäischen Nachbarn; Beurteilungdes Einflusses der Europäischen Union auf Deutschland; Einstellung zurEU-Erweiterung um osteuropäische Staaten; Auswirkung der EU-Erweiterungauf die Arbeitsplätze in den neuen Bundesländern; Einstellung zurAufnahme der Türkei in die Europäische Union; Kenntnis des Vorschlagseiner gemeinsamen europäischen Verfassung; Befürworten einerEU-Verfassung; Präferenz für Volksentscheid über eine gemeinsameeuropäische Verfassung oder eine Verabschiedung durch den Bundestag undden Bundesrat; Beurteilung der Einführung des Euros in Deutschland;erwarteter langfristiger Erfolg des Euros; Einstellung zumAusländeranteil in Deutschland; Ausländer als kulturelle Bereicherungoder Gefahr der Überfremdung; Einstellung zur Erleichterung des Zuzugsfür Ausländer; kompetenteste Partei in der Ausländerpolitik;Beurteilung des Umfangs der Eingliederungsmaßnahmen für Ausländer;ausreichende Eingliederungsbereitschaft der Ausländer; Einstellung zurKürzung staatlicher Leistungen bei fehlenden Bemühungen umDeutschkenntnisse; Ausländer als Gefahr für das friedlicheZusammenleben; Islam als Bedrohung der westlichen Demokratien;Einstellung zum Umgang mit terrorverdächtigen Ausländern; Beurteilungder Kompetenz der Bundesregierung; CDU/CSU als die bessere Regierung;Wichtigkeit des Bundespräsidenten; Präferenz für Horst Köhler oderGesine Schwan als Bundespräsident bzw. Bundespräsidentin; Wahl vonHorst Köhler zum Bundespräsidenten als Zeichen für einenRegierungswechsel in Berlin; Befürchtung von Terroranschlägen inDeutschland; ausreichende Maßnahmen zur Terrorabwehr; kompetentestePartei für den Terrorschutz; Zustimmung zum Irak-Krieg; Erwartung einesdauerhaften Friedens im Irak; Auswirkungen des Irak-Einsatzes auf dasAnsehen der USA; geringere Terrorgefahr in Deutschland durchverweigerten Irak-Einsatz; Palästinenser oder Israelis als Schuldigefür Gewaltzunahme im Nahen Osten; Beurteilung der Beziehungen zwischenDeutschland und den USA; Sympathie für Amerikaner; wichtigster Partnerder BRD: USA oder Frankreich; Präferenz für George W. Bush oder JohnKerry als US-Präsident; Rückblick auf das Jahr 2004; Ausblick auf dasJahr 2005; Abwanderung aus den neuen in die alten Bundesländer alsGefahr für die Zukunft der neuen Bundesländer; Abwanderer impersönlichen Umfeld; geplante Abwanderungen im persönlichen Umfeld;derzeitiger Arbeitsplatz in den neuen oder den alten Bundesländern;persönliche Mobilitätsbereitschaft.
+Neben den beschriebenen monatlichen Erhebungen wurden inunregelmäßigen Abständen die sog. Kurzbarometer erhoben. Darin wurdenfolgende Themen behandelt: 
+Einschätzung des Verhältnisses der Regierungsparteien SPD und Grünezueinander; Einschätzung der Belastung von Rentnern durch die Reformen;Beurteilung der Verlagerung von Arbeitsplätzen ins Ausland zurKostenersparnis für Unternehmen; Angaben, wie Kabinettsumbildunggestaltet werden soll: Auswechseln von Edelgard Bulmahn, WolfgangClement, Hans Eichel, Joschka Fischer, Renate Künast, Otto Schily,Renate Schmidt, Ulla Schmidt, Manfred Stolpe, Peter Struck, JürgenTrittin, Heidemarie Wieczorek-Zeul, Brigitte Zypries; Auswechseln allerMinister oder Rücktritt von Bundeskanzler Gerhard Schröder bzw. derganzen Regierung; Beurteilung der Mehrwertsteuererhöhung; Wählbarkeitder „Wahlalternative Arbeit und soziale Gerechtigkeit“ (WASG);beabsichtigte Wahl der WASG; Einschätzung der Wichtigkeit der FDP nachschlechtem Wahlergebnis; Zufriedenheit mit der Gesundheitsvorsorge inDeutschland; Beurteilung des Reformvorschlags zur Einführung einerBürgerversicherung anstelle der Krankenversicherung; Beurteilung desReformvorschlags, die Beiträge zur Krankenversicherung zu senken undmehr Leistungen selber zu übernehmen; selbst Beitragszahler beigesetzlicher Krankenversicherung; wie viele Mitversicherte; Beurteilungdes eigenen Beitrags zur Krankenversicherung; Beurteilung derFortführung des Vertrags mit Toll Collect unter verändertenBedingungen; Beurteilung des Verhältnisses zwischen der SPD und denGewerkschaften; Beurteilung der Vorschläge zur Ankurbelung derWirtschaft (Streichung von Urlaubstagen bzw. eines Feiertags;Beurteilung der Beitragserhöhung der Pflegeversicherung für Kinderlose;Beurteilung der Aufnahme der Länder Rumänien und Bulgarien in die EU;Einschätzung der Vor- bzw. Nachteile durch eine Aufnahme der Türkei indie EU; Beurteilung der Unterschriftensammlung von CDU/CSU gegen einenEU-Beitritt der Türkei; strenge Einhaltung der Verschuldungsgrenze inden einzelnen Mitgliedsländern durch die EU; Strafzahlungen beiÜberschreiten der Verschuldungshöchstgrenze; Beurteilung desKopftuchverbots für moslemische Lehrerinnen an staatlichen Schulen inDeutschland; Einschätzung der Abschiebungsbedingungen fürterrorverdächtige Ausländer; Einschätzung der zukünftigen Beziehungenzwischen Deutschland und den USA; Beurteilung des Wahlsieges von GeorgeW. Bush; Wählbarkeit einer gemeinsamen Liste von NPD und DVU beizukünftigen Wahlen; Beurteilung der zukünftigen Zusammenstellung derBundeswehr aus Wehrpflichtigen bzw. Berufs- und Zeitsoldaten;persönliche Wichtigkeit von Entscheidungen verschiedener Parlamente(Gemeinde- bzw. Stadtrat, Landtag, Bundestag, Europaparlament).
+Demographie: Geschlecht; Alter (kategorisiert); Familienstand;Zusammenleben mit einem Partner; Vorhandensein von Kindern im Haushalt;Anzahl der Kinder unter 13 Jahren und Alter dieser Kinder; höchsterSchulabschluss; Fachschulstudium als Abschluss anerkannt;abgeschlossene Berufsausbildung; Berufstätigkeit; Einschätzung dereigenen Arbeitsplatzsicherheit; Berufsgruppe; Haushaltsgröße und Anzahlder Personen ab 18 Jahren; Befragter ist Haushaltsvorstand;Charakteristika des Haushaltsvorstands; Gewerkschaftsmitglied imHaushalt; Konfession; Kirchgangshäufigkeit; Arbeitsplatzgefährdung bzw.Arbeitslosigkeit im sozialen Umfeld; Parteineigung undParteiidentifikation.
+Zusätzlich verkodet wurden: Erhebungsmonat; Erhebungswoche;Befragungstag; Bundesland; Ortsgröße; Gewichtungsfaktor.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The Politbarometer has been conducted since 1977 on an almost monthly basis by the Forschungsgruppe Wahlen on behalf of the Second German Television (ZDF). Since 1990, this database has also been available for the new German states. The survey focuses on the opinions and attitudes of the voting-age population in the Federal Republic on current political issues, parties, politicians, and voting behavior. From 1990 to 1995 and from 1999 onward, the Politbarometer surveys were conducted separately both in the newly formed eastern and in the western German states (Politbarometer East and Politbarometer West). The separate monthly surveys of a year are integrated into a cumulative data set that includes all surveys of a year and all variables of the respective year. Starting in 2003, the Politbarometer short surveys, collected with varying frequency throughout the year, are integrated into the annual cumulation.  </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>with East Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>mit Berlin-Ost</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BB</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-MV</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-ST</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-TH</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte Wohnbevölkerung</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>The residential population eligible to vote.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Mehrstufige Zufallsauswahl: Auswahl von Haushaltsadressen nach dem
+RLD-Verfahren und Auswahl der Zielperson nach einem Geburtstagsschlüssel</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Multi-stage random sample: sample of household addresses according to the RLD procedure and sample according to a key based on birthday</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2004-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2004-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Trend/RepeatedCrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Sophia</firstName>
+				<middleName/>
+				<lastName>Kratz</lastName>
+				<contributorType>DataCurator</contributorType>
+				<affiliation>
+					<affiliationName>GESIS – Leibniz-Institut für Sozialwissenschaften</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Monika</firstName>
+				<middleName/>
+				<lastName>Langhans</lastName>
+				<contributorType>DataCurator</contributorType>
+				<affiliation>
+					<affiliationName>GESIS – Leibniz-Institut für Sozialwissenschaften</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview (CATI) with standardized questionnaire</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>12361</numberUnits>
+			<numberVariables>378</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Der Datensatz besteht aus einer Kumulation der von Januar bis Dezember
+2004 monatlich durchgeführten Erhebungen. Neben den monatlichen
+Erhebungen sind die sog. Kurzbarometer enthalten, die in unregelmäßigen
+Abständen zwischen den monatlichen Befragungen erhoben wurden. Unter
+der ZA-Studien-Nr. 4224 sind die Befragungen im Westteil der
+Bundesrepublik enthalten sowie ein zusätzlicher Gewichtungsfaktor, der
+es ermöglicht, die beiden Datensätze zu einer gesamtdeutsch gewichteten
+Befragung zusammenzufügen.&lt;br&gt;</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

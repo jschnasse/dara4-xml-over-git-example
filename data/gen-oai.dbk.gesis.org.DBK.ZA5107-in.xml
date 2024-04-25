@@ -1,0 +1,270 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Living Spaces - Public Opinion Survey of the BBR 1987'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'LebensRäume - Bevölkerungsumfrage des BBSR 1987'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5107</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>LebensRäume - Bevölkerungsumfrage des BBSR 1987</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Living Spaces - Public Opinion Survey of the BBR 1987</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Ferdinand</firstName>
+				<middleName/>
+				<lastName>Böltken</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Bauwesen und Raumordnung (BBR), Bonn </affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Katrin</firstName>
+				<middleName/>
+				<lastName>Meyer</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Bauwesen und Raumordnung (BBR), Bonn </affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Wolfgang</firstName>
+				<middleName/>
+				<lastName>Neußer</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Bauwesen und Raumordnung (BBR), Bonn </affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Gabriele</firstName>
+				<middleName/>
+				<lastName>Sturm</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Bauwesen und Raumordnung (BBR), Bonn </affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Matthias</firstName>
+				<middleName/>
+				<lastName>Waltersbacher</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Bauwesen und Raumordnung (BBR), Bonn</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5107?doi=10.4232/1.5107</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.5107</doiProposal>
+	<publicationDate>
+		<date>2014-10-31</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5107</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT39</identifier>
+					<!-- Einkommen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT51</identifier>
+					<!-- Gemeinde, Wohnumwelt -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Wohnraum</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Migration</term>
+					<term>TRANSPORT UND REISEN</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Community, urban and rural life</term>
+					<term>Housing</term>
+					<term>Economic conditions and indicators</term>
+					<term>Migration</term>
+					<term>TRANSPORT AND TRAVEL</term>
+					<term>Political behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Wohnung und Wohnstatus. Wohngebiet und Sozialstruktur. Wirtschaftliche Grundlage. Ausländer in der Nachbarschaft. Mobilität. Politikinteresse und Wahlbeteiligung. 
+Themen: 1. Wohngebiet und Sozialstruktur: Wohnhaustyp; Ortsgröße (Urbanisierungsgrad); Wohnlage; Beschreibung der Wohnumgebung; Ein- oder Zweifamilienhäuser oder Mehrfamilienhäuser in der Wohnumgebung; Erbauungszeitraum der Wohnumgebung; subjektive Einschätzung der Schichtzugehörigkeit der Bewohner in der Wohnumgebung; Zufriedenheit mit dem Wohnort (Skalometer); Wohndauer am Wohnort.  
+2. Derzeitige Wohnung und Wohnstatus: Wohndauer in der Wohnung; Anzahl der Zimmer; Wohnstatus; Zufriedenheit mit der Wohnung, der unmittelbaren Wohnumgebung und den Umweltbedingungen in der Wohnumgebung (Skalometer); erwartete Veränderung der Umweltprobleme in der Wohnumgebung; Wichtigkeit ausgewählter Lebensbedingungen für das persönliche Wohlbefinden am Wohnort (z.B. Arbeitsangebote, Infrastruktur, Wohnlage, Schulen, saubere Luft usw.).
+3. Ausländer: Ausländer in der Wohnumgebung; geschätzter  Ausländeranteil im Wohnumfeld; Einstellung zur räumlichen Trennung von Deutschen und Ausländern in einer Nachbarschaft; persönliche Kontakte zu Ausländern. 
+4. Mobilität: Umzugsabsicht; Umzugspräferenz (Zielgebiet); Beurteilung der persönlichen wirtschaftlichen Lage sowie der wirtschaftlichen Lage in der BRD und in der Wohngemeinde; erwartete Veränderung der Arbeitslosenzahlen.
+5. Politikinteresse und Wahlbeteiligung: Politikinteresse auf lokaler Ebene; Wahlberechtigung bei der letzten Bundestagswahl; Teilnahme an der letzten Bundestagswahl und Wahlverhalten (Zweitstimme); Wahlberechtigung bei der letzten Wahl zum Berliner Abgeordnetenhaus;  Teilnahme an der letzten Wahl zum Berliner Abgeordnetenhaus und Wahlverhalten (Zweitstimme).
+Demographie: Geschlecht: Alter (Geburtsmonat und Geburtsjahr); höchster Schulabschluss bzw. angestrebter Schulabschluss; Alter bei Schulabschluss; Berufsausbildung bzw. Ausbildungsabschluss; Erwerbstätigkeit; Erwerbsstatus; Vollzeit- bzw. Teilzeiterwerbstätigkeit; frühere Erwerbstätigkeit; frühere und derzeitige berufliche Stellung; Familienstand; Selbsteinstufung der Schichtzugehörigkeit; Konfession bzw. Religionsgemeinschaft; Kirchenverbundenheit; Kirchgangshäufigkeit; Nettoeinkommen des Befragten; Haushaltsgröße; Anzahl der Kinder im Haushalt und Alter dieser Kinder; Anzahl der Personen im Haushalt ab 18 Jahren; Anzahl der Personen  im Haushalt, die zum Haushaltseinkommen beitragen; Haushaltsnettoeinkommen; Telefonanschluss im Haushalt.
+Interviewerrating: Anwesenheit weiterer Personen während des Interviews; Eingriff anwesender Personen in das Interview; Kooperationsbereitschaft des Befragten; Zuverlässigkeit der Angaben; Beantwortung des Selbstausfüller-Fragebogens zusammen mit dem mündlichen Interview oder später; Ausfüllen des Selbstausfüller-Fragebogens alleine oder mit Hilfestellung und Rückgabeart; Befragter hat Selbstausfüller-Fragebogen verlangt.
+Zusätzlich verkodet wurde: Bundesland; Regierungsbezirk; politische Gemeindegröße (Boustedt); Interviewdatum; Interviewdauer; Interviewer ID; Interviewergeschlecht; Intervieweralter; Gewichtungsfaktor.
+ </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Living and housing status. Residential area and social structure. Economic basis. Foreigners in the neighborhood. Mobility. Political interest and voting behaviour. 
+Topics: 1. Residential area and social structure: type of residential house; city size (degree of urbanisation); residential area; description of the residential environment; one or two-family houses or apartment buildings in the residential environment; construction period of the residential environment; subjective assessment of the social class affiliation of the residents in the residential environment; satisfaction with the place of residence (scale); duration of residence at the place of residence.  
+2. Current housing and residential status: duration of residence; number of rooms; residential status; satisfaction with the flat, the immediate living environment and the environmental conditions in the living environment (scale); expected change in environmental problems in the living environment; importance of selected living conditions for personal well-being at the place of residence (e.g. job offers, infrastructure, residential area, schools, clean air, etc.).
+3. Foreigners: foreigners in the residential environment; estimated proportion of foreigners in the residential environment; attitude towards the spatial separation of Germans and foreigners in a neighborhood; personal contacts with foreigners. 
+4. Mobility: intention to move; preference of moving (target area); assessment of the personal economic situation as well as the economic situation in the FRG and in the municipality of residence; expected change in unemployment figures.
+5. Political interest and voting behaviour: Political interest at local level; eligibility to vote in the last Bundestag election; participation in the last federal election and voting behaviour (second vote); eligibility to vote in the last election to the Berlin House of Representatives; participation in the last election to the Berlin House of Representatives and voting behaviour (second vote).
+Demography: sex: age (month of birth and year of birth); highest school leaving certificate or targeted school leaving certificate; age at school leaving certificate; vocational education and training certificate; employment; employment status; full-time or part-time employment; previous employment; previous and current employment position; marital status; self-assessment of class affiliation; religious denomination or religion; closeness to the church; frequency of church attendance; net income of the respondent; household size; number of children in the household and age of these children; number of persons in the household from 18 years of age; number of persons in the household who contribute to the household income; household net income; telephone connection in the household.
+Interviewer rating: presence of other persons during the interview; intervention of persons present at the interview; willingness of the respondent to cooperate; reliability of the information; self-administered questionnaire together with the face-to-face interview or later; completion of the self-administered questionnaire alone or with assistance and type of return; respondent requested self-administered questionnaire.
+Additionally coded was: federal state; administrative district; political community size (Boustedt); interview date; interview duration; interviewer ID;  sex and age of the interviewer; weighting factor.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Federal Republic of Germany including West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Bundesrepublik Deutschland einschließlich West-Berlin</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutsche bzw. deutsch sprechende Personen ab 18 Jahren in Privathaushalten.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons aged 18 years and over with German citizenship living in private households of the Federal Republic of Germany or in West Berlin</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl. Die Auswahl der Zielhaushalte erfolgte nach dem Random-Route-Verfahren, die Auswahl der Zielperson nach Geburtstagsschlüssel.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample: Multistage Sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1987-09-26</date>
+				</startDate>
+				<endDate>
+					<date>1987-10-26</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>GFM GETAS, Hamburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Persönliches Interview: PAPI (Papierfragebogen)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Face-to-face interview: PAPI (Paper and Pencil Interview) </freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>135</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie ist Teil einer Serie, die seit 1985 jährlich durchgeführt wird.
+
+Zum Inhalt des Selbstausfüller-Fragebogens können keine Angaben gemacht werden, da er dem Archiv nicht vorliegt.  </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The study is part of a series that has been conducted annually since 1985.
+
+No information can be provided on the content of the self-administered questionnaire, as it is not available in the archive. </text>
+		</note>
+	</notes>
+</resource>

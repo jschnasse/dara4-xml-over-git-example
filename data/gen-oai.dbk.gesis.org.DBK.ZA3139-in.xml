@@ -1,0 +1,179 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Youth Study (Right-Wing Extremism among Young People)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Jugendstudie (Rechtsextremismus bei Jugendlichen)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3139</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Jugendstudie (Rechtsextremismus bei Jugendlichen)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Youth Study (Right-Wing Extremism among Young People)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Bundesministerium für Familie, Senioren, Frauen und Jugend</institutionName>
+			</institution>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Jürgen W.</firstName>
+				<middleName/>
+				<lastName>Falter</lastName>
+				<affiliation>
+					<affiliationName>Institut für Politikwissenschaft, Johannes-Gutenberg Universität, Mainz
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3139?doi=10.4232/1.3139</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.3139</doiProposal>
+	<publicationDate>
+		<year>1999</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3139</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Politische Ideologie</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Jugend</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Political ideology</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Youth</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellung zu rechtsradikalen politischen Vorstellungen.
+Themen: Einschätzung von Hitler als großem Staatsmann; Einstellung zuJuden; Einstellung zur Diktatur als Staatsform; Einschätzung desEinflusses der Juden; Stolz ein Deutscher zu sein; Mut zu einem starkenNationalgefühl; Einstellung zur bedingungslosen Unterordnung vonGruppen- und Verbandsinteressen unter das Allgemeinwohl; Einstellung zumNationalsozialismus; Einstellung zur Überfremdung der Bundesrepublikdurch Ausländer; Ausländer sollten nur unter sich heiraten; Einstellungzu Anschlägen auf Asylbewerberheime; Einstellung zum Vorziehen Deutschergegenüber Ausländern bei der Arbeitsvermittlung; Ausländer als Ausnutzerdes Sozialstaates; Einstellung zur Rückgewinnung der Gebiete jenseitsOder und Neiße; Einstellung zur Gesellschaftsordnung; Parteipräferenz(Sonntagsfrage); Einstellung zur Wahl einer der rechtsradikalenParteien; Einstellung zu einem Protestwahlverhalten (Denkzettel);Demokratiezufriedenheit bezogen auf die Verfassung und in der Praxis;Selbsteinschätzung als Wiedervereinigungsverlierer.
+Demographie: Erwerbstätigkeit; berufliche Stellung; Tätigkeitsmerkmaleder Arbeit; Schulbildung; Haushaltsgröße, Geburtsjahr der Kinder unter14 Jahren; monatliches Nettoeinkommen; Staatsangehörigkeit; Geschlecht;Geburtsjahr; Familienstand; mit Partner zusammenlebend.
+Zusätzlich verkodet wurde: Bundesland; Landkreis; Ortsgröße; Befragungsgebiet Ost- oder Westdeutschland.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Zufallsauswahl
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1998-06</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>FORSA, Berlin
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>52</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

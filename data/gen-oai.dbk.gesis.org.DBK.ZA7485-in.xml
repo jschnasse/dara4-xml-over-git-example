@@ -1,0 +1,225 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Social Cohesion Radar: Social Cohesion in Bremen'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Radar gesellschaftlicher Zusammenhalt: Sozialer Zusammenhalt in Bremen'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7485</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Radar gesellschaftlicher Zusammenhalt: Sozialer Zusammenhalt in Bremen</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Social Cohesion Radar: Social Cohesion in Bremen</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Kai</firstName>
+				<middleName/>
+				<lastName>Unzicker</lastName>
+				<affiliation>
+					<affiliationName>Bertelsmann Stiftung, Gütersloh</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Klaus</firstName>
+				<middleName/>
+				<lastName>Boehnke</lastName>
+				<affiliation>
+					<affiliationName>Jacobs University, Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7485?doi=10.4232/1.13279</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13279</doiProposal>
+	<publicationDate>
+		<date>2019-07-11</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7485</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT51</identifier>
+					<!-- Gemeinde, Wohnumwelt -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Community, urban and rural life</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Bertelsmann Stiftung führt seit 2012 das Projekt „Radar gesellschaftlicher Zusammenhalt“ durch. Das Ziel besteht darin, die Güte gesellschaftlichen Zusammenhalts in verschiedenen Gemeinwesen zu erfassen. Die hier vorgelegte Studie erweitert den Erkenntnisstand durch eine Betrachtung der kommunalen Ebene. Hierzu wurden im Herbst 2015 2.605 repräsentativ ausgewählte Bremer* zu den Dimensionen des sozialen Zusammenhalts in 78 der insgesamt 88 Ortsteile Bremens befragt. Die Erhebung beinhaltet Fragen zu Bedingungen von Zusammenhalt, Fragen zu Auswirkungen von Zusammenhalt, Bremen-spezifische Fragen und Fragen zur aktuellen Flüchtlingssituation in Bremen.
+Themen: Wohndauer im Ortsteil (Einzugsjahr); Zufriedenheit im Ortsteil; Verbundenheit mit der Stadt, dem Stadtteil, dem Ortsteil und der Nachbarschaft (geopolitische Identität); Umzugswunsch oder Zugehörigkeitsgefühl zum Ortsteil; subjektives Nachbarschaftskonzept; Wohnung: Wohnstatus; sozialer Wohnungsbau; Wohnungsgröße in qm; Anzahl der Wohnräume; Einschätzung der Miethöhe; soziales Netzwerk: Größe des Freundes- und Bekanntenkreises im Ortsteil; Häufigkeit privater Treffen mit Freunden, Verwandten und mit Arbeitskollegen; Häufigkeit zufälliger Treffen von Freunden auf der Straße; private Treffen mit Nachbarn; Vertrauen in Mitmenschen: allgemeines Personenvertrauen; Einschätzung Hilfsbereitschaft allgemein; Vertrauen in Fremde; Vertrauen auf Rückgabe einer in der Nachbarschaft verlorenen Geldbörse; Akzeptanz von Diversität: Ortsteil ein guter Ort für Kinder, Menschen mit anderem Tagesrhythmus, Ausländer, Migranten, Homosexuelle, Menschen anderer Hautfarbe, Flüchtlinge; Zuwanderer bereichern kulturelles Leben in Deutschland; Zufriedenheit mit der Zusammensetzung der Nachbarschaft; Zufriedenheit mit den Nachbarschaftsaktivitäten im Ortsteil; Zufriedenheit mit den Bemühungen der Lokalpolitiker um die Nachbarschaft; Institutionenvertrauen: Vertrauen in Parteien vor Ort bzw. auf Bundesebene, Justiz und Stadtverwaltung; Gerechtigkeitsempfinden: gerechter Anteil am Lebensstandard; Infrastruktur im Ortsteil: Ausstattung des Ortsteils mit Tagesstätten für Senioren, öffentlichen Grünanlagen sowie Sport- oder Freizeitanlagen im Vergleich zu anderen Ortsteilen; Investitionen in Straßeninstandhaltung im Vergleich zu anderen Ortsteilen; Stadt kümmert sich nicht genug um den Ortsteil; Solidarität und Hilfsbereitschaft: persönliche Hilfsbereitschaft gegenüber Unbekannten; Häufigkeit persönlicher Hilfsbereitschaft allgemein sowie in der Nachbarschaft; Häufigkeit des Verleihens an Nachbarn; Einschätzung der Hilfsbereitschaft im Ortsteil allgemein; Einverständnis mit der Unterbringung von Flüchtlingen im Ortsteil; Verantwortung der Stadt Bremen für Flüchtlinge; Befragter bietet selbst Hilfe für Flüchtlinge an; Anerkennung sozialer Regeln: verschiedene Probleme im Ortsteil (z.B. Hundekot auf der Straße, Falschparker, etc.); Sicherheitsgefühl nachts in der Umgebung und in der Wohngegend; Kriminalität im Ortsteil; gesellschaftliche Teilhabe: Politikinteresse; Interesse an Lokalpolitik; persönlicher Einsatz für die Wohngegend; Art des politischen Engagements in den letzten zwölf Monaten (z.B. Übernahme eines politischen Amts, Beteiligung an einer Demonstration, etc.); Beurteilung der Flüchtlingssituation in Bremen; Häufigkeit der Internetnutzung für private Zwecke; Anzahl der Bücher im Haushalt; Selbsteinschätzung der Religiosität; persönliche Werte (neue Ideen entwickeln, Reichtum, Sicherheit, Amüsieren, Gutes tun, Erfolg, Risikofreude, Richtiges tun, Umwelt, Traditionen); allgemeines Glücksgefühl; allgemeine Lebenszufriedenheit;; Zustimmung zu verschiedenen Aussagen (eigenes Leben kommt dem Ideal nahe, Lebensbedingungen sind hervorragend, zufrieden mit dem Leben, bisher die wichtigsten vom Leben gewünschten Dinge bekommen, würde fast nichts ändern, falls ich mein Leben noch einmal leben könnte); Selbsteinschätzung Gesundheitszustand allgemein; Beeinträchtigung beim Treppensteigen durch den Gesundheitszustand; chronische Krankheiten. 
+Demographie: Geschlecht; Alter (Geburtsjahr, Geburtsmonat); Alter gruppiert; Anzahl der Festnetznummern im Haushalt; Haushaltsgröße; Anzahl der Kinder im Haushalt; Familienstand; Erwerbstätigkeit; Gruppenzugehörigkeit wenn nicht vollzeit- oder teilzeiterwerbstätig; höchster beruflicher Bildungsabschluss; Bezug von Sozialhilfe; Haushaltsnettoeinkommen; Staatsbürgerschaft; Geburt des Befragten und seiner Eltern in Deutschland (Migrationshintergrund); zu Hause gesprochene Sprache. 
+Zusätzlich verkodet wurde: Befragten-ID; Straße genannt; Ortsteil genannt; Eintrag im Telefonnummernverzeichnis; Gewichtungsfaktor; Gesamtheit der Probleme im Ortsteil; Gesamtheit des politischen Engagements; Nachbarschaft: nur eigenes Haus, unmittelbare Nachbar-Häuser, Häuser in eigener Straße, Häuser in weiteren Straßen; abgeleitete Variablen.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The Bertelsmann Stiftung has been conducting the ´Social Cohesion Radar´ project since 2012. The aim is to measure the quality of social cohesion in different communities. The study presented here extends the state of knowledge by taking a look at the municipal level. In the fall of 2015, 2,605 representatively selected Bremen citzizens were surveyed on the dimensions of social cohesion in 78 of the 88 districts of Bremen. The survey includes questions on the conditions of cohesion, questions on the effects of cohesion, Bremen-specific questions and questions on the current refugee situation in Bremen.
+Topics: Duration of residence in the district (year of moving in); satisfaction in the district; solidarity with the city, the district, the district and the neighbourhood (geopolitical identity); desire to move or feeling of belonging to the district; subjective neighbourhood concept; housing: Housing status; social housing construction; apartment size in sqm; number of living spaces; assessment of rent; social network: size of circle of friends and acquaintances in the district; frequency of private meetings with friends, relatives and work colleagues; frequency of random meetings of friends on the street; private meetings with neighbours; trust in fellow human beings: general personal trust; general assessment of helpfulness; trust in strangers; trust in returning a purse lost in the neighbourhood; acceptance of diversity: district a good place for children, people with different daily rhythms, foreigners, migrants, homosexuals, people of different skin colours, refugees; immigrants enrich cultural life in Germany; satisfaction with the composition of the neighbourhood; satisfaction with the neighbourhood activities in the district; satisfaction with the efforts of local politicians towards the neighbourhood; institutional trust: Trust in local political parties or at federal, judicial and municipal level; sense of justice: fair share of the standard of living; infrastructure in the neighbourhood: equipping the neighbourhood with day-care facilities for senior citizens, public green spaces and sports or leisure facilities compared to other neighbourhoods; investment in street maintenance compared to other neighbourhoods; city does not care enough about the neighbourhood; solidarity and helpfulness: personal helpfulness towards strangers; frequency of personal helpfulness in general as well as in the neighbourhood; frequency of lending to neighbours; assessment of helpfulness in the district in general; agreement with the accommodation of refugees in the district; responsibility of the city of Bremen for refugees; respondent offers help for refugees himself; recognition of social rules: various problems in the district (e.g.e.g. dog excrement on the street, wrong parkers, etc.); feeling of security at night in the surroundings and in the residential area; crime in the district; social participation: Interest in politics; interest in local politics; personal commitment to the residential area; type of political commitment in the last twelve months (e.g. assumption of a political office, participation in a demonstration, etc.).); assessment of the refugee situation in Bremen; frequency of Internet use for private purposes; number of books in the household; self-assessment of religiousness; personal values (developing new ideas, wealth, security, amusement, doing good, success, risk-taking, doing right, environment, traditions); general feeling of happiness; general life satisfaction;; agreement to various statements (own life comes close to the ideal, living conditions are excellent, satisfied with life, getting the most important things desired by life so far, would change almost nothing if I could live my life again); self-assessment of general state of health; impairment when climbing stairs by the state of health; chronic diseases.
+Demography: sex; age (year of birth, month of birth); age grouped; number of landline numbers in the household; household size; number of children in the household; marital status; employment status; group membership if not full-time or part-time; highest vocational qualification; receipt of social assistance; net household income; citizenship; birth of the respondent and his parents in Germany (migration background); language spoken at home.
+Additionally coded: respondent ID; street name; district name; entry in telephone directory; weighting factor; total of problems in the district; total of political commitment; neighbourhood: only own house, immediate neighbourhood houses, houses in own street, houses in other streets; derived variables.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-HB</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wohnbvölkerung ab 18 Jahren in den 78 bevölkerungsreichsten Ortsteilen der Freien Hansestadt Bremen</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Resident population aged 18 and over in the 78 most populous districts of the Free Hanseatic City of Bremen</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2015-09-28</date>
+				</startDate>
+				<endDate>
+					<date>2015-12-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>IM Field GmbH, Leipzig</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>2605</numberUnits>
+			<numberVariables>184</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Arant, Regina; Larsen, Mandi; Boehnke, Klaus: Sozialer Zusammenhalt in Bremen.
+Gütersloh: Bertelsmann Stiftung, Anlage 2, Methodenbericht, 2016</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Arant, Regina; Larsen, Mandi; Boehnke, Klaus: Sozialer Zusammenhalt in Bremen.
+Gütersloh: Bertelsmann Stiftung, Anlage 1, Codebuch, 2016 
+</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

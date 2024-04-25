@@ -1,0 +1,205 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Xenophobic attitudes depending on individual style of attachment,
+social desintegration and relative deprivation (FEBID)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Fremdenfeindliche Einstellungen in Abhängigkeit von persönlichem Bindungsstil, sozialer Desintegration und relativer Deprivation (FEBID)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5093</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Fremdenfeindliche Einstellungen in Abhängigkeit von persönlichem Bindungsstil, sozialer Desintegration und relativer Deprivation (FEBID)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Xenophobic attitudes depending on individual style of attachment,
+social desintegration and relative deprivation (FEBID)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Paul Bernhard</firstName>
+				<middleName/>
+				<lastName>Hill</lastName>
+				<affiliation>
+					<affiliationName>Institut für Soziologie, RWTH Aachen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5093?doi=10.4232/1.11346</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11346</doiProposal>
+	<publicationDate>
+		<date>2012-04-04</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5093</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT38</identifier>
+					<!-- Beruf -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Arbeitslosigkeit</term>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Familie und Ehe</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Unemployment</term>
+					<term>Employment</term>
+					<term>Family life and marriage</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Soziale Desintegration und Fremdenfeindlichkeit.
+Themen: Wichtigkeit der Lebensbereiche Familie, Freunde, Arbeit undPolitik; Bedeutung der Lebensbedingungen von Familie, Nachbarn,Landsleuten, Arbeitslosen und Ausländern für den Befragten. 
+Einstellung zu Ausländern: Schätzung des Ausländeranteils in den altenund in den neuen Bundesländern; Ausländeranteil in eigenerWohnumgebung; Einstellung zur Immigration deutschstämmiger Aussiedler,Asylsuchender, Arbeitnehmer aus der EU und aus Nicht-EU-Staaten; zuviele Ausländer im Lande; Einstellung zu Ausländern (Skala), sozialeNähe; fremdenfeindliche Überzeugungen; Angst und Bedrohung durchAusländer; Rassismus und Diskriminierung von Ausländern; Kontakt zuAusländern und Bewertung dieser Kontakte; Zustimmung zurDiskriminierung von Ausländern durch ausgewählte Personengruppen(Gastwirte, Eltern oder Unternehmer); Gewaltbereitschaft im Allgemeinenund gegenüber Ausländer.
+Lebensstandard: Beurteilung des eigenen Lebensstandards; zustehendereigener Lebensstandard bei gerechter Verteilung des Wohlstands;Einschätzung des generellen Lebensstandards in Deutschland; Einstufungvon Managern, in Deutschland lebenden Türken und Ausländern sowieAsylanten nach ihrem Lebensstandard; Verstimmung über ungleicheLebensstandards; gerechter Anteil am Sozialprodukt; perzipierteMöglichkeit zur Veränderung und vermutete Zeitdauer; Gefühlungerechtfertigten Vorenthaltens von dem, was einem zusteht.
+Partnerschaft: Familienstand; Dauer der Ehe bzw. der festenPartnerschaft vor der Ehe (in Jahren und Monaten); Lebenspartner;frühere feste Partnerschaften; Geschlecht des Partners bzw. Partnerin;Dauer der festen Partnerschaft; Erwerbstätigkeit des Partners; Wunschnach einer festen Partnerschaft.
+Vermeidung von Nähe und Angst vor dem Verlassenwerden (Skalen);Einordnung der Größe des Familien- und Bekanntenkreises;Kontakthäufigkeit mit dem sozialem Umfeld; Zufriedenheit mit Familiebzw. Bekannten; Anzahl von engen sozialen Beziehungen; sozialeIntegration im unmittelbaren Umfeld.
+Beruf und Freizeit: Erwerbstätigkeit bzw. Nicht-Erwerbstätigkeit;Zeitdauer der Nicht-Erwerbstätigkeit; berufliche Position;Tätigkeitsbezeichnung; Zeitabstand zur letzten Erwerbstätigkeit; Angstvor dem Arbeitsplatzverlust; Arbeitsorientierung; Arbeitszufriedenheit;empfundene soziale Ausgrenzung durch Arbeitslosigkeit; Anzahl derehrenamtlichen Funktionen in Vereinen; Häufigkeit vonVereinstätigkeiten.
+Meinung zu gesellschaftlichen und politischen Fragen: persönlicheBedeutung politischer Einflussnahme und Einstellung zu politischemEngagement. 
+Demographie: Alter (Monat, Jahre); deutsche Staatsangehörigkeit;Geschlecht; aufgewachsen in Ostdeutschland, in Westdeutschland oder imAusland; Schulbildung; retrospektive Einschätzung der eigenen sozialenMobilität; Haushaltsnettoeinkommen; monatliches Nettoeinkommen;materielle Ressourcen; Einschätzung der eigenen finanziellen Positionin den nächsten fünf Jahren; befristetes bzw. unbefristetesArbeitsverhältnis; Zeitdauer der gesamten Erwerbstätigkeit bzw. derArbeitslosigkeitzeit seit 1996; Arbeitslosigkeit (im Rahmen vonFrühverrentung); Zeitabstand zur letzten Arbeitslosigkeitsphase;Arbeitslosigkeit im Familien- oder Freundeskreis; Bewegtheit überdiesen Zustand; eigene Kinder; Haushaltsgröße; Verwandtschaftsbeziehungzu Personen im Haushalt; Alter des jüngsten Kindes; deutscheStaatsangehörigkeit von Vater und Mutter; Berufsbezeichnung von Vaterund Mutter im Alter des Befragten von 10 Jahren.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen mit deutscher Staatsangehörigkeit ab 18 Jahren</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Repräsentative Telefonstichprobe von Haushalten in Arbeitsagenturbezirken mit überdurchschnittlich hoher Arbeitslosenquote
+Zielperson wurde nach dem Last-Birthday-Schlüssel ausgewählt.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2007-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2007-03</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>infas Institut für angewandte Sozialwissenschaft GmbH, Bonn</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen (CATI)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>212</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Rüssmann, Kirsten; Dierkes, Simon; Hill, Paul Bernhard:
+Soziale Desintegration und Bindungsstil als Determinanten von Fremdenfeindlichkeit. 
+In: Zeitschrift für Soziologie 39(4), 2010, S. 281-301</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Vöttiner, Andreas:
+Der Bindungsstil als Determinante individueller Integrationsdefizite: Eine empirische Studie mit Individualdaten aus der erwachsenen deutschen Wohnbevölkerung. 
+Hamburg: Verlag Dr. Kovac 2010.
+</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

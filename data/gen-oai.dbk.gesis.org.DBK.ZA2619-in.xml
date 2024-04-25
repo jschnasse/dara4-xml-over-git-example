@@ -1,0 +1,350 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Flash Eurobarometer 47 (European Union Citizenship)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Flash Eurobarometer 47 (European Union Citizenship)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA2619</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Flash Eurobarometer 47 (European Union Citizenship)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Flash Eurobarometer 47 (European Union Citizenship)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Europäische Kommission</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2619?doi=10.4232/1.2619</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.2619</doiProposal>
+	<publicationDate>
+		<year>1995</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2619</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>International politics and organisations</term>
+					<term>Political behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Europabürgertum und Leben in einem anderen EU-Land.
+Themen: Europabürgertum oder Präferenz für eigeneNationalität; Kenntnis einer Antragsmöglichkeit zumUnionsbürger; Vorstellbarkeit einer gleichzeitigen Identitätals Unionsbürger und Nationalbürger; Stolz, Unionsbürger zusein; Nationalstolz; Kenntnis der Rechte eines Unionsbürgerswie z.B. des aktiven und passiven Wahlrechts bei Kommunal- undEuropawahlen, freie Arbeitsplatzwahl, Reisen ohneGrenzkontrollen, Inanspruchnahme aller Botschaften der EU-Mitgliedsländer, Beschwerderecht beim Europaparlament,Anspruch auf einen europäischen Paß, Gleichbehandlung mit denBürgern des Aufenthaltslandes; Aufenthaltsrecht in allenMitgliedstaaten; allgemeines Interesse an einem dauerhaftenAufenthalt in einem anderen EU-Land sowie im Falle vonArbeitslosigkeit im eigenen Land, zum Studium bzw. zurFortbildung sowie als Altersruhesitz; mögliche Ängste beimDaueraufenthalt in einem anderen EU-Land bezüglich desVerlustes der Rentenansprüche, des Anspruchsverlusts aufArbeitslosenunterstützung, Krankenversicherungsansprüche,Benachteiligung gegenüber den inländischen Arbeitskollegen,Angst vor Zahlung vermehrter Steuern und Verwaltungskosten,Status als Fremder im Aufenthaltsland, Befürchtung vermehrterBürokratie und Furcht vor Ausweisung im Falle vonArbeitslosigkeit; vermutetes Mitspracherecht von Unionsbürgernbei Entscheidungen der Europäischen Union; Parteipräferenz(Sonntagsfrage).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>European citizenship and life in another EU country. Topics: Europeancitizenship or preference for personal nationality; knowledge of apossibility to apply for Union Citizenship; conceivablilty ofsimultaneous identity as Union Citizen and national citizen; pride tobe a Union Citizen; national pride; knowledge about the rights of aUnion Citizen such as e.g. active and passive right to vote inmunicipal and European Elections, free choice of job, travel withoutborder checks, utilization of all embassies of the EU member countries,right to complain to the European Parliament, right to a Europeanpassport, equal treatment with the citizens of the country of stay;right to stay in all member countries; general interest in a permanentstay in another EU country as well as in case of unemployment in one´scountry for college or further education as well as place ofretirement; possible fears in permanent stay in another EU countryregarding loss of the right to a pension, loss of the right tounemployment benefit, rights to health insurance, discriminationregarding domestic colleagues, fear of payment of increased taxes andgovernment costs, status as foreigner in country of stay, concern ofincreased bueraucracy and fear of deportation in case of unemployment;assumed right to a say of Union Citizens in decisions of the EuropeanUnion; party preference (Sunday question). </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 15 Jahre und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Respondents 15 years old and older
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Repräsentative Auswahl </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Representative sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1995-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1995-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Karlheinz</firstName>
+				<middleName/>
+				<lastName>Reif</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Europäische Kommission, Brüssel</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Nicole</firstName>
+				<middleName/>
+				<lastName>Jamar</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>EOS, Gallup Europe, Chaumont-Gistoux, Belgien
+</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>DIMARSO, Bruessel</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GALLUP, Kopenhagen</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>EMNID, Bielefeld</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ICAP, Athen</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>DEMOSCOPIA, Madrid</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>B.V.A., Viroflay, Frankreich</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Irish Marketing Surveys, Dublin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>DOXA, Mailand</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ILRES, Luxemburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>NIPO, Amsterdam</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>NORMA, Lissabon</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>NOP, London</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>OESTERREICHISCHES GALLUP, Wien</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SUOMEN GALLUP, Espoo, Finnland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SIFO, Stockholm</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>41</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>In jedem Land wurden etwa 500 Interviews durchgeführt. Für
+Deutschland existieren zwei getrennte Stichproben in Ost und
+West.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>In every country about 500 interviews were conducted. For
+Germany there are two separate samples in East and West.
+</text>
+		</note>
+	</notes>
+</resource>

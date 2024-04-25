@@ -1,0 +1,224 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Public Perceptions of Interethnic Relations in Bulgaria 2003
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Die öffentliche Wahrnehmung ethnischer Beziehungen in Bulgarien 2003
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3963</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Die öffentliche Wahrnehmung ethnischer Beziehungen in Bulgarien 2003
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Public Perceptions of Interethnic Relations in Bulgaria 2003
+</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Obshchestvenoto mnenie na mezhduetnicheskite otnoshenija v B’lgarija, 2003</titleName>
+			<titleType>OriginalTitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Obshchestvenoto mnenie na mezhduetnicheskite otnoshenija v B’lgarija, 2003</titleName>
+			<titleType>OriginalTitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Yantislav</firstName>
+				<middleName/>
+				<lastName>Yanakiev</lastName>
+				<affiliation>
+					<affiliationName>Institute for Advanced Defence Research of the Bulgarian Ministry of Defence, Sofia
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3963?doi=10.4232/1.3963</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.3963</doiProposal>
+	<publicationDate>
+		<year>2004</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3963</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Cultural and national identity</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Soziale Integration von Minderheiten.
+Themen: Ethnische Beziehungen zwischen Bulgaren und Roma, Bulgaren undTürken, Türken und Roma (hinsichtlich Heirat, Freundschaft,Nachbarschaft, Arbeitsplatz, Wohnort und Land); Rechte der Minderheiten;Privilegien von ethnischen Gruppen; Vorurteile; Bulgaren, Türken, Roma,Armenier, Juden als freiwillige Soldaten in der bulgarischen Armee;Vollzeitbeschäftigung eines religiösen Beistands in der Armee; Religion,Ethnizität; Sprache.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Social integration of minority groups.Topics: Ethnic relations between Bulgarians and Roma, Bulgarians andTurks, Turks and Roma (marriage, friendship, neighborhood; working place,settlement, country); rights of minorities; privileges of ethnic groups;prejudices; Bulgarian Turks/Roma/Armenians/Jews as volunteer soldiers inthe Bulgarian armed forces; full-time employment of a religious entity inthe Bulgarian army; religion, ethnicity; spoken language.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>BG</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wohnbevölkerung im Alter von 18 Jahren und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>The residential population 18+ years of age </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Zweistufiges repräsentatives Sample; unter Verwendung des
+Wahlverzeichnisses der letzten nationalen Wahlen
+(Präsidentschaftswahlen November 2001). Maximaler Fehler: +/-2.5%. </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Two-stage cluster sample using the voters´ lists from the latest national elections (the Presidential Eections held in November 2001). The maximum stochastic error is +/- 2.5 % .
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2001-12</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>BBSS GALLUP International, Sofia
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Schriftliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Interview with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>102</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Diese Studie wurde im Rahmen des Forschungsprojektes des NATO
+Informationszentrums Sofia durchgeführt und wurde finanziert von dem
+"PHARE-ACCESS Programme of the Delegation of the European Commission to
+Bulgaria entitled Application of European Practices for Social
+Integration of Ethnic and Cultural Minorities in the Bulgarian Army".
+Der Datensatz ist auch im Bulgarisches Datenarchiv, Sofia (SSDA) unter
+der Studiennummer BDA-5 archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The survey was carried out in the framework of a research project of NATO
+Information Center in Sofia financed by PHARE-ACCESS Programme of the
+Delegation of the European Commission to Bulgaria entitled Application of
+European Practices for Social Integration of Ethnic and Cultural Minorities
+in the Bulgarian Army.
+The data set is archived at the Bulgarian Data Archive (SSDA) under the Study
+number BDA-5.
+</text>
+		</note>
+	</notes>
+</resource>

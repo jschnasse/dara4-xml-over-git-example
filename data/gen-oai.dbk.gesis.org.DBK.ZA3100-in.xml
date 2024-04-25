@@ -1,0 +1,241 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Employment not Subject to Social Security
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Sozialversicherungsfreie Beschäftigung
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3100</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Sozialversicherungsfreie Beschäftigung
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Employment not Subject to Social Security
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>ISG Sozialforschung und Gesellschaftspolitik, Köln
+</institutionName>
+			</institution>
+		</creator>
+		<creator>
+			<institution>
+				<institutionName>Bundesministeriums für Arbeit und Sozialordnung, Berlin und Bonn
+</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3100?doi=10.4232/1.3100</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.3100</doiProposal>
+	<publicationDate>
+		<year>1999</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3100</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT32</identifier>
+					<!-- Sozialpolitik -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Arbeitsbedingungen</term>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Sozialsysteme und Strukturen der Sozialfürsorge</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Working conditions</term>
+					<term>Employment</term>
+					<term>Social welfare systems/structures</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Daten zu sozialversicherungsfreien Arbeitsverhältnissen, Schwarzarbeitund Steuerhinterziehung.
+Themen: Status der Erwerbstätigkeit (Vollzeit, Kurzarbeit, Teilzeit,ABM, Azubi, arbeitslos, Rente, in Ausbildung); Wochenarbeitszeit imHauptberuf; Befristung der Arbeit im Hauptberuf; Bruttoeinkommen imHauptberuf; Entrichtung von Sozialabgaben und Steuern;sozialversicherungsfreies befristetes (50 Tage oder 2 Monate im Jahr)Beschäftigungsverhältnis im Hauptberuf sowie in der Nebentätigkeit;Ausüben bar bezahlter Neben-, Aushilfs- oder Ferienbeschäftigungen;Wochenarbeitszeit, Bruttomonatseinkommen und Entrichtung vonSozialabgaben und Steuern für diese Nebentätigkeiten; Branche bzw.Wirtschaftsbereich, in dem die Nebentätigkeit ausgeübt wird; mehrereArbeitgeber, für die gleichzeitig eine Nebentätigkeit ausgeübt wird;Auswirkungen der neuen Ladenöffnungszeiten auf die Nebentätigkeit; Dauerder Nebentätigkeit in den letzten 12 Monaten; Befristung derNebentätigkeit; Häufigkeit von Nebentätigkeiten in den letzten Jahren;mehrere Arbeitgeber in den letzten 12 Monaten; Beschäftigungsstatus inder Nebentätigkeit (Arbeiter, Angestellter, freiberuflich, selbständig,ehrenamtlich); Wochenarbeitszeit bei der als am wichtigsteneingeschätzten Nebentätigkeit; gewünschte Arbeitszeit undWochenarbeitszeit; Interesse, einen Rentenanspruch in der Nebentätigkeitdurch Pflichtversicherungszahlungen zu erwerben; Art derKrankenversicherung; Gründe für das Ausüben einer Nebentätigkeit(Skala); Angewiesenheit auf das Einkommen aus der Nebentätigkeit;gesamtes Bruttoeinkommen aus der Nebentätigkeit; Arbeit in derNebentätigkeit mit oder ohne Steuerkarte; Bezug von Transferleistungen(Arbeitslosengeld, Arbeitslosenhilfe, Sozialhilfe).
+Demographie: Geschlecht; Alter; Nationalität; Familienstand;Schulabschluss; Konfession; Anzahl der Personen und Kinder im Haushalt;Haushaltsnettoeinkommen; Bundesland.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Data on employment not subject to social security, illicit work andtax evasion.Topics:status of employment (full time, short time work, part time,ABM {job creation measure}, trainee, unemployed, pension, in training);time worked each week in primary occupation;temporary work in primary occupation;gross income in primary occupation;paying social security tax and taxes;terms of employment in primary occupation as well as in side jobnot subject to social security and temporary(50 days or 2 months per year);exercise of employment, side job, temporary work or on vacation, paid in cash;time worked each week, gross monthly income and payingsocial security tax and taxes for these side jobs;area of business or economic area the side job is in;several employers with whom simultaneously side jobs are held;effects of new store closing times on side job;length of side job in the last 12 months;temporary side job;frequency of side jobs in the last few years;several employers in the last 12 months;employment status in side job (worker, employee, self-employed, independent,honorary);time worked each week in the side job considered most important;desired working hours and time worked each week;interest in acquiring right to a pension from the side jobthrough compulsory insurance payments;type of health insurance;reasons for exercising a side job (scale);relying on income from the side job;over-all gross income from side job;work in side job with or without tax reporting;receipt of transfer payments(earnings-related unemployment benefit, unemployment benefit, welfare).Demography:sex;age;nationality;marital status;school degree;religious denomination;number of persons and children in household;net household income;state.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 14-74 Jahre</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons between the ages of 14 to 74 years
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Repräsentative Zufallsauswahl auf der Basis eines ADM-Mastersamples.
+Die Stichprobe besteht aus insgesamt ca. 32.000 Befragten, wovon ca.
+20.000 den alten Bundesländern und ca. 10.000 den neuen Bundesländern
+angehören. In den alten Bundesländern wurden zusätzlich ca. 2.500
+Ausländer interviewt. </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Representative random selection on the basis of an ADM mastersample.
+The sample consists of altogether approx. 32000 respondents, of which
+approx. 20000 are from the old states and approx. 10000 from the new states.
+In the old states additionally approx. 2500 foreigners were interviewed.
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1997-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1997-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>EMNID, Bielefeld</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>133</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Bei der vorliegenden Studie handelt es sich um eine zweite
+Wiederholungsuntersuchung. Für die Jahre 1987 und 1992 liegen für die
+alten Bundesländer zwei frühere Vergleichszeitpunkte vor, die neuen
+Länder wurden ab 1992 in die Erhebung einbezogen. Die Daten dieser
+früheren Erhebungen befinden sich nicht im ZA.
+Der Datensatz stellt einen Teil einer Mehrthemenerhebung dar. Um das
+Misstrauen der Befragten zu reduzieren, waren die brisanten Fragen in
+eine Omnibus-Befragung integriert worden. Die Fragen des Umfeldes
+thematisieren Konsumgewohnheiten und Automarkenpräferenzen.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The current study deals with a second replication investigation.
+For 1987 and 1992 there are two earlier points in time of comparison
+for the old states,
+the new states were first taken into the survey in 1992.
+The data of these earlier surveys are not in the ZA.
+The data set presents one part of an omnibus survey.
+In order to reduce the mistrust of the respondents, the touchy questions
+were integrated into an omnibus survey.
+The questions of surroundings picked out as central themes
+consumer habits and car brand preferences.
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>ISG Sozialforschung und Gesellschaftspolitik: 
+Sozialversicherungsfreie Beschäftigung: Untersuchung im Auftrag des Bundesministeriums für Arbeit und Sozialordnung. 2. Wiederholungsuntersuchung. 
+Köln: ISG Sozialforschung und Gesellschaftspolitik 1997.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

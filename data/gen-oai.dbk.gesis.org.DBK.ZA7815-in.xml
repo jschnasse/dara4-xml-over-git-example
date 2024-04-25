@@ -1,0 +1,230 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Current Questions on the Refugee Situation (August 2021)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Aktuelle Fragen zur Flüchtlingssituation (August 2021)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7815</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Aktuelle Fragen zur Flüchtlingssituation (August 2021)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Current Questions on the Refugee Situation (August 2021)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Presse- und Informationsamt der Bundesregierung, Berlin</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7815?doi=10.4232/1.13862</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13862</doiProposal>
+	<publicationDate>
+		<date>2022-02-16</date>
+	</publicationDate>
+	<publicationPlace>Cologne, Germany</publicationPlace>
+	<publisher>
+		<institution>
+			<institutionName>GESIS</institutionName>
+		</institution>
+	</publisher>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7815</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT14</identifier>
+					<!-- Politische Fragen (Issues) -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Political behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Im Auftrag des Presse- und Informationsamts der Bundesregierung hat das Meinungsforschungsinstitut Kantar im Mai 2021 eine Kurzumfrage durchgeführt, die sich mit der Einstellung der deutschen Bevölkerung zur Flüchtlingssituation befasst. Schwerpunkt ist dabei die Einstellung zu Flüchtlingsfragen und der Arbeit der Bundesregierung in diesem Bereich.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>1. Trendfragen: Sorge um hohe Flüchtlingszahlen; Bewertung zu Vor- und Nachteilen der Flüchtlingsaufnahme (kurzfristig und langfristig); Beurteilung von Fortschritten der Bundesregierung bei der Bewältigung der Flüchtlingssituation.
+2. Konflikte in Deutschland zwischen verschiedenen Gruppen (Arm und Reich, Arbeitgebern und Arbeitnehmern, Jungen und Alten, Ausländern und Deutschen, Ostdeutschen und Westdeutschen, Frauen und Männern, linken und rechten politischen Kräften, Flüchtlingen und bereits länger hier lebende Migranten); Meinung zur Abschiebung abgelehnter Asyslbewerber aus Afghanistan (weiterhin Abschiebung nach Afghanistan vs. Abschiebestopp aufgrund der aktuellen Sicherheitslage in Afghanistan). 
+Demographie: Geschlecht; Alter; Bildung; Berufstätigkeit; Haushaltsgröße; Anzahl Personen im Haushalt ab 14 Jahren; Parteipräferenz; Wahlberechtigung; Haushaltsnettoeinkommen.
+Zusätzlich verkodet wurde: Befragten-ID; Gewichtungsfaktor; Interviewdatum; BIK-Ortsgröße; Bundesland; West/Ost; Mobilfunk vs. Festnetz; Berufskategorie. 	</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>On behalf of the Press and Information Office of the Federal Government, the opinion research institute Kantar conducted a short survey in May 2021 on the attitudes of the German population towards the refugee situation. The focus is on attitudes towards refugee issues and the work of the Federal Government in this area.	</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>1. Trend questions: concern about high refugee numbers; assessment on advantages and disadvantages of taking in refugees (short-term and long-term); assessment of progress made by the federal government in dealing with the refugee situation.
+2. Conflicts in Germany between different groups (rich and poor, employers and employees, young and old, foreigners and Germans, East Germans and West Germans, women and men, left-wing and right-wing political forces, refugees and migrants already living here for a longer period of time); opinion on the deportation of rejected asylum applicants from Afghanistan (continued deportation to Afghanistan vs. deportation stop due to the current security situation in Afghanistan).
+Demography: sex; age; education; occupation; household size; number of persons in the household aged 14 and over; party preference; voter eligibility; net household income.
+Additionally coded were: Respondent ID; weighting factor; interview date; BIK locality size; federal state; west/east; mobile vs. landline; occupational category.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutschsprachige Bevölkerung ab 14 Jahren in Privathaushalten in der Bundesrepublik Deutschland. </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German-speaking population aged 14 and over in private households in the Federal Republic of Germany.
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Kombinierte Festnetz- und Mobilfunk-Stichprobe (Dual-Frame-Ansatz) im Verhältnis  80% Festnetz : 20% Mobil</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Combined landline and mobile sample (dual-frame approach) in the ratio 80% landline : 20% mobile</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2021-08-04</date>
+				</startDate>
+				<endDate>
+					<date>2021-08-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Kantar, München</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>1519</numberUnits>
+			<numberVariables>33</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie wurde im Auftrag des Bundespresseamts durchgeführt.
+
+Die Trendfragen führen die Kumulationen ´Fragen zur Flüchtlingssituation in Deutschland´ von 2016 (ZA6628), 2017 (ZA6634), 2018 (ZA6716), 2019 (ZA6726) und 2020 (ZA7656) fort.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The study was commissioned by the Federal Press Office.
+
+The trend questions are the continuation of the cumulations ´Questions about the Situation of Refugees in Germany´ of 2016 (ZA6628), 2017 (ZA6634) 2018 (ZA6716), 2019 (ZA6726), and 2020 (ZA7656).</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Auswertungen zu Studie ZA7815 – Aktuelle Fragen zur Flüchtlingssituation (August 2021)
+Herausgeber: Kantar</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

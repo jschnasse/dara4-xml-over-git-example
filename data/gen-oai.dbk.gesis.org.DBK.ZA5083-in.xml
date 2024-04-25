@@ -1,0 +1,298 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Regulation of biographical transitions in second generation immigrants in Germany and Israel'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Regulation biographischer Übergänge bei Migranten der zweiten Generation in Deutschland und Israel'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA5083</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Regulation biographischer Übergänge bei Migranten der zweiten Generation in Deutschland und Israel</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Regulation of biographical transitions in second generation immigrants in Germany and Israel</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Yoav</firstName>
+				<middleName/>
+				<lastName>Lavee</lastName>
+				<affiliation>
+					<affiliationName>University of Haifa, Israel</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Bernhard</firstName>
+				<middleName/>
+				<lastName>Nauck</lastName>
+				<affiliation>
+					<affiliationName>Technische Universität Chemnitz</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Avi</firstName>
+				<middleName/>
+				<lastName>Sagi-Schwartz</lastName>
+				<affiliation>
+					<affiliationName>University of Haifa, Israel</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Rainer K.</firstName>
+				<middleName/>
+				<lastName>Silbereisen</lastName>
+				<affiliation>
+					<affiliationName>Friedrich Schiller University Jena</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Anja</firstName>
+				<middleName/>
+				<lastName>Steinbach</lastName>
+				<affiliation>
+					<affiliationName>Technische Universität Chemnitz</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Peter F.</firstName>
+				<middleName/>
+				<lastName>Titzmann</lastName>
+				<affiliation>
+					<affiliationName>Friedrich Schiller University Jena</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5083?doi=10.4232/1.11700</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11700</doiProposal>
+	<publicationDate>
+		<date>2013-06-26</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5083</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT55</identifier>
+					<!-- Erziehung, Schulwesen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>Kinderbetreuung</keyword>
+				<keyword>Einschulung</keyword>
+				<keyword>Persönlichkeit</keyword>
+				<keyword>Berufstätigkeit</keyword>
+				<keyword>soziale Beziehungen</keyword>
+				<keyword>Erziehung</keyword>
+				<keyword>Migrationshintergrund</keyword>
+				<keyword>kindliche Entwicklung</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>child care</keyword>
+				<keyword>school enrollment</keyword>
+				<keyword>personality</keyword>
+				<keyword>gainful occupation</keyword>
+				<keyword>social relations</keyword>
+				<keyword>education</keyword>
+				<keyword>migration background</keyword>
+				<keyword>child development</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die vom Bundesministerium für Bildung und Forschung in Auftrag gegebene Studie „Regulation biographischer Übergänge bei Migranten der zweiten Generation in Deutschland und Israel“ untersucht die Fragestellung, welche Faktoren die positive Entwicklung von Kindern, Jugendlichen und jungen Erwachsenen fördert. Dazu wurden biografische Übergänge während der ersten drei Lebensjahrzenten bei Einheimischen, Angehörigen von Minderheiten und Menschen mit Migrationshintergrund in Deutschland und Israel aus der Längsschnittperspektive untersucht. Insbesondere wurde der Fokus auf die folgenden vier biografischen Übergänge gelegt: Eintritt in den Kindergarten und die Einschulung in der Kindheit, erste Partnerschaften im Jugendalter und das Zusammenleben als Paar im jungen Erwachsenenalter. Im Rahmen von standardisierten persönlichen Interviews wurden in Deutschland einheimische Deutsche, Aussiedler, jüdische Einwanderer aus der ehemaligen Sowjetunion und türkische Migranten befragt. In Israel waren einheimische Israelis, Personen, die zur arabischen Minderheit zählen, sowie russisch-jüdische Einwanderer Zielgruppe der Befragung. In Deutschland wurde eine Zufallsstichprobe auf Grundlage der Registerdaten von Frankfurt und Stuttgart für alle Befragungsgruppen gezogen. Da Russisch-jüdische Einwanderer nicht auf Grundlage der Registerdaten identifizierbar waren, wurden sie durch Schneeballverfahren rekrutiert. In Israel wurde eine mehrstufige Zufallsstichprobe auf der Grundlage statistischer Flächeneinheiten mit anschließendem Telefonscreening gebildet.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The study "Regulation of Biographical Transitions among Second-Generation Migrants in Germany and Israel," commissioned by the German Federal Ministry of Education and Research, investigates the question of which factors promote the positive development of children, adolescents, and young adults. For this purpose, biographical transitions during the first three decades of life among natives, members of minorities, and people with a migration background in Germany and Israel were examined from a longitudinal perspective. In particular, the focus was on the following four biographical transitions: Entry into kindergarten and school enrollment in childhood, first partnerships in adolescence, and living together as a couple in young adulthood. In Germany, native Germans, ethnic German repatriates, Jewish immigrants from the former Soviet Union, and Turkish migrants were interviewed using standardized personal interviews. In Israel, native Israelis, persons belonging to the Arab minority, and Russian Jewish immigrants were the target group of the survey. In Germany, a random sample was drawn based on register data from Frankfurt and Stuttgart for all survey groups. Since Russian-Jewish immigrants were not identifiable based on the register data, they were recruited through snowball sampling. In Israel, a multistage random sample was formed based on statistical areas followed by telephone screening.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IL</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Individuen vor und nach Entwicklungsübergängen (in Israel und Deutschland über sieben ethnischen Gruppen hinweg; einheimische Deutsche, russisch-jüdische Einwanderer, deutschstämmige Aussiedler, türkische Einwanderer, israelische Veteranen, russisch-jüdische Einwanderer, arabischstämmige Menschen)
+
+Übergang zum Kindergarten (T1):  Kinder von 2-5 Jahre
+
+Übergang zur Schule (T2): Kinder von 5-7 Jahre
+
+Übergang zu der ersten romantischen Beziehung (T3): Heranwachsende von 15-18 Jahre
+
+Übergang zum Zusammenleben (T4): Junge Erwachsene von 20-30 Jahre </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Individuals before and after developmental transitions (in Israel and Germany, seven ethnic groups; native Germans, Russian-Jewish immigrants, ethnic German repatriates, Turkish immigrants, Veteran Israelis, Russian-Jewish immigrants, Arabs).
+
+Transition to Kindergarten (T1):  Children from 2-5 years old
+
+Transition to school (T2): Children from 5-7 years
+
+Transition to first romantic relationship (T3): Adolescents from 15-18 years
+
+Transition to cohabitation (T4): Young adults from 20-30 years</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl; Nicht-Wahrscheinlichkeitsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability; Non-probability</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2007-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2008-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Panel</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>Distributor</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>HostingInstitution</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.PAPI</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>3686</numberUnits>
+			<numberVariables>669</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Eltern###</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>parents###</text>
+		</note>
+	</notes>
+</resource>

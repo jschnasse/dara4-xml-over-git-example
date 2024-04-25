@@ -1,0 +1,229 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Current Questions on Migration / Integration (January 2023)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Aktuelle Fragen zu Migration / Integration (Januar 2023)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7928</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Aktuelle Fragen zu Migration / Integration (Januar 2023)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Current Questions on Migration / Integration (January 2023)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Presse- und Informationsamt der Bundesregierung, Berlin</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7928?doi=10.4232/1.14123</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.14123</doiProposal>
+	<publicationDate>
+		<date>2023-07-26</date>
+	</publicationDate>
+	<publicationPlace>Cologne, Germany</publicationPlace>
+	<publisher>
+		<institution>
+			<institutionName>GESIS</institutionName>
+		</institution>
+	</publisher>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7928</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT10</identifier>
+					<!-- Staat -->
+					<identifier>KAT14</identifier>
+					<!-- Politische Fragen (Issues) -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Government, political systems and organisations</term>
+					<term>Political behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Kurzumfrage über aktuelle Fragen zur Migration / Integration wurde vom Meinungsforschungsinstitut Kantar im Auftrag des Presse- und Informationsamtes der Bundesregierung durchgeführt. Im Erhebungszeitraum 18.01.2023 bis 24.01.2023 wurde die deutschsprachige Bevölkerung ab 14 Jahren in telefonischen Interviews (CATI) zu ihrer Einstellung zu Migration und Integration befragt. Schwerpunkt ist dabei die Einstellung zu Flüchtlingsfragen und zum Staatsangehörigkeitsrecht. Die Auswahl der Befragten erfolgte durch eine mehrstufige Zufallsstichprobe im Rahmen einer Mehrthemenbefragung (Emnid-Bus) unter Einschluss von Festnetz- und Mobilfunknummern (Dual-Frame Stichprobe).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Sorgen über die aktuellen Flüchtlingszahlen in Deutschland; kurzfristige und langfristige Prognose hinsichtlich der Vorteile oder Nachteile für Deutschland durch die Aufnahme von Flüchtlingen; Zustimmung zu Aussagen zum Thema Einwanderung nach Deutschland (Integration der Einwanderer in die deutsche Gesellschaft ist bisher alles in allem gut gelungen, in Deutschland leben schon so viele Einwanderer, dass keine weiteren aufgenommen werden können, durch Einwanderung steigt die Kriminalität in Deutschland sehr stark an, ich finde es gut, dass Deutschland durch Einwanderung kulturell vielfältiger wird); Zufriedenheit mit der Einwanderungspolitik der Bundesregierung in verschiedenen Bereichen (Umgang mit den Sorgen der Bevölkerung zum Thema Einwanderung, wie Ziele und Maßnahmen der Einwanderungspolitik der Bevölkerung erklärt werden, bisherige Bemühungen zur Integration von Einwanderern in den deutschen Arbeitsmarkt, bisherige Bemühungen um eine europäische Lösung für die Einwanderung nach Europa); Meinung zu eher vereinfachten oder eher erschwerten Regelungen der Zuwanderung für folgende Gruppen (Flüchtlinge aus der Ukraine, Flüchtlinge aus Syrien oder Afghanistan, Flüchtlinge aus anderen Ländern, Fachkräfte aus dem nicht-europäischen Ausland); Einstellung zum Staatsangehörigkeitsrecht (deutsche Staatsangehörigkeit künftig nicht mehr nach 8 Jahren sondern bereits nach 5 Jahre in Deutschland, kein Aufgeben der Staatsangehörigkeit des Herkunftslandes, kein Einbürgerungstest und nur einfache Deutschkenntnisse wenn älter als 67 Jahre). 
+Demographie: Geschlecht; Alter; Bildung; Berufstätigkeit; Haushaltsgröße; Anzahl der Personen im Haushalt ab 14 Jahren; Parteipräferenz; Wahlberechtigung; Haushaltsnettoeinkommen; Erhebung per Mobilfunk oder Festnetz.
+Zusätzlich verkodet wurde: laufende Befragtennummer; Gewichtungsfaktor; Interviewdatum; Ortsgröße (BIK-Regionen); Bundesland; Befragungsgebiet West/Ost.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The short survey on current questions on migration / integration was conducted by the opinion research institute Kantar on behalf of the Press and Information Office of the Federal Government. During the survey period 18.01.2023 to 24.01.2023, the German-speaking population aged 14 and over was surveyed in telephone interviews (CATI) on their attitudes toward migration and integration. The focus is on attitudes toward refugee issues and citizenship law. Respondents were selected by a multi-stage random sample in a multi-topic survey (Emnid-bus) including landline and mobile phone numbers (dual-frame sample).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Concerns about the current numbers of refugees in Germany; short-term and long-term prognosis regarding the advantages or disadvantages for Germany of accepting refugees; agreement with statements on the subject of immigration to Germany (integration of immigrants into German society has been good so far, all in all, there are already so many immigrants living in Germany that no more can be taken in, crime in Germany is rising very sharply as a result of immigration, I think it is good that Germany is becoming more culturally diverse as a result of immigration); satisfaction with the federal government´s immigration policy in various areas (dealing with the population´s concerns about immigration, how the goals and measures of immigration policy are explained to the population, efforts to date to integrate immigrants into the German labor market, efforts to date to find a European solution for immigration to Europe); opinion on rather simplified or rather more difficult regulations for immigration for the following groups: refugees from Ukraine, refugees from Syria or Afghanistan, refugees from other countries, skilled workers from non-European countries; attitude towards citizenship law (German citizenship in the future not after 8 years but already after 5 years in Germany, no giving up of citizenship of the country of origin, no naturalisation test and only simple knowledge of German if older than 67 years).
+Demography: sex; age; education; employment status; household size; number of persons in the household aged 14 and over; party preference; voter eligibility; net household income; survey by mobile or landline.
+Additonally coded were: current respondent number; weighting factor; interview date; city size (BIK regions); federal state; survey area west/ east.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutschsprachige Bevölkerung ab 14 Jahren in Privathaushalten in der Bundesrepublik Deutschland. Auswahlgesamtheit sind die Privathaushalte in der Bundesrepublik mit mindestens einem Festnetzanschluss sowie Personen mit mindestens einem Mobiltelefon.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German-speaking population aged 14 and over in private households in the Federal Republic of Germany. The sample population consists of private households in the Federal Republic of Germany with at least one fixed network connection and persons with at least one mobile phone.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Kombinierte Festnetz- und Mobilfunk-Stichprobe (Dual-Frame-Ansatz (64,4 % Festnetz, 35,6 % Mobil) im Rahmen einer Mehrthemenbefragung (Emnid-Bus).
+Die Telefonnummern der Festnetzstichprobe wurden per ”Random Last Two Digits - RL(2)DVerfahren” in Anlehnung an das sogenannte Gabler/ Häder-Verfahren generiert. Innerhalb der Haushalte wurden die zu befragenden Personen systematisch per Zufallsschlüssel ausgewählt. 
+Die Mobilfunkstichprobe wurde analog gezogen, allerdings entfiel hier die regionale Schichtung, da aus dem ADM-Mobilfunksample keine Regionalinformationen zu den Nummernstämmen verfügbar sind. Da Mobiltelefone fast ausschließlich von einer Person genutzt werden, entfiel für die Mobilfunkstichprobe zudem die systematische Zielpersonenauswahl.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Probability sample: Multi-stage random sample; combined fixed-network and mobile sample (dual-frame approach (64,4 % fixed network, 35,6 % mobile) as part of a multi-topic survey (Emnid bus).
+The telephone numbers of the fixed network sample were generated using the "Random Last Two Digits - RL(2)DV method" based on the Gabler/Häder method. Within the households, the persons to be interviewed were systematically selected by random key.
+The mobile phone sample was drawn in the same way, but the regional stratification was omitted, since no regional information on the number trunks is available from the ADM mobile phone sample. Since mobile phones are used almost exclusively by one person, systematic target selection was also omitted for the mobile phone sample.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2023-01-18</date>
+				</startDate>
+				<endDate>
+					<date>2023-01-24</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Kantar, München</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>1503</numberUnits>
+			<numberVariables>37</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie wurde im Auftrag des Bundespresseamtes durchgeführt.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The survey was commissioned by the Federal Press Office.</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Migration – Januar 2023 : Auswertungen zu Studie ZA7928 – Aktuelle Fragen zur Migration / Integration (Januar 2023).
+Herausgeber: Kantar</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

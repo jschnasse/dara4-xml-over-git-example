@@ -1,0 +1,269 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Foreign Workers in the Federal Republic (1980) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Ausländische Arbeitnehmer in der Bundesrepublik (1980)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1328</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Ausländische Arbeitnehmer in der Bundesrepublik (1980)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Foreign Workers in the Federal Republic (1980) 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>MARPLAN, Offenbach</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1328?doi=10.4232/1.1328</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1328</doiProposal>
+	<publicationDate>
+		<year>1984</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1328</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Medien</term>
+					<term>Einkommen, Vermögen und Geldanlagen/Sparen</term>
+					<term>Konsum und Konsumverhalten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Social conditions and indicators</term>
+					<term>Media</term>
+					<term>Income, property and investment/saving</term>
+					<term>Consumption and consumer behaviour</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die soziale und wirtschaftliche Situation der ausländischenArbeitnehmer in der Bundesrepublik. Konsumverhalten und Geldfragen.
+Themen: 1.) Zur wirtschaftlichen und sozialen Situation:Derzeitige und beabsichtigte weitere Aufenthaltsdauer in der BRD;Häufigkeit von Heimatbesuchen in den letzten Jahren; präferierterReisemonat und benutztes Verkehrsmittel; Familienangehörige in derBundesrepublik; Zeitpunkt des Zuzugs der Familienmitglieder;größte Sorgen und Schwierigkeiten in der Bundesrepublik; vermuteteEinstellung der Deutschen zu Gastarbeitern; Beurteilung desEinsatzes von Gewerkschaften, Behörden, Organisationen und Verbändenfür die Probleme ausländischer Arbeitnehmer; wichtigste Aufgabender Gewerkschaften; Arbeitsplatzzufriedenheit; Interesse an derdeutschen Staatsbürgerschaft; Parteipräferenz.
+2.) Geldfragen: Kenntnis und Nutzung von Geldanlagemöglichkeiten;Höhe des Gesamtbetrages auf deutschen Sparkonten; Name desKreditinstitutes; Anzahl der abgeschlossenen Bausparverträge in derBundesrepublik; Abschlußjahr des Vertrages; Vermittler; Gradder eigenen Informiertheit über Bausparvertragsinhalte undVerfahrensweisen allgemein; Sparzweck; Zufriedenheit mit derBetreuung durch die Bausparkasse nach Vertragsende; Höhe derGeldüberweisungen und Geldmitnahme in die Heimat durch den Befragtenbzw. Haushaltsmitglieder.
+3.) Rauchverhalten: Häufigkeit des Rauchens ausgewählterTabakprodukte; präferierte Marke; Zigarettenkonsum pro Tag; Wechselder Zigarettenmarke; Einkaufsort und Automatenkäufe;Rauchverhalten am Vortag in Form von eigener, präferierter Marke undsonstigen Marken; Umfang und Marken der in die Heimatmitgenommenen Zigaretten.
+4.) Konsumverhalten und sonstiges: Präferierte Kaffeeart; täglicherKaffeekonsum und Zubereitungsart sowie Marke; Beurteilung dereigenen derzeitigen wirtschaftlichen Lage und der zukünftigenEntwicklung; Einschätzung der beruflichen Chancen im Vergleich zudeutschen Arbeitnehmern; Arbeitslosigkeit; Kurzarbeit;Industriezweig; Wohnsituation und Wohnzufriedenheit; Schulbesuchsdauer;tatsächliche Miethöhe und maximal vertretbare Kosten; PKW-Besitzund Marke; Neukauf oder Gebrauchtwagenkauf; Autoradiobesitz undMarke; gelesene deutsche Zeitschriften und Zeitungen.
+Demographie: Alter; Geschlecht; Berufsausbildung; Beruf;Berufstätigkeit; Branche des Betriebes; Einkommen; Wohnstatus;Bundesland.
+Interviewerrating: Störungen des Interviewablaufs; Einschätzungder Verständigungsmöglichkeiten; Kooperationsbereitschaft desBefragten; Einschätzung der Kenntnisse der Landessprache sowieder deutschen Sprache; Ortsgröße.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The social and economic situation of foreign workers in the FederalRepublic. Consumer habits and money questions. 
+Topics: 1. Economic and social situation: current and intended furtherlength of stay in the FRG; frequency of home visits in the last fewyears; preferred travel month and means of transport used; familymembers in the Federal Republic; time of moving to Germany by familymembers; greatest concerns and difficulties in the Federal Republic;assumed attitude of Germans to guest workers; judgement on the effortof trade unions, authorities, organizations and associations for theproblems of foreign workers; most important tasks of trade unions; jobsatisfaction; interest in German citizenship; party preference. 
+2. Money questions: knowledge and use of investment possibilities;amount of total sum in German savings accounts; name of creditinstitute; number of completed building loan contracts in the FederalRepublic; year of completion of contract; agent; degree to whichinformed about contents of building loan contract and procedures ingeneral; savings purpose; satisfaction with service by the Loan andBuilding Association after end of contract; amount of money transfersand money taken home by the respondent or members of household. 
+3. Smoking habits: frequency of smoking selected tobacco products;preferred brand; use of cigarettes per day; change of brand ofcigarettes; shopping place and purchase from machine; smoking behavioryesterday in form of personal, preferred brand and other brands; extentand brands of cigarettes taken home. 
+4. Consumer habits and miscellaneous: preferred type of coffee; dailycoffee consumption and manner of preparation as well as brand;judgement on one´s own current economic situation and futuredevelopment; assessment of occupational chances in comparison to Germanworkers; unemployment; short time work; industry branch; housingsituation and satisfaction with housing; length of school attendance;actual amount of rent and maximum justifiable costs; car possession andbrand; purchased new or used; car radio possession and brand; Germanmagazines and newspapers read. 
+Demography: age; sex; occupational training; occupation; employment;area of business of company; income residential status; state. 
+Interviewer rating: disturbances of the course of the interview;assessment of the ability to communicate; willingness of respondent tocooperate; assessment of knowledge of national language as well as ofthe German language; city size. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>FRG incl. West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD einschl. West-Berlin </freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Türken, Italiener, Jugoslawen, Griechen und Spanier</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Turks, Italians, Yugoslavs, Greeks and Spaniards</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Quotenauswahl nach Geschlecht, Alter, Wohnverhältnissen, Familienstand
+und Zugangsjahr und Arbeitsamtbezirken </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Quota sample according to sex, age, housing conditions, marital status and arrival
+year and employment office districts </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1980-03</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen.
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire. 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>288</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Interviews wurden von speziell für diese Aufgabe geschulten
+Interviewern, die über Grundkenntnisse der jeweiligen Landessprache
+verfügten, durchgeführt. Um eine Standardisierung der Befragung zu
+ermöglichen, wurden die kompletten Erhebungsunterlagen
+zweisprachig bearbeitet, d.h. Fragen und Antwortvorgaben lagen dem
+Befragten in seiner jeweiligen Landessprache schriftlich vor; der
+Interviewer notierte die Angaben in einem deckungsgleichen
+Fragebogenexemplar.
+Die Studie ist Teil einer Mehrthemen-Erhebung und Teil einer
+Trend-Erhebung.
+Die übrigen "Ausländerstudien" aus dieser Reihe sind unter den
+folgenden ZA-Studien-Nrn. archiviert:
+ZA-Studien-Nr. 0606 (1970)
+ZA-Studien-Nr. 0607 (1971)
+ZA-Studien-Nr. 0608 (1972)
+ZA-Studien-Nr. 0676 (1973)
+ZA-Studien-Nr. 0677 (1974)
+ZA-Studien-Nr. 0928 (1975)
+ZA-Studien-Nr. 0929 (1976)
+ZA-Studien-Nr. 1075 (1977)
+ZA-Studien-Nr. 1076 (1978)
+ZA-Studien-Nr. 1077 (1979)
+ZA-Studien-Nr. 1329 (1982)
+ZA-Studien-Nr. 1358 (Datenpool 1970-1982)
+ZA-Studien-Nr. 1629 (1984)
+ZA-Studien-Nr. 1630 (1985)
+ZA-Studien-Nr. 1631 (1986)
+ZA-Studien-Nr. 1678 (1988)
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The interviews were conducted by interviewers specially schooled for 
+this task and having basic knowledge of the respective national 
+language. To make standardization of the survey possible the complete 
+survey documents were processed in two languages, i.e. questions and 
+possible responses were available to the respondent in his respective 
+national language; the interviewer noted responses in an identical 
+copy of the questionnaire. The study is part of an omnibus survey and 
+part of a trend survey. The remaining "foreigner studies" from this 
+series are archived under the following ZA Study Nos.: 
+ZA Study No. 0606 (1970) 
+ZA Study No. 0607 (1971) 
+ZA Study No. 0608 (1972) 
+ZA Study No. 0676 (1973) 
+ZA Study No. 0677 (1974) 
+ZA Study No. 0928 (1975) 
+ZA Study No. 0929 (1976) 
+ZA Study No. 1075 (1977) 
+ZA Study No. 1076 (1978) 
+ZA Study No. 1077 (1979) 
+ZA Study No. 1329 (1982) 
+ZA Study No. 1358 (data pool 1970-1982) 
+ZA Study No. 1629 (1984) 
+ZA Study No. 1630 (1985) 
+ZA Study No. 1631 (1986) 
+ZA Study No. 1678 (1988) 
+</text>
+		</note>
+	</notes>
+</resource>

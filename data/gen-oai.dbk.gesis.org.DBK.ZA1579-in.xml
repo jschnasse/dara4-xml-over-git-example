@@ -1,0 +1,278 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Socio-Ecological Conditions of the Integration of Foreign Workers
+in the Ruhr Area (Germans in Duisburg)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Sozialökologische Bedingungen der Eingliederung ausländischer
+Arbeitnehmer im Ruhrgebiet (Deutsche in Duisburg)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1579</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Sozialökologische Bedingungen der Eingliederung ausländischer
+Arbeitnehmer im Ruhrgebiet (Deutsche in Duisburg)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Socio-Ecological Conditions of the Integration of Foreign Workers
+in the Ruhr Area (Germans in Duisburg)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Hartmut</firstName>
+				<middleName/>
+				<lastName>Esser</lastName>
+				<affiliation>
+					<affiliationName>Rhein-Ruhr-Institut für Sozialforschung und Politikberatung
+(RISP), Duisburg
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Paul B.</firstName>
+				<middleName/>
+				<lastName>Hill</lastName>
+				<affiliation>
+					<affiliationName>Rhein-Ruhr-Institut für Sozialforschung und Politikberatung
+(RISP), Duisburg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Georg von</firstName>
+				<middleName/>
+				<lastName>Oepen</lastName>
+				<affiliation>
+					<affiliationName>Rhein-Ruhr-Institut für Sozialforschung und Politikberatung
+(RISP), Duisburg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1579?doi=10.4232/1.1579</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1579</doiProposal>
+	<publicationDate>
+		<year>1987</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1579</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Minderheiten</term>
+					<term>Wohnraum</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Community, urban and rural life</term>
+					<term>Minorities</term>
+					<term>Housing</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Das Verhältnis der deutschen Bevölkerung zu ausländischenArbeitnehmern.
+Themen: Religiosität; Nationalität des Ehepartners; Alter undAnzahl der Kinder; beruflicher Aufstieg; Arbeitslosigkeitsdauer;soziale Herkunft; Dauer der Betriebszugehörigkeit; Betriebsgröße;Name der Firma und Branchenzugehörigkeit; Ausländeranteil imBetrieb; Anzahl der deutschen und ausländischen Arbeitskollegenim unmittelbaren Arbeitsbereich; Anzahl der Privatkontakte zudeutschen und ausländischen Arbeitskollegen;Arbeitsplatzcharakteristika (Skala); Berufszufriedenheit;nationalitätsbezogene Assoziation zum Begriff Ausländer; Probleme durchAusländer; soziale Distanz (Skala); wahrgenommene soziale Distanzder Familienangehörigen und Freunde gegenüber Ausländern;Wichtigkeit und Realisierung materieller bzw. immatriellerLebensbedingungen; präferierte Maßnahmen zur Sicherung vonArbeitsplätzen (Skala); empfundene Bedrohung des persönlichenLebensraums (Skala); Autoritarismusskala; Wohndauer in Duisburg,im Stadtteil und in der jetzigen Wohnung; Vorstellungen von einemidealen Wohngebiet und tatsächliche Wohnsituation; empfundeneBedrohungen des Wohngebiets; Verbundenheit mit dem Ruhrgebiet,der Stadt Duisburg, dem Stadtteil und dem Wohnumfeld; Wohnstatus;Art der Wohnungsvermittlung; Gründe für Wohnungswechsel undEinzug in jetzige Wohnung; Miethöhe; gewünschteMindestausstattung der Wohnung; Mietobergrenze für eine bessere Wohnung;Wohnungsausstattung mit sanitären Einrichtungen; Wohnungsgröße;Mängel bzw. Schäden in der Wohnung; Zufriedenheit mit derjetzigen Wohnung; Anzahl der Ausländer im Haus und derWohnumgebung; Schätzung des Ausländeranteils an der Wohnbevölkerungder Stadt Duisburg bzw. dem Stadtteil; Wichtigkeit und Nutzungausgewählter Infrastruktureinrichtungen des Wohnumfeldes undZufriedenheit mit diesen Einrichtungen (Skala); potentielleGründe für Wohnungswechsel sowie Interesse an Umzug;Diskriminierungsbereitschaft (Skala); Ausländerfeindlichkeit (Skalen);Zukunftsvorstellungen bezüglich des Zusammenlebens von Deutschenund Ausländern; Nachbarschaftskontakte; Kontakte zu Freundenund Bekannten; Kontakte zu Ausländern; Sympathie für Ausländer(Skala); Wichtigkeit ausgewählter Wertvorstellungen; Bewertungdeutscher und türkischer Wertvorstellungen; Parteipräferenz;parteipolitische Präferenz auf kommunaler Ebene; Maßnahmen zurVeränderung des Verhältnisses zwischen Deutschen und Ausländern.Zusätzlich verkodet wurde: Haustyp; Gebäudealter; Gebäudezustand;Gebäudenutzung; Nähe zu angrenzender Industrie; aggregierteRegionaldaten zur Struktur der Gesamtbevölkerung sowie Angabenüber den Ausländeranteil und den Türkenanteil im Wohnblock, derStraße und im Ortsteil.
+Demographie: Alter; Geschlecht; Familienstand; Schulbildung;Berufsausbildung; Beruf; Berufliche Position; Haushaltseinkommen;Haushaltsgröße.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The relationship of the German population to foreign workers.
+Topics: religiousness; nationality of spouse; age and number ofchildren; occupational advancement; duration of unemployment; socialorigins; length of company employment; company size; name of companyand area of business; proportion of foreigners at work; number ofGerman and foreign colleagues in immediate work area; number of privatecontacts with German and foreign colleagues; job characteristics(scale); satisfaction with occupation; association with the termforeigner relative to nationality; problems due to foreigners; socialdistance (scale); perceived social distance of family members andfriends regarding foreigners; importance and realization of material orimmaterial living conditions; preferred measures to secure jobs(scale); perceived threat to personal living space (scale);authoritarianism scale; length of residence in Duisburg, in part oftown and in current residence; concepts of an ideal residential areaand actual housing situation; perceived threat to residential area;ties to the Ruhr area, the city of Duisburg, the part of town and theresidential surroundings; residential status; manner of arranging forresidence; reasons for change of residence and moving into currentresidence; amount of rent; desired minimum furnishing of residence;rent upper limit for a better residence; residence equipped withsanitary facilities; size of residence; deficiencies or damages inresidence; satisfaction with current residence; number of foreigners inbuilding and residential surroundings; estimate of proportion offoreigners in residential population of the city of Duisburg or part oftown; importance and use of selected infrastructure facilities ofresidential surroundings and satisfaction with these institutions(scale); potential reasons for change of residence as well as interestin moving; readiness to discriminate (scale); hostility to foreigners(scales); concepts of the future regarding life together betweenGermans and foreigners; neighborhood contacts; contacts with friendsand acquaintances; contacts with foreigners; sympathy for foreigners(scale); importance of selected moral concepts; evaluation of Germanand Turkish moral concepts; party preference; party politicalpreference at municipal level; measures to change the relationshipbetween Germans and foreigners.
+Also encoded was: type of building; age of building; condition ofbuilding; use of building; closeness to near-by industry; aggregateregional data on structure of total population as well as informationon proportion of foreigners and proportion of Turks in apartment house,street and part of town.
+Demography: age; sex; marital status; school education; vocationaltraining; occupation; occupational position; household income; size ofhousehold. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Duisburg</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Duisburg</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutsche in der Einwohnermeldekartei in vier Stadtteilen mit
+unterschiedlich hohen Ausländeranteilen </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Germans from the resident registry in four parts of town with different proportions of foreigners </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Einfache Zufallsauswahl 
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Simple random selection</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1982-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1982-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Rhein-Ruhr-Institut fuer Sozialforschung und Politikberatung (RISP), Duisburg
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>385</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Eine vergleichbare Untersuchung bei Ausländern in Duisburg ist
+unter der ZA-Studien-Nr. 1578 archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>A comparable investigation among foreigners in Duisburg is archived
+under ZA Study No. 1578. </text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Esser, Hartmut; Hill, Paul Bernhard; Oepen, Georg von: 
+Ausländerintegration im Ruhrgebiet: Sozialökologische Bestimmungsfaktoren. Band 1 u. 2. 
+Essen und Duisburg: Kommunalverband Ruhrgebiet 1983. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Esser, Hartmut: 
+Social context and inter-ethnic relations: the case of migrant workers in West German urban areas. 
+In: European Sociological Review, 2, 1986, S. 30-51. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Esser, Hartmut: 
+Lokale Identifikation im Ruhrgebiet: Zur allgemeinen Erklärung einer speziellen Angelegenheit. 
+In: Informationen zur Raumentwicklung, Heft 3, 1987, S. 109-118. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Hill, Paul Bernhard: 
+Räumliche Nähe und soziale Distanz zu ethnischen Minderheiten. 
+In: Zeitschrift für Soziologie, 13, 1984, S. 363-370.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

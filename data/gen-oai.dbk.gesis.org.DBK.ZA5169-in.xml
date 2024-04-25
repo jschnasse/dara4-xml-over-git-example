@@ -1,0 +1,292 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Social relations and conflict potentials in the context of experiences of denied participation and appreciation of youth with and without a migrant background '
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Soziale Beziehungen und Konfliktpotentiale im Kontext verweigerter Anerkennung bei Jugendlichen mit und ohne Migrationshintergrund'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5169</identifier>
+		<currentVersion>1.1.1</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Soziale Beziehungen und Konfliktpotentiale im Kontext verweigerter Anerkennung bei Jugendlichen mit und ohne Migrationshintergrund</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Social relations and conflict potentials in the context of experiences of denied participation and appreciation of youth with and without a migrant background </titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Jürgen</firstName>
+				<middleName/>
+				<lastName>Mansel</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Viktoria</firstName>
+				<middleName/>
+				<lastName>Spaiser</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5169?doi=10.4232/1.5169</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.5169</doiProposal>
+	<publicationDate>
+		<date>2015-08-19</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5169</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+					<identifier>KAT55</identifier>
+					<!-- Erziehung, Schulwesen -->
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+					<identifier>KAT54</identifier>
+					<!-- Person, Persönlichkeit, Rolle -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Vorschulerziehung und Bildung in der Pflichtschulzeit</term>
+					<term>Religion und Werte</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>PSYCHOLOGIE</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>Jugend</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Compulsory and pre-school education</term>
+					<term>Religion and values</term>
+					<term>Social conditions and indicators</term>
+					<term>Political behaviour and attitudes</term>
+					<term>PSYCHOLOGY</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>Youth</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Wirkung von Diskriminierungs- und Stigmatisierungserfahrungen. Wahrgenommene institutionelle und interpersonelle Diskriminierung. Desintegration. Netzwerke und Mediennutzung. Selbstbild. Vorurteile. Konfliktneigung.
+Themen: Stabilität des Freundeskreises (Vertrautheit, Verlässlichkeit und Hilfsbereitschaft); Vorhandensein aller für  Jugendliche wichtigen Dinge; Häufigkeit der Internetnutzung. 
+1. Freizeitaktivitäten: Häufigkeit von Freizeitaktivitäten für soziale und politische Zwecke bzw. für andere Menschen (Interessen von Jugendlichen, Umwelt- und Tierschutz, Dialog zwischen verschiedenen Kulturen, Freiheit im Internet bzw. gegen Internet-Zensur, benachteiligte bzw. diskriminierte Gruppen, Menschen aus dem eigenen Herkunftsland, Menschen aus armen Ländern, Bewahrung von Kultur und Tradition des Herkunftslandes, für Bürgerrechte und Datenschutz, bessere Bildung, Menschenrechte, Frieden, Vaterland und die Ehre der Nation, eigene Religion, gegen Rassismus, grundlegende soziale und politische Veränderungen in Deutschland). 
+2. Mediennutzung: Häufigkeit der Internetnutzung für ausgewählte Aktivitäten; Internetnutzung für ausgewählte Formen politischer Partizipation (Protest-Mail, Teilnahme an Unterschriftenaktionen, Informieren Anderer über politische Ereignisse, aus Protest Server lahmgelegt oder Webseite gehackt, politische Diskussionen, Online-Leserbrief, Kommentar oder Blog, Organisation von Aktionen, Informieren über Politiker oder politische Ereignisse, Video ins Internet gestellt, um eine politische Meinung auszudrücken, Kontakt zu Politikern oder politisch Aktiven, ziviler Ungehorsam, Eintrag in Newsletter bzw. Mailinglist einer politischen Organisation, Webseite oder Forum mit politischem Inhalt gegründet); Internet als Chance (Mittel um eigene Wurzeln zu entdecken, herausfinden, wohin man gehört, Chance für Diskriminierte gehört zu werden, gemeinsame Interessenvertretung für Menschen mit wenig Macht); Charakterisierung der persönlichen Internetnutzung (problemlose Informationsbeschaffung, Kommunikation z.B. über Webcam, Chats, E-Mails, Kenntnisse zur Unterscheidung verlässlicher Informationsquellen, Verwendung von Anonymisierungstechniken wie Verschlüsselung von E-Mails, Schutz persönlicher Online-Daten vor unbefugtem Zugriff, Einhalten der Netiquette-Regeln, eigene Fähigkeit zum Programmieren von Webseiten, aktives Einbringen, Kenntnis über TCP bzw. IP-Protokolle und deren Verwendung); Nutzungshäufigkeit ausgewählter Medien für Informationen über das Weltgeschehen (Nachrichten deutscher und ausländischer Fernsehsender, deutsche Webseiten, Informationen im Internet in einer Fremdsprache bzw. der Sprache des Herkunftslandes); Einschätzung der Glaubwürdigkeit dieser Medien.
+3. Familiäres Umfeld: Persönliches Erleben innerhalb der Herkunftsfamilie: Zufriedenheit, Akzeptanz, Wohlfühlen, Liebe und Zuneigung); Konflikthäufigkeit mit den Eltern wegen Schulleistungen, Freunden bzw. Freundinnen, Ausgehen, wegen Kleinigkeiten oder ohne eigentlichen Anlass.
+4. Selbstbild: Einstellung zur eigenen Person (Selbstwertgefühl, Selbstwirksamkeitserwartungen; ausreichend Gelegenheit eigenen  Interessen nachzugehen, eigenes Können zeigen, empfundene Einengung durch Erwartungen anderer, Empathie; emotionales Befinden: Häufigkeit von Zorn, Angst, Ärger, Gefühl der Sinnlosigkeit, Wut, Hilflosigkeit, Erschöpfung, Einsamkeit, Aggressivität und Gereiztheit in den letzten Monaten; physische Verfassung: Häufigkeit ausgewählter körperlicher Beschwerden in den letzten zwölf Monaten (Händezittern, starkes Herzklopfen, Schweißausbrüche, Nervosität und Unruhe, Alpträume, Übelkeit, Kopfschmerzen, Magenbeschwerden); subjektiv wahrgenommene Diskriminierungs- und Benachteiligungserfahrung in den letzten zwölf Monaten (freundliche Begrüßung und Bitte um Auskunft, Komplimente von Unbekannten für das eigene Outfit, Polizeikontrolle, Lustigmachen, Beschimpfung bzw. Beleidigung, Ausgrenzung in Gleichaltrigengruppe, Verdächtigung für Taten anderer, verweigerter Zutritt in Diskothek oder Kneipe).
+5. Religion und Religiosität:Nur Muslime: Bedeutung der Religion im Lebensalltag: Häufigkeit persönlich erfahrener Anfeindungen bzw. von Anfeindungen im sozialen Umfeld durch Tragen eines Kopftuches, von Beschimpfungen als Terrorist, Beleidigung des Islam, kein Praktikumsplatz wegen muslimischer Religion.
+Wieder alle: Persönliche Bedeutung der ethnischen und der religiösen Zugehörigkeit; wahrgenommene Abwertung der eigenen Herkunftsgruppe: häufig negative Darstellung von Personen der eigenen Ethnie oder Religionsgemeinschaft in den Medien, viele Vorurteile; Religionszugehörigkeit; Kirchgangshäufigkeit; Gebetshäufigkeit; Selbsteinschätzung der Gläubigkeit; wer die Regeln der heiligen Schrift(en) nicht wörtlich befolgt, ist kein echter Gläubiger; Menschen, die eigene Religion modernisieren wollen, zerstören die wahre Lehre.
+6. Soziales und schulisches Umfeld:Charakterisierung der schulischen Situation (gut Auskommen mit Mitschülern, außerschulische Treffen mit Klassenkameraden, ungerechte Behandlung durch Lehrkräfte, Eingehen auf Eigenarten und Probleme einzelner Schüler durch die meisten Lehrkräfte, Gefühl ernst genommen und anerkannt zu werden, Wut auf Lehrer); Meinung zum schulischen Lernen (sinnloser Unterrichtsstoff, wirklichkeitsfremdes Lernen in der Schule, Gelerntes später unbrauchbar); Zufriedenheit mit den eigenen Schulleistungen; Beurteilung der eigenen Schulleistungen im Vergleich zu denen der Mitschüler); empfundene Abwertung: Befragter ist den Anforderungen nicht gewachsen bzw. erfüllt seine Arbeit schlechter als der Durchschnitt; Häufigkeit empfundener schulischer Überforderung (den Anforderungen nicht gewachsen sein, nie fertig werden mit schulischen Aufgaben, ständiger Druck); Häufigkeit wahrgenommener Diskriminierung und Benachteiligung im schulischen Alltag (nicht drangenommen werden trotz melden, Lehrerlob, schlechtere Benotung als verdient, Anzweifeln von Angaben durch Lehrer, Rat zu einer Berufsausbildung statt Realschulabschluss oder Abitur, Bestrafung trotz Unschuld); Klasse wiederholt; Klassenziel im vergangenen Schuljahr erreicht; Sicherheit des Erreichens des angestrebten Schulabschlusses und des gewünschten Berufs; Zukunftsängste in Bezug auf das Erlernen des Wunschberufs, Betroffenheit von Armut, Arbeitsplatz finden; Einschätzung der Wahrscheinlichkeit, nicht den Wunschberuf zu erlernen, von eigener Armut und Arbeitslosigkeit; Beurteilung der allgemeinen wirtschaftlichen Lage in Deutschland; Soziale Lage: Beurteilung der Situation der eigenen Familie im Vergleich zu anderen Familien im Land sowie empfundener gerechter Anteil im Vergleich zu anderen; politische Entscheidungen nutzen anderen und schaden einem selbst; andere Menschen werden durch politische Entscheidungen besser behandelt als man selbst; Selbstwirksamkeit (Gehör verschaffen für eigene Interessen, Möglichkeit auf eigene Anliegen aufmerksam zu machen); Beziehung zum (Herkunfts-)Land (unvergleichlich großartige Kultur des Herkunftslandes, alle Landsleute sollten voller Stolz zu ihrem Herkunftsland stehen); stärkere Verbundenheit mit dem Herkunftsland oder mit Deutschland (nur Befragte mit nichtdeutscher Herkunft); Forderung nach Chancengleichheit für Migranten und Deutsche bei der Jobsuche; Bereicherung der deutschen Kultur durch Migranten; Menschen in Deutschland können viel vom Islam lernen; Islam sollte gleichwertig neben christlichen Religionen im Religionsunterricht behandelt werden; Sympathie für Menschen unterschiedlicher religiöser, sozialer und ethnischer Herkunft (Deutsche, Türken, Araber, Russlanddeutsche, Israelis, Kurden, Homosexuelle, Neonazis, Emos, Punks, Christen, Juden, Atheisten, Muslime, Aleviten, Sinti und Roma). 
+7. Einstellungen und Vorurteile: Einstellung zum Nahostkonflikt zwischen Israelis und Palästinensern; Einstellung zu Juden (Antisemitismus); Einstellung zu den USA (Antiamerikanismus); unterschiedliche Intelligenz von Menschen aus unterschiedlichen Ländern; natürliche Überlegenheit einiger Völker; Abwertung von Punks; Einstellung zu Homosexualität (Homophobie); Einfordern von Etabliertenvorrechten; Forderung nach härteren Strafen für Verbrecher und nach härterem Vorgehen gehen Außenseiter und Unruhestifter; Einstellung zum Miteinander von Frauen und Männern: Gleichberechtigung von Frauen in den westlichen Ländern längst verwirklicht; Sexismus; Einstellung zu Politik: gemeinsames Handeln Vieler kann einiges bewirken; durch gemeinsames Engagement können Menschen Politik und Gesellschaft mitgestalten; Verlässlichkeit der deutschen Regierung; Recht auf freie Meinungsäußerung als wichtigstes Freiheitsrecht; Demokratie als beste Staatsform; Politikverdrossenheit; politische Machtlosigkeit; Einstellung zu den gesellschaftlichen Verhältnissen in Deutschland (immer mehr Menschen werden an den Rand gedrängt, Reiche werden reicher und Arme ärmer, faire Behandlung, Gerechtigkeit, Konsummentalität verdirbt die Menschen, viele Deutsche sind egoistisch, junge Deutsche wollen nur Party machen (Abwertung von Deutschen); Konfliktverhalten: Gewaltbilligung und Gewaltbereitschaft; aggressive Emotionen; Häufigkeit gewalttätigen Verhaltens in den letzten 12 Monaten; Wohlfühlen im sozialen Umfeld: Gefühl der Geborgenheit und Zugehörigkeit; Häufigkeit politischer Gespräche mit den Eltern, Geschwistern, Verwandten, Freunden bzw. Schulkameraden, Menschen im Internet, in der Kirche / Moschee sowie mit Menschen in einer Partei bzw. politischen Gruppierung; eigene Mitgliedschaften, Mitgliedschaften der Eltern und Geschwister, von Verwandten sowie des vorgenannten Personenkreises (Parteimitgliedschaft, Mitgliedschaft in einem gemeinnützigen Verein, in einer politischen Gruppierung bzw. andere Form politischer Aktivität, gruppiert). 
+Demographie: Geschwister (top-coded); Anzahl der Bücher im Haushalt; sozio-ökonomischer Status von Mutter und Vater (ISEI); Migrationshintergrund (gruppiert); Geschlecht; Alter (top- und bottom-coded); Staatsangehörigkeit (deutsche, keine deutsche oder doppelte Staatsbürgerschaft); Wohndauer in Deutschland (Jahr gruppiert). 
+Zusätzlich verkodet wurde: Schulart.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Neukölln</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Neukölln</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Bielefeld</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Bielefeld</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Cologne</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Köln</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-HE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Frankfurt am Main</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Frankfurt am Main</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Schülerinnen und Schüler in der 10. Jahrgangsstufe aller Schultypen (Hauptschulen, Realschulen, Gesamtschulen, Gymnasien, Berufsschulen).</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Students in the 10th grade of all types of schools (primary schools, secondary schools, comprehensive schools, high schools, vocational schools)</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Nicht-Wahrscheinlichkeitsauswahl: Willkürliche Auswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Non-Probability Sample: Availability Sample </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2009-11</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2010-03</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Institut für interdisziplinäre Konflikt- und Gewaltforschung, Bielefeld</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Selbstausfüller: Papier</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Self-administered questionnaire: Paper</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>297</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Stichprobe setzt sich aus Schülerinnen und Schülern an Haupt-, Real-, Gesamtschulen, Gymnasien und Berufsschulen sowie im Berufsgrundschuljahr und sonstigen vollzeitschulischen Maßnahmen zusammen. Überwiegend wurden sie im 10. Jahrgang befragt. Da in Hessen der Hauptschulabschluss bereits nach 9 Schuljahren erreicht wird, richtete sich die Befragung in Frankfurt an die 9. Klasse dieses Schultyps. Abweichend wurden Schüler im 11. Jahrgang der gymnasialen Oberstufe befragt.
+
+Mit diesem Stichprobenkonzept verfolgten die Forscher das Ziel, einen gewissen Grad an Varianz der soziodemographischen Heterogenität und der Verschiedenheit der Ethnizität der Lebensumgebungen in der Grundgesamtheit abzubilden. Es handelt sich bei der Stichprobe aber um eine willkürliche Auswahl, weshalb sich die Daten nicht für Verteilungsaussagen über die Grundgesamtheit eignen.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Mansel, Jürgen; Spaiser, Viktoria. (2013): 
+Ausgrenzungsdynamiken: in welchen Lebenslagen Jugendliche Fremdgruppen abwerten. Konflikt- und Gewaltforschung. 
+Weinheim: Beltz Juventa.
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Derr, Maria; Hohlweg, Jelena; Salentin, Kurt (2014): 
+Soziale Beziehungen und Konfliktpotentiale im Kontext verweigerter Anerkennung bei Jugendlichen mit und ohne Migrationshintergrund: Datenhandbuch. Version 1 
+Bielefeld: IKG Technical Report Nr. 6</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

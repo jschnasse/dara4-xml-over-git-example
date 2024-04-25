@@ -1,0 +1,355 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Youth 2000'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Jugend 2000'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4724</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Jugend 2000</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Youth 2000</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Shell Jugendstudie</titleName>
+			<titleType>AlternativeTitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Shell Jugendstudie</titleName>
+			<titleType>AlternativeTitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Arthur</firstName>
+				<middleName/>
+				<lastName>Fischer</lastName>
+				<affiliation>
+					<affiliationName>Psydata, Institut für Marktanalysen, Sozial- und Mediaforschung, Frankfurt am Main</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Werner</firstName>
+				<middleName/>
+				<lastName>Fuchs-Heinritz</lastName>
+				<affiliation>
+					<affiliationName>FernUniversität, Hagen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Richard</firstName>
+				<middleName/>
+				<lastName>Münchmeier</lastName>
+				<affiliation>
+					<affiliationName>Freie Universität, Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4724?doi=10.4232/1.4724</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4724</doiProposal>
+	<publicationDate>
+		<year>2009</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4724</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT14</identifier>
+					<!-- Politische Fragen (Issues) -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Religion und Werte</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Jugend</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Religion and values</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Youth</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Einbürgerungsmaßnahmen</term>
+					<term>Einstellungen zur Europäischen Union (EU)</term>
+					<term>Fremdenfeindlichkeit</term>
+					<term>Identität &amp; soziales Zugehörigkeitsgefühl</term>
+					<term>Integration</term>
+					<term>Intergruppenkontakt</term>
+					<term>Religiöse Ideologie</term>
+					<term>Demokratieverständnis</term>
+					<term>Migrationsmotive</term>
+					<term>Solidarität</term>
+					<term>Wertorientierungen</term>
+					<term>Staatsbürgerschaft</term>
+					<term>Soziale Netzwerke</term>
+					<term>Sozialisationshintergrund</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Ost-Deutschland</term>
+					<term>West-Deutschland</term>
+					<term>Türkei</term>
+					<term>Italien</term>
+					<term>Religiöse Zugehörigkeit</term>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Naturalisation measures</term>
+					<term>Attitudes towards the European Union (EU)</term>
+					<term>Xenophobia</term>
+					<term>Identity &amp; sense of social belonging</term>
+					<term>Integration</term>
+					<term>Intergroup contact</term>
+					<term>Religious ideology</term>
+					<term>Understanding of democracy</term>
+					<term>Motives for migration</term>
+					<term>Solidarity</term>
+					<term>Value orientations</term>
+					<term>Citizenship</term>
+					<term>Social networks</term>
+					<term>Socialisation background</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Ost-Deutschland</term>
+					<term>West-Deutschland</term>
+					<term>Türkei</term>
+					<term>Italien</term>
+					<term>Religiöse Zugehörigkeit</term>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Gesellschaftsbild und Lebensziele von Jugendlichen sowie dieErwartungen der Jugend an die Zukunft.
+Themen: Persönliche und gesellschaftliche Zukunftszuversicht undVoraussicht; Erwartungen an die Zukunft (Lösung der Umweltprobleme oderUmweltzerstörung, zu- oder abnehmende Konflikte, wirtschaftlicherAufschwung oder Verschärfung der Wirtschaftskrise, zu- oder abnehmendeArbeitslosigkeit); Planbarkeit der eigenen Zukunft; Identifikation alsJugendlicher oder Erwachsener; Häufigkeit von Gedanken über dieZukunft; Zukunftsangst; vorbereitet auf die zukünftigegesellschaftliche Entwicklung; Lebenskonzepte und Prioritäten imeigenen Leben (Karriere und Beruf, Kinder und Familie, Partnerschaft,Hobbys, Freizeit und Freunde, Selbstbestimmtheit, Individualität odersoziales Einfügen, Selbstbestimmung oder Fremdbestimmung, kurzfristigeoder langfristige Planung, Zukunftsplanung, gedankliche Beschäftigungmit der Zukunft, Gegenwart oder Vergangenheit); Mobilitätsbereitschaftund Bereitschaft, für den Beruf in ausgewählte Regionen der Weltumzuziehen; Vorstellung einer beruflichen Selbstständigkeit; wichtigeKriterien für eine Selbstständigkeit (Erfolgsaussichten,Selbstbestimmtheit, geringes Risiko, Spaß, hohes Einkommen,Selbstbestimmung der Arbeitszeit, Möglichkeit mit Freundenzusammenzuarbeiten, keine Vorgesetzten haben); Kinderwunsch: Anzahl dergeplanten Kinder; Einschätzung des Erziehungsstils der eigenen Elternund Übertragung dieses Erziehungsstils auf die eigenen Kinder;biographische Planung und Zeiterleben (Lebensgefühl undZukunftsvorstellungen); vergangenes oder geplantes Alter bei Eintrittverschiedener Ereignisse (biographische Fixpunkte: eigene Urlaubsreise,aus dem Elternhaus ausziehen, finanzielle Unabhängigkeit, Abschluss derBerufsausbildung, Heirat, voll berufstätig sein, Kohabitation mitfestem Partner, Selbstbestimmung des eigenen Aussehens, erster Sex,keine vorgeschriebenen Ausgehzeiten, das erste Kind bekommen);Lebensvorstellung nach Auszug aus dem Elternhaus (Partnerschafts- undWohnmodelle: gemeinsamer Haushalt mit dem Partner mit oder ohne Heirat,Partnerschaft mit getrennten Haushalten, in einer Wohngemeinschaftleben, alleine leben); Prioritäten bei der eigenen Lebensführung,Wertorientierung und Lebensziele (Skalen); präferierter Arbeitsbereich;Motive und Prioritäten bei der Berufswahl; Mobiltelefonbesitz;Internetzugang und wöchentliche Nutzungsdauer; täglicher Fernsehkonsumin Stunden; Politikinteresse; Wahlbeteiligung bei den letzen Wahlen;Parteinähe.
+Einstellung zu Politik, Orientierungsmuster undGenerationenverhältnis (Politikverdrossenheit, politische Wirksamkeit -efficacy, Demokratieverständnis, Entfernung der Politiker vom Volk,Vernachlässigung der Jugendlichen durch die Politik, Anomie, Rückzugaufs Private, Intergenerationenkonflikt, Bereitschaft zugesellschaftlichen Aktivitäten); Interesse an Diskussionen überVereintes Europa und Konsequenzen des Vereinten Europas für das eigeneLeben; Einstellung zu Europa (Skala); Institutionenvertrauen(Arbeitgeberorganisationen, Bürgerinitiativen, Bundesregierung,Bundestag, Bundeswehr, Fernsehen, Gerichte, Gewerkschaften, Kirchen,Menschenrechtsgruppen, politische Parteien, Polizei,Umweltschutzgruppen, Zeitungen); Deutschlandbild und Image derDeutschen (Skala); Einschätzung des Ausländeranteils in Deutschland;Möglichkeiten deutscher und ausländischer Jugendlicher voneinander zulernen; Muttersprache und Fremdsprachenkenntnisse; Beurteilungausgewählter Unterschiede zwischen deutschen und ausländischenJugendlichen; Mitgliedschaften und ausgeübte Funktionen in vorgegebenenOrganisationen und Vereinen; Technikinteresse; besondere Präferenzenbei technischen Themen; Computerbesitz und Computernutzung;Konfessionszugehörigkeit und religiöse Praktiken; Kirchgangshäufigkeit;regelmäßiges Beten; Glaube an ein Weiterleben nach dem Tod; Ausübenreligiöser und okkulter Tätigkeiten; Absicht, die eigenen Kinderreligiös zu erziehen; eigene Teilnahme an Taufe, Erstkommunion,Konfirmation und Jugendweihe; Absicht, die eigene Hochzeit religiös zufeiern; Wichtigkeit vorgegebener religiöser Feste und Feiertage;Selbsteinschätzung der Religiosität und Einstellung zur Religion(Skala); Wohnverhältnisse; Wohnen bei den Eltern; Wohnstatus;überwiegender Ausländeranteil im Haus und in der Wohngegend;Wohnsituation; Zimmergröße; Wohlfühlen in der Wohnung; Verhältnis zuden Eltern (Skala: Respekt, Zusammenhalt, Vorbildfunktion, Vertrauen,altmodisch, Verständnis der Eltern für das Kind, Sorgen der Eltern umdas Kind, finanzielle Schwierigkeiten, Erwartungen an das Kind,Erziehung zur Ordnung); fester Freund oder feste Freundin; Wichtigkeitausgewählter Personen aus dem sozialen Umfeld; Vorhandensein einerVertrauensperson und Bezeichnung dieser Person; Vorhandensein einesVorbilds; Bedingungen für die Heirat einer Person mit andererNationalität; gemeinsame Freizeitaktivitäten mit deutschen oderausländischen Freunden; Häufigkeit der Begegnung mit ausländischenJugendlichen; Ausländerfeindlichkeit (Skala).
+Ausländische Jugendliche wurden zusätzlich gefragt:Staatsangehörigkeit; Einschätzung der Reform desStaatsangehörigkeitsrechts; Staatsbürgerschaft der Eltern, derenGeburtsland und das Geburtsland der befragten Person; Aufenthaltsdauerin Deutschland; Gründe für die Unterbrechung des Lebens in Deutschland;Zuzugsgründe nach Deutschland; Wanderungspläne der Eltern in dennächsten Jahren; eigene Standortpläne für die Zeit nach derBerufsausbildung; Aktivitäten mit Bekannten und Freunden;Mediennutzung; Wunschland, in dem man in Zukunft leben möchte.
+Demographie: Alter; Geschlecht; Familienstand; Konfession;Schulbildung; Berufstätigkeit und beruflicher Status;Haupteinkommensquelle; Selbsteinschätzung der finanziellen Situation;erwartete Entwicklung der finanziellen Situation; monatlichesEinkommen; Hausbesitz und Grundbesitz der Familie im In- und Ausland;Soziale Herkunft (Bildung und Berufsabschluss von Vater und Mutter);Arbeitslosigkeit von Mutter und Vater; Ortsgröße undUrbanisierungsgrad; Bundesland.
+Interviewerrating: Interviewdauer; Interviewort; Art der Anrede (Duoder Sie). 
+Indizes: Zukunftspessimismus; Gegenwartsorientierung; Sicherungeigener Lebensbereiche; schwere Herausforderungen in der Zukunft; klareLebensplanung; Rückwärtsgewandtheit; Commitment auf Widerruf; Autonomie- Kreativität und Konfliktfähigkeit; Menschlichkeit - Toleranz undHilfsbereitschaft; Selbstmanagement - Disziplin undEinordnungsvermögen; Attraktivität - gutes Aussehen und materiellerErfolg; Modernität - Teilhabe an Politik und technischem Fortschritt;Authentizität - persönliche Denk- und Handlungsfreiheit;Familienorientierung - Partner, Heim und Kinder; Berufsorientierung -gute Ausbildung und interessanter Job; Desinteresse der Politik an derJugend; persönliche Distanz zur Politik; politische Entfremdung;Anomie; Privatisierung; Anpassungsbereitschaft; Selbstbehauptung;erlebter Gegensatz der Generationen; Nachteile für den Einzelnen durchEuropa; Europa als Fassade; Europa als Chance; Irrelevanz von Europafür den Einzelnen; mangelnde Lebensart und Wärme; Deutschland alszivilisiertes Land; Anfälligkeit wegen der Vergangenheit;Verschlossenheit gegenüber Fremdem; respektvolle Verbundenheit mit denEltern; elterliches Zutrauen in das Kind; großzügige Erfüllung vonmateriellen Wünschen; ängstliche Besorgtheit der Eltern; elterlicheLeistungsforderung; Eigenständigkeit des Kindes; verständnisvolleAnteilnahme der Eltern; Ausländerfeindlichkeit.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Jugendliche zwischen 15 und 24 Jahren, die einen festen Wohnsitz haben</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Quotenauswahl nach Geschlecht, Alter, Erwerbsstatus, Bundesland und
+Gemeindegröße. Aufstockung von türkischen und italienischen Jugendlichen.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1999-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1999-09</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>main study</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>repräsentative Hauptstudie</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1999-08</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1999-09</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>additional study of turkish and italien adolescent persons</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Zusatzstudie, türkische und italienische Jugendliche</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Psydata, Institut für Marktanalysen, Sozial- und Mediaforschung,
+Frankfurt am Main</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>708</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Deutsche Shell (Hrsg.): 
+Jugend 2000: 13. Shell Jugendstudie. Bd.1
+Opladen: Leske + Budrich 2000</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Deutsche Shell (Hrsg.): 
+Jugend 2000: 13. Shell Jugendstudie. Bd.2
+Opladen: Leske + Budrich 2000</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

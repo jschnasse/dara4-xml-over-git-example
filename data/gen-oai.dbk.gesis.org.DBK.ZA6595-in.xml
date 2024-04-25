@@ -1,0 +1,648 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Eurobarometer 83.4 (2015)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Eurobarometer 83.4 (2015)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA6595</identifier>
+		<currentVersion>3.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Eurobarometer 83.4 (2015)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Eurobarometer 83.4 (2015)</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Climate change, Biodiversity, and Discrimination of Minority Groups  </titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Climate change, Biodiversity, and Discrimination of Minority Groups  </titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>European Commission, Brussels</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6595?doi=10.4232/1.13146</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13146</doiProposal>
+	<publicationDate>
+		<date>2018-11-23</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6595</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>https://doi.org/10.3886/ICPSR36403.v1</identifier>
+			<type>DOI</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT65</identifier>
+					<!-- Umwelt, Natur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>UMWELT UND NATUR</term>
+					<term>Pflanzen und Tiere</term>
+					<term>Beschäftigungspolitik</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Social behaviour and attitudes</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>NATURAL ENVIRONMENT</term>
+					<term>Plants and animals</term>
+					<term>Labour and employment policy</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Kriminalität</term>
+					<term>Terrorismus</term>
+					<term>Diskriminierungserfahrungen</term>
+					<term>Diskriminierung aufgrund von Nationalität</term>
+					<term>Diskriminierung aufgrund von ethnischer Zugehörigkeit</term>
+					<term>Diskriminierung aufgrund von religiöser Zugehörigkeit</term>
+					<term>Diskriminierung aufgrund von äußerlichen Merkmalen</term>
+					<term>Diskriminierung aufgrund von Geschlecht</term>
+					<term>Diskriminierendes Verhalten</term>
+					<term>Multikulturalismus</term>
+					<term>Geschlechterrollenverständnis</term>
+					<term>Wahrnehmung von Rassismus</term>
+					<term>Intergruppenkontakt</term>
+					<term>Wertorientierungen</term>
+					<term>Homophobie</term>
+					<term>Ethnozentrismus</term>
+					<term>Gruppebezogene Menschenfeindlichkeit</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>LGBTQIA+ Mitglieder</term>
+					<term>Menschen mit Beeinträchtigung(en)/Behinderung(en)</term>
+					<term>Atheist*innen</term>
+					<term>Buddhist*innen</term>
+					<term>Hinduist*innen</term>
+					<term>Jüd*innen</term>
+					<term>Christ*innen</term>
+					<term>Muslim*innen</term>
+					<term>Europa</term>
+					<term>Sinti*zze und Rom*nja</term>
+					<term>BIPoC</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Criminality</term>
+					<term>Terrorism</term>
+					<term>Discrimination experiences</term>
+					<term>Discrimination based on nationality</term>
+					<term>Discrimination based on ethnicity</term>
+					<term>Discrimination based on religious affiliation</term>
+					<term>Discrimination based on appearance</term>
+					<term>Discrimination based on gender</term>
+					<term>Discriminatory behaviour</term>
+					<term>Multiculturalism</term>
+					<term>Understanding of gender roles</term>
+					<term>Perceptions of racism</term>
+					<term>Intergroup contact</term>
+					<term>Value orientations</term>
+					<term>Homophobia</term>
+					<term>Ethnocentrism</term>
+					<term>Group-focused enmity</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>LGBTQIA+ Mitglieder</term>
+					<term>Menschen mit Beeinträchtigung(en)/Behinderung(en)</term>
+					<term>Atheist*innen</term>
+					<term>Buddhist*innen</term>
+					<term>Hinduist*innen</term>
+					<term>Jüd*innen</term>
+					<term>Christ*innen</term>
+					<term>Muslim*innen</term>
+					<term>Europa</term>
+					<term>Sinti*zze und Rom*nja</term>
+					<term>BIPoC</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Seit den frühen 1970er Jahren beobachten die Standard &amp; Spezial Eurobarometer der Europäischen Kommission regelmäßig die öffentliche Meinung in den Mitgliedsländern der Europäischen Union. Primärforscher sind die Generaldirektion Kommunikation und bei Spezialthemen weitere Direktionen sowie das Europäische Parlament. Im Laufe der Zeit wurden Kandidaten- und Beitrittsländer in die Standard Eurobarometer-Reihe aufgenommen. Ausgewählte Fragen oder Module können in einigen Samples nicht erhoben worden sein. Bitte ziehen Sie für weitere Informationen bezüglich Länderfilter oder anderer Filterführungen den Basisfragebogen heran. In dieser Studie sind folgende Module vorhanden: 1. Klimawandel, 2. Einstellungen von Europäern zur Artenvielfalt, 3. Diskriminierung in der EU.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Themen: 1. Klimawandel: derzeit wichtigste Probleme der Welt; Bedeutung des Problems des Klimawandels; für die Bekämpfung des Klimawandels verantwortliche Institutionen: nationale Regierungen, Europäische Union, regionale und lokale Behörden, Wirtschaft und Industrie, Bürger, Umweltschutzgruppen; Zustimmung zu den folgenden Aussagen: Bekämpfung des Klimawandels und effizientere Energienutzung können Wirtschaft und Arbeitsmarkt in der EU ankurbeln, wirksame Bekämpfung des Klimawandels nur möglich durch Zusammenarbeit aller Länder der Welt, Reduzierung der Importe fossiler Brennstoffe von außerhalb der EU kann der EU wirtschaftlich von Nutzen sein, Reduzierung der Importe fossiler Brennstoffe von außerhalb der EU kann die Sicherheit der Energieversorgung in der EU erhöhen; persönlicher Beitrag zur Bekämpfung des Klimawandels in der letzten sechs Monaten sowie Art der getroffenen Maßnahmen; Wichtigkeit der Setzung von Zielen zur Erhöhung des Anteils erneuerbarer Energien bis 2030 durch die nationale Regierung; Wichtigkeit unterstützender Maßnahmen der nationalen Regierung zur Verbesserung der Energieeffizienz bis 2030.
+2. Einstellungen von Europäern zur Artenvielfalt: Kenntnis des Begriffs ‘Artenvielfalt‘; Selbsteinschätzung der Informiertheit über den Verlust der Artenvielfalt; Wichtigkeit der folgenden Aspekte: Rückgang und Verlust natürlicher Lebensräume, Rückgang und Verschwinden von Tier- und Pflanzenarten, Verlust des aus der Natur zu ziehenden Nutzens, Entfremdung von der Natur in städtischen Gebieten und durch moderne Lebensweisen, negative wirtschaftliche Auswirkungen der Zerstörung der Artenvielfalt; wichtigste Gründe, den Verlust der Artenvielfalt aufzuhalten: moralische Verpflichtung, Bedeutung der Artenvielfalt für Wohlbefinden und Gesundheit, Bedeutung für die Herstellung von Gütern, Bedeutung für die langfristige wirtschaftliche Entwicklung, Bedeutung für den Kampf gegen den Klimawandel; Bedeutung des Rückgangs bzw. des möglichen Aussterbens von Tier- und Pflanzenarten, natürlichen Lebensräumen und Ökosystemen im eigenen Land, in Europa sowie weltweit; persönliche Betroffenheit vom Rückgang der Artenvielfalt; wichtigste Ursachen der Bedrohung der Artenvielfalt; vorrangige Maßnahmen zum Schutz der Artenvielfalt in der EU; präferierte Maßnahmen auf EU-Ebene zur Gewährleistung des Imports  von Produkten aus nachhaltigen Quellen; Kenntnis des Netzwerks Natura 2000; Bedeutung einzelner Funktionen von Naturschutzgebieten; Einstellung zum Vorrang von Naturschutzgebieten vor der wirtschaftlichen Entwicklung; persönlicher Beitrag sowie eigene Maßnahmen zum Schutz der Artenvielfalt; Maßnahmen auf dem eigenen Balkon oder im eigenen Garten: Lebensraum für wilde Tiere und Pflanzen lassen, Vermeiden von Pestiziden und Chemikalien, Auswahl von Vögeln und Insekten Nahrung bietenden Pflanzen, Vermeiden des Anbaus potenziell invasiver Pflanzen.
+3. Diskriminierung in der EU: Einschätzung des Ausmaßes von Diskriminierung im eigenen Land aufgrund der folgenden Merkmale: ethnische Herkunft, sexuelle Orientierung, älter als 55 Jahre, jünger als 30 Jahre, Religion, Behinderung, Geschlechtsidentität, Geschlecht; eigene Erfahrung mit Diskriminierung in den letzten zwölf Monaten aufgrund der vorgenannten Merkmale; möglicherweise nachteilig wirkende Merkmale von Bewerbern in Bewerbungsverfahren: Name, Adresse, Art zu sprechen, Hautfarbe oder ethnische Herkunft, Geschlecht, Geschlechtsidentität, sexuelle Orientierung, älter als 55 Jahre, jünger als 30 Jahre, Behinderung, Religion, Aussehen, physische Erscheinung; Akzeptanz einer Person in der höchsten  politischen Position mit den folgenden Merkmalen: weiblich, homo- oder bisexuell, andere ethnische Herkunft als die Mehrheit der Bevölkerung, jünger als 30 Jahre, andere Religion, behindert, älter als 75 Jahre, transgender oder transsexuell (Skala); Einstellung zu ausgewählten Maßnahmen zur Förderung der Vielfalt am Arbeitsplatz: Mitarbeiterschulungen zum Thema Vielfalt, Kontrolle der Belegschaftszusammensetzung zur Gewährleistung der Repräsentation  von von Diskriminierung bedrohten Gruppen, Überwachung von Einstellungsverfahren zur Gewährleistung der Chancengleichheit; ausreichende Anstrengungen des eigenen Landes zur Bekämpfung von Diskriminierung; ausreichende Maßnahmen zur Förderung der Vielfalt am Arbeitsplatz; Kenntnis der eigenen Rechte im Fall von Diskriminierung; präferierte Anlaufstelle im Fall einer angenommenen Diskriminierung: Gewerkschaften, Nichtregierungsorganisationen (NGOs) oder Verbände, Gerichte, nationale Organisation für die Gleichstellung, Anwalt, Polizei; Befürwortung der Einführung neuer Maßnahmen zur Verbesserung des Schutzes von von Diskriminierung bedrohten Gruppen in Bereichen wie dem Zugang zu Waren oder Dienstleistungen, sozialem Schutz oder Bildung; Bereitschaft zur Preisgabe der folgenden persönlichen Informationen auf anonymer Basis im Rahmen eines Zensus zur Unterstützung der Bekämpfung von Diskriminierung: ethnische Herkunft, Religion, Gesundheitszustand, sexuelle Orientierung; angemessene Berichterstattung über soziale Vielfalt im Hinblick auf: Behinderung, ethnische Herkunft, Religion, älter als 75 Jahre, jünger als 25 Jahre,  sexuelle Orientierung, Geschlecht, Geschlechtsidentität; Einstellung zu möglichen Arbeitskollegen aus einer der folgenden Personengruppen: Roma, Schwarze, Asiaten, Weiße, Juden, Muslime, Buddhisten, Christen, Atheisten, Homo- oder Bisexuelle, transgender oder transsexuelle Personen, Behinderte, Personen jünger als 25 Jahre,  Personen älter als 60 Jahre; Einstellung zu einer Liebesbeziehung des eigenen Kindes zu einer Person aus einer der vorgenannten Gruppen; Maßnahmen des eigenen Landes zur Bekämpfung der Wirtschaftskrise führen zum Ausschluss von Personen aus den folgenden Gruppen: andere ethnische Herkunft als die Mehrheit der Bevölkerung, andere sexuelle Orientierung, Personen älter als 55 Jahre, Personen jünger als 30 Jahre,  andere Religion, Behinderte, transgender oder transsexuelle Personen; Einstellung zu den folgenden Aussagen: gleiche Rechte für Homo- und Bisexuelle wie für Heterosexuelle, an einer sexuellen Beziehung zwischen Personen desselben Geschlechts ist nichts falsches, Erlauben gleichgeschlechtlicher Ehen in ganz Europa; Einstellung zum Einbezug ausgewählter Aspekte in Schulunterricht und Unterrichtsmaterial: Religion, ethnische Herkunft, sexuelle Orientierung, Geschlechtsidentität; Unbehagen gegenüber öffentlichen Zuneigungsbekundungen der folgenden Arten von Paaren: heterosexuell, schwul, lesbisch; Möglichkeit für transgender oder transsexuelle Personen zur Änderung ihrer Personenstands- bzw. Identitätsdokumente zur Anpassung an die innere Geschlechtsidentität; Freundschaft oder Bekanntschaft mit: Personen anderer ethnischer Herkunft, Roma, Homo- oder Bisexuellen, Behinderten, Personen anderen Glaubens, transsexuellen oder transgender Personen; eigene Zugehörigkeit zu einer Minderheit; eigene Religionszugehörigkeit.
+Demographie: Staatsangehörigkeit; Links-Rechts-Selbsteinstufung; Familienstand; Alter bei Beendigung der Ausbildung; Geschlecht; Alter; Beruf; berufliche Stellung; Urbanisierungsgrad; Haushaltszusammensetzung und Haushaltsgröße; Besitz langlebiger Wirtschaftsgüter (Unterhaltungselektronik, Internet-Anschluss, Autobesitz, abbezahltes bzw. noch abzuzahlendes Wohnungs- bzw. Hauseigentum); finanzielle Schwierigkeiten im letzten Jahr; Internetnutzung (zu Hause, am Arbeitsplatz, in der Schule etc.); Selbsteinstufung zur Arbeiterklasse, Mittelklasse oder der höheren Klasse der Gesellschaft; Lebenszufriedenheit; Häufigkeit von Diskussionen über nationale, europäische und lokale politische Angelegenheiten; eigene Stimme zählt im eigenen Land und in der EU (politischer Einfluss); allgemeine Richtung der Dinge im eigenen Land und in der EU; Meinungsführerschaft; Image der EU.
+Zusätzlich verkodet wurde: Befragten-ID; Land; Interviewdatum; Interviewdauer (Interviewbeginn und Interviewende); anwesende Personen während des Interviews; Kooperationsbereitschaft des Befragten; Ortsgröße; Region; Interviewsprache; Nationengruppe; Gewichtungsfaktor.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Since the early 1970s the European Commission´s Standard &amp; Special Eurobarometer are regularly monitoring the public opinion in the European Union member countries. Principal investigators are the Directorate-General Communication and on occasion other departments of the European Commission or the European Parliament. Over time, candidate and accession countries were included in the Standard Eurobarometer Series. Selected questions or modules may not have been surveyed in each sample. Please consult the basic questionnaire for more information on country filter instructions or other questionnaire routing filters. In this study the following modules are included: 1. Climate change, 2. Attitudes of Europeans towards biodiversity, 3. Discrimination in the EU.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Topics: 1. Climate change: most important problems facing the world as a whole at the moment; assessment of the seriousness of the problem of climate change; responsible bodies for tackling climate change: national governments, European Union, regional and local authorities, business and industry, citizens, environmental groups; attitude towards the following statements: fighting climate change and more efficient use of energy can boost economy and jobs in the EU, fighting climate change is only effective if all countries of the world act together, reducing fossil fuel imports from outside the EU can benefit the EU economically, reducing fossil fuel imports from outside the EU can increase the security of EU energy supplies; personal actions taken in the last six months to fight climate change and kind of actions; importance of the national government setting targets to increase the amount of renewable energy by 2030; importance of the national government providing support for improving energy efficiency by 2030.
+2. Attitudes of Europeans towards biodiversity: awareness of the term ‘biodiversity‘; self-rated knowledge about the loss of biodiversity; seriousness of the following issues: degradation and loss of natural habitats, decline and disappearance of animal and plant species, loss of benefits man gets from nature, disconnection from nature in urban areas and through modern lifestyles, negative economic impacts of biodiversity degradation; most important reasons to halt the loss of biodiversity: moral obligation, significance of biodiversity for well-being and health, importance for the production of goods, importance for the long-term economic development, indispensable to tackle climate change; seriousness of the decline and possible extinction of animal and plant species, natural habitats and ecosystems: locally, in the own country, in Europe, and globally; impact on the respondent; most important threats to biodiversity; prioritized EU measures to protect biodiversity; preferred EU measures to ensure product imports from sustainable resources; awareness of the Natura 2000 network; most important roles of nature protection areas; attitude towards prioritization of nature protection areas over economic development; personal efforts to protect biodiversity and kind of actions; activities on own balcony or in own garden: leave space for wild animals and plants, avoid using pesticides and chemicals, select plants that provide food for birds and insects, avoid introducing new plants that may become invasive.
+3. Discrimination in the EU: assessment of the extent of discrimination in the own country with regard to: ethnic origin, sexual orientation, aged older than 55 years, aged younger than 30 years, religion, disability, gender identity, gender; own experience of discrimination in the last twelve months according to the above characteristics; adversely affecting characteristics of an applicant in a concurrent application situation: name, address, way of speaking, skin colour or ethnic origin, gender, gender identity, sexual orientation, aged older than 55 years, aged younger than 30 years, disability, religious belief, look, physical appearance; acceptance of a person in the highest political position with the following characteristics (scale): woman, homo- or bisexual, different ethnic origin than the majority of the population, aged under 30, different religious belief, disabled, aged over 75 years, transgender or transsexual; attitude towards specific measures to foster diversity in the workplace: staff training on diversity issues, monitoring of the workforce composition to evaluate the representation of groups at risk of discrimination, monitoring of recruitment procedures to guarantee equal opportunities; sufficient efforts of the own country to fight discrimination (scale); sufficient realization of operational measures to increase diversity in the workplace; knowledge of the own rights in the case of discrimination; authority to whom a self-experienced discrimination would be reported firstly: trade unions, NGOs or associations, tribunals, national equal opportunities organisation, lawyer, police; approval of introducing new measures to raise the level of protection of groups at risk of discrimination in areas such as access to goods and services, social protection, or education; willingness to provide the following personal information on an anonymous basis as part of a census in order to fight discrimination: ethnic origin, religion, health situation, sexual orientation; adequate reflection of social diversity in the media regarding: disability, ethnic origin, religion, aged older than 75 years, aged younger than 25 years,  sexual orientation, gender, gender identity; attitude towards having a colleague belonging to one of the following groups of persons: Roma, black, Asian, white, Jewish, Muslim, Buddhist, Christian, atheist, homo- or bisexual, transgender or transsexual, disabled, aged younger than 25 years,  aged older than 60 years; attitude towards the own child having a love relationship with a person belonging to one of the aforementioned groups; own country’s measures to fight the economic crisis lead to exclusion of people from the following groups: different ethnic origin than the majority of the population, different sexual orientation, aged older than 55 years, aged younger than 30 years,  different religion, disabled, transgender or transsexual; attitude towards the following statements: same rights for homo- or bisexual people as for heterosexual ones, there is nothing wrong in sexual relationships between persons of the same sex, same sex marriages should be allowed throughout Europe; attitude towards the inclusion of selected aspects in school lessons and material: religion, ethnic origin, sexual orientation, gender identity; discomfort with regard to affection shown in public by the following kinds of couples: heterosexual, gay, lesbian; possibility for transsexual or transgender persons to change their civil documents in order to match inner gender identity; friendship or acquaintance with: people of different ethnic origin, Roma, homo- or bisexuals, disabled persons, persons with different religious affiliation, transsexual or transgender persons; own belonging to a minority; personal religious affiliation.
+Demography: nationality; left-right self-placement; marital status; age at end of education; sex; age; occupation; professional position; type of community; household composition and household size; possession of durable goods (entertainment electronics, internet connection, possession of a car, a flat/a house have finished paying for or still paying for); financial difficulties during the last year; internet use (at home, at work, at school); self-reported belonging to the working class, the middle class or the upper class of society; life satisfaction; frequency of discussions about political matters on national, European, and local level; own voice counts in the own country and in the EU; general direction things are going in the own country and in the EU; opinion leadership; EU image.
+Additionally coded was: respondent ID; country; date of interview; time of the beginning of the interview; duration of the interview; number of persons present during the interview; respondent cooperation; size of locality; region; language of the interview; nation group; weighting factor.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>BG</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CY</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CZ</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>EE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-GBN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-NIR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LV</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>MT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>RO</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SK</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>	Bevölkerung der jeweiligen Nationalitäten und EU-Bürger der 28 Mitgliedsstaaten der EU, wohnhaft in den jeweiligen Mitgliedsstaaten, im Alter von 15 Jahren und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Population of the respective nationalities of the European Union Member States and other EU nationals, resident in each of the 28 Member States and aged 15 years and over. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample: Multistage Sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2015-05-30</date>
+				</startDate>
+				<endDate>
+					<date>2015-06-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>total</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>gesamt</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>European Commission, Brussels;
+Directorate General Communication
+COMM.A.1 ´Strategy, Corporate Communication Actions and Eurobarometer´ </institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Dimarso, Brussels, Belgium</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS BBSS, Sofia, Bulgaria</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Aisa, Prague, Czech Republic</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS GALLUP DK, Copenhagen, Denmark</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest, Munich, Germany</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Emor, Tallinn, Estonia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Behaviour &amp; Attitudes, Dublin, Ireland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS ICAP, Athens, Greece</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Spain, Madrid, Spain</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Sofres, Montrouge, France</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Italia, Milan, Italy</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>CYMAR Market Research, Nicosia, Cyprus</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Latvia, Riga, Latvia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS LT, Vilnius, Lithuania</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS ILReS, Luxembourg, Luxembourg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Hoffmann Kft, Budapest, Hungary</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MISCO, Valletta, Malta</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS NIPO, Amsterdam, Netherlands</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ipr Umfrageforschung, Vienna, Austria</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Polska, Warsaw, Poland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Portugal, Lisbon, Portugal</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS CSOP, Bucharest, Romania</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>RM PLUS, Maribor, Slovenia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Slovakia, Bratislava, Slovakia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS GALLUP Oy, Espoo, Finland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Sifo, Stockholm and Gothenburg, Sweden</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS UK, London, United Kingdom</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>HENDAL, Zagreb, Croatia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS opinion, Brussels (international co-ordination)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Persönliches Interview
+Persönliches Interview: CAPI (Computerunterstützte persönliche Befragung)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Face-to-face interview
+Face-to-face interview: CAPI (Computer Assisted Personal Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>518</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Fragebogen-Modul QA repliziert den enstprechenden Fragenblock aus Eurobarometer 80.2 (ZA5877), weitgehend auch den aus Eurobarometer 75.4 (ZA5564), und teilweise Fragen aus Eurobarometer 72.1 (ZA4975) und früheren Fragemodulen zum Thema Klimawandel.   
+Fragebogen-Modul QB zum Thema ´Biodiversity´ repliziert weitgehend Fragen aus dem Flash Eurobarometer 379 (ZA5853) sowie teilweise aus früheren Flash Umfragen zu diesem Thema (ZA5223 und ZA4735).
+Fragebogen-Modul QC zum Thema ´Discrimination´ repliziert zahlreiche Fragen aus dem Eurobarometer 77.4 (ZA5613). 
+
+Das zusätzliche Dokument “ZA6595_SpecialTopicOverview_Discrimination.xlsx” enthält eine Übersicht über Fragen zur Diskriminierung, die bislang wiederholt wurden.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Question module QA replicates the corresponding module surveyed in the context of Eurobarometer 80.2 (ZA5877), largely also the Eurobarometer 75.4 (ZA5564) ´Climate Change´ module, and partly questions asked on this topic in the context of Eurobarometer 72.1 (ZA4975) und former surveys. 
+Question module QB on ´Biodiversity´ largely replicates questions asked in Flash Eurobarometer 379 (ZA5853) as well as selected questions asked in former Flash surveys on the same topic (ZA5223 and ZA4735).
+Question module QC on ´Discrimination´ partly replicates questions asked in the context of Eurobarometer 77.4 (ZA5613).   
+
+Please note the additional file “ZA6595_SpecialTopicOverview_Discrimination.xlsx” which contains an overview of questions on discrimination repeated over time.</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.12442</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.12387</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Commission: Special Eurobarometer 436. Attitudes of Europeans towards biodiversity. Conducted by TNS opinion &amp; social at the request of the Directorate-General for Environment. Survey coordinated by the Directorate-General for Communication (DG COMM “Strategy, Corporate Communication Actions and Eurobarometer” Unit). Brussels, October 2015. DOI: 10.2779/832333.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Commission: Special Eurobarometer 437. Discrimination in the EU in 2015. Conducted by TNS opinion &amp; social at the request of the Directorate-General for Justice and Consumers (DG JUST). Survey coordinated by the Directorate-General for Communication (DG COMM “Strategy, Corporate Communication Actions and Eurobarometer” Unit). Brussels, October 2015. DOI: 10.2838/499763.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Commission: Special Eurobarometer 435. Climate Change. Conducted by TNS opinion &amp; social at the request of the European Commission, Directorate-General for Climate Action. Survey co-ordinated by the European Commission, Directorate-General for Communication (DG COMM “Strategy, Corporate Communication Actions and Eurobarometer” Unit). Brussels, November 2015. DOI: 10.2834/447336.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

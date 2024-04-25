@@ -1,0 +1,304 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'SCoRE - Sub-national Context and Radical Right Support in Europe'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'SCoRE - Sub-national Context and Radical Right Support in Europe'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA8767</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>SCoRE - Sub-national Context and Radical Right Support in Europe</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>SCoRE - Sub-national Context and Radical Right Support in Europe</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Kai</firstName>
+				<middleName/>
+				<lastName>Arzheimer</lastName>
+				<affiliation>
+					<affiliationName>Institut für Politikwissenschaft, Johannes Gutenberg-Universität Mainz </affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Carl C.</firstName>
+				<middleName/>
+				<lastName>Berning</lastName>
+				<affiliation>
+					<affiliationName>Institut für Politikwissenschaft, Johannes Gutenberg-Universität Mainz </affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA8767?doi=10.4232/1.14215</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.14215</doiProposal>
+	<publicationDate>
+		<date>2024-01-15</date>
+	</publicationDate>
+	<publicationPlace>Cologne, Germany</publicationPlace>
+	<publisher>
+		<institution>
+			<institutionName>GESIS</institutionName>
+		</institution>
+	</publisher>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA8767</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Migration</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+					<term>Wirtschaftspolitik, öffentliche Ausgaben und Einnahmen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Religion und Werte</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Community, urban and rural life</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Cultural and national identity</term>
+					<term>Migration</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+					<term>Economic policy,  public expenditure and revenue</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Religion and values</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Social conditions and indicators</term>
+					<term>International politics and organisations</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Autoritarismus</term>
+					<term>Realistische Bedrohungswahrnehmungen</term>
+					<term>Symbolische Bedrohungswahrnehmungen</term>
+					<term>Ethnozentrismus</term>
+					<term>Homophobie</term>
+					<term>Intergruppenkontakt</term>
+					<term>Antimuslimischer Rassismus</term>
+					<term>Rechtspopulismus</term>
+					<term>Wohlfahrtschauvinismus</term>
+					<term>Fremdenfeindlichkeit</term>
+					<term>Lokalpatriotismus</term>
+					<term>Integrationspolitik</term>
+					<term>Wertorientierungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Ost-Deutschland</term>
+					<term>West-Deutschland</term>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+					<term>Religiöse Zugehörigkeit</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Authoritarianism</term>
+					<term>Realistic threat perceptions</term>
+					<term>Symbolic threat perceptions</term>
+					<term>Ethnocentrism</term>
+					<term>Homophobia</term>
+					<term>Intergroup contact</term>
+					<term>Anti-Muslim racism</term>
+					<term>Right-wing populism</term>
+					<term>In-group preference / welfare chauvinism</term>
+					<term>Xenophobia</term>
+					<term>Local patriotism</term>
+					<term>Integration policy</term>
+					<term>Value orientations</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Ost-Deutschland</term>
+					<term>West-Deutschland</term>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+					<term>Religiöse Zugehörigkeit</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Das Forschungsprojekt SCORE - Sub-national Context and Radical Right Support in Europe und die darin erhobenen (Online-)Umfragedaten wurde im Jahr 2017 erhoben. Der Fokus liegt auf einem besseren Verständnis des Zusammenhangs zwischen subnationalen Unterschieden und der Unterstützung für die radikale Rechte in Deutschland und zielen darauf ab, diese Verbindung zu verbessern. Die Umfrage konzentriert sich insbesondere auf Meinungen und Einstellungen zu Themen wie Euroskepsis, Rechtspopulismus, Einstellungen zum Islam, Globalisierung sowie politische Identifikation und Partizipation. Der Datensatz wurde als deutsche Komponente des länderübergreifenden Projekts Sub-National Context and Radical Right Support in Europe (SCoRE) erhoben, das Frankreich, Deutschland, die Niederlande und das Vereinigte Königreich umfasste. Die Online-Umfrage wurde von infratest dimap durchgeführt (N=25976). Für weitere Informationen besuchen Sie: https://www.score.uni-mainz.de/ </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Politische Rechts-Links Selbsteinschätzung; Zufriedenheit mit lokaler Politik; Politikinteresse; Politikverständnis und politische Wirksamkeit; rechtsextreme/-populistische Einstellungen; Skepsis gegenüber Europäischer Union (EU), Einstellungen zur EU-Mitgliedschaft; kulturelle Bedrohungswahrnehmung durch Zuwanderung; Kriminalität durch Zuwanderung; ökonomische Bedrohungswahrnehmung durch Zuwanderung; Bedrohung des Sozialstaats durch Zuwanderung; Parteiwahl; autoritaristische Einstellungen; Vorurteile gegenüber dem Islam; konservative Einstellungen und Werte; traditionelle Geschelchterrollenverhältnisse, Homosexualität; Wahrnehmung ethnischer Vielfalt im Wohngebiet; Intergruppenkontakt, Kontakt zu ethnischen Minderheitsgruppen im Alltag, Beziehung zu diesen Gruppen, Integration ethnisch diverser Gruppen in Freundeskreis und Familie; Parteidentifikation; ökonomische Rechts-Linkseinschätzung; Einstellungen zur Globalisierung; Wohlfahrtschauvinismus; Medienkonsum, Nachrichten; relative Deprivation; Lebenszufriedenheit; Moreno-Skala (Verbundenheit mit Wohnort, Region, Bundesland, Land, EU); Wohnsituation, Entfernung Geburtsort und aktueller Wohnort, Infrastruktur und ökologische Aspekte, lokale Desintegration, Wahrnehmung eines Wandels in der Nachbarschaft, Gefühl der regionalen Ausgrenzung, Segregation, Marginalisierung; Ehrenamt; politische Partizipation; Wahlbeteiligung und Wahlverhalten bei der letzten Bundestagswahl.
+Demographie: Geschlecht; Geburtsjahr; Alter; Schulbildung; Erwerbstätigkeit; berufliche Stellung; Bundesland; Staatsangehörigkeit; Geburtsort; Geburtsort Eltern; religiöse Zugehörigkeit.
+Zusätzlich verkodet wurde: Abfragegerät (Device).</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte Bevölkerung in Deutschland </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Nicht-Wahrscheinlichkeitsauswahl: Quotenstichprobe; Auswahlverfahren Kommentar: Die Stichprobe wurde als Quotenstichprobe aus dem Online-Access-Panel gezogen, wobei die Quoten weitestgehend der Struktur der Grundgesamtheit entsprachen. Stichprobenkriterien waren Geschlecht, Alter, Bildung und Region. </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Non-probability: Quota</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2017-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2017-06-28</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Infratest dimap</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.WebBased</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>25976</numberUnits>
+			<numberVariables>201</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Einen um geographische Daten erweiterten Datensatz finden Sie unter folgender Studiennr.: ZA8769</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

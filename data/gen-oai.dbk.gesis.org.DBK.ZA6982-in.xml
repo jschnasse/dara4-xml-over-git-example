@@ -1,0 +1,206 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Security Sector Reform in Post-war Syria: A Security Needs Assessment among the Syrian Diaspora in Germany'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Security Sector Reform in Post-war Syria: A Security Needs Assessment among the Syrian Diaspora in Germany'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA6982</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Security Sector Reform in Post-war Syria: A Security Needs Assessment among the Syrian Diaspora in Germany</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Security Sector Reform in Post-war Syria: A Security Needs Assessment among the Syrian Diaspora in Germany</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Nora-Elise</firstName>
+				<middleName/>
+				<lastName>Beck</lastName>
+				<affiliation>
+					<affiliationName>Lanosec, Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Lars</firstName>
+				<middleName/>
+				<lastName>Döbert</lastName>
+				<affiliation>
+					<affiliationName>Lanosec, Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6982?doi=10.4232/1.13457</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13457</doiProposal>
+	<publicationDate>
+		<date>2020-03-05</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6982</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Konflikte, Sicherheit und Frieden</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Conflict, security and peace</term>
+					<term>Government, political systems and organisations</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Ziel der Umfrage ist es, Wahrnehmungen und Einstellungen zur Sicherheitssektorreform in Syrien zu untersuchen. Es geht darum, wie Syrerinnen und Syrer sich einen idealen Sicherheitssektor, bzw. einen dahingehenden Reformprozess, für ihr Land vorstellen, um wieder Vertrauen in staatliche Sicherheitserbringung gewinnen zu können. Die Grundgesamtheit bilden Syrerinnen und Syrer zwischen 15-45 Jahren, die derzeit in Deutschland leben. Die Auswahl erfolgte durch eine Schneeball- bzw. Gelegenheitsstichprobe. Der Fragebogen besteht aus 5 Teilen, umfasst 63 Fragen auf Hocharabisch (Modern Standard Arabic) und ist online-basiert (CAWI).
+Themen: Grundverständnis von Sicherheitssektorreform (Abfrage von 5 zentralen Termini: Rechtsstaatlichkeit, Menschenrechte, zivile Aufsicht, gute Regierungsführung, Reform des Sicherheitssektors).
+Erfahrungen von Unsicherheit und Ungerechtigkeit in Syrien vor dem Krieg und während des Krieges: Persönliche Definition von Sicherheit; Sicherheitsgefühl an verschiedenen Orten in Syrien vor dem Krieg und während des Krieges; Erfahrung von Unsicherheit und Ungerechtigkeit: häufigste schwere Formen von Unsicherheit und Ungerechtigkeit vor dem Syrienkrieg und während des Krieges (z.B. häusliche Gewalt durch Familienmitglieder oder Ehepartner, etc.); persönliche Erfahrung bzw. Errfahrung einer nahestehenden Person mit verschiedenen Formen von Unsicherheit und Ungerechtigkeit; Einschätzung des Außmaßes von Unterdrückung und Gewalt am Wohnort, in der Provinz und im Land vor dem Syrienkrieg und während des Krieges durch staatliche Sicherheitskräfte und nichtstaatliche bewaffnete Gruppen; hauptsächlich verantwortliche Institution für Unterdrückung und Gewalt vor dem Syrienkrieg und während des Krieges. 
+Allgemeine Bewertung der staatlichen Sicherheitsorgane (Militär, Polizei, Geheimdienste): vor dem Syrienkrieg war eine Unterscheidung zwischen den einzelnen Sicherheitsorganen möglich; Kenntnisse über verschiedene Prozesse, Institutionen, Rollen und Verantwortlichkeiten in der syrisch-arabischen Republik; Zustimmung zu Aussagen in Bezug auf die Sicherheitsorgane vor dem Krieg in Syrien: Eingehen auf die Bedürfnisse des syrischen Volkes, qualitativ hochwertige Dienstleistungen zur Verfügung gestellt, gute Ausbildung und Ausstattung, faire Anwendung von Gesetzen auf alle Bürger gleichermaßen, Überschneidungen bei Rollen und Verantwortlichkeiten; Defizite der staatlichen Sicherheitsorgane vor dem Syrienkrieg (z.B. Verbreitung von Korruption); Bewertung der syrischen Justiz vor dem Krieg in Syrien im Hinblick auf den Schutz aller Bürger vor Menschenrechtsverletzungen und Gleichbehandlung aller Bürger vor dem Gesetz.
+Vorstellungen von einem idealen Sicherheitssektor für Syrien: Wichtigste Charakteristika eines funktionierenen Sicherheitssektors; Reformbedürftigkeit des Sicherheitssektors nach Ende des Krieges in Syrien; Erfordernise nach Ende des Krieges in Syrien: Sicherheitssektor muss von Grund auf neu aufgebaut werden; alle Sicherheitsorgane müssen abgebaut werden; alle Milizen müssen ihre Waffen abgeben; Bedeutung verschiedener Institutionen (z.B. Präsident) bei der Leitung eines künftigen Reformprozesses des Sicherheitssektors in Syrien; Regierung als Ansprechpartner in einer idealen Welt bei zukünftigen persönlichen Gefahrensituationen; Gründe für diese Einstellung (z.B. Verantwortlichkeit des Staates für die Sicherheit der Bürger); Gründe, warum sich der Befragte in persönlichen Gefahrensituationen nicht an den Staat wenden würde; präferierte alternative Ansprechpartner in persönlichen Gefahrensituationen; Forderungen für das Syrien der Nachkriegszeit: Sicherheitsorgane sollten auf die Bedürfnisse aller Bürger eingehen, Polizei sollte die verantwortliche Instanz sein für die Sicherheit der Bürger; Wichtigkeit der gleichberechtigten Einbeziehung von Männern und Frauen in die Sicherheitsorgane; Akzeptanz einer beruflichen Tätigkeit der eigenen Tochter bei den Sicherheitsorganen;  Nachrichtendienste spielen eine entscheidende Rolle für die Sicherheit des Staates; Sicherheitsbeauftragte, die Straftaten gegen Bürger begehen, sollten vor Gericht gestellt werden; die Todesstrafe sollte abgeschafft werden; Länder bzw. Institutionen, die um Unterstützung für den Wiederaufbau des Landes sowie für den Wiederaufbau des Sicherheitssektors ersucht werden sollten; im Nachkriegssyrien sollten Entscheidungen, die die Sicherheit der Bürger betreffen, inden Provinzen und nicht in der Hauptstadt getroffen werden; im Nachkriegssyrien sollten Sicherheitsorgane unter zivile Aufsicht gestellt werden; präferierte Institution für die Kontrolle des Sicherheitssektors; Präferenzen für den zukünftigen Verteidigungsminister und Innenminister im Nachkriegssyrien; im Nachkriegssyrien sollte es spezielle Sicherheitsorgane ausschließlich für den Schutz des Präsidenten geben; Voraussetzungen für die Rückkehr nach Syrien (z.B. demokratisch gewählter Präsident).   
+Demographie: Geschlecht; Alter (Geburtsjahr); Religion; letzter Wohnsitz in Syrien (Provinz); Wohnort in Syrien (Stadt, Dorf, Flüchtlingscamp); Familienstand; höchster in Syrien erreichter Bildungsabschluss; Tätigkeit vor Verlassen des Landes; Jahr, in dem Syrien verlassen wurde; Jahr der Ankunft in Deutschland; Gründe für das Verlassen des Landes. 
+Zusätzlich verkodet wurde: Befragten-ID; Befragten-Nr.; Beginn und Ende der Befragung (Datum, Uhrzeit); Englische Übersetzungsvariable; Gruppenzugehörigkeit.  </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The aim of the survey is to examine perceptions and attitudes towards security sector reform in Syria. It is about how Syrians imagine an ideal security sector, or a reform process to that effect, for their country in order to regain confidence in state security provision. The population is made up of Syrians between the ages of 15-45 who currently live in Germany. The selection was made by a snowball or availability sample. The questionnaire consists of 5 parts, includes 63 questions in High Arabic (Modern Standard Arabic) and is online-based (CAWI).
+Topics: Basic understanding of security sector reform (query of 5 central termini: rule of law, human rights, civilian oversight, good governance and security sector reform).
+Experiences of insecurity and injustice in Syria before and during the war: personal definition of security; sense of security in different places in Syria before and during the war; experience of insecurity and injustice: most frequent and serious types of insecurity and injustice before and during the war in Syria (e.g. domestic violence by family members or spouses, etc.); personal experience (resp. experience of a person close to the respondent ) of different types of insecurity and injustice;   assessment of the extent of repression and violence in the place of residence, in the governorate and in the country before the war in Syria and during the war by state security forces and non-state armed groups; most responsible institutions for repression and violence before the war in Syria and during the war.
+General assessment of state security institutions (army, police and intelligence agencies): before the Syrian war a distinction was possible between the major security providers; knowledge of various processes, institutions, roles and responsibilities in the Syrian Arab Republic; agreement to statements regarding the security providers before the war in Syria: responded to the needs of the Syrian people, provided high quality services to citizens, well trained and equipped, applied the  law equally and fairly to all citizens, overlapping of roles and responsibilities; deficits of the state security providers before the war in Syria (e.g. widespread corruption); assessment of the Syrian justice system before the war in Syria with regard to the protection of all citizens from human rights abuses  and equal treatment of all citizens before the law.
+Ideas of an ideal security sector for Syria: most important characteristics of a functioning security sector; need for security sector reform after the end of the war in Syria; after the end of the war in Syria, the security sector needs to be built from scratch; all security forces need to be dismantled; all militias need to hand over their weapons; importance of various entities (e.g. president) in leading a future security sector reform process in Syria; government as a contact in an ideal world in future personal danger situations; reasons for this attitude (e.g. responsibility of the state for the security of citizens); reasons why the respondent would not turn to the state in personal danger situations; preferred alternative contact persons in personal danger situations; demands for post-war Syria: Security providers should respond to the needs of all citizens; police should be the responsible entity  to provide security for citizens; importance of equal participation of men and women in security forces; acceptance of a professional activity of one´s own daughter in the security forces; intelligence agencies play a crucial role for the security of the state; security officials that commit crimes against citizens should be brought to court; the death penalty should be abolished; countries or institutions that should be asked for support for rebuilding  the country as well as for rebuilding the security sector; in post-war Syria, decisions affecting the security of citizens should be taken in the governorates  and not in the capital; in post-war Syria, security providers should be put under civilian oversight; preferred institution(s) to be in charge of oversight; preferences for the future Minister of Defence and Minister of the Interior in post-war Syria; in post-war Syria, there should be specific security providers only serving  the protection of the president; conditions for the return to Syria (e.g. democratically elected president).
+Demography: sex; age (year of birth); religion; last place of residence in Syria (governorate of); place of residence in Syria (town, village, refugee camp); marital status; highest level of education attained in Syria; activity before leaving the country; year of leaving Syria; year of arrival in Germany; reasons for leaving the country.
+Additionally coded: respondent ID; respondent No.; start and end of the interview (date, time); English translation variable; group membership.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Syrerinnen und Syrer zwischen 15-45 Jahren, die derzeit in Deutschland leben</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Syrians between 15-45 years of age currently living in Germany</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Nicht-Zufallsstichprobe: Respondenten gesteuerte Auswahl; Nicht-Wahrscheinlichkeitsauswahl: Willkürliche Auswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Non-probability: Respondent-assisted 	; Non-probability: Availability</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2018-03-26</date>
+				</startDate>
+				<endDate>
+					<date>2018-08-11</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Principal Investigator</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.WebBased</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>619</numberUnits>
+			<numberVariables>386</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

@@ -1,0 +1,234 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Living Spaces - Public Opinion Survey of the BBR 2001'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'LebensRäume - Bevölkerungsumfrage des BBSR 2001'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5601</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>LebensRäume - Bevölkerungsumfrage des BBSR 2001</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Living Spaces - Public Opinion Survey of the BBR 2001</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Ferdinand</firstName>
+				<middleName/>
+				<lastName>Böltken</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Bauwesen und Raumordnung (BBR), Bonn</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Kathrin</firstName>
+				<middleName/>
+				<lastName>Meyer</lastName>
+				<affiliation>
+					<affiliationName>Bundesinstitut für Bau- Stadt- und Raumforschung (BBSR) im Bundesamt für Bauwesen und Raumordnung (BBR), Bonn</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5601?doi=10.4232/1.12065</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12065</doiProposal>
+	<publicationDate>
+		<date>2014-11-30</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5601</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT51</identifier>
+					<!-- Gemeinde, Wohnumwelt -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Wohnraum</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>TRANSPORT UND REISEN</term>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Community, urban and rural life</term>
+					<term>Housing</term>
+					<term>Economic conditions and indicators</term>
+					<term>TRANSPORT AND TRAVEL</term>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Wohnung und Wohnstatus. Wohnkosten. Siedlungsstruktureller undsozialstruktureller Kontext der Wohnung und dessen Bewertung.Wirtschaftliche Grundlage. Nachbarschaft und Integration. Mobilität.
+Themen: 1. Wohnen: Ortsgröße; im Ortskern oder außerhalb wohnend;Wohnlage; Wohndauer am Wohnort; Zufriedenheit mit der Stadt oderGemeinde (Skalometer); Wohndauer in der jetzigen Wohnung; Wohnstatus;Angaben zur letzten Wohnung: Lage der alten Wohnung; Größe des letztenWohnortes; Wohnstatus der letzten Wohnung.
+2. Wohnkosten: Mieter wurden gefragt: Wohnberechtigungsscheinerforderlich; Höhe der monatlichen Miete; Miete inklusive Heizung undWarmwasser; Höhe der monatlichen Kosten für Heizung und Warmwasser;Höhe der monatlichen Heizkostenpauschale; Höhe der Warmwassergeldes;Höhe der monatlichen Warmwasserpauschale; Höhe der durchschnittlichenmonatlichen Heizkosten; Zahlungsturnus für Heizung und Warmwasser undHöhe des gezahlten Betrages; Höhe des Jahresbetrages für Heizung undWarmwasser; Beurteilung der Mietkosten; Miete über oder unter demortsüblichen Mietspiegel; Bezug und Höhe von Wohngeld;
+3. Derzeitige Wohnung und Wohnumfeld: Wohnfläche; Anzahl derWohnräume; Beurteilung der Wohnungsgröße; Ausstattung der Wohnung;Ausstattung entspricht den Bedürfnissen; Erbauungszeitraum; Haustyp;Beurteilung des baulichen Zustands des Hauses; Zufriedenheit mit derunmittelbaren Wohnumgebung und den Umweltbedingungen in derWohnumgebung (Skalometer); Zufriedenheit mit der Wohnung (Skalometer).
+4. Wohngebiet und Sozialstruktur: Beschreibung der Wohnumgebung unddes Wohngebiets; Altbauten, neuere Häuser, reines Neubaugebiet, Ein-oder Zweifamilienhäuser oder größere Wohnblocks; persönliche Bedeutungausgewählter Lebensbedingungen am Wohnort (z.B. Arbeitsangebote,Infrastruktur, Wohnlage, Sicherheit, Zusammensetzung der Nachbarschaftusw.); Zufriedenheit mit diesen Lebensbedingungen; subjektivwahrgenommene Bevölkerungszusammensetzung im Wohngebiet.
+5. Nachbarschaft und Integration: Verhältnis von Deutschen undAusländern in der Wohnumgebung; Einstellung zur räumlichen Trennung vonDeutschen und Ausländern in einer Nachbarschaft; deutscheStaatsangehörigkeit; Kontakte zu Ausländern und Deutschen(Segregation).
+6. Mobilität: Umzugsabsicht; Hauptgrund für den Wegzug;Umzugspräferenz (Zielgebiet); präferiertes Bundesland; Beurteilung derderzeitigen persönlichen wirtschaftlichen Lage.
+Demographie: Geschlecht; Alter; Familienstand; Erwerbsstatus;Einschätzung der eigenen Arbeitsplatzsicherheit; berufliche Stellung(Berufsgruppen); Angestelltenstatus, Arbeiterstatus oder Beamtenstatus;höchster Schulabschluss; Haushaltsgröße; Haushaltszusammensetzung:Anzahl der Kinder unter 6 Jahren, von 6 bis 13 Jahren, der Jugendlichenvon 14 bis 17 Jahren und der Personen ab 18 Jahren;Haushaltsnettoeinkommen (klassiert); Anzahl der Personen im Haushaltmit eigenem Einkommen; Anzahl der Festnetz-Telefonanschlüsse imHaushalt.
+Zusätzlich verkodet wurde: Erhebungsjahr; Erhebungsverfahren(CATI,CAPI); West/Ost; Bundesland; BIK Gemeindetyp; Stadt- und Gemeindetyp;Gewichtungsfaktoren.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Apartment and residential status. Housing costs. Settlement structures and the socio-structural context of the dwelling and its evaluation. Economic background. Neighbourhood and integration. Mobility.
+Topics: 1. Housing: city size; living in the city centre or outside; location; duration of residence at the place of residence; satisfaction with the ciry or municipality (scalometer); duration of residence in the current dwelling; residential status; information on the last dwelling: location of the old dwelling; size of the last place of residence; residential status of the last residence.
+2. Housing costs: tenants were asked: housing entitlement certificate required; amount of monthly rent; rent including heating and hot water; amount of monthly costs for heating and hot water; amount of the monthly heating flat rate; amount of the hot water money; amount of the monthly hot water lump sum; amount of the average monthly heating costs; payment cycle for heating and hot water; amount paid; amount of the annual amount for heating and hot water; assessment of rental costs; rent above or below the local rent index; receipt and amount of housing allowance.
+3. Current apartment and residential environment: living space; number of residential premises; assessment of the size of the dwelling; equipment of the dwelling; equipment corresponds to needs; construction period; type of house; evaluation of the structural condition of the house; satisfaction with the immediate residential environment and the environmental conditions (scalometer); satisfaction with the apartment (scalometer).
+4. Residential area and social structure: description of the residential environment and of the residential area; old buildings, newer houses, pure new development area, residential area or two-family houses or larger blocks of flats; personal significance of selected living conditions in the place of residence (e.g. job offers, infrastructure, residential area, security, neighbourhood composition etc.); satisfaction with these living conditions; subjective perceived population composition in the residential area.
+5. Neighbourhood and integration: relationship between Germans and foreigners in the residential environment; attitude towards the spatial separation of Germans and foreigners in a neighborhood; German nationality; contacts to foreigners and Germans (segregation).
+6. Mobility: intention to move; main reason for moving; relocation preference (target area); preferred federal state; assessment of the personal economic situation.
+Demography: sex; age; marital status; employment status; assessment of one´s own job security; occupational status (occupational groups); employee status, worker status or civil servant status; highest school leaving certificate; household size; household composition: number of children under 6 years, from 6 to 13 years, adolescents from 14 to 17 years and persons from 18 years; net household income (classified); number of income earners in the household; number of fixed network telephone lines in the household.
+Additionally coded was: survey year; mode of collection (CATI, CAPI); west/east; federal state; BIK community type; city and community type; weighting factors.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutsch sprechende Personen ab 18 Jahren In Privathaushalten</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German-speaking persons aged 18 years and older In private households</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Mehrstufige geschichtete Zufallsauswahl (Random Route) 
+
+Sämtliche Gemeinden des Untersuchungsgebietes wurden nach regionalen Kriterien in Schichten unterteilt. Als Schichtungsmerkmale dienten Bundesländer, Regierungsbezirke und Gemeindetypen (entsprechend BIK-Stadtregionen). 
+Für die erste Auswahlstufe wurde die BRD in rund 53.000 Flächen aufgeteilt anhand der kommunalen, statistischen Bezirke und unter Zuhilfenahme eines geografischen Informationssystems (GIS) zur Straßeneinteilung der BRD. Diese Flächen oder Sample-Points bildeten die Auswahleinheiten der ersten Auswahlstufe. 
+In der zweiten Auswahlstufe wurden durch Zufallsauswahl die für die Stichprobe pro Sample-Point benötigten Haushaltsadressen erhoben. In diesen vorgegebenen Befragungshaushalten ermittelten die Interviewer in der dritten Auswahlstufe die zu befragende Zielperson. Dies geschah mit Hilfe eines systematischen Auswahlschlüssels.
+Ergänzungsstichprobe in den ostdeutschen Bundesländern und Ostberlin wird nach denselben Kriterien gezogen.
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>2001</year>
+				</startDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Autumn</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Herbst</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>NFO Infratest Sozialforschung, München</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>CAPI (Computerunterstützte persönliche Befragung) Persönliches Interview (Gesamtdeutschland) und zusätzlich CATI (Computerunterstützte telefonische Befragung) - Telefonisches Interview (Ergänzungsstichprobe in den ostdeutschen Bundesländern und Ostberlin) </freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>124</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie ist Teil einer Serie, die seit 1986 jährlich durchgeführt wird.
+
+Geteilte Stichprobe, CAPI für Gesamtdeutschland und zusätzlich CATI für Ostdeutschland, um zwei etwa gleichgroße Stichproben für Ost und West zu erhalten.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The study is part of a series that has been conducted annually since 1986.</text>
+		</note>
+	</notes>
+</resource>

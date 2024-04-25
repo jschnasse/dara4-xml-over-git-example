@@ -1,0 +1,304 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Living Condition Survey Estonia, Lithuania and Latvia 1999 (Individuals)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Living Condition Survey Estonia, Lithuania and Latvia 1999 (Individuals)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4675</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Living Condition Survey Estonia, Lithuania and Latvia 1999 (Individuals)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Living Condition Survey Estonia, Lithuania and Latvia 1999 (Individuals)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Statistical Office of Estonia</institutionName>
+			</institution>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Dagmar</firstName>
+				<middleName/>
+				<lastName>Kutsar</lastName>
+				<affiliation>
+					<affiliationName>Department of Sociology of the University of Tartu (Estoina)</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Aadne</firstName>
+				<middleName/>
+				<lastName>Aasland</lastName>
+				<affiliation>
+					<affiliationName>Institute of Applied Social Research Fafo (Norway)</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<institution>
+				<institutionName>Ministry of Social Affairs of Estonia
+</institutionName>
+			</institution>
+		</creator>
+		<creator>
+			<institution>
+				<institutionName>Central Statistical Bureau of Latvia</institutionName>
+			</institution>
+		</creator>
+		<creator>
+			<institution>
+				<institutionName>Ministry of Social Security and Labour of the Republic of Lithuania</institutionName>
+			</institution>
+		</creator>
+		<creator>
+			<institution>
+				<institutionName>Statistics Lithuania</institutionName>
+			</institution>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Ülle</firstName>
+				<middleName/>
+				<lastName>Marksoo</lastName>
+				<affiliation>
+					<affiliationName>Institute of Applied Social Research Fafo (Norway)</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4675?doi=10.4232/1.4675</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4675</doiProposal>
+	<publicationDate>
+		<year>2007</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4675</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Arbeitsbedingungen</term>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Kriminalität und Gesetzesvollzug</term>
+					<term>Drogenmissbrauch, Alkoholkonsum und Rauchen</term>
+					<term>Medizinische Behandlung und Medikation</term>
+					<term>Spezifische Krankheiten, Störungen und Gesundheitsprobleme</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Einkommen, Vermögen und Geldanlagen/Sparen</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Wohnraum</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Working conditions</term>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Community, urban and rural life</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Crime and law enforcement</term>
+					<term>Drug abuse, alcohol and smoking</term>
+					<term>Medication and treatment</term>
+					<term>Specific diseases, disorders and medical conditions</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Income, property and investment/saving</term>
+					<term>Economic conditions and indicators</term>
+					<term>Housing</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Studie enthält aktualisierte und politikrelevante Informationen zu den Lebensbedingungen in den drei Baltischen Staaten mit speziellen Focus auf die Gebiete Armut und ökonomische Ressourcen; Wohnen und Wohnumfeld, Bildung, Arbeitsmarkt (Arbeitslosigkeit und Arbeitsbedingungen; soziale Integration, Gesundheit (Kontakt mit Gesundheitsinstitutionen, medizinische Versorgung und Versicherung, private Anbieter) Kriminalität und Sicherheit. Themen: 1.) Wohnbedingungen und Wohnumfeld2.) Beruf3.) Wirtschaftliche Selbsteinschätzung4.) Einkommen5.) Arbeitsbedingungen6.) Gesundheit7.) Kriminalität, Sicherheit und Gewalt8.) Migration9.) Einstellungen, Werte und politische Ansichten10.) SozialkontakteDemographie1.) Typ des Wohnsitzes; Eigentümer der Unterkunft des Haushaltes; Qualität der Wohnausstattung; Probleme Miete zu zahlen oder für öffentliche Dienstleistungen aufzukommen; Mietschulden oder Schulden bei öffentlichen Einrichtungen; Anzahl der Wohnräume; Wohnfläche in Quadratmetern; feuchte Räume/ kalte schwer zu heizende Räumlichkeiten; Lärmbelastung in der Wohnung; Abgase/Luftverschmutzung im Wohnumfeld; Zufriedenheit mit der eigenen Wohnung und der Wohngegend; Zustand der Wohnung; Umzugspläne; Gründe für Umzugspläne; Ausstattung mit Konsumgütern.2.) Erwerbstätigkeit; Abwesenheit von der Arbeit oder Tätigkeit innerhalb der letzten Woche; Gründe für Arbeitsabwesenheit; aktive Arbeitssuche in den letzten 4 Wochen und Gründe für keine Suche; Formen der Arbeitssuche der letzten 4 Wochen; Anzahl der Monate auf Arbeitssuche; generelle Arbeitsbereitschaft; bezahlte Arbeit in den letzten 12 Monaten; Grund für die Beendigung der Erwerbstätigkeit; Erwerbstatus; Ganztagsstelle oder Teilzeitbeschäftigung; Arbeitsstunden im Hauptberuf; zusätzliche Nebenbeschäftigungen; Arbeitsstunden in Nebenbeschäftigung; Suche nach zusätzlicher Arbeit.3.) Verfügbare Güter eines mittleren Lebensstandards; wirtschaftliche Lage des Haushaltes; Verfügbarkeit eines bestimmten Geldbetrages für unvorhergesehene Ereignisse; wirtschaftliche Lage im Vergleich zu früher.4.) Hauptverdiener des Haushaltes; Lohneinkommen; Einkommen durch nicht-landwirtschaftliche Selbstständigkeit ; Einkommen durch landwirtschaftliche Selbstständigkeit ; nicht-staatliches Transfereinkommen; staatliches Transfereinkommen durch Altersrente, andere Renten, Arbeitslosenhilfe, Kindergeld, Sozialhilfe, Wohngeld; Einkommen aus Vermögen; andere Kapitaleinkommen; Gesamteinkommen; Einschätzung ob letztes Haushaltseinkommen typisch ist; Selbstständigkeit des Befragten; Vergütungen durch den Arbeitgeber/Arbeitsplatz; Unterstützung mit Sachleistungen durch Freunde und Einrichtungen; Besitz einer Landwirtschaft; Haushalt lebt in einem Landwirtschaftsgebäude; Art der Landwirtschaft; Zugang zu Gemüsegarten oder Land; Unterstützung mit Lebensmitteln durch Freunde oder Bekannte; Selbstversorgerwirtschaft.5.) Gegenwärtig erwerbstätig; bezahlte oder unbezahlte Beschäftigung; berufliche Stellung; Art des Arbeitsvertrages; privater oder öffentlicher Arbeitgeber; Teilnahme an einer beruflichen Weiterbildung innerhalb der letzten zwölf Monate; Arbeitszeiten; gewünschte Wochenarbeitszeit; Qualität des Arbeitsplatzes; Gesundheitsschwächende und belastende Aspekte der Arbeit; Betriebsgröße; Einschätzung zur Angemessenheit der Arbeitsbedingungen; Verspätung der Lohnzahlung in den letzten 12 Monaten; Größte Verspätung der Lohnzahlung in den letzten 12 Monaten; Selbsteinschätzung der Arbeitsplatzsicherheit; Arbeitsbedingungen im Vergleich vor 5 Jahren.6.) Subjektive Einschätzung  des eigenen Gesundheitszustands; chronische Krankheiten oder Beschwerden oder Beeinträchtigungen wegen Unfall; Beeinträchtigungen im Alltag; Besuch von privaten oder öffentlichen Gesundheitseinrichtungen, Grund der Konsultation und Art der Kostenerstattung; stationärer Aufenthalt in Klinik oder Krankenhaus, Länge des Aufenthaltes; spezielle Gesundheitsbeschwerden innerhalb letzter Woche; Einnahme von Beruhigungsmitteln oder Psychopharmaka in den letzten 6 Monaten (von einem Arzt verschrieben, medizinische Versorgung aus Geldmangel nicht wahrgenommen; Krankenversicherungsschutz der Haushaltsmitglieder; Krankenversicherungsschutz des Befragten; Befragter bezahlt Krankenversicherung selbstgesundheitsbewusstes Verhalten; Häufigkeit und Art des Alkoholkonsums; Häufigkeit und Art des Tabakkonsums; Angebote Drogen zu kaufen in den letzten 5 Jahren; Orte, an denen Rauschmittel angeboten wurden.7.) Viktimisierung; Viktimisierungsfurcht; Umgang mit Gewalt/Schutz vor Übergriffen; Versicherungsschutz (Lebens, - Haus- und Hausratsversicherung).8.) Geburtsland; seit der Geburt in der Wohnung/im Haus lebend; Wohndauer in der Wohnung/im Haus; Wohndauer am Wohnort; Wohnort an dem Befragter vorher lebte; Größe des Wohnortes; Grund für Umzug an den Wohnort; Umzugspläne in den nächsten 3 Jahren; bevorzugter Ort/bevorzugtes Land  im Falle eines Umzuges; Hauptgrund für Wünsch für Wegzug 9.) Generelles Politikinteresse; politische Partizipation; Vertrauen in öffentliche Einrichtungen. und Organisationen: Parlament, Staatsoberhaupt, Regierung, Kirche, Armee, Gewerkschaften, Gerichte, Polizei, Fernsehen und Radio, Unternehmer, ausländische Konzerne, Presse; Einschätzung zu Einkommensungleichheit; Einschätzung zur Häufigkeit der Diskriminierung von Frauen im Arbeitsleben; Einstellung zur Zukunft, zur Politik und zur Familie; Meinung zu öffentlichen Einrichtungen und Behörden.10.)  Alter des Befragten bei Auszug aus dem Elternhaus; gegenwärtig mit Eltern oder Stiefeltern zusammenlebend; Bildungsgrad der Eltern; Familienstand; mit Ehepartner/Lebenspartner zusammenlebend oder allein lebend; Häufigkeit an Kontakten mit Eltern, Verwandten, Freunden und Bekannten; Möglichkeit von Freunden und Verwandten Hilfe oder Unterstützung zu erhalten; unbezahlte Pflegeleistung für andere; Grund für Pflege anderer; freiwillige oder unfreiwillige Pflege anderer; Mitgliedschaft in verschiedenen Organisationen.Demographie:  Geschlecht; Alter; Verwandtschaftsbeziehungen innerhalb des Haushaltes; Ethnizität; Staatsangehörigkeit; Staatsbürgerschaft in einem baltischen Land beantragt; Haushaltszusammensetzung; Kinderbetreuung; Ausgaben des Haushaltes für Kinderbetreuung; höchster Bildungsabschuss; höchster Berufsabschluss; Schulbesuch/Studium; Grund für fehlenden Schulbesuch.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The study gives updated and policy-relevant information on living conditions in the three countries, with special focus on poverty and economic resources, housing and residential environment, education, the labour market (unemployment, working conditions), social integration, health (contact with health institutions, coverage of medical insurance, private caretakers etc.), crime and security.Topics:1.) Housing conditions/residential environment 2.) Labour Force3.) Economic self-assessment4.) Income5.) Working conditions6.) Health condition7.) Crime, security and violence8.) Migration9.) Attitudes, values and political views10.) Social contacts Demography1.) Dwelling type; owner of dwelling; becoming owner of dwelling; quality of amenities; problems paying for rent or communal services; owing money for rent or communal services; number of rooms available to the household; dwelling space in square meters; damp/humid rooms and ability to keep home adequately warm; dwellings’ exposure to noise; exhausts from traffic/industry in vicinity of dwelling; respondents’ satisfaction with housing conditions; condition of dwelling; plans for removal to another dwelling; reasons for planning of removal to another dwelling; supply with consumer goods.2.) Household members’ occupation last week; absence of occupation last week; reason for absence of occupation last week; actively seeking work; reasons for not seeking work; ways of seeking work; number of months seeking work; general availability for work; paid work in last 12 months; household members’ reason for stopping work; status in employment; full-time or part-time job; working hours at main job; additional jobs; working hours at additional jobs; seeking additional work.3.) Capacity to get things that people sometimes cannot afford; economic situation of household; possibility to raise money for a sudden need; current economic situation compared with situation 5 years ago; assessment of future economic situation..4.) Main contributor to household budget; wage income; self employment income non-agricultural; self employment income agricultural; non-government transfer income; government transfer income in total and income of pension, unemployment benefit, child benefit, social assistance and housing support; property income; other monetary income; total income; income of last calendar month is typical income; employment status of household (employee or self-employed); received benefits through employer or workplace; received in-kind support from relatives, friends, churches or charity organisations; household member owning/renting a farm; household living on farm; farming type of household; garden or land available for subsistence agriculture; household receives food from relatives or friends; household practices aspects of subsistence economy.5.) Currently employed; paid or unpaid employee; occupational status; type of employment contract; public or private ownership of company; vocational or professional training last 12 months; work schedule; preference for working hours per week; inconveniences respondent is exposed to; stressful and unhealthy working conditions; number of employees at workplace; assessment of good and bad aspects of working conditions; delays in receiving salary; longest delay in the last 12 months; assessment of job security for the next 2 years; working conditions compared with 5 years ago.6.) State of health in general; chronic illness or disabilities; afflictions in daily life; contact with health care institutions (public or private), reason for visit and mode of paying for service; duration of habitation in health institutions; health problems during last week; intake of sedatives or psychotropics last 6 months, prescribed by a doctor; medical services not used because of lack of money the last 12 months; health insurance of household members; health insurance of respondent; respondent has to pay for health insurance; health-conscious behaviour; consumption of alcoholic beverages (alcohol consumption); smoking habits; someone offered drugs to respondent the last 5 years; place where drugs have been offered to respondent.7.) Experienced violence and reported to police; fear of assaults or threats; comportment of crime protection; household members are in possession of insurances8.) Country of birth; respondent lived in dwelling since birth; occupancy in dwelling; duration of stay in community; place where respondent lived before moving to current community; type of residential area respondent lived before; reason for moving to current community; intention to move to another community; preferred place/country of residence; main reason to move away.9.) General interest in politics; participation on political issues; trust in public institutions and organisations: parliament, president of the state, government, church, armed forces, trade unions, courts, police, television and radio, national businessmen, foreign companies, press; attitude to differences between income groups; estimation of discrimination of women in working life; attitude to statements concerning future, politics and family; opinion to public authorities 10.) Age of moving out of parent’s house; currently living with parents or step-parents; parents’ education; marital status; living with spouse, partner or no partner; frequency of contacts with parents, relatives, friends and acquaintances; possibility of getting help/support from friends and relatives; unpaid care for someone else; reason for caring someone else; voluntary or non-voluntary care; membership in different organisations.
+Demography: Sex; age; relation of household members; ethnicity; citizenship; respondent applied for citizenship in a Baltic country; household type; type of child care; household expenditure on childcare; highest level of general education of household members; highest vocational education of household members; household members currently attending school/studying; reasons for not attending school.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>EE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LV</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Private Haushalte aus den drei Baltischen Staaten. </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Private households resident in the Baltic States. The enumeration units of the sample are all residents. 
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Einstufige Zufallsauswahl in den größten Städten und zweistufige proportional geschichtete Zufallsauswahl der restlichen Gemeinden. Den Fragebogen beantwortete eine Person für den Haushalt und eine zufällig ausgewählte Person, die 18 Jahre und älter war (RSI).
+(Ausführliche Angaben zur Auswahl sind in den Publikationen zu finden.)</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Single stage stratified cluster sample in the largest cities and two stage stratified cluster sample in all other areas. The questionnaire calls for one respondent that answers for the household, and one randomly selected person (RSI) aged 18 or more. 
+(For detailed information on sampling, please see the publications.)</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1999-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1999-11</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Statistical Office of Estonia
+Central Statistical Bureau of Latvia
+Statistics Lithuania
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung (face to face interview) mit standardisiertem Fragebogen</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Face to face interviews with standardized questionnaires</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>489</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Der vorliegende Datensatz umfasst alle Themenbereiche des Fragebogens (household and individual part) und ist somit thematisch der Ausführlichste. Unter der ZA-Studien-Nr. ZA4676 ist nur der ‚household part’ archiviert, der Informationen zu allen Haushaltsmitgliedern enthält sowie unter der ZA-Studien-Nr. ZA4677 der ‚household part’ ohne Fragenkomplex C.  
+Um das Sample auf die Gesamtpopulation der entsprechenden Länder zu übertragen, wurden zwei Gewichtungsfaktoren bestimmt. Das ´expension weight´ wurde berechnet 
+aus dem Reziproken der Auswahlwahrscheinlichkeiten W(rsi) = 1/p(rsi). Dann wurden die Gewichte nach der ´adjustment cell method´ angepaßt und nachträglich gewichtet nach Alter, Geschlecht und Region. Die relativen Gewichte (relative weights) sind die expansion weights geteilt durch den Mittelwert der expension weights Wrsi= Wrsi/summe Wrsi/n. (Ausführliche Informationen über die Gewichtung sind in den Veröffentlichung zu den einzelnen Ländern zu finden: Oja Urmas, Kutsar Dagmar, Einasto Mart, Living Conditions Study in Estonia 1999 – Baseline Report, 2000, Ministry of Social Affairs of Estonia. http://www.fafo.no/norbalt/estland.pdf, pp. 149-152. NORBALT II Latvia. http://www.fafo.no/norbalt/latvia.pdf, pp. 177-189. NORBALT II Lithuania. http://www.fafo.no/norbalt/lithuani.pdf, pp. 255-265.)
+Die Studie ist Teil der NORBALT Survey Reihe 1999. Sie stand unter Supervision und Beratung durch das Institute of Applied Social Research Fafo in Norwegen.
+Mit der NORBALT I Studie wurden Informationen über die Lebensbedingungen in den drei Baltischen Staaten für 1994 zur Verfügung gestellt (Primärdaten noch nicht verfügbar). Mit der NORBALT II Studie, die eine Nachfolgestudie ist, wurden 1999 diese Informationen weiter ergänzt.
+
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The present data set includes all sections of the questionnaire (household and individual part). You can find the complete household part which includes the information on all household members among ZA study number ZA4676. The dataset with the ZA study number ZA4677 includes just the sections of the household part (housing, economic self-assessment, income) without part C (household roster).
+To expand the sample to the total population of the respective country there are two weighting factors. The expansion weights calculated as the inverse of the selection probabilities W(rsi) = 1/p(rsi). Further the weights are adjusted according to the ´adjustment cell method´ and post stratefied according to age, gender and region. The relative weights are expension weights divided by the mean of the expansion weights. See more details in the weighting and sample papers on each country: Oja Urmas, Kutsar Dagmar, Einasto Mart, Living Conditions Study in Estonia 1999 – Baseline Report, 2000, Ministry of Social Affairs of Estonia. http://www.fafo.no/norbalt/estland.pdf, pp. 149-152. NORBALT II Latvia. http://www.fafo.no/norbalt/latvia.pdf, pp. 177-189. NORBALT II Lithuania. http://www.fafo.no/norbalt/lithuani.pdf, pp. 255-265.
+The study is part of the NORBALT survey series 1999. It was supervised and methodological advice was given by the Institute of Applied Social Research Fafo in Norway. Through NORBALT I information on living-conditions was made available for all three Baltic countries in 1994. With NORBALT II, a follow up to this survey taking place in 1999, the usefulness of this information will be further enhanced. 
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kutsar Dagmar, Living Conditions in Estonia Five Years Later, 2002, Ministry of Social Affairs of Estonia, Tartu University Press. http://www.fafo.no/norbalt/lc5yearslater.pdf</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>NORBALT II Latvia. http://www.fafo.no/norbalt/latvia.pdf</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Oja Urmas, Kutsar Dagmar, Einasto Mart, Living Conditions Study in Estonia 1999 – Baseline Report, 2000, Ministry of Social Affairs of Estonia. http://www.fafo.no/norbalt/estland.pdf</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Aadne Aasland, Guri Tyldum, Living Conditions Developments in Estonia, Latvia and Lithuania 1994–1999, 2000, Fafo report 334. http://www.fafo.no/norbalt/334.pdf
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>NORBALT II Lithuania. http://www.fafo.no/norbalt/lithuani.pdf</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

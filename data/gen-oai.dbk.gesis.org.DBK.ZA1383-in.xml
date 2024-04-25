@@ -1,0 +1,215 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Young Ethnic Germans from Eastern Europe in North Rhine-Westphalia
+(Intensive Survey)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Junge Aussiedler in Nordrhein-Westfalen (Intensiv-Befragung)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1383</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Junge Aussiedler in Nordrhein-Westfalen (Intensiv-Befragung)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Young Ethnic Germans from Eastern Europe in North Rhine-Westphalia
+(Intensive Survey)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Institut für Soziale Arbeit, Münster</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1383?doi=10.4232/1.1383</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1383</doiProposal>
+	<publicationDate>
+		<year>1984</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1383</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT51</identifier>
+					<!-- Gemeinde, Wohnumwelt -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Social conditions and indicators</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Berufliche Situation und soziale Integration von jungen Aussiedlern.
+Themen: Abschlußjahr des Sprachintensivkurses; Berufswunsch;Hinderungsgründe für die Ausübung des gewünschten Berufes; Wichtigkeiteiner guten beruflichen Qualifikation; vermutete Gründe für dieschlechtere Integration von Aussiedlern in den Arbeitsmarkt; Wichtigkeitvon beruflichem Erfolg im Vergleich mit Zufriedenheit in der Familie;Arbeitsorientierung; Kriterien für die Arbeitsplatzwahl; eigeneAnstrengungen und Erfahrungen bei der Arbeitsplatzsuche; erfolgteMaßnahmen bei der eigenen Arbeitsplatzsuche und eigene Änderung oderBeibehaltung des ursprünglichen Arbeitsplatzwunsches; Häufigkeit undGründe der erfolgten Umzüge; Häufigkeit der Kontakte zu ausgewähltenPersonenkreisen; Kontakte zu anderen Deutschen und Orte desKennenlernens; Freizeitverhalten und Freizeitkontakte; Teilnahme anöffentlichen Veranstaltungen; empfundene Mängel bei der Gestaltung dereigenen Freizeit; Besuch von Kino, Theater und von Sportveranstaltungenund Gründe für Nicht-Besuch; präferierte Filme, Theaterstücke undSportveranstaltungen; sportliche Aktivitäten; Zukunftsvorstellungen;Gesprächspartner über die Zukunft; Zukunftsgestaltung nach den eigenenVorstellungen; Zukunftsfreude; präferierte Maßnahmen zur Verbesserungder eigenen Situation in der Bundesrepublik.
+Demographie: Alter; Geschlecht; Familienstand; Herkunftsland;Schulbildung; Berufsausbildung; Beruf; berufliche Position;Mitgliedschaften; Wohnortgröße.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Occupational situation and social integration of young ethnic Germansfrom Eastern Europe.
+Topics: year of conclusion of the intensive language course; desiredoccupation; obstacles to exercising desired occupation; importance ofgood occupational qualification; assumed reasons for the worseintegration of ethnic Germans from Eastern Europe into the job market;importance of occupational success in comparison with satisfaction inone´s family; work orientation; criteria for choice of job; personalefforts and experiences in the search for work; measures used inpersonal search for work and personal change or retention of originaljob desire; frequency and reasons for moves; frequency of contacts withselected groups of persons; contacts with other Germans and places ofmeeting; leisure behavior and leisure contacts; participation in publicevents; perceived shortcomings in structuring one´s own leisure time;attendance at movies, theater and sporting events and reasons fornon-attendance; preferred films, plays and sporting events; athleticactivities; future concepts; conversation partner about the future;structuring the future according to personal concepts; optimism aboutthe future; preferred measures to improve personal situation in theFederal Republic.
+Demography: age; sex; marital status; country of origin; schooleducation; vocational training; occupation; occupational position;memberships; size of place of residence. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen, die sich in der Erhebung, die unter der ZA-Studien-Nr. 1382
+archiviert ist, bereit erklärt haben, an einem Wochenendseminar
+teilzunehmen </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>The persons who in the survey archived under ZA Study No.
+1382 declared themselves willing to participate in a weekend seminar </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Totalerhebung </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Census </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>1981</year>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Institut fuer Soziale Arbeit, Muenster
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>139</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Interviews wurden an zwei Wochenendseminaren durchgeführt. Dabei
+wurde die Methode des gegenseitigen Interviewens angewandt, d.h. die
+jungen Aussiedler interviewten sich gegen Ende des Seminars
+untereinander.
+Vergleiche auch die vorangegangene Befragung der jungen
+Aussiedler unter der ZA-Studien-Nr. 1382.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The interviews were conducted at two weekend seminars. In this the
+method of mutual interview was used, i.e. the young ethnic Germans from
+Eastern Europe interviewed themselves towards the end of the seminar.
+See also the previous survey of young ethnic Germans from Eastern
+Europe archived under ZA Study No. 1382. </text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Krieg, Robert: 
+Junge Aussiedler in Nordrhein-Westfalen: Studie über die berufliche und soziale Integration von ehemaligen Sprachkursteilnehmern. 
+Münster: Institut für Soziale Arbeit, Münster, o.J.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

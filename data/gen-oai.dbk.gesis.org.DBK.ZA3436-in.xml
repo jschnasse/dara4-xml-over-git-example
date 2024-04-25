@@ -1,0 +1,214 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'State Election in North Rhine-Westphalia 2000'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Landtagswahl in Nordrhein-Westfalen 2000
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA3436</identifier>
+		<currentVersion>2.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Landtagswahl in Nordrhein-Westfalen 2000
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>State Election in North Rhine-Westphalia 2000</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3436?doi=10.4232/1.11283</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11283</doiProposal>
+	<publicationDate>
+		<date>2012-02-27</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3436</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+					<term>Economic conditions and indicators</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Beurteilung von Parteien und Politikern zur Landtagswahl. PolitischeFragen.
+Themen: Wichtigste politische Probleme in Nordrhein-Westfalen;Wahlbeteiligungsabsicht an der Landtagswahl; Präferenz für Briefwahl;Parteipräferenz; Zeitpunkt und Sicherheit der eigenen Wahlentscheidung;Wichtigkeit der Bundespolitik für die eigene Wahlentscheidung aufLandesebene; Wahlverhalten bei der letzten Landtagswahl; Chancen füreine Alleinregierung der SPD im Land und Haltung dazu;Koalitionspräferenz; Sympathie-Skalometer für ausgewählte Parteien aufBundes- und Landesebene; Zufriedenheit mit den Leistungen derSPD-Grünen-Landesregierung; Zufriedenheit mit den Leistungen dereinzelnen Koalitionspartner in der Landesregierung, der CDU-Oppositionim Landtag sowie der SPD-Grünen-Bundesregierung (Skalometer); Kenntnisder Spitzenkandidaten der CDU und der SPD für das Amt desMinisterpräsidenten; Sympathie-Skalometer für ausgewählteSpitzenpolitiker; Partei die am besten gefällt (erste und zweitePräferenz); Politikinteresse; Präferenz für Wolfgang Clement oder JürgenRüttgers als Ministerpräsident in Nordrhein-Westfalen; Vergleichzwischen den beiden Spitzenpolitikern hinsichtlich ihrerGlaubwürdigkeit, Tatkraft, Sympathie, des Verantwortungsbewusstseins,des Sachverstands und des Siegertyps; Beurteilung der eigenenwirtschaftlichen Lage und der wirtschaftlichen Lage des LandesNordrhein-Westfalen; erwartete Konjunkturentwicklung im Bundesland undVergleich der wirtschaftlichen Lage des Landes mit dem übrigenwestlichen Bundesgebiet; kompetenteste Partei im Bundesland zurVerbesserung der wirtschaftlichen Lage, bei der Arbeitsplatzbeschaffung,bei der Umweltpolitik, bei der Schul- und Bildungspolitik, bei derVerkehrspolitik, bei der Ausländerpolitik und bei der Fähigkeitzukünftige Probleme in Nordrhein-Westfalen zu lösen; Einstellung zumBeibehalten der Green Card; Einstellung und persönliche Bedeutung zuMaßnahmen gegen die Green Card; Vermuteter Aufklärungswillen der CDU beider Spendenaffäre; persönliche Bedeutung der CDU-Finanzaffäre und derSPD-Flugaffäre; Beurteilung des Ministerpräsidenten Wolfgang Clement;Position des Landes bei zukünftigen Herausforderungen; Einstellung zurfehlenden Koalitionsentscheidung der FDP vor der Wahl; erwarteterKoalitionspartner der FDP; erwarteter Wahlgewinner bei der Landtagswahl;Chancen der FDP und der Grünen bei der Landtagswahl.
+Demographie: Alter (klassiert);Geschlecht; Familienstand; Zusammenlebenmit einem Partner; Schulbildung; Berufsausbildung; Berufstätigkeit;berufliche Position; eigene Arbeitsplatzsicherheit; Umfang derHaushaltsgröße; Haushaltszusammensetzung; Haushaltsvorstand;Berufsausbildung, Berufstätigkeit und berufliche Position desHaushaltsvorstands; Gewerkschaftsmitgliedschaft; Konfession;Kirchgangshäufigkeit; Parteineigung; Parteiidentifikation;Arbeitslosigkeit und Arbeitsplatzgefährdung im sozialen Umfeld;Ortsgröße.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte Wohnbevölkerung</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: RLD-Verfahren (Randomize last digit) und Geburtstagssschlüssel
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: RLD procedure (Randomize last digit) and birthday method
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2000-05</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>1016</numberUnits>
+			<numberVariables>104</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.3436</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+</resource>

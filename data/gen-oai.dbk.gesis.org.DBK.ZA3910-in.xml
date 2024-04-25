@@ -1,0 +1,1352 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'International Social Survey Programme: 
+National Identity II - ISSP 2003'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'International Social Survey Programme: 
+National Identity II - ISSP 2003
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA3910</identifier>
+		<currentVersion>2.1.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>International Social Survey Programme: 
+National Identity II - ISSP 2003
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>International Social Survey Programme: 
+National Identity II - ISSP 2003</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>ISSP Research Group</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3910?doi=10.4232/1.11449</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11449</doiProposal>
+	<publicationDate>
+		<date>2012-10-18</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3910</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Political behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Das International Social Survey Programme (ISSP) ist ein länderübergreifendes, fortlaufendes Umfrageprogramm, das jährlich Erhebungen zu Themen durchführt, die für die Sozialwissenschaften wichtig sind. Das Programm begann 1984 mit vier Gründungsmitgliedern - Australien, Deutschland, Großbritannien und den Vereinigten Staaten - und ist inzwischen auf fast 50 Mitgliedsländer aus aller Welt angewachsen. Da die Umfragen auf Replikationen ausgelegt sind, können die Daten sowohl für länder- als auch für zeitübergreifende Vergleiche genutzt werden. Jedes ISSP-Modul konzentriert sich auf ein bestimmtes Thema, das in regelmäßigen Zeitabständen wiederholt wird. Details zur Durchführung der nationalen ISSP-Umfragen entnehmen Sie bitte der Dokumentation. Die vorliegende Studie konzentriert sich auf Fragen zu nationalem Bewusstsein und nationaler Identität.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Wichtigste gesellschaftliche Gruppe mit der sich der Befragteidentifiziert; Verbundenheit mit dem Stadtteil, der Stadt, der Region,der Nation und mit dem jeweiligen Kontinent; wichtigste Merkmale fürnationale Identität; Identifikation mit der eigenen Nation undNationalstolz (Skala); empfundener Stolz auf die Demokratie des Landes,auf den politischen Einfluss des Landes in der Welt, auf diewirtschaftlichen Erfolge, die sozialstaatlichen Leistungen, diewissenschaftlichen Errungenschaften, die sportlichen Erfolge, dieLeistungen in Kunst bzw. Literatur, die Streitkräfte, die Geschichteund die Gleichberechtigung aller gesellschaftlichen Gruppen im Lande;Präferenz für Schutzzölle zur Stützung der nationalen Wirtschaft;Einstellung zum Durchgreifen internationaler Institutionen zumDurchsetzen von Lösungen auf nationaler Ebene; Präferenz für dieDurchsetzung nationaler Interessen selbst bei Konflikten mit anderenLändern; Ablehnung des Grunderwerbs durch Ausländer im eigenen Land;Präferenz für nationale Filme von nationalen Fernsehstationen; Schadenfür die heimische Wirtschaft durch große internationale Unternehmen;Einstellung zum freien Handel; Einstellung zum Erfülleninternationaler Verpflichtungen; empfundene Schwächung des eigenenLandes durch internationale Organisationen; Verfügbarkeit weltweiterInformationen als positive Folge des Internets; Wichtigkeit derBefolgung nationaler Sitten und Traditionen für eine vollständigenationale Identität; Einstellung zur Unterstützung ethnischerMinderheiten zum Erhalt ihrer Sitten und Gebräuche; Präferenz zurAssimilation von Minderheiten oder Beibehalt ihrer Identität;Ausländerfeindlichkeit und Vorurteile gegen Einwanderer (Skala);Einstellung zu einer Reduzierung der Zuwanderung von Ausländern;Staatsangehörigkeit; Staatsangehörigkeit der Eltern bei Geburt desBefragten; präferierte Voraussetzung für eine Einbürgerung; zuhausegesprochene Sprache; gleiche Rechte für Bürger und legale Zuwanderer;Einstellung zu verschärften Maßnahmen gegenüber illegalen Zuwanderern;Wichtigkeit des Erhalts einer Nation oder Separierung in mehrereStaaten; empfundene ethnische Zugehörigkeit und Stärke diesesVerbundenheitsgefühls.
+In EU-Staaten wurde zusätzlich gefragt: Vorteilhaftigkeit derMitgliedschaft des Landes in der EU; Einstellung zu einer starkenEU-Regierung. 
+Demographie: Geschlecht; Alter; Familienstand; Zusammenleben mit einemPartner; absolvierte Schuljahre; derzeitige Berufstätigkeit desBefragten und seiner Partnerin; Wochenarbeitszeit; Beruf des Befragtenund seiner Partnerin (ISCO-88); Vorgesetztenfunktion;Gewerkschaftsmitgliedschaft; Haushaltsgröße; Familieneinkommen;Einkommen des Befragten; Haushaltszusammensetzung; Selbsteinschätzungauf einem Links-rechts-Kontinuum; Parteipräferenz; Wahlverhalten beider letzten Wahl; Konfession; Kirchgangshäufigkeit; Selbsteinschätzungder Schichtzugehörigkeit; Region; Ortsgröße; Urbanisierungsgrad;ethnische Zugehörigkeit oder Nationalität. 
+Zusätzlich verkodet wurde: Datenerhebungsmethode.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The International Social Survey Programme (ISSP) is a continuous programme of cross-national collaboration running annual surveys on topics important for the social sciences. The programme started in 1984 with four founding members - Australia, Germany, Great Britain, and the United States – and has now grown to almost 50 member countries from all over the world. As the surveys are designed for replication, they can be used for both, cross-national and cross-time comparisons. Each ISSP module focuses on a specific topic, which is repeated in regular time intervals. Please, consult the documentation for details on how the national ISSP surveys are fielded. The present study focuses on questions about national consciousness and national identity.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Identification with the town, the city, the region, the nationand with the respective continent; most important characteristics fornational identity; identification with one´s own nation and nationalpride (scale); perceived pride in the democracy of the country, thepolitical influence of the country in the world, the economicachievement, the social security system, the scientific achievements,the achievements in sports, the achievements in arts or literature, thearmed forces, the history and equal rights of all social groups insociety; preference for protective duty to support the nationaleconomy; attitude to the right of international institutions to enforcesolutions to be accepted nationally; attitude to enforcing nationalinterests regardless of evoking conflicts with other countries;rejection of acquisition of land by foreigners in one´s country;preference for national films in national television stations; damagedone by large international companies to the local business; attitudeto free trade; attitude to follow the decisions of internationalorganisations even if the local government does not agree with them;international organisations take away too much power from the country;availability of worldwide information as a benefit of the internet;importance of sharing national customs and traditions to achieve fullnationality; attitude to government support of national minorities topreserve their customs and habits; preference for assimilation ofminorities or retention of their identity; hostility to foreigners andprejudices against immigrants (scale); attitude to a reduction ofimmigration of foreigners; respondents citizenship; citizenship ofparents at birth of respondent; birthplace or citizenship of parentsshould allow naturalization of children; same rights for citizens andlegal immigrants; attitude towards stronger measures regarding illegalimmigrants; languages spoken at home; perceived ethnic affiliation andstrength of this feeling.
+Additional questions in EU states: Advantageousness of membership ofthe country in the EU; benefits from EU-membership; attitude towards apowerful EU-government.
+Demography: Sex; age; marital status; steady life-partner; years inschool, current employment status; current employment status of spouse;hours worked weekly; occupation of respondent and spouse (ISCO-88);respondent and spouse working for private, public sector orself-employed; supervisor function; union membership; household size;family income; respondents earnings; household composition;self-placement on a left-right continuum; party preference; vote lastelection; religious denomination; frequency of church attendance;self-placement on a top-bottom scale; region; town size, rural or urbanregion; ethnicity or nationality.
+Additionally encoded: Mode of data-collection.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>AU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>BG</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-GBN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>JP</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CA</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LV</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NZ</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NO</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PH</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>RU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CH</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ZA</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>KR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>TW</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CZ</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>UY</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>US</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>VE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 18 Jahre (Ausnahmen: Finnland: 15; Japan, Niederlande, Russland und Südafrika: 16; Schweden: 17) und älter
+</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>18 years old (Exceptions: Finland: 15; Japan, Netherlands, Russia and South Africa: 16; Sweden: 17) and older</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl; Auswahlverfahren Kommentar: Von Land zu Land unterschiedliche Erhebungsverfahren: Zum Teil
+einfache, zum Teil mehrstufig geschichtete Zufallsauswahl </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability; Sampling Procedure Comment: Sampling procedures differ for the individual countries: Partly simple,
+partly multi-stage stratified random sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2003-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2005-01</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>The survey periods:
+Australia: August to December 2003;
+Austria: November to December 2004;
+Bulgaria: April to May 2003;
+Canada:  January to March 2004;
+Chile: December 2003;
+Czech Republic: September to October 2003;
+Denmark: October 2003 to January 2004;
+Finland: September to November 2003;
+France: September to December 2003;
+Germany: March to July 2004;
+Great Britain: June to September 2003;
+Hungary: February to March 2003;
+Ireland: October to November 2003;
+Israel: December 2003 to February 2004;
+Japan: November to December 2003;
+Latvia: December 2003;
+New Zeeland: September to November 2003;
+The Netherlands: December 2004 to March 2005;
+Norway: October to December 2003;
+Philippines: March 2003;
+Poland: January 2005;
+Portugal: April to September 2004;
+Russia: July 2003;
+Slovakian Republic: April to May 2004;
+Slovenia: February to March 2003;
+South Africa: August to October 2003;
+South Korea: July to August 2003;
+Spain: June 2003;
+Sweden: February to April 2003;
+Switzerland: May 2002 to August 2003;
+Taiwan: October to November 2003;
+Uruguay: July to August 2004;
+USA: August to December 2004;
+Venezuela: March to April 2004.</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Die Erhebungszeiträume: 
+Australien: August bis Dezember 2003; 
+Bulgarien: April bis Mai 2003; 
+Chile: Dezember 2003;
+Dänemark: Oktober 2003 bis Januar 2004; 
+Finnland: September bis November 2003; 
+France: September bis Dezember 2003;
+Deutschland: März bis Juli 2004;
+Großbritannien: Juni bis September 2003;
+Irland: Oktober bis November 2003;
+Israel: Dezember 2003 bis Februar 2004;
+Japan: November bis Dezember 2003;
+Kanada: Januar bis März 2004;
+Lettland: Dezember 2003;
+Neuseeland: September bis November 2003;
+Niederlande: Dezember 2004 bis März 2005;
+Norwegen: Oktober bis Dezember 2003;
+Österreich: November bis Dezember 2004;
+Philippinen: März 2003;
+Polen: Januar 2005;
+Portugal: April bis September 2004;
+Russland: Juli 2003;
+Slovakian Republic: April bis Mai 2004;
+Slovenien: Februar bis März 2003;
+Süd-Afrika: August bis Oktober 2003;
+Süd-Korea: Juli bis August 2003;
+Spanien: Juni 2003;
+Schweden: Februar bis April 2003;
+Schweiz: Mai 2002 bis August 2003;
+Taiwan: Oktober bis November 2003;
+Tschechische Republik: September bis Oktober 2003;
+Ungarn: Februar bis März 2003;
+Uruguay: Juli bis August 2004;
+USA: August to Dezember 2004;
+Venezuela: März bis April 2004.</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Rachel K.</firstName>
+				<middleName/>
+				<lastName>Gibson</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ACSPRI Centre for Social Research (ACSR)
+Research School of Social Sciences Canberra,
+The Australian National University, Australia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Max</firstName>
+				<middleName/>
+				<lastName>Haller</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institut für Soziologie, Karl-Franzens-Universität Graz, Austria</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Markus</firstName>
+				<middleName/>
+				<lastName>Hadler</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institut für Soziologie, Karl-Franzens-Universität Graz, Austria</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Franz</firstName>
+				<middleName/>
+				<lastName>Hoellinger</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institut für Soziologie, Karl-Franzens-Universität Graz, Austria</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Lilia</firstName>
+				<middleName/>
+				<lastName>Dimova</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Agency for Social Analyses (ASA), Sofia, Bulgaria</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heather</firstName>
+				<middleName/>
+				<lastName>Pyman</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Carleton University Survey Centre, Carleton University, Ottawa, Canada</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jon H.</firstName>
+				<middleName/>
+				<lastName>Pammett</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Carleton University Survey Centre, Carleton University, Ottawa, Canada</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Petr</firstName>
+				<middleName/>
+				<lastName>Mateju</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute of Sociology, Academy of Sciences of the Czech Republic, Praha, Czech Republic</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Carolina</firstName>
+				<middleName/>
+				<lastName>Segovia</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Centro de Estudios Públicos, Santiago, Chile</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jørgen G.</firstName>
+				<middleName/>
+				<lastName>Andersen</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Economics, Politics and Public Administration, Aalborg University, Denmark</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Mette</firstName>
+				<middleName/>
+				<lastName>Tobiasen</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Economics, Politics and Public Administration, Aalborg University, Denmark</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Johannes</firstName>
+				<middleName/>
+				<lastName>Andersen</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Economics, Politics and Public Administration, Aalborg University, Denmark</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Eero</firstName>
+				<middleName/>
+				<lastName>Tanskanen</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Survey Research Unit, Statistics Finland, Finland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Sami</firstName>
+				<middleName/>
+				<lastName>Borg</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>FSD Finnish Social Science Data Archive
+University of Tampere, Finland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Raimo</firstName>
+				<middleName/>
+				<lastName>Blom</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>University of Tampere, Finland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Harri</firstName>
+				<middleName/>
+				<lastName>Melin</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>University of Tampere, Finland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Yannick</firstName>
+				<middleName/>
+				<lastName>Lemel</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>France-ISSP Association (Centre de Rechere en Économie et Statistique) Laboratorie de
+Sociologie Quantitative, Malkoff, France</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Pierre</firstName>
+				<middleName/>
+				<lastName>Bréchon</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>CIDSP (Centre d´Infomatisation des Données Socio-Politiques) Institut d´Études
+Politiques de Grenoble, Domaine Universitaire, St. Martin D´Heres, France</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Bruno</firstName>
+				<middleName/>
+				<lastName>Cautres</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>CIDSP (Centre d´Infomatisation des Données Socio-Politiques) Institut d´Études Politiques de Grenoble, Domaine Universitaire, St. Martin D´Heres, France</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Louis</firstName>
+				<middleName/>
+				<lastName>Chauvel</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>OFCE (Observatorie Français des Conjonctures Économiques), Paris, France</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Michel</firstName>
+				<middleName/>
+				<lastName>Forsé</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>OFCE (Observatorie Français des Conjonctures Économiques), Paris, France</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Alain</firstName>
+				<middleName/>
+				<lastName>Degenne</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>LASMAS (Laboratoire d´Analyse Secondaire et de Méthodes Appliquées en Sociologie), Paris, France</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Janet</firstName>
+				<middleName/>
+				<lastName>Harkness</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ZUMA, Mannheim, Germany</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Peter Ph.</firstName>
+				<middleName/>
+				<lastName>Mohler</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ZUMA, Mannheim, Germany</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Evi</firstName>
+				<middleName/>
+				<lastName>Scholz</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ZUMA, Mannheim, Germany</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Sabine</firstName>
+				<middleName/>
+				<lastName>Klein</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ZUMA, Mannheim, Germany</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Alison</firstName>
+				<middleName/>
+				<lastName>Park</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>National Centre for Social Research, London, Great Britain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Roger</firstName>
+				<middleName/>
+				<lastName>Jowell</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>National Centre for Social Research, London, Great Britain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Antal</firstName>
+				<middleName/>
+				<lastName>Örkény</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ELTE University Budapest, Budapest, Hungary</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Máire N. G.</firstName>
+				<middleName/>
+				<lastName>Phadraig</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>SSRC (Social Science Research Centre)
+University College Dublin, Dublin, Ireland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Conor</firstName>
+				<middleName/>
+				<lastName>Ward</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>SSRC (Social Science Research Centre)
+University College Dublin, Dublin, Ireland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Philippa</firstName>
+				<middleName/>
+				<lastName>Caithness</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>SSRC (Social Science Research Centre)
+University College Dublin, Dublin, Ireland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Noah</firstName>
+				<middleName/>
+				<lastName>Lewin-Epstein</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Dept. of Sociology and Anthropology, Tel Aviv University, Tel Aviv, Israel</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Eppie</firstName>
+				<middleName/>
+				<lastName>Yuchtman-Yaar</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Dept. of Sociology and Anthropology, Tel Aviv University, Tel Aviv, Israel</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hiroshi</firstName>
+				<middleName/>
+				<lastName>Aramaki</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>NHK, Broadcasting Culture Research Institute
+Public Opinion Research Division, Tokio, Japan</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Aivars</firstName>
+				<middleName/>
+				<lastName>Tabuns</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute of Philosophy and Sociology, Riga, Latvia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Ausma</firstName>
+				<middleName/>
+				<lastName>Tabuna</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute of Philosophy and Sociology, Riga, Latvia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Harry B.G.</firstName>
+				<middleName/>
+				<lastName>Ganzeboom</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Free University Amsterdam, Amsterdam, The Netherlands</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Philip</firstName>
+				<middleName/>
+				<lastName>Gendall</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Marketing, Massey University, Palmerston North, New Zealand</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Knut K.</firstName>
+				<middleName/>
+				<lastName>Skjak</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>NSD (Norwegian Social Science Data Services), Bergen, Norway</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Oddbjørn</firstName>
+				<middleName/>
+				<lastName>Knutsen</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Department of Political Science, University of Oslo, Norway</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Mahar</firstName>
+				<middleName/>
+				<lastName>Mangahas</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Quezon City, Philippines</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Bogdan</firstName>
+				<middleName/>
+				<lastName>Cichomski</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ISS (Institut for Social Studies), Warsaw University, Poland</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Manuel</firstName>
+				<middleName/>
+				<lastName>Villaverde Cabral</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Instituto de Ciências Sociais da Universidade de Lisbon, Lisbon, Portugal</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Alice</firstName>
+				<middleName/>
+				<lastName>Ramos</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Instituto de Ciências Sociais da Universidade de Lisbon, Lisbon, Portugal</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Ludmila</firstName>
+				<middleName/>
+				<lastName>Khakhulina</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Levada Analytic Center, Moscow, Russia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Magdalena</firstName>
+				<middleName/>
+				<lastName>Piscova</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute for Sociology, Slovak Academy of Science, Bratislava, Slovak Republic</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Mitja</firstName>
+				<middleName/>
+				<lastName>Hafner-Fink</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Public Opinion and Mass Communications Research Centre, Faculty of Social Sciences, University
+of Ljubljana, Ljubljana, Slovenia</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Stefan</firstName>
+				<middleName/>
+				<lastName>Svallfors</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Dept. of Sociology, University of Umeå, Umeå, Sweden</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jonas</firstName>
+				<middleName/>
+				<lastName>Edlund</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Dept. of Sociology, University of Umeå, Umeå, Sweden</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Stephen</firstName>
+				<middleName/>
+				<lastName>Rule</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Human Science Research Council, Pretoria, South Africa</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hyunho</firstName>
+				<middleName/>
+				<lastName>Seok</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Survey Research Center, Sungyunkwan University, Seoul, Korea (South-Korea)</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Natalia</firstName>
+				<middleName/>
+				<lastName>García-Pardo</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>CIS (Centro de Investigaciones Sociológicas), Madrid, Spain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Juan</firstName>
+				<middleName/>
+				<lastName>Díez-Nicolás</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ASEP (Análisis Sociológicos Económicos y Políticos), Madrid, Spain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SIDOS (Swiss Information and Data Archive for the Social Sciences), Neuchâtel, Switzerland</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Yang-chih</firstName>
+				<middleName/>
+				<lastName>Fu</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Institute of Sociology, Academia Sinica, Nankang, Taipei, Taiwan</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Zuleika</firstName>
+				<middleName/>
+				<lastName>Ferre</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Departamento de Economia, Facultad de Ciencias Sociales, Universidad de la Republica, Montevideo, Uruguay</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Giorgina</firstName>
+				<middleName/>
+				<lastName>Piani</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Departamento de Economia, Facultad de Ciencias Sociales, Universidad de la Republica, Montevideo, Uruguay</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Máximo</firstName>
+				<middleName/>
+				<lastName>Rossi</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Departamento de Economia, Facultad de Ciencias Sociales, Universidad de la Republica, Montevideo, Uruguay</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Tom W.</firstName>
+				<middleName/>
+				<lastName>Smith</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>National Opinion Research Center (NORC), Chicago, USA</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Roberto</firstName>
+				<middleName/>
+				<lastName>Briceno-Leon</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>LACSO (Laboratorio de Ciencias Sociales)
+Research School of Social Sciences, Caracas, Venezuela</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Australian Social Science Data Archive, Australia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Institute for Empirical Social Research (IFES), Vienna</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SC&amp;C, Czech Republic</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SFI SURVEY, Copenhagen, Denmark</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Statistics Finland, Helsinki, Finland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>France-ISSP, France</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest Sozialforschung, Germany</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>National Centre for Social Research, Great Britain</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TÁRKI RT Social Research Centre, Hungary</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Economic and Social Research Institute (ESRI), Ireland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>B.I. and L. Cohen, Israel</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Central Research Services, Inc., Japan</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Free University Amsterdam, Amsterdam, The Netherlands</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Gallup</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>NorwayResearch and Evaluation Services (RES), Northern Ireland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Social Weather Stations, Philippines</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Public Opinion Research Center (CBOS), Warsaw, Poland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS-Euroteste, Portugal</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Levada-Center, Russia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ASA, Bratislava, Slovakia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Public Opinion and Mass Communication Research Centre (CJMMK),Ljubljana, Slovenia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Human Sciences Research Council, South-Africa</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Survey Research Center at Sungkyunkwan University, South-Korea</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ASEP, S.A., Spain</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SIFO, Sweden</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Institut SIDOS, Neuchâtel, Switzerland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Center for Survey Research, Academia Sinica, Taiwan</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Department of Economics – Faculty of Social Sciences, University ofUruguay, Uruguay</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>National Opinion Research Center (NORC), USA</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Laboratorio de Ciencias Sociales, LACSO, Venezuela</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche, schriftliche bzw. postalische Befragung mit standardisiertem
+Fragebogen</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral, paper and pencil resp. postal interview with standardised questionnaire</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>45993</numberUnits>
+			<numberVariables>245</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Fallzahlen für die einzelnen Länder waren:
+
+Australien: 2183 Postalische Befragung
+Bulgarien: 1069 Mündliche Befragung
+Chile: 1505 Mündliche Befragung
+Dänemark: 1322 Postalische Befragung
+Finnland: 1379 Postalische Befragung
+France: 1669 Postalische Befragung
+Deutschland: Mündliche Befragung, selbstausgefüllter Fragebogen im Beisein des Interviewers
+Großbritannien: 873 Selbstausgefüllter Fragebogen, nach der mündlichen Befragung vom Befragten ausgefüllt und vom Interviewer eingesammelt
+Irland: 1065 Mündliche Befragung
+Israel: 1218 Mündliche Befragung 
+Japan: 1102 Mündliche Befragung 
+Kanada: 1211 Postalische Befragung
+Lettland: 1000 Mündliche Befragung 
+Neuseeland: 1036 Postalische Befragung
+Niederlande: 1823 Postalische Befragung
+Norwegen: 1469 Postalische Befragung
+Österreich: 1006 Mündliche Befragung
+Philippinen: 1200 Mündliche Befragung
+Polen: 1277 Mündliche Befragung
+Portugal: 1602 Mündliche Befragung
+Russland: 2383 Postalische Befragung
+Slovakian Republic: 1152 Mündliche Befragung
+Slovenien: 1093 Mündliche Befragung
+Süd-Afrika: 2483 Mündliche Befragung
+Süd-Korea: 1315 Mündliche Befragung
+Spanien: 1212 Mündliche Befragung
+Schweden: 1186 Postalische Befragung
+Schweiz: 1037 Mündliche Befragung
+Taiwan: 2016 Mündliche Befragung
+Tschechische Republik: 1276 Mündliche Befragung 
+Ungarn: 1021 Mündliche Befragung
+Uruguay: 1108 Mündliche Befragung
+USA: 1216 self-completion on laptop 
+Venezuela: 1199  Mündliche Befragung.
+
+Daten und Dokumentation des vorliegenden ISSP-Moduls wurden gemäß
+einer Kooperationsvereinbarung mit dem ZA durch ASEP/JDS
+(http://www.asep-sa.com/ und http://www.jdsurvey.net) in Madrid,
+Spanien aufbereitet. Datenformate und Dokumentationsstandards können
+sich daher von den übrigen Studien der Serie leicht unterscheiden.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Number of cases for the individual countries are:
+Australia: 2183  postal interview
+Austria: 1006 oral interview 
+Bulgaria: 1069 oral interview 
+Canada: 1211  postal interview
+Chile: 1505 oral interview 
+Czech Republic: 1276 oral interview 
+Denmark: 1322 postal interview
+Finland: 1379 postal interview
+France: 1669 postal interview
+Germany: 1287 oral interview, questionnaire filled in by respondent with the interviewer present
+Great Britain: 873 self-completion questionnaire, completed by the respondent after the main face-to-face interview and collected by the interviewer
+Hungary: 1021 oral interview 
+Ireland: 1065 oral interview 
+Israel: 1218 oral interview 
+Japan: 1102 oral interview 
+Latvia: 1000 oral interview 
+New Zeeland: 1036 postal interview
+The Netherlands: 1823 postal interview
+Norway: 1469 postal interview
+Philippines: 1200 oral interview
+Poland: 1277 oral interview
+Portugal: 1602 oral interview
+Russia: 2383 postal interview
+Slovakian Republic: 1152 oral interview
+Slovenia: 1093 oral interview
+South Africa: 2483 oral interview
+South Korea: 1315 oral interview
+Spain: 1212 oral interview
+Sweden: 1186 postal interview
+Switzerland: 1037 oral interview
+Taiwan: 2016 oral interview
+Uruguay: 1108 oral interview
+USA: 1216 self-completion on laptop 
+Venezuela: 1199  oral interview.
+
+The data file and documentation of the present ISSP module have been
+prepared by ASEP/JDS (http://www.asep-sa.com/ and
+http://www.jdsurvey.net) in Madrid, Spain, under a cooperation
+agreement between ZA and ASEP/JDS. Data formats and documentation
+standards may therefore differ slightly from the remainder of the
+series.</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.10077</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+</resource>

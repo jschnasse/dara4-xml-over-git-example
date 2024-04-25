@@ -1,0 +1,272 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Pathways to Power: The Political Representation of Citizens of Immigrant Origin in Belgium (BE-PATHWAYS)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Pathways to Power: The Political Representation of Citizens of Immigrant Origin in Belgium (BE-PATHWAYS)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA6796</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Pathways to Power: The Political Representation of Citizens of Immigrant Origin in Belgium (BE-PATHWAYS)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Pathways to Power: The Political Representation of Citizens of Immigrant Origin in Belgium (BE-PATHWAYS)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Van Hauwaert, Steven M.; Janssen, Chloé</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6796?doi=10.4232/1.12793</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12793</doiProposal>
+	<publicationDate>
+		<date>2017-06-07</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6796</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT16</identifier>
+					<!-- Politische Parteien, Verbände -->
+					<identifier>KAT38</identifier>
+					<!-- Beruf -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>ARBEIT UND BESCHÄFTIGUNG</term>
+					<term>Migration</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>LABOUR AND EMPLOYMENT</term>
+					<term>Migration</term>
+					<term>Government, political systems and organisations</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Ziel des Projektes ist es, Daten zur Verfügung zu stellen, die erforderlich sind, um die deskriptive Vertretung der Bürger mit Migrationshintergrund (CIOs) zu erforschen. Das Hauptziel ist es, einen Überblick über das soziale und politische Profil von Abgeordneten zu geben, mit besonderem Fokus auf der Identifizierung von Abgeordneten mit Migrationshintergrund. Zusätzlich zu dem unten beschriebenen Datensatz auf nationaler Ebene steht ein entsprechender regionaler Datensatz zur Verfügung. 
+Identifikationsvariablen: Politische Ebene (regional, national); Land-ID (NUTS); Name der Region; Region-ID (NUTS); Datum der entsprechenden Wahl; vollständiger Name des Wahlbezirks, in dem gewählt wurde; Niveau der Wahlstufe (Bezirk / Wahlkreis); Kennung für Wahlbezirke 1 bis 3 auf nationaler Ebene; Anzahl der Legislaturperioden im Land, wie vom Parlament selbst aufgezeichnet; Datum von Beginn und Ende der Legislaturperiode; Vorname, erster (zweiter) Nachname des MP; MP-ID; nationaler Abgeordneter ist gleichzeitig auch regionaler Abgeordneter; welcher regionale Abgeordnete. 
+Sozio-demographische Variablen: Geschlecht des MP; Geburtsjahr des MP; höchstes Bildungsniveau (ISCED 1997); letzter Beruf / Beruf des Abgeordneten, bevor er jemals Abgeordneter wurde (ISCO 2008); Branche des Berufs zum Zeitpunkt der ersten Wahl; derzeitige Berufstätigkeit / Beruf des Abgeordneten (ISCO 2008); Branche des derzeitigen Berufs. 
+Variablen mit Bezug auf die Wahl und parlamentarische Amtszeit: Häufigkeit der Wahl des Abgeordneten in das Parlament zuvor in diesem Bezirk; Art des Wahlbezirks; Anzahl der Zeiten, in denen der Abgeordnete zuvor in diesem Wahlbezirk zum Parlament gewählt wurde; Anfänger; Häufigkeit der Wahl des Abgeordneten zum Parlament; Häufigkeit der Annahme des Sitzes im Parlament nachdem der Abgeordnete gewählt wurde; Jahr, in dem der Abgeordnete zum ersten Mal in das nationale / regionale Parlament gewählt wurde; Gesamtzahl der Jahre als Abgeordneter im nationalen / regionalen Parlament vor dieser Legislaturperiode; Zeitpunkt, wann der Abgeordnete zum letzten Mal vor dieser Legislaturperiode gewählt wurde (Kontinuität); MP wurde mit dem Amtsantritt in die Kammer gewählt; keine Unterbrechungen zwischen der Aufnahme des Sitzes bis zum Ende der Legislaturperiode; Anzahl der Monate, die der Abgeordnete im Amt war (falls keine Legislaturperiode); Rückkehr des MP, um einen verlorenen Sitz zurückzuerobern; Position auf der Parteiliste; Rangposition, in der der Abgeordnete im Bezirk gewählt wurde; doppelte Kandidatur; MP gewann den Sitz als Amtsinhaber oder als Kandidat; parlamentarische Gruppe der Partei zu Beginn und am Ende der Amtszeit; vollständiger Name und Akronym der Partei oder Liste; Partei-Code nach CMP- Datensatz (Comparative Manifesto Project); Partei-ID. 
+Variablen zur Herkunft als Einwanderer (entsprechende Kodierung für Mutter und Vater des Abgeordneten): MP ist im Land des Parlaments geboren; Land (ISO 3166-1), Weltregion (UN-Klassifikation für ´Zusammensetzung der makrogeographischen Regionen´) und Länderregion (NUTS), in der der Abgeordnete geboren wurde; Datenquellen für Geburtsland (z. B. offizielle parlamentarische Quelle, persönliche Blogs usw.); spezifische Quellen für Geburtsland; Zuverlässigkeit der Daten über das Geburtsland des Abgeordneten (wie vom Codierer beurteilt); Jahr der Einwanderung; geboren als Staatsbürger des Landes des Parlaments; Land der Nationalität bei der Geburt; Datenquellen für das Land der Staatsangehörigkeit bei der Geburt; spezifische Quellen für das Land der Staatsbürgerschaft bei der Geburt; Zuverlässigkeit der Daten über die Staatsbürgerschaft bei der Geburt; Jahr der Einbürgerung; Datenquellen für das Jahr der Einbürgerung; spezifische Quellen für das Datum der Einbürgerung; Zuverlässigkeit der Daten zur Einbürgerung. 
+Variablen im Hinblick auf Aspekte im Zusammenhang mit möglicher Diskriminierung: MP ist Muttersprachler einer offiziellen Landessprache und Datenquellen; spezifische Quellen für die Muttersprache des MP; MP kann von Wählern als Mitglied einer ´identifizierbaren´ Minderheit wahrgenommen werden; Quelle für das gefundene Foto; spezifische Quellen für das Foto des MP; Selbstidentifikation des MP als Mitglied einer ethnischen Minderheit; Ethnizität; Quellen und spezifische Quellen für Informationen über die ethnische Selbstidentifikation des MP; Selbstidentifikation als Mitglied einer bestimmten Religion; Religion, mit der MP sich identifiziert. 
+Variablen zur Parteikarriere und Mitgliedschaft in Ausschüssen: Jahr des Beitritts in die Partei, für die der Abgeordnete in dieser Legislaturperiode gewählt wurde; höchste Position innerhalb der Partei; MP wechselte die Parteizugehörigkeit während der Legislaturperiode; Datum des Wechsels; vollständiger Name und Akronym der neuen Partei, CMP-Code der neuen Partei und Pathways-ID für diese Partei; (entsprechende Kodierung, wenn MP die Parteizugehörigkeit während der Legislaturperiode ein zweites Mal wechselte); jemals Gemeinderat oder Bürgermeister vor oder während der Wahl zum Abgeordneten in dieser Legislaturperiode; Gesamtzahl der Jahre im Gemeinderat als Bürgermeister und / oder Ratsmitglied; jemals Mitglied des regionalen Parlaments vor der Wahl zum nationalen Abgeordneten in dieser Legislaturperiode; Anzahl der Jahre im Regionalparlament vor dieser Legislaturperiode; jemals ein Mitglied des Europäischen Parlaments vor der Wahl zum regionalen / nationalen Abgeordneten in dieser Legislaturperiode; Anzahl der Jahre als Mitglied des Europäischen Parlaments; Amt als Minister des nationalen Kabinetts während dieser Legislaturperiode; Anzahl der Monate im Amt als Minister des nationalen Kabinetts; gleichzeitiges Amt als Minister des nationalen Kabinetts / Ratsherr; Anzahl der Monate; MP hatte zuvor ein Amt als Minister des nationalen bzw. des regionalen Kabinetts; Anzahl der Monate; vorherige Parteimitgliedschaft; vollständiger Name und Akronym der vorherigen Partei, Partei-Code nach dem CMP-Dataset, Pathways-ID für die vorherige Partei; Anzahl der Jahre der formellen Zugehörigkeit zur vorherigen Partei; Jahr des ersten Parteibeitritts; Mitgliedschaft in Ausschüssen; Gesamtzahl der parlamentarischen Ausschüsse, in denen die Abgeordneten während dieser Legislaturperiode Mitglied war; Name des Ausschusses, in dem der MP am längsten tätig war; Rolle oder Position im Ausschuss 1 und 2; Gesamtzahl der Monate als Mitglied des Ausschusses während dieser Legislaturperiode; Mitglied dieses Ausschusses während einer früheren Legislaturperiode; Art des Ausschusses; Relevanz des Ausschusses; Fokussierung des Ausschusses auf das Thema Einwanderung; Namen aller anderen Ausschüsse, den der Abgeordnete während der Legislaturperiode beigetreten ist; Mitgliedschaft in einer All-Parteien-Gruppe (APG), Freundschaftsgruppe oder Themengruppe, die in der persönlichen (parlamentarischen) Website erwähnt wird; Tätigkeit des MP während dieser Amtszeit als Vorsitzender, Sprecher, Präsident der Kammer, als stellvertretender Vorsitzender, stellvertretender Sprecher, stellvertretender Präsident der Kammer, als Mitglied des politischen Verwaltungs- / Managementteams der Kammer, als Mitglied der parlamentarischen Führungsgruppe der Partei. 
+Zusätzlich verkodet wurde: andere Beobachtungen; MP bzw. dessen Mutter und Vater sind Ausgewiesene; Name und Nachname Griechisch; Titular MP; Regierungsmitglied und Zeit in der Regierung.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The project aims at providing the data required to study the descriptive representation of citizens of immigrant origin (CIOs). The main aim is to provide an overview of the social and political profile of Member of Parliament (MPs), with a particular focus on identifying MPs of immigrant origin. In addition to the national level dataset described below, a corresponding regional level dataset is available.
+Identification variables: Political level (regional, national); country-ID (NUTS); name of region; region-id (NUTS); date of relevant election; full name of district in which elected; level of electoral tier (first / Lower (or single tier); identifier for tier 1 to 3 districts at national level; number of legislatures in the country, as recorded by the parliament itself; date in which the legislature begins and ends; first name, first (second) surname of MP; MP-ID;  national MP is also simultaneously a regional MP; which regional MP. Demography: sex of MP; year of birth of MP; highest level of education (ISCED 1997); last occupation /profession of the MP before first ever becoming an MP (ISCO 2008); occupation sector when first elected; current occupation/ profession of the MP (ISCO 2008); current occupation sector.
+Electoral and parliamentary tenure variables:  number of times the MP has been previously elected to parliament in this district; type of electoral district; number of times the MP has been previously elected to parliament in this tier; Rookie: MP elected for the first time in this term; number of times the MP has been elected to parliament; number of times the MP has taken up the seat in parliament once elected; year when the MP was first elected to national/regional parliament; total number of years spent in national/regional parliament as MP, prior to this legislature (seniority);  when was the MP elected for the last time prior to this legislature (continuity); MP was elected to chamber from inauguration; MP stayed continuously with no interruptions from the moment of taking up the seat until the end of the legislative term; number of months the MP did serve (if he did not serve a full legislative term); MP came back to reclaim the seat if MP left seat at some point; position in party list; rank position in which the MP was elected in district; double candidacy in another tier; MP won seat as incumbent, or as contender; parliamentary group the MP joined at the beginning and at the end of his/her term; full name and acronym of party or list in which elected; party code according to the CMP (Comparative Manifesto Project) dataset; party-ID.
+Immigrant origin variables (corresponding coding for MPs mother and father): MP was born in the country of parliament; country (ISO 3166-1), world region (UN Classification for ‘Composition of macro geographical regions’), and country region (NUTS) in which the MP was born; data sources for country of birth (e.g. official parliamentary source, personal blogs, etc.); specific sources for  country of birth; reliability of the data regarding the country of birth of the MP (as judged by the coder); year of immigration; born as a national citizen of the country of parliament; country of nationality at birth; data sources country of nationality at birth; specific sources for country of citizenship at birth; reliability of the data regarding citizenship at birth; year in which naturalized as a citizen; data sources year of naturalization; specific sources for date of naturalization; reliability of the data regarding naturalization.
+Variables relating to aspects potentially related to discrimination: the MP is a native speaker of an official country language and data sources; specific sources for native language of MP; MP can be perceived by voters as a member of an ‘identifiable’ minority; source where picture found; specific sources for picture of MP; does the MP self-identify as a member of an ethnic minority; ethnicity; sources and specific sources for information on ethnic self-identification of MP; self-identification as a member of a certain religion; religion the MP identifies with.
+Party career and committee membership variables: year in which the MP joined the party for which she/he was elected in this legislative term; highest position within the party; MP changed party affiliation during the legislative term; date of change; full name and party acronym of the new party joined, CMP code of the new party and Pathways identifier for party; (corresponding coding if the MP changed party affiliation during the legislative term a second time); ever a local councilor or mayor prior to, or while,  being elected an MP this legislative term; total number of years in the local council as a mayor and/or councilor; ever a member of the regional parliament prior to being elected a national MP this legislative term; number of years in the regional parliament prior to this legislature; ever a member of the European Parliament prior to being elected a regional/national MP this legislative term; number of years as a member of the European Parliament; MP served as a national cabinet minister during this legislative term; number of months the MP served as national cabinet minister; MP simultaneously served as a regional cabinet minister/councilor; number of months;  MP has previously served as a national cabinet minister; number of months; MP has previously served as a regional cabinet minister; number of months; previous party membership; full name and acronym of previous party, party code according to the CMP dataset, Pathways identifier for the previous party; number of years of formal affiliation to the previous party; year in which the MP joined a political party for the first time; membership in  committees ; total number of parliamentary committees in which the MPs was a member during this legislative term; name of the committee joined for the longest period in this term; role or position in committee 1 and 2; total number of months as a member of committee during this legislative term; member of this committee during a prior legislative term; type of committee; relevance of committee; immigration related committee; names of all other committees that the MP joined during legislative term; membership of any all-party group (APG), friendship group or issue group mentioned in the personal (parliamentary) website; MP has served during this term as Chair, Speaker, President of the Chamber, as Deputy Chair, Deputy Speaker, Deputy President of the Chamber, as a member of the political administration/management team of the Chamber, as a member of the parliamentary party leadership group.
+Additionally coded was: other observations; MP, MPs mother and father expelled; name and surname Greek; titular MP; membership and time in government.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alle Abgeordneten des belgischen nationalen Parlaments und regionaler Parlamente während der Legislaturperioden 1991-2010.
+
+Nationale Daten werden für alle Abgeordneten (einschließlich der Abgeordneten ohne Migrationshintergrund) gesammelt, die in die unteren Kammer für alle Legislaturperioden seit 1990 gewählt wurden. Darüber hinaus werden regionale Daten gesammelt, einschließlich aller Abgeordneten aus der jüngsten Legislaturperiode vor dem Beginn der Datenerfassung in jeder Region.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>All Member of Parliament (MPs) of the Belgian national parliament and regional parliaments during the legislative periods 1991-2010.
+
+National level data is being collected for all MPs (including those not of immigrant origin) elected in the Lower Chamber for all legislative terms since 1990. Additionally, regional data is being collected, including all MPs from the most recent term that ended before the start of the data collection in each region.
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Vollerhebung</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Total universe/Complete Enumeration</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>1991</year>
+				</startDate>
+				<endDate>
+					<year>2010</year>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Steven M.</firstName>
+				<middleName/>
+				<lastName>Van Hauwaert</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Centro de Investigación y Docencia Económicas (CIDE), Mexico</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Chloé</firstName>
+				<middleName/>
+				<lastName>Janssen</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Université Catholique de Louvain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jean-Benoit</firstName>
+				<middleName/>
+				<lastName>Pilet</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Université Libre de Bruxelles</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Karen</firstName>
+				<middleName/>
+				<lastName>Celis</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Vrije Universiteit Brussel</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Pierre</firstName>
+				<middleName/>
+				<lastName>Baudewyns</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Université Catholique de Louvain</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Principal investigator</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Inhaltscodierung
+
+Bestehende Datensätze aus anderen Forschungsprojekten, Webseiten nationaler und regionaler Parlamente, Veröffentlichungen der nationalen und regionalen Parlamente, nationale und regionale Verbände ehemaliger Abgeordneter, Internetseiten von parlamentarischen Gruppen / nationale und regionale Organisationen politischer Parteien, Persönliche Blogs / Webseiten / Social Media Profile von Abgeordneten und andere Quellen.</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Content Coding
+
+Existing datasets from other research projects, websites of national and regional Parliaments, publications of the national and regional Parliaments, national and regional associations of former MPs, websites of parliamentary groups/national and regional organizations of political parties, Personal blogs/webpages/social media profiles of MPs, and other sources.   </freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>174</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Van Hauwaert, S. M.; Janssen, C.; Pilet, J.; Celis, K.; Baudewyns, P. and Erzeel, S. (forthcoming):
+The political representation of CIOs across Europe: Belgium. 
+In L. Morales and T. Saalfeld (Eds.), Pathways to Power: The Political Representation of Citizens of Immigrant Origin in Europe. 
+Oxford: Oxford University Press.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

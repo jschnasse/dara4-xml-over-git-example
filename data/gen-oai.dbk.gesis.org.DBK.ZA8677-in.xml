@@ -1,0 +1,179 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'National Tables of international Migration Statistics: Italy, 1856-1924'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Nationale Tabellen der internationalen Migrations-Statistik: Italien, 1856-1924'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA8677</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Nationale Tabellen der internationalen Migrations-Statistik: Italien, 1856-1924</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>National Tables of international Migration Statistics: Italy, 1856-1924</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Imre</firstName>
+				<middleName/>
+				<lastName>Ferenczi</lastName>
+				<affiliation>
+					<affiliationName>International Labour Office (ILO), Abt. Migration</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Walter F.</firstName>
+				<middleName/>
+				<lastName>Willcox</lastName>
+				<affiliation>
+					<affiliationName>National Bureau of Economic Research (NBER)</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA8677?doi=10.4232/1.12948</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12948</doiProposal>
+	<publicationDate>
+		<date>2017-12-14</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA8677</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT76</identifier>
+					<!-- Daten Historischer Studien -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>GESCHICHTE</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>HISTORY</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Das vorliegende Datenhandbuch soll der Forschung zu den Aspekten internationaler Migration das adäquate Datenmaterial an die Hand geben. Anregung für diese Datensammlung wurde 1924 durch das Komitee zu den wissenschaftlichen Aspekten menschlicher Wanderung des Social Science Research Council gegeben. Die Durchführung der statistischen Studie wurde dem National Bureau of Economic Research (NBER) in New York (Prof. Dr. Willcox) anvertraut, welches unterstützt wurde von der Abteilung Migration des International Labour Office (ILO bzw. Internationale Arbeitsorganisation (IAO), Prof. Dr. Ferenczi) in Genf (Schweiz). Das vorliegende Datenhandbuch geht über die Zusammenstellung bekannter, vorliegender Statistiken der einzelnen Länder hinaus. Viele Materialien wurden neben den schon publizierten öffentlichen Statistiken in den Archiven zusätzlich gesichtet und aufbereitet. 
+Die Forscher sammelten nationale Statistiken und stellten sie in internationalen Tabellen zusammen, soweit es die Datenlage erlaubte. Die besondere Herausforderung dieser Arbeit lag in der Tatsache, dass die Unvollständigkeit der nationalen Migrationsstatistiken steigt, je weiter die Daten in die Vergangenheit zurückreichen. Für jedes Land wurde die Anzahl der Auswanderer nach dem von ihnen angegebenen Zielland bzw. Einwanderungsland erhoben. Weiterhin wurden im Gegenzug für jedes Land die Einwanderer nach dem Land ihrer Abfahrt erfasst. Damit sollte für jedes Land ein Überblick der dieses Land betreffenden Migrationsflüsse erstellt werden. Interkontinentale Wanderungsbewegungen stellen den Schwerpunkt dieser Studie dar. Die kontinentale Wanderung innerhalb Europas und anderen Teilen der Welt wurde jedoch ebenfalls erfasst. 
+Das Material für die Statistiken wurde beschafft durch die Korrespondenz mit dem ILO und seinen Mitglieds-Staaten (Vereinte Nationen), durch die Zusammenarbeit mit den statistischen Ämtern der jeweiligen Länder und durch Sichtung der Archive.
+In den nationalen Datentabellen werden die Migranten zum Zeitpunkt ihrer Abreise aus dem Land ihres gegenwärtigen Aufenthalts bzw. zum Zeitpunkt ihrer Ankunft in dem Land ihres zukünftigen Aufenthaltes erfasst. Bevölkerungsstatistiken oder Arbeitsmarktstatistiken, in denen auch die ausländische Bevölkerung erfasst wird und die daher eine indirekte Schlussfolgerung auf Wanderungsbewegungen zulassen, sind von den Autoren nicht berücksichtigt worden. (Ferenczi und Willcox, 1969, S. 67) Dort, wo Migrationsstatistiken auf der Basis von unterschiedlichen Methoden erhoben wurden, wie z.B. Hafen-Statistiken, Reisepass-Statistiken, oder Grenz-Statistiken, sind die entsprechenden Werte berücksichtigt worden und in den Tabellen wurde auf die Quelle hingewiesen. Dort, wo in den nationalen Migrationsstatistiken Auswanderer nach dem Zielland oder Einwanderer nach ihrem Herkunftsland klassifiziert wurden, wird sich in der Statistik indirekt auf ein anderes Land bezogen. Für die jeweiligen anderen Länder, welche in diesen nationalen Datentabellen erwähnt werden, stellen diese Statistiken eine Art ’indirekte Wanderungsstatistik‘ dar. Indirekte Statistiken beziehen sich normalerweise auf die Nennung von Ländern (z.B. Herkunftsland). Dort, wo diese Nennungen fehlen, wurde die Nationalität oder die Volkszugehörigkeit der Migranten herangezogen. Weiterhin wird in den Daten zwischen Bürgern des Landes (Dänen, d.h. in Dänemark geborene Bürger) und Ausländern unterschieden. Hierbei wurde immer die Definition des jeweiligen Landes für Staatsbürger und für Ausländer bei der Datenerhebung herangezogen. (Ferenczi und Willcox, 1969, S. 67) Ebenfalls wurde zwischen kontinentalen und interkontinentalen Migrationsbewegungen unterschieden. Eine Migration wird als kontinental bezeichnet, wenn sie zwischen den Territorien verschiedener Länder des gleichen Kontinents stattfindet. Sie wird als interkontinental bezeichnet, wenn Länder unterschiedlicher Kontinente betroffen sind. (Ferenczi und Willcox, 1969, S. 68) Als Regel geben die Autoren folgende persönliche Charakteristiken der Migranten an: Geschlecht, Alter, Nationalität, Beruf, Land des letzten ständigen Aufenthaltsortes und das Land des zukünftigen ständigen Aufenthaltsortes. Diese Eigenschaften wurden auf der Basis der ’International Labour Conference‘ von 1922, Empfehlung Nr. 19, gewählt. Für Migrations-Statistiken sind die staatlichen Territorien von besonderer Bedeutung. Historische Grenzverläufe und ihre Veränderungen über die Zeit sind von besonderer Bedeutung. So ist es z.B. irreführend, den heutigen Begriff des ‚Vereinten Königreichs von England‘ (United Kingdom) zu verwenden, da seine heutige Bedeutung durch die Etablierung des Freien Irischen Staates sich verändert hat. Daher wird der Begriff ‚Britische Inseln‘ von den Autoren verwendet. Dort, wo sich historische Territorien über die Zeit verändert haben, wurde das neue Territorium in der Hauptüberschrift und das ältere Territorium unterhalb der Hauptüberschrift genannt (z.B.: Ungarn – vor dem Krieg und nach dem Krieg; Irish Free State – Ireland, etc.) (Ferenczi und Willcox, 1969, S. 68) Wo frühere Territorien aufgehört haben, ein selbständiges politisches oder administratives Gebiet zu sein, wurde es unter dem früheren vorherrschenden Gebiet klassifiziert (z.B. wurden Bosnien und Herzegovina unter Österreich platziert). In allen Tabellen werden die Migranten in 12-Monats-Perioden dargestellt, soweit es möglich war. Rechnungsjahre wurden meistens von Kalenderjahren getrennt dargestellt, wobei eine Information über die exakte Periode des Rechnungsjahres in den Anmerkungen gegeben wurde. Wo Statistiken nur für Fünfjahres- oder Zehnjahres-Zeiträume vorlagen, wurde in den Originalquellen nach den jeweiligen Jahresdaten recherchiert. Es kamen für die Studie nur Statistiken offizieller Quellen zur Anwendung. Nur in seltenen Fällen wurde auf sekundäre Quellen zurückgegriffen (Briefe, offizielle Korrespondenzen). Der Vorzug wurde den offiziellen Statistiken mit dem spätesten Datum gegeben. Die Nationalen Statistiken des vorliegenden Datenhandbuches berichten die Berufe in der Klassifikation, die in den Quellen verwendet wurde. Wo möglich, wurde die Untergliederung mit den sechs Klassen ’Landwirtschaft‘, ’Industrie und Bergbau‘, ’Transport und Handel bzw. Kommunikation‘, ’Hausdienstleistungen und Handwerk‘, ’freie Berufe und öffentliche Dienstleistungen‘, sowie ’andere Berufe, keinen Beruf, Beruf unbekannt‘ gewählt. Familienmitglieder, die nicht berufstätig waren, wurden in Kategorie 6 (andere Berufe, keinen Beruf, Beruf unbekannt) eingeordnet. (Ferenczi und Willcox, 1969, S. 70)In den nationalen Datentabellen, in denen die Einwanderer nach dem Land des letzten ständigen Aufenthaltsortes oder nach ihrer Nationalität aufgeführt werden, wurde meistens die Klassifikation der genutzten offiziellen Quelle des jeweiligen Landes beibehalten, wobei die genutzte Klassifikation der USA als Arbeitsgrundlage für eine Vereinheitlichung der Kategorien diente. Wenn die jeweiligen nationalen Untergliederungen sehr viel mehr Klassifikationen hatten als jene der USA, wurden diese Untergliederungen den größeren Gruppen der US-Klassifikation angepasst. Wo es schwierig war, ein Territorium einem Land zuzuordnen, wurde die Klassifikation des ’International Statistical Institute‘ (ISI) herangezogen. In anderen Fällen wurde die Nationalität oder die Volkszugehörigkeit nach geographischen oder politischen Gesichtspunkten gewählt (z.B.: Juden (nicht spezifiziert) wurden unter den Gruppen ‚andere Europäer‘ aufgeführt. Juden (polnisch) wurden unter ‚Polen‘ aufgeführt. Türken (nicht spezifiziert) wurden unter ‚Türken in Asien‘ aufgeführt, etc.). (Ferenczi und Willcox, 1969, S. 70) 
+
+Italien
+Vor 1876 wurde die seit mindestens einem halben Jahrhundert bestehende und ab 1860 an Bedeutung gewinnende interkontinentale Auswanderungsbewegung aus Italien nicht durch detaillierte Statistiken einer zentralen Stelle erfasst. Von alters her gab es Wanderungen aus Italien in den Balkan, zur östliche Mittelmeerküste (also in das Gebiet der heutigen Staaten Syrien, Libanon, Israel, Jordanien, was auch als die Levante bezeichnet wird), Nordafrika, Ägypten, Korsika, aber auch in die europäischen Nachbarstaaten, Frankreich, Schweiz, Österreich, etc. Im neunzehnten Jahrhundert erlebte diese Kurzstreckenemigration eine enorme Entwicklung und übertraf bis 1885 bis 1890 die Auswanderung nach Übersee bei weitem. Bei der italienischen Volkszählung von 1861 wurde der erste Versuch unternommen, den Umfang der vorübergehenden Auswanderung in andere Teile Europas zu bestimmen. 
+I Hafenstatistik von Genua
+Die Auswanderung nach Ländern in Übersee begann nach den Napoleonischen Kriegen und beschränkte sich bis in die sechziger Jahre auf die Bewohner Norditaliens. Die frühesten Angaben zur italienischen Auswanderung, sowohl genehmigte als auch nicht genehmigte Auswanderungen, sind für 1819 und spätere Jahre in den Provinzen Lombardei und Venedig - damals unter österreichischer Herrschaft - zu finden. Es ist jedoch unmöglich, die Überseegebiete von der kontinentalen Auswanderung zu unterscheiden, vor allem von Wanderungen in andere Teile Italiens. Nach den Einwanderungsstatistiken der südamerikanischen Länder und der Vereinigten Staaten nahm die Auswanderungsbewegung aus dem nördlichen Teil Italiens im Zeitraum 1840-60 größere Ausmaße an. Die Auswanderer, reisten über Genua aus, auch wenn sie aus Süditalien kamen. Da diese Tatsache seit langem bekannt war, schien es wichtig, genaue Statistiken für diesen Hafen zu erstellen. Die erste Übersee-Reederei wurde 1840 in Genua gegründet. Im Jahre 1846 gab es einen regelmäßigen Schiffs-Verkehr über Marseille und Spanien nach La Plata und Brasilien. Bis 1869 repräsentierte die Hafen-Statistik von Genua die Migration für ganz Italien. Eine rechtliche Grundlage für die Erstellung regelmäßiger Passagierlisten und damit für die Erstellung von Auswanderungsstatistiken bildete die Verordnung Nr. 3251 des Königreichs Sardinien über die Regelung des Personenverkehrs auf Überseestrecken im Jahre 1859. In Genua bemühten sich die Autoren vergeblich, die Original-Listen zu finden, auf denen die Statistiken beruhen, und sie suchten die Unterlagen zusätzlich im Marinebüro des Hafens und im Polizeipräsidium Genuas. Die Passagierlisten sind einmal durch ein Feuer, und später durch Entsorgung vernichtet worden. Die Genauigkeit, mit der die Zahlen von Genua die tatsächlichen Übersee-Emigranten aus ganz Italien beziffern, lässt sich an den Angaben in den Publikationen von Carpi (Carpi, L. (1874): Delle Colonie e della Emigrazione italiana all’Estero. Milan.) und Florenzano (Florenzano, G. (1874): Della Emigrazione italiana in America. Maples.) zur Auswanderung über andere italienische Häfen für 1870, 1872 und 1873 bewerten. Folgende Einschränkungen hat die Hafen-Statistik Genuas: 1. Die Auswanderungsstatistik von Genua umfasst nicht die illegalen Auswanderer, die sich auf ausländischen Schiffen außerhalb der italienischen Häfen einschifften. 2. Viele Auswanderer aus Übersee haben die kontinentalen Grenzen als temporäre Auswanderer oder ohne Pass überquert und sind somit nicht in der Hafen-Statistik erfasst. 3. Schließlich reisten immer mehr Italiener mit der Bahn zu ausländischen Auswanderungshäfen, und tauche damit ebenfalls nicht in der Hafen-Statistik Genuas auf. 4. Es sind – wie schon erwähnt – die frühen Aufzeichnungen durch Feuer und durch behördliche Entsorgungsmaßnahmen vernichtet worden. Für italienische Auswanderer, die über französische Häfen nach Nord- oder Südamerika reisen, sind nach 1856 Angaben verfügbar. Diese Angaben ermöglichten es den Autoren, die Zahlen von Genua zu vervollständigen. 
+II Die Statistik von L. Carpi (wiss. Publikation)
+L. Carpi hat 1869 den ersten Versuch unternommen, die wachsende italienische kontinentale und interkontinentale Auswanderung zu untersuchen und eine Zusammenarbeit der italienischen Präfekten zu erlangen. Die Tabellen bieten einen allgemeinen Überblick über die Auswanderung – sowohl temporäre als auch illegale bzw. nicht genehmigte Auswanderungen – in den Jahren 1869-1875. Den Angaben von Carpi´s Reisepass-Statistik für das Jahr 1869 folgend unterscheidet sich die genehmigte Auswanderung (vorwiegend in nichteuropäische Länder) nur wenig von den Statistiken des Hafens von Genua. Von den 14040 illegalen Emigranten, die Capri erwähnt und die offiziell registriert wurden und damit nicht vollständig sind, muss ein kleiner Teil über italienische Häfen ausgewandert sein, aber der größte Teil sollte der Auswanderung durch ausländische Häfen oder in andere Teile Europas zugeschrieben werden. Aus verschiedenen Gründen, insbesondere wegen der zunehmenden Auswanderung über andere Häfen, weichen seine Zahlen für den Zeitraum 1871 bis 1873 stärker von denen Genuas ab.
+III Statistiken des Nationalen Statistischen Amtes
+Von 1876 bis 1920 veröffentlichte das Statistische Amt jährlich offizielle Berichte. Bis 1904 basierte die Statistik auf kommunalen Bescheinigungen, die Anträge auf Auswanderung genehmigten. Personen, denen Pässe ausgestellt wurden, wurden nicht unbedingt als Auswanderer erfasst. Ein Auswanderer ist eine Person, für die die folgende Definition für Auswanderer gemäß des Auswanderungsgesetzes vom November 1919 gilt:Es gilt jeder Staatsbürger als Auswanderer … , der das Land ausschließlich zum Zwecke der Arbeit oder zur Ausübung einer geringfügigen Tätigkeit verlässt oder der sich wieder mit Ehefrau oder Ehemann, Eltern oder anderen Vorfahren, mit Kindern oder anderen Nachkommen, mit Geschwistern und anderen Verwandten zusammenschließt, die zuvor zum Zwecke der Arbeit ausgewandert sind. Des Weiteren gilt jeder als Auswanderer, der an einen ausländischen Bestimmungsort zurückkehrt, den er zuvor unter den in diesem Abschnitt genannten Bedingungen als Auswanderer verlassen hat, um in Italien sich anzusiedeln. Bis 1903 unterschied die italienische Statistik periodische bzw. saisonale Auswanderung von der dauerhaften Auswanderung, aber es war nicht immer möglich, sich auf diese Unterscheidungen zu verlassen, die auf den Angaben des Auswanderers basierten. 1915 wurde die Erhebungsmethode verändert, indem die vierteljährliche Überprüfung der Reisepässe ersetzt wurde durch den Einsatz von Formularen, mit deren Einsatz die örtlichen Polizeibehörden Informationen von den Auswanderern erhoben. Hierdurch konnten exaktere, umfangreichere Informationen erhoben werden. Die Publikation dieser erhobenen Daten in ‚Statistica della emigrazione italiana per l’estero‘ gibt die Daten hinsichtlich der räumlichen Verteilung der Auswanderer (d.h. nach ihren Wohnorten in Italien), nach Orten in Europa oder nach Orten in Übersee wieder. Statistiken über zurückkehrende Auswanderer basieren auf Passagierlisten, die von den Betreibern der Schifffahrts-Gesellschaften an italienische Behörden weitergeleitet wurden. 
+IV Statistiken der Auswanderer-Behörde
+Die Statistik der Auswanderer-Behörde wurde zunächst mit Hilfe von Passagierlisten der Schifffahrtsgesellschaften geführt. Sie beziehen sich auf italienische Übersee-Migranten, die sich an Seehäfen Englands ein- oder ausgeschifft (also dort an Bord oder von Bord eines Schiffes gegangen sind) haben oder die das Land verlassen haben, um sich in einem ausländischen Hafen einzuschiffen. Auswanderer, die als Zielland ein mediterranes Land – inkl. Marokko – angegeben haben, wurden als kontinentale Migranten erfasste. Die Auswanderungsstatistik enthält nicht die Angaben der Italiener für die ersten sechs Monate des Jahres 1920, die in ausländischen Häfen an Bord eines Schiffes gegangen sind. Bis 1920 wurden die Informationen bezüglich überseeischer Auswanderung erfaßt; erst danach sind auch Angaben zur kontinentalen Emigration aufgenommen worden. Die Einführung neuer Reisepässe, in denen festgehalten wurde, ob jemand auswandert oder wieder zurückkehrt, führte zu einer differenzierteren Erfassung der Wanderungsbewegung. Bezüglich der Statistik zu den Berufen der Auswanderer merkt der Autor an, das bis 1903 nur Personen über 14 Jahre erfasst wurden, während in den nachfolgenden Jahren von 1904 bis 1915 der Beruf von Personen über 15 Jahren erhoben wurde. Spätere wurde wiederum die Definition für die Erwachsenen geändert: 1916 bis 1920 wurde als erwachsen erfasst, der bis 15 Jahre und älter war, 1921 bis 1924 wurden Personen über 15 Jahre zu den Erwachsenen gezählt.
+
+Tabellen
+A. Hafenstatistik GenuaA.01 Auswanderung nach Amerika, 1856-1873
+B. Wissenschaftliche Publikation: Auswanderungsstatistik von L.Capri
+B.01 Auswanderung italienischer Bürger, 1869-1876B.02 Verteilung italienischer Auswanderer nach Geschlecht, 1871-1876B.03 Verteilung italienischer Auswanderer nach Alter, 1872-1876B.04 Verteilung italienischer Auswanderer nach Beruf, 1869-1876B.05 Italienische Auswanderer nach Zielland ihrer Auswanderung, 1869-1876
+C. Statistisches Amt Italien
+C.01 Italienische Auswanderer nach außer-europäischen und mediterranen Ländern, 1876-1920C.02 Italienische Auswanderer – Kinder bis 14 Jahre und Erwachsene ab 15 Jahre – nach Geschlecht und Alter, 1876-1914C.02a Italienische Auswanderer nach Geschlecht und Altersgruppen, 1915 – 1920C.03 Italienische Auswanderer ( – dauerhafte Auswanderung und saisonale Auswanderung – ) nach Geschlecht, 1876 – 1903C.03a Italienische Auswanderer ( - dauerhafte Auswanderung und saisonale Auswanderung - ) nach Geschlecht und Altersgruppen, 1876 – 1903C.04 Italienische Auswanderer nach Beruf, 1903 – 1915C.04a Italienische Auswanderer im Alter über 15 Jahre nach Beruf, 1916 – 1920C.05 Italienische Auswanderer nach Zielland ihrer Ausreise, 1876-1920C.06 Verteilung der Auswanderer nach Beruf und Zielland ihrer Ausreise, 1915 - 1920C.07 Interkontinentale Einwanderung von italienischen Bürgern und Ausländern nach gebuchter Passagierklasse (1. und 2. Klasse), 1884 – 1920C.08 Interkontinentale Einwanderung nach Land des letzten Aufenthalts (Passagiere der 3. Klasse), 1884 – 1924
+D. Statistik der Auswanderungs-Behörde Italiens
+D.01 Interkontinentale Auswanderung italienischer Bürger nach Zielland, 1902 – 1924D.02 Verteilung der italienischen Auswanderer in ausser-europäische Länder nach Geschlecht und Alter, 1921 – 1924 D.03 Verteilung der italienischen Auswanderer im Alter über 15 Jahre und mit Ziel eines ausser-europäischen Landes nach Beruf, 1921-1924D.04 Italienischen Auswanderer mit Ziel eines europäischen Landes nach Geschlecht und im Alter bis 15 Jahre und über 15 Jahre (also Kinder und Erwachsene), 1921 – 1924 D.04a Italienische Auswanderer mit Ziel eines europäischen Landes nach Beruf und im Alter von über 15 Jahren, 1921 – 1924D.05a Kontinentale Auswanderung der Italiener nach Zielland der Auswanderung (Reisepass-Daten), 1921-1924D.05b Kontinentale Auswanderung nach Zielland (korrigierte Tabelle D.5 unter Verwendung zusätzlicher statistischer Informationen), 1921-1924 D.06 Einwanderung (Rückwanderung) von Italienern aus interkontinentalen Ländern nach Geschlecht und Alter, 1921 – 1924 D.07 Einwanderung (Rückwanderung) italienischer Bürger aus kontinentalen Ländern nach Geschlecht, 1921 – 1924
+
+</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1856-01-01</date>
+				</startDate>
+				<endDate>
+					<date>1924-12-31</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<dataSets>
+		<dataSet>
+			<numberVariables>520</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Imre Ferenczi, Walter F. Willcox (1969), International Migrations. Volume I - Statistics. New York, Gordon and Breach Science Publishers. </freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

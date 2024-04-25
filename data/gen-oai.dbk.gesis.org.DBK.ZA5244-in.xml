@@ -1,0 +1,382 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Muslim Life in Germany'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Muslimisches Leben in Deutschland'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5244</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Muslimisches Leben in Deutschland</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Muslim Life in Germany</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Sonja</firstName>
+				<middleName/>
+				<lastName>Haug</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Migration und Flüchtlinge (BAMF), Nürnberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Stephanie</firstName>
+				<middleName/>
+				<lastName>Müssig</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Migration und Flüchtlinge (BAMF), Nürnberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Anja</firstName>
+				<middleName/>
+				<lastName>Stichs</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Migration und Flüchtlinge (BAMF), Nürnberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5244?doi=10.4232/1.12023</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12023</doiProposal>
+	<publicationDate>
+		<date>2014-08-13</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5244</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Religion und Werte</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Religion and values</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Staatsbürgerschaft</term>
+					<term>Migrationsmotive</term>
+					<term>Einbürgerungsmaßnahmen</term>
+					<term>Intergruppenkontakt</term>
+					<term>Segregation</term>
+					<term>Identität &amp; soziales Zugehörigkeitsgefühl</term>
+					<term>Soziale Netzwerke</term>
+					<term>Integration</term>
+					<term>Wertorientierungen</term>
+					<term>Geschlechterrollenverständnis</term>
+					<term>Religiöse Ideologie</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+					<term>Zugewanderte der 3. Generation</term>
+					<term>Muslim*innen</term>
+					<term>Naher Osten</term>
+					<term>Nord-Afrika</term>
+					<term>Süd-Asien</term>
+					<term>Ost-Asien</term>
+					<term>Zentralasien</term>
+					<term>Türkei</term>
+					<term>Iran</term>
+					<term>Süd-Europa</term>
+					<term>Ost-Europa</term>
+					<term>Christ*innen</term>
+					<term>Jüd*innen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Citizenship</term>
+					<term>Motives for migration</term>
+					<term>Naturalisation measures</term>
+					<term>Intergroup contact</term>
+					<term>Segregation</term>
+					<term>Identity &amp; sense of social belonging</term>
+					<term>Social networks</term>
+					<term>Integration</term>
+					<term>Value orientations</term>
+					<term>Understanding of gender roles</term>
+					<term>Religious ideology</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+					<term>Zugewanderte der 3. Generation</term>
+					<term>Muslim*innen</term>
+					<term>Naher Osten</term>
+					<term>Nord-Afrika</term>
+					<term>Süd-Asien</term>
+					<term>Ost-Asien</term>
+					<term>Zentralasien</term>
+					<term>Türkei</term>
+					<term>Iran</term>
+					<term>Süd-Europa</term>
+					<term>Ost-Europa</term>
+					<term>Christ*innen</term>
+					<term>Jüd*innen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Ziel der Untersuchung war es, eine Datengrundlage zur Schätzung der Zahl der Muslime in Deutschland zu schaffen und außerdem ihre Struktur, Religiosität, religiöse Alltagspraxis sowie verschiedene Aspekte der Integration zu beschreiben. Neben den Angaben über die Befragten selbst wurden außerdem sozialstrukturelle Angaben über alle im Haushalt lebenden Personen erfasst, so dass auch Informationen über unter 16-jährige Personen mit Migrationshintergrund aus den berücksichtigten Herkunftsländern vorliegen.
+Themenschwerpunkte der Untersuchung sind
+1. Soziodemographische Angaben des Befragten: Geschlecht; Geburtsjahr; Geburtsland; Staatsangehörigkeit(en); frühere Staatsangehörigkeit(en); Geburtsland der Eltern; Religionszugehörigkeit; Glaubensrichtung; frühere Religionszugehörigkeit; frühere Glaubensrichtung; Familienstand; Einreisejahr und -gründe; Erwerb der deutschen Staatsangehörigkeit; Erwerbsquellen im Haushalt.
+2.a) Haushaltszusammensetzung und sozidemographische Angaben des Partners: Geschlecht; Geburtsjahr; Geburtsland; Staatsangehörigkeit(en); frühere Staatsangehörigkeit(en); Religionszugehörigkeit; Glaubensrichtung.
+2.b) Soziodemographische Angaben weiterer im Haushalt lebender Personen: Verwandtschaftsverhältnis zum Befragten; Geburtsjahr; Geschlecht; Staatsangehörigkeit(en); Religionszugehörigkeit; Glaubensrichtung.
+3. Integrationsrelevante Aspekte: Alltagskontakte zu Deutschen ohne Migrationshintergrund in der eigenen Familie, am Arbeitsplatz, in der Nachbarschaft und im Freundeskreis; Kontaktwunsch zu Deutschen; Ausländeranteil im Wohngebiet; gewünschte Zusammensetzung des Wohngebietes; Verbundenheit mit dem Herkunftsland, Deutschland und dem Wohngebiet; Mitgliedschaft in deutschen und herkunftslandbezogenen Verbänden; Ort des Schulbesuchs; Schulabschluss in Deutschland und im Ausland; Berufsabschluss in Deutschland und im Ausland; Erwerbsstatus; Arbeitszeit; berufliche Stellung; Selbsteinschätzung der Deutschkenntnisse in den Bereichen Verstehen, Sprechen, Lesen und Schreiben; Teilnahme am Integrationskurs; Teilnahme an der Abschlussprüfung.
+4. Religiosität und religiöse Alltagspraxis: Gläubigkeit; Befolgung religiöser Speisegebote; Einhaltung von Fastenvorschriften; Begehen religiöser Feste; Gebetshäufigkeit; Besuchshäufigkeit religiöser Veranstaltungen; Mitgliedschaft in einer religiösen Gemeinde; Häufigkeit des Engagements in einer religiösen Gemeinde.
+5. Bekanntheits- und Vertretungsgrad muslimischer Verbände: Nur an Muslime/Aleviten: Bekanntheit ausgewählter muslimischer Verbände (ZMD, IR, DITIB, VIKZ, KRM, AABF) und der Vertretungsgrad.
+6. Das Tragen des Kopftuchs: Nur an muslimische/alevitische weibliche Befragte: Häufigkeit des Tragens eines Kopftuchs; Gründe für das Tragen eines Kopftuchs; In Bezug auf muslimische/alevitische Haushaltsmitglieder: Wird ein Kopftuch getragen.
+7. Beteiligung an ausgewählten schulischen Unterrichtsangeboten: Nur an Befragte, die die Schule besuchen und in Bezug auf Haushaltsmitglieder im schulpflichtigen Alter: Teilnahme am gemischtgeschlechtlichen Sportunterricht, am gemischtgeschlechtlichen Schwimmunterricht, am Sexualkundeunterricht, am Religions-/Ethikunterricht sowie Art des Religionsunterrichts und an mehrtätigen Klassenfahrten. 8. Einstellung zu interreligösen Ehen und zur Einrichtung islamischer/alevitischer Religionsunterrichtsangebote in der Schule: Vorstellbarkeit einer interreligiösen Ehe in Bezug auf die eigene Person, eines Sohnes sowie einer Tochter; Befürwortung islamischer/alevitischer Unterrichtsangebote als ordentliches Schulfach.
+Zusätzlich verkodet wurde: Herkunftsgruppe laut Stichprobenziehung; Herkunftsgruppe laut Screening; Bundesland: BIK-Gemeindetyp: Interviewernummer; Interviewdauer in Sekunden; Interviewdatum; Zahl der Kontaktversuche; Sprache des Interviews; Interviewereinschätzung Sprachkenntnisse Deutsch; Personen- und Haushaltsgewichte; Hauptmigrationshintergrund des Haushalts; Migrationshintergrund des Befragten; Generationenzugehörigkeit des Befragten.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The aim of this study is to determine the number of Muslims in Germany and their religious composition as precisely as possible. And also contribute to gaining insights into the everyday religious life, beliefs, social and structural integration of Muslims with a migration background.
+Key subjects of the study are
+1. Sociodemographic characteristics and migration biography: sex; year of birth; country of origin; citizenship(s); former citizenship(s); parent’s country of origin; denomination; former denomination; marital status; year of immigration and reason; received German citizenship; kind(s) of household’s income.
+2.a) Household structure and sociodemographic characteristics of respondent’s partner: sex; year of birth; country of origin; citizenship(s); former citizenship(s); denomination.
+2.b) Sociodemographic characteristics of other household members: degree of kinship with respondent; year of birth; sex; citizenship(s); denomination.
+3. Integration: daily contact with Germans within the family, at the workplace, in the neighbourhood and as friends; wish for contact with Germans; proportion of foreigners in neighbourhood; preferred neighbourhood characteristics; ties to country of origin, to Germany and to one’s neighbourhood; membership in associations connected to Germany or country of origin; country where respondent attended (or is attending) school; graduation in Germany and abroad; professional qualification in Germany and abroad; occupational status; working hours; professional occupation; self-assessment of German language skills in regard to Understanding, Speaking, Reading and Writing; attendance of an integration course; taking the final exam of that course.
+4. Religiousness and religious practice: religious beliefs; adhere to religious dietary laws; adhere to the rules on fasting; attendance of religious events; frequency of praying; frequency of attending religious events; membership in religious organization; frequency of involvement in religious organization.
+5. Acknowledgement of Islamic associations (only Muslims and Alevis): knowledge of selected Muslim organizations (ZMD, IR, DiTiB, VIKZ, KRM, AABF). 6. Wearing headscarf: Practice and reasons (only female Muslims and Alevis): frequency of wearing a headscarf; reason(s) for wearing the headscarf; about Muslim/Alevi members of the household: wearing the headscarf or not.
+7. Attendance of selected classes at school (only respondents that attend school or referring to the school attending members of the household): attending the common sports class, the gender mixed swimming class, the sexual education class, the religion/ethics class and it’s kind and attending school trips that take longer than one day.
+8. Attitudes towards interreligious marriages and Islamic school education: Imagination of an interreligious marriage for oneself, one’s son and daughter; agree on Islamic/Alevi education as ordinary school subject.
+Additionally coded was: group of origin according to sampling; group of origin according to screening; county; type of municipal (BIK); interviewer id; duration of interview in seconds; date of interview; number of contact attempts; language of interview; interviewer’s assessment of respondent’s German skills; person and household weights; main migration background of the household; respondent’s migration; respondent’s migration generation.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen im Alter ab 16 Jahren mit einem Migrationshintergrund aus einem von 49 muslimisch geprägten Herkunftsländern</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons aged 16 years and over who live in a private households in Germany in which at least one person has a migration background from one of 49 predominantly Mulsim countries.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Haushaltsstichprobe nach dem onomastischen Verfahren aus dem Telefonbuch sowie nachgeschaltete Personenauswahl im Haushalt unter den Haushaltsmitgliedern im Alter ab 16 Jahre nach dem Schwedenschlüssel. 
+Die Stichprobe wurde nach 8 Herkunftsgruppen-/ländern geschichtet (Südosteuropa, Türkei, Zentralasien/GUS, Iran, Süd-/Südostasien, Naher Osten, Nordafrika, sonstiges Afrika)</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample: Disproportionate Two-Stage Stratified Sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2008-04-21</date>
+				</startDate>
+				<endDate>
+					<date>2008-07-16</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName> TNS Infratest, Munich</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone Interview: CATI (Computer Assisted Telephone Interview) </freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>860</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Mögliche Interviewsprachen neben Deutsch: Albanisch, Arabisch, Englisch, Farsi, Französisch, Russisch, Serbisch oder Türkisch.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Languages of the interview: German, Albanian, Arabic, English, Farsi, French, Russian, Serbian or Turkish.</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Haug, Sonja: 
+Ethnische Gemeinschaften, Religionsgemeinschaften und Aspekte der Integration. 
+In: Brinkmann, Heinz Ulrich; Uslucan, Haci-Halil (Hrsg.): Dabeisein und Dazugehören. Integration in Deutschland. 
+Wiesbaden: Springer VS, 2013, S. 249-272.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kuhl, Anne (2009): 
+Zahl der Muslime in Deutschland. 
+http://www.deutsche-islam-konfe-renz.de/cln_110/nn_1876234/SubSites/DIK/DE/InDeutschland/ZahlenDatenFakten/ZahlMLD/zahl-mld-node.html?__nnn=true </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kuhl, Anne (2009): 
+Religiosität von Muslimen in Deutschland.
+http://www.deutsche-islam-konferenz.de/DIK/DE/Magazin/Gemeindeleben/ReligiositaetMLD/religiositaet-mld-node.html</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Müssig, Stephanie; Stichs, Anja: 
+Der Einfluss des Besuches religiöser Veranstaltungen auf die soziale Integration von christlichen und muslimischen Migranten der ersten Generation. 
+In: Pollak, Detlef; Tucci, Ingrid; Ziebertz, Hans-Georg (Hg.): Religiöser Pluralismus im Fokus quantitativer Religionsforschung. 
+Wiesbaden: Springer Verlag für Sozialwissenschaften, 2012, S. 299-329.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Haug, Sonja: 
+Herkunft, Glaubensrichtung, Bildung, Partizipation. Vom Eins-Werden und vom Einssein. 
+In: Zimmermann, Olaf; Geißler, Theo: Islam – Kultur – Politik. Aus Politik und Kultur Nr. 11, 2013, S. 58-60.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Haug, Sonja; Müssig, Stephanie; Stichs, Anja: 
+Muslimisches Leben in Deutschland. 
+Nürnberg: Bundesamt für Migration und Flüchtlinge, 2009
+(Forschungsbericht, Bundesamt für Migration und Flüchtlinge, 6)</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

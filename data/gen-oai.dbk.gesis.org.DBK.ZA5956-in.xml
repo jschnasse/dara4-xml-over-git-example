@@ -1,0 +1,545 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Causes and Consequences of Socio-Cultural Integration Processes among New Immigrants in Europe (SCIP)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Causes and Consequences of Socio-Cultural Integration Processes among New Immigrants in Europe (SCIP)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5956</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Causes and Consequences of Socio-Cultural Integration Processes among New Immigrants in Europe (SCIP)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Causes and Consequences of Socio-Cultural Integration Processes among New Immigrants in Europe (SCIP)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Claudia</firstName>
+				<middleName/>
+				<lastName>Diehl</lastName>
+				<affiliation>
+					<affiliationName>University of Konstanz, Germany</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Mérove</firstName>
+				<middleName/>
+				<lastName>Gijsberts</lastName>
+				<affiliation>
+					<affiliationName>The Netherlands Institute for Social Research, Den Haag, Netherlands</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Ayse</firstName>
+				<middleName/>
+				<lastName>Güveli</lastName>
+				<affiliation>
+					<affiliationName>University of Essex, Great Britain</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Matthias</firstName>
+				<middleName/>
+				<lastName>Koenig</lastName>
+				<affiliation>
+					<affiliationName>University of Göttingen, Germany</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Cornelia</firstName>
+				<middleName/>
+				<lastName>Kristen</lastName>
+				<affiliation>
+					<affiliationName>University of Bamberg, Germany</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Marcel</firstName>
+				<middleName/>
+				<lastName>Lubbers</lastName>
+				<affiliation>
+					<affiliationName>Radboud University, Nijmegen, Netherlands</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Frances</firstName>
+				<middleName/>
+				<lastName>McGinnity</lastName>
+				<affiliation>
+					<affiliationName>The Economic and Social Research Institute (ESRI), Dublin, Ireland</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Peter</firstName>
+				<middleName/>
+				<lastName>Mühlau</lastName>
+				<affiliation>
+					<affiliationName>Trinity College Dublin, Ireland</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Lucinda</firstName>
+				<middleName/>
+				<lastName>Platt</lastName>
+				<affiliation>
+					<affiliationName>London School of Economics and Political Science, London, Great Britain</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Frank</firstName>
+				<middleName/>
+				<lastName>Van Tubergen</lastName>
+				<affiliation>
+					<affiliationName>University of Utrecht, Netherlands</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5956?doi=10.4232/1.12341</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12341</doiProposal>
+	<publicationDate>
+		<date>2016-04-13</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5956</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+					<identifier>KAT38</identifier>
+					<!-- Beruf -->
+					<identifier>KAT39</identifier>
+					<!-- Einkommen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT51</identifier>
+					<!-- Gemeinde, Wohnumwelt -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+					<identifier>KAT60</identifier>
+					<!-- Freizeit -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Minderheiten</term>
+					<term>Soziale und berufliche Mobilität</term>
+					<term>Migration</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Religion und Werte</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Kulturelle Aktivitäten und kulturelle Teilhabe</term>
+					<term>ARBEIT UND BESCHÄFTIGUNG</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Minorities</term>
+					<term>Social and occupational mobility</term>
+					<term>Migration</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Religion and values</term>
+					<term>Cultural and national identity</term>
+					<term>Cultural activities and participation</term>
+					<term>LABOUR AND EMPLOYMENT</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Das SCIP Projekt (“Causes and Consequences of Socio-Cultural Integration Processes among New Immigrants in Europe”) untersucht soziokulturelle Aspekte von Migrationsverläufen. Befragt wurden neue Einwanderer aus verschiedenen ethnischen Gruppen in vier europäischen Ländern: Deutschland, Großbritannien, Irland und die Niederlande. Die Forschungsfragen der Studie lauten: (a) Ist die soziokulturelle Integration eine Folge oder die Ursache der strukturellen Integration von Migranten (beispielsweise in den Arbeitsmarkt)? (b) Welche gruppenspezifischen Unterschiede gibt es bei den Integrationsprozessen und wieso? Da es um kürzlich angekommene Immigranten geht, fokussiert das SCIP Projekt eine besonders dynamische Phase des Integrationsprozesses. Das Projekt legt den Grundstein für ein „Europäisches Neue Immigranten Panel“, vergleichbar mit Immigranten Befragungen in traditionellen Einwanderungsländern, wie den USA.
+Es gab zwei Befragungswellen von Immigrantengruppen, die sich in mehreren Aspekten, wie Religion (Katholiken versus Muslime), dem sozialen Status (mittel- hochqualifizierte versus gering qualifizierte Migranten) und ihrem rechtlichen Status (EU-Bürger versus Nicht-EU-Bürger) unterscheiden. In allen vier Ländern wurden kürzlich angekommene Immigranten aus Polen interviewt, Immigranten aus der Türkei (Deutschland und Niederlande), den Antillen (Niederlande), Bulgarien (Niederlande), Marokko (Niederlande), Suriname (Niederlande), und Pakistan (Großbritannien). In einem Mini Panel Design wurden alle Einwanderer erstmals, spätestens zwölf Monate nach ihrer Ankunft interviewt (1. Welle). Ein zweites Interview folgte eineinhalb Jahre später (2. Welle).
+Zur Vergleichbarkeit der Angaben über die Zeit wurden Merkmale über den Zeitpunkt vor und nach der Migration erhoben. Zusätzlich wurden Fragen aus etablierten Umfragen, wie dem New Immigrant Survey, dem European Social Survey und dem World Value Survey übernommen, um vergleichende Analysen zu ermöglichen.
+Themen: 1. Sprach- und Integrationsbemühung: Sprachkenntnisse und Anwendung; Sprechen einer dritten Sprache; Teilnahme an Integrationskursen.2. Identität und Exklusion: kulturelle Teilnahme und Identifikation (Belonging); Gefühl akzeptiert zu werden; erfahrene Diskriminierung; Zufriedenheit mit der Migrationsentscheidung und der aktuellen Situation; Wahrnehmung der kulturellen Vereinbarkeit; Akkulturationsbemühungen; politische Einstellung; Einstellung zur Demokratie.3. Religion: Religionszugehörigkeit; Ort, Art und Umfang der Religionsausübung; Religionszugehörigkeit des Partners.4. Soziale Integration: Wechselwirkung mit ethnischer Herkunft und sozialer Integration im Zielland; soziale Teilhabe; soziales Netzwerk (Stärke und Dichte der Beziehungen).5. Strukturelle Integration: Bildung des Befragten und des Partners; berufliche Situation des Befragten und des Partners; Rücküberweisungen von Geld ins Herkunftsland (Remittances).
+Demographie und Migrationsbiographie: Geschlecht; Geburtsjahr; Geburtsland; Staatsangehörigkeit; Erwerbsstatus; Familiensituation; stabile Partnerschaft; Haushaltsmerkmale; Migrationsbiographie und Motive; rechtliche Situation; Migrationsbiographie und rechtliche Situation des Partners; Lebenssituation und Zusammensetzung der Nachbarschaft.
+Zusätzlich verkodet wurde: Befragten-ID; Panel Welle; Erhebungsmethode; ethnische Gruppenzugehörigkeit des Befragten; Interviewer-ID; Disposition-Code; Interviewdatum und Zeit; Interviewdauer; Missing-Anteil im Fall; kontaktiert durch den Interviewer; Interview vollendet. 
+Interviewerrating: Einfache Durchführung des Interviews (Interviewer und Befragter); Anwesenheit Dritter während des Interviews; Person, die Fragen zum Partner beantwortet hat; Anwesenheit des Partners während der Partnerfragen; Probleme den Befragungshaushalt zu finden; Kooperationsbereitschaft des Befragten; weitere Anmerkungen.
+</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The SCIP project (“Causes and Consequences of Socio-Cultural Integration Processes among New Immigrants in Europe”) is the first comparative survey among new arrivals in four Europe countries: Germany, Great Britain, Ireland and the Netherlands. Its substantive focus is on socio-cultural integration trajectories. This aspect of migration has received increasing attention in public debate yet remains seriously under-researched. In particular, existing data cannot settle the question whether socio-cultural integration is a consequence or a prerequisite for migrants’ structural integration (e.g. in the labour market) – and whether, how and why groups might differ in this regard. By focusing on recent arrivals, the SCIP project studies a particularly dynamic phase of the entire integration process, thus laying the ground for the creation of a “European New Immigrant Panel” that matches the existing new immigrant surveys in classical immigration countries such as the USA.
+In the SCIP project, two cross-national waves of survey data were collected among groups of new immigrants that vary along a number of dimensions, including religion (Catholics versus Muslims), social status (medium to high-skill versus low-skill migrants) and immigration status (EU citizens versus non-EU-citizens). In all four countries, recently arrived Poles were sampled, along with new immigrants from Turkey (Germany, Netherlands), Antilles (Netherlands), Bulgaria (Netherlands), Morocco (Netherlands), Suriname (Netherlands) and Pakistan (United Kingdom). In a mini-panel design, immigrants were interviewed 12 months maximum after their arrival (first wave) and one and a half years later (second wave).
+To allow for comparisons across time, pre- and post-migration characteristics were collected. Further, questions were adopted from established survey instruments such as New Immigrant Survey, the European Social Survey, or the World Values Survey to facilitate broader comparisons.
+The survey instrument was designed to cover a wide array of items including (1) standard demography and migration biography, (2) language and integration policies, (3) identity and exclusion, (4) religion, (5) social  and (6) structural integration. In detail, the following information was collected: 
+Topics: 1. Language and integration policies: language skills und use, information on third languages, participation in integration classes2. Identity and exclusion: cultural consumption and practices, identification / belonging, feelings of acceptance and percieved discrimination, satisfaction with the migration decision and the current situation, preceived compability of cultures and acculturation attitudes, information on politics and attitudes about democracy3. Religion: religion, worship attendance and praying behaviour, religious practices, the composition of the place of worship as well as information on the religion of the partner4. Social integration: bonding and bridging ethnic ties, social participation, core networks (strong ties) and the density of the social network5. Structural integration: education, employment situation of the respondent and partner as well as information on remittances. Demography and migration biography: sex; year of birth; country of birth; citizenship; currently working; family situation; stable relationship; household characterictis; migration biography and motives; migration biography and legal situation of the partner; living situation and composition of the neighborhood.
+Additionally coded was: respondent-ID; mode of the interview; Panel wave; ethnic group; interviewer-ID; disposition-code; date and time of the interview; duration of the interview; proportion of missing values in case; contacted by interviewer, interview accomplished.
+Interviewer rating: easy implementation of the interview (interviewer and respondent); attandance of third parties during the interview; person who has answered questions about the partner; attendance of the partner during the partner questions; problems finding the survey household; respondent´s cooperation; comments.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Erwachsene mit Migrationshintergrund im Alter von 18 bis 60 Jahren, die sich maximal bis zu 18 Monate im Aufnahmeland aufhalten. Die Migranten sollten direkt aus ihrem Herkunftsland eingereist sein. Migranten, die nur begrenzte Zeit im Aufnahmeland verbringen (z.B. als Saisonarbeiter), wurden aus dem Sampling Frame ausgeschlossen.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>All immigrant adults aged 18 to 60 with a maximum stay of 18 months in one of the four receiving countries. The migrants should have arrived directly from the country of origin matching their nationality. Migrants who intended to stay for a very limited time in the receiving society, such as seasonal workers, were excluded from the target sample.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Deutschland und Niederlande: Wahrscheinlichkeitsauswahl: Geschichtete Zufallsauswahl
+Irland und Großbritannien: Nicht-Wahrscheinlichkeitsauswahl: Respondenten-gesteuerte Auswahl </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Germany and the Netherlands: Probability Sample: Stratified Sample
+Ireland and Great Britain: Non-Probability Sample: Respondent-assisted Sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2010-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2011-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany (wave 1)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland (Welle 1)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2012-12</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2013-03</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany (wave 2)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland (Welle 2)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2010-11</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2011-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Netherlands (wave 1)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande (Welle 1)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2012-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2013-02</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Netherlands (wave 2)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande (Welle 2)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2011-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2012-01</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain (wave 1)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien (Welle 1)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2012-09</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2013-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain (wave 2)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien (Welle 2)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2010-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2011-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland (wave 1)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland (Welle 1)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2012-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2013-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland (wave 2)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland (Welle 2)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Wave 1:Great Britain: Ipsos MORI, London</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>The Netherlands: Motivaction, Amsterdam</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Germany: national research team</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Ireland: national research team.Wave 2:Great Britain: Ipsos MORI, London</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>The Netherlands: Motivaction, Amsterdam</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Germany: Center for Empirical Social Research (ZeS) at the Humboldt University in Berlin (CATI-Interviews) und research team (CAPI-Interviews und Online-Interviews)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Ireland: national research team (CATI-Interviews), Online-Interviews: german research team</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Welle 1: Persönliches Interview: CAPI (Computerunterstützte persönliche Befragung)
+
+Welle 2: Kombination von länderspezifischen Interviewer-Modi
+
+Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)
+Selbstausfüller: CAWI (Computerunterstütztes Web-Interview)
+Persönliches Interview: CAPI (Computerunterstützte persönliche Befragung)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>First wave: Face-to-face interview: CAPI (Computer Assisted Personal Interview)
+
+Second wave: Combination of country-specific interview modes
+
+Telephone interview: CATI (Computer Assisted Telephone Interview)
+Self-administered questionnaire: CAWI (Computer-Assisted Web-Interview)
+Face-to-face interview: CAPI (Computer Assisted Personal Interview)
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Das SCIP-Projekt wurde vom NORFACE-Forschungsprogramm zur Migration gefördert und von Claudia Diehl an der Universität Konstanz koordiniert.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The SCIP project was funded by the NORFACE Research Programme on Migration and was coordinated by Claudia Diehl at the University of Konstanz.</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Diehl, Claudia, Koenig, Matthias:
+God Can Wait -- New Migrants in Germany Between Early Adaptation and Religious Reorganization.
+In: International Migration 51 (2013), 3, p. 8-22
+(also published as NORFACE Migration Discussion Paper No 2013-04).</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Van Tubergen, Frank:
+Religious change of new immigrants in the Netherlands : The event of migration.
+In: Social Science Research 42 (2013), 3, p. 715-725</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

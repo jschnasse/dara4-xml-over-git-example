@@ -1,0 +1,953 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Eurobarometer 72.5 (Nov-Dec 2009)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Eurobarometer 72.5 (Nov-Dec 2009)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4999</identifier>
+		<currentVersion>5.1.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Eurobarometer 72.5 (Nov-Dec 2009)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Eurobarometer 72.5 (Nov-Dec 2009)</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>E-Communications, Agriculture, Geographical and Labor Market Mobility, and Knowledge of Antibiotic Use</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>E-Communications, Agriculture, Geographical and Labor Market Mobility, and Knowledge of Antibiotic Use</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Europäische Kommission</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4999?doi=10.4232/1.11642</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11642</doiProposal>
+	<publicationDate>
+		<date>2013-06-14</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4999</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>doi:10.3886/ICPSR29842.v2 </identifier>
+			<type>DOI</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+					<identifier>KAT36</identifier>
+					<!-- Wirtschaftszweige, Dienstleistungen und Verkehr -->
+					<identifier>KAT38</identifier>
+					<!-- Beruf -->
+					<identifier>KAT51</identifier>
+					<!-- Gemeinde, Wohnumwelt -->
+					<identifier>KAT58</identifier>
+					<!-- Technik, Energie -->
+					<identifier>KAT59</identifier>
+					<!-- Medizin -->
+					<identifier>KAT62</identifier>
+					<!-- Kommunikation, öffentliche Meinung, Medien -->
+					<identifier>KAT65</identifier>
+					<!-- Umwelt, Natur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Medizinische Behandlung und Medikation</term>
+					<term>Spezifische Krankheiten, Störungen und Gesundheitsprobleme</term>
+					<term>Sozialsysteme und Strukturen der Sozialfürsorge</term>
+					<term>Landwirtschaft und Agrarindustrie</term>
+					<term>Konsum und Konsumverhalten</term>
+					<term>Informations- und Kommunikationstechnologie</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Medication and treatment</term>
+					<term>Specific diseases, disorders and medical conditions</term>
+					<term>Social welfare systems/structures</term>
+					<term>Agriculture and rural industry</term>
+					<term>Consumption and consumer behaviour</term>
+					<term>Information technology</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Elektronische Kommunikation. Landwirtschaft und Agrarpolitik. Mobilitätim Arbeitsmarkt. Nutzung von Antibiotika und Bekanntheit derAntibiotika-Kampagne.
+Themen: 1. Elektronische Kommunikation:  Möglichkeit desInternetzugriffs über das Mobiltelefon; Anzahl technischer Geräte oderDienste im Haushalt: Handys mit Vertrag, Handys mit Pre-Paid-Karte,Mobiltelefonanschluss mit Internetzugriff; Beschreibung derpersönlichen Mobilfunkerfahrung: keine Unterbrechungen während desTelefonierens, ständiger Netzzugang, Begrenzung der Anrufe vomMobiltelefon zur Reduzierung der Kosten, verbraucherfreundlicheNutzungskontrolle, einfacher Vergleich mit Tarifangeboten andererAnbieter; Vergleich der Kosten für die Mobiltelefonnutzung heute mitdenen von vor 2 Jahren; persönlich erfahrene Einschränkungen desOnline-Zugriffs über das Mobiltelefon durch: begrenzte Möglichkeitendes Mobiltelefongeräts, den Mobilfunkvertrag bzw. die Mobilfunkkarte,den Mobilfunkbetreiber; Vorzüge des Telefonierens am Festnetz:Bereitstellung einer vollständigen und eindeutigen Rechnung, einfacherVergleich der Tarife anderer Anbieter, verbraucherfreundlicheMöglichkeit der Kontrolle der Nutzungen; Selbstbeschränkung bei derMobiltelefonie aus Kostengründen; Gründe für die Nichtexistenz einesFestnetzanschlusses; Häufigkeit der Nutzung von öffentlichen Telefonensowie Gründe für die Nutzung; genutztes Empfangsgerät für Fernsehsenderim Haushalt ((Kabel, Satellitenantenne usw.); Art des Internetzugangs;Internetzugang über das Mobiltelefon ausreichend für Haushalt;genutztes Gerät zum Internetzugang; permanente Möglichkeit desInternetzugangs im Haushalt; Einschätzung der Geschwindigkeit derInternetverbindung gemäß Vertrag; Nutzung des Computers zumTelefonieren (VOIP, SKYPE); Aussagen über die eigeneInternetverbindung: unterbrechungsfrei, konstante Geschwindigkeit,Sperrung bestimmter Inhalte und Anwendungen durch den Anbieter,Service-Kontakt zum Anbieter problemlos möglich, Kosten für Serviceerschwinglich, hilfreiche Antwort durch Service, einfacher Vergleichdes Internettarifs mit anderen Angeboten; Überlegungen zumAnbieterwechsel; Gründe für die Nichtexistenz einesBreitband-Internetzugangs bzw. eines Internetzugangs; Interesse aneiner Benachrichtigung durch den Telekommunikationsanbieter für denFall, dass aus dessen Datenbank persönliche Daten verloren gegangensind; Beunruhigung über den möglichen Missbrauch persönlicher Daten insozialen Netzwerken (wie Facebook u.a.); Nutzungshäufigkeit vonsozialen Netzwerkseiten; Häufigkeit der Nutzung von gedrucktenTelefonbüchern, von Online-Telefonverzeichnissen sowie derTelefonauskunft; Nutzung von Leistungspaketen der Anbieter mitFernsehkanälen, Telefonfestnetzanschluss, Mobilfunk und Internetzugang;Einstellung zu dieser Art von Leistungspaketen; Einschätzung derZufriedenheit mit dem Angebot neuer Dienste, der Flexibilität vonPreismodellen entsprechend den eigenen Bedürfnissen, derBenutzerfreundlichkeit, der Gesamtkosten und der Möglichkeit derKostenkontrolle; Beurteilung der festgestellten Veränderungen in diesenBereichen.
+2. Landwirtschaft und Agrarpolitik: Einschätzung der zukünftigenBedeutung der europäischen Landwirtschaft; Wissenstest über dieAgrarwirtschaft in der EU: die Vereinigten Staaten produzieren mehrAgrarerzeugnisse als die EU, das Durchschnittseinkommen im Agrarbereichist niedriger als in anderen Wirtschaftsbereichen und Landwirte machenetwa zehn Prozent der erwerbstätigen Bevölkerung der EU aus; Kenntnisder ´gemeinsamen Agrarpolitik und der Politik zur Entwicklung desländlichen Raums in der EU´; Präferenz für die Allokation der Aufgabenvon Agrarpolitik und der Entwicklung des ländlichen Raumes aufeuropäischer, nationaler oder regionaler Ebene: Sicherung einesangemessenen Lebensstandards für Landwirte, Förderung der ländlichenGebiete, Garantie angemessener Lebensmittelpreise, Verfügbarkeit vonLebensmitteln in der EU gewährleisten, Umweltschutz, Gewährleistungguter Qualität landwirtschaftlicher Produkte; Priorität bei diesenAufgaben und Einschätzung welche Aufgaben derzeit gut erledigt werden;präferierte Ziele der europäischen Agrarpolitik: Bewältigung derAuswirkungen des Klimawandels, Anpassung der Produktion an dieMarktnachfrage, gerechtere Verteilung der Subventionen, Unterstützungder Landwirte in Abhängigkeit von der Einhaltung von Regeln desUmweltschutzes, der Nahrungsmittelsicherheit und der artgerechtenTierhaltung, Landschaftsschutz und wirtschaftliche Entwicklung inländlichen Gebieten; wichtigste Aufgaben der Landwirte in derGesellschaft; wichtigste Gründe für den Erhalt von Landwirtschaft inder EU; Einstellung zu Subventionen für die Landwirtschaft zumAusgleich von Wetter- und Marktbedingungen; Einstellung zu EU-Maßnahmenzur Ermutigung von Landwirten mehr Bioerzeugnisse zu produzieren,stärker auf erneuerbare Energien zu setzen (z.B. Biogas) und neuebiotechnologische Entwicklungen zu nutzen; Landwirtschaft alsVerursacher oder Bekämpfer des Klimawandels (Skala); Bereitschaft fürklimaschonende Produkte mehr zu zahlen; Angemessenheit des Agraretatsvon 40 Prozent am Gesamthaushalt der EU (Split A) und Erweiterung derFrage durch den Hinweis, dass dies einem Prozent des Gesamthaushaltsaller Mitgliedsstaaten entspricht (Split B); Forderung nach einerzukünftigen Reduzierung oder Erhöhung der Subventionen;Informationsinteresse zum Thema Landwirtschaft und Agrarpolitik.
+3. Mobilität im Arbeitsmarkt: Berufstätigkeit und berufliche Position;empfundene Normalität bei einem Umzug von Personen und Unternehmen ineine andere Region, bezogen auf den Einzelnen, auf Familien, auf dieWirtschaft, auf den Arbeitsmarkt und die europäische Integration;Ausbildungsaufenthalte in einem anderen europäischen Land; persönlicheMobilität zwischen EU-Ländern: in anderen Ländern gelebt, Häufigkeitdes Pendelns über eine Landesgrenze, Familienmitglieder, die in einemanderen Land gelebt und gearbeitet haben; Land, in dem der Befragtezuletzt gelebt hat; Dauer des beruflich bedingten Auslandsaufenthalts;Art des Beschäftigungsverhältnisses während dieses Aufenthalts;Arbeitsvermittler für diesen Auslandsaufenthalt; beabsichtigterzukünftiger Auslandsaufenthalt; Zeitperspektive für den Beginn desnächsten Auslandsaufenthalts; präferiertes Beschäftigungsverhältnis beieinem Auslandsaufenthalt; besonders präferierte Länder für einensolchen Auslandsaufenthalt; wichtigste Motive zur Auswahl diesesLandes; beabsichtigte Aufenthaltsdauer im Ausland; bereits vorgenommeneVorbereitungen für einen Auslandsaufenthalt; Bekannte im Ausland, diebei einem Umzug ins Ausland behilflich sein würden; Personen aus dempersönlichen Umfeld, die mit umziehen würden; wichtigste Kontaktstellenbei der Arbeitssuche im Ausland; regionale oder internationaleMobilität im Falle eigener Arbeitslosigkeit; Umfang der notwendigenGehaltserhöhung um eine Mobilität in eine andere Region ins Auge zufassen; Präferenz für Pendeln zwischen Wohnung und Arbeitsplatz oderUmzug; Bewertung der Chancen eine Arbeit außerhalb des Landes zufinden; Kenntnis des europaweiten Kooperationsnetzes öffentlicherArbeitsverwaltungen (EURES); gewünschte Informationen undUnterstützungen einer solchen Arbeitsagentur zurArbeitskräftemobilität; wichtigste Motive in einem anderen Land zuarbeiten bzw. wichtigste Gründe, die davon abhalten in einem anderenLand zu arbeiten; wichtigste praktische Schwierigkeiten bei einerArbeitsaufnahme im Ausland; Kenntnistest über die Anrechnung vonRentenbeiträgen im Ausland für den späteren Rentenanspruch;Kenntnistest über den Anspruch auf Rente und Gesundheitsversorgung ineinem anderen EU-Land, wenn man innerhalb der EU umzieht; Kenntnis desAnspruchs auf Erstattung von Krankheitskosten aus dem eigenen Land,wenn man im Urlaub oder während der Arbeit im Ausland erkrankt;Kenntnis der europäischen Krankenversicherungskarte zur Berechtigungder Inanspruchnahme medizinischer Leistungen bei Auslandsaufenthaltenin der EU; Gründe für das Fehlen einer persönlichen europäischenKrankenversicherungskarte; Mitführen einer europäischenVersicherungskarte bei den Reisen innerhalb der EU in den letztenJahren.
+4. Nutzung von Antibiotika und Bekanntheit der Antibiotika-Kampagne:Verwendung von Antibiotika in oraler Form in den letzten zwölf Monatenund Art der Verabreichung einer Antibiotikakur; Indikation für diezuletzt eingenommenen Antibiotika; Kenntnistest über die  Wirkungsweisevon Antibiotika: zerstören Viren, effektives Mittel gegen Grippe undErkältung, unnötige Einnahme von Antibiotika verringert derenWirksamkeit, Antibiotika haben Nebenwirkungen; Einstellung zu derAussage, dass jeder dazu beitragen muss, dass Antibiotika wirksambleiben; Rezeption von Informationen zur unnötigen Einnahme vonAntibiotika; Informationsquellen über die unnötige Einnahme vonAntibiotika; persönliche Reaktion auf diese Information;Einstellungsänderung zu Antibiotika aufgrund dieser Informationen;wichtigste Informationsquellen für zuverlässige Informationen überAntibiotika; Häufigkeit sportlicher Betätigung und von Aktivitäten imFreien wie z.B. Radfahren und Gehen.
+Demographie: Festnetz-Telefonanschluss oder Mobiltelefon im Haushalt;Besitz langlebiger Wirtschaftsgüter (Unterhaltungsmedien,Internetanschluss, Kfz-Besitz, abzuzahlendes bzw. bereits abgezahltesWohneigentum); Staatsangehörigkeit; Familienstand; familiäre Situation;Alter bei Beendigung der Schulbildung; Geschlecht; Alter; derzeitig undzuletzt ausgeübter Beruf; Urbanisierungsgrad; Anzahl der Personen ab 15Jahren im Haushalt; Anzahl der Kinder unter 10 Jahren und von 10 bis 14Jahren im Haushalt; aktuelle Zahlungsschwierigkeiten; Selbsteinschätzung der gesellschaftlichen Stellung (Skalometer); Internetnutzung (zu Hause, im Büro und an anderen Orten).
+Zusätzlich wurde verkodet: Interviewdatum; Interviewdauer; AnwesenheitDritter beim Interview; Kooperationsbereitschaft des Befragten;Interviewsprache; Intervieweridentifikation; Ortsgröße; Region;Gewichtungsfaktor.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Electronic communications. Agriculture and agricultural policy. Geographical and  labor market mobility. Use of antibiotics and awareness of antibiotic campaign.
+Topics: 1. Electronic communications: Internet access by mobile phones; number of mobile phones in the household: with contract, prepaid and mobile subscription for Internet access); characterization of the personal mobile phone use (breaks during a telephone call, constant access to the wireless network, limitation of national and international calls from own mobile phone for telephone costs, consumer-friendly usage control, easier comparison of the current mobile tariff scheme with other offers; change of the cost of mobile telephone service  usage within the last two years; access to online content and applications is limited by the capacity of the mobile phone; the contract with the mobile operator or the accessibility is blocked by the mobile operator;  benefits of a fixed telephone access: provider supplies a complete and clear bill for the usage, simple comparison of the of the landline tariff scheme with other offers, consumer-friendly way of usage control; self-restraint in mobile telephony for cost reasons limitation of calls with own landline for telephone costs; reasons for no fixed telephone access in the household; frequency of personally use of public payphones, and reasons for use; reception of television in the household via an aerial, a cable TV network, satellite TV, etc.), type of Internet access, internet access via the mobile phone network is sufficient for the household, and used device for Internet access; permanent Internet access in the household; download speed corresponds to the contract terms; use of a Wi-Fi connection at home for calls over the Internet (VOIP, e.g. SKYPE); characterization of Internet connection (uninterrupted internet connection , download speed corresponds to the contract terms, help from internet providers in case of problems blocking of certain content and applications by the provider, received response from helpline staff is helpful, the cost of of the support is affordable, simple comparison of the Internet tariff with other offers); intended change of providers; reasons for no Internet access; respondent wants to be informed by the telecom provider, if personal data was lost or stolen; concern about the possible misuse of personal data in social networking websites such as Facebook, etc.); frequency of using social networking websites; frequency of using printed directories, online telephone directories and directory inquiries; used services as part of a combined package(television channels, fixed telephony, mobile telephony and Internet access); attitude towards these kinds of communication packages; satisfaction with the offer of new services, the flexibility of pricing schemes adapted to the houshold’s needs, ease of use, total budget and the ability to control household’s expenditure; assessment of changes in these areas.
+2. Agriculture and agricultural policy: assessment of the future role of European agriculture; knowledge test about the agriculture in the EU: the United States produces more agricultural products than the EU, in the EU the average income in the agricultural sector is lower than in other sectors, and farmers represent  about ten percent of the EU´s working population; Knowledge about the European Union’s  Common Agricultural and rural development Policy (CAP); preference for the allocation of the tasks of agricultural and rural development policy at European, national or regional level: ensuring a fair standard of living for farmers, development of rural areas, ensuring reasonable food prices, food supply in the EU, protection of the environmental, ensuring good quality of agricultural products; main priorities of the EU in terms of agriculture and rural development;  assessment if the European Union’s Common Agricultural and rural development Policy fulfills its role rather well or rather badly in selected issues; preferred goals of European agricultural policy: tackling the effects of climate change, the adaptation of  production to market demand, equitable distribution of subsidies, financial support to farmers depending on the compliance with the relevant environmental protection, food safety and animal welfare, preservation of the countryside  and economic development in rural areas; main responsibilities of farmers in society; most important reasons for maintaining  agriculture in the EU; attitude towards  agricultural subsidies to compensate for weather and market conditions; assessment of EU-measures to encourage farmers to produce more organic products and renewable energy (e.g. biogas) and to take advantage of progress in  biotechnological; agriculture as the cause or opponent of climate change (scale); willingness to pay more for climate-friendly products; adequacy of the agricultural budget of 40 percent of the total EU budget (Split A) and enlargement of the question by pointing out that this represents a percent of the total budget of all Member States (Split B); demand for a future reduction or increase in subsidies; interest in information on agriculture and agricultural policy. 3. Geographical and labor market mobility: employment and occupational position; movement of people across regions or countries within the EU as a good thing related to  the individuals, the families, the economy, the the labour market and European integration; training abroad in another European country; personal mobility to live and /or work in another country;   frequency of commute to work across a national border; family members who have lived and worked in another country; country in which the respondent last lived or worked; duration of work-related stay abroad; type of employment during that stay; arrangement of this stay abroad (e.g. through a public or private employment agency); intention  to work abroad; time perspective for the beginning of the next period abroad;  preferred kind of employment during a stay abroad; preferred countries for  working abroad; most important motives to work in this country; intended duration of stay abroad; kind of preparations to move to another country; friends or relatives in the other country who could help; intention to move alone or together with other people; preferred places to go when looking for work abroad; regional or international mobility in the case of own unemployment; needed income compared to the current earning to take up a job in another country or region ; preference for commuting between home and work or relocation; rating of the chances to find a job outside the country; knowledge of the Europe wide network of public employment services (EURES); desired useful information and services from an employment agency for labor mobility; most important motives for working in another country and most important reasons that discourage the respondent from working abroad; important practical difficulties in taking a job abroad; knowledge test about the crediting of pension contributions abroad for future pension entitlement; knowledge test on entitlement to pension and health care in another EU country in the case of  movement within the EU; knowledge of the right to reimbursement for medical treatment by the own national health service  , if one falls ill while on holiday or working abroad; possession of the European Health Insurance Card (EHIC)for medical care when travelling in the EU; reasons for no European Health Insurance Card; respondent had a European Health Insurance Card with him when traveling within the EU in the past two years. 4. Use of antibiotics and awareness of antibiotic campaign: oral use of antibiotics in the last twelve months and mode of administration of the last course of antibiotics; indications for last taking antibiotics; knowledge test about the effectiveness  of antibiotics: kills viruses, effective against colds and flu, unnecessary use of antibiotics reduces their effectiveness, antibiotics have side-effects; attitude towards the statement that everyone has a role to play that antibiotics remain effective; reception of information about not taking any antibiotics unnecessarily; first information about not taking any antibiotics unnecessarily; change of views on antibiotics because of the received information; important sources of information for trustworthy  information on antibiotics; frequency of sport and outdoor activities such as cycling and walking.  Demography: nationality; age; marital status and family situation; age at end of education; sex; occupation; type of community; household composition and household size; own a mobile phone and fixed (landline) phone; possession of durable goods (entertainment electronics, internet connection, possession of a car, a flat/a house have finished paying for or still paying for); financial difficulties during the last year; self-rated social position (scale); internet use (at home, at work, at school).
+Also encoded was: date of interview; beginning of interview; interview; persons present during the interview; willingness to cooperate; interview language; city size; region; weighting factor.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-GBN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-NIR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CY</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CZ</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>EE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LV</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>MT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>BG</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>RO</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen im Alter von 15 Jahren und älter</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl nach dem Random-Route-Verfahren</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-19</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-07</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Belgium</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Belgien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-14</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-09</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Denmark</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Dänemark</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-02</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-14</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-03</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Greece</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Griechenland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-06</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Spain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Spanien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-17</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Finland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Finnland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-11-29</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland (Republic)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland (Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-11-29</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-05</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Luxembourg</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Luxemburg</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-06</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Netherlands</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-01</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Austria</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Österreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-17</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-06</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Sweden</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweden</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-03</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-03</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Northern Ireland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Nordirland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Cyprus (Republic)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Zypern (Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-14</date>
+				</startDate>
+				<endDate>
+					<date>2009-11-27</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Czech Republic</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Tschechische Republik</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-06</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Estonia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Estland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-11-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Hungary</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Ungarn</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-11-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Latvia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Lettland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-11-29</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Lithuania</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Litauen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Malta</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Malta</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-14</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-02</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Poland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Polen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-14</date>
+				</startDate>
+				<endDate>
+					<date>2009-11-27</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovakia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowakei</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-12-06</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovenia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowenien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-13</date>
+				</startDate>
+				<endDate>
+					<date>2009-11-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Bulgaria</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Bulgarien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-11-14</date>
+				</startDate>
+				<endDate>
+					<date>2009-11-27</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Romania</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Rumänien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Antonis</firstName>
+				<middleName/>
+				<lastName>Papacostas</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>European Commission, Brussels
+DG Communication, Public Opinion Analysis Sector</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Dimarso, Brussels, Belgium
+TNS BBSS, Sofia, Bulgaria
+TNS Aisa, Prague, Czech Republic
+TNS GALLUP DK, Copenhagen, Denmark
+TNS Infratest, Munich, Germany
+Emor, Tallinn, Estonia
+TNS MRBI, Dublin, Ireland
+TNS ICAP, Athens, Greece
+TNS Demoscopia, M</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen (CAPI)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>731</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Das Fragen-Modul QF (Sport and physical activity) ist Bestandteil des Basisfragebogens, aber weder in den Länderfragebögen noch im Datensatz enthalten.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Questionnaire module QF (Sport and physical activity) is part of the basic bilingual questionnaire, but neither included in the national field questionnaires nor in the data set as provided by TNS.</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.11426</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.11351</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.11003</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.10195</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.10133</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: Special Eurobarometer 72.5:
+Geographical and labour market mobility.
+This survey was requested by Directorate-General for Employment and Social Affairs
+coordinated by Directorate-General for Communication (“Research and Speechwriting” Unit).
+Brussels: European Commission June 2010
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_337_en.pdf</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: Special Eurobarometer 72.5:
+Antimicrobial Resistance.
+Survey commissioned by the Directorate-General for Health and Consumers and
+coordinated by the Directorate-General Communication 
+(“Research and Political Analysis” Unit).
+Brussels: European Commission April 2010
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_338_en.pdf</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: Special Eurobarometer 72.5:
+E-Communications Household Survey.
+This survey was requested by the Directorate-General Information Society and
+Media and coordinated by the Directorate-General for Communication (“Research
+and Speechwriting” Unit).
+Brussels: European Commission October 2010
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_335_en.pdf</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Opinion Research Group EEIG: Special Eurobarometer 72.5:
+Europeans, Agriculture and the Common Agricultural Policy.
+This survey was requested by Directorate-General for Agriculture and Rural Development
+and coordinated by Directorate-General for Communication 
+(“Research and Political Analysis” Unit).
+Brussels: European Commission March 2010
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_336_en.pdf</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Qual+: EUROPEAN CITIZENSHIP – CROSS-BORDER MOBILITY. Conducted by TNS Qual+ at the request of the European Commission’s Directorate-General for Justice (DG JUST) and co-ordinated by the European Commission’s Directorate-General for Communication (DG COMM - “Research and Speechwriting” Unit). Brussels, August 2010.
+http://ec.europa.eu/public_opinion/archives/quali/5823_citizenship_en.pdf</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

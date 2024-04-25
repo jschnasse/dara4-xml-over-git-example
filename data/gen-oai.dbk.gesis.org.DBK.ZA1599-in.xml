@@ -1,0 +1,336 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Foreigner Survey 1982 (1st Wave: Heads of Household) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Ausländerumfrage 1982 (1. Welle: Haushaltsvorstände)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1599</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Ausländerumfrage 1982 (1. Welle: Haushaltsvorstände)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Foreigner Survey 1982 (1st Wave: Heads of Household) 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Sonderforschungsbereich 3 der Universitäten Frankfurt und Mannheim
+</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1599?doi=10.4232/1.1599</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1599</doiProposal>
+	<publicationDate>
+		<year>1986</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1599</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Social conditions and indicators</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Intergruppenkontakt</term>
+					<term>Segregation</term>
+					<term>Staatsbürgerschaft</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Herkunft</term>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Intergroup contact</term>
+					<term>Segregation</term>
+					<term>Citizenship</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Herkunft</term>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die wirtschaftliche Situation von Ausländern in derBundesrepublik.
+Themen: Wohnungsbesitz in Deutschland oder im Heimatland;weitere Ausländer in der Wohngegend; Wohnstatus; Wohnungsgröße,Wohnungsausstattung und Anzahl der Wohnräume; Miethöhe.
+Für alle Haushaltsmitglieder jeweils einzeln erfaßt wurden:Detaillierte Angaben zur Demographie und zur Schulbildung;Verwandtschaftsverhältnis zum Haushaltsvorstand; Zuzugsjahr undAufenthaltsdauer in der Bundesrepublik; Staatsangehörigkeit;Personen in der Ausbildung; empfangene Leistungen nach demBundesausbildungsförderungsgesetz (BAFöG); Dauer und Ort derberuflichen Ausbildung; Berufsausbildungsabschluß; derzeitigebzw. letzte Berufstätigkeit; Nebenerwerbstätigkeit; Einkommenaus unselbständiger oder selbständiger Arbeit bzw. ausVermietung oder Vermögen; Bezug eines 13. Monatsgehalts sowie andererzusätzlicher Vergütungen; monatliche Aufwendungen für Steuernsowie Pflichtbeiträge für Sozialversicherungen; Nettoeinkommen;Dauer der gesamten Erwerbstätigkeit sowie Beginn derErwerbstätigkeit in der Bundesrepublik; Arbeitslosigkeit und empfangeneLeistungen vom Arbeitsamt; Erhalt von Renten und Pensionen;Art der Krankenversicherung und Altersversorgung.
+Angaben zum Haushalt als Gesamtheit: Bekanntheit bzw. Bezug vonWohngeld und Sozialhilfe; Gründe für den Nichterhalt dieserLeistungen; Kindergeldbezug; Vermögenswerte in der Bundesrepublikoder im Heimatland; Sparguthaben und Sparen nach dem624-Mark-Gesetz; Abgabe einer Einkommenssteuererklärung im Jahre 1980;Transfer von Geld oder großen Geschenken in das Heimatland sowieEmpfänger dieser Zuwendungen; Selbsteinschätzung derDeutschkenntnisse.
+Zusätzlich verkodet wurde: Interviewdauer.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The economic situation of foreigners in the Federal Republic. 
+Topics: possession of residence in Germany or native country; otherforeigners in residential area; residential status; size of residence,furnishings and number of living-rooms; amount of rent. 
+The following was collected for all members of the householdindividually: detailed information on demography and school education;degree of relationship to head of household; year of arrival and lengthof stay in the Federal Republic; citizenship; persons in school;payments received under the law regarding grants for higher education(student aid); duration and location of occupational training;vocational training degree; current or last employment; secondaryoccupation; income from employment or self-employed or from rental orassets; receipt of a 13th month salary as well as other additionalcompensations; monthly expenditures for taxes as well as compulsorycontributions to social security; net income; length of entireemployment as well as start of employment in the Federal Republic;unemployment and payments received from the employment office; receiptof pensions; type of health insurance and provision for old age. 
+Information on household as a whole: familiarity or receipt of housingbenefit and welfare; reasons for not receiving these payments; receiptof child allowance; assets in the Federal Republic or native country;savings account and saving according to the 624-Mark law; filing anincome tax return in 1980; transfer of money or large gifts into thenative country as well as recipient of these donations; self-assessmentof knowledge of German. 
+Also encoded was: length of interview. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>FRG incl. West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD einschl. West-Berlin
+	
+</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Griechische, italienische, jugoslawische spanische und türkische
+Haushaltsvorstände in Privathaushalten</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>The last level of Greek, Italian, Yugoslav Spanish and Turkish heads of
+household in private households</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl mit Quotenauswahl auf der
+letzten Stufe. Die hier ausgewählten Haushaltsvorstände gehören
+denselben Haushalten an, aus denen in der zweiten Welle dieser
+Untersuchung die Haushaltsmitglieder befragt wurden. </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage stratified random sample with quota sample. The heads of household selected here belong to the same households from which members of the household were interviewed in the second wave of this investigation. </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1982-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1982-09</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen bzw.
+schriftliche Befragung unter Aufsicht
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire or written survey under supervision 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>360</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Dieser Datensatz ist die erste Welle einer zweiwelligen Erhebung
+und entstand im Kontext mit anderen, ebenfalls im Zentralarchiv
+archivierten Datensätzen, die bei der deutschen Wohnbevölkerung er
+hoben wurden. Dies sind der Wohlfahrtssurvey 1980 (ZA-Studien-Nr.
+1142) und die Transferumfrage 1981 (ZA-Studien-Nr. 1604).
+In der ersten Befragungswelle wurde haushaltsrepräsentativ der
+Transferbereich erhoben, in der zweiten Welle wurde aus dem
+gleichen Haushalt eine zufällig gezogene Person zu den Themenbereichen
+Wohlfahrt und Arbeitseinkommen befragt.
+Im Bedarfsfalle wurden den Befragten fremdsprachige Fragebögen
+zur Verfügung gestellt, die dann unter Aufsicht und mit
+umfangreichen Erläuterungen des Interviewers schriftlich
+ausgefüllt wurden.
+Die zweite Welle dieser Untersuchung ist unter der
+ZA-Studien-Nr. 1600 archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>This data set is the first wave of a two-wave survey and originated in
+the context of other data sets collected among the German residential
+population also archived in the Zentralarchiv. These are the Welfare
+Survey 1980 (ZA Study No. 1142) and the Transfer Survey 1981 (ZA Study
+No. 1604). In the first wave of the survey the transfer area was
+surveyed with representative households; in the second wave a randomly
+drawn person from the same household was interviewed on the topic areas
+welfare and work income. As needed the respondents were given foreign
+language questionnaires which then were filled out in writing under
+supervision and with extensive explanation by the interviewer. The
+second wave of this investigation is archived under ZA Study No. 1600. </text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Dworschak, Franz; Engel, Bernhard; Herget, Hermann; Witt, Kurt: 
+Ausländerstudie 1981: Methodische Konzeption und Pretestergebnisse. 
+Frankfurt und Mannheim: Sonderforschungsbereich 3, Mikroanalytische Grundlagen der Gesellschaftspolitik, September 1981. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Dworschak, Franz: 
+Zum Zusammenhang zwischen Interviewermerkmalen und Interviewereffekten: Wenn Deutsche Ausländer befragen. 
+Frankfurt und Mannheim: Sonderforschungsbereich 3, Mikroanalytische Grundlagen der Gesellschaftspolitik, Januar 1984. 
+(Arbeitspapier Nr. 131)</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Wiegand, Erich: 
+Die Inanspruchnahme ausgewählter Sozialleistungen durch Ausländer: Ergebnisse der Ausländerumfrage 1982. 
+Frankfurt und Mannheim: Sonderforschungsbereich 3, Mikroanalytische Grundlagen der Gesellschaftspolitik, Februar 1984. 
+(Arbeitspapier Nr. 134)</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Zapf, Wolfgang; Brachtl, Wolfgang: 
+Gastarbeiter und deutsche Bevölkerung. 
+In: Glatzer, Wolfgang; Zapf, Wolfgang (Hrsg.): Lebensqualität in der Bundesrepublik: Objektive Lebensbedingungen und subjektives Wohlbefinden. 
+Frankfurt: Campus 1984, S. 286 - 306.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

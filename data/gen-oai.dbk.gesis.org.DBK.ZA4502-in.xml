@@ -1,0 +1,334 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'German General Social Survey - ALLBUS 2006'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'German General Social Survey - ALLBUS 2006
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA4502</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>German General Social Survey - ALLBUS 2006
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>German General Social Survey - ALLBUS 2006</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>GESIS - Leibniz-Institut für Sozialwissenschaften</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4502?doi=10.4232/1.10110</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.10110</doiProposal>
+	<publicationDate>
+		<year>2008</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4502</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>ALLBUS</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Arbeitslosigkeit</term>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Reproduktionsmedizin</term>
+					<term>Politische Ideologie</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>Familie und Ehe</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Unemployment</term>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Social conditions and indicators</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Reproductive health</term>
+					<term>Political ideology</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>Family life and marriage</term>
+					<term>Economic conditions and indicators</term>
+					<term>Economic systems and development</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Allgemeine Bevölkerungsumfrage der Sozialwissenschaften (ALLBUS) ist eine Trenderhebung, in der seit 1980 alle zwei Jahre eine Zufallsstichprobe der deutschen Bevölkerung befragt wird. Das primäre Ziel des Umfrageprogramms ist die Beobachtung von Einstellungen, Verhalten und sozialen Wandel in Deutschland. Jede ALLBUS-Querschnittserhebung besteht aus ein oder zwei Schwerpunktmodulen zu wechselnden Themen. Diese werden ergänzt durch weitere inhaltliche Fragen und ein Kernmodul mit detaillierten demografischen Informationen. Zudem werden Zusatzinformation zum Interview und den Interviewern bereitgestellt. Die Schwerpunktmodule folgen in der Regel einem 10-jährigen Replikationszyklus, viele Einzelindikatoren und Itembatterien werden aber auch in kürzeren Abständen repliziert. 
+Seit Mitte der 1980er Jahre werden zusammen mit ALLBUS auch regelmäßig ein oder zwei Module des ISSP (International Social Survey Programme) erhoben.
+Das Schwerpunktthema des ALLBUS 2006 befasst sich mit Einstellungen gegenüber ethnischen Gruppen in Deutschland. Im besonderen Fokus liegen neben der Erfassung der Einstellung gegenüber Ausländern und Immigration u.a. auch Fragen zur Wahrnehmung von Diskriminierung, soziale Distanz zu ethnischen Gruppen und Antisemitismus. Weitere Themen sind u.a.: Einstellungen zu Ehe und Familie, Schwangerschaftsabbruch, politische Einstellungen und Einstellungen zur deutschen Wiedervereinigung. Zusätzlich enthalten sind die ISSP-Module „Arbeitsorientierungen III“ und „Staat und Regierung IV“. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>ALLBUS/GGSS 2006 ist eine englische Übersetzung der deutschenOriginalstudie ALLBUS 2006. Eine vollständige Studienbeschreibungfinden Sie unter der &lt;a href=https://dbk.gesis.org/dbksearch/SDESC2.asp?no=4500&amp;search=allbus&amp;search2=&amp;DB=D target=_self&gt;Studiennummer 4500&lt;/a&gt;.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>ALLBUS (GGSS - the German General Social Survey) is a biennial trend survey based on random samples of the German population. Established in 1980, its mission is to monitor attitudes, behavior, and social change in Germany. Each ALLBUS cross-sectional survey consists of one or two main question modules covering changing topics, a range of supplementary questions and a core module providing detailed demographic information. Additionally, data on the interview and the interviewers are provided as well. Key topics generally follow a 10-year replication cycle, many individual indicators and item batteries are replicated at shorter intervals.
+Since the mid-1980ies ALLBUS also regularly hosts one or two modules of the ISSP (International Social Survey Programme).
+The main topic of ALLBUS/GGSS 2006 is attitudes towards different ethnic groups in Germany (with questions on attitudes towards and contacts with foreigners, acceptance of immigration, perception of discrimination, social distance towards ethnic groups, and anti-Semitism). Other topics are, for example, marriage and family, abortion, political attitudes, and attitudes towards the process of German unification. In addition, the ISSP modules "Work Orientations III" and "Role of Government IV" are included. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>ALLBUS/GGSS 2006 is an English translation of the original Germansurvey ALLBUS 2006. For a comprehensive study description pleasecompare &lt;a href=https://dbk.gesis.org/dbksearch/SDesc2_eng.asp?no=4500&amp;search=allbus&amp;search2=&amp;db=E target=_self&gt;Study No. 4500&lt;/a&gt;.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alle in der Bundesrepublik Deutschland lebende Personen (Deutsche und
+Ausländer), die zum Befragungszeitpunkt in Privathaushalten lebten und
+vor dem 01.01.1988 geboren sind</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>All persons (German and non German) who resided in private households on the day of the interview and were born before 1 January 1988.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Disproportional geschichtete Zufallsauswahl; Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Personenstichprobe: Zweistufige, disproportional geschichtete
+Zufallsauswahl in Westdeutschland (incl. West-Berlin) und
+Ostdeutschland (incl. Ost-Berlin). In der ersten Auswahlstufe wurden Gemeinden in
+Westdeutschland und in Ostdeutschland mit einer Wahrscheinlichkeit
+proportional zur Zahl ihrer erwachsenen Einwohner ausgewählt, in der
+zweiten Auswahlstufe wurden Personen aus den Einwohnermeldekarteien
+zufällig gezogen.
+Zielpersonen mit nicht hinreichend guten Deutschkenntnissen zählen zu
+den systematischen Ausfällen.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Stratified: Disproportional; Probability: Multistage</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2006-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2006-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Hans-Jürgen</firstName>
+				<middleName/>
+				<lastName>Andreß</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Diekmann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ETH Zürich</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hubert</firstName>
+				<middleName/>
+				<lastName>Feger</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Freie Universität Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Johannes</firstName>
+				<middleName/>
+				<lastName>Huinink</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heiner</firstName>
+				<middleName/>
+				<lastName>Meulemann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Rüdiger</firstName>
+				<middleName/>
+				<lastName>Schmitt-Beck</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Duisburg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heike</firstName>
+				<middleName/>
+				<lastName>Solga</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Göttingen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.ComputerAssisted</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Frageprogramm (CAPI -
+Computer Assisted Personal Interviewing; 4 Fragen in einem Split im
+CASI-Verfahren erhoben (Computer Assisted Self-Interviewing)).    
+Zwei CASI-Zusatzbefragungen im Rahmen des ISSP (Splitverfahren) </freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>3421</numberUnits>
+			<numberVariables>744</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael:
+Generelle Hinweise zur Auswertung der ALLBUS-Daten: 
+Stichprobentypen und Gewichtungen, 
+In: Terwey, Michael; Baltzer, Stefan (Hrsg.): Variable Report ALLBUS/Allgemeine Bevölkerungsumfrage der Sozialwissenschaften Kumulation 1980-2010: ZA-Nr. 4574. 
+GESIS - Variable Reports, No. 2012/51, 
+Köln: GESIS 2012, X-XVI</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

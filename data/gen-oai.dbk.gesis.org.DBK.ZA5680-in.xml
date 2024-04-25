@@ -1,0 +1,365 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Representative survey of selected groups of migrants in Germany 2006/2007'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Repräsentativbefragung Ausgewählte Migrantengruppen in Deutschland (RAM 2006/2007)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA5680</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Repräsentativbefragung Ausgewählte Migrantengruppen in Deutschland (RAM 2006/2007)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Representative survey of selected groups of migrants in Germany 2006/2007</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Christian</firstName>
+				<middleName/>
+				<lastName>Babka von Gostomski</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Migration und Flüchtlinge, Nürnberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Sonja</firstName>
+				<middleName/>
+				<lastName>Haug</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Migration und Flüchtlinge, Nürnberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5680?doi=10.4232/1.11517</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11517</doiProposal>
+	<publicationDate>
+		<date>2013-02-06</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5680</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>1</identifier>
+			<type>VerbundFDB</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Berufsausbildung</term>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Inanspruchnahme sozialer Dienstleistungen</term>
+					<term>Familie und Ehe</term>
+					<term>Sprache und Sprachwissenschaft</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Social conditions and indicators</term>
+					<term>Vocational education and training</term>
+					<term>Employment</term>
+					<term>Specific social services: use and availability</term>
+					<term>Family life and marriage</term>
+					<term>Language and linguistics</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>Migrationshintergrund</keyword>
+				<keyword>nationale Identität</keyword>
+				<keyword>ethnische Herkunft</keyword>
+				<keyword>Schulbildung</keyword>
+				<keyword>Ausbildung</keyword>
+				<keyword>Berufstätigkeit</keyword>
+				<keyword>Arbeitszeit</keyword>
+				<keyword>Arbeitslosigkeit</keyword>
+				<keyword>Nebenbeschäftigung</keyword>
+				<keyword>Ehepartner</keyword>
+				<keyword>Familiensituation</keyword>
+				<keyword>Wohnverhältnisse</keyword>
+				<keyword>Sprachkenntnisse</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>migration background</keyword>
+				<keyword>national identity</keyword>
+				<keyword>ethnic origin</keyword>
+				<keyword>school education</keyword>
+				<keyword>training</keyword>
+				<keyword>gainful occupation</keyword>
+				<keyword>working hours</keyword>
+				<keyword>unemployment</keyword>
+				<keyword>additional job</keyword>
+				<keyword>spouse</keyword>
+				<keyword>family situation</keyword>
+				<keyword>housing conditions</keyword>
+				<keyword>knowledge of languages</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Erfassung von integrationsrelevanten Merkmalen wie Sprache,Schulbildung, berufliche Situation, Wohn-, Haushalts- und familiäreSituation, soziale Kontakte sowohl innerhalb der eigenen Community alsauch zu Deutschen, Bindung an Deutschland und an das Herkunftsland.Wertorientierungen, Probleme in Deutschland und die Inanspruchnahme vonBeratungsangeboten in Deutschland.
+Themen: Nationalität der Zielperson am Stichprobenziehungstag;Staatsangehörigkeiten zum Befragungszeitpunkt; Grund für die deutscheStaatsangehörigkeit; Geschlecht der befragten Person; Alter(Geburtsmonat und – jahr); Geburtsland; Aufenthaltsdauer imHerkunftsland oder in einem anderen Land außerhalb Deutschlands; Jahrder erstmaligen Einwanderung nach Deutschland; Grund für dieZuwanderung nach Deutschland: Arbeitssuche bzw. Arbeitsverhältnis (z.B.Anwerbung als Gastarbeiter/in), Asylantrag bzw. Verfolgung in einemanderen Land, Flüchtling, Familienzusammenführung als Ehepartner/in,Kind oder anderer Familienangehöriger, Studium, Ausbildung,Akademikeraustausch, Selbstständige Tätigkeit); Stärke derVerbundenheit mit dem Herkunftsland und mit Deutschland; Häufigkeit derAbwesenheit von  Deutschland für länger als sechs Monate; Art desAufenthaltstitels; Gültigkeitsdauer des derzeitigen Aufenthaltstitels;Niederlassungserlaubnis beantragt; Gründe gegen die Beantragung einerNiederlassungserlaubnis; Probleme und Erfahrungen im Zusammenhang mitdem Aufenthaltsgesetz; Aufenthaltsland und Geburtsland der Mutter;Staatsangehörigkeit(en) der Mutter; höchster allgemein bildenderSchulabschluss der Mutter im Ausland sowie in Deutschland;Aufenthaltsland und Geburtsland des Vaters; Staatsangehörigkeit(en) desVaters; höchster allgemein bildender Schulabschluss des Vaters imAusland sowie in Deutschland; Befragte(r): Besuch einesdeutschsprachigen Kindergartens bzw. einer Vorschule in Deutschland vorSchuleintritt für mindestens ein Jahr; höchster erreichter allgemeinbildender Schulabschluss in Deutschland; höchster angestrebterallgemein bildender Schulabschluss; Jahre des Schulbesuchs insgesamt;Jahre des Schulbesuchs in Deutschland; besuchter schulischer Unterrichtin der Muttersprache in Deutschland; Jahre des Schulbesuchs undhöchster erreichter Schulabschluss im Herkunftsland oder einem anderenLand; Anerkennung des höchsten erreichten Schulabschlusses aus demHerkunftsland oder aus einem anderen Land in Deutschland;Berufsausbildung(en); derzeit angestrebter deutscher beruflicherAusbildungsabschluss; in Deutschland begonnene, aber nicht beendeteAusbildung; Ort der Ausbildung; Gründe für Ausbildungsabbruch; Brancheder letzten Ausbildung in Deutschland; begonnene oder abgeschlosseneBerufsausbildung im Herkunftsland; Anerkennung des im Herkunftslanderworbenen Berufsabschlusses in Deutschland; begonnenes oderabgeschlossenes Studium im Herkunftsland; Anerkennung des imHerkunftsland erworbenen Studienabschlusses in Deutschland; Arbeit imerlernten Beruf bereits im Herkunftsland; Gründe für fehlendenanerkannten Berufsabschluss; Besuch in Deutschland von Maßnahmen zurberuflichen Qualifizierung (auch Einstiegsqualifizierung); derzeitigeHaupttätigkeit: Erwerbstätigkeit oder anderes; berufliche Stellung derderzeitigen hauptberuflichen Tätigkeit; genaue Tätigkeitsbezeichnungbzw. Ausbildungsberufsbezeichnung; Entsprechung der Tätigkeit zumerlernten Beruf; Wirtschaftszweig, Dienstleistungsbereich desUnternehmens bzw. der Einrichtung, in der die Erwerbstätigkeit ausgeübtwird; Anzahl der Beschäftigten im Gesamtunternehmen, in dem dieErwerbstätigkeit ausgeübt wird (Betriebsgröße); Monat und Jahr desBeginns der Beschäftigung beim jetzigen Arbeitgeber bzw. des Beginnsder Selbstständigkeit; unbefristeter Arbeitsvertrag oder befristetesArbeitsverhältnis; Zeitarbeits- bzw. Leiharbeitsverhältnis;Saisonarbeit, Werkvertrag oder Gastarbeitnehmerverhältnis; ABM-Stelleoder Gemeinnützige Arbeit (1-Euro-Job); Arbeitsplatz am Wohnort;Häufigkeit des Pendelns zwischen Hauptwohnung und Arbeitsplatz; Anzahlder Wochenstunden der vereinbarten Arbeitszeit (ohne Überstunden);Anzahl der tatsächlich erbrachten Wochenarbeitsstunden; Anzahl derArbeitstage pro Woche; Beschäftigung nach der 400- bzw.800-Euro-Regelung (Mini- bzw. Midi-Job); Teilzeitbeschäftigung nach demneuen Gesetz zur Elternteilzeit (Bundeserziehungsgeldgesetz);Wahrnehmung einer der gesetzlichen Regelungen zur Altersteilzeit;Überstunden im letzten Monat; Überstunden wurden bezahlt; Überstundenwerden auf ein Arbeitszeitkonto gut geschrieben bzw. ausgeglichen;Anzahl der ausbezahlten Überstunden; Bruttoarbeitsverdienst undNettoarbeitsverdienst im letzten Monat; Jahr der erstenhauptberuflichen Erwerbstätigkeit in Deutschland; Jahr der letztenErwerbstätigkeit; Art der letzten Tätigkeit; Häufigkeit vonArbeitslosigkeit in Deutschland; Anzahl der Monate der längstenArbeitslosigkeit mit mehr als zwölf Monaten; Teilnahme an einerLeistung zur Eingliederung in den Arbeitsmarkt (z.B.Arbeitsbeschaffungsmaßnahme); derzeitige Arbeitsuche; Dauer derArbeitssuche in Monaten und in Jahren; Überlegung, ins Herkunftslandoder in ein anderes Land zugehen, weil keine Arbeit in Deutschlandgefunden werden kann; Dauer des letzten Arbeitsverhältnisses vor derArbeitslosigkeit in Jahren und in Monaten; Vorhaben, innerhalb dernächsten drei Jahre (wieder) erwerbstätig zu werden; bevorzugte Stelle;Suche nach einem Arbeitsplatz innerhalb der letzten zwölf Monate;Arbeitsplatz gefunden; Art der erfolgreichen Arbeitsplatzsuche;Ausübung von Nebentätigkeiten neben Beruf, Haushalt, Ausbildung oderals Rentner; Anzahl der Tage im Monat, der Stunden am Tage sowie derMonate im Jahr, an denen Nebentätigkeit ausgeübt wird; Höhe desNebenverdiensts im letzten Monat; Einkunftsquellen: Erwerbseinkommen,eigene Rente, Pension, Witwenrente bzw. Witwenpension, Waisenrente,Arbeitslosengeld, Arbeitslosengeld II, Unterhaltsgeld bei Fortbildungoder Umschulung, Übergangsgeld, Vorruhestandszahlungen des (ehemaligen)Arbeitgebers, Mutterschaftsgeld während des Mutterschutzes,Erziehungsgeld, BAföG, Stipendium, Berufsausbildungsbeihilfe, Wehrsold,Zivildienstvergütung, gesetzliche Unterhaltszahlungen vom früheren(Ehe-) Partner (auch Unterhaltsvorschusskassen), sonstige Unterstützungvon Personen, die nicht im Haushalt leben, Sozialhilfe, Kindergeld,Wohngeld; Haushaltsnettoeinkommen im letzten Monat; Überweisung vonGeld ins Herkunftsland; beabsichtigte Selbstständigkeit in Deutschlandin den nächsten 12 Monaten; präferierter Wirtschaftsbereich fürSelbstständigkeit; Pflegen von Geschäftsbeziehungen mit demHerkunftsland, aus denen regelmäßig Einkünfte entstehen; Bereich, indem Geschäftsbeziehungen bestehen; Familienstand; Zusammenleben mitfestem Partner; Heiratsjahr der jetzigen Ehe; Alter (Geburtsmonat undGeburtsjahr) des (Ehe-)Partners; (Ehe-)Partner lebt in Deutschland;Zusammenleben mit dem (Ehe-)Partner; Geburtsland des (Ehe-)Partners;Jahr des Zuzugs des (Ehe-)Partners nach Deutschland; nach derEheschließung zum (Ehe-)Partner nach Deutschland gezogen; Absicht, den(Ehe-)Partner nach Deutschland zu holen; Gründe, warum (Ehe-)Partnerbisher noch nicht zu Befragtem nach Deutschland nachgezogen ist;Berufstätigkeit des (Ehe-)Partners; höchster in Deutschland erreichterallgemein bildender Schulabschluss des (Ehe-)Partners; im Herkunftslanderworbener Schulabschluss des (Ehe-)Partners; Staatsangehörigkeit(en)des (Ehe-)Partners; Art des Erwerbs der deutschen Staatsangehörigkeit;Staatsangehörigkeit(en) des (Ehe-)Partners vor der Einbürgerung;Kinder; Anzahl der Kinder inklusive erwachsener Kinder; Geburtsjahr undGeschlecht dieser Kinder; Aufenthaltsland der Kinder;Staatsangehörigkeit(en) der Kinder; Anzahl der Kinder unter 18 Jahren,die nach Deutschland geholt werden sollen; Einverständnis, wenn Sohnoder Tochter einen deutschstämmigen Partner heiraten würde;Einverständnis, wenn Kind die deutsche Staatsangehörigkeit annehmenwürde; Heiratspläne; Heiratsvoraussetzungen; Absicht, den zukünftigenEhepartner aus dem Ausland nach Deutschland zu holen; Bereitschaft zurHeirat eines deutschstämmigen Partners; Wohnsituation in Deutschland;Wohnen in einer Sozialwohnung; Anzahl der Personen im Haushalt(Haushaltsgröße); Haushaltszusammensetzung; Zimmerzahl; Wohnungsgrößein Quadratmetern; Wohnungsausstattung: Küche, Bad oder Dusche, WCinnerhalb der Wohnung, Zentralheizung oder Etagenheizung, Balkon oderTerrasse, eigener Garten oder Gartenmitbenutzung; Wohnen in einemWohnviertel, in dem überwiegend Ausländer leben; Präferenz für einWohnviertel mit überwiegend Ausländern oder mit überwiegend Deutschen;Kontakthäufigkeit zu Personen deutscher Herkunft sowie zu Personen dereigenen Herkunft (im Freundeskreis, in der Familie bzw. Verwandtschaft,am Arbeitsplatz bzw. in der Schule oder Universität) sowie in derNachbarschaft); Mitgliedschaften in Organisationen aus demHerkunftsland und aus Deutschland: Gewerkschaft, Berufsverband,Sportverein, Kulturverein (Musik, Tanz), Bildungsverein, Freizeitverein(Jugend, Senioren), Frauenverband, religiöser Organisation, politischerVereinigung, Wohlfahrtsverbände (AWO, Caritas, Diakonie etc.),politischer Partei, sonstigen Vereinen, Verbänden oder Organisationen;Selbsteinstufung der Religiosität; Zugehörigkeit zu einer Glaubens-bzw. Religionsgemeinschaft; Kirchgangshäufigkeit; Selbsteinschätzungder Sprachkenntnisse in der Muttersprache sowie der deutschenSprachkenntnisse hinsichtlich Verstehen, Sprechen, Lesen, Schreiben;Art des Erwerbs der deutschen Sprachkenntnisse: in der Familie,Aufwachsen und Schulbesuch in Deutschland, Besuch eines Pflichtkursesin Deutsch, Besuch einer Sprachschule oder eines Kurses imHerkunftsland, Sprachkurs in Verbindung mit der Ausbildung bzw. demStudium, unabhängig von einer Ausbildung in Deutschland eineSprachschule oder einen Kurs besucht, im Alltag (durch deutscheFreunde, Bekannte) ohne Schule oder Sprachkurs, am Arbeitsplatz,Selbststudium, freiwilliger Besuch von Abendkursen (z.B.Volkshochschule), Integrationskurs des Bundesamtes für Migration undFlüchtlinge (BAMF); Gründe, warum kein Deutschkurs besucht wurde;Selbsteinschätzung der Deutschkenntnisse hinsichtlich: keine Problemebeim Einkaufen in deutschen Geschäften, Anforderungen am Arbeitsplatzgerecht werden, auch in der Freizeit mit Deutschen unterhalten können,Deutsches Fernsehen bzw. Radiosendungen problemlos folgen können,Angelegenheiten des täglichen Lebens selbstständig mit Behördenerledigen können, keine Probleme beim Arztbesuch; hauptsächlichgesprochene Sprachen zu Hause bzw. in der Familie; Personen, mit denenhauptsächlich in der Muttersprache bzw. Deutsch gesprochen wird;gesprochene Sprache mit den Kindern; Sprache für die Rezeption vonZeitungen, Zeitschriften und Fernsehsendungen; Selbsteinschätzung derenglischen Sprachkennnisse; Absicht, Deutschland zu verlassen;voraussichtliche Bleibedauer in Deutschland; Auswanderungsgründe;Voraussetzungen für einen Umzug in das Herkunftsland; wichtigste Gründefür Bleibeabsicht in Deutschland; Absicht, deutsche Staatsangehörigkeitanzunehmen; Gründe für und gegen die deutsche Staatsangehörigkeit;Ansprechpartner bei Problemen in Deutschland; präferierte Beratung aufDeutsch oder in der Muttersprache; Gründe für die Nutzung einesmuttersprachlichen Beratungsangebots; Kenntnis des Bürgerservices desBundesamtes für Migration und Flüchtlinge, der Beratungsangebote derMigrationserstberatung (MEB) für erwachsene Neuzuwanderer, derBeratungsangebote der Jugendmigrationsdienste (JMD) für Jugendliche undjunge erwachsene Zuwanderer; Wünsche im Hinblick auf das bestehendeBeratungsangebot; Wertorientierungen (Skala); Einstellung zurEltern-Kind-Beziehung (Skala: bei der Partnerwahl sollten die Elterneinen wichtigen Einfluss haben, alte Eltern sollten bei ihrenerwachsenen Kindern leben, Kinder sollten bis zur Heirat im Elternhausleben, Kinder sollten so früh wie möglich auf eigenen Füßen stehen, diewichtigen Entscheidungen sollten allein vom Vater gefällt werden).
+Interviewerrating: Einschätzung der deutschen Sprachkenntnisse desBefragten; Nutzung der Übersetzungshilfe; Übersetzer zur Hilfe geholt.
+Zusätzlich verkodet wurde: Interviewdatum; Interviewdauer;Intervieweralter (Geburtsjahr); Interviewergeschlecht; Bundesland; BIK:Gemeindegrößenklassen; Nettoarbeitsverdienst (kategorisiert;Haushaltseinkommen (kategorisiert); Gewichtungsfaktor: Alter *Geschlecht * Bundesland * AZR-Nationalitäten; Gewichtungsfaktor: Alter* Geschlecht * Bundesland; Fall enthält Daten aus der Nacherhebung;alle Variablen kodiert mit Missing Values. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Ausländer aus dem Ausländerzentralregister mit folgenden Auswahlkriterien, bezogen auf den Stichtag 30.06.2006: 
+- türkische, griechische, italienische oder polnische Staatsangehörigkeit oder eine Staatsangehörigkeit eines Nachfolgestaates des ehemaligen Jugoslawien (Bosnien-Herzegowina, Kroatien, Slowenien, Serbien und Montenegro, Jugoslawien oder Mazedonien),
+- Vollendung des 14. Lebensjahrs und jünger als 80 Jahre,
+- Mindestaufenthaltsdauer von zwölf Monaten in Deutschland und
+- gesicherter Aufenthaltsstatus.
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Geschichtete Zufallsauswahl; Auswahlverfahren Kommentar: Geschichtete Zufallsstichprobe</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Stratified</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-12-13</date>
+				</startDate>
+				<endDate>
+					<date>2007-04-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest Sozialforschung, München</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>Distributor</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>HostingInstitution</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen (CAPI)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>4576</numberUnits>
+			<numberVariables>927</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Erhebungseinheit: Jugendliche; Erwachsene###
+
+Die Zufallsstichprobe erfolgte in zwei Schritten:
+erster Schritt: 183 Ausländerbehörden mit insgesamt 31.416 Ausländern der im Fokus stehenden Staatsangehörigkeiten, 
+zweiter Schritt: Befragung von 4.576 Personen, darunter 1.544 türkischen Befragte, 972 Befragte aus dem ehemaligen Jugoslawien, 746 italienische, 677 griechische und 637 polnische Befragte. 
+
+Alle Variablen, bei denen „weiß nicht“ und/oder „keine Angabe“ möglich waren, wurden noch mal als m-Variablen dem Datensatz zugespielt. Bei den F-Variablen sind „weiß nicht“ und/oder „keine Angabe“ als gültige Werte definiert. </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Survey unit: teenagers; adults###</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Babka von Gostomski, Christian: 
+Basisbericht: Berichtsband. Repräsentativbefragung "Ausgewählte Migrantengruppen in Deutschland 2006/2007" (RAM). Zur Situation der fünf größten in Deutschland lebenden Ausländergruppen. Vertiefende Ergebnisse zum Forschungsbericht 8. 
+Nürnberg: Bundesamt für Migration und Flüchtlinge 2010 
+(Download: http://www.bamf.de/SharedDocs/Anlagen/DE/Downloads/Infothek/Sonstige/forschungsbericht-008-basisbericht-berichtsband.pdf?__blob=publicationFile</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Babka von Gostomski, Christian: 
+Basisbericht: Tabellenband. Repräsentativbefragung "Ausgewählte Migrantengruppen in Deutschland 2006/2007" (RAM). Zur Situation der fünf größten in Deutschland lebenden Ausländergruppen. 
+Nürnberg: Bundesamt für Migration und Flüchtlinge 2010
+(Download: http://www.bamf.de/SharedDocs/Anlagen/DE/Downloads/Infothek/Sonstige/forschungsbericht-008-basisbericht-tabellenband.pdf?__blob=publicationFile).</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Babka von Gostomski, Christian: 
+Fortschritte der Integration. Zur Situation der fünf größten in Deutschland lebenden Ausländergruppen. Im Auftrag des Bundesministeriums des Innern. Forschungsbericht 8. 
+Nürnberg: Bundesamt für Migration und Flüchtlinge 2010
+(Download: http://www.bamf.de/SharedDocs/Anlagen/DE/Publikationen/Forschungsberichte/fb08-fortschritte-der-integration.pdf?__blob=publicationFile).</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Babka von Gostomski, Christian; Pupeter, Monika: 
+Zufallsbefragung von Ausländern auf Basis des Ausländerzentralregisters. Erfahrungen bei der Repräsentativbefragung "Ausgewählte Migrantengruppen in Deutschland 2006/2007" (RAM). 
+MDA (Methoden - Daten - Analysen. Zeitschrift für empirische Sozialforschung) 2 (Heft 2): 2008, S. 149-177 
+(Download: http://www.gesis.org/fileadmin/upload/forschung/publikationen/zeitschriften/mda/Vol.2_Heft_2/05_Babka.pdf).</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Babka von Gostomski, Christian; Stichs, Anja: 
+Der Einfluss von Gelegenheitsstrukturen auf die Häufigkeit des Kontaktes von Zuwanderern mit Deutschen. 
+In: Hillmann, Felicitas; Windzio, Michael (Hrsg.): Migration und städtischer Raum. Chancen und Risiken der Segregation und Integration. 
+Opladen: Budrich UniPress 2008, S. 279-296</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Haug, Sonja: 
+Sprachliche Integration von Migranten in Deutschland. Working Paper 14. Aus der Reihe "Integrationsreport", Teil 2. 
+Nürnberg: Bundesamt für Migration und Flüchtlinge 2008
+(Download: http://www.bamf.de/SharedDocs/Anlagen/DE/Publikationen/WorkingPapers/wp14-sprachliche-integration.pdf?__blob=publicationFile</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Haug, Sonja: 
+Interethnische Kontakte, Freundschaften, Partnerschaften und Ehen von Migranten in Deutschland. Working Paper 33. Aus der Reihe "Integrationsreport", Teil 7. 
+Nürnberg: Bundesamt für Migration und Flüchtlinge 2010
+(Download: http://www.bamf.de/SharedDocs/Anlagen/DE/Publikationen/WorkingPapers/wp33-interethnische-kontakte.pdf?__blob=publicationFile).</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stichs, Anja: 
+Arbeitsmarktintegration von Frauen ausländischer Nationalität in Deutschland. Eine vergleichende Analyse über türkische, italienische, griechische und polnische Frauen sowie Frauen aus den Nachfolgestaaten des ehemaligen Jugoslawiens. Working Paper 20. 
+Nürnberg: Bundesamt für Migration und Flüchtlinge 2008
+(Download: http://www.bamf.de/SharedDocs/Anlagen/DE/Publikationen/WorkingPapers/wp20-erfolgsbiographien.pdf?__blob=publicationFile).</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Worbs, Susanne: 
+Die Einbürgerung von Ausländern in Deutschland. Working Paper 17. Aus der Reihe "Integrationsreport", Teil 3. 
+Nürnberg: Bundesamt für Migration und Flüchtlinge 2008
+(Download: http://www.bamf.de/SharedDocs/Anlagen/DE/Publikationen/WorkingPapers/wp17-einbuergerung.pdf?__blob=publicationFile).</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Worbs, Susanne: 
+Mediennutzung von Migranten in Deutschland. Working Paper 34. Aus der Reihe "Integrationsreport", Teil 8. 
+Nürnberg: Bundesamt für Migration und Flüchtlinge 2010
+(Download: http://www.bamf.de/SharedDocs/Anlagen/DE/Publikationen/WorkingPapers/wp34-mediennutzung-von-migranten.pdf?__blob=publicationFile).</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

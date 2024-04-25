@@ -1,0 +1,231 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Autumn Study 1989 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Herbststudie 1989
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA1956</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Herbststudie 1989
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Autumn Study 1989 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Sozialwissenschaftliches Forschungsinstitut der Konrad-Adenauer-Stiftung, St. Augustin
+</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1956?doi=10.4232/1.1956</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1956</doiProposal>
+	<publicationDate>
+		<year>1991</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1956</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellungen zu aktuellen politischen Themen.
+Themen:  Zukunftsangst; Beurteilung der eigenen finanziellen Lage;Politikinteresse; Gefühl, politisch Einfluß nehmen zu können; wichtigstepolitische Probleme in der Bundesrepublik und Issue-Kompetenz derParteien; Demokratiezufriedenheit und wichtigste Gründe fürUnzufriedenheit; Parteineigung; Parteiidentifikation; grundsätzlicheoder situationsbezogene Parteineigung; Assoziationen zum Begriff Staat;der Staat als Hüter der Ordnung, der Wirtschaft, des sozialen Schutzesoder als Beseitiger sozialer Ungleichheiten; gerechteGesellschaftsordnung in der Bundesrepublik; Selbsteinstufung alsAngehöriger einer bevorzugten oder benachteiligten Bevölkerungsgruppeund erwartete zukünftige Entwicklung; eigene Wechselwählerschaft;Wahlverhalten bei der letzten Bundestagswahl; Zufriedenheit mit dergewählten Partei; Parteipräferenz (Stimmzettelverfahren); Wählbarkeitder Republikaner und Einstellung zu einem Einzug dieser Partei in denBundestag; wichtigste Wahlgründe für die Republikaner; wichtigste Sorgenund Probleme; Partizipation an herkömmlichen sowie unkonventionellenFormen politischer Aktivitäten; Vertrauen in politische Institutionen,Behörden und die Medien; Gefühl des Versagens der Politik in wichtigenFragen; Beurteilung der Arbeitsweise von Parteien und Politikern(Skala); Parteienverdrossenheit; Präferenz für Demokratie oder Diktatur;präferierte Rolle der Bundesrepublik als Partnerin der USA oder alsunabhängige Nation; Friedenssicherung durch die Nato;Sympathie-Skalometer für die großen Parteien; Nationalstolz;Einschätzung der Beliebtheit der Deutschen im Ausland; Einstellung zueiner Wiedervereinigung; Postmaterialismus; Selbsteinstufung auf einemLinks-Rechts-Kontinuum; Werteskala (Skala persönlicher,gesellschaftlicher und politischer Werte); Einstellung zumNationalsozialismus; Bewertung des Ausländeranteils in derBundesrepublik; Bezeichnung der Ausländer in Deutschland als Gäste,Mitbürger oder Fremde; Einstellung zur Aufnahme von Übersiedlern,Aussiedlern, Gastarbeitern und Asylsuchenden sowie empfundene Belastungder BRD durch diese Gruppen; rechtsextremistisches Potential (Skala).
+Demographie: Geburtsdatum; Geschlecht; Familienstand; Konfession;Verbundenheit mit der Kirche; Kirchgangshäufigkeit; Schulbildung;Berufstätigkeit; berufliche Position; Beschäftigung im öffentlichenDienst; Furcht vor Kurzarbeit oder Arbeitslosigkeit; Haushaltseinkommen;Einkommensquellen; Telefonbesitz; Beurteilung der eigenenSchichtzugehörigkeit; Haushaltsgröße; Befragter ist Haushaltsvorstand;Charakteristika des Haushaltsvorstands; wahlberechtigte Personen imHaushalt; Mitgliedschaften und übernommene Funktionen;Parteimitgliedschaft; Gewerkschaftsmitgliedschaft; Verbundenheit mit derGewerkschaft; Aussiedler- oder Flüchtlingsstatus; Jahr der Übersiedlungin die Bundesrepublik.
+Zusätzlich verkodet wurde: Interviewdauer und Interviewdatum;Ortsgröße.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Attitudes to current political topics. 
+Topics: fear of the future; judgement on one´s own financialsituation; interest in politics; the feeling of having politicalinfluence; most important political problems in the Federal Republicand issue competence of the parties; satisfaction with democracy andmost important reasons for dissatisfaction; party inclination; partyidentification; party inclination in principle or relative to thesituation; associations with the term state; the state as protector oforder, of the economy, of social protection or as eliminator of socialinequalities; just social system in the Federal Republic;self-classification as member of a privileged or disadvantagedpopulation group and expected future development; personal change ofparty voted for; behavior at the polls in the last Federal Parliamentelection; satisfaction with the elected party; party preference (ballotprocedure); eligibility of the Republicans and attitude to this party´staking seats in the Federal Parliament; most important reasons to votefor the Republicans; most important concerns and problems;participation in conventional as well as unconventional forms ofpolitical activities; trust in political institutions, authorities andthe media; the feeling that politics has failed in important matters;judgement on the way the parties and politicians work (scale); partydissatisfaction; preference for democracy or dictatorship; preferredrole of the Federal Republic as partner of the USA or as independentnation; securing of peace through the NATO; sympathy scale for themajor parties; national pride; assessment of the popularity of theGermans abroad; attitude to reunification; postmaterialism;self-classification on a left-right continuum; value scale (scale ofpersonal, social and political values); attitude to National Socialism;evaluation of proportion of foreigners in the Federal Republic;designation of the foreigners in Germany as guests, fellow-citizens orstrangers; attitude to acceptance of emigrants, ethnic Germans fromEastern Europe, guest workers and persons seeking asylum as well asperceived burden on the FRG from these groups; potential for right-wingextremism (scale); religiousness; ties to church; employment in thecivil service; fear of short time work or unemployment; unionmembership and solidarity with the trade union; ethnic German fromEastern Europe or refugee status; year of moving to the FederalRepublic; possession of a telephone; number of eligible voters in thehousehold. 
+Also encoded was: length of interview and date of interview; citysize. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 18 Jahre und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons 18 years old and older</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Wahrscheinlichkeitsauswahl: Geschichtete Zufallsauswahl; Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswah (ADM-Mastersample)
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Probability: Stratified; Sampling Procedure Comment: Multi-stage stratified random sample (ADM mastersample) </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1989-10-18</date>
+				</startDate>
+				<endDate>
+					<date>1989-11-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Basis-Research, Frankfurt 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>4981</numberUnits>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Weitere Herbststudien sind unter den ZA-Studien-Nrn. 1452,
+1454, 1456, 1505, 1508, 1808, 1809, 1811 und 1954 archiviert. Die
+Frühjahrsstudien sind unter den ZA-Studien-Nrn. 1450, 1453,
+1455, 1501 bis 1504, 1506, 1507, 1807, 1810, 1953 und 1955
+archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Further Autumn Studies are archived under ZA Study Nos. 1452, 1454,
+1456, 1505, 1508, 1808, 1809, 1811 and 1954. The Spring Studies are
+archived under ZA Study Nos. 1450, 1453, 1455, 1501 to 1504, 1506,
+1507, 1807, 1810, 1953 and 1955. </text>
+		</note>
+	</notes>
+</resource>

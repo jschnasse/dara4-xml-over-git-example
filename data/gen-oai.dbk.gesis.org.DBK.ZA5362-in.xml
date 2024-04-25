@@ -1,0 +1,269 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Transatlantic Trends Immigration Survey 2011'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Transatlantic Trends Immigration Survey 2011'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5362</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Transatlantic Trends Immigration Survey 2011</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Transatlantic Trends Immigration Survey 2011</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>German Marshall Fund of the United States (GMF),
+Washington, USA</institutionName>
+			</institution>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Pierangelo</firstName>
+				<middleName/>
+				<lastName>Isernia</lastName>
+				<affiliation>
+					<affiliationName>University of Siena, Italy</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5362?doi=10.4232/1.11522</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11522</doiProposal>
+	<publicationDate>
+		<date>2013-02-08</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5362</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Economic conditions and indicators</term>
+					<term>Government, political systems and organisations</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Wahrnehmung von Einwanderern. Zulassung von Einwanderern.Voraussetzungen zur Einbürgerung. Maßnahmen zur Reduzierung derillegalen bzw. legalen Einwanderung. Einwanderung als Bereicherung derGesellschaft. Einfluss auf die Gesellschaft. Beurteilung derRegierungsarbeit im Umgang mit Einwanderung. Arabischer Frühling.Entscheidungsebene für Einwanderungspolitik. Einwanderung als Problemoder Chance. Integration von Einwanderern. Personenvertrauen.Wirtschaftliche Lage. Parteipräferenz. 
+Themen: 1. Wahrnehmung von legalen/illegalen Einwanderern: WichtigsteProbleme im Land (Wirtschaft, Kriminalität, Gesundheitswesen,Einwanderung, Bildung, Umwelt, Terrorismus, Arbeitslosigkeit) (Split:Rotation der Fragenreihenfolge); Beurteilung des Anteils vonEinwanderern, die nicht im Land geboren sind (Split in denAntwortvorgaben); vermuteter legaler oder illegaler Einwandererstatusder meisten im eigenen Land lebenden Einwanderer; Beunruhigung überlegale bzw. illegale Einwanderung (Split: Rotation derFragenreihenfolge). 
+2. Zulassung von Einwanderern: Einstellung zur Zulassung vonEinwanderern mit hohem bzw. mit niedrigem Bildungsniveau (Rotation derFragenreihenfolge); Präferenz für Einwanderer mit hohem Bildungsniveauaber ohne Jobangebot oder für solche mit Jobangebot aber geringemBildungsniveau bei der Aufnahme in das eigene Land; Wichtigkeitausgewählter Voraussetzungen für die Zulassung von Einwanderern mithohem Bildungsgrad sowie für solche mit niedrigem Bildungsgrad(ähnlicher kultureller Hintergrund, im Land benötigte Fähigkeiten,Unabhängigkeit von Sozialleistungen (Split: Rotation derFragenreihenfolge); Einstellung zu einer Einwanderungserlaubnis fürEinwanderer mit hohem Bildungsgrad und guter Eignung für gut bezahlteJobs bzw. mit niedrigem Bildungsgrad und mangelnder Eignung für gutbezahlte Jobs sowie für solche, die die Landessprache fließend sprechenmit guten Chancen auf nahtlose Anpassung an die Landeskultur bzw.solche, die die Landessprache nicht beherrschen mit schlechten Chancenauf Anpassung an die Landeskultur (Split).
+3. Voraussetzungen zur Einbürgerung: Wichtigste Voraussetzungen fürdie Einbürgerung: Sprachkenntnisse, Anerkennung von nationalenpolitischen Institution und Gesetzen, überwiegende Lebenszeit im Landverbracht, Teilen der nationalen kulturellen Werte (Split: Rotation derFragenreihenfolge).  
+4. Maßnahmen zur Reduzierung der illegalen bzw. legalen Einwanderung:Präferierter Umgang mit legalen Einwanderern: befristeteArbeitserlaubnis oder permanentes Bleiberecht; präferierter Umgang mitillegalen Einwanderern: Abschiebung in deren Heimatland oderMöglichkeit des Erwerbs eines legalen Status; nur in den USA wurdegefragt: automatische amerikanische Staatsbürgerschaft für alle in denUSA geborenen Kinder oder keine automatische Staatsbürgerschaft für inden USA geborene Kinder von illegalen Einwanderern; Einstellung zueinem Gesetz zum Erwerb eines legalen Aufenthaltsstatus für imKindesalter illegal Eingewanderte bei Militäreintritt oderCollegebesuch; wieder alle: effektivste politische Maßnahmen zurReduzierung illegaler Einwanderung (verstärkte Entwicklungshilfe fürdie Herkunftsländer illegaler Einwanderer, Verstärkung derGrenzkontrollen, Einführung härterer Strafen für Arbeitgeber, dieillegale Einwanderer beschäftigen, Vereinfachung der legalenEinwanderung für Arbeit und Studium) (Split: Rotation derFragenreihenfolge). 
+5. Einwanderung als Bereicherung der Gesellschaft, Wohlfühlen mitEinwanderern: Einwanderung als Bereicherung der Kultur des eigenenLandes durch neue Ideen und Gewohnheiten oder als negativeBeeinflussung; Einstellung zu Einwanderern in der Nachbarschaft, alsVorgesetzte und als Partner (soziale Nähe, Rotation derFragenreihenfolge). 
+6. Einfluss von Einwanderung auf die Gesellschaft: Einstellung zuEinwanderern (Skala: nehmen Einheimischen die Arbeitsplätze weg,beheben Arbeitskräftemangel, Schaffung neuer Arbeitsplätze durchFirmengründungen, senken die Löhne der nationalen Bürger, Belastung dersozialen Dienstleistungen (Split: Rotation der Fragenreihenfolge. 
+7. Beurteilung der Regierung: Beurteilung der Regierungsarbeit imUmgang mit Einwanderung; Beurteilung der Integrationsbemühungen dernationalen Regierung.
+8. Zulassung von Einwanderern: Einstellung zu ausgewählten Gründen füreine Einwanderungserlaubnis (Vermeidung von Armut, politische,ethnische oder religiöse Verfolgung, Flucht aus bewaffneten Konfliktenund vor Naturkatastrophen) (Rotation der Fragenreihenfolge).
+9. Arabischer Frühling: (Nur in Europa wurde gefragt) Im Hinblick aufdie Demokratiebemühungen in den Ländern Nordafrikas und des MittlerenOstens: Einstellung zu nationaler Entwicklungshilfe für diese Länder,Öffnung des wirtschaftlichen Marktes für Handelsbeziehungen, Öffnungdes nationalen Arbeitsmarktes (Rotation der Fragenreihenfolge);Verantwortlichkeit für ankommende Migranten bei allen Ländern in derEuropäischen Union oder bei dem Land, in dem sie zuerst ankommen;Einstellung zu einer dauerhaften (Split: zeitlich begrenzten)Aufenthaltsgenehmigung für Einwanderer aus Nordafrika.
+10. Entscheidungsebene für Einwanderungsangelegenheiten: PräferierteEntscheidungsebene bei der Durchsetzung von Einwanderungsgesetzen:staatliche bzw. kommunale Behörden (USA); präferierteEntscheidungsebene für eine jährliche Einwandererquote im Land:nationale Regierung oder die Europäische Union. 
+11. Einwanderung als Problem oder Chance. Einwandererzahl:Einwanderung als Problem oder als Chance für das eigene Land;geschätzter allgemeiner Anteil (Split: kategorisiert) an Einwanderernim Land gemessen an der Gesamtbevölkerung; Beurteilung destatsächlichen Prozentanteils von Einwanderern im Land; geschätzterAnteil (Prozentsatz versus kategorisiert) an Einwanderern in dereigenen Wohngemeinde.
+12. Einwanderung und Integration: Beurteilung der Integration vonmuslimischen Einwanderern (Split: Einwanderern allgemein, USAzusätzlich: Hispanics) und deren im Land geborenen Kinder.
+13. Personenvertrauen: Einstellung zu den Aussagen: kein Vertrauen zufremdartigen Menschen, Forderung nach Assimilation (Rotation derFragenreihenfolge); Freunde mit ausländischer Herkunft; allgemeinesPersonenvertrauen bzw. Vorsicht im Umgang mit anderen Menschen(Rotation der Fragenreihenfolge).
+14. Wirtschaftliche Lage: Beurteilung der allgemeinen Regierungsarbeitin den letzten sechs Monaten; Veränderung der Finanzlage des eigenenHaushalts im letzten Jahr; Einschätzung der Veränderung der nationalenWirtschaftslage im letzten Jahr.
+15. Wahlabsicht, Parteiidentifikation: Parteipräferenz bei dennächsten Wahlen; nur USA: Selbsteinschätzung als Demokrat, Republikaneroder Unabhängiger, Parteineigung zur Republikanischen Partei oder zurDemokratischen Partei; Einschätzung des Einflusses derEinwanderungspolitik der Partei des Kandidaten auf die eigeneWahlentscheidung; Selbsteinschätzung auf einem Links-Rechts-Kontinuum. 
+Demografie: Geschlecht; Alter (kategorisiert); höchster Schulabschluss(Schulbildung); Alter bei Ende der Schulbildung; Beschäftigungsstatus;berufliche Stellung; ethnische Herkunft; Geburt im Befragungsland bzw.Herkunftsland des Befragten und seiner Eltern (Migrationshintergrund);Staatsbürgerschaft des Befragungslandes; Urbanisierungsgrad; Art desTelefonanschlusses (Festnetz oder Mobiltelefon, nur Italien, Spanienund USA); Mobiltelefonbesitz; Anzahl der Mobiltelefonnummern;Festnetzanschluss im Haushalt; Anteil der insgesamt eingehenden Anrufe,der auf das Mobiltelefon entfällt; Anzahl der Personen im Haushalt ab18 Jahren und der Kinder im Haushalt bis 17 Jahre; Region. 
+Zusätzlich verkodet wurde: Land; Interviewdatum; Zeitpunkt desInterviewbeginns und des Interviewendes; Interviewdauer;Intervieweridentifikation; Interviewtyp; Interviewsprache;Gewichtungsfaktoren.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>US</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen im Alter von 18 Jahren und älter mit Zugang zu einem Festnetztelefon
+
+
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufige Zufallsstichprobe (Random Digit Dialing)
+
+Die Auswahl der Zielperson erfolgte nach der Geburtstagsmethode</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2011-08-25</date>
+				</startDate>
+				<endDate>
+					<date>2011-09-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Deutschland: TNS EMNID, Bielefeld</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Frankreich: Efficience 3, Reims</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Italien: TNS Abacus, Milan</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Spanien: TNS Demoscopia, Madrid</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Vereinigtes Königreich: ICM Direct, London</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>USA: TNS USA, New York</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen (CATI)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>196</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>In Ländern, in denen mindestens 20 % der Bevölkerung keinen Festnetzanschluss besitzen (einschließlich Spanien, Italien und USA), wurden 20 % der Interviews per Mobiltelefon durchgeführt.
+
+In Europa wurden pro Land etwa 1000 Interviews durchgeführt. In den USA wurden ebenfalls rd. 1000 Interviews durchgeführt.
+
+Die Transatlantic Trends werden seit 2002 jährlich durchgeführt. 
+
+Der Fragebogen enthält zahlreiche Variationen der Fragenfolge und ist
+als methodisches Experiment konzipiert. 
+
+Neben dem German Marshall Fund of the United States waren am Projekt beteiligt: 
+Compagnia di San Paolo, Turin, Italien,
+Barro Cadbury Trust, London, Großbritannien,
+Fundación BBVA 
+
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

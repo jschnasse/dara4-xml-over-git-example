@@ -1,0 +1,266 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Transatlantic Trends Immigration Survey 2010'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Transatlantic Trends Immigration Survey 2010'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5360</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Transatlantic Trends Immigration Survey 2010</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Transatlantic Trends Immigration Survey 2010</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>German Marshall Fund of the United States (GMF),
+Washington, USA</institutionName>
+			</institution>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Pierangelo</firstName>
+				<middleName/>
+				<lastName>Isernia</lastName>
+				<affiliation>
+					<affiliationName>University of Siena, Italy</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5360?doi=10.4232/1.11520</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11520</doiProposal>
+	<publicationDate>
+		<date>2013-02-08</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5360</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Political behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Wahrnehmung von Einwanderern. Einstellung zu Einwanderern und zur Einwanderungspolitik. Integration von Einwanderern. Entscheidungsebene. Beurteilung der Regierungsarbeit im Umgang mit Einwanderung. Parteipräferenz. 
+Themen: 1. Grundsätzliche Wahrnehmung von Einwanderern: Wichtigste Probleme im Land (Wirtschaft, Kriminalität, Gesundheitswesen, Einwanderung, Bildung, Umwelt, Terrorismus, Arbeitslosigkeit) (Split: Rotation der Fragenreihenfolge); Häufigkeit von Diskussionen im Freundeskreis über Einwanderung; Intensität der Nachrichtenrezeption über Einwanderung und Integration; Beurteilung des prozentualen Anteils von Einwanderern, die nicht im Land geboren sind; zu viele Ausländer im Lande; vermuteter legaler oder illegaler Einwandererstatus der meisten im eigenen Land lebenden Einwanderer; Beunruhigung über legale (Split: illegale) Einwanderung). 
+2. Wahrnehmung von legalen/illegalen Einwanderern: Einstellung zu legalen (Split A) bzw. illegalen (Split B) Einwanderern (Skala: Belastung für die sozialen Einrichtungen wie Schulen und Krankenhäuser, verursachen den Anstieg der Kriminalitätsrate in der Gesellschaft, fleißige Arbeiter, übernehmen unbeliebte Arbeitsplätzen, Opfer von Ausbeutung am Arbeitsplatz (Rotation der Fragenreihenfolge). 
+3. Auswirkungen von Einwanderung auf die Gesellschaft: Einwanderung als Bereicherung der Kultur des eigenen Landes durch neue Ideen und Gewohnheiten oder als negative Beeinflussung; Einstellung zu Einwanderern (Skala: nehmen Einheimischen die Arbeitsplätze weg, beheben Arbeitskräftemangel, Schaffung neuer Arbeitsplätze durch Firmengründungen, senken die Löhne der nationalen Bürger (Split: Rotation der Fragenreihenfolge. 
+4. Voraussetzungen für die Einbürgerung: wichtigste Voraussetzungen für die Einbürgerung: Sprachkenntnisse, Anerkennung von nationalen politischen Institution und Gesetzen, überwiegende Lebenszeit im Land verbracht, Teilen der nationalen kulturellen Werte (Split: Rotation der Fragenreihenfolge). 
+5. Zulassung von Einwanderern: präferierter Umgang mit legalen Einwanderern: befristete Arbeitserlaubnis oder permanentes Bleiberecht; präferierter Umgang mit illegalen Einwanderern: Abschiebung in deren Heimatland oder Möglichkeit des Erwerbs eines legalen Status. 
+6. Unterstützung für Maßnahmen zur Reduzierung der illegalen Zuwanderung (nur USA, Vereinigtes Königreich, Italien und Spanien): Einstellung zu ausgewählten Maßnahmen der Einwanderungspolitik: verstärkte Entwicklungshilfe für die Herkunftsländer illegaler Einwanderer, Verstärkung der Grenzkontrollen, Vereinfachung der legalen Einwanderung für Arbeit und Studium (Split: Rotation der Fragenreihenfolge); wieder alle: effektivste politische Maßnahmen zur Reduzierung illegaler Einwanderung (verstärkte Entwicklungshilfe für die Herkunftsländer illegaler Einwanderer, Verstärkung der Grenzkontrollen, Einführung härterer Strafen für Arbeitgeber, die illegale Einwanderer beschäftigen, Vereinfachung der legalen Einwanderung für Arbeit und Studium) (Split: Rotation der Fragenreihenfolge). 
+7. Zugang zu staatlichen Sozialleistungen: Zugang zu staatlichen oder privaten Schulen (nur Vereinigtes Königreich: Zugang zu Sozialwohnungen), zur Notfallversorgung und zur Gesundheitspflege (Split: Rotation der Fragenreihenfolge); vorrangige Bearbeitung von Anträgen auf Sozialleistungen für Landesbürger bzw. Gleichbehandlung der Antragsteller; Präferenz für Einwanderer mit hohem Bildungsniveau aber ohne Jobangebot oder für solche mit Jobangebot aber geringem Bildungsniveau bei der Aufnahme in das eigene Land. 
+8. Beurteilung der Regierung; Entscheidungsebene; sozio-politische Rechte: Beurteilung der Regierungsarbeit im Umgang mit Einwanderung; präferierte Entscheidungsebene für Arbeitsberechtigungen von Einwanderern (Kanada) bzw. bei der Durchsetzung von Einwanderungsgesetzen (USA): staatliche bzw. kommunale Behörden (USA), Provinz bzw. kommunale Behörden (Kanada) oder nationale Regierung; präferierte Entscheidungsebene für eine jährliche Einwandererquote im Land: nationale Regierung oder die Europäische Union; Beurteilung der Integrationsbemühungen der nationalen Regierung; Einschätzung des eigenen Landes als Einwanderungsland; Wahlrecht für legale Einwanderer bei den Kommunalwahlen. 
+9. Folgen einer alternden Gesellschaft: Einstellung zu ausgewählten Maßnahmen hinsichtlich des demographischen Wandels: Anhebung des Rentenalters, Erleichterung der Einwanderung zu Arbeitszwecken (Split: Rotation der Fragenreihenfolge); Einstellung zu ausgewählten Maßnahmen im Zuge wachsender Nachfrage nach Gesundheitsdienstleistungen: Förderung der Einwanderung ausländischer Ärzte und Krankenschwestern sowie Altenpfleger. 
+10. Einwanderung als Problem oder Möglichkeit. Einwandererzahl: Einwanderer zahlen mehr Steuern als sie von Sozialleistungen profitieren; Einwanderung als Problem oder als Chance für das eigene Land; geschätzter Anteil (allgemein und kategorisiert) an Einwanderern im Land gemessen an der Gesamtbevölkerung; Beurteilung des tatsächlichen Prozentanteils von Einwanderern im Land. 
+11. Einwanderung und Integration: Beurteilung der Integration von ausgewählten Einwanderergruppen und deren im Land geborenen Kindern: muslimische Einwanderer und Einwanderer allgemein (USA zusätzlich: Hispanics); ausländische Freunde im Land. 
+12. Wirtschaft: Beurteilung der allgemeinen Regierungsarbeit in den letzten sechs Monaten; Veränderung der Finanzlage des eigenen Haushalts im letzten Jahr; Einschätzung der Arbeitsmarktlage am Wohnort hinsichtlich offener Stellen; derzeitiger Beschäftigungsstatus. 
+13. Wahlabsicht, Parteiidentifikation: Parteipräferenz bei den nächsten Wahlen; Selbsteinschätzung als Demokrat, Republikaner oder Unabhängiger; Einschätzung des Einflusses der Einwanderungspolitik der Partei des Kandidaten auf die eigene Wahlentscheidung; Selbsteinschätzung auf einem Links-Rechts-Kontinuum. 
+Demografie: Geschlecht; Alter (kategorisiert); höchster Schulabschluss (Schulbildung); Alter bei Ende der Schulbildung; Selbsteinschätzung der Religiosität; ethnische Herkunft; Geburt im Befragungsland bzw. Herkunftsland des Befragten und seiner Eltern (Migrationshintergrund); Urbanisierungsgrad; Art des Telefonanschlusses (Festnetz oder Mobiltelefon); Mobiltelefonbesitz; Anzahl der Mobiltelefonnummern; Festnetzanschluss im Haushalt; Anteil der insgesamt eingehenden Anrufe, der auf das Mobiltelefon entfällt; Region. 
+Zusätzlich verkodet wurde: Land; Interviewdatum; Zeitpunkt des Interviewbeginns und des Interviewendes; Interviewdauer; Intervieweridentifikation; Interviewtyp; Interviewsprache; Gewichtungsfaktoren.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>CA</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>US</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen im Alter von 18 Jahren und älter</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Zufallsstichprobe (Random Digit Dialing)</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-08-27</date>
+				</startDate>
+				<endDate>
+					<date>2010-09-13</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Europe</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Europa</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-11-10</date>
+				</startDate>
+				<endDate>
+					<date>2010-11-21</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>USA and Canada</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>USA und Kanada</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>TNS Opinion</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen (CATI)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>214</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>In Ländern, in denen mindestens 20 % der Bevölkerung keinen Festnetzanschluss besitzen (einschließlich Spanien, Italien und USA), wurden 20 % der Interviews per Mobiltelefon durchgeführt.
+
+In Europa wurden pro Land etwa 1000 Interviews durchgeführt. In den USA und Kanada wurden ebenfalls jeweils rd. 1000 Interviews
+durchgeführt.
+
+Die Transatlantic Trends werden seit 2002 jährlich durchgeführt. 
+
+Für das Methodische Experiment mit abgewandelten Frageformulierungen wurde ein gegabelter Fragebogen verwendet.
+
+Neben dem German Marshall Fund of the United States waren am Projekt beteiligt: 
+Compagnia di San Paolo, Turin, Italien,
+The Lynde and Harry Bradley Foundation, Milwaukee, USA,
+Barro Cadbury Trust, London, Großbritannien,
+Fundación BBVA </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

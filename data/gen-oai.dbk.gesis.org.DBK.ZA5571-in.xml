@@ -1,0 +1,277 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Group-oriented animosity against people (GMF-Survey 2006)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Gruppenbezogene Menschenfeindlichkeit (GMF-Survey 2006)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5571</identifier>
+		<currentVersion>2.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Gruppenbezogene Menschenfeindlichkeit (GMF-Survey 2006)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Group-oriented animosity against people (GMF-Survey 2006)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Wilhelm</firstName>
+				<middleName/>
+				<lastName>Heitmeyer</lastName>
+				<affiliation>
+					<affiliationName>Institut für interdisziplinäre Konflikt- und Gewaltforschung, Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Zick</lastName>
+				<affiliation>
+					<affiliationName>Institut für interdisziplinäre Konflikt- und Gewaltforschung, Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Steffen</firstName>
+				<middleName/>
+				<lastName>Kühnel</lastName>
+				<affiliation>
+					<affiliationName>Universität Göttingen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Peter</firstName>
+				<middleName/>
+				<lastName>Schmidt</lastName>
+				<affiliation>
+					<affiliationName>Universität Gießen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Ulrich</firstName>
+				<middleName/>
+				<lastName>Wagner</lastName>
+				<affiliation>
+					<affiliationName>Universität Marburg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Jürgen</firstName>
+				<middleName/>
+				<lastName>Mansel</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Jost</firstName>
+				<middleName/>
+				<lastName>Reinecke</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5571?doi=10.4232/1.11812</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11812</doiProposal>
+	<publicationDate>
+		<date>2013-10-30</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5571</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Political behaviour and attitudes</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Vorurteile, Rassismus, Fremdenfeindlichkeit, Antisemitismus, Islamophobie,Etabliertenvorrechte, Sexismus, Homophobie.
+Themen: Einschätzung der wirtschaftlichen Lage in der BundesrepublikDeutschland sowie der eigenen wirtschaftlichen Lage und des eigenenLebensstandards; Einschätzung der eigenen Absicherung für die Zukunft;Einschätzung der wirtschaftlichen Lage in der Wohngegend im Vergleichzur Bundesrepublik insgesamt sowie der Deutschen im Vergleich zu denAusländern in Deutschland; gerechter Anteil am Sozialprodukt;Beurteilung der eigenen finanziellen Leistungsfähigkeit; Einschätzungder eigenen wirtschaftlichen Situation in fünf Jahren; deutsche bzw.andere Staatsangehörigkeit des Befragten sowie seiner Eltern undGroßeltern; Nationalstolz (nur Deutsche); Stolz Europäer zu sein;Wichtigkeit der Einflussnahme zur Lösung gesellschaftlicher Probleme;politische Selbsteinschätzung auf einem Links-Rechts-Kontinuum;Parteipräferenz (Sonntagsfrage); Konfession (Religionszugehörigkeit);Selbsteinstufung: Religiosität; Einstellung zum Absolutheitsanspruchder eigenen Religion; Teilnahmehäufigkeit an Vereins-Veranstaltungen;Größe des Bekanntenkreises; Unterschiedlichkeit der Ansichten imBekanntenkreis; Ausländeranteil im Freundes- und Bekanntenkreis;Ausländer am Arbeitsplatz und Kontakthäufigkeit; Sympathie für Deutscheund in Deutschland lebende Ausländer; Häufigkeit erfahrener Hilfe bzw.Belästigung durch Ausländer; Häufigkeit interessanter Gespräche mitAusländern; Gefühlslage im letzten Monat (wütend, verärgert, zufrieden,hilflos, ängstlich); Soziale Fairness: Solidarität mit Hilfsbedürftigenin Deutschland, fairer Umgang miteinander; Gleichwertigkeit allerBevölkerungsgruppen; Chancengleichheit für alle Bevölkerungsgruppen;Bewertung von sozialer Gleichheit; Unterstützungsanspruch nach demLeistungsprinzip; Unterstützungsverweigerung bei eigener Mitschuld ander Notlage; Autoritarismus (Bestrafung, Ordnung, Gehorsam und Respekt,führende Köpfe); Sexismus: Einstellung zur Rolle der Frau in derGesellschaft (Diskriminierung als Problem, Benachteiligung durchBeschäftigungspolitik, Mutterrolle, Karriere); Orientierungslosigkeit; Islamophobie: Einstellung zum Islam und zuMuslimen; Homophobie; Abwertung von Behinderten undObdachlosen; Einstellung zu Fremdenfeindlichkeit, (bei den befragtenAusländern wurden alternative Frageformulierungen bei dieser Skalaappliziert, die sich auf Aussiedler bzw. Türken beziehen); Einstellungzu Dominanz, Etabliertenvorrechten und Rassismus (Split:unterschiedliche Items); Gewaltbilligung und Gewaltbereitschaft;Antisemitismus (klassischer, sekundärer und IsraelbezogenerAntisemitismus, antisemitische Separation, NS-vergleichendeIsraelkritik, israelkritische Einstellung); Diskriminierungsverhaltenim Alltag (Distanz zu Behinderten, Obdachlosen und Ausländern, Umzug ineine Wohngegend mit vielen Moslems, Frau als Vorgesetzte, keineWohnungsvermietung an Homosexuelle, Einheirat in jüdische Familie);Irrelevanz politischer Partizipation und Gefühl politischerWirksamkeit; soziale Ungleichheit; persönliche soziale Integration,soziale und emotionale Anerkennung und Unterstützung, gesellschaftlicheDistanz; Erwartungsdruck von Seiten Dritter; Selbstbewusstsein;bindungslose Flexibilität (Abschätzen von Kontakten nach Nutzen,Verbergen tatsächlicher Absichten, wichtigere Dinge als Beziehungen zuanderen); Identifikation als Deutscher, Westdeutscher bzw. alsOstdeutscher; Identifikation als Europäer; Nationalstolz: Stolz aufdeutsche Geschichte, Demokratie und soziale Sicherheit in Deutschland(nur Deutsche); Heterophobie (Homosexualität ist unmoralisch, zu vielAufwand für Behinderte, überzogene Forderungen von Behinderten,Obdachlose sind arbeitsscheu); Angst vor sozialem Abstieg seit HartzIV; Ortsverbundenheit; Beurteilung der Demokratie in Deutschland(Skalen: Demokratieermäßigung, Demokratieaushöhlung,Demokratiemissachtung durch Eliten, Demokratievernachlässigung,Demokratiezweifel, Demokratiezuwachs). 
+Demographie: Höchster Bildungsabschluss; abgeschlosseneBerufsausbildung; Erwerbstätigkeit; Charakteristika desHaushaltsvorstands (Erwerbstätigkeit, Arbeitslosigkeit undArbeitslosigkeitsdauer, Angst vor Arbeitslosigkeit desHaushaltsvorstands; Wahrscheinlichkeit von Arbeitslosigkeit in dennächsten fünf Jahren; nicht erwerbstätige HH-Vorstände: derzeitigeTätigkeit; schwierige Arbeitssuche; Alter (Geburtsjahr); Geschlecht;Familienstand; fester Lebenspartner; Staatsangehörigkeit desLebenspartners; Haushaltsgröße; Haushaltsnettoeinkommen; Möglichkeitzur finanziellen Rücklagenbildung. 
+Erwerbstätige wurden gefragt: Berufliche Anerkennung undZufriedenheit; Arbeitslosigkeit und Arbeitslosigkeitsdauer in denletzten fünf Jahren; Angst vor Arbeitslosigkeit; Wahrscheinlichkeit vonArbeitslosigkeit in den nächsten fünf Jahren; Person im Haushalt mithöherem Einkommen.
+Nichterwerbstätige wurden gefragt: Erwerbstätigkeit in derVergangenheit; Arbeitslosigkeit und Arbeitslosigkeitsdauer in denletzten fünf Jahren vor Beendigung der Erwerbstätigkeit; Angst vorArbeitslosigkeit; schwierige Arbeitssuche; derzeitige Tätigkeit;Anerkennung der Tätigkeit im Alltag; Zufriedenheit mit der Tätigkeit;Person im Haushalt mit höherem Einkommen.
+Zusätzlich verkodet wurde: Migrationshintergrund; Bundesland;Neue/Alte Länder; Gewichtung Ost-West; Gewichtungsfaktoren.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutschsprechende Personen ab 16 Jahren in Telefonhaushalten
+
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Repräsentative Zufallsauswahl nach dem RL2D-Verfahren und Auswahl der
+Zielperson nach dem Schwedenschlüssel
+
+Disproportionale Stichprobe in den alten Bundesländern (einschließlich
+Berlin) und in den neuen Bundesländern</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-05-10</date>
+				</startDate>
+				<endDate>
+					<date>2006-06-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Infratest Sozialforschung, München</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen (CATI)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>201</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die ersten drei Panelwellen wurden zwischen 2002 und 2004 jährlich
+erhoben. Im Jahr 2005 wurde lediglich eine Querschnittserhebung
+durchgeführt. 
+
+Dieser Datensatz stellt die vierte Welle des Panels dar, wobei die
+Feldzeit parallel zu der Erhebungszeit der Repräsentativbefragung
+gewählt wurde, damit die Vergleichbarkeit von Panel und
+Kontrollerhebung gewährleistet ist. </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.11328</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Infratest Sozialforschung: 
+Gruppenbezogene Menschenfeindlichkeit: Methodenbericht zur 
+repräsentativen Befragung Mai/Juni 2006
+München: 2006</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Heitmeyer, Wilhelm (Hrsg.):
+Deutsche Zustände, Folge 5.
+Frankfurt am Main: Suhrkamp Verlag 2007.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

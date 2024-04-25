@@ -1,0 +1,276 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Socio-Ecological Conditions of the Integration of Foreign
+Workers in the Ruhr Area (Foreigners in Duisburg)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Sozialökologische Bedingungen der Eingliederung ausländischer
+Arbeitnehmer im Ruhrgebiet (Ausländer in Duisburg)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1578</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Sozialökologische Bedingungen der Eingliederung ausländischer
+Arbeitnehmer im Ruhrgebiet (Ausländer in Duisburg)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Socio-Ecological Conditions of the Integration of Foreign
+Workers in the Ruhr Area (Foreigners in Duisburg)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Hartmut</firstName>
+				<middleName/>
+				<lastName>Esser</lastName>
+				<affiliation>
+					<affiliationName>Rhein-Ruhr-Institut für Sozialforschung und Politikberatung
+(RISP), Duisburg
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Paul B.</firstName>
+				<middleName/>
+				<lastName>Hill</lastName>
+				<affiliation>
+					<affiliationName>Rhein-Ruhr-Institut für Sozialforschung und Politikberatung
+(RISP), Duisburg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Georg von</firstName>
+				<middleName/>
+				<lastName>Oepen</lastName>
+				<affiliation>
+					<affiliationName>Rhein-Ruhr-Institut für Sozialforschung und Politikberatung
+(RISP), Duisburg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1578?doi=10.4232/1.1578</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1578</doiProposal>
+	<publicationDate>
+		<year>1987</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1578</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Wohnraum</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Social conditions and indicators</term>
+					<term>Housing</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Wohn-, Arbeits- und Lebenssituation von Türken in derBundesrepublik.
+Themen: Religiosität; Nationalität des Ehepartners; Zusammenleben mitEhepartner in Deutschland; Anzahl und Alter der Kinder; Anzahl der inDeutschland lebenden Kinder; Besuch einer Koranschule durch die Kinder;Herkunftsregion in der Türkei; Wohnortgröße des Herkunftsortes; sozialeHerkunft; Dauer des Schulbesuchs sowie Art der besuchten Schule undSchulabschluß in der Türkei; zuletzt ausgeübte berufliche Tätigkeit undberufliche Stellung in der Türkei; Branchenzugehörigkeit des Betriebesin der Türkei; Zuzugsgründe; Rückkehrabsicht bei Zuzug; geplanteAufenthaltsdauer; Zuzugsjahr; Alter bei Zuzug; Leben der Eltern inDeutschland bei eigenem Zuzug bzw. zum gegenwärtigen Zeitpunkt;berufliche Stellung des Vaters in Deutschland bei eigenem Zuzug;ursprünglich geplante Aufenthaltsdauer der Eltern.
+Detaillierte Angaben zur beruflichen Situation und allgemeinenLebenssituation zu drei verschiedenen Zeitpunkten, nämlich bei Beginndes Aufenthalts, der Hälfte des Aufenthalts und in der gegenwärtigenSituation:  Berufstätigkeit und berufliche Stellung sowie Angaben zurFirma und Branche; Zufriedenheit mit der beruflichen Tätigkeit; Anzahlder deutschen und türkischen Kollegen im eigenen Arbeitsbereich;Monatseinkommen und Familieneinkommen; monatlicher Sparbetrag; Angabenzur Verwendung der Ersparnisse; Wohnstatus; Art der Wohnungsvermittlung;Miethöhe; Wohnungsausstattung; Besitz langlebiger Wirtschaftsgüter;Wohnungsgröße; Anzahl der in der Wohnung lebenden Personen;Zufriedenheit mit der Wohnsituation; Anzahl der im Wohnumfeld bzw. imHaus lebenden Ausländer; Kontakte zu Deutschen; Gründe für Scheu vorBehördenkontakten; eigene Sprachkompetenz; Zufriedenheit mit denLebensverhältnissen in Deutschland.
+Bezüglich der Situation bei Hälfte des Aufenthaltes wurde zusätzlichgefragt:  Bedeutender Lebenseinschnitt während desDeutschlandaufenthalts; Gründe für Verbleib in Deutschland;Entscheidungszeitpunkt für Verbleib in Deutschland; Schulbesuch bzw.Schulabschluß in Deutschland; Berufsausbildung in Deutschland.
+Bezüglich der gegenwärtigen Situation wurde zusätzlich gefragt:Gewünschte Mindestausstattung einer Wohnung; Mietobergrenze für bessereWohnung.
+Wichtigkeit ausgewählter Infrastruktureinrichtungen des Wohnumfeldessowie Zufriedenheit mit den tatsächlich vorhandenen Einrichtungen(Skala); Dauer des Wohnens im Stadtteil; Interesse an Wohnungswechsel;Gründe für Wohnungswechsel bzw.  Verbleib in bisheriger Wohnung;gewünschte Qualität einer besseren Wohnung (Skala); identifikativeAssimilation; Stärke der Bindung an die Region, die Stadt, den Stadtteilund die direkte Wohnumgebung (Skala); Rückkehrabsicht; Zufriedenheit mitden Lebensverhältnissen; Mitgliedschaften; Diskriminierungswahrnehmung(Skala); vermutete Einstellung der Deutschen zur Eingliederungausländischer Mitbürger und eigene Assimilationsbereitschaft (Skalen);Wunsch nach Zusammenleben mit Deutschen oder Türken; Interesse anBeteiligung an Kommunalwahlen; Parteipräferenz; erwünschteHilfsmaßnahmen für Ausländer.
+Demographie: Alter; Geschlecht; Familienstand.
+Zusätzlich verkodet wurde:  Haustyp; Gebäudealter; Gebäudenutzung; Nähezu angrenzender Industrie; Schäden und Mängel an der Wohnung;Auszugsgrund aus der letzten Wohnung und Gründe für Einzug in die neueWohnung; Ergebnisse eines kurzen Sprachtestes; aggregierte Regionaldatenzur Struktur der Gesamtbevölkerung sowie Angaben über denAusländeranteil und den Türkenanteil im Wohnblock, der Straße und imOrtsteil.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The housing situation, job situation and situation in life of Turks inthe Federal Republic.
+Topics: religiousness; nationality of spouse; living together withspouse in Germany; number and ages of children; number of childrenliving in Germany; attendance of children at a Koran school; region oforigin in Turkey; size of place of residence in city of origin; socialorigins; length of school attendance as well as type of school attendedand school degree in Turkey; occupational activity last practiced andoccupational position in Turkey; area of business of the company inTurkey; reason for moving; intent to return when moving; planned lengthof stay; year of arrival; age at moving; parents living in Germany whenmoving oneself or at the current point in time; occupational positionof father in Germany when moving oneself; originally planned length ofstay of parents.
+Detailed information on occupational situation and general situationin life at three various points in time, namely at start of stay, atmid-point of stay and in the current situation: employment andoccupational position as well as information on company and area ofbusiness; satisfaction with occupational activity; number of German andTurkish colleagues in personal work area; monthly income and familyincome; monthly savings amount; information on use of savings;residential status; manner of arranging for a residence; amount ofrent; residence equipment; possession of durable economic goods; sizeof residence; number of persons living in residence; satisfaction withhousing situation; number of foreigners living in residentialsurroundings or in building; contacts with Germans; reasons to be shyof contacts with authorities; personal language ability; satisfactionwith living conditions in Germany.
+The following questions were posed regarding the situation at thehalf-way point in the stay: significant decisive point in life duringthe stay in Germany; reasons for remaining in Germany; point in time ofdecision to remain in Germany; school attendance or school degree inGermany; vocational training in Germany.
+The following questions were also posed regarding the currentsituation: desired minimum furnishing of a residence; rent upper limitfor a better residence.
+Importance of selected infrastructure facilities of the residentialsurroundings as well as satisfaction with facilities actually present(scale); length of living in the part of town; interest in change ofresidence; reasons for change of residence or remaining in currentresidence; desired quality of a better residence (scale); identityassimilation; strength of ties to region, city, part of town andimmediate residential surroundings (scale); intent to return home;satisfaction with living conditions; memberships; perception ofdiscrimination (scale); assumed attitude of Germans on integration offoreign fellow-citizens and personal readiness for assimilation(scales); desire to live together with Germans or Turks; interest inparticipation in municipal elections; party preference; desired aidmeasures for foreigners.
+Demography: age; sex; marital status.
+Also encoded was: building type; age of building; use of building;closeness to near-by industry; damage and deficiencies in residence;reason for moving from last residence and reasons for moving into newresidence; results of a short language test; aggregate regional data onstructure of total population as well as information on proportion offoreigners and proportion of Turks in apartment house, street and partof town. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Duisburg</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Duisburg</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Türkische Haushaltsvorstände in vier Stadtteilen mit unterschiedlich
+hohen Ausländeranteilen </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Turkish heads of household in four parts of town with different proportions of foreigners </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage stratified random sample </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1982-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1982-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Rhein-Ruhr-Institut fuer Sozialforschung und Politikberatung (RISP), Duisburg
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>430</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Befragung wurde von türkischen Interviewern durchgeführt, die von
+der Forschergruppe selbst geschult und ausgewählt wurden.
+Eine vergleichbare Untersuchung bei der deutschen Bevölkerung ist unter
+der ZA-Studien-Nr. 1579 archiviert.
+Eine weitere Untersuchung mit vergleichbarem Inhalt ist unter der
+ZA-Studien-Nr. 1580 dokumentiert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The survey was conducted by Turkish interviewers selected and trained
+by the research group itself. A comparable investigation in the German
+population is archived under ZA Study No. 1579. A further investigation
+with comparable content is documented under ZA Study No. 1580. </text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Esser, Hartmut; Hill, Paul B.; Oepen, Georg von: 
+Ausländerintegration im Ruhrgebiet: Sozialökologische Bestimmungsfaktoren. Band 1 u. 2. 
+Essen und Duisburg: Kommunalverband Ruhrgebiet 1983. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Esser, Hartmut: 
+Social context and inter-ethnic relations: the case of migrant workers in West German urban areas. 
+In: European Sociological Review, 2, 1986, S. 30-51.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

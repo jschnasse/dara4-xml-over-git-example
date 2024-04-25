@@ -1,0 +1,423 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Labour Migration, Market Competition and Ethnocentrism:
+Guest workers in Israel and Germany'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Labour Migration, Market Competition and Ethnocentrism:
+Guest workers in Israel and Germany
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3974</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Labour Migration, Market Competition and Ethnocentrism:
+Guest workers in Israel and Germany
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Labour Migration, Market Competition and Ethnocentrism:
+Guest workers in Israel and Germany</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Peter</firstName>
+				<middleName/>
+				<lastName>Schmidt</lastName>
+				<affiliation>
+					<affiliationName>Universität Gießen
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Aribert</firstName>
+				<middleName/>
+				<lastName>Heyder</lastName>
+				<affiliation>
+					<affiliationName>Universität Gießen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3974?doi=10.4232/1.3974</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.3974</doiProposal>
+	<publicationDate>
+		<year>2003</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3974</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Religion und Werte</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Religion and values</term>
+					<term>Political behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.0.0</classificationSchema>
+				<terms>
+					<term>Antisemitismus</term>
+					<term>Assimilation</term>
+					<term>Bedrohungswahrnehmungen </term>
+					<term>Diskriminierung</term>
+					<term>diskriminierendes Verhalten</term>
+					<term>Ethnozentrismus</term>
+					<term>Integration</term>
+					<term>Intergruppenbeziehungen/-konflikte</term>
+					<term>Marginalisierung</term>
+					<term>Migrationspolitik</term>
+					<term>Multiple Integration</term>
+					<term>Nationalismus</term>
+					<term>Patriotismus</term>
+					<term>Wahrnehmung von Rassismus</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>Herkunft</term>
+					<term>Religiöse Zugehörigkeit</term>
+					<term>Naher Osten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.3.0</classificationSchema>
+				<terms>
+					<term>Geschlechterrollenverständnis</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Fremdenfeindlichkeit</term>
+					<term>Geschlechterrollenverständnis</term>
+					<term>Staatsbürgerschaft</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.0.0</classificationSchema>
+				<terms>
+					<term>Antisemitism</term>
+					<term>Assimilation</term>
+					<term>Threat perceptions</term>
+					<term>Discrimination</term>
+					<term>Discriminatory behaviour</term>
+					<term>Ethnocentrism</term>
+					<term>Integration</term>
+					<term>Intergroup relations/conflicts</term>
+					<term>Marginalisation</term>
+					<term>Migration policies</term>
+					<term>Multiple Integration</term>
+					<term>Nationalism</term>
+					<term>Patriotism</term>
+					<term>Perceptions of racism</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>Herkunft</term>
+					<term>Religiöse Zugehörigkeit</term>
+					<term>Naher Osten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.3.0</classificationSchema>
+				<terms>
+					<term>Understanding of gender roles</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Xenophobia</term>
+					<term>Understanding of gender roles</term>
+					<term>Citizenship</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellung zu Gastarbeitern und Ausländern allgemein in Deutschlandund Israel. Kumulierter Datensatz aus einer Erhebung in Israel undTeilen des ALLBUS 1996.
+Themen: Deutscher Befragungsteil: 1. Einstellungen zu ethnischenGruppen in Deutschland und zur Immigration: Wahrgenommene Konsequenzender Anwesenheit von Ausländern in Deutschland; Einstellungen zum Zuzugverschiedener Zuwanderergruppen; Wichtigkeitseinstufung verschiedenerEinbürgerungsvoraussetzungen; Wahrnehmung und Bewertung vondiskriminierendem Verhalten gegenüber Ausländern; Einstellung zurdoppelten Staatsbürgerschaft und zur Rechtsgleichstellung vonAusländern; Indikatoren für soziale Distanz zu ethnischen Minderheitenund Ausländern; perzipierte Lebensstildifferenzen; Items zumAntisemitismus; Befürwortung von Islamunterricht an Schulen;Ausländeranteilsschätzung für Ost- und Westdeutschland.
+2. Staatsbürgerschaften und Herkunftsland: Erste, zweite und dritteStaatsbürgerschaft des Befragten und des Ehe- oder Lebenspartners;Anzahl der Staatsbürgerschaften des Befragten; ursprünglicheStaatsbürgerschaft des Befragten und des Ehe- oder Lebenspartners;Herkunftsland des Befragten; bisherige Aufenthaltsdauer voneingewanderten Personen in Deutschland.
+3. Einstellungen zu Familie, Ehe und Partnerschaft: Familie alsVoraussetzung für Glück; Einstellung zur Heirat bei dauerndemZusammenleben der Partner; Einstellung zur Rolle der Frau in derFamilie; Einstufung der Wichtigkeit ausgewählter Lernziele für ein Kind.
+4. Sonstiges: Einstellungen zum Schwangerschaftsabbruch; allgemeinesVertrauen zu Mitmenschen und zu Politikern; sozialer Pessimismus undZukunftsorientierung (Anomia); Gründe, als Deutscher stolz sein zukönnen; Nationalstolz; Selbsteinschätzung der sozialenSchichtzugehörigkeit; gerechter Anteil am Lebensstandard; politischesInteresse; Postmaterialismus (Wichtigkeit von Ruhe und Ordnung, vonBürgereinfluss, von Inflationsbekämpfung und von freierMeinungsäußerung); Selbsteinstufung auf einem Links-Rechts-Kontinuum;Einschätzung von Wirtschaftslagen; Furcht vor Verlust des Arbeitsplatzesbzw. der betrieblichen Existenz.
+5. Demographie: Geschlecht; Geburtsmonat, Geburtsjahr, Alter; Herkunftund Staatsangehörigkeit; Wohnort; Konfession, Kirchgangshäufigkeit;Wahlabsicht (Sonntagsfrage) und Wahlrückerinnerung; allgemeinerSchulabschluss, berufliche Ausbildung; Erwerbsstatus; Angaben zumgegenwärtigen Beruf, Zugehörigkeit zum öffentlichen Dienst, beruflicheAufsichtsfunktion; Dauer von Arbeitslosigkeit; Angaben zum ehemaligenBeruf; Befragteneinkommen; Familienstand.
+Angaben zum gegenwärtigen Ehepartner: allgemeiner Schulabschluss,berufliche Ausbildung; Erwerbsstatus; Angaben zum gegenwärtigen Beruf;frühere und gegenwärtige Staatsbürgerschaft; Telefonanschluß.
+Angaben zu den einzelnen Haushaltspersonen (Haushaltsliste):Verwandtschaft der Haushaltspersonen zum Befragten; Geschlecht derPersonen; deren Geburtsmonat, Geburtsjahr, Alter; Familienstand.
+Gegenwärtige Mitgliedschaften des Befragten (DeutscherGewerkschaftsbund (DGB), Deutsche Angestelltengewerkschaft (DAG), andereGewerkschaft, politische Partei).
+6. Zusätzlich verkodet wurde: Anwesenheit anderer Personen beimInterview; Antwortbereitschaft des Befragten; Interviewereinschätzungzur Zuverlässigkeit der Angaben des Befragten.
+7. Israelischer Befragungsteil:
+Einstellungen zum Zuzug verschiedenerZuwanderergruppen wie ausländische Arbeitnehmer, Palästinenser, neueImmigranten und politische Flüchtlinge; Forderung nach Assimilation derZuwanderer; Einstellung zu Arbeitsmigranten: Rücksendung beiArbeitslosigkeit, Verbot politischer Aktivitäten, Heirat nur innerhalbder ethnischen Gruppe, Bevorzugung von Israelis bei Einstellungen,höhere Löhne für Israelis, Begrenzung der Arbeitsmigranten auf bestimmteBranchen, Gewerkschaftsmitgliedschaft für Migranten zulassen undGewährung eines lokalen Wahlrechts; soziale Distanz zu ausländischenArbeitern in Israel und zu zu ethnischen Minderheiten; Kontakte zudiesen Gruppen; Israel als jüdischen Staat bewahren oder Raum lassen fürkulturellen Pluralismus; wahrgenommene Konsequenzen der Anwesenheit vonAusländern und ethnischen Gruppen; Gruppen, die die wirtschaftlicheSituation des Landes beeinflussen; Wahrnehmung und Bewertung vondiskriminierendem Verhalten gegenüber Ausländern; Wichtigkeitverschiedener Einbürgerungsvoraussetzungen; Bewertung des Anteilsausgewählter ethnischer Gruppen im Lande; Ausländeranteil in der eigenenWohngegend; Einschätzung von Wirtschaftslagen; erwarteteKonjunkturentwicklung; Einstellung zu gleichen Rechten und sozialenLeistungen für Ausländer und Israelis; vermutetes sowie aus Sicht desBefragten angemessenes Arbeitseinkommen für verschiedene Berufe inAbhängigkeit von der ethnischen Zugehörigkeit der Person; Furcht vorÜberfremdung des Landes; Vertrauen in die einzelnen Einwanderergruppen;präferierte Gruppe der Fremdarbeiter im Lande.
+8. Demographie: Geschlecht; Geburtsjahr; Geburtsland Israel bzw.Herkunftsland sowie Immigrationsjahr; weitere Staatsbürgerschaften;Familienstand; regionale Herkunft der Eltern; Schulbildungsjahre;Schulabschluss; Haushaltsgröße; Wahlverhalten bei der letzten Wahl;Selbsteinstufung links/rechts; Erwerbsstatus; gegenwärtiger Beruf;eigene Arbeitsplatzgefährdung; Dauer von Arbeitslosigkeit; Arbeitssuche;Zugehörigkeit zum Öffentlichen Dienst; Vorgesetztenfunktion; Konfession;Kirchgangshäufigkeit; Selbsteinschätzung der Religiosität; Gründe, alsIsraeli stolz zu sein; Nationalstolz; Einkommen.
+Bei Selbständigkeit: Beschäftigtenzahl und Beschäftigung vonausländischen Arbeitskräften.
+Zusätzlich verkodet wurde: Anwesenheit anderer Personen beim Interviewund deren Eingriff in das Interview; Kooperationsbereitschaft desBefragten.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IL</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutschland: Personen, die in Privathaushalten leben und vor dem
+01.01.78 geboren sind
+Israel: Erwachsene Bevölkerung</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Deutschland: ALLBUS Personenstichprobe: Zweistufige, disproportional
+geschichtete Zufallsauswahl in West- (einschl. West-Berlin) und
+Ostdeutschland (einschl. Ost-Berlin). In der ersten Auswahlstufe wurden
+104 Gemeinden in Westdeutschland und 47 Gemeinden in Ostdeutschland mit
+einer Wahrscheinlichkeit proportional zur Zahl ihrer erwachsenen
+Einwohner ausgewählt, in der zweiten Auswahlstufe wurden jeweils 40
+Personen (in fünf Großstädten, die mehrmals in die Stichprobe
+gelangten, ein entsprechendes Vielfaches davon) aus den
+Einwohnermeldekarteien zufällig gezogen. (Stichprobengröße 3306)
+Israel: geschichtete Zufallsauswahl, (Stichprobengröße 1105) </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1996-03</monthyear>
+				</startDate>
+				<endDate>
+					<year>1999</year>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Infratest Burke, München
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>In Deutschland: Mündliche Befragung mit standardisiertem Fragebogen und
+schriftliche Zusatzbefragung (drop off) im Rahmen des ISSP
+In Israel: Mündliche Befragung mit standardisiertem Fragebogen
+(CATI)
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>241</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Der Datensatz ist ein kummulierter Datensatz aus Teilen des Allbus 1996
+(ZA-Studien-Nr. 2800) und einer nationalen Umfrage aus Israel.
+Befragte aus dem Bereich der neuen Bundesländer sind in den Daten
+überrepräsentiert (oversample). In der Israelischen Studie sind Befragte
+der arabischen Bevölkerung überrepräsentiert. Aus diesem Grund wurde
+eine zusätzliche gewichtete Variable eingeführt.
+In Deutschland lebende Ausländer aus dem Allbus Datensatz wurden nicht
+berücksichtigt, da ihnen nicht alle relevanten Fragen gestellt wurden.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Heyder, Aribert; Schmidt, Peter: 
+Autoritarismus und Ethnozentrismus in Deutschland: Ein Phänomen der Jugend oder der Alten? 
+In: U. Boehnke, D. Fuss and W. Hagan (eds.), Jugendliche und Rechtsextremismus. 
+Weinheim: Juventa Verlag 2002, S. 119-142 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Iser, Julia; Keil, Silvia; Schmidt, Peter: 
+Konkurrenz, Bedrohung oder Bereicherung? Einstellungen gegenüber Ausländern in Deutschland und Israel. 
+In: C. Gansel; A.-P. Enslin (Hrsg.): Literatur, Kultur und Medien. Facetten der Informationsgesellschaft. 
+Berlin: Weidler Verlag 2002, S. 185-203. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Raijman, Rebeca; Semyonov, Moshe: 
+Perceived Threat andExclusionary Attitudes To-wards Foreign Workers in Israel, Ethnic and Racial Studies, forthcoming. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Schmidt, Peter; Heyder, Aribert: 
+Authoritarianism and Ethnocentrism in East and West Germany: Does the system matter? 
+In: R. Alba, P. Schmidt and M. Wasmer (eds.): 
+Germans and Foreigners. Theoretical Models and Empirical Analyses. 
+New York: Palgrave Macmillan 2004, p. 187-210 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Raijman, Rebeca; Semyonov, Moshe; Schmidt, Peter: 
+Do Foreigners Deserve Rights? Comparing Public Views towards Foreigners in Germany and Israel. 
+In: European Sociological Review 19 2003, p. 379-392. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Semyonov, Moshe; Raijman, Rebeca; Anat Yom Tov; Schmidt, Peter: 
+Population Size, Per-ceived Threat and Exclusion: A Multiple Indicators Analysis of Attitudes Toward Foreigners in Germany, accepted for publication in Social Science Research. 2004.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Semyonov, Moshe; Raijman, Rebeca; Anat Yom Tov: 
+Labor Market Competition, Per-ceived Threat, and Endorsement of Economic Discrimination Against Foreign Workers in Israel. 
+In: Social Problems Vol. 49, No 3 2002, P. 416-431. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Semyonov, Moshe; Raijman, Rebeca 
+Labor Migration in the Public Eye: Attitudes Towards Foreign Workers in Israel. 
+In: ZA-Information 47, S. 6-28.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

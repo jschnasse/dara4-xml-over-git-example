@@ -1,0 +1,427 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Immigrant German Election Study (IMGES)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Immigrant German Election Study (IMGES)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7495</identifier>
+		<currentVersion>2.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Immigrant German Election Study (IMGES)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Immigrant German Election Study (IMGES)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Achim</firstName>
+				<middleName/>
+				<lastName>Goerres</lastName>
+				<affiliation>
+					<affiliationName>Institut für Politikwissenschaft, Universität Duisurg-Essen, Duisburg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Dennis C.</firstName>
+				<middleName/>
+				<lastName>Spies</lastName>
+				<affiliation>
+					<affiliationName>Heinrich-Heine-Universität Düsseldorf</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Sabrina</firstName>
+				<middleName/>
+				<lastName>Mayer</lastName>
+				<affiliation>
+					<affiliationName>DeZIM-Institut, Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7495?doi=10.4232/1.14187</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.14187</doiProposal>
+	<publicationDate>
+		<date>2023-10-04</date>
+	</publicationDate>
+	<publicationPlace>Cologne, Germany</publicationPlace>
+	<publisher>
+		<institution>
+			<institutionName>GESIS</institutionName>
+		</institution>
+	</publisher>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7495</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT14</identifier>
+					<!-- Politische Fragen (Issues) -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT16</identifier>
+					<!-- Politische Parteien, Verbände -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Wahlen</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>POLITIK</term>
+					<term>Politische Ideologie</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Minderheiten</term>
+					<term>Religion und Werte</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Elections</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Cultural and national identity</term>
+					<term>POLITICS</term>
+					<term>Political ideology</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Minorities</term>
+					<term>Religion and values</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Anomie</term>
+					<term>Autoritarismus</term>
+					<term>Diskriminierungserfahrungen</term>
+					<term>Soziale Netzwerke</term>
+					<term>Staatsbürgerschaft</term>
+					<term>Solidarität</term>
+					<term>Migrationspolitik</term>
+					<term>Identität &amp; soziales Zugehörigkeitsgefühl</term>
+					<term>Fremdenfeindlichkeit</term>
+					<term>Wertorientierungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+					<term>Religiöse Zugehörigkeit</term>
+					<term>Türkei</term>
+					<term>Russland</term>
+					<term>Ukraine</term>
+					<term>(Spät-)Aussiedler*innen/Russlanddeutsche</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+					<term>Textdaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Anomia</term>
+					<term>Authoritarianism</term>
+					<term>Discrimination experiences</term>
+					<term>Social networks</term>
+					<term>Citizenship</term>
+					<term>Solidarity</term>
+					<term>Migration policy</term>
+					<term>Identity &amp; sense of social belonging</term>
+					<term>Xenophobia</term>
+					<term>Value orientations</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+					<term>Religiöse Zugehörigkeit</term>
+					<term>Türkei</term>
+					<term>Russland</term>
+					<term>Ukraine</term>
+					<term>(Spät-)Aussiedler*innen/Russlanddeutsche</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+					<term>Textdaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Im Rahmen der Immigrant German Election Study (IMGES) wurden erstmals deutschlandweit ausschließlich Personen mit einem türkischen Migrationshintergrund oder einer Herkunft aus Ländern der ehemaligen Sowjetunion zu politischen Einstellungen und Verhaltensweisen befragt. Eines der Hauptziele der Studie bestand in der Untersuchung der Frage, ob das Wahlverhalten deutscher Bürger mit Migrationshintergrund durch etablierte Theorien der Wahlforschung erklärt werden kann oder ob dieses eher von migrationsspezifischen Eigenschaften abhängig ist. Die Befragung erfolgte im Anschluss an die Bundestagswahl 2017 und wurde simultan zur Nachwahlbefragung der German Longitudinal Election Study (GLES) durchgeführt. Das Projekt wurde durch die Deutsche Forschungsgemeinschaft (DFG) zwischen Oktober 2016 und März 2020 finanziert. 
+Themen: 1. Migrationshintergrund des Befragten und des Partners: Politikinteresse; geboren in Deutschland; Geburtsland; Monat und Jahr des Zuzugs nah Deutschland; Erwerb der deutschen Staatsangehörigkeit mit Geburt oder später; Jahr des Erwerbs der deutschen Staatsangehörigkeit; vorherige Staatsangehörigkeit; doppelte Staatsangehörigkeit; zweite Staatsangehörigkeit; Migrationsgrund; Eltern in Deutschland geboren, Geburtsland von Vater und Mutter; Jahr des Zuzugs von Vater und Mutter nach Deutschland; Staatsangehörigkeit von Vater und Mutter; Herkunftsregion in der Türkei, in Russland, in Kasachstan und der Ukraine; Familienstand; Zusammenleben mit einem Partner; Partner in Deutschland geboren, Geburtsland des Partners; Geburtsland von Vater und Mutter des Partners;
+2. Deutschland - Politische Probleme, Ziele, wirtschaftliche Lage: derzeit wichtigstes und zweitwichtigstes Problem in Deutschland; geeignetste Partei zur Lösung der Probleme; wichtigstes Problem in Deutschland für die eigene Migrationsgruppe; geeignetste Partei zur Lösung dieses Problems; wichtigstes und zweitwichtigstes Ziel der Bundesrepublik Deutschland in den nächsten 10 Jahren (Inglehart-Index); Beurteilung der allgemeinen wirtschaftlichen Lage in Deutschland; Beurteilung der derzeitigen wirtschaftlichen Lage der eigenen Migrationsgruppe; Wahlbeteiligung bei der letzten Bundestagswahl; Briefwahl; Wahlentscheidung Bundestagswahl (Erststimme und Zweitstimme); hypothetische Wahlbeteiligung und Wahlentscheidung (Befragte unter 18 Jahren); Zeitpunkt der Wahlentscheidung; Recall Bundestagswahl 2013: Wahlbeteiligung und Wahlentscheidung (Erststimme und Zweitstimme).
+3. Politische Orientierung und Einschätzung politischer Akteure: Sympathie-Skalometer für die Parteien CDU, CSU, SPD,FDP, Die Linke, Grüne und AfD; Sympathie-Skalometer für ausgewählte Spitzenpolitiker (Angela Merkel, Martin Schulz, Christian Lindner, Sahra Wagenknecht, Dietmar Bartsch, Horst Seehofer, Cem Özdemir, Katrin Göring-Eckardt, Alice Weidel und Alexander Gauland); Zufriedenheit mit den Leistungen der Bundesregierung aus CDU/CSU und SPD (Skalometer); Links-Rechts-Einstufung der vorgenannten Parteien; Links-Rechts-Selbsteinstufung; Demokratiezufriedenheit; Ansprache während des Wahlkampfes zur Bundestagswahl 2017; Ansprache im Wahlkampf durch welche Partei; Ansprache im Wahlkampf als Migrant; Ansprache im Wahlkampf auf deutsche Politik von verschiedenen Organisationen; Beurteilung der derzeitigen eigene wirtschaftliche Lage; Landtagswahlen: Wahlbeteiligung bei der letzten Landtagswahl in NRW; Wahlerhalten bei der Landtagswahl (Erststimme und Zweitstimme). 
+4. Politische Fragen (Issues): Zustimmung zu verschiedenen Aussagen: Forderung nach einer gesetzlich verankerten Frauenquote für die Aufsichtsräte großer Unternehmen, Regierung sollte Maßnahmen zur Verringerung von Einkommensunterschieden ergreifen, eingetragene gleichgeschlechtliche Partnerschaften sollten der Ehe gleichgestellt werden; zu viel Einfluss ausländischer Regierungen (Türkei bzw. Russland) auf die Politik in Deutschland; Meinung zum Religionsunterricht an staatlichen Schulen in Deutschland; Meinung zum Wahlrecht bei Kommunalwahlen für dauerhaft in Deutschland lebende Ausländer, die nicht aus einem EU-Mitgliedsland kommen; Politisches Wissen: Erststimme/ Zweitstimme, 5%-Hürde; Parteipositionen und eigene Position zum Thema Steuern und sozialstaatliche Leistungen (sozioökonomische Dimension); persönliche Wichtigkeit des Themas Steuern und sozialstaatliche Leistungen (Salienz sozioökonomische Dimension); Parteipositionen und eigene Position zum Thema erleichterte oder eingeschränkte Zuzugsmöglichkeiten für Ausländer (libertär-autoritäre Dimension); persönliche Wichtigkeit des Themas Zuzugsmöglichkeiten für Ausländer; Parteipositionen hinsichtlich ihres Verhältnisses zum Herkunftsland des Befragten; Wichtigkeit des Verhältnisses deutscher Parteien zum Herkunftsland.
+5. Religion und Zugehörigkeit: Selbsteinschätzung Religiosität; Konfession oder Glaubensgemeinschaft; Häufigkeit der Teilnahme an religiösen Zusammenkünften; Konfession des Partners; Soziale Identität: Gruppenzugehörigkeit; stärkste Gruppenzugehörigkeit; wichtig für die Identität als Deutscher/ Deutsche (in Deutschland geboren zu sein, deutsche Werte und Traditionen zu teilen, Deutsch sprechen zu können, Deutsche Vorfahren zu haben); Ablehnung Heirat einer Person deutscher Herkunft ohne Migrationshintergrund, syrischer Herkunft, russlanddeutscher Herkunft, türkischer Herkunft, christlichen Glaubens bzw. muslimischen Glaubens; 
+6. Politische Meinungen: Einstellung zu Politik: Wahlbeteiligung als Bürgerpflicht, Politiker vertreten nur Interessen der Reichen und Mächtigen, politische Fragen oft schwer zu verstehen, starker politischer Anführer gut für Deutschland, auch wenn dieser die Gesetze beugt; Einstellung zum Zuzug verschiedener Personengruppen nach Deutschland (Arbeitnehmer aus EU-Staaten, Arbeitnehmer aus Nicht-EU-Staaten, Flüchtlinge aus Kriegsgebieten, politische verfolgte Flüchtlinge, Wirtschaftsflüchtlinge); Art der politischen Partizipation in den letzten 12 Monaten (z.B. Kontaktaufnahme zu einem Politiker, Mitarbeit in einer politischen Partei oder Gruppierung, etc.); unterstützte Partei; Teilnahme an Aktivitäten verschiedener Organisation in den letzten 12 Monaten (z.B. Arbeitgeberorganisationen, religiöse/ kirchliche Gruppen, Sport- und Freizeitverein, etc.); mindestens die Hälfte der Mitglieder der Teilnehmer dieser Organisation mit Migrationshintergrund; Institutionenvertrauen Deutschland (Parlament, Justiz, Regierung, Polizei, politische Parteien, Medien); allgemeines soziales Vertrauen; Wahrscheinlichkeit folgende Parteien zu wählen: CDU, CSU, SPD, Die Linke, Grüne, FDP und AfD; Häufigkeit von Gesprächen über Politik in der vergangenen Woche; Parteineigung; Stärke der Parteiidentifikation; Art der Parteiidentifikation (z.B. Partei bedeutet mir sehr viel, Partei an sich bedeutet mir weniger, aber sie macht die bessere Politik); Häufigkeit von Besuchen im Herkunftsland; direkte Familienangehörige im Herkunftsland; Wohneigentum im Herkunftsland; Nutzungshäufigkeit verschiedener Medien für Informationen über das Herkunftsland (deutsche Zeitungen, deutsches Fernsehen, türkische/ russische Zeitungen oder Fernsehen, Zeitungen bzw. Fernsehen des Herkunftslandes); Kontakthäufigkeit mit Verwandten im Herkunftsland; Politikinteresse in Bezug auf das Heimatland; Wahlbeteiligung an der letzten nationalen Wahl im Heimatland; Wahlentscheidung bei der letzten Wahl im Heimatland; doppelte Staatsbürger: beabsichtigte Wahlentscheidung bei Parlamentswahlen im Herkunftsland; hypothetische Wahlentscheidung bei Parlamentswahlen im Herkunftsland; Institutionenvertrauen Herkunftsland; Mitgliedschaft in einer ausländischen Partei bzw. Geldspende an diese Partei; Teilnahme an Aktivitäten einer ausländischen Partei in den letzten zwei Jahren; Meinung zur EU-Mitgliedschaft der Türkei; Teilnahme am Referendum über eine Verfassungsreform in der Türkei; Entscheidung für oder gegen die Verfassungsreform; hypothetische Entscheidung hinsichtlich dieses Referendums; Sympathie-Skalometer für Politiker ausländischer Herkunft (türkischer Präsident Erdogan/ russischer Präsident Putin); Unterstützung oder Ablehnung des Vorgehens der russischen Föderation im Hinblick auf die Eingliederung der Krim. 
+7. Diskriminierung und soziales Netzwerk: Identität als Mitglied einer in Deutschland benachteiligten Gruppe; Gründe für Diskriminierung (z.B. ausländische Abstammung, etc.); Bereiche der Diskriminierung (z.B. Wohnungssuche, etc.); soziales Vertrauen hinsichtlich der eigenen Migrationsgruppe; Zusammensetzung des Freundeskreises und der Arbeitskollegen (Anteil mit Migrationshintergrund); Selbsteinschätzung der Sprachkenntnisse (Deutsch, Türkisch, Kurdisch, Russisch, andere Herkunftssprache); hauptsächlich verwendete Sprache auf der Arbeit, mit Freunden und in der Familie; Häufigkeit von Gesprächen über die Politik in der Türkei/ Russland mit der Familie; Familienmitglied vorhanden mit jeweils positiver und negativer Bewertung der derzeitigen Politik der türkischen/ russischen Regierung; Anzahl der jeweils positiv und negativ bewertenden Familienmitglieder. 
+Demographie: Geschlecht; Alter (Geburtsjahr; Haushaltsgröße; Alter der Personen im Haushalt; Land des letzten Schulbesuchs (Deutschland oder anderes Land); höchster Schulabschluss; Jahre des Schulbesuchs im Ausland; berufliche Ausbildung abgeschlossen in Deutschland oder in einem anderen Land; Art des beruflichen Ausbildungsabschlusses; Art der beruflichen Bildung im Ausland; derzeitige bzw. frühere Erwerbstätigkeit; derzeitige bzw. frühere berufliche Stellung; Berufsbezeichnung; Zeit-/ Leiharbeit; derzeitiger bzw. früherer Beschäftigungssektor; Angst vor Arbeitslosigkeit bzw. Betriebsverlust; Selbsteinschätzung der Schichtzugehörigkeit; Gewerkschaftsmitglied im Haushalt; Haushaltsnettoeinkommen (kategorisiert); Ausbildung und Beruf des Partners: Land des Schulbesuchs; Jahre des Schulbesuchs im Ausland; Schulabschluss; derzeitige bzw. frühere Erwerbstätigkeit; derzeitige bzw. frühere berufliche Stellung. 
+Zusätzlich verkodet wurde: Zeitstempel Module 1 - 15 Eingang; Zeitstempel Module 1 - 15 Ausgang; laufende Nummer; Interviewdatum (Tag, Monat, Jahr); Bundesland; Sample: Teilstichprobe nach Onomastik/ Teilstichprobe nach Screening; Datenerhebungsmodus (CAPI oder CASI); Sprache der Datenerhebung (CAPI Deutsch, CASI Türkisch, CASI Russisch); Einwilligung zum Interview; Kontrollfragen; Wiederbefragungsbereitschaft; PSU: Point Nummer; Gewichtungsfaktoren; Returncode; Screening-Fragen: Herkunft; deutsche Staatsbürgerschaft; Ende der Befragung (keine Einwilligung, keine Sprache, Ausgescreente); Verständnisprobleme Deutsch; CAPI oder CASI; Übergabe Selbstbearbeitung; Spracheinstellung automatisch.
+Interviewerrating: Verständnis; Sprachkenntnisse des Befragten; Probleme oder Störungen während des Interviews; Art der Probleme oder Störungen (offen).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Within the framework of the Immigrant German Election Study (IMGES), for the first time in Germany exclusively persons with a Turkish migration background or an origin from countries of the former Soviet Union were interviewed about political attitudes and behaviour. One of the main objectives of the study was to investigate whether the voting behaviour of German citizens with a migration background can be explained by established theories of electoral research or whether it is more dependent on migration-specific characteristics. The survey was conducted after the 2017 federal elections and was conducted simultaneously with the post-election survey of the German Longitudinal Election Study (GLES). The project was funded by the German Research Foundation (DFG) between October 2016 and March 2020.
+Topics: 1. Migration background of the respondent and the partner: Political interest; born in Germany; country of birth; month and year of moving close to Germany; acquisition of German citizenship at birth or later; year of acquisition of German citizenship; previous citizenship; dual citizenship; second citizenship; reason for migration; parents born in Germany, country of birth of father and mother; Year when father and mother moved to Germany; nationality of father and mother; region of origin in Turkey, Russia, Kazakhstan and Ukraine; marital status; living together with a partner; partner born in Germany, country of birth of partner; country of birth of father and mother of partner
+2. Germany - political problems, goals, economic situation: currently most important and second most important problem in Germany; most suitable party to solve the problems; most important problem in Germany for one´s own migration group; most suitable party to solve this problem; most important and second most important goal of the Federal Republic of Germany in the next 10 years (Inglehart Index) assessment of the general economic situation in Germany; assessment of the current economic situation of one´s own migration group; turnout in the last Bundestag election; postal vote; election decision Bundestag election (first and second vote); hypothetical turnout and election decision (respondents under 18 years of age); date of election decision; recall Bundestag election 2013: Voter participation and decision (first and second vote).
+3. Political orientation and assessment of political actors: Sympathy Scale for the parties CDU, CSU, SPD,FDP, Die Linke, Grüne and AfD; Sympathy Scale for selected top politicians (Angela Merkel, Martin Schulz, Christian Lindner, Sahra Wagenknecht, Dietmar Bartsch, Horst Seehofer, Cem Özdemir, Katrin Göring-Eckardt, Alice Weidel and Alexander Gauland); satisfaction with the performance of the federal government from CDU/CSU and SPD (Scale); left-right classification of the above-mentioned parties; left-right self-classification; satisfaction with democracy; address during the election campaign for the 2017 Bundestag elections; address during the election campaign by which party; address during the election campaign as a migrant; address during the election campaign on German politics by various organisations; assessment of the current own economic situation; state elections Voter turnout at the last state elections in NRW; election receipt at the state elections (first vote and second vote).
+4. Political issues: agreement on various statements: demand for a legally established women´s quota for the supervisory boards of large companies, government should take measures to reduce income disparities, registered same-sex partnerships should be given equal status to marriage; too much influence of foreign governments (Turkey or Russia) on politics in Germany; opinion on religious instruction at state schools in Germany; opinion on voting rights in local elections for foreigners living permanently in Germany who do not come from an EU member state; political knowledge First vote/ second vote, 5% hurdle; party positions and own position on the topic of taxes and welfare state benefits (socio-economic dimension); personal importance of the topic of taxes and welfare state benefits (salience socio-economic dimension); party positions and own position on the topic of facilitated or limited opportunities for foreigners to move to Germany (libertarian-authoritarian dimension); personal importance of the topic of opportunities for foreigners to move to Germany; party positions regarding their relationship to the respondent´s country of origin; importance of the relationship of German parties to the country of origin.
+5. Religion and affiliation: self-assessment of religiousness; denomination or faith community; frequency of participation in religious meetings; denomination of the partner; social identity: group membership; strongest group membership; important for identity as a German/German (being born in Germany, sharing German values and traditions, being able to speak German, having German ancestors); refusal to marry a person of German origin without a migration background, Syrian origin, Russian-German origin, Turkish origin, Christian faith or Muslim faith
+6. Political opinions: attitude towards politics: Voter participation as a civic duty, politicians only represent interests of the rich and powerful, political issues often difficult to understand, strong political leader good for Germany, even if he bends the laws; attitude towards the immigration of different groups of people to Germany (workers from EU countries, workers from non-EU countries, refugees from war zones, politically persecuted refugees, economic refugees); type of political participation in the last 12 months (e.g. establishing contact with a politician, working in a political party or grouping, etc.); supported party; participation in activities of various organisations in the last 12 months (e.g. employers´ organisations, religious/church groups, sports and leisure club, etc.); at least half of the members of the participants of this organisation with a migration background; institutional trust Germany (parliament, judiciary, government, police, political parties, media); general social trust; likelihood of voting for the following parties: CDU, CSU, SPD, Die Linke, Grüne, FDP and AfD; frequency of discussions about politics in the past week; party affiliation; strength of party identification; type of party identification (e.g. party means a lot to me, party in itself means less to me, but it makes the better politics); frequency of visits to the country of origin; direct family members in the country of origin; home ownership in the country of origin; frequency of use of different media for information about the country of origin (German newspapers, German television, Turkish/Russian newspapers or television, newspapers or television of the country of origin); frequency of contact with relatives in the country of origin; political interest in relation to the country of origin; voter participation in the last national election in the country of origin; voting decision in the last election in the country of origin; dual citizens: intended voting decision in parliamentary elections in the country of origin; hypothetical voting decision in parliamentary elections in the country of origin; institutional trust in the country of origin; membership of a foreign party or Donation of money to that party; participation in activities of a foreign party in the last two years; opinion on Turkey´s membership of the EU; participation in a referendum on constitutional reform in Turkey; decision for or against constitutional reform; hypothetical decision concerning that referendum; sympathy scale for politicians of foreign origin (Turkish President Erdogan/Russian President Putin); support or rejection of the Russian Federation´s approach to the integration of Crimea.
+7. Discrimination and social network: identity as a member of a group disadvantaged in Germany; reasons for discrimination (e.g. foreign descent, etc.); areas of discrimination (e.g. finding accommodation, etc.) Social trust with regard to one´s own migrant group; composition of circle of friends and colleagues (proportion with migrant background); self-assessment of language skills (German, Turkish, Kurdish, Russian, other language of origin); language mainly used at work, with friends and in the family; frequency of discussions about Turkish/Russian policy with the family; family member present with positive and negative evaluation of the current policy of the Turkish/Russian government; number of family members with positive and negative evaluation.
+Demography: sex; age (year of birth; household size; age of persons in the household; country of last school attendance (Germany or other country); highest school leaving certificate; years of school attendance abroad; vocational training completed in Germany or in another country; type of vocational training certificate; type of vocational training abroad; current or previous employment; current or previous employment; current or previous occupational status; job title; temporary work; current or previous employment sector; fear of unemployment or loss of business; self-assessment of shift membership; union member in household; net household income (categorised); education and occupation of partner: country of schooling; years of schooling abroad; school-leaving certificate; current or previous employment; current or previous job.
+Additionally coded: timestamp modules 1 - 15 incoming; timestamp modules 1 - 15 outgoing; sequential number; date of interview (day, month, year); state; sample: subsample after onomastics/ subsample after screening; data collection mode (CAPI or CASI); language of data collection (CAPI German, CASI Turkish, CASI Russian); consent to interview; control questions; willingness to re-interview; PSU: point number; weighting factors; return code; screening questions: origin; German citizenship; end of interview (no consent, no language, screened out); comprehension problems German; CAPI or CASI; transfer self-processing; language setting automatic.
+Interviewer rating: understanding; language skills of the respondent; problems or disorders during the interview; type of problems or disorders (open).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutsche Staatsbürger ab 16 Jahren mit Migrationshintergrund in der ersten und zweiten Generation aus den Herkunftsländern Türkei und ehemalige Sowjetunion (und Nachfolgestaaten)</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German citizens aged 16 and over with a migration background in the first and second generation from the countries of origin Turkey and former Soviet Union (and successor states)</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: – Einwohnermeldeamtsstichprobe:
+Zufällige Auswahl von 150 gleichgroßen Sample Points in 140 Gemeinden; in diesen Gemeinden zufällige Auswahl von Personen, die vor dem 18.09.2001 geboren wurden.
+Ergebnis: 136 Gemeinden haben Adressen übermittelt.
+– Onomastische Vorqualifizierung:
+Mithilfe onomastischer Verfahren Identifikation von Personen, die auf Basis des vom Einwohnermeldeamt übermittelten Vor- und Nachnamens mit hoher Sicherheit einen türkischen Hintergrund oder einen Hintergrund aus der ehemaligen Sowjetunion (bzw. einem Nachfolgestaat) haben. Ergebnis: 14.607 Personen haben vermutlich einen Hintergrund aus der Türkei oder einen Hintergrund aus der Sowjetunion (bzw. einem Nachfolgestaat).
+– Bruttoeinsatzstichprobe:
+Personen, die laut Onomastik vermutlich einen türkischen Hintergrund oder einen Hintergrund aus der Sowjetunion (bzw. einem Nachfolgestaat) haben und deren Staatsangehörigkeit entweder deutsch ist, die eine doppelte Staatsangehörigkeit haben (deutsch und eine weitere) oder zu deren Staatsangehörigkeit es beim Einwohnermeldeamt keine Auskunft gab.
+Ergebnis: Einsatz von 8.071 Personen (TU: 4.690, SU: 3.381).
+– Feststellen der Zugehörigkeit zur Zielgruppe (Screening):
+Im Rahmen der Kontaktierung sollten die Interviewer klären, ob die Personen Teil der Zielgruppe sind und nur dann ein Interview durchführen, wenn das der Fall ist.
+Ergebnis: 3.819 Personen haben bestätigt, dass sie Teil der Zielgruppe sind, 451 Personen haben angegeben, dass sie nicht Teil der Zielgruppe sind und für den Rest der Zielpersonen ist die Zielgruppenzugehörigkeit unklar.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2017-10-04</date>
+				</startDate>
+				<endDate>
+					<date>2017-12-03</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>infas Institut für angewandte Sozialwissenschaft GmbH, Bonn</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hayfat</firstName>
+				<middleName/>
+				<lastName>Hamidou</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Duisurg-Essen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jonas</firstName>
+				<middleName/>
+				<lastName>Elis</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Duisurg-Essen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.ComputerAssisted</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Persönliches Interview (CAPI) auf Deutsch, ggf. bei schlechten Sprachkenntnissen (Einschätzung durch Interviewer): Angebot zur Teilnahme auf Türkisch oder Russisch am Laptop (CASI), Ziellänge 60 Minuten</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>1020</numberUnits>
+			<numberVariables>475</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Daten der qualitativen Phase sind hier erhältlich:
+Goerres, Achim; Spies, Dennis C; Mayer, Sabrina J (2020): Das Wahlverhalten der Deutschen mit Migrationshintergrund, qualitative Phase. Transkripte der Fokusgruppeninterviews. 
+PANGAEA, https://doi.org/10.1594/PANGAEA.919342
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The data of the qualitative phase are available here:
+Goerres, Achim; Spies, Dennis C; Mayer, Sabrina J (2020): Das Wahlverhalten der Deutschen mit Migrationshintergrund, qualitative Phase. Transkripte der Fokusgruppeninterviews.
+PANGAEA, https://doi.org/10.1594/PANGAEA.919342</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.13544</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.13405</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Goerres, Achim; Spies, Dennis C.; Mayer; Sabrina J.; Elis, Jonas (2023): Nachwahlbefragung
+IMGES. Benutzerdokumentation. Duisburg: Universität Duisburg-Essen.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Deutsche mit Migrationshintergrund bei der Bundestagswahl 2017: Erste
+Auswertungen der Immigrant German Election Study zu Deutschtürken und
+Russlanddeutschen
+https://www.researchgate.net/publication/323534980_Deutsche_mit_Migrationshintergrund_bei_der_Bundestagswahl_2017_Erste_Auswertungen_der_Immigrant_German_Election_Study_zu_Deutschturken_und_Russlanddeutschen?channel=doi&amp;linkId=5a9a5328a6fdcc3cbac93d1a&amp;showFulltext=true
+</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

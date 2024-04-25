@@ -1,0 +1,206 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Attitudes on Current Questions of Domestic Policy (1991) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Einstellungen zu aktuellen Fragen der Innenpolitik (1991)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA2120</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Einstellungen zu aktuellen Fragen der Innenpolitik (1991)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Attitudes on Current Questions of Domestic Policy (1991) 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Institut für praxisorientierte Sozialforschung (IPOS), Mannheim
+</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2120?doi=10.4232/1.2120</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.2120</doiProposal>
+	<publicationDate>
+		<year>1992</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2120</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kriminalität und Gesetzesvollzug</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Crime and law enforcement</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellung zu innenpolitischen Themen.
+Themen: Demokratiezufriedenheit; Parteipräferenz(Sonntagsfrage); Wahlverhalten bei der letzten Bundestagswahl;Vertrauen in öffentliche Institutionen (Skalometer);Wichtigkeit von Bundesinstitutionen (Skalometer); präferierteEntwicklung der Gesellschaft (Skala); wichtigste Ziele derInnenpolitik; Beurteilung des Asylrechts; Einstellung zu einerAufnahmebegrenzung für politisch Verfolgte und konsequenteAbschiebung von abgelehnten Asylbewerbern; Kontakte zuAusländern; Nationalstolz; Zufriedenheit mit dengesellschaftlichen Bedingungen in der Bundesrepublik;empfundene Bedrohung der öffentlichen Sicherheit sowievermutete Zu- bzw. Abnahme dieser Bedrohung; empfundeneBedrohung sowie Beunruhigung durch ausgewählteKriminalitätsformen.
+Einstellung zu Europa; Präferenz für nationale odereuropäische Lösung von ausgewählten politischen Problemen;Einschätzung der Vorteilhaftigkeit der EG-Mitgliedschaft undder Natomitgliedschaft für die Bundesrepublik; Erwartungen anden gemeinsamen Binnenmarkt Ende 1992.
+Zustimmung zu einem UNO-Einsatz (Blauhelm-Aktion) derBundeswehr bzw. des Bundesgrenzschutzes; politischePartizipation; geschätzte Dauer der Angleichung derLebensverhältnisse in Ost- und Westdeutschland; perzipierteGefahr für die Demokratie durch ehemalige SED-Funktionäre inOstdeutschland bzw. der ganzen Bundesrepublik; Einschätzung derGlaubwürdigkeit der PDS; Einstellung zur PDS als Mitglied desBundestages; Wichtigkeit der Bewältigung der STASI- undSED-Vergangenheit der DDR (Skala); Vertrauen in die (GAUCK-)Behördedes Sonderbeauftragten für die STASI-Unterlagen; Bedarf anFachleuten aus dem Westen für die ostdeutsche Verwaltung undWirtschaft; Befürwortung staatlicher Aktivitäten gegenlinksextremistische bzw. rechtsextremistische Gruppen;Gefährdung der Demokratie durch diese Gruppen;Postmaterialismus; Selbsteinstufung auf einemLinks-Rechts-Kontinuum.
+Demographie: Alter (klassiert); Geschlecht; Familienstand; Konfession;Kirchgangshäufigkeit; Schulbildung; Berufsausbildung; BeruflichePosition; Berufstätigkeit; Staatsexamen, Diplom oder ähnlicher Abschluß;Befragter ist Haushaltsvorstand; Charakteristika des Haushaltsvorstands;Zusammenleben mit einem Lebensgefährten; akademischer Grad; perzipierteGefährdung des eigenen Arbeitsplatzes sowie des Arbeitsplatzes vonnahestehenden Personen; Gewerkschaftsmitgliedschaft; Parteineigung;telefonische Erreichbarkeit an Werktagabenden.
+Zusätzlich verkodet wurde: Interviewdatum.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Attitude to topics of domestic policy. 
+Topics: Satisfaction with democracy; party preference (Sundayquestion); behavior at the polls in the last Federal Parliamentelection; trust in public institutions (scale); importance of federalinstitutions (scale); preferred development of society (scale); mostimportant goals of domestic policy; judgement on the right to asylum;attitude to a limit to admission of politically persecuted andconsistent deportation of those whose application for asylum wasdenied; contacts with foreigners; national pride; satisfaction withsocial conditions in the Federal Republic; perceived threat to publicsafety as well as assumed increase or decrease of this threat;perceived threat as well as concern from selected forms of crime.Attitude to Europe; preference for national or European solution ofselected political problems; assessment of the advantageousness of ECmembership and NATO membership for the Federal Republic; expectationsof the common domestic market the end of 1992. Agreement with a UNmission (blue helmet action) of the Federal German Armed Forces orFederal Border Guard; political participation; estimated time requiredto achieve equivalent living conditions in Eastern and Western Germany;perceived danger to democracy from former SED functionaries in EasternGermany or the entire Federal Republic; assessment of the credibilityof the PDS; attitude to the PDS as member of the Federal Parliament;importance of dealing with the STASI and SED past of the GDR (scale);trust in the (Gauck) special office for STASI records; need for expertsfrom the West for Eastern German administration and economy; approvalof government activities against left extremist or right extremistgroups; jeopardy to democracy from these groups; postmaterialism;self-classification on a left-right continuum. 
+Demography: living together with a companion through life; academicdegree; perceived jeopardy to one´s own job as well as the jobs offriends and relatives; religiousness; union membership; partyinclination; availability by telephone on weekday evenings. 
+Also encoded was: date of interview.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage stratified random sample 
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1991-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1991-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>USUMA, Berlin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>157</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Weitere Studien zu aktuellen Fragen der Innenpolitik in der
+Bundesrepublik sind unter den ZA-Studien-Nrn. 1373, 1463, 1516,
+1662, 1698, 1763, 1937 sowie 1967 archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Further studies on current questions of domestic policy in the Federal
+Republic are archived under ZA Study Nos. 1373, 1463, 1516, 1662, 1698,
+1763, 1937 as well as 1967. </text>
+		</note>
+	</notes>
+</resource>

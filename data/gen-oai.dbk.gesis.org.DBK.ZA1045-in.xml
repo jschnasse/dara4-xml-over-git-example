@@ -1,0 +1,238 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Social and Cultural Determinants of the Conduct of Foreign Workers
+(Ecological Investigation)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Soziale und kulturelle Bestimmungsgründe des Verhaltens
+ausländischer Arbeitnehmer (ökologische Untersuchung)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1045</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Soziale und kulturelle Bestimmungsgründe des Verhaltens
+ausländischer Arbeitnehmer (ökologische Untersuchung)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Social and Cultural Determinants of the Conduct of Foreign Workers
+(Ecological Investigation)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Hartmut</firstName>
+				<middleName/>
+				<lastName>Esser</lastName>
+				<affiliation>
+					<affiliationName>Institut für Arbeitssoziologie und Arbeitspolitik,
+Ruhr-Universität Bochum
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1045?doi=10.4232/1.1045</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1045</doiProposal>
+	<publicationDate>
+		<year>1979</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1045</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Wohnraum</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Community, urban and rural life</term>
+					<term>Social conditions and indicators</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Housing</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Lebens- und Wohnsituation der deutschen und der ausländischenBevölkerung in ausgewählten Stadtteilen Kölns. Einstellungzur Integration und Kontakte zwischen Landsleuten bzw. zuAusländern.
+Themen: Die Befragung besteht aus einem gemeinsamen Befragungsteilfür Ausländer und Deutsche und einem Zusatzteil, der nur an dieAusländer gestellt wurde. Der gemeinsame Teil enthältfolgende Fragen: Beurteilung des Anteils von Landsleutenbzw. Ausländern in der Wohngegend; Ortsansässigkeit undUmzugshäufigkeit innerhalb der Stadt; Inanspruchnahme ethnischerEinrichtungen im Stadtgebiet; Beschreibung der Wohnsituation; Art derWohnungsvermittlung; Wohndauer; Mietkosten; Anteil der Landsleuteund Ausländer im Wohnhaus; Wohndauer und Wohnzufriedenheit;Interesse und Gründe für Wohnungswechsel; Einstellung bzw.vermutete Einstellung zur Integration von Gastarbeitern undvermutliche Gründe für die Schwierigkeiten der Ausländer in der BRD(Skalen); Nachbarschaftskontakte und Wunsch nach mehr Kontakten zuLandsleuten bzw. Ausländern; allgemeine Lebenszufriedenheit;Freizeitaktivitäten; Angaben über die eigene Berufstätigkeitund die des Ehepartners; wöchentliche Arbeitszeit;Arbeitszufriedenheit; Wunsch nach beruflicher Mobilität.
+Bei Ausländern wurde zusätzlich gefragt:  Größe des Wohnorts imHerkunftsland; Berufsausbildung und letzte berufliche Tätigkeit imHeimatland; Gründe für die Einreise in die BRD und geplanteAufenthaltsdauer; erste berufliche Tätigkeit nach der Einreise in dieBRD; Wohnsituation nach der Einreise; Vorhandensein und Nutzung vonethnischen Infrastruktureinrichtungen in der Wohngegend; Interesse amErwerb der deutschen Staatsangehörigkeit; Selbsteinschätzung derDeutschkenntnisse und Teilnahme an Deutschkursen.
+Demographie: Alter; Geschlecht; Familienstand; Anzahl der Kinder unter15 Jahren; Schulbildung; Berufsausbildung; Beruf; berufliche Position;Berufstätigkeit; Einkommen; Einkommen des Ehepartners; Haushaltsgröße;Wohnstatus; Berufstätigkeit des Ehepartners; Beruf des Ehepartners;berufliche Position des Ehepartners.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Living and housing situation of the German and the foreign populationin selected parts of town in Cologne. Attitude to integration andcontacts with countrymen or foreigners.
+Topics: The survey consists of a common part for foreigners andGermans and a supplemental part posed only to foreigners. The commonpart contains the following questions: judgement on the proportion ofcountrymen or foreigners in the residential area; local residency andmoving frequency within the city; utilization of ethnic facilities inthe municipal area; description of housing situation; manner ofarranging residence; length of residence; rent costs; proportion ofcountrymen and foreigners in residential building; length of residenceand satisfaction with housing; interest and reasons for change ofresidence; attitude or assumed attitude to integration of guest workersand presumable reasons for the difficulties of foreigners in the FRG(scales); neighborhood contacts and desire for more contacts withcountrymen or foreigners; general contentment with life; leisureactivities; information on personal employment and that of spouse;weekly working hours; work satisfaction; desire for occupationalmobility.
+Among foreigners the following additional questions were posed: sizeof place of residence in country of origin; vocational training andlast occupational activity in native country; reasons for moving to theFRG and planned length of stay; first occupational activity aftermoving to the FRG; housing situation after moving; presence and use ofethnic infrastructure facilities in residential area; interest inacquisition of German citizenship; self-assessment of knowledge ofGerman and participation in German courses.
+Demography: age; sex; marital status; number of children under 15years; school education; vocational training; occupation; occupationalposition; employment; income; income of spouse; size of household;residential status; employment of spouse; occupation of spouse;occupational position of spouse. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Cologne</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Köln</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutsche und ausländische (türkischen und italienischen) Personen in den
+Stadtteilen Kalk, Humboldt-Gremberg, Chorweiler und Bocklemünd-Mengenich</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German and foreign (Turkish
+and Italian) persons in the parts of town Kalk, Humboldt-Gremberg,
+Chorweiler and Bocklemuend-Mengenich. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Klumpenauswahl 
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage stratified cluster sample </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1979-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1979-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Institut fuer Arbeitssoziologie und Arbeitspolitik,
+Ruhr-Universitaet Bochum
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+der Ausländer und schriftliche Befragung der Deutschen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+of foreigners and written survey of Germans
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>281</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Vergleiche auch die im gleichen Projekt durchgeführten
+Befragungen unter den ZA-Studien-Nrn. 1042 bis 1044. Die Befragung
+der Ausländer wurde durch Interviewer durchgeführt, die
+Landsmann des Befragten waren.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>See also the surveys archived under ZA Study Nos. 1042 to 1044 conducted
+in the same project. The survey of foreigners was
+conducted by interviewers who were countrymen of the respondents.
+</text>
+		</note>
+	</notes>
+</resource>

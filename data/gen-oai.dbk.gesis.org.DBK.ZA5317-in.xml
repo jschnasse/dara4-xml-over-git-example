@@ -1,0 +1,334 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'The Integration of the European Second Generation in Frankfurt and Berlin (TIES Germany) - full version'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Die Integration der europäischen zweiten Generation in Frankfurt und Berlin (TIES Germany) - Vollversion'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA5317</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Die Integration der europäischen zweiten Generation in Frankfurt und Berlin (TIES Germany) - Vollversion</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>The Integration of the European Second Generation in Frankfurt and Berlin (TIES Germany) - full version</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Pott</lastName>
+				<affiliation>
+					<affiliationName>Osnabrück University</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5317?doi=10.4232/1.11896</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11896</doiProposal>
+	<publicationDate>
+		<date>2014-04-17</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5317</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>1</identifier>
+			<type>VerbundFDB</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>Migrationshintergrund</keyword>
+				<keyword>Familiensituation</keyword>
+				<keyword>Schulbildung</keyword>
+				<keyword>Berufstätigkeit</keyword>
+				<keyword>Arbeitsuche</keyword>
+				<keyword>Arbeitslosigkeit</keyword>
+				<keyword>Partnerschaft</keyword>
+				<keyword>Elternhaus</keyword>
+				<keyword>soziale Herkunft</keyword>
+				<keyword>Wohnverhältnisse</keyword>
+				<keyword>soziale Beziehungen</keyword>
+				<keyword>Diskriminierung</keyword>
+				<keyword>Geschlechtsrolle</keyword>
+				<keyword>nationale Identität</keyword>
+				<keyword>Religiosität</keyword>
+				<keyword>Einkommen</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>migration background</keyword>
+				<keyword>family situation</keyword>
+				<keyword>school education</keyword>
+				<keyword>gainful occupation</keyword>
+				<keyword>job search</keyword>
+				<keyword>unemployment</keyword>
+				<keyword>partnership</keyword>
+				<keyword>parental home</keyword>
+				<keyword>social background</keyword>
+				<keyword>housing conditions</keyword>
+				<keyword>social relations</keyword>
+				<keyword>discrimination</keyword>
+				<keyword>gender role</keyword>
+				<keyword>national identity</keyword>
+				<keyword>religiousness</keyword>
+				<keyword>income</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>TIES Germany ist Teil einer internationalen Studie, die in acht europäischen Ländern (Belgien, Deutschland, Schweden, Schweiz, Niederlande, Frankreich, Frankreich, Spanien und Österreich) durchgeführt wurde und sich mit den Nachkommen von MigrantInnen aus der Türkei, dem ehemaligen Jugoslawien und Marokko befasst. 
+Persönliche Angaben. Bildungsbiographie. Erwerbsbiographie. Partnerbiographie. Elternbiographie. Wohnen und Nachbarschaft. Soziale Beziehungen und politische Teilnahme. Geschlechterrollen und Kinderbetreuung. Identität, Sprache und Transnationalismus. Religion und Religiosität. Einkommen. 
+Themen: 1. Persönliche Angaben: Aus dem Elternhaus ausgezogen; Alter beim Auszug aus dem Elternhaus; Gründe für den Auszug aus dem Elternhaus; Anzahl ältere und jüngere Geschwister; Kinder außerhalb des Haushalts und Anzahl der Kinder; deutsche Staatsangehörigkeit; deutsche Staatsangehörigkeit seit Geburt; Jahr des Erwerbs der deutschen Staatsangehörigkeit; andere Nationalität bzw. Zugehörigkeitsgefühl zu anderen Nationalitäten; Absicht zum Erwerb der deutschen Staatsbürgerschaft in den nächsten zwei Jahren; Gründe für fehlende Absicht; zweite Staatsbürgerschaft neben der deutschen; Erwerb dieser Staatsbürgerschaft durch Abstammung, Heirat oder Einbürgerung. 
+2. Bildungsbiographie: Alter beim ersten Besuch einer schulischen Einrichtung; Kindergarten oder Vorschule besucht und Dauer; Art der Grundschule; wichtigste Gründe für den Besuch dieser Grundschule; Anteil der Kinder mit Migrationshintergrund in der Grundschule; Schulwechsel während der Grundschulzeit; Überstellung in eine Sonderschule; Klasse wiederholt während der Grundschulzeit; Unterbrechung der Grundschulzeit von mehr als drei Monaten für Auslandsaufenthalt; Alter bei Abschluss bzw. Verlassen der Grundschule; Empfehlung für weiterführende Schule; empfohlene und tatsächlich besuchte Schulform nach der Grundschule; derzeitiger Besuch der weiterführenden Schule; weiterführende Schule mit Zeugnis abgeschlossen; Gründe für Schulabbruch; Alter bei Abschluss bzw. Verlassen der weiterführenden Schule; weitere Bildungsempfehlung nach der neunten oder zehnten Klasse; Art der Bildungsempfehlung und besuchte Schulform oder Schule; weiterer Schulbesuch und derzeitiger Besuch dieser Schule; Schulabschluss mit Zeugnis oder Diplom; Gründe für Schulabbruch ohne Zeugnis oder Diplom; Alter beim Schulabschluss bzw. Verlassen dieser weiteren Schule; entsprechende Abfragen für alle zusätzlichen Aus- und Weiterbildungen; höchste mit einem Zeugnis oder Diplom abgeschlossene Schulform; Gründe für fehlende weitere Ausbildung; Fachgebiet der höchsten Qualifikation; Anzahl der Schulwechsel in der 5. bis 9. Klasse; Klasse wiederholt; Schule länger als drei Monate unterbrochen für Auslandsaufenthalt und Schulstufe; besuchte Schulform im Alter zwischen 13 und 15 Jahren; Anteil der Kinder mit Migrationshintergrund in der Schule; Gründe für den Besuch dieser Schule; Förderunterricht besucht und jeweilige Klassenstufe; Nachhilfestunden erhalten und jeweilige Klassenstufe; Verhältnis zu Lehrern und Mitschülern während der 5. bis 9. Klasse (gut ausgekommen mit Lehrern und Mitschülern, Lehrer hörten auf Gesagtes, zusätzliche Hilfe von Lehrern bei Bedarf); Rolle von Eltern und Familie für die Schullaufbahn: ruhiger Ort für Hausaufgaben im Elternhaus; Anzahl der Bücher im Haushalt; ältere Geschwister mit Schulabschluss oder Diplom; höchstes Diplom bzw. höchste Qualifikation unter den älteren Geschwistern; ältere bzw. jüngere Geschwister ohne Schulabschluss oder Qualifikation; für die Kindheit des Befragten (10 bis 15 Jahre) wurde erfragt: enge Freunde ohne Schulabschluss oder Qualifikation; wichtige Unterstützungspersonen bei den Hausaufgaben; Elternverhalten während der Schulzeit (Kontrolle des Zeitaufwands für Hausaufgaben, Hilfe bei den Hausaufgaben, Auftrag zur Hausarbeit oder Geschwisterbetreuung, Gespräche über Schule oder Studium sowie Gespräche mit Lehrern); Hilfe bei den Hausaufgaben durch ältere Geschwister und Gespräche über Schule; wahrgenommene Akzeptanz im Vergleich zu Mitschülern deutscher Herkunft; erfahrene feindselige oder ungerechte Behandlung in der Schule und Akteure; Zufriedenheit mit dem erreichten Ausbildungsniveau; Bewertung der Chancengleichheit im deutschen Schulsystem. 
+3. Arbeitsmarkt, Erwerbsbiographie: Derzeitige berufliche Situation; konkreter Name oder Bezeichnung der Hauptarbeitsstelle; berufliche Tätigkeit (ISCO); Dauer der Firmenzugehörigkeit; Bereich des Unternehmens bzw. der Organisation; Unternehmensart; Firmensitz in Frankfurt bzw. Berlin oder andernorts; Wochenarbeitszeit; berufliche Stellung; Vorgesetztenfunktion; Unternehmensgröße (Angestelltenzahl); Arbeitsstelle gefunden durch Bewerbung usw.; Arbeitsstelle entspricht dem Ausbildungsniveau; innerbetriebliche Weiterbildungen; Beförderung; derzeitige ist erste Arbeitsstelle; Anzahl der Arbeitsstellen vor der derzeitigen und Anzahl der Vollzeitstellen; Gründe für die Aufgabe der ersten Arbeitsstelle; Charakteristika der ersten Arbeitsstelle wie vor; Einschätzung der Schwierigkeiten eine gute Arbeitsstelle zu finden für Personen aus der Türkei oder dem ehemaligen Jugoslawien im Vergleich zu Personen deutscher Herkunft; erfahrene feindselige oder ungerechte Behandlung bei der Arbeitssuche bzw. am Arbeitsplatz und jeweilige Akteure; Anzahl der Monate zwischen Bildungsabschluss und erster Arbeitsstelle und persönliche Situation in dieser Zwischenzeit; arbeitslos seit dem Schulabgang; längster Zeitraum der Arbeitslosigkeit; berufliche Laufbahn entspricht den Erwartungen; berufliche Zukunftspläne; derzeit arbeitssuchend; Art der Arbeitssuche; jemals erwerbstätig; Dauer der Arbeitslosigkeit seit der letzten Arbeitsstelle; Charakteristika der letzten Arbeitsstelle wie vor; Anzahl der Arbeitsstellen vor der letzten Stelle. 
+4. Lebenspartner, Partnerbiographie: Jahr des gemeinsamen Haushalts mit dem Lebenspartner; Kennenlernsituation; Geburtsland des Lebenspartners; Alter des Lebenspartners beim Zuzug nach Deutschland; Geburtsland der Eltern des Lebenspartners; Mutter bzw. Vater haben in Deutschland gelebt; Nationalitäten des Lebenspartners; Nation bzw. Nationalität, der der Lebenspartner sich zugehörig fühlt; Land der Schulausbildung (Ausbildungstyp) bzw. des Erwerbs des höchsten Bildungsabschlusses (Deutschland, Türkei, Bosnien, Kroatien, Serbien, Slowenien, Kosovo oder Mazedonien); Ausbildungstyp und Alter bei Schulabgang falls höchster Bildungsabschlusses in einem anderen Land erworben wurde; Erwerbstätigkeit des Lebenspartners; Religionszugehörigkeit des Lebenspartners und Konfession; standesamtliche Heirat des Lebenspartners und Heiratsjahr; Lebenspartner ist mit dem Befragten verwandt; Druckausübung durch die eigene Familie bzw. die Familie des Lebenspartners im Hinblick auf Eheverzicht bzw. Eheschließung; nicht Verheiratete: Heiratsabsicht; Druckausübung durch die eigene Familie bzw. die Familie des Lebenspartners, hinsichtlich Eheverzicht bzw. Eheschließung; frühere Ehe oder als Paar zusammengelebt; Angaben zum letzten Lebenspartner: Jahr des gemeinsamen Haushalts mit dem letzten Lebenspartner und dessen Alter zu diesem Zeitpunkt; Beziehung dauert an bzw. Jahr des Beziehungsendes; Geburtsland des letzten Lebenspartners und seiner Eltern; standesamtliche Heirat des letzten Lebenspartners; Druckausübung der Familie im Hinblick auf Eheverzicht bzw. Eheschließung; weitere Ehe vor der letzten Ehe bzw. als Paar zusammengelebt; Jahr des gemeinsamen Haushalts mit dem ersten Lebenspartner und dessen Alter zu diesem Zeitpunkt; Jahr des Beziehungsendes; Geburtsland des ersten Lebenspartners und seiner Eltern; standesamtliche Heirat des ersten Lebenspartners. 
+5. Elternbiographie: Geburtsland von Vater und Mutter; Geburtsjahr des Vaters und der Mutter; Bundesland (bzw. türkische Provinz oder Provinz im ehemaligen Jugoslawien) von Vater und Mutter bis zu deren 15. Lebensjahr; Urbanisierungsgrad des Wohnortes von Vater und Mutter bis zu deren 15. Lebensjahr; Vater und Mutter leben noch bzw. Todesjahr; räumliche Entfernung zum Wohnort des Vaters und der Mutter; derzeitige Lebenssituation bzw. Arbeitssituation von Vater und Mutter sowie in der Kindheit des Befragten; Berufsbezeichnung bzw. berufliche Position der Eltern in der Kindheit des Befragten; berufliche Tätigkeit (ISCO) von Vater und Mutter vor dem Zuzug nach Deutschland; Alter von Vater und Mutter bei Zuzug nach Deutschland und Hauptgrund für die Zuwanderung; Eltern sind oder waren verheiratet; Ehejahre; Eltern zusammen lebend bzw. Jahr der Scheidung bzw. Trennung; Bildungsbiographie von Vater und Mutter: Land der höchsten Schulausbildung (Deutschland, Türkei, Bosnien, Kroatien, Serbien, Slowenien, Kosovo oder Mazedonien bzw. anderes Land) und Ausbildungstyp; Alter beim höchsten Bildungsabschluss; Lese- und Schreibfähigkeit; Sprache, mit denen die Eltern aufgewachsen sind (Muttersprache); Beurteilung der Deutschkenntnisse der Eltern im Hinblick auf Sprechen, Lesen und Schreiben; Besitz der deutschen Staatsbürgerschaft bzw. beantragte deutsche Staatsbürgerschaft; Nationalität des Herkunftslandes. 
+6. Wohnen und Nachbarschaft: Wohnstatus; Anzahl der Stockwerke des Wohngebäudes; Jahr des Einzugs in die Wohnung; Besitzer des Hauses bzw. der Wohnung; Baujahr des Wohngebäudes; Zimmerzahl; Land und Wohnort, in dem der Befragte im Alter zwischen 12 und 16 Jahren gelebt hat sowie regionale Nachbarschaft des Wohnortes; Einstufung des Wohnviertels als Arbeiterviertel, Mittelschichtviertel oder Oberschichtviertel; tatsächlicher und präferierter Anteil der Bewohner deutscher Herkunft im Wohnviertel; Verbundenheit mit dem Wohnviertel; Wohlfühlen im Wohnviertel; Charakterisierung des Wohnviertels im Hinblick auf Vandalismus, gute Schulen, Nachbarschaftskontakte, Müll auf den Straßen, Kriminalität, tatsächliche bzw. erwartete Verschlechterung der Lebensqualität, Anonymität, Verantwortungsgefühl für die Lebensqualität in der Wohngegend. 
+7. Soziale Beziehungen und politische Teilnahme: Ethnische Herkunft der drei besten Freunde auf der weiterführenden Schule sowie damaliger Anteil deutscher Freunde; Anteil deutscher Freunde derzeit; ethnische Herkunft und höchstes Bildungsniveau der drei derzeit besten Freunde; Verwandte außerhalb des Haushalts in der Stadt, in Deutschland und in anderen europäischen Ländern; Kontakthäufigkeit; Teilnahme an Aktivitäten oder Veranstaltungen ausgewählter Organisationen und Vereinigungen bzw. fehlende Teilnahme; hauptsächliche Ausrichtung dieser Organisation und Vereinigungen auf das Herkunftsland der Eltern; Häufigkeit erfahrener Feindseligkeiten oder Ungleichbehandlungen aufgrund der ethnischen Herkunft allgemein und in der Nachbarschaft, beim Ausgehen, in Diskotheken, Cafés oder Restaurants sowie im Kontakt mit der Polizei; vermutete Gründe für diese Diskriminierungen; Häufigkeit verbaler Angriffe wegen der eigenen Herkunft; verbaler Angreifer war deutscher Herkunft, türkischer Herkunft, aus dem ehemaligen Jugoslawien oder anderer Herkunft; Einschätzung der Häufigkeit von Diskriminierung ausgewählter Gruppen in Deutschland (Deutsche, Türken, Personen aus dem ehemaligen Jugoslawien, Muslime, Dunkelhäutige); Einschätzung der Häufigkeit von Diskriminierung von Personen aus der Türkei oder dem ehemaligen Jugoslawien in der Schule, am Arbeitsplatz, bei der Arbeitssuche, beim Ausgehen, in Diskotheken, Cafés oder Restaurants, in der Nachbarschaft sowie im Kontakt mit der Polizei; Beteiligung an der letzten Kommunalwahl; Selbsteinstufung Links-rechts. 
+8. Geschlechterrollen und Kinderbetreuung: Betreuungsperson eigener Vorschulkinder; tatsächliche Hauptverantwortlichkeit in den Bereichen Kinderbetreuung, Arbeiten im Haushalt, Kochen, Finanzen und Erwerbstätigkeit sowie präferierte Aufgabenverteilung; Zufriedenheit mit der Aufgabenverteilung; Geschlechterrollenverständnis: Meinung zur Berufstätigkeit von Frauen mit kleinen Kindern, zu Frauen in Führungspositionen und zum Stellenwert von Studium und Ausbildung für Frauen und Männer; Erwerbstätigkeit des Befragten und des Lebenspartners bis zur Geburt des ersten Kindes; jeweilige Entscheidung hinsichtlich des Arbeitsumfangs nach der Geburt. 
+9. Identität, Sprache und Transnationalismus: Zugehörigkeitsgefühl zu ausgewählten gesellschaftlichen Gruppen (Deutsche, Berliner bzw. Frankfurter, Europäer, Christ, Muslim, Jude, Orthodoxe, Albaner, Bosnier, u.a.); Beurteilung des Verhältnisses zwischen Menschen deutscher und türkischer Herkunft sowie zwischen Deutschen und Menschen aus dem ehemaligen Jugoslawien in Berlin bzw. Frankfurt; Veränderung der Verhältnisse in den letzten Jahren; Bewertung des Zusammenlebens von Menschen unterschiedlicher Herkunft als Bedrohung oder Bereicherung für die eigene Kultur bzw. gut oder schlecht für die Wirtschaft in der Stadt; Meinung zur Aussage vielfältige Religionen sind gut für die Stadt; Einstellung zu Integration (Skala); Sprachkenntnisse: Sprache, mit der der Befragte aufgewachsen ist (Muttersprache); Verstehen von Türkisch, Kurdisch, Aramäisch, Serbokroatisch u.a.; Selbsteinschätzung der Sprachkenntnisse in Deutsch sowie der Muttersprache (Sprechen, Lesen und Schreiben); jeweils mit Geschwistern, Mutter und Vater, Freunden und Partner gesprochene Sprache; Befragter sieht fern; Sprache der präferierten Sender; Internetnutzung und Nutzungszwecke; Besuch des Heimatlandes der Eltern in den letzten fünf Jahren, Besuchshäufigkeit und Gründe für den Besuch; Geldüberweisungen in das Heimatland der Eltern in den letzten fünf Jahren; überwiesener Betrag pro Jahr; Investitionen in Unternehmen oder Immobilien und investierter Betrag; Auswanderungsabsicht in das Heimatland der Eltern. 
+10. Religion und Religiosität: Religiöse Erziehung und Konfession; je nach Konfession: Koranunterricht, religiöser Unterricht außerhalb der Schule, Thoraunterricht in der Kindheit; Häufigkeit von Moscheebesuchen des Vaters bzw. Kirchgangshäufigkeit der Eltern bzw. Synagogenbesuche der Eltern in der Kindheit des Befragten; derzeitige Religionszugehörigkeit und Konfession; Häufigkeit des Fastens während des letzten Ramadans; Häufigkeit der Ernährung nach Halal-Geboten, von täglichen Gebete (Namaz), von Moscheebesuchen, des Befolgens der Fastengebote; Gebetshäufigkeit; Kirchgangshäufigkeit bzw. Häufigkeit von Moscheebesuchen oder Synagogenbesuchen; alle religiösen Interviewpartner wurden gefragt: religiöse Identität (Skala: eigene Konfession als wichtiger Teil der eigenen Identität, häufiges Nachdenken über eigene Religion, Identität als echter Muslim/Christ/Jude usw., in vieler Hinsicht wie andere Muslime/Christen/Juden usw., persönlich verletzt bei kritischen Äußerungen über eigene Religion); Einstellung zur Rolle von Religion in der Gesellschaft (Skala); Meinung zum Verbannen religiöser Symbole und Zeichen von Schulen; Meinung zum Kopftuchgebot für islamische Frauen; Befragte selbst bzw. derzeitige oder frühere Partnerin des Befragten trägt Kopftuch; Partnerin soll Kopftuch tragen (muslimische männliche Singles); wichtigste Gründe für bzw. gegen das Tragen eines Kopftuchs. 
+11. Einkommen: Erwerbsstatus; für den Befragten und dessen Lebenspartner wurde erfragt: persönliches Nettoeinkommen; Bezug von Transferleistungen und Art der Unterstützungsleistung; Nettobetrag der Transferleistungen; abzuzahlender Kredit oder Hypothek für Wohnung, Haus oder Einrichtung, Auto bzw. Konsumgüter; finanzielle Situation. 
+12. Schriftlicher Fragebogen: Psychologische Selbstcharakterisierung, Zielorientierung und Problemlösungskompetenz; Konflikthäufigkeit im Alter von 17 Jahren jeweils mit dem Vater und der Mutter in ausgewählten Bereichen; Sympathie-Thermometer für ausgewählte Gruppen (Deutsche, Türken, Personen aus dem ehemaligen Jugoslawien, Muslime, Christen, Dunkelhäutige); Akzeptanz von vorehelichen sexuellen Beziehungen von Frauen und von Männern sowie von Abtreibungen aus medizinischen und aus nicht-medizinischen Gründen; Einstellung zu ausgewählten politischen Maßnahmen (strengere Anwendung der Gesetze gegen ausländerfeindliche Taten, Bevorzugung von Migranten mit gleicher Qualifikation auf dem Arbeitsmarkt, Unterrichtsfach Toleranz und staatsbürgerlicher Moral, Verbessern der Deutschkenntnisse von Einwanderern und deren Kindern, Unterrichten von Migranten in Deutschland in der Sprache und Kultur ihres Herkunftslandes, doppelte Staatsbürgerschaft für im Land geborene Migranten); Bereitschaft, eigene Kinder an eine Schule mit hälftigem Migrantenanteil zu schicken; Besuch von Veranstaltungen mit Personen türkischer Herkunft oder aus dem ehemaligen Jugoslawien; derzeitiger bzw. früherer fester Freund oder Lebenspartner; Ort bzw. Umstände des Kennenlernens und Alter des Befragten und des Partners zu diesem Zeitpunkt; Land, in dem der derzeitige bzw. frühere Partner lebt, dessen Herkunftsland und Nationalitäten; Nationalität, der der Partner sich zugehörig fühlt; Einverständnis der Eltern mit dieser Beziehung; Hauptgrund für fehlendes Einverständnis der Eltern; Geschlechtsverkehr und Alter des Befragten und des Partners beim ersten Geschlechtsverkehr; Meinung zum ersten Geschlechtsverkehr; derzeitige Verwendung eines Kontrazeptivums zur Empfängnisverhütung. 
+Demographie: Alter (Geburtstag, Geburtsmonat und Geburtsjahr), Geschlecht und Geburtsland des Befragten und sämtlicher Haushaltsmitglieder; Beziehung dieser Personen zum Befragten; Position des Befragten und sämtlicher Haushaltsmitglieder innerhalb des Haushalts; Haushaltsgröße. 
+Interviewerrating: Kooperationsbereitschaft des Befragten; Anwesenheit weiterer Personen während des Interviews und Verwandtschaftsverhältnis zum Befragten; Person, die Fragen zum Partner beantwortet; Beurteilung der Kooperation, des Frageverständnisses, der Atmosphäre während des Interviews; Beeinträchtigung des Interviews durch Ereignisse oder Personen; Lebensumstände mit möglichem Einfluss auf die Antworten; religiöse Symbole im Haus; Befragter trägt religiöse Symbole während des Interviews; Bewertung des Wohnungszustands; Anmerkungen des Interviewers zum Interview. 
+Zusätzlich verkodet wurde: Land (ISO-Code DE); Befragten ID und Befragten-ID verknüpft mit dem ethnischen Gruppen-Code; Studiengruppe; Stadt (Berlin, Frankfurt); Anmerkungen und Kommentare des Befragten zum Interview; Berufsvercodung gemäß ISCO (International Standard Classification of Occupations) 1988; ISEI-Code der derzeitigen, letzten und ersten beruflichen Tätigkeit; Bildungscodes gemäß ISCED 97, EduCodes TIES; Flaggenvariable (problematische oder nicht plausible Werte bei den Angaben zum Bildungsabschluss); korrigierter Bildungsabschluss (korrigierte Werte bei den Angaben zum Bildungsabschluss. 
+Weitere Ergänzungen und abgeleitete Variablen: Auswahl des Befragten für Folgeinterview. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>TIES Germany is part of an international survey, conducted in 8 countries (Belgium, Germany, Sweden, Switzerland, Netherlands, France, Spain and Austria). It is about children of immigrants from Turkey, Yugoslavia and Morocco. 
+Personal details; educational biography; labour market and occupational biography; biography of partner and parents; housing and neighbourhood; social relations and political participation; gender roles and child care; identity, language and transnationalism; religion and religiosity; income.
+Topics: 1. Personal details: moved out of parents household; age at the time of moving; reason for moving; number and age of siblings; number of children that live elsewhere; German citizenship; German citizenship by birth; year of receipt the German citizenship; allegiance to other nations; intention to achieve the German citizenship within the next two years; reasons for no intention; other citizenship; received that citizenship by ancestry, marriage or naturalization.
+2. Educational biography: age at first school experience (including pre-school and kindergarten); attendance of pre-school or kindergarten and its duration; kind of most important primary school; reason for attending that primary school; number of children of immigrant origin at that primary school; ever changed schools in primary school; ever repeated a grade or class in primary school; ever interrupted primary school in Germany to go abroad for a period of more than three months; age of leaving primary school; teacher’s recommendation at the end of primary school; recommended and actually entered kind of school; country specific level at which entered secondary school; still attending that school or level; completed that school or level and obtained a diploma or certificate; reason for quitting; age when completed or left the school; teacher’s recommendation for another education at the end of that school level; level or school attended next; returned to attend school again later in life; still attending that school or school level; completed that school or level and obtained a diploma or certificate; age of leaving that school; highest school level completed with a diploma; continued beyond that level and why; field or domain of highest qualification or current study; ever changed schools in secondary school; ever interrupted going to secondary school in Germany to go abroad for a period of more than three months; grade when interrupted; type of most important secondary school; number of children of immigrant origin at that secondary school, reason for attending that school; ever went to a remedial teacher during secondary school; ever had homework guidance during secondary school; got along with most teachers; got along with most classmates; most teachers really listened to what one had to say; when one needed extra help, one would receive it from teachers; quiet place at home to do homework during secondary school; number of books at home; siblings with a school diploma or certificate; highest diploma or certificate obtained by sibling(s); older and/or younger siblings who have left secondary school without diploma or certificate; close friends in secondary school who left without diploma or certificate; importance of mother, father, elder siblings, peers, teachers for support during secondary school; during secondary school: parents controlled time spent on homework, helped doing homework, made one do household chores or look after siblings, talked about school or studies with parents, parents met or talked to teachers; times an older sibling helped with the homework, talked about ones school or study with an older sibling; feeling of social acceptance in comparison to students of German origin during secondary school; experience of hostility or unfair treatment because of origin or background from students, teachers, principal, supervisor or headmaster; satisfaction with the achieved level of education; evaluating equal opportunities offered by German school system.
+3. Labour market and occupational biography: current occupational situation; name or title of main job; kind of work (ISCO); year since working in that job; sector of the organization or company; kind and location of organization; number of working hours; kind of working agreement; supervising others; number of employees working in the business; current job; job and educational level correspondence; promotion in current job; number of (full-time) jobs before the current one; main reason for leaving first job; name or title of first job or position in one’s business; year of starting first job; first job tenure; sector of organization; kind and size of organization; working hours per week; kind of employment; supervised others; way of finding the first job e.g. application; job and educational level correspondence; on the job training; promotion in first job; present job is first job; (full-time) jobs before current job; difficulty of finding a good job for people of Turkish, Yugoslavian and Moroccan origin; experienced hostility or unfair treatment because of one’s origin when looking for a job or at current workplace; perpetrator of hostility or unfair treatment; months of transition from school to work; situation during transition period; without paid work since leaving school; career as expected so far; future plans concerning working career; currently looking for work; strategy to find work; ever had a paid job; months of unemployment since last paid job; name or title of last job or position in one’s last business; job characteristics as above; future plans concerning career; number of jobs before last job.
+4. Biography of partner: year and month of starting to live in one household; circumstances of first encounter with current partner; partner’s country of birth; partner’s year of immigration; birthplace of partner’s parents; partner’s parents always lived in Germany; partner’s nationality; country partner went to school in; highest school level partner has attended; highest qualification, diploma or certificate partner has obtained; partner’s occupational situation; partner’s religion; year and month of civil marriage; degree of kinship with partner; family pressure to renounce or encourage the marriage; willingness to marry; past marriages or living together as a couple with someone before; beginning of living together with last partner; age of partner at that time; last partner is current partner or time of ending past relationship; characteristics of last and first partner as above.
+5. Biography of parents: parent’s country of origin; country parents were raised in up to age 15; providence parents mostly lived in up to age 15; degree of urbanization of place parents mostly lived that period of their life’s; parents still alive or year of death; parent’s current place of living; parent’s current occupational situation (ISCO); name or title of parent’s (past) position; parent’s age when first came to live in Germany; main reason of migration; parent’s job and position before migrating; parents marital status; years of parent’s marriage; parents always stayed together; year of parent’s divorce; highest level of school parent’s attended; parents successfully finished that level; parent’s knowledge of the German language concerning speaking, reading and writing; language(s) parents were raised in; German citizenship.
+6. Housing and neighbourhood: year of moving into current housing; owner of current housing; construction date of the building; number of floors, rooms; country, city and neighbourhood respondent lived in from age 12 to 16; rating of current neighbourhood; real and preferred amount of people of German origin; attachment to neighbourhood; satisfaction with the neighbourhood; description of neighbourhood regarding vandalism, good schools, contact to neighbours, trash on the streets, crime, change in quality of life because of neighbourhood, anonymity, responsibility for the quality of life within neighbourhood; preferred kind of neighbourhood to live in.
+7. Social relations and political participation: ethnic background of the three closest friends during secondary school and share of German friends; ethnic background of the current three closest friends; school level those friends finished with a diploma; current share of German friends; relatives living in the city or elsewhere in Germany; relatives living in other European countries; frequency of meeting most seen relatives; participation in activities of selected organizations; organization’s orientation towards Turkish, Yugoslavian or Moroccan communities in Germany; ever experienced hostility or unfair treatment because of origin or background as a child or later in life; experienced hostility or unfair treatment because of origin or background in neighbourhood, cafes, restaurants or encounters with the police; assumed reason(s) for that hostility or unfair treatment; frequency of confrontation with offensive words because of origin or background; offenders origin; estimation of hostility or unfair treatment because of origin or background of chosen groups in Germany; frequency of hostility or unfair treatment because of origin or background against people of Turkish, Moroccan and ex-Yugoslav origin in Germany: at school, at workplace, while looking for work, when going out to dance, in cafés or restaurants, in the neighbourhood, in encounters with the police; political party respondent voted for in the last municipal election; self-reporting on political scale from left to right.
+8. Gender roles and child care: pre-school children’s caretaker during working days; general caretaker of children, routine household chores, cooking, financial matters, earning money; satisfaction with division of household chores; preferred division of caretaking tasks; opinion on gender roles: women’s work and family balance, women in leading positions, importance of education for women; respondent’s and his or her partner’s working status before and after the first child was born.
+9. Identity, language and transnationalism: sense of belonging to certain groups (Germans, inhabitant of Berlin or Frankfurt, European, Christian, Muslim, Jude, Orthodox; Albanian, Bosnian, i.a.); description of the relationship between people of Germen origin and people of Turkish, Moroccan and ex-Yugoslav origin in Berlin or Frankfurt; change of that relationship within the last years; people of different origin living together in Frankfurt or Berlin threatens or enriches its culture and/or economy; evaluation of the variety of different origins in Frankfurt or Berlin; attitudes towards integration (scale); language skills: speaking, reading and writing; common language with siblings, parents, friends and partner; TV stations watched; purpose of internet usage; number of visits to the country of birth of parents within the last five years; reason(s) for visit(s); remittances to the country of birth of parents during the last five years and approximate amount per year; investments into businesses or properties in the country of birth of parents within the past five years and approximate amount; intention to live in the country of birth of parents in the future for one year or longer.
+10. Religion and religiosity: religious education and confession; attendance of Koran, Catechism, Talmud or Torah lessons; parent’s religious habits during respondent’s childhood: times visiting a mosque or attending other religious services; times fasted during the last Ramazan, Ramadan or period of fasting; eating halal food; frequency of doing prayers; frequency of visiting a mosque, church or synagogue; religious identity (scale); opinion about the role of religion in society; opinion on banning all religious symbols from German schools; opinion on Islamic women covering their heads outside the house; female respondent wears a headscarf outside the house; male respondent’s partner wears one; single male respondent wants his future partner to do it; reasons for and against wearing a headscarf.
+11. Income: respondent’s and partner’s net monthly income from employment; respondent or partner receiving some sort of benefits; type of benefits; monthly amount of received benefits; respondent and partner having a loan for housing, a car or other consumption purposes; financial situation.
+12. Self-administered questionnaire: psychological self-characterization; goal orientation and problem-solving competence; frequency of conflicts about certain topics with parents at age 17; sympathy for Germans, Turks, Moroccans/ ex-Yugoslavs, Muslims, Christians, Blacks; approval of sexual relations before marriage and abortion for medical and non-medical reasons; attitude towards application of law against racist acts and propaganda; attitudes towards applicants of immigrant origin with the same qualifications in the job market; opinion on teaching the principles of tolerance and civic morality in school; opinion on improving knowledge of German language of immigrants and their children; attitudes towards teaching people of immigrant origin in Germany in the language and culture of their country of origin; attitudes towards dual citizenship; willingness to send own children to a school where more than 50% of the pupils are of migrant origin; participate in events with a lot of Turkish, Moroccan or ex-Yugoslav origin youth; current and past relationship status; circumstances of meeting current or last partner; respondent’s and partner’s age at first encounter; country partner currently lives in; current partner’s country of birth and nationality; parent’s (dis)approval of the relationship and reason; age at first sexual encounter; age of partner at first mutual sexual intercourse; feelings about that first sexual intercourse; usage of contraception.
+Demography: age; gender; country of origin of respondent and all other members of the household; relationship to respondent; position of respondent and all members of the household within the household; size of household.
+Interviewer rating: duration of the interview; difficulty to obtain co-operation for the interview; presence of other persons (partner, parents, parents in law, children, siblings, i.a.) during the interview; person who answered questions about respondent’s partner; co-operation of respondent; extend to which respondent understood questions; disturbance during the interview; special circumstances or events in the life of the respondent that influenced the interview; religious symbols in respondent´s home; respondent wears religious symbols; condition of the building respondent lives in.
+Additionally coded were: country (ISO-Code DE); respondent’s ID and ID matched with code of respondent’s ethnic group; treatment group; city (Frankfurt, Berlin); remarks and comments of respondent about the interview; coding of respondent’s profession (ISCO 1988); ISEI code of current, last and first profession; code of education (ISCED 97); EduCodes TIES; flag variable for problematic or implausible values of educational degree; adjusted values for those statements of education.
+Further addition: selection of respondent for follow-up-interview.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-HE-FRA</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen im Alter von 18 bis 35 Jahren mit türkischem und jugoslawischem Migrationshintergrund</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>18 to 35 year old residents of Berlin and Frankfurt with a Turkish or Jugoslav migration background.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Kombination aus Zufallsstichprobe und Nicht-Zufallsstichprobe; Auswahlverfahren Kommentar: Repräsentative Einwohnermeldeamtsstichprobe der Migranten sowie einer gleichaltrigen Kontrollgruppe ohne Migrationshintergrund. Die Auswahl der Migrantengruppe erfolgte auf der Basis der Einwohnermelderegister durch Zuhilfenahme eines onomastischen Verfahrens (linguistische Analyse der Vor- und Nachnamen).
+
+In einer ersten Runde wurden 750 Namen für jede Gruppe in jeder Stadt zufällig ausgewählt, wodurch jedoch nicht genug Befragte rekrutiert  werden konnten, weshalb eine zweite Runde mit 1.000 zufällig gewählten Adressen angeschlossen wurde. In der zweiten Runde ließen die Interviewer sich von den Befragten weitere Interviewpartner empfehlen (Schneeballprinzip), sofern diese Personen ebenfalls zu der Auswahlgesamtheit gehörten.
+
+Eine ausführliche Beschreibung des angewandten Verfahrens kann dem Methodenbericht entnommen werden.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Mixed probability and non-probability; Sampling Procedure Comment: Random sample of migrants from the registration office and a control group of the same age but without a migration background. Migrants were identified via a linguistic analysis of the (sur)names within the register of residents.
+
+Because the size of the first survey was not large enough a second one was conducted. The interviewers than used the snowball system to recruit further participants. 
+
+For further details of the applied procedure please see the report.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>2007</year>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>GfK</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>Distributor</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>HostingInstitution</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.Paper</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Persönliches Interview: CAPI (Computerunterstützte persönliche Befragung) und 
+Selbstausfüller: Papier </freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Face-to-face interview: CAPI (Computer Assisted Personal Interview) and 
+Self-administered Questionnaire: Paper</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>1412</numberUnits>
+			<numberVariables>1329</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Erhebungseinheit: Erwachsene###
+Hinweis zum Datensatz
+TIES ist eine internationale Studie in acht Ländern, die sich mit den Nachkommen von MigrantInnen aus der Türkei, dem ehemaligen Jugoslawien und Marokko befasst. Über einen internationalen Fragebogen wurden in allen Ländern gleiche bzw. ähnliche, d.h. an den nationalen Kontext angepasste, Fragen gestellt. Dieses Vorgehen ermöglicht nicht nur die Analyse der deutschen Daten, sondern auch mögliche Vergleiche zwischen den nationalen Datensätzen (z.B. dem deutschen und dem niederländischen und schwedischen, etc.).
+Um diesen Vergleich zu ermöglichen, verfügt jeder nationale Datensatz über Variablen, die miteinander verglichen werden können. Im deutschen Datensatz sind die Variablen mit _comp am Ende gekennzeichnet und im Label mit „for comparison“. Diese Variablen können nun aus dem deutschen Datensatz extrahiert und mit anderen _comp Variablen aus weiteren nationalen TIESDatensätzen zusammengefasst werden. Die Variable COUNTRY_comp enthält den jeweiligen Landescode zur Identifizierung des Landes, in dem die Daten erhoben wurden.
+
+Die Studie wird in zwei verschiedenen Varianten angeboten, als Vollversion (diese ZA-Studien-Nr. 5317) und als reduzierte Version (ZA-Studien-Nr. 5616). Die Vollversion kann nur vor Ort im Secure Data Center bearbeitet werden.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>survey unit: adults###
+TIES is an international survey in eight countries, about the children of immigrants from Turkey, Ex-Yugoslavia and Morocco. Similar questions, partly matched to the national context, have been asked via the international questionnaire. This procedure not only allows the analysis of German data but the comparison of international data sets. Every national data set includes variables that make those comparisons possible. In the German data set those variables end with the addition _comp. They may be extracted from the German data set and matched with other _comp variables extracted from other national TIES data sets. The variable COUNTRY_comp contains the country code to identify each surveyed country.
+
+This survey is provided in two versions. This version (ZA5317) is the complete one, ZA5616 is a reduced one. The complete version may only be analysed at the Secure Data Center at Gesis.
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Sürig, Inken; Wilmes, Maren:
+The Integration of the Second Generation in Germany. 
+Amsterdam: Amsterdam University Press 2015.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Sürig, Inken; Wilmes, Maren: 
+Die Integration der zweiten Generation in Deutschland. Ergebnisse der TIES-Studie zur türkischen und jugoslawischen Einwanderung 
+Osnabrück: IMIS-Beiträge, H. 39, S. 5-211, 2011. </freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

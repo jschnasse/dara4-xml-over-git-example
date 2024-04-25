@@ -1,0 +1,327 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'International Mobil'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'International Mobil'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA6767</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>International Mobil</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>International Mobil</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Marcus</firstName>
+				<middleName/>
+				<lastName>Engler</lastName>
+				<affiliation>
+					<affiliationName>Netzwerk Migration in Europa, Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Marcel</firstName>
+				<middleName/>
+				<lastName>Erlinghagen</lastName>
+				<affiliation>
+					<affiliationName>Universität Duisburg-Essen, Institut für Soziologie, Essen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Ette</lastName>
+				<affiliation>
+					<affiliationName>Bundesinstitut für Bevölkerungsforschung (BiB), Wiesbaden</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Lenore</firstName>
+				<middleName/>
+				<lastName>Sauer</lastName>
+				<affiliation>
+					<affiliationName>Bundesinstitut für Bevölkerungsforschung (BiB), Wiesbaden</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Friedrich</firstName>
+				<middleName/>
+				<lastName>Scheller</lastName>
+				<affiliation>
+					<affiliationName>Universität Duisburg-Essen, Institut für Soziologie, Essen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Jan</firstName>
+				<middleName/>
+				<lastName>Schneider</lastName>
+				<affiliation>
+					<affiliationName>Sachverständigenrat deutscher Stiftungen für Integration und Migration (SVR) GmbH, Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Caroline</firstName>
+				<middleName/>
+				<lastName>Schultz</lastName>
+				<affiliation>
+					<affiliationName>Sachverständigenrat deutscher Stiftungen für Integration und Migration (SVR) GmbH, Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6767?doi=10.4232/1.12739</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12739</doiProposal>
+	<publicationDate>
+		<date>2017-02-03</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6767</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT38</identifier>
+					<!-- Beruf -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+					<identifier>KAT54</identifier>
+					<!-- Person, Persönlichkeit, Rolle -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>ARBEIT UND BESCHÄFTIGUNG</term>
+					<term>Migration</term>
+					<term>GESELLSCHAFT UND KULTUR</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>TRANSPORT UND REISEN</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>LABOUR AND EMPLOYMENT</term>
+					<term>Migration</term>
+					<term>SOCIETY AND CULTURE</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>TRANSPORT AND TRAVEL</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Studie konzentriert sich auf drei zentrale Fragestellungen: erstens, die soziostrukturellen Merkmale der international mobilen Deutschen, zweitens die Motive und Beweggründe individueller Mobilitätsentscheidungen und drittens Auswirkungen internationaler Mobilität auf individuellen Lebensbedingungen wie das Familienleben, die berufliche Karriere und das Wohlbefinden / die Lebenszufriedenheit.
+I. Auswanderer: 
+1. Ankunft am jetzigen Wohnort: Positive oder negative Erfahrungen mit Behörden, Freunden oder Bekannten vor Ort, Nachbarn, Arbeitgebern, Arbeitskollegen und der Bevölkerung im Allgemeinen; Schwierigkeiten (Wohnungssuche, beruflich bzw. im Rahmen des Studiums und sprachlich zurechtfinden, Kontakte knüpfen,  sonstige Besonderheiten wie Essen, Klima, etc.); erfahrene Benachteiligung seit der Ankunft.
+2. Gründe für den Wegzug (z.B. berufliche oder familiäre Gründe, neue Erfahrungen, etc.); Erwartungen und Wünsche. 
+3. Lebenssituation vor dem Wegzug: damaliger Familienstand; feste Partnerschaft; Zusammenleben mit dem Partner; Partner lebte bereits im Ausland; Partnerschaft besteht weiter; Anzahl der Personen und der Kinder im Haushalt (Haushaltsgröße und Haushaltszusammensetzung); Erwerbstätigkeit; Weisungsbefugnis; Grenzpendler; vergleichende Bewertung von Freundeskreis, Lebensstandard, persönlichem Einkommen, Möglichkeiten der Kinderbetreuung, Schul- und Ausbildungsmöglichkeiten, Sicherheit des Arbeitsplatzes, Aufstiegsmöglichkeiten, Arbeitsbedingungen; Befrager ist nicht erwerbstätig; Jahr des Wegzugs; früherer längerer Auslandsaufenthalt; letzter Auslandsaufenthalt in dem derzeitigen oder einem anderen Land; Dauer der Auslandsaufenthalte insgesamt. 4. Rückkehr nach Deutschland: beabsichtigte Rückkehr nach Deutschland und Zeitpunkt; voraussichtlich längerer oder kürzerer Auslandsaufenthalt als geplant; Motivation für die Rückkehr; konkrete Vorstellungen bezüglich des Umzugsortes; Umzugsabsicht in ein anderes Land; geschätzte Aufenthaltsdauer in Deutschland innerhalb eines Jahres.       5. Aktuelle Lebenssituation: derzeitiger Familienstand; feste Partnerschaft; Zusammenleben mit dem Partner; Partner lebt in Deutschland; Anzahl der Personen und der Kinder im Haushalt (Haushaltsgröße und Haushaltszusammensetzung); Erwerbstätigkeit bzw. sonstige Lebenssituation; Weisungsbefugnis; Grenzpendler. 
+Demographie: Geschlecht; Alter (Geburtsjahr); Geburt in Deutschland; deutsche Staatsangehörigkeit; Erwerb der deutschen Staatsangehörigkeit; Besitz weiterer Staatsangehörigen; allgemeiner Schulabschluss; höchster Schulabschluss; abgeschlossene Berufsausbildung oder Studium und Art des Abschlusses; Muttersprache Deutsch; Landessprache ist Muttersprache bzw. zweite Muttersprache; Selbsteinschätzung der Sprachkenntnisse der Landessprache; derzeitiger Aufenthaltsstatus; Angaben zu den Eltern: deutsche Staatsangehörigkeit, höchster Schulabschluss, beruflicher Ausbildungsabschluss von Vater und Mutter; Selbstcharakterisierung; Selbsteinschätzung des Gesundheitszustandes derzeit und in fünf Jahren; Lebenszufriedenheit.
+Zusätzlich verkodet wurde: Befragter möchte an der Verlosung teilnehmen; Anzahl der Personen sowie der Kinder im Haushalt vor der Auswanderung und aktuell; Jahr der Auswanderung; bisherige Dauer des gegenwärtigen Auslandsaufenthalts in Jahren (Migrationsdauer); Zielregion; Berufsklassifikation (vor der Auswanderung und aktueller Beruf, ISCO-1-Steller); Geburtsland des Befragten und seiner Eltern; Migrationshintergrund; Zielland entspricht Migrationshintergrund; Bildungsklassifikation (nach CASMIN und ISCED); Lebensform aktuell und vor der Auswanderung.
+II. Für Rückwanderer wurden analog folgende Themenbereiche erfasst: 1. Ankunft am jetzigen Wohnort 2. Gründe für die Rückkehr 3. Lebenssituation vor der Rückkehr 4. Zukünftige Auslandsaufenthalte 5. Aktuelle Lebenssituation 6. Allgemeine Fragen zur Person</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The study focuses on three main aspects: first, on the socio-structural characteristics of internationally mobile Germans, second, on the motivation for individual mobility decisions, and third, on the consequences of international mobility on individual living conditions such as family life, professional career and well-being/ life satisfaction.
+The questionnaires cover the following topics for  emigrants:
+1. Arrival at the current place of residence2. Motivation for emigration3. Living conditions before emigration4. Return to Germany5. Current living conditions 6. General questions concerning individual characteristics 
+Analogous, the questionnaires cover the following topics for returnees:
+1. Arrival at the current place of residence2. Motivation for return migration3. Living conditions before return migration4. Future stays abroad5. Current living conditions6. General questions concerning individual characteristics 
+Additionally generated variables: education (ISCED and CASMIN), occupation (ISCO-88). </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Auswanderer: deutsche Staatsangehörige, die sich zwischen dem 1. Januar und dem 31. Dezember 2013 als - ins Ausland (d.h. weltweit alle Staaten) verziehend - abgemeldet haben und die vor dem 1. Januar 1995 geboren wurden.
+
+Rückwanderer: deutsche Staatsangehörige, die sich zwischen dem 1. Januar und dem 31. Dezember 2013 als - aus dem Ausland zuziehend - in Deutschland angemeldet haben und die vor dem 1. Januar 1995 geboren wurden.
+
+</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Emigrants:
+
+Those German citizens, who have deregistered in Germany and have emigrated abroad between January, 1 and December 31, 2013 and who were born before January 1, 1995.
+
+Returnees:
+
+Those German citizens, who have emigrated from abroad and have registered in Germany between January 1, 2013 and December 31, 2013, and who were born before January 1, 1995.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl 
+
+Auswanderer: 
+1. Stufe: Auswahl von Gemeinden, auf deren Adressen von im Ausland lebenden Deutschen zurückgegriffen werden konnte (Berlin, Erfurt, Freiburg, Köln, Konstanz, Leipzig, Mannheim, München,  Nürnberg).
+2. Stufe: zufällige Auswahl von Zielpersonen.
+3. Stufe: Wenn mehrere Zielpersonen in einem Haushalt leben, dann Zufallsauswahl der zu befragenden Personen im Haushalt.
+
+Rückwanderer: 
+1. Stufe: Auswahl von Gemeinden, auf deren Adressen zurückgegriffen werden konnte (Berlin, Erfurt, Essen, Freiburg, Hamburg, Kiel, Köln, Konstanz, Leipzig, Mannheim, München,  Nürnberg).
+2. Stufe: zufällige Auswahl von Zielpersonen.
+3. Stufe: Wenn mehrere Zielpersonen in einem Haushalt leben, dann Zufallsauswahl der zu befragenden Personen im Haushalt.
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample: Multistage Sample
+
+Emigrants:
+On the first level: Selection of communities for which addresses of Germans living abroad were accessible. (Berlin, Erfurt, Freiburg, Cologne, Konstanz, Leipzig, Mannheim, Munich,  Nürnberg).
+On the second level: random selection of target persons. 
+On the third level: if multiple target persons are living in the same household, then random selection of the person to be interviewed within the household.
+
+Returnees:
+On the first level: Selection of communities for which addresses were accessible. (Berlin, Cologne, Erfurt, Essen, Freiburg, Hamburg, Kiel, Konstanz, Leipzig, Mannheim, Munich, Nürnberg).
+On the second level: random selection of target persons. 
+On the third level: if multiple target persons are living in the same household, then random selection of the person to be interviewed within the household.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2014-03-26</date>
+				</startDate>
+				<endDate>
+					<date>2014-06-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>SUZ, Duisburg, Germany</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Selbstausfüller: CAWI (Computerunterstütztes Web-Interview)
+
+(Postalisches Anschreiben der Befragungsteilnehmer verbunden mit der Bitte sich mit einem personalisierten Zugangscode auf einer Homepage anzumelden und dort einen standardisierten Online-Fragebogen auszufüllen.)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Self-administered questionnaire: CAWI (Computer Assisted Web Interview)
+
+Postal contacting of survey participants, asking them to access a particular homepage via a personalized code and to complete there a standardized online questionnaire.</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Engler, Marcus; Erlinghagen, Marcel; Ette, Andreas; Sauer, Lenore; Scheller, Friedrich; Schneider, Jan; Schultz, Caroline: 
+International Mobil - Motive, Rahmenbedingungen und Folgen der Aus- und Rückwanderung deutscher Staatsbürger. 
+Berlin: SVR-Forschungsbereich 2015</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Sauer, Lenore; Ette, Andreas; Engler, Marcus; Erlinghagen, Marcel; Scheller, Friedrich; Schneider, Jan; Schultz, Caroline:
+Von Deutschland in die Welt und zurück? Bedingungen, Motive und Folgen der internationalen Mobilität deutscher Staatsbürger.
+In: Bevölkerungsforschung aktuell. Analysen und Informationen aus dem Bundesinstitut für Bevölkerungsforschung, 36 (2): 2-8, 2015</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Ette, Andreas; Sauer, Lenore; Scheller, Friedrich; Bekalarczyk, Dawid; Erlinghagen, Marcel; Engler, Marcus; Schneider, Jan; Schultz, Caroline: 
+International Mobil. Dokumentation der Befragung von Auswanderern und Rückwanderern aus Deutschland. 
+Wiesbaden: Bundesinstitut für Bevölkerungsforschung, BiB Daten- und Methodenberichte 1/2015</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

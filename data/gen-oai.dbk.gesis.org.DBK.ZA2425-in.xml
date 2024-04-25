@@ -1,0 +1,300 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Former Citizens of the GDR in the Federal Republic 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Ehemalige DDR-Bürger in der Bundesrepublik
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA2425</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Ehemalige DDR-Bürger in der Bundesrepublik
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Former Citizens of the GDR in the Federal Republic 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Karl F.</firstName>
+				<middleName/>
+				<lastName>Schumann</lastName>
+				<affiliation>
+					<affiliationName>Sonderforschungsbereich 186 (Sfb 186), Universität Bremen
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Gerhard U.</firstName>
+				<middleName/>
+				<lastName>Dietz</lastName>
+				<affiliation>
+					<affiliationName>Sonderforschungsbereich 186 (Sfb 186), Universität Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Manfred</firstName>
+				<middleName/>
+				<lastName>Gehrmann</lastName>
+				<affiliation>
+					<affiliationName>Sonderforschungsbereich 186 (Sfb 186), Universität Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Heidi</firstName>
+				<middleName/>
+				<lastName>Kaspras</lastName>
+				<affiliation>
+					<affiliationName>Sonderforschungsbereich 186 (Sfb 186), Universität Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Olaf</firstName>
+				<middleName/>
+				<lastName>Struck</lastName>
+				<affiliation>
+					<affiliationName>Sonderforschungsbereich 186 (Sfb 186), Universität Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2425?doi=10.4232/1.2425</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.2425</doiProposal>
+	<publicationDate>
+		<year>1993</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2425</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>Einkommen, Vermögen und Geldanlagen/Sparen</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Wohnraum</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Community, urban and rural life</term>
+					<term>Government, political systems and organisations</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>Income, property and investment/saving</term>
+					<term>Economic conditions and indicators</term>
+					<term>Housing</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Ausreisemotive und Übersiedlungsmodalitäten von DDR-Bürgern indie BRD. Beschreibung des Berufsverlaufs und der Wohnsituationsowie der regionalen Mobilität in der Bundesrepublik.Vergleiche der Situation in der Bundesrepublik mit der früherenDDR. Beurteilung der gesamten Veränderung durch dieÜbersiedlung.
+Themen: Einreisedaten in die BRD; Ausreiseweg und Laufzeit desAusreiseantrags; Haftzeit; Motive für das Verlassen der DDR; zeitlicheDifferenzen bei der Übersiedlung von Familienmitgliedern;Familienzusammenführung; Diskriminierung; Oppositionshaltung; Ausreisedes Ehepartners; Ortsgröße des verlassenen Wohnorts in der DDR;Ausbildungs- und Berufsdaten; Berufsverlauf; Sanktionen nach Stellungdes Ausreiseantrags; Probleme bei der Anerkennung von Qualifikationenbzw. Ausbildungsabschlüssen aus der DDR; bisheriger Ausbildungs- undBerufsverlauf in der BRD; Erwerbsstatus; Gründe für Erwerbslosigkeit undeigene Einschätzung der Ursachen für die Arbeitslosigkeit; Dringlichkeitdes Wunsches nach Arbeit; qualifikationsadäquate Beschäftigung; Erwerbneuer Kenntnisse und Fertigkeiten in der BRD; Unterschiede imArbeitsklima beim Vergleich von BRD und DDR; heutige Tätigkeit alsAlternative zur Arbeitslosigkeit oder Wunscharbeitsplatz; Zufriedenheitmit der derzeitigen beruflichen Situation und geplanter Wechsel derTätigkeit; derzeit wichtigste Einkommensquelle; Wohnsituation nachÜbersiedlung; Wohndauer in Übergangs- oder Flüchtlingswohnheimen;regionale Mobilität in der Bundesrepublik und Gründe für Wohnortwechsel;Häufigkeit von Wohnortwechseln; derzeitiger Wohnstatus; Wohnungsgröße;Personen im Haushalt und deren Verwandtschaftsgrad zum Befragten;angestrebter Wohnungswechsel; Behördenkontakte und Beurteilung derErfahrung mit ausgewählten Behörden; besonders schlechte Erfahrungen mitBehörden; eingelegter Widerspruch oder Klage gegenBehördenentscheidungen; beantragter C-Ausweis; bereits getätigte bzw.derzeit zurückgestellte größere Anschaffungen; getätigte Fehlkäufe;Gegenstände, die man aus der DDR mitbringen sollte; Schwierigkeiten mitRatenzahlungen und Tilgung von Krediten; Verzicht auf Reisen oderAnschaffungen; Veränderungen im Freizeitverhalten gegenüber früher;Teilnahme am öffentlichen Leben und politische Partizipation(Mitgliedschaften); erwartete Unterstützung durch Verwandte sowie durchFreunde bei der Eingliederung in die Bundesrepublik und Beurteilung derUnterstützung; Kontakte zu Bundesbürgern und dabei gemachteErfahrungen und Probleme; Mitgliedschaft in einer Vereinigung fürehemalige DDR-Bürger; Bemühungen um DDR-Einreise; Besuche in der DDR;Treffen mit DDR-Verwandten in Drittländern; Identifikation alsehemaliger DDR-Bürger; erfahrene Diskriminierung aufgrund derDDR-Herkunft; wahrgenommene typische Unterschiede zwischen Menschen ausder DDR und BRD; heimisch fühlen am neuen Wohnort und Dauer derIntegration; Zufriedenheit mit dem eigenen Ausreiseentschluss;Rückkehrüberlegungen; Umzugswunsch ins Ausland; erfüllte Erwartungen inder BRD; Wichtigkeit der Lebensbereiche; Beurteilung der beruflichenChancengleichheit für die Frau in der Bundesrepublik; Änderung derEinstellung zur Berufstätigkeit der Frau seit dem Umzug in dieBundesrepublik; Einstellung zur Gleichberechtigungsdiskussion in derGesellschaft; Eingliederungsschwierigkeiten der Kinder; beruflicheEinschränkungen wegen fehlender Kinderbetreuung; Präferenz für Kind oderBeruf; Partnerherkunft aus der DDR oder BRD; Tätigkeit undgegebenenfalls Arbeitslosigkeit des Partners nach Übersiedlung.
+Demographie: Geschlecht; Alter (Geburtsjahr); Familienstand; Kinder;Alter der Kinder; monatliches Bruttoeinkommen.
+Indizes: Prestigewert der Berufstätigkeit des Befragten und desPartners, Prestigewert des Berufsabschlusses des Befragten,ISCO-Berufscode nach Treimann und Wegener.
+Zusätzlich verkodet wurde: Bereitschaft zu einem weiteren Gespräch.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Motives for leaving and modalities of moving to the FRG of citizens of the GDR. Description of course of employment and housing situation as well as regional mobility in the Federal Republic. Comparisons of the situation in the Federal Republic with the earlier GDR. Judgement on the entire change from moving. Topics: Dates of entry to the FRG; departure route and processing time of departure application; motives for leaving the GDR; time differences in moving of family members; city size of place of residence left in the GDR; training and employment data; course of employment; sanctions after filing departure application; problems in recognition of qualification or training degrees from the GDR; course of training and employment up to now in the FRG; reasons for unemployment and personal assessment of the reasons for unemployment; urgency of wish for work; employment suitable for qualification; acquisition of new knowledge and skills in the FRG; differences in work climate in comparison of FRG and GDR; today's activity as alternative to unemployment or desired work; satisfaction with current occupational situation and planned change of activity; current most important source of income; housing situation after moving; length of residence in transit or refugee housing; regional mobility in the Federal Republic and reasons for change of place of residence; current residential status; size of residence; persons in household and their degree of relationship to respondent; change of residence sought and reasons for this; judgement on experience with selected authorities; information on particularly bad experiences with authorities; protest filed or suit against decisions of authorities; C-identification applied for; larger acquisitions already purchased or currently deferred; purchase mistakes; objects one should bring along from the GDR; difficulties with installment payments and repaying loans; doing without trips or acquisitions; changes in leisure time behavior compared to earlier; participation in public life and political activity; expected support from relatives as well as friends in integration in the Federal Republic and judgement on their support; contacts with West Germans and experiences and problems there; membership in an organization for former citizens of the GDR; efforts to travel to the GDR; visits to the GDR; meeting relatives from the GDR in third countries; identification as former citizen of the GDR; discrimination experienced due to GDR origin; perceived typical differences between people from the GDR and FRG; feeling at home at new place of residence and duration of integration; satisfaction with personal departure decision; thoughts of returning; moving to a foreign country; fulfilled expectations in the FRG; importance of areas of life; judgement on inequality of occupational chances for women in the Federal Republic; change of attitude to employment of women since moving to the Federal Republic; attitude to the equal rights discussion in society; integration difficulties of the children; occupational restrictions due to lack of child care; preference for child or occupation; partner origin from the GDR or FRG; activity of partner and possibly unemployment of partner after moving; personal advice for future emigrants from East Germany. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>FRG incl. West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD einschl. West-Berlin </freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Die zwischen Mitte April 1983 und Mitte April 1986 in die BRD
+übergesiedelten ehemaligen DDR-Bürger, die bei der Bundesaufnahmestelle
+in Gießen und Berlin registriert waren und zum Zeitpunkt der Ausreise
+im Alter von 18 bis  65 Jahren waren.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>The population of former citizens of the GDR who moved to the FRG between the middle of April 1983 and the middle of April 1986 and were registered in the Federal Registry in Giessen and Berlin. Included were men and women over 18 or under 65 years old at the time of departure.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Repräsentative Zufallsstichprobe 
+Von den 3071 Fällen wurden 444 in Berlin und 2627 in Gießen
+gezogen.
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Representative random sample.
+Of the 3071 cases 444 were drawn in Berlin and 2627 in Giessen. 
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1989-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1989-09</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Sonderforschungsbereich 186, Universitaet Bremen 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Schriftliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Written survey with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>417</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Befragung wurde vor der veränderten Ausreisesituation aus der DDR
+im Sommer 1989 durchgeführt.
+Das Projekt wurde unter der folgenden Bezeichnung geführt: Projekt B4 -
+Berufliche und soziale Integration von DDR-Zuwanderern.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The survey was conducted before the changed departure situation from 
+the GDR in the summer of 1989. 
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Gehrmann, Manfred: 
+Jeder lebt hier mehr für sich...: Zur sozialen Integration von DDR-Zuwanderern in der alten Bundesrepublik Deutschland und West-Berlin. 
+In: Berliner Journal für Soziologie, Heft 2, 1992, S. 173-193. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Schumann, Karl F.: 
+Probleme der Assimilation von Bürgern und Bürgerinnen aus ehemaligen deutschen Teilstaaten. 
+In: Deutschland Archiv 24, Heft 11, 1991, S. 1193-1201. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Schumann, Karl F.; Dietz, Gerhard U.; Gehrmann, Manfred; Kaspras, Heidi: 
+Integration von Zuwanderern aus der DDR. 
+In: Dressel, Werner u.a. (Hrsg.): Lebenslauf, Arbeitsmarkt und Sozialpolitik. 
+Nürnberg, 1990, S. 249-263.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

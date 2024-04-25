@@ -1,0 +1,250 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Guest Workers in Germany 1985
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Gastarbeiter in Deutschland 1985
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1630</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Gastarbeiter in Deutschland 1985
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Guest Workers in Germany 1985
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>MARPLAN, Offenbach</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1630?doi=10.4232/1.1630</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1630</doiProposal>
+	<publicationDate>
+		<year>1988</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1630</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Social conditions and indicators</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die soziale und wirtschaftliche Situation der ausländischenArbeitnehmer in der Bundesrepublik.
+Themen: Derzeitige und beabsichtigte weitere Aufenthaltsdauerin der BRD; Häufigkeit und Dauer von Heimatbesuchen in den letztenJahren; geplanter Heimatbesuch in diesem Jahr; präferierterReisemonat und benutzte Verkehrsmittel; Familienangehörige in derBundesrepublik; Anzahl und Alter der Kinder aus der eigenenFamilie, die in Deutschland leben; Familiengröße; Anzahl derberufstätigen Familienmitglieder; in der Heimat lebendeFamilienmitglieder sowie Alter und Anzahl der dort lebenden Kinder;Präferenz für Ausrichtung der Ausbildung in Schule und Berufan den Erfordernissen in Deutschland oder der Heimat; größteSorgen und Schwierigkeiten in der Bundesrepublik; vermuteteEinstellung der Deutschen zu Gastarbeitern; Beurteilung desEinsatzes der Gewerkschaften für deutsche bzw. ausländischeArbeitnehmer; wichtigste Aufgaben der Gewerkschaften;Arbeitsplatzzufriedenheit; Interesse an der deutschenStaatsbürgerschaft; Parteipräferenz; monatliche Ausgaben fürLebensmittel und Dinge des täglichen Bedarfs; Einkaufsort.
+Demographie: Alter; Geschlecht; Länge der Schulzeit; Dauer derabgeschlossenen Berufsausbildung; Beruf; berufliche Position;Beschäftigungsstatus dieses und letztes Jahr; Branche der Tätigkeit;monatliches Netto-Einkommen (klassiert); Wohnverhältnis;Wohnzufriedenheit; Mieterhöhungen seit 1980; monatliche Miete; Interessean einer größeren Wohnung; Führerscheinbesitz; PKW-Besitz und Marke;Neu- bzw. Gebrauchtwagen; Abwesenheit von Haushaltsmitgliedern am Tagvor dem Interview.
+Interviewerrating: Störungen des Interviewablaufs; Einschätzungder Verständigungsmöglichkeiten; Kooperationsbereitschaft desBefragten; Einschätzung der Kenntnisse der Landessprache sowieder deutschen Sprache; Ortsgröße; Bundesland; Interviewtag.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The social and economic situation of foreign workers in the FederalRepublic.
+Topics: current and intended further length of stay in the FRG;frequency and duration of trips to native country in the last fewyears; planned trip to native country this year; preferred travel monthand means of transport used; family members in the Federal Republic;number and ages of children from one´s own family living in Germany;family size; number of family members working; family members living inthe native country as well as age and number of children living there;preference for orientation of education in school and employment on therequirements in Germany or the native country; greatest concerns anddifficulties in the Federal Republic; assumed attitude of Germans toguest workers; judgement on the effort of trade unions for German orforeign workers; most important tasks of the trade unions; jobsatisfaction; interest in German citizenship; party preference; monthlyexpenditures for food and everyday necessities; purchase place.
+Demography: age; sex; length of time in school; length of completedvocational training; occupation; occupational position; employmentstatus this year and last year; area of business of activity; monthlynet income (classified); housing conditions; satisfaction with housing;rent increases since 1980; monthly rent; interest in a largerresidence; possession of drivers license; car possession and brand; newor used car; absence of members of household on day before interview.
+Interviewer rating: disturbances of the course of the interview;assessment of ability to communicate; willingness of respondent tocooperate; assessment of knowledge of national language as well as ofthe German language; city size; state; day of interview. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>FRG incl. West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD einschl. West-Berlin </freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Ausländischen Arbeitnehmer (Türken, Italiener, Jugoslawen, Griechen und
+Spanier)</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Foreign workers (Turks, Italians, Yugoslavs, Greeks and Spaniards)</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Quotenauswahl nach Geschlecht, Alter, Wohnverhältnissen, Familienstand,
+Zuzugsjahr und regionaler Verteilung </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Quota sample according to sex, age, housing conditions, marital status,
+year of arrival and regional distribution </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1985-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1985-04</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>125</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Das Vorgehen bei der Befragung der ausländischen Arbeitnehmer
+ist bei der ZA-Studien-Nr. 1328 näher beschrieben. Die Studie
+ist Teil einer Mehrthemen-Erhebung und Teil einer Trend-Erhebung.
+Die übrigen "Ausländerstudien" aus dieser Reihe sind unter den
+folgenden ZA-Studien-Nrn. archiviert:
+ZA-Studien-Nr. 0606 (1970)
+ZA-Studien-Nr. 0607 (1971)
+ZA-Studien-Nr. 0608 (1972)
+ZA-Studien-Nr. 0676 (1973)
+ZA-Studien-Nr. 0677 (1974)
+ZA-Studien-Nr. 0928 (1975)
+ZA-Studien-Nr. 0929 (1976)
+ZA-Studien-Nr. 1075 (1977)
+ZA-Studien-Nr. 1076 (1978)
+ZA-Studien-Nr. 1077 (1979)
+ZA-Studien-Nr. 1328 (1980)
+ZA-Studien-Nr. 1329 (1982)
+ZA-Studien-Nr. 1358 (Datenpool 1970-1982)
+ZA-Studien-Nr. 1629 (1984)
+ZA-Studien-Nr. 1631 (1986)
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The procedure in interviewing foreign workers is more closely
+described in ZA Study No. 1328.
+The study is part of an omnibus survey and part of a trend survey.
+The remaining "foreigner studies"
+from this series are archived under the following ZA Study Nos.:
+ZA Study No. 0606 (1970)
+ZA Study No. 0607 (1971)
+ZA Study No. 0608 (1972)
+ZA Study No. 0676 (1973)
+ZA Study No. 0677 (1974)
+ZA Study No. 0928 (1975)
+ZA Study No. 0929 (1976)
+ZA Study No. 1075 (1977)
+ZA Study No. 1076 (1978)
+ZA Study No. 1077 (1979)
+ZA Study No. 1328 (1980)
+ZA Study No. 1329 (1982)
+ZA Study No. 1358 (data pool 1970-1982)
+ZA Study No. 1629 (1984)
+ZA Study No. 1631 (1986)
+</text>
+		</note>
+	</notes>
+</resource>

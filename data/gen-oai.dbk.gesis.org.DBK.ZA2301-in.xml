@@ -1,0 +1,231 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'State Election in Baden-Wuerttemberg 1992 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Landtagswahl in Baden-Württemberg 1992
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA2301</identifier>
+		<currentVersion>2.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Landtagswahl in Baden-Württemberg 1992
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>State Election in Baden-Wuerttemberg 1992 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2301?doi=10.4232/1.11245</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11245</doiProposal>
+	<publicationDate>
+		<date>2012-02-27</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2301</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+					<term>Wohnraum</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+					<term>Housing</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Beurteilung von Parteien und Politikern in Baden-Württemberg.Einstellung zu aktuellen landespolitischen Fragen.
+Themen: Wahlberechtigung im Bundesland; wichtigste politischeProbleme in Baden-Württemberg; Wahlbeteiligungsabsicht an derLandtagswahl; Präferenz für Briefwahl; Zeitpunkt und Sicherheitder eigenen Wahlentscheidung; Wahlverhalten bei der letztenLandtagswahl 1988; Befürwortung einer Alleinregierung der CDU;Koalitionspräferenz; Sympathie-Skalometer für ausgewählteParteien auf Bundes- und Landesebene; Zufriedenheit mit denLeistungen der CDU-Landesregierung, der SPD-Opposition imLandtag und der Bundesregierung in Bonn; Sympathie-Skalometerfür ausgewählte (Landes-)Politiker; Parteipräferenz imBundesland; Ministerpräsidentenpräferenz; Einstellung zurPolitik von Teufel und Spöri; Bewertung der bisherigenLeistungen des Ministerpräsidenten; Bewertung derRegierungsmannschaften von Teufel und Spöri; Präferenz für einezukünftige Beteiligung der CDU an der Landesregierung;Einstellung zum Ausländeranteil im Bundesland; Kompetenz einerCDU- bzw. SPD-geführten Landesregierung bei der Bekämpfung derArbeitslosigkeit, der Verbesserung der wirtschaftlichen Lage imLande, einem wirksamen Umweltschutz, der Verbesserung derWohnungsmarktsituation, der Durchführung einer sinnvollenVerkehrspolitik und der Lösung der Asylproblematik; Beurteilungder aktuellen und zukünftigen wirtschaftlichen Lage inBaden-Württemberg; Vergleich der wirtschaftlichen LageBaden-Württembergs mit dem übrigen westlichen Bundesgebiet;Zufriedenheit mit der Situation auf dem Wohnungsmarkt und denVerkehrsverhältnissen; Wohnstatus; perzipierter Asylmißbrauch;Präferenz für eine Grundgesetzänderung zur Verhinderung einesAsylmißbrauchs; Zukunftsaussichten des Bundeslandes; Stolz aufBaden-Württemberg; Beurteilung des Anteils der bisherigenLandesregierung am wirtschaftlichen Erfolg Baden-Württembergs;Beurteilung der fehlenden Koalitionsaussage der FDP;Wahrscheinlichkeit einer Regierungsbildung der FDP mit der CDUoder mit der SPD.
+Demographie: Alter (klassiert); Geschlecht; Familienstand; Befragterlebt mit Lebensgefährten/-tin zusammen; Konfession;Kirchgangshäufigkeit; Schulbildung; Berufsausbildung; Staatsexamen,Diplom oder ähnlicher Schulabschluß; Beruf; Berufliche Position;Berufstätigkeit;  perzipierte Gefährdung des eigenen Arbeitsplatzes;Arbeitsplatzgefährdung im sozialen Umfeld; Haushaltsgröße;Haushaltszusammensetzung; Befragter ist Haushaltsvorstand;Charakteristika des Haushaltsvorstands; Parteineigung;Gewerkschaftsmitgliedschaft; Ortsgröße.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Judgement on parties and politicians in Baden-Wuerttemberg. Attitude tocurrent political questions at state level. 
+Topics: Eligibility to vote in the state; most important politicalproblems in Baden-Wuerttemberg; intent to participate in the stateelection; preference for absentee ballot; point in time and certaintyof one´s voting decision; behavior at the polls in the last stateparliament election 1988; approval of a one-party government of CDU;coalition preference; sympathy scale for selected parties at federaland state level; satisfaction with the achievements of the CDU stategovernment, SPD opposition in state parliament and Federal Governmentin Bonn; sympathy scale for selected (state) politicians; partypreference in the state; preference for prime minister; attitude to thepolicies of Teufel and Spoeri; evaluation of the achievements of theprime minister up to now; evaluation of the government teams of Teufeland Spoeri; preference for a future participation of the CDU in thestate government; attitude to the proportion of foreigners in thestate; ability of a CDU-led or SPD-led state government in the fightagainst unemployment, improvement in the economic situation in thestate, effective environmental protection, improvement in the situationin the housing market, conducting sensible traffic policy and solvingthe problem of asylum; judgement on the current and future economicsituation in Baden-Wuerttemberg; comparison of the economic situationof Baden-Wuerttemberg with the rest of the western federal territory;satisfaction with the situation in the housing market and trafficconditions; residential status; perceived abuse of asylum; preferencefor an ammendment to the constitution to prevent abuse of asylum;prospects for the future of the state; pride in Baden-Wuerttemberg;judgement on the share of the state government in the economic successof Baden-Wuerttemberg up to now; judgement on the absence of astatement of willingness to form a coalition by the FDP; probability offormation of a government of the FDP with the CDU or the SPD. 
+Marital status; living together with a partner through life; perceivedjeopardy to personal job; threat of unemployment within one´s circle offriends; union membership of member of household; religiousness; partyinclination and party identification; city size. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BW</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte, die in Privathaushalten mit Telefonanschluss leben</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons from the residential population eligible to vote
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Einfache Zufallsauswahl; Auswahlverfahren Kommentar: RLD-Verfahren (Randomize last digit)
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Simple random; Sampling Procedure Comment: RLD procedure (Randomize last digit)
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1992-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1992-04</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>1048</numberUnits>
+			<numberVariables>99</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.2301</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+</resource>

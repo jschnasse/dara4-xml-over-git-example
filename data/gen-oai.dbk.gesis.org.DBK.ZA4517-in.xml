@@ -1,0 +1,225 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Duisburg Citizen Survey (Autumn 2006, German population)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Duisburger Bürgerumfrage (Herbst 2006, deutsche Befragte)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4517</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Duisburger Bürgerumfrage (Herbst 2006, deutsche Befragte)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Duisburg Citizen Survey (Autumn 2006, German population)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Stadt Duisburg, Amt für Statistik, Stadtforschung und Europaangelegenheiten</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4517?doi=10.4232/1.4517</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4517</doiProposal>
+	<publicationDate>
+		<year>2007</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4517</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT51</identifier>
+					<!-- Gemeinde, Wohnumwelt -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Konsum und Konsumverhalten</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Community, urban and rural life</term>
+					<term>Government, political systems and organisations</term>
+					<term>Consumption and consumer behaviour</term>
+					<term>Economic conditions and indicators</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>Wohnverhältnisse</keyword>
+				<keyword>wirtschaftliche Lage</keyword>
+				<keyword>politische Einstellung</keyword>
+				<keyword>Kaufverhalten</keyword>
+				<keyword>Migrationshintergrund</keyword>
+				<keyword>Kommunalverwaltung</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>housing conditions</keyword>
+				<keyword>economic situation</keyword>
+				<keyword>political attitude</keyword>
+				<keyword>buying behavior</keyword>
+				<keyword>migration background</keyword>
+				<keyword>municipal administration</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellung zum Wohnen und zu den Lebensbedingungen in Duisburg.Beurteilung des wirtschaftlichen Klimas in Duisburg und Deutschland.Beurteilung von Fragen der Kommunalpolitik. Einkaufsverhalten.
+Themen: 1. Wohnen: Wohnzufriedenheit in Duisburg; Wohndauer inDuisburg und in derzeitiger Wohnung; derzeitiger Wohnstatus (zur Mietebzw. Untermiete, eigenes Haus oder Eigentumswohnung); Wohnhaustyp;Zimmeranzahl der Wohnung; Zufriedenheit mit der eigenen Wohnung, derWohngegend, mit Duisburg allgemein und mit den Umweltbedingungen in dernäheren Wohnumgebung (Skalometer); regionale Identität; Identität alsNiederrheiner oder als Mensch des Ruhrgebiets.
+2. Größte derzeitige Probleme in Deutschland und in Duisburg; größteUmweltprobleme in Duisburg.
+3. Wichtigkeit einzelner Lebensbedingungen (Skalometer: Arbeits- undVerdienstmöglichkeiten, Ausbildungsplätze und Lehrstellen, Radwegenetz,öffentliche Verkehrsmittel, Ärzte und Krankenhäuser, Schwimmbäder undSportanlagen, Park- und Grünanlagen, kulturelle Veranstaltungen undEinrichtungen, Sauberkeit der Luft, Stadtbücherei, gute und preiswerteWohnungen, Gastronomie, Kindergärten und Kindertagesstätten, Gebäude-und Straßenbild, Arbeit der Duisburger Stadtverwaltung, Volkshochschulesowie Treffpunkte für ältere Menschen und für die Jugend).
+4. Wirtschaftliches Klima: Beurteilung der derzeitigen und zukünftigenwirtschaftlichen Lage in Deutschland, in Duisburg sowie der eigenenwirtschaftlichen Lage; erwartete Entwicklung der Arbeitslosenzahlen inden nächsten zwei Jahren in Duisburg; Selbsteinschätzung derSchichtzugehörigkeit.
+5. Politik, Kommunalpolitik: Politikinteresse allgemein und Interessean der Kommunalpolitik; SPD oder CDU/CSU als kompetenteste Partei aufBundes- und Kommunalebene; kompetenteste der Bundesparteien bei derBekämpfung der Arbeitslosigkeit, zur Rentensicherung allgemein und zurSicherung der Rentenhöhe, für innere Sicherheit, zur Stabilisierung desGesundheitswesens sowie in Wirtschaftsfragen; kompetenteste Partei inDuisburg bei der Wirtschaftsförderung.
+6. Einkaufsverhalten: Ort für Einkauf von Lebensmitteln und Artikelndes täglichen Bedarfs sowie des mittel- oder langfristigen Bedarfs;Bewertung der Versorgung mit Einzelhandelsgeschäften in der Wohngegendund in der Duisburger City; alternative Kauforte außerhalb Duisburgs(Angabe der Stadt); konkrete Angabe vermisster Einzelhandelsgeschäfte.
+7. Einwohner mit Migrationshintergrund wurden gefragt: Geboren auf demheutigen Gebiet der BRD; Zuzug in die BRD vor oder nach 1950;(Spät-)Aussiedler; Besitz weiterer Staatsangehörigkeiten und Angabedieser Staatsangehörigkeiten; Erwerb der deutschen Staatsangehörigkeitdurch Einbürgerung; Zuzug der Eltern 1955 oder später auf das heutigeGebiet der BRD und Angabe des Herkunftslandes; Eltern(Spät-)Aussiedler; Besitz weiterer Staatsangehörigkeiten der Eltern undAngabe dieser Staatsangehörigkeiten; Erwerb der deutschenStaatsangehörigkeit der Eltern durch Einbürgerung.
+8. Arbeit der Stadtverwaltung: Kontakthäufigkeit zur DuisburgerStadtverwaltung im letzten Jahr; genutzte Ansprechmöglichkeiten;Zufriedenheit mit der Bearbeitung der Anliegen durch die Mitarbeiter derStadtverwaltung (Skalometer); wichtigste Aspekte für die Zufriedenheitmit Verwaltungsdienstleistungen (Erreichbarkeit und Freundlichkeit derzuständigen Mitarbeiter, Öffnungszeiten der Dienststellen, Zügigkeitder Bearbeitung, Vollständigkeit und Richtigkeit der erteiltenAuskünfte, Möglichkeit, die Anliegen von zuhause aus zu erledigen,Verständlichkeit von Entscheidungen, Formularen und Auskünften sowieVermeidung von Mehrfachkontakten); Besuch einer der Veranstaltungen derWorld Games; Kenntnis von Duisburg als Gastgeber der italienischenNationalmannschaft während der Fußballweltmeisterschaft 2006; Einstellungzur Wirksamkeit von Großveranstaltungen für Duisburg. 
+Demographie: Geschlecht; Alter (Geburtsjahr); Familienstand;Kinderzahl; Zusammenleben mit einem Partner; andere Staatsangehörigkeitdes Partners; frühere Staatsangehörigkeit des Befragten;Haushaltsgröße; Haushaltszusammensetzung; Anzahl Kinder im Alter von 18Jahren und älter; höchster Schulabschluss; Berufsausbildung; Vollzeit-bzw. Teilzeitbeschäftigung; Beruf; Einschätzung der eigenenArbeitsplatzsicherheit; Betriebsgröße; Konfession; PKW-Besitz,Nutzungshäufigkeit öffentlicher Verkehrsmittel;Gewerkschaftsmitgliedschaft; Befragter ist Haushaltsvorstand;Charakteristika des Haushaltsvorstands; Bezug von Transferleistungen;Anzahl Personen, die zum Haushaltseinkommen beitragen;Haushaltsnettoeinkommen; Parteipräferenz; Ortsteil.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Duisburg</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Duisburg</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutsche Personen mit Hauptwohnsitz in Duisburg im Alter von 18 bis 75
+Jahren aus der Einwohnermeldedatei</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Einfache Zufallsauswahl aus der Einwohnermeldedatei</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>2006</year>
+				</startDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Autumn 2006</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Herbst 2006</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Stadt Duisburg, Amt für Statistik, Stadtforschung und Europaangelegenheiten</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>195</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Unter der ZA-Studien-Nr. 4524 ist eine Parallelstudie (ausländische
+Befragte) archiviert. </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

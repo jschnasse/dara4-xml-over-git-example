@@ -1,0 +1,341 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Transatlantic Trends Immigration Survey 2008'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Transatlantic Trends Immigration Survey 2008'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4990</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Transatlantic Trends Immigration Survey 2008</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Transatlantic Trends Immigration Survey 2008</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Pierangelo</firstName>
+				<middleName/>
+				<lastName>Isernia</lastName>
+				<affiliation>
+					<affiliationName>Universität Siena, Italien</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4990?doi=10.4232/1.4990</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4990</doiProposal>
+	<publicationDate>
+		<year>2009</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4990</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.2.0</classificationSchema>
+				<terms>
+					<term>Antimuslimischer Rassismus</term>
+					<term>Identität &amp; soziales Zugehörigkeitsgefühl</term>
+					<term>Integration</term>
+					<term>Intergruppenbeziehungen/-konflikte</term>
+					<term>Intergruppenkontakt</term>
+					<term>Einwanderungs-, Migrations- und Integrationspolitik</term>
+					<term>Multikulturalismus</term>
+					<term>Nationalismus</term>
+					<term>Patriotismus</term>
+					<term>Realistische Bedrohungswahrnehmungen</term>
+					<term>Religiöse Ideologie</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>BIPoC</term>
+					<term>Religiöse Zugehörigkeit</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.2.0</classificationSchema>
+				<terms>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.2.0</classificationSchema>
+				<terms>
+					<term>Anti-Muslim racism</term>
+					<term>Identity &amp; sense of social belonging</term>
+					<term>Integration</term>
+					<term>Intergroup relations/conflicts</term>
+					<term>Intergroup contact</term>
+					<term>Migration and integration policies</term>
+					<term>Multiculturalism</term>
+					<term>Nationalism</term>
+					<term>Patriotism</term>
+					<term>Realistic threat perceptions</term>
+					<term>Religious ideology</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>BIPoC</term>
+					<term>Religiöse Zugehörigkeit</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.2.0</classificationSchema>
+				<terms>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellung zu Einwanderern im eigenen Land und allgemein. Einstellungzur Einwanderungspolitik. Nationale Identität. Die Rolle vonEinwanderern in einer alternden Gesellschaft. Parteipräferenz.
+Themen: Häufigkeit politischer Diskussionen im Freundeskreis;politische Meinungsführerschaft; Einwanderung als Problem oder alsChance für das eigene Land; Beurteilung der Anzahl der Nicht-EU-Bürger(USA: Nicht-amerikanischen Bürger) im eigenen Land; vermuteter legaleroder illegaler Einwandererstatus der meisten im eigenen Land lebendenEinwanderer; Beunruhigung über legale sowie illegale Einwanderung;Wichtigkeit ausgewählter Voraussetzungen für die Einwanderungserlaubnis(Sprachkenntnisse, Familienangehörige im Einwanderungsland,Arbeitsplatzangebot, hoher Bildungsgrad, Herkunft aus einemchristlichem Land; präferierter Umgang mit legalen Einwanderern:befristete Aufenthaltserlaubnis oder permanentes Bleiberecht;präferierter Umgang mit illegalen Einwanderern: Abschiebung in dasHerkunftsland oder Möglichkeit des Erwerbs eines legalen Status;Einstellung zu ausgewählten Maßnahmen der Einwanderungspolitik:verstärkte Entwicklungshilfe für die Herkunftsländer illegalerEinwanderer, Verstärkung der Grenzkontrollen, Einführung härtererStrafen für Arbeitgeber, die illegale Einwanderer beschäftigen,Abschiebung von illegalen Einwanderern in deren Heimatländer,Vereinfachung der legalen Einwanderung zu Arbeit und Studium,kostenlose Sprachkurse, Kampf gegen Diskriminierung auf demArbeitsmarkt, gleiche Rechte der politischen Partizipation wieLandesbürger, gegenseitiger Respekt als Schulfach sowie Zugang zusämtlichen staatlichen Sozialleistungen; Einstellung zu ausgewähltenAussagen hinsichtlich Einwanderung: beeinflusst die Kultur des eigenenLandes mit neuen Ideen und Gewohnheiten, verursacht Steuererhöhungendurch die Inanspruchnahme von Sozialleistungen, verursacht den Anstiegder Kriminalitätsrate, Schaffung neuer Jobs durch Firmengründungen,Anstieg der Wahrscheinlichkeit terroristischer Anschläge im Land;präferierter Umgang der Landesregierung mit Einwanderung: in Absprachemit den Herkunftsländern oder eigene Einwanderungspolitik; präferierteEntscheidungsebene für Einwanderungsangelegenheiten: lokale Regierung,nationale Regierung bzw. die Europäische Union (bzw. in den USA:Bundesstaat oder Zentralregierung).
+Bedeutung ausgewählter Aspekte für die nationale Identität: im Landgeboren sein, Besitz der Staatsangehörigkeit, lange Wohnsitzdauer imLand, Kenntnisse der Landessprache, Anerkennung politischerInstitutionen und Gesetze sowie Gefühl der Landeszugehörigkeit.
+Einstellung zu Einwanderern: harte Arbeiter, nehmen den Einheimischendie Arbeitsplätze weg, beheben Arbeitskräftemangel, Abschiebung in dieHeimatländer nach einem Jahr Arbeitslosigkeit oder nachStraffälligkeit, Wahlrecht für legale Einwanderer bei denKommunalwahlen; Einstellung zu muslimischen Einwanderern: Bereicherungder nationalen Kultur, Unvereinbarkeit der Lebensweise vonWesteuropäern (USA: Amerikanern) mit der von Muslimen, Akzeptanzanderer Kulturen durch die Mehrheit der Muslime im Land, niedrigersozialer Status von muslimischen Frauen im Vergleich mit muslimischenMännern, Integrationsabsicht der Mehrheit der Muslime, Frustrationmuslimischer Jugendlicher aufgrund ihrer wirtschaftlichen Situation.
+Einstellung zu ausgewählten Maßnahmen hinsichtlich des demographischenWandels: Anhebung des Rentenalters, Anreize für mehr Geburten,Erleichterung der Einwanderung zu Arbeitszwecken, Umschulungarbeitsloser Arbeitskräfte; Einwanderer als Problem oder als Chance fürdas eigene Land; Ausländer im Freundes- oder Kollegenkreis; eigeneUmzugsabsicht in ein anderes Land.
+Parteipräferenz bei der nächsten Wahl; in den USA wurde gefragt:Präferenz für John McCain oder Barack Obama bei den anstehendenPräsidentschaftswahlen; Einschätzung des Einflusses derEinwanderungspolitik des Landes auf die eigene Wahlentscheidung;Selbsteinschätzung auf einem Links-Rechts-Kontinuum. 
+Demographie: Geschlecht; Alter; Schulausbildung; Konfession;berufliche Stellung; Herkunftsland (Migrationshintergrund);Staatsangehörigkeit, Herkunft der Eltern; Familienstand; Kinderzahl;ethnische Herkunft; Region; Urbanisierungsgrad; Land.
+Zusätzlich verkodet wurde: Index Meinungsführerschaft; Interviewdauer;Interviewdatum; Interviewbeginn; Interviewende;Intervieweridentifikation; Gewichtungsfaktoren.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>US</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 18 Jahre und älter</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Repräsentative Auswahl </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2008-08-29</date>
+				</startDate>
+				<endDate>
+					<date>2008-09-29</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany: 2. September 2008 till 15. September 2008,
+France: 3. September 2008 till 16. September 2008,
+Italy: 1. September 2008 till 16. September 2008,
+Netherlands: 1.September 2008 till 15. September 2008,
+United Kingdom: 1. September 2008 till 11. September 2008,
+USA: 29. August 2008 till 29. September 2008</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland: 2. September 2008 bis 15. September 2008,
+Frankreich: 3. September 2008 bis 16. September 2008,
+Italien: 1. September 2008 bis 16. September 2008,
+Niederlande: 1.September 2008 bis 15. September 2008,
+Großbritannien: 1. September 2008 bis 11. September 2008,
+USA: 29. August 2008 bis 29. September 2008</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>TNS EMNID, Bielefeld, Deutschland
+TNS Sofres, Paris, Frankreich
+DOXA, Mailand, Italien
+TNS NIPO, Amsterdam, Niederlande
+ICM, London, Großbritannien
+TNS OBOP, Warschau, Polen
+Leger Marketing, Montreal, USA
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung (CATI) mit standardisiertem Fragebogen (in
+Polen: face-to-face-Interviews)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>134</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>In Europa wurden rund 1000 Interviews je Land durchgeführt. In den USA
+wurden ebenfalls rd. 1000 Interviews durchgeführt. Die Interviews
+wurden in Form von computergestützten Telefoninterviews (CATI)
+durchgeführt mit Ausnahme von Polen, dort wurden
+face-to-face-Interviews durchgeführt.
+
+Neben dem German Marshall Fund of the United States waren an der 
+Finanzierung beteiligt: 
+Compagnia di San Paolo, Turin, Italien;
+Lynde and Harry Bradley Foundation, Milwaukee, USA;
+Barrow Cadbury Trust, London, Großbritannien.
+
+Die Erhebungszeiträume im Einzelnen:
+Deutschland: 2. September 2008 bis 15. September 2008,
+Frankreich: 3. September 2008 bis 16. September 2008,
+Italien: 1. September 2008 bis 16. September 2008,
+Niederlande: 1.September 2008 bis 15. September 2008,
+Großbritannien: 1. September 2008  bis 11. September 2008,
+USA: 29. August 2008 bis 29. September 2008</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

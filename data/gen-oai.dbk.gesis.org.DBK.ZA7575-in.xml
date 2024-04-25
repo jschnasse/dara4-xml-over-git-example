@@ -1,0 +1,1080 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Eurobarometer 91.4 (2019)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Eurobarometer 91.4 (2019)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA7575</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Eurobarometer 91.4 (2019)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Eurobarometer 91.4 (2019)</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Europeans’ attitudes on Trade and EU trade policy, Europeans’ attitudes on EU energy policy, and Discrimination in the European Union</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Europeans’ attitudes on Trade and EU trade policy, Europeans’ attitudes on EU energy policy, and Discrimination in the European Union</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>European Commission, Brussels</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7575?doi=10.4232/1.13429</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13429</doiProposal>
+	<publicationDate>
+		<date>2020-05-13</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7575</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT31</identifier>
+					<!-- Wirtschaftspolitik, wirtschaftliche Lage -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+					<identifier>KAT58</identifier>
+					<!-- Technik, Energie -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Wirtschaftspolitik, öffentliche Ausgaben und Einnahmen</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+					<term>Energiequellen und natürliche Rohstoffquellen</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Economic conditions and indicators</term>
+					<term>Economic policy,  public expenditure and revenue</term>
+					<term>Economic systems and development</term>
+					<term>Energy and natural resources</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Seit den frühen 1970er Jahren beobachten die Standard &amp; Spezial Eurobarometer der Europäischen Kommission regelmäßig die öffentliche Meinung in den Mitgliedsländern der Europäischen Union. Primärforscher sind die Generaldirektion Kommunikation und bei Spezialthemen weitere Direktionen sowie das Europäische Parlament. Im Laufe der Zeit wurden Kandidaten- und Beitrittsländer in die Standard Eurobarometer-Reihe aufgenommen. Ausgewählte Fragen oder Module können in einigen Samples nicht erhoben worden sein. Bitte ziehen Sie für weitere Informationen bezüglich Länderfilter oder anderer Filterführungen den Basisfragebogen heran. In dieser Studie sind folgende Module vorhanden: 1. Einstellungen von Europäern zum Handel und zur EU-Handelspolitik, 2. Einstellungen von Europäern zur EU-Energiepolitik, 3. Diskriminierung in der Europäischen Union.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Themen: 1. Einstellungen von Europäern zum Handel und zur EU-Handelspolitik: Selbsteinschätzung, ob man vom globalen Handel profitiert; Gründe für diese Einstellung; Priorität in der Handelspolitik der EU; präferierte Aussagen im Hinblick auf die Globalisierung: hilft Menschen in Entwicklungsländern aus der Armut, bringt nationalen Unternehmen neue Möglichkeiten, gab es immer, bedroht Arbeitsplätze und Lebensweise, verändert die Welt zu schnell, führt zu einer größeren Auswahl an Waren und zu niedrigeren Preisen, schafft Arbeitsplätze im eigenen Land, schwer durch die Regierungen zu kontrollieren, hat Vor- und Nachteile; wichtigste Auswirkungen auf die Arbeitsplätze im eigenen Land in den kommenden Jahren: zunehmende Automatisierung, härterer Wettbewerb durch den internationalen freien Handel, höhere Zölle durch protektionistische Politik, Immigration, alternde Bevölkerung, Klimawandel; Effektivität der Vertretung der Interessen der Mitgliedstaaten auf EU- oder auf nationaler Ebene; Einstellung zur Erhebung höherer Importzölle auf Waren und Dienstleistungen für nicht-europäische Länder und Unternehmen; EU-Handelspolitik berücksichtigt die Auswirkungen auf Soziales, Umwelt und Menschenrechte sowohl in der EU selbst als auch im Hinblick auf die Handelspartner; Einstellung zu ausgewählten Aussagen zu preisgünstigeren Angeboten aus Ländern mit schwächeren Arbeitnehmerrechten und niedrigeren Umweltstandards: Entscheidung liegt in der Hand der Verbraucher, europäische Unternehmen mit Fabriken in Entwicklungsländern sollten ihre Arbeiter fair behandeln und die Umwelt respektieren, EU sollte andere Länder zur Verbesserung der Arbeitnehmerrechte und Umweltstandards ermutigen, EU sollte Maßnahmen gegen von schwachen Arbeitnehmerrechten und Umweltstandards profitierende Unternehmen aus nicht-europäischen Ländern ergreifen; präferierte Aussage im Hinblick auf internationale Handelsregeln: unnötig, notwendig, auch wenn nicht jedes Land sie befolgen wird, notwendig zur Schaffung gleicher Wettbewerbsbedingungen; präferierte Aussage zu EU-Handelsabkommen: schaffen Arbeitsplätze und senken die Preise für Verbraucher und Unternehmen, stärken die Position der EU in der Welt, ändern nichts, nutzen den Unternehmen mehr als den Verbrauchern oder Arbeitnehmern, behindern die nationale Regierung bei der Verabschiedung von mit den Handelsabkommen nicht zu vereinbarenden Gesetzen; Online-Kauf von Produkten und Dienstleistungen von außerhalb der Europäischen Union in den letzten zwölf Monaten; Online-Kauf von Produkten und Dienstleistungen aus den folgenden Ländern: Vereinigte Staaten, China, Japan, andere Länder; Einstellung zu den folgenden Praktiken im Hinblick auf Unternehmensinvestitionen in anderen Ländern: Investitionen von Nicht-EU-Unternehmen im eigenen Land, Kauf von Unternehmen im eigenen Land durch Nicht-EU-Unternehmen, Investitionen nationaler Unternehmen in Staaten außerhalb der EU, Kauf von Unternehmen in Staaten außerhalb der EU durch Unternehmen des eigenen Landes; Vertrauen in die EU im Hinblick auf die Verfolgung ihrer Handelspolitik in offener und transparenter Art und Weise; präferierte Informationsquellen zu Globalisierung und internationalem Handel.
+2. Einstellungen von Europäern zur EU-Energiepolitik: wichtigste Aspekte der EU-Energiepolitik; Einstellung zu den folgenden Aussagen: EU muss den Zugang zu Energie für alle Bürger sichern, EU muss den Zugang zu sauberer Energie sichern, EU muss den Zugang zu bezahlbarer Energie sichern, Stärkung der Kooperation zwischen den Mitgliedstaaten zur Gewährleistung des Zugangs zu sicherer und bezahlbarer Energie; Einstellung zu ausgewählten Aussagen über die Art der Gewährleistung des Zugangs zu sicherer Energie: Stärkung der Kooperation der Mitgliedstaaten für den Fall von Energiekrisen, Diversifizierung externer Energielieferanten, bei Verhandlungen mit externen Energielieferanten mit einer Stimme sprechen, gut vernetztes Energienetzwerk in der EU, vermehrte Kooperation der Mitgliedstaaten im Bereich Cybersicherheit und Energie, Gewährleistung sicherer Atomenergie, Überwachung ausländischer Investitionen in strategische Infrastruktur in der EU; Einstellung zu den folgenden Aspekten im Hinblick auf die Verantwortlichkeiten der EU: Unterstützung von Maßnahmen zur Verbesserung der Energieeffizienz von Gebäuden, Förderung von Investitionen in erneuerbare Energien, Förderung von Investitionen in Forschung und Innovation, Befähigung von Städten und Gemeinden zur Umstellung auf saubere Energien, Unterstützung von Nicht-EU-Staaten bei der Umstellung auf saubere Energiesysteme; Einstellung zu den folgenden Aspekten im Hinblick auf die Verantwortlichkeiten der EU: Stärkung des Wettbewerbs auf den EU-Energiemärkten zur Sicherstellung günstigerer Verbraucherpreise, Senkung der Energiearmut in allen Regionen, Erleichterung der Auswahl von Energiequellen und -anbietern für Verbraucher, Befähigung der Verbraucher zu eigener Energieproduktion und eigenem Energiekonsum; Kenntnis des EU-Energielabels; Auswirkungen des EU-Energielabels auf den Kauf elektrischer Geräte; wichtigste, von der EU in den nächsten zehn Jahren zu priorisierende Energiefragen.
+3. Diskriminierung in der Europäischen Union: Freunde oder Bekannte mit den folgenden Merkmalen: andere ethnische Herkunft, andere Hautfarbe, Roma, homo- oder bisexuell, behindert, andere Religionszugehörigkeit, transgender, intersex; eigene Zugehörigkeit zu einer Minderheit; eigene Religionszugehörigkeit; Einschätzung des Ausmaßes von Diskriminierung im eigenen Land aufgrund der folgenden Merkmale: ethnische Herkunft, Hautfarbe, Roma, sexuelle Orientierung, als zu alt oder zu jung wahrgenommen werden, Religion, Behinderung, transgender, Geschlecht, intersex; eigene Erfahrung mit Diskriminierung in den letzten zwölf Monaten aufgrund der vorgenannten Merkmale; Situation der letzten persönlichen Diskriminierung: bei der Jobsuche, bei der Arbeit, bei der Wohnungs- oder Haussuche, durch medizinisches Personal, durch Personal aus dem Bereich sozialer Dienstleistungen, durch Schul- oder Universitätspersonal, in Cafés etc., in Geschäften oder Banken, im öffentlichen Raum, anderes; möglicherweise nachteilig wirkende Merkmale von Bewerbern in Bewerbungsverfahren: Name, Adresse, Art zu sprechen, ethnische Herkunft, Hautfarbe, Roma, Geschlecht, sexuelle Orientierung, intersex, Alter, Behinderung, Religionszugehörigkeit, Aussehen, physische Erscheinung; Häufigkeit der folgenden Aktivitäten in den letzten zwölf Monaten: Teilen von Inhalten zu diskrimierenden Handlungen in sozialen Netzwerken im Internet, öffentliches Verteidigen eines Diskriminierungsopfers, Mitgliedschaft in einer Vereinigung gegen Diskriminierung, Thema Diskriminierung öffentlich am Arbeitsplatz angesprochen; Akzeptanz einer Person in der höchsten politischen Position mit den folgenden Merkmalen (Skala): weiblich, homo- oder bisexuell, andere ethnische Herkunft als die Mehrheit der Bevölkerung, andere Hautfarbe als die Mehrheit der Bevölkerung, Roma, als zu jung wahrgenommen, als zu alt wahrgenommen, behindert, andere Religionszugehörigkeit, transgender, intersex; ausreichende Anstrengungen des eigenen Landes zur Bekämpfung von Diskriminierung (Skala); Bewertung der Wirksamkeit von Maßnahmen zur Integration der Roma-Bevölkerung (Skala); ausreichende Maßnahmen am Arbeitsplatz zur Förderung der Vielfalt im Hinblick auf die folgenden Kriterien: ethnische Herkunft, Hautfarbe, Roma, Geschlecht, sexuelle Orientierung, ältere Menschen, jüngere Menschen, Religion, Behinderung, transgender, intersex; präferierte Anlaufstelle im Fall einer angenommenen Diskriminierung: Gewerkschaften, Nichtregierungsorganisationen (NGOs) oder Verbände, Gerichte, nationale Organisation für die Gleichstellung oder Ombudsleute, Anwalt, Polizei, Freunde oder Familienmitglieder, Streitbeilegungsverfahren, andere; Bereitschaft zur Preisgabe der folgenden persönlichen Informationen auf anonymer Basis im Rahmen eines Zensus oder einer statistischen Erhebung zur Unterstützung der Bekämpfung von Diskriminierung: ethnische Herkunft, Hautfarbe, Behinderung, Religion, Gesundheit, sexuelle Orientierung; Einstellung zu möglichen Arbeitskollegen aus einer der folgenden Personengruppen: Roma, Schwarze, Asiaten, Weiße, Juden, Muslime, Buddhisten, Christen, Atheisten, homosexuelle oder bisexuelle Personen, transgender Personen, intersexuelle Personen, Behinderte, junge Menschen, alte Menschen; Einstellung zu einer Liebesbeziehung des eigenen Kindes zu einer Person aus einer der vorgenannten Gruppen; angenommene Einstellung der Menschen zu Roma als Klassenkameraden ihrer Kinder (Skala); Einstellung zu den folgenden Aussagen: gleiche Rechte für Homo- und Bisexuelle wie für Heterosexuelle, an einer sexuellen Beziehung zwischen Personen desselben Geschlechts ist nichts falsches, Erlauben gleichgeschlechtlicher Ehen in ganz Europa; Gesellschaft könnte von einer besseren Integration der Roma profitieren; Einstellung zur Aufnahme der folgenden Themen in die schulische Ausbildung: Religion, ethnische Herkunft oder Hautfarbe, sexuelle Orientierung, Transgender, Intersex, Behinderung, Rom-Kultur und -Geschichte; Unbehagen gegenüber öffentlichen Zuneigungsbekundungen der folgenden Arten von Paaren: heterosexuell, schwul, lesbisch; Einstellung zur Möglichkeit für transgender oder transsexuelle Personen zur Änderung ihrer Personenstands- bzw. Identitätsdokumente zur Anpassung an die innere Geschlechtsidentität; Einstellung zu einer dritten Option in offiziellen Dokumenten.
+Demographie: Alter; Nationalität; Lebenszufriedenheit; Häufigkeit von Diskussionen über nationale, europäische und lokale politische Angelegenheiten; Links-Rechts-Selbsteinstufung; Familienstand; Geschlecht; Alter bei Beendigung der Ausbildung; Beruf; berufliche Stellung; Urbanisierungsgrad; Haushaltszusammensetzung und Haushaltsgröße; own a mobile phone and fixed (landline) phone; finanzielle Schwierigkeiten im letzten Jahr; Internetnutzung (zu Hause, am Arbeitsplatz, in der Schule etc.); Selbsteinstufung zur Arbeiterklasse, Mittelklasse oder der höheren Klasse der Gesellschaft; eigene Stimme zählt im eigenen Land und in der EU (politischer Einfluss); Meinungsführerschaft.
+Zusätzlich verkodet wurde: Befragten-ID; Land; Interviewdatum; Interviewdauer (Interviewbeginn und Interviewende); anwesende Personen während des Interviews; Kooperationsbereitschaft des Befragten; Ortsgröße; Region; Interviewsprache; Nationengruppe; Gewichtungsfaktor.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Since the early 1970s the European Commission´s Standard &amp; Special Eurobarometer are regularly monitoring the public opinion in the European Union member countries. Principal investigators are the Directorate-General Communication and on occasion other departments of the European Commission or the European Parliament. Over time, candidate and accession countries were included in the Standard Eurobarometer Series. Selected questions or modules may not have been surveyed in each sample. Please consult the basic questionnaire for more information on country filter instructions or other questionnaire routing filters. In this study the following modules are included: 1. Europeans’ attitudes on trade and EU trade policy, 2. Europeans’ attitudes on EU energy policy, 3. Discrimination in the European Union.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Topics: 1. Europeans’ attitudes on trade and EU trade policy: self-assessment of whether one benefits from global trade; reasons for this attitude; main priorities of European Union’s trade policy; preferred statements on globalisation: lifts people in developing countries out of poverty, brings new opportunities for national businesses, has always been happening, threatens jobs and way of living, changes world too quickly, results in a wider choice of goods and lower prices, creates jobs in the own country, too difficult for governments to control, has advantages and disadvantages; most important impact on jobs in the own country in the coming years: growing automation, tougher competition caused by international free trade, higher tariffs due to protectionist policies, immigration, ageing population, climate change; effectiveness of defending the trade interests of the member states on EU level or on national level; attitude towards the application of higher import duties on goods and services from non-European countries and businesses; EU trade policy takes into account social, environmental and human rights impact both in the EU as well as with regard to trade partners; attitude towards selected statements on the cheaper sale of products made in countries with weaker workers’ rights and environmental standards: depends on consumers’ decision, European businesses with factories in developing countries should treat their workers fairly and respect the environment, EU should encourage other countries to improve their workers’ rights and environmental standards, EU should take measures against businesses from outside the EU that benefit from weaker workers’ rights and environmental standards; preferred statement on international trade rules: not necessary, necessary but not every country will follow them, necessary to create equal conditions; preferred statement on EU trade agreements: help create jobs and reduce prices for consumer and businesses, strengthen EU’s position in the world, make no difference, benefit businesses more than consumers or workers, limit national government in creating laws that contradict these agreements; online purchase of goods and services in the last twelve months from sellers located outside the EU; online purchase of goods and services from the following countries: United States, China, Japan, other countries; attitude towards the following statements on company investments in other countries: investments of businesses from outside the EU in own country, buying of businesses in the own country by businesses from outside the EU, national businesses investing in countries outside the EU, national businesses buying businesses in countries outside the EU; trust in the EU with regard to conducting its trade policy in an open and transparent manner; preferred sources of information on globalisation and international trade.
+2. Europeans’ attitudes on EU energy policy: most important issues in the EU energy policy; attitude towards the following statements: EU must secure access to energy to all EU citizens, EU must ensure access to clean energy, EU must ensure access to affordable energy, strengthening of cooperation between EU member states in order to give all Europeans access to secure and affordable energy; attitude towards selected statements on how to ensure access to secure energy: reinforce cooperation between EU member states in the event of energy crises, diversify external energy suppliers, speak with one voice when negotiating with external energy suppliers, have a well-connected energy network across the EU, more cooperation on cybersecurity in the field of energy between EU member states, ensure safe and secure nuclear energy, monitor foreign investments in strategic energy infrastructure in the EU; attitude towards the following issues being responsibilities of the EU: support measures to increase energy performance of buildings, encourage investment in renewable energy, encourage investment in energy research and innovation, empower cities and local communities to move towards clean energy, support non-EU countries in moving towards cleaner energy systems; attitude towards the following issues being responsibilities of the EU: ensure that increased competition in EU energy markets leads to more affordable consumer prices, address energy poverty in all regions, facilitate consumers’ choice of energy sources and suppliers, empower consumers to produce and consume their own energy; awareness of the EU energy label; awareness of the responsibility of the label; impact of the EU energy label on purchase of electric appliances; most important energy issues to be prioritized by the EU over the next 10 years.
+3. Discrimination in the European Union: friendship or acquaintance with: people of different ethnic origin, people of different skin colour, Roma, homo- or bisexuals, disabled persons, persons with different religious affiliation, transgender persons, intersex persons; own belonging to a minority; personal religious affiliation; assessment of the extent of discrimination in the own country with regard to: ethnic origin, skin colour, being Roma, sexual orientation, being perceived as too old or too young, religion, disability, being transgender, gender, being intersex; own experience of discrimination in the last twelve months according to the above characteristics; situation of most recent discrimination: when looking for a job, at work, when looking for a house or apartment to rent or buy, by healthcare personnel, by social service personnel, by school or university personnel, at cafés etc., in a shop or bank, in a public space, other; adversely affecting characteristics of an applicant in a concurrent application situation: name, address, way of speaking, ethnic origin, skin colour, being Roma, gender, sexual orientation, being intersex, age, disability, religious belief, look, physical appearance; frequency of the following activities in the last twelve months: shared content on online social networks about incidents of discriminatory treatment, publicly defended someone who was victim of discrimination, joined an association or campaign that defends people against discrimination, publicly raised the issue of discrimination at the workplace; acceptance of a person in the highest political position with the following characteristics (scale): woman, homo- or bisexual, different ethnic origin than the majority of the population, different skin colour than the majority of the population, Roma, perceived as young, perceived as old, disabled, different religious belief, transgender, intersex; sufficient efforts of the own country to fight discrimination (scale); perceived effectiveness of measures for the integration of the Roma population (scale); sufficient efforts at own workplace to promote diversity with regard to the following criteria: ethnic origin, skin colour, Roma origin, gender, sexual orientation, older aged people, younger aged people, religion, disability, transgender, intersex; authority to whom a self-experienced discrimination would be reported firstly: trade unions, NGOs or associations, courts, national equal opportunities organisation or ombudsman, lawyer, police, friend or family member, dispute resolution system, other; willingness to provide the following personal information on an anonymous basis as part of a census or statistical survey in order to fight discrimination: ethnic origin, skin colour, disability, religion, health, sexual orientation; attitude towards having a colleague belonging to one of the following groups of persons: Roma, black, Asian, white, Jewish, Muslim, Buddhist, Christian, atheist, homo- or bisexual, transgender, intersex, disabled, young person, old person; attitude towards the own child having a love relationship with a person belonging to one of the aforementioned groups; assumed attitude of the citizens about their children having Roma schoolmates (scale); attitude towards the following statements: same rights for homo- or bisexual people as for heterosexual ones, there is nothing wrong in sexual relationships between persons of the same sex, same sex marriages should be allowed throughout Europe; society could benefit from a better integration of the Roma; attitude towards the inclusion of the following topics in school education: religion, ethnic origin or skin colour, sexual orientation, transgender, intersex, disabililty, Roma culture and history; discomfort with regard to affection shown in public by the following kinds of couples: heterosexual, gay, lesbian; attitude towards the possibility for transgender persons to change their civil documents in order to match their inner gender identity; attitude towards a third option in official documents.
+Demography: age; nationality; life satisfaction; frequency of discussions about political matters on national, European, and local level; left-right self-placement; marital status; sex; age at end of education; occupation; professional position; type of community; household composition and household size; own a mobile phone and fixed (landline) phone; financial difficulties during the last year; internet use (at home, at work, at school); self-reported belonging to the working class, the middle class or the upper class of society; own voice counts in the own country and in the EU; opinion leadership.
+Additionally coded was: respondent ID; country; date of interview; time of the beginning of the interview; duration of the interview; number of persons present during the interview; respondent cooperation; size of locality; region; language of the interview; nation group; weighting factor.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>BG</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CY</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CZ</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>EE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-UKM</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LV</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>MT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>RO</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SK</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Bevölkerung der jeweiligen Nationalitäten und EU-Bürger der 28 Mitgliedsstaaten der EU, wohnhaft in den jeweiligen Mitgliedsstaaten, im Alter von 15 Jahren und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Population of the respective nationalities of the European Union Member States and other EU nationals, resident in any of the 28 Member States and aged 15 years and over. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Geschichtete Zufallsauswahl; Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Mehrstufige geschichtete Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Stratified; Sampling Procedure Comment: Probability Sample: Multistage Sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>total</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>gesamt</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Belgium</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Belgien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-21</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Bulgaria</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Bulgarien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-10</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Czech Republic</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Tschechische Republik</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Denmark</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Dänemark</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Estonia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Estland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Greece</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Griechenland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Spain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Spanien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Croatia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Kroatien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Cyprus</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Zypern</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Latvia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Lettland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Lithuania</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Litauen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-10</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-21</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Luxembourg</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Luxemburg</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-10</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Hungary</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Ungarn</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-10</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Malta</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Malta</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Netherlands</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Austria</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Österreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Poland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Polen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-10</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Romania</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Rumänien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovakia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowakei</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Finland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Finnland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-22</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Sweden</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweden</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2019-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2019-05-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>United Kingdom</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Vereinigtes Königreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Brussels; Directorate General Communication, COMM.A.3 ‘Media Monitoring and Eurobarometer’  
+</firstName>
+				<middleName/>
+				<lastName>European Commission</lastName>
+				<contributorType>Researcher</contributorType>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar Belgium (Kantar TNS), Brussels, Belgium</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar TNS BBSS, Sofia, Bulgaria</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar CZ, Prague, Czech Republic</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar GALLUP, Copenhagen, Denmark</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar Deutschland, Munich, Germany</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar Emor, Tallinn, Estonia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Behaviour &amp; Attitudes, Dublin, Ireland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Taylor Nelson Sofres Market Research, Athens, Greece</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Investigación de Mercados y Opinión, Madrid, Spain</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar Public France, Montrouge, France</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar Italia, Milan, Italy</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>CYMAR Market Research, Nicosia, Cyprus</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar TNS Latvia, Riga, Latvia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS LT, Vilnius, Lithuania</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ILReS, Luxembourg, Luxembourg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar Hoffmann, Budapest, Hungary</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MISCO International, Valletta, Malta</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS NIPO, Amsterdam, Netherlands</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Info Research Austria Institut für Markt-und Meinungsforschung, Vienna, Austria</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar Polska, Warsaw, Poland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Marktest – Marketing, Organização e Formação, Lisbon, Portugal</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Centrul Pentru Studierea Opiniei si Pietei (CSOP), Bucharest, Romania</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Institute for market and media research, Mediana DOO, Ljubljana, Slovenia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar Slovakia, Bratislava, Slovakia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar TNS Oy, Espoo, Finland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar Sifo, Stockholm and Gothenburg, Sweden</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>The Kantar Group UK, London, United Kingdom</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>HENDAL, Zagreb, Croatia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar Public, Brussels (international co-ordination)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Persönliches Interview
+Persönliches Interview: CAPI (Computerunterstützte persönliche Befragung)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Face-to-face interview
+Face-to-face interview: CAPI (Computer Assisted Personal Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>27438</numberUnits>
+			<numberVariables>609</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Das Fragebogenmodul QA ‘Europeans’ attitudes on Trade and EU trade policy’ basiert großenteils auf Fragen aus Eurobarometer 74.1 (ZA5237).
+
+Das Fragebogenmodul QB ‘Europeans’ attitudes on EU energy policy’ wurde neu eingeführt.
+
+Das Fragebogenmodul QC ‘Discrimination in the European Union’ basiert großenteils auf Fragen aus Eurobarometer 83.4 (ZA6595) und Eurobarometer 77.4 (ZA5613).
+
+Daten für die Protokoll-Variablen p8 (postal code), p9 (sample point number) und p10 (interviewer number) wurden nicht geliefert.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Question module QA ‘Europeans’ attitudes on Trade and EU trade policy’ partly replicates questions formerly asked in the framework of Eurobarometer 74.1 (ZA5237).
+
+Question module QB ‘Europeans’ attitudes on EU energy policy’ was newly introduced.
+
+Question module QC ‘Discrimination in the European Union’ partly replicates questions formerly asked in the framework of Eurobarometer 83.4 (ZA6595) and Eurobarometer 77.4 (ZA5613).
+
+No data are available for protocol items p8 (postal code), p9 (sample point number), p10 (interviewer number) and p11.
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Commission:
+Special Eurobarometer 491. Europeans´ attitudes on Trade and EU trade policy.
+Conducted by Kantar Public at the request of Directorate-General for Trade. Survey co-ordinated by the Directorate-General for Communication (DG COMM ‘Media monitoring and Eurobarometer’ Unit). Brussels, November 2019. http://dx.doi.org/10.2781/13826</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Commission:
+Special Eurobarometer 492. Europeans´ attitudes on EU energy policy.
+Conducted by Kantar Public at the request of Directorate-General for Energy. Survey co-ordinated by the Directorate-General for Communication (DG COMM ‘Media monitoring and Eurobarometer’ Unit). Brussels, September 2019. http://dx.doi.org/10.2833/500568</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Commission:
+Special Eurobarometer 493. Discrimination in the European Union.
+Conducted by Kantar Public at the request of Directorate-General for Justice and Consumers. Survey co-ordinated by the Directorate-General for Communication (DG COMM ‘Media monitoring and Eurobarometer’ Unit). Brussels, October 2019. http://dx.doi.org/10.2838/5155</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

@@ -1,0 +1,260 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Social and Cultural Determinants of the Conduct of Foreign Workers
+in the Federal Republic of Germany
+(Primary Investigation: Germans)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Soziale und kulturelle Bestimmungsgründe des Verhaltens
+ausländischer Arbeitnehmer in der Bundesrepublik Deutschland
+(Hauptuntersuchung: Deutsche)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1043</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Soziale und kulturelle Bestimmungsgründe des Verhaltens
+ausländischer Arbeitnehmer in der Bundesrepublik Deutschland
+(Hauptuntersuchung: Deutsche)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Social and Cultural Determinants of the Conduct of Foreign Workers
+in the Federal Republic of Germany
+(Primary Investigation: Germans)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Hartmut</firstName>
+				<middleName/>
+				<lastName>Esser</lastName>
+				<affiliation>
+					<affiliationName>Institut für Arbeitssoziologie und Arbeitspolitik,
+Ruhr-Universität Bochum
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1043?doi=10.4232/1.1043</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1043</doiProposal>
+	<publicationDate>
+		<year>1977</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1043</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>1</identifier>
+			<type>VerbundFDB</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Social conditions and indicators</term>
+					<term>Social behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Beschreibung der eigenen Arbeits- und Lebensbedingungen.Wahrnehmung der eigenen Landsleute und Fremdbild von Gastarbeitern inder BRD. Einstellung zur Integration von Ausländern.
+Themen: Detaillierte Beschreibung der Wohnsituation; ausländischeMitbewohner im Haus; Zufriedenheit mit der Wohnsituation;Wichtigkeit der Lebensbereiche; Charakterisierung der tatsächlichenLebenssituation; allgemeine Lebenszufriedenheit; Selbstbild derDeutschen und Fremdbild von ausländischen Arbeitnehmern; Dauerder Betriebszugehörigkeit; Kontakte zu Kollegenunterschiedlicher Nationalitäten; Anzahl der Arbeitskollegengleicher Nationalität am Arbeitsplatz; Charakterisierung derArbeitsbedingungen und der beruflichen Aufstiegsmöglichkeiten;Selbsteinschätzung der beruflichen Mobilität in den letzten 5Jahren; wichtigste Aspekte eines idealen Berufs und allgemeineArbeitszufriedenheit (Skalen); wöchentliche Arbeitszeit; sozialeDistanz zu ausländischen Arbeitnehmern (Skala in Anlehnung anBogardus); Einstellung zu Arbeitnehmern ausländischer bzw.anderer Nationalität (Skala); Beurteilung vonBehördenkontakten; Sozialkontakte in der Nachbarschaft mit deutschen undausländischen Mitbewohnern; Wunsch nach mehr Kontakten zuausländischen Arbeitnehmern; eigene Meinungsführerschaft;Vorstellungen von der zukünftigen Entwicklung der BRD.
+Demographie: Alter; Geschlecht; Familienstand; Kinderzahl;Schulbildung; Berufsausbildung; Beruf; berufliche Position;Berufstätigkeit; Einkommen; berufliche Position des Vaters; Einkommendes Ehepartners; Haushaltsgröße; Wohnstatus; Ortsansässigkeit;Nationalität des Ehepartners; Berufstätigkeit des Ehepartners; Beruf desEhepartners; berufliche Position des Ehepartners.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Description of one´s own working and living conditions. Perception ofone´s own countrymen and third-party image of guest workers in the FRG.Attitude to integration of foreigners.
+Topics: detailed description of housing situation; foreignco-residents in building; satisfaction with housing situation;importance of areas of life; characterization of actual situation inlife; general contentment with life; self-image of the Germans andthird-party image of foreign workers; length of company employment;contacts with colleagues of different nationalities; number ofcolleagues of the same nationality at work; characterization of workingconditions and occupational prospects of advancement; self-assessmentof occupational mobility in the last 5 years; most important aspects ofan ideal occupation and general work satisfaction (scales); weeklyworking hours; social distance to foreign workers (scale adapted fromBOGARDUS); attitude to workers of foreign or other nationality (scale);judgement on contacts with authorities; social contacts in theneighborhood with Germans and foreign co-residents; desire for morecontacts with foreign workers; personal opinion leadership; concepts ofthe future development of the FRG.
+Demography: age; sex; marital status; number of children; schooleducation; vocational training; occupation; occupational position;employment; income; occupational position of father; income of spouse;size of household; residential status; local residency; nationality ofspouse; employment of spouse; occupation of spouse; occupationalposition of spouse. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>selected cities</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>ausgewählte Orte</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutschen Personen über 18 Jahre in 5 ausgewählten Arbeitsamtsbezirken in den
+Städten München, Kempten, Solingen, Bochum und Braunschweig</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German persons older than 18
+years in 5 selected employment office districts in the cities Munich,
+Kempten, Solingen, Bochum and Braunschweig. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Klumpenauswahl </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage stratified cluster sample </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1977-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1977-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Kompakt-Institut, Muenchen
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Schriftliche Befragung
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Written survey
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die vorliegende Untersuchung ist als Vergleichsuntersuchung zu
+der ZA-Studien-Nr. 1044 angelegt. Der Fragebogen beider Studien
+ist weitestgehend identisch.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The current investigation was designed as a comparative investigation to
+ZA Study No. 1044. The questionnaire of both studies is largely identical.
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Esser, Hartmut; Gaugler, Eduard; Neumann, Karl-Heinz: 
+Arbeitsmigration und Integration: Sozialwissenschaftliche Grundlagen. 
+Königstein/Taunus: Hanstein 1979. 
+(Materialien zur Arbeitsmigration und Ausländerbeschäftigung, Band 4).</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Esser, Hartmut: 
+Aspekte der Wanderungssoziologie: Assimilation und Integration von Wanderern, ethnischen Gruppen und Minderheiten. Eine handlungstheoretische Analyse. 
+Darmstadt: Luchterhand 1980. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kremer, Manfred; Spangenberg, Helga: 
+Assimilation ausländischer Arbeitnehmer in der Bundesrepublik Deutschland: Forschungsbericht. 
+Königstein/Taunus: Hanstein 1980. 
+(Materialien zur Arbeitsmigration und Ausländerbeschäftigung, Band 5).</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

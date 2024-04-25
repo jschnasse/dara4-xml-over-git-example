@@ -1,0 +1,180 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Foreigners in Germany 2004'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Ausländer in Deutschland 2004'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4459</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Ausländer in Deutschland 2004</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Foreigners in Germany 2004</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>MARPLAN, Offenbach</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4459?doi=10.4232/1.4459</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4459</doiProposal>
+	<publicationDate>
+		<year>2006</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4459</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Konsum und Konsumverhalten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Consumption and consumer behaviour</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Sozioökonomische Situation von Ausländern. Einkaufsverhalten.Schwierigkeiten in Deutschland. Verhältnis zwischen Ausländern undDeutschen.
+Themen: Nationalität; in Deutschland geboren; Zuzugsjahr nachDeutschland; geschätzte weitere Aufenthaltsdauer in Deutschland;Besuche im Heimatland allgemein und im Jahr 2003; größte derzeitigeSorgen und Schwierigkeiten in Deutschland; Interesse an deutscherStaatsbürgerschaft; Bewertung der Einstellung von Deutschen gegenüberAusländern; Arbeitsplatzzufriedenheit; Parteipräferenz(Sonntagsfrage); durchschnittliche monatliche Haushaltsausgaben;Einkaufsstätte für Lebensmittel und andere Artikel des täglichenBedarfs; Einkaufsstätte für langlebige Gebrauchsgüter; Befragter isthaushaltsführende Person; Familienangehörige außerhalb des eigenenHaushalts; Familienangehörige im Heimatland. 
+Demographie: Alter; Familienstand; Haushaltsgröße; Zahl derErwerbstätigen im Haushalt; Personenzahl unter 18 Jahren im Haushaltund Alter dieser Personen; Erwerbstätigkeit; Branche; Berufskreis;monatliches Nettoeinkommen; Wohnstatus (Gemeinschaftsunterkunft,Wohnheim, zur Miete bzw. Untermiete, im eigenen Haus oder in dereigenen Wohnung); Jahre der Schulbildung; Erwerb des Schulabschlussesim Heimatland oder in Deutschland; höchster Schulabschluss;Selbsteinschätzung der Lesefähigkeit in Deutsch; Dauer einerabgeschlossenen Berufsausbildung; Haushaltsnettoeinkommen; Geschlecht.
+Zusätzlich verkodet wurde: Bundesland; Kreiskennziffer;Ortsgröße.
+Interviewerrating: Anwesenheit Dritter beim Interview; Verständigung;Kooperationsbereitschaft; Kenntnisstand der eigenen und der deutschenSprache. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Ausländische Bevölkerung ab 15 Jahren der Nationalitäten griechisch,
+italienisch, jugoslawisch, spanisch und türkisch aus den Daten des
+Ausländerzentralregisters vom Dezember 2003</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Disproportionale Zufallsauswahl aus den Daten des
+Ausländerzentralregisters vom Dezember 2003, die Aufschluss über die
+regionale Verteilung und die Nationalität auf Ebene der Kreise gab.
+Auswahl der zu befragenden Personen innerhalb der Samplepoints nach der
+Quotenmethode.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2004-10-27</date>
+				</startDate>
+				<endDate>
+					<date>2004-11-24</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>98</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Pro Nationalität wurden ca. 400 Interviews durchgeführt.
+
+Während des Interviews lag dem Befragten ein Fragebogen in seiner
+Landessprache vor, der Interviewer nahm Eintragungen in einem
+deckungsgleichen deutschen Fragebogen vor. Die Befragung ist Teil
+einer regelmäßigen Befragung seit 1970.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

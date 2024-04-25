@@ -1,0 +1,206 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Foreigners in Germany 2002 - 1st Wave'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Ausländer in Deutschland 2002 - 1. Welle
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4061</identifier>
+		<currentVersion>2.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Ausländer in Deutschland 2002 - 1. Welle
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Foreigners in Germany 2002 - 1st Wave</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>MARPLAN, Offenbach</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4061?doi=10.4232/1.11088</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11088</doiProposal>
+	<publicationDate>
+		<date>2012-01-11</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4061</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Konsum und Konsumverhalten</term>
+					<term>Wohnraum</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Social conditions and indicators</term>
+					<term>Consumption and consumer behaviour</term>
+					<term>Housing</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Zufriedenheit und Lebenssituation der Ausländer in Deutschland.
+Themen: Nationalität des Befragten; in Deutschland geboren; seit wannin Deutschland; geschätzte Dauer des weiteren Aufenthalts in der BRD;Heimatbesuche seit Einreise nach Deutschland sowie im letzten Jahr;größte Schwierigkeiten in Deutschland; Interesse an deutscherStaatsangehörigkeit und Vorhaben, diese im nächsten halben Jahr zubeantragen; Einstellung deutscher Kollegen gegenüber Gastarbeitern;Arbeitsplatzzufriedenheit; Parteisympathie und Parteipräferenz(Sonntagsfrage).
+Demographie: monatliche Haushaltskosten; meist genutzte Kauforte fürLebensmittel und langlebige Wirtschaftsgüter; Zuständigkeit desBefragten für die Haushaltsführung; Familienstand; Haushaltsgröße;Anzahl der erwerbstätigen Personen im Haushalt; Personen im Haushaltunter 18 Jahre mit detaillierten Altersangaben; weitereFamilienangehörige in Deutschland und im Heimatland; Erwerbstätigkeit;Branche; Berufsgruppe; monatliches Nettoeinkommen; Alter; Wohnstatus;Mieterhöhung oder Nebenkostenerhöhung im letzten Jahr; Zufriedenheit mitder Wohnung; Höhe der Monatsmiete und der Nebenkosten; Jahre derSchulbildung; Schulabschluss in Deutschland oder im Heimatland; höchsterSchulabschluss; Selbsteinschätzung der deutschen Sprachkenntnisse(Lesefähigkeit); abgeschlossene Berufsausbildung und Dauer derAusbildung; Kraftfahrzeugbesitz des Befragten und detaillierte Angabenzur Marke, zum Erwerb (neu oder gebraucht) und zurückgelegte Kilometerim Jahr; Haushaltsnettoeinkommen.
+Interviewerrating: Anwesenheit Dritter und Beeinflussung durch diesePersonen; sprachliche Verständigung; Kooperationsbereitschaft;Kenntnisse der Muttersprache und der deutschen Sprache; Geschlecht;Bundesland; Kreiskennziffer.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>West incl. West-Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>West einschließlich West-Berlin</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Ausländische Wohnbevölkerung ab 15 Jahren (Türken, Italiener,
+Jugoslawen, Griechen und Spanier)
+
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Auswahl der Sample-Points nach Angaben des Ausländerzentralregisters
+über die regionale Verteilung der jeweiligen Nationalitäten.
+Quotenauswahl der Befragten nach Geschlecht, Alter, Erwerbsstatus und
+Haushaltsgröße. </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-02-14</date>
+				</startDate>
+				<endDate>
+					<date>2002-03-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>109</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Der Datensatz ist Teil einer Mehrthemenerhebung und Teil einer
+Befragungsserie des Marplan-Instituts seit 1970. Dem Befragten lag beim
+Interview ein Fragebogen in seiner Landessprache vor. Der Interviewer
+nahm die Eintragungen in einem deckungsgleichen deutschen Fragebogen
+vor.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.4061</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+</resource>

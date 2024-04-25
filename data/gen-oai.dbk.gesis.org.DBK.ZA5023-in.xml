@@ -1,0 +1,388 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Lines of Conflict of the Egyptian Society 1986-1988: 
+Remigration, Segregation, Islam (Wives of Returned Migrant Workers) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Konfliktlinien der ägyptischen Gesellschaft 1986-1988: Remigration, Segregation, Islamismus (Frauen von zurückgekehrten Arbeitsmigranten)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5023</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Konfliktlinien der ägyptischen Gesellschaft 1986-1988: Remigration, Segregation, Islamismus (Frauen von zurückgekehrten Arbeitsmigranten)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Lines of Conflict of the Egyptian Society 1986-1988: 
+Remigration, Segregation, Islam (Wives of Returned Migrant Workers) 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Georg</firstName>
+				<middleName/>
+				<lastName>Stauth</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Christoph</firstName>
+				<middleName/>
+				<lastName>Reichert</lastName>
+				<affiliation>
+					<affiliationName>Social Research Centre, American University in Cairo, Egypt
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Petra</firstName>
+				<middleName/>
+				<lastName>Weyland</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Renate</firstName>
+				<middleName/>
+				<lastName>Albrecht</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Laila</firstName>
+				<middleName/>
+				<lastName>El-Hamamsy</lastName>
+				<affiliation>
+					<affiliationName>Social Research Centre, American University in Cairo, Egypt</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Sohair</firstName>
+				<middleName/>
+				<lastName>Mehanna</lastName>
+				<affiliation>
+					<affiliationName>Social Research Centre, American University in Cairo, Egypt</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>A.</firstName>
+				<middleName/>
+				<lastName>Nada</lastName>
+				<affiliation>
+					<affiliationName>Social Research Centre, American University in Cairo, Egypt</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>E.</firstName>
+				<middleName/>
+				<lastName>Kheir</lastName>
+				<affiliation>
+					<affiliationName>Social Research Centre, American University in Cairo, Egypt</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5023?doi=10.4232/1.5023</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.5023</doiProposal>
+	<publicationDate>
+		<year>1990</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5023</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Familie und Ehe</term>
+					<term>Geschlecht und Geschlechterrollen</term>
+					<term>Soziale und berufliche Mobilität</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Family life and marriage</term>
+					<term>Gender and gender roles</term>
+					<term>Social and occupational mobility</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Soziale Rolle der Ehefrauen von zurückgekehrtenArbeitsmigranten.
+Themen: Bildungsstand; Berufstätigkeit und Beruf;Arbeitsplatz; Heirat vor bzw. nach der Migration des Ehemannes;Anzahl der Ehejahre; Einflußnahme auf die Entscheidung desEhemannes zu migrieren; Beteiligung an Entscheidungen über dasHaushaltsbudget, die Ausbildung der Kinder und den Kauf vonHaushaltsgütern vor der Migration des Ehemannes;Verantwortlichkeit für diese Entscheidungen während derAbwesenheit des Ehemannes; Beschäftigung, Beruf undArbeitsplatz vor der Migration des Ehemannes; Beschäftigungwährend der Migration des Ehemannes; Aufgaben undVerpflichtungen sowie Probleme während der Abwesenheit desEhemannes; Freizeitaktivitäten während der Migration desEhemannes; wahrgenommene Veränderung des Ehemannes während derMigration; Auswirkungen der Migration auf das Dorf, dieFamilie, die Kinder und die soziale Rolle der Frau.
+Zusätzlich verkodet wurde der Ort, in dem das Interviewdurchgeführt wurde, der Interviewer sowie die Identifikationdes bereits interviewten Migranten (ZA-Nr.: 5013).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The social role of wives of returned migrant workers. 
+Topics: education level; employment and occupation; place of work;marriage before or after husband´s migration; number of years married;influence on husband´s decision to migrate; participation in decisionson household budget, the childrens´ education and the purchase ofhousehold goods before husband´s migration; responsibility for thesedecisions during husband´s absence; employment, occupation and place ofwork before husband´s migration; employment during husband´s absence;tasks and duties as well as problems during husband´s absence; leisureactivities during husband´s migration; perceived change of the husbandduring migration; effects of migration on the village, the family, thechildren and the wife´s social role. 
+Additionally encoded were: place where the interview was conducted,interviewer as well as identification of the migrant, who had alreadybeen interviewed (ZA Study No. 5013). </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>EG</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>selected villages in Egypt</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>ausgewählte Dörfer in Ägypten</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Ehefrauen von bereits interviewten Arbeitsmigranten (ZA-Nr.: 5013) in
+den Orten Shanawan und Kafr Shanawan (Provinz Minufiya, Delta). </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Wives of migrant workers already interviewed (ZA Study No. 5013) in the cities Shanwan and Kafr Shanwan (province Minufiya, Delta). 
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Totalerhebung </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Census </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1987-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1987-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Social Research Center, American University in Cairo, Egypt 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral interview with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>85</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Von den 206 befragten Ehefrauen waren nur 136 bereits vor der
+Migration des Mannes verheiratet. Die verbleibenden 70 wurden
+durch eine Filterfrage ausgeschlossen, da sie über die Wirkung
+der Migration des Mannes nicht aus der Situation der Ehefrau
+Auskunft geben konnten.
+Die Befragung erfolgte in arabischer Sprache und wurde von
+ägyptischen Interviewern aus den jeweiligen Dörfern
+vorgenommen.
+Im Rahmen des gleichen Forschungsprojekts wurde auch
+umfangreiches qualitatives Material (teilnehmende Beobachtung
+und Gesprächsmitschriften) erhoben.
+Weitere quantitative Datensätze des Forschungsprojekts sind im
+Zentralarchiv unter den ZA-Studien-Nrn. 5011, 5012 und 5013
+archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Of the 206 wives interviewed only 136 were already married before the 
+husband's migration. The remaining 70 were excluded through a filter 
+question because they could not provide information on the effect of 
+the husband's migration from the situation of the wife. The interview 
+was conducted in Arabic by Egyptian interviewers from the villages. 
+Extensive qualitative materials (participating observations and 
+interview notes) were collected in the framework of the same research 
+project. Further quantitative data sets from the research project are 
+archived in the Central Archive under ZA Study Nos. 5011, 5012 and 5013. 
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stauth, Georg: 
+Remigration and Social Change. 
+Sociology of Development Research Centre, 
+Bielefeld University, Working Paper 84, 1986. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stauth, Georg: 
+Konfliktlinien der ägyptischen Gesellschaft 1986-1988: 
+Remigration, Segration, Islamismus - Eine Forschungsperspektive. 
+Working Paper 80a, 1986. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stauth, Georg: 
+Town and Countryside in Egypt. Consequences of Modernization. 
+Research Paper to the Symposium: Moslems, Migrants, Metropolis. 
+Berliner Institut für Vergleichende Sozialforschung, Juni 1989. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Weyland, Petra: 
+Remigration und Geschlechterverhältnis auf dem ägyptischen Dorf. 
+Forschungsperspektiven und -hypothesen. 
+Working Paper 95, 1987. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Albrecht, Renate: 
+Remigration und Islamisierung auf dem ägyptischen Dorf. 
+Working Paper 99, 1987. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Reichert, Christoph: 
+Remigration und die Transformation ländlicher Macht- und Herrschaftsverhältnisse in Ägypten - Forschungshypothesen. 
+Working Paper 94, 1987. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Reichert, Christoph: 
+Labour Migration and Institutional Diversification in two Egyptian Villages. Some Preliminary Results. 
+Paper to the 2nd French-German Workshop on Labour Migration and the Process of Social and Political Change in the Middle East, Berlin 1988. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stauth, Georg: 
+How to Control Women? Socio-Economic Processes and Shifts of Power between Sexes in Rural Egypt. 
+In: Jahrbuch für Politik des Vorderen Orients, Hannover 1988, S.51 ff. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stauth, Georg: 
+Remigration and Social Change in Rural Areas. Prospects for the Migrant Worker Sending Regions of the Middle East. 
+In: Pakistan Development Review. An International Journal for Development Economics, 26, 1987, S. 735-744.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

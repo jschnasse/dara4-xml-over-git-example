@@ -1,0 +1,407 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Living Spaces - Public Opinion Survey of the BBR 1985-2007'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'LebensRäume - Bevölkerungsumfrage des BBR 1985-2007'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4871</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>LebensRäume - Bevölkerungsumfrage des BBR 1985-2007</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Living Spaces - Public Opinion Survey of the BBR 1985-2007</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Ferdinand</firstName>
+				<middleName/>
+				<lastName>Böltken</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Bauwesen und Raumordnung (BBR), Bonn</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Katrin</firstName>
+				<middleName/>
+				<lastName>Meyer</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Bauwesen und Raumordnung (BBR), Bonn</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Wolfgang</firstName>
+				<middleName/>
+				<lastName>Neußer</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Bauwesen und Raumordnung (BBR), Bonn</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Gabriele</firstName>
+				<middleName/>
+				<lastName>Sturm</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Bauwesen und Raumordnung (BBR), Bonn</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Matthias</firstName>
+				<middleName/>
+				<lastName>Waltersbacher</lastName>
+				<affiliation>
+					<affiliationName>Bundesamt für Bauwesen und Raumordnung (BBR), Bonn</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4871?doi=10.4232/1.4871</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4871</doiProposal>
+	<publicationDate>
+		<year>2009</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4871</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Arbeitsbedingungen</term>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Inanspruchnahme sozialer Dienstleistungen</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+					<term>Wohnraum</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Working conditions</term>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Community, urban and rural life</term>
+					<term>Social conditions and indicators</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Specific social services: use and availability</term>
+					<term>Economic conditions and indicators</term>
+					<term>Economic systems and development</term>
+					<term>Housing</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Staatsbürgerschaft</term>
+					<term>Bedrohungswahrnehmungen </term>
+					<term>Intergruppenkontakt</term>
+					<term>Intergruppenbeziehungen/-konflikte</term>
+					<term>Segregation</term>
+					<term>Einbürgerungsmaßnahmen</term>
+					<term>Integration</term>
+					<term>Kriminalität</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Gastarbeiter*innen</term>
+					<term>Geflüchtete/Vertriebene</term>
+					<term>Christ*innen</term>
+					<term>(Spät-)Aussiedler*innen/Russlanddeutsche</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Citizenship</term>
+					<term>Threat perceptions</term>
+					<term>Intergroup contact</term>
+					<term>Intergroup relations/conflicts</term>
+					<term>Segregation</term>
+					<term>Naturalisation measures</term>
+					<term>Integration</term>
+					<term>Criminality</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Gastarbeiter*innen</term>
+					<term>Geflüchtete/Vertriebene</term>
+					<term>Christ*innen</term>
+					<term>(Spät-)Aussiedler*innen/Russlanddeutsche</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Beschreibung der Wohnsituation und Zufriedenheit mit der Wohnung.Wohnkosten, Wohnumfeld und Infrastruktur. Erwerbstätigkeit undArbeitssituation der Bundesbürger.
+Der Datensatz enthält die Daten einer kontinuierlichen Erhebung seit1985. Dabei wurde nicht in jedem Jahr das gesamte Fragenprogrammappliziert.
+Themen: 1. Mobilität: Wohndauer am Wohnort; Einzugsjahr und Wohndauerin der Wohnung; lokale Bindung; Umzugsabsichten; Umzugspräferenz(Zielgebiet); Umzüge in den letzten 10 Jahren; Motive für den Wegzug;Anzahl der Wegzugsgründe.
+2. Wohnen: Vorherige Wohnung: Entfernung zur jetzigen Wohnung;Wohnlage; Straßentyp; Charakter der Wohngegend; Wohnstatus;Sozialwohnung; Wohnungsgröße; Haushaltsgröße; Auszug aus demElternhaus. 
+Derzeitige Wohnung: Wegzugsgrund aus vorheriger Wohnung; Wohnfläche;Zimmerzahl; Beurteilung der Wohnungsgröße; Wohnfläche pro Kopf;Wohnungsausstattung mit Küche, Bad/Dusche, Warmwasser, Innen-WC,Zentralheizung, Heizung, Isolierglasfenster, Balkon, Keller, Garten,Gäste-WC, Kabel-/Satellitenanschluss, Garage oder Abstellplatz;Beurteilung der Ausstattung: Wichtigkeit von ausgewählten Merkmalen derWohnungsausstattung; Wochenendgrundstück oder Garten.
+3. Zufriedenheit: Wohnungszufriedenheit; Modernisierungspläne oderRenovierungspläne; durchgeführte eigene Modernisierungsmaßnahmen in derWohnung.
+4. Wohngebäude: Gebäudealter; seit 1990 durchgeführte Modernisierungoder Sanierung; Kostenträger der Sanierung; Gebäudezustand; Haustyp,Typ des Einfamilienhauses, Plattenbau, Anzahl der Stockwerke des Hauses;Stockwerk der Wohnung; Anzahl der Wohnungen bzw. Haushalte im Haus;Aufzug bzw. Rampe vorhanden; zu überwindende Treppen(Barrierefreiheit); Wohnstatus.
+5. Wohnkosten: Mieter wurden gefragt: Sozialwohnung;Wohnberechtigungsschein; Mietkosten; Miete inklusive Heizung,Modernisierungsumlage und Nebenkosten; Heizungskosten undWarmwasserkosten; Bezug und Höhe von Wohngeld; Erhöhung der Mietkostenim laufenden Jahr; Beurteilung der Mietkosten am Mietspiegel. 
+Eigentümer wurden gefragt: Bewirtschaftungskosten; Heizungskosten;Warmwasserkosten; Hausverwaltungskosten; Art des Eigentumserwerbs;öffentliche Zuschüsse; Eigenheimzulage; staatliche Förderung; Höhe derBelastung; Instandhaltungskosten im letzten Kalenderjahr; Nebenkosten;Erhalt eines Lastenzuschusses; Grundstücksgröße; Gründe fürWohneigentum.
+6. Wohnumgebung: Zufriedenheit mit dem Wohnort und der Umgebung(Skalometer); Beurteilung des Wohnumfelds; Zufriedenheit mit demStraßenbild (Skalometer); Wohngebietsstruktur.
+7. Infrastruktur und Lebensbedingungen: Wichtigkeit von ausgewähltenöffentlichen Einrichtungen am Wohnort und Zufriedenheit mit diesenEinrichtungen; Erreichbarkeit der wichtigstenInfrastruktureinrichtungen; Beurteilung der Entwicklung von Angebotenöffentlicher Einrichtungen am Wohnort (Skalometer); präferierte Nutzungvon Brachflächen in der Wohnumgebung; Nutzung von entferntenFreizeiteinrichtungen; Einkauf in entfernten Einkaufszentren.
+8. Struktur des Wohnumfeldes: Nutzungsstruktur im Wohngebiet;Gebäudestruktur; Schichtstruktur und soziale Unterschiede in derWohnumgebung; Homogenität von Schicht, Haushalten und Wohndauer; idealeWohnumgebung; baulicher Zustand in der Wohngegend; Entwicklung desbaulichen Zustandes; Beschreibung und Image der Wohngegend; Beitrag zurLebensqualität im Wohnviertel; Wohnungsleerstand; leer stehendeGeschäfte; incivilities und Kriminalitätsfurcht; durchgeführte undgeplante Umgestaltungsmaßnahmen im Wohnumfeld.
+9. Nachbarschaft und Verwandtschaft: Nachbarschaftsverhältnis;Zufriedenheit mit der Nachbarschaft (Skalometer); Veränderung in derZusammensetzung der Nachbarschaft; Kontakte zu Verwandten und Freunden;Verwandte und Freunde im Wohngebiet; Bevölkerungsgruppen und Strukturim Wohngebiet.
+10. Ausländer: Ausländer als Mitbewohner; Ausländeranteil im Umfeldund Vergleich des Anteils zu anderen Wohngebieten; Trennung vonAusländern und Deutschen; Wohndauer der Ausländer im Wohngebiet;zugezogene Aussiedler und Flüchtlinge; Einstiegshilfen für Ausländer;Erfahrungen mit ausländischen Nachbarn; Verhältnis zu Ausländern;Kontakte zu Ausländern und Deutschen.
+11. Wohnumwelt: Zufriedenheit mit dem Straßenbild und der Umwelt(Skalometer); Erwartungen an die Umweltbedingungen; Belastungen imWohngebiet durch: Eisenbahnlärm, Straßenverkehrslärm, Fluglärm,Industrielärm und Abgase.
+12. Wirtschaftliche Lage: Beurteilung der wirtschaftlichen Lage derBRD, der wirtschaftlichen Lage am Wohnort sowie der eigenenwirtschaftlichen Lage und deren Veränderung; erwartete Arbeitslosigkeitim Wohnort; Vorteile für die Region durch den europäischen Binnenmarkt.
+13. Arbeit und Beruf: Neue Techniken: Erfahrungen mit neuen Technikenbei früherer und jetziger Tätigkeit; Einstellungen zu neuer Technik;Auswirkungen neuerer Techniken auf die Arbeitssituation derFamilienmitglieder.
+14. Erwerbstätigkeit des Befragten: Erwerbsstatus; Anzahlerwerbstätiger Personen im Haushalt; berufliche Stellung;Erwerbstätigkeit als Teilzeit oder Vollzeit; Beschäftigung imöffentlichen Dienst; Einschätzung der eigenen Arbeitsplatzsicherheitsowie der Sicherheit der Arbeitsplätze in der Region; Präferenz fürzeitweises Aussetzen von der Erwerbstätigkeit und Gründe dafür;Präferenz für Erwerbstätigkeit; Chancen auf dem Arbeitsmarkt;Betriebsgröße; Zufriedenheit mit: Einkommen, Arbeitsumfeld,Arbeitsdruck, Vorgesetzten, Kollegen, Betriebsklima,Aufstiegsmöglichkeiten und Weiterbildungsmöglichkeiten;Arbeitszufriedenheit; Erwerbstätigkeit des Partners; Beschäftigung desPartners im öffentlichen Dienst; berufliche Stellung des Partners;Erwerbstätigkeit des Haushaltsvorstands und berufliche Stellung;Mobilität: Entfernung und Dauer des Arbeitswegs; Verkehrsmittelnutzungfür den Arbeitsweg derzeit und früher; wochentags auswärts wohnen;Mobilität bei der Arbeitssuche; Möglichkeit einer sofortigen oderspäteren Arbeitsaufnahme; Vereinbarkeit von Beruf und Familie. 
+15. Politikinteresse; Interesse an der Arbeit der Gemeindeverwaltung;gerechter Anteil am Sozialprodukt; Lebenszufriedenheit (Skalometer);Vergleich mit den Lebensbedingungen vor 1990; Selbsteinschätzung derSchichtzugehörigkeit; Wahlberechtigung und Teilnahme an der letztenBundestagswahl; Parteipräferenz (Sonntagsfrage); Mitgliedschaften;Gewerkschaftsmitglied in der Familie; Verbundenheit mit derGewerkschaft; Einstellung zu den Kosten von Kultureinrichtungen.
+Demographie: Geschlecht; Alter: Geburtsmonat und Geburtsjahr;Familienstand; Haushaltstyp (Wohngemeinschaft); Zusammenleben mit einemPartner; deutsche Staatsbürgerschaft; demographische Angaben fürweitere Personen im Haushalt und deren Verwandtschaftsbeziehung;höchster Schulabschluss; derzeit besuchte Schule; abgeschlosseneBerufsausbildung bzw. Studium; angestrebter Schulabschluss; Jahre derSchulausbildung; Alter bei Schulabgang; Jahr des Schulabgangs;Nettoeinkommen des Befragten; Haushaltsnettoeinkommen; Haushaltsgröße;Anzahl der Kinder und Erwachsenen im Haushalt; Erwerbsstatus derHaushaltsmitglieder; erwachsene Ausländer im Haushalt; Veränderungender Haushaltsgröße in den letzten Jahren; Besitz von Telefon,Anrufbeantworter, Modem bzw. Internetanschluss und PC; Anzahl derTelefonanschlüsse bzw. Telefonnummern; Pkw-Anzahl im Haushalt;Führerscheinbesitz; Konfession; Kirchgangshäufigkeit;Kirchenverbundenheit.
+Zusätzlich verkodet wurde: Ost-West Zuordnung; Bundesland;Raumordnungsregion 1985 und 1996; Regionstyp 1985 und 1996; Kreistyp1985 und 1996; Gemeindetyp 1985 und 1996; siedlungsstrukturellerGemeindetyp 2006; politische Gemeindegröße (Boustedt); Wohnlage in derGemeinde; Urbanisierungsgrad; Quartiertyp; Befragungstyp;Gewichtungsfaktoren: Personengewicht, Haushaltsgewicht undWest-Ost-Gewicht; Nacherhebungsfälle. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Federal Republic of Germany including West Berlin, from 1990: Germany</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD einschließlich West-Berlin
+ab 1990: BRD</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutsche bzw. deutsch sprechende (2007) Personen ab 18 Jahren in
+Privathaushalten</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl. Die Auswahl der Zielhaushalte
+erfolgte nach dem Random-Route-Verfahren, die Auswahl der Zielperson
+nach Geburtstagsschlüssel.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>1985</year>
+				</startDate>
+				<endDate>
+					<year>2007</year>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>1985 und 1986: GETAS, Bremen</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>1987 bis 1997: GFM GETAS, Hamburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>1998 und 1999: INFAS, Bonn</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>2000 bis 2007: TNS Infratest, München.</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>1985 bis 1997: mündliche Befragung mit standardisiertem Fragebogen
+1998: schriftliche Befragung mit standardisiertem Fragebogen; 
+1999: Telefonische Befragung (CATI);
+2000 bis 2005: schriftliche Befragung mit standardisiertem Fragebogen
+(CAPI) und Telefonische Befragung (CATI);
+2006: schriftliche Befragung mit standardisiertem Fragebogen (CAPI);
+2007: mündliche Befragung mit standardisiertem Fragebogen.</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>853</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Erhebungszeiträume im Einzelnen:
+1985: 18. März 1985 bis 28. April 1985;
+1988: 14. November 1988 bis 2. Januar 1989
+1989: 3. November 1989 bis 14. Dezember 1989
+1990: 26. Oktober 1990 bis 13. Dezember 1990 (West),
+26. Oktober 1990 bis 23. Dezember 1990 (Ost);
+1991: 6. November 1991 bis 17. Dezember 1991 (Ost);
+25. Oktober 1991 bis 4. Dezember 1991 (West);
+1992: 12. Oktober 1992 bis 18. Dezember 1992, Nacherhebung 
+9. Januar  1993 bis 22. Februar 1993 (alte Bundesländer;
+Oktober 1992 bis Dezember 1992, 
+Nacherhebung: Januar 1993 bis Februar 1993 (neue Bundesländer);
+1994: 17. Oktober 1994 bis 30. November 1994;
+1995: 12. November 1996 bis 15. Dezember 1996; 
+Nacherhebung: 16. Dezember 1996 bis 9. Januar 1997;
+2003: 30. Oktober 2003 bis 3. Dezember 2003;
+2004: 14. Oktober 2004 bis 18. November 2004;
+2005: 14. Oktober 2005 bis 14. November 2005;
+2006: 6. Oktober 2005 bis 20. November 2005;
+2007: 2. Oktober 2007 bis 30. November 2007.
+
+Die Erhebungen von 1985 bis 1997 erfolgten als Teil des
+Sozialwissenschaften-Busses.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Bundesamt für Bauwesen und Raumordnung (Hrsg.):
+LebensRäume: Wohn- und Lebensbedingungen aus Sicht
+der Bewohnerinnen und Bewohner.
+Bonn: Bundesamt für Bauwesen und Raumordnung 2006</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Geiss, Sabine; Wich, Philipp:
+Wohnen und Wohnumgebung: Methodenbericht zur 
+BBR-Umfrage 2006
+München: TNS Infratest Sozialforschung 2006</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Geiss, Sabine; Müller, Christine:
+Wohnen und Wohnumgebung: Methodenbericht zur
+BBR-Umfrage 2007
+München: TNS Infratest Sozialforschung 2007</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

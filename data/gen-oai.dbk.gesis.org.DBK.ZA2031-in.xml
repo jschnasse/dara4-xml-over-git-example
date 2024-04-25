@@ -1,0 +1,665 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Eurobarometer 35.0 (Mar 1991)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Eurobarometer 35.0 (Mar 1991)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA2031</identifier>
+		<currentVersion>1.1.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Eurobarometer 35.0 (Mar 1991)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Eurobarometer 35.0 (Mar 1991)
+</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Foreign Relations, the Common Agricultural Policy, and Environmental Concerns</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Foreign Relations, the Common Agricultural Policy, and Environmental Concerns</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Standard Eurobarometer 35</titleName>
+			<titleType>AlternativeTitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Standard Eurobarometer 35</titleName>
+			<titleType>AlternativeTitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Kommission der Europäischen Gemeinschaften</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2031?doi=10.4232/1.10895</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.10895</doiProposal>
+	<publicationDate>
+		<date>2012-07-01</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2031</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>doi:10.3886/ICPSR09697.v2</identifier>
+			<type>DOI</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Energiequellen und natürliche Rohstoffquellen</term>
+					<term>Umweltschutz und Naturschutz</term>
+					<term>Landwirtschaft und Agrarindustrie</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>International politics and organisations</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Energy and natural resources</term>
+					<term>Environment and conservation</term>
+					<term>Agriculture and rural industry</term>
+					<term>Economic systems and development</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>1.) Europäische Integration
+2.) Energiefragen, Umweltschutz und Radioaktivität
+Themen: 1.) Europäische Integration: Allgemeine Lebenszufriedenheit;Demokratiezufriedenheit; Meinungsführerschaft; Häufigkeit politischerDiskussionen; Postmaterialismus; Vertrauen in die Amerikaner und Russen;Kompetenz der Sowjetunion und der Vereinigten Staaten zur Lösungweltpolitischer Probleme; Notwendigkeit der Nato; Einstellung zurStationierung US-amerikanischer Truppen im eigenen Land; Einstellung zumMilitäreinsatz im Golfkrieg; Einstellung zu einer europäischenStaatsbürgerschaft und Fühlen als Europäer; Bedeutung der EG für daseigene Land und Einfluß auf das persönliche Leben; Einstellung zurEinigung Westeuropas und zur Mitgliedschaft des Landes in der EG;Vorteilhaftigkeit der Mitgliedschaft des eigenen Landes in der EG;Bedauern eines Scheiterns der Europäischen Gemeinschaft; Einstellung zueiner beschleunigten Integration, zu einer gemeinsamen Außenpolitik undPräferenz für eine "schnelle Eingreiftruppe" zur Bewältigungweltpolitischer Krisen; erwartete Entwicklung der europäischenIntegration bis zum Jahr 2000; Hoffnungen oder Befürchtungen für die EGsowie für Deutschland durch das vereinigte Deutschland; Einstellung zueiner finanziellen EG-Hilfe für die Sowjetunion; Einstellung zurAufnahme von Flüchtlingen aus dem südlichen Mittelmeerraum, ausosteuropäischen Ländern und zur Aufnahme Asylsuchender; Beurteilung desAusländeranteils aus Nicht-EG-Ländern im eigenen Land und einerEinschränkung der Rechte für diese Personen; allgemeiner Eindruck vonder EG-Kommission und dem Europa-Parlament; Beurteilung der Erfolge dergemeinsamen EG-Agrarpolitik und zu einer geplanten Agrarreform;Präferenz für nationale oder europäische Entscheidungsbefugnis inausgewählten politischen Bereichen; Einstellung zu einer europäischenRegierung; Bedeutung des Europaparlaments und Präferenz für eine Zunahmeder Kompetenzen; Bereiche, in denen eine Erweiterung der Befugnisse desEuropaparlaments befürwortet werden; Einstellung zu einer europäischenZentralbank, einer gemeinsamen Währung, einer gemeinsamen Außenpolitikund Verteidigungspolitik; Einstellung zum europäischen Binnenmarkt 1992;Einstellung zu einer Harmonisierung der Rechte und Pflichten vonArbeitgebern und Arbeitnehmern in den Mitgliedsländern durch denBinnenmarkt.
+2.) Energiefragen, Umweltschutz und Radioaktivität: Erwarteter Effektim Energiesektor, auf die technischen Normen und den Umweltschutz sowieEinstufung der persönlichen Wichtigkeit dieser Veränderungen;Wichtigkeit der Bekämpfung von Arbeitslosigkeit und Armut sowie derSicherung der Energieversorgung, des Umweltschutzes und derUnterstützung unterentwickelter Regionen im Lande; Einstufung derBedeutung des Treibhauseffektes, des sauren Regens und der Zerstörungder Ozonschicht; Kenntnis der wichtigsten Ursachen; Einschätzung derPreisstabilität, der Versorgungssicherheit und der Umweltbelastung dereinzelnen Energieträger; Einstellung zur Atomenergie; Häufigkeit derNachrichtenaufnahme durch Fernsehen, Tageszeitung und Radio; wichtigsteInformationsquellen über die Risiken von Radioaktivität; Zufriedenheitmit der Informiertheit über Radioaktivität und wichtigste Gründe füreine Zufriedenheit bzw. Unzufriedenheit mit solchen Informationen;Vertrauen in Wissenschaftler, Lehrer, Behörden und Umweltgruppenbezüglich der Informationen über Radioaktivität; wichtigsteCharakteristika vertrauenswürdiger Informanden über Radioaktivität;Einschätzung der Gefahren durch die Atomkraftwerke und die Lagerungradioaktiver Abfälle (Skala); Situationen, in denen man erhöhterradioaktiver Strahlung ausgesetzt ist.
+Demographie: Selbsteinstufung auf einem Links-Rechts-Kontinuum;Parteiverbundenheit und Parteipräferenz (Sonntagsfrage); Wahlverhaltenbei der letzten Wahl; Parteizugehörigkeit undGewerkschaftsmitgliedschaft; Familienstand; Alter bei Ende derAusbildung; Geschlecht; Alter; Haushaltsgröße; Anzahl der Kinder imHaushalt; monatliches Haushaltseinkommen; berufliche Position;Beschäftigung im öffentlichen Dienst oder in Privatunternehmen(Betriebssektor); Betriebsgröße; Vorgesetztenstatus; Stellung imHaushalt; Beruf des Haushaltungsvorstandes; Selbsteinschätzung derSchichtzugehörigkeit; Wohnstatus; Urbanisierungsgrad; Konfession;Kirchgangshäufigkeit; Religiosität; Ortsgröße; Region.
+Zusätzlich verkodet wurde: Interviewdatum; Interviewbeginn;Interviewdauer; Anwesenheit Dritter beim Interview;Kooperationsbereitschaft des Befragten.
+Indizes: Meinungsführerschaft (kognitive Mobilität); Postmaterialismus;Einstellung zu Europa; Stellung im Beruf; Parteipräferenz aufLandesebene und auf Europaebene; EG-Unterstützung;EG-Binnenmarktunterstützung; Mediennutzung.
+In Luxemburg wurde zusätzlich gefragt: Kenntnis derEG-Präsidentschaft des eigenen Landes und Bedeutung dieserPräsidentschaft für das Land.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>1. European integration;
+2. Energy questions, environmental protection and radioactivity.
+Topics: 1. European integration: general life satisfaction;satisfaction with democracy; opinion leadership; frequency of politicaldiscussions; postmaterialism; trust in the Americans and Russians;ability of the Soviet Union and the United States to solve problems inworld politics; necessity of NATO; attitude to stationing US Americantroops in one´s country; attitude to use of military in the Gulf War;attitude to a European citizenship and feeling as European;significance of the EC for one´s own country and influence on personallife; attitude to unification of Western Europe and membership of thecountry in the EC; advantageousness of the membership of one´s owncountry in the EC; regret of a failure of the European Community;attitude to a speeded up integration, a common foreign policy andpreference for a ´rapid intervention force´ to cope with crises inworld politics; expected development of European integration until theyear 2000; hopes or fears for the EC as well as for Germany from unitedGermany; attitude to EC financial aid for the Soviet Union; attitude toadmission of refugees from the southern Mediterranean area, fromEastern European countries and to admission of persons seeking asylum;judgement on the proportion of foreigners from non-EC countries inone´s country and a restriction of rights of these persons; generalimpression of the EC Commission and the European Parliament; judgementon the success of the common EC agricultural policy and a plannedagrcultural reform; preference for national or European decision-makingauthority in selected political areas; attitude to a EuropeanGovernment; significance of the European Parliament and preference foran increase in authorities; areas in which an expansion of the powersof the European Parliament is supported; attitude to a European Centralbank, a common currency, a common foreign policy and defense policy;attitude to the European domestic market 1992; attitude to harmonizingthe rights and duties of employers and employees in the membercountries through the domestic market.
+2. Energy questions, environmental protection and radioactivity:expected effect in the energy sector, on technical norms andenvironmental protection as well as classification of personalimportance of these changes; importance of the fight againstunemployment and poverty as well as the securing of the energy supply,environmental protection and supportof under-developed regions in thecountry; classification of the significance of the greenhouse effect,acid rain and destruction of the ozone layer; knowledge about the mostimportant causes; assessment of price stability, the security of supplyand environmental pollution of the individual energy sources; attitudeto atomic energy; frequency of obtaining news from television, dailynewspaper and radio; most important sources of information about risksof radioactivity; satisfaction with extent to which informed aboutradioactivity and most important reasons for satisfaction ordissatisfaction with such information; trust in scientists, teachers,authorities and environment groups regarding information aboutradioactivity; most important characteristics of trustworthy sources ofinformation about radioactivity; assessment of the dangers from nuclearpower plants and storage of radioactive wastes (scale); situations inwhich one is exposed to increased radioactive radiation.
+Demography: self-classification on a left-right continuum; partyallegiance and party preference (Sunday question); behavior at thepolls in the last election; party affiliation and union membership;marital status; age at end of education; sex; age; size of household;number of children in household; monthly household income; occupationalposition; employment in the civil service or private enterprise(company sector); company size; supervisor status; position inhousehold; occupation of head of household; self-assessment of socialclass; residential status; degree of urbanization; religiousdenomination; frequency of church attendance; religiousness; city size;region.
+Also encoded was: date of interview; start of interview; length ofinterview; presence of third persons during interview; willingness ofrespondent to cooperate.
+Indices: opinion leadership (cognitive mobility); postmaterialism;attitude to Europe; status in profession; party preference at statelevel and on European level; EC support; support for the EC domesticmarket; media usage.
+The following questions were posed in Luxembourg: knowledge about theEC presidency of one´s own country and significance of this presidencyfor the country. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-GBN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-NIR</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 15 Jahre und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons 15 years old and older. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage stratified random sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1991-03-04</date>
+				</startDate>
+				<endDate>
+					<date>1991-03-28</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Belgium</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Belgien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1991-03-10</date>
+				</startDate>
+				<endDate>
+					<date>1991-03-29</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Denmark</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Dänemark</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1991-03-08</date>
+				</startDate>
+				<endDate>
+					<date>1991-03-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1991-03-08</date>
+				</startDate>
+				<endDate>
+					<date>1991-03-22</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Greece</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Griechenland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1991-03-07</date>
+				</startDate>
+				<endDate>
+					<date>1991-03-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1991-03-07</date>
+				</startDate>
+				<endDate>
+					<date>1991-03-26</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Spain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Spanien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1991-03-11</date>
+				</startDate>
+				<endDate>
+					<date>1991-03-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1991-03-10</date>
+				</startDate>
+				<endDate>
+					<date>1991-03-29</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland (Republic)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland (Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1991-03-04</date>
+				</startDate>
+				<endDate>
+					<date>1991-03-29</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Luxembourg</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Luxemburg</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1991-03-04</date>
+				</startDate>
+				<endDate>
+					<date>1991-03-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Netherlands</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1991-03-08</date>
+				</startDate>
+				<endDate>
+					<date>1991-03-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1991-03-06</date>
+				</startDate>
+				<endDate>
+					<date>1991-03-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1991-03-11</date>
+				</startDate>
+				<endDate>
+					<date>1991-03-27</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Northern Ireland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Nordirland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>European Commission, Brussels;
+DG X -  Information Communication Culture
+Surveys Research Analyses</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SOBEMAP, Bruessel</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GFK Danmark/OBSERVA, Kopenhagen</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SAMPLE INSTITUT, Moelln</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>KEME, Athen</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>PRAGMA srl, Rom</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ICP-Research, Madrid</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TMO Consultants, Paris</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Lansdowne Market Research, Dublin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>IRLES, Luxemburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>NIPO, Amsterdam</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>NORMA, Lissabon</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>NOP, LondonINRA EUROPE, Brussels (Fieldwork-coordination)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>292</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Weitere Fragen aus dieser Studie zum Thema Berufstätigkeit sind
+in der Studie 2033 enthalten.
+Die 13.121 Fälle des Datensatzes verteilen sich auf die
+einzelnen Länder wie folgt:
+Belgien                            1061 Fälle,
+Bundesrepublik Deutschland (West)  1073 Fälle,
+Bundesrepublik Deutschland (Ost)   1971 Fälle,
+Dänemark                           1000 Fälle,
+Frankreich                         1000 Fälle,
+Griechenland                       1001 Fälle,
+Irland                             1015 Fälle,
+Italien                            1007 Fälle,
+Luxemburg                           504 Fälle,
+Niederlande                        1035 Fälle,
+Portugal                           1000 Fälle,
+Spanien                            1001 Fälle,
+Vereinigtes Königreich             1056 Fälle,
+Nordirland                          297 Fälle.
+Frühere Eurobarometer (2 - 34) sind unter den ZA-Studien-Nrn.
+1544, 1712 - 1715, 1750 - 1753 sowie 1960 - 1962 archiviert.
+Unter der ZA-Studien-Nr. 3521 ist ein kumulierter Datensatz der
+Eurobarometer (1970-2002) mit ausgewählten Trendfragen archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Further questions from this study on the topic employment are
+contained in study 2033. The 13121 cases of the data set are
+distributed among the individual countries as follows:
+Belgium 1061 cases,
+Federal Republic of Germany (West) 1073 cases,
+Federal Republic of Germany (East) 1971 cases,
+Denmark 1000 cases,
+France 1000 cases,
+Greece 1001 cases,
+Ireland 1015 cases,
+Italy 1007 cases,
+Luxembourg 504 cases,
+Netherlands 1035 cases,
+Portugal 1000 cases,
+Spain 1001 cases,
+United Kingdom 1056 cases,
+Northern Ireland 297 cases.
+Earlier Eurobarometers (2-34) are archived under ZA Study Nos. 1544,
+1712-1715, 1750-1753 as well as 1960-1962.
+A cumulated data set of the Eurobarometers (1970-2002) is archived
+under ZA Study No. 3521.
+</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.2031</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kommission der Europäischen Gemeinschaften (Hrsg.): 
+Eurobarometer 35: Die öffentliche Meinung in der Europäischen Gemeinschaft. 
+Brüssel: Selbstverlag 1991.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Commission of the European Communities: Public Opinion in the European Community on Energy in 1991 - European Opinion and the Energy Questions in 1991. Brussels, November 1991 (also available in French).</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

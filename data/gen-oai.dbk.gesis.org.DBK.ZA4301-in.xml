@@ -1,0 +1,347 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Political Attitudes, Political Participation and Voting Behavior in Reunified Germany (Panel 1994-2002)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Politische Einstellungen, politische Partizipation und Wählerverhalten im vereinigten Deutschland (Panel 1994-2002)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA4301</identifier>
+		<currentVersion>1.1.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Politische Einstellungen, politische Partizipation und Wählerverhalten im vereinigten Deutschland (Panel 1994-2002)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Political Attitudes, Political Participation and Voting Behavior in Reunified Germany (Panel 1994-2002)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Jürgen W.</firstName>
+				<middleName/>
+				<lastName>Falter</lastName>
+				<affiliation>
+					<affiliationName>Johannes Gutenberg-Universität Mainz</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Oskar W.</firstName>
+				<middleName/>
+				<lastName>Gabriel</lastName>
+				<affiliation>
+					<affiliationName>Universität Stuttgart</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Hans</firstName>
+				<middleName/>
+				<lastName>Rattinger</lastName>
+				<affiliation>
+					<affiliationName>Universität Bamberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Klaus</firstName>
+				<middleName/>
+				<lastName>Schmitt</lastName>
+				<affiliation>
+					<affiliationName>Universität Jena</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4301?doi=10.4232/1.11408</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11408</doiProposal>
+	<publicationDate>
+		<date>2012-07-26</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4301</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Politische Ideologie</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Cultural and national identity</term>
+					<term>Political ideology</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Politische Einstellungen, politische Partizipation im vereintenDeutschland. Zusammengefasster Datensatz einer sechswelligen Erhebungmit Panelkomponente und für Ost und West getrennten Samples.
+Themen: In einer Studie oder maximal in allen sechs Studien wurdegefragt: Beurteilung der aktuellen allgemeinen Wirtschaftslage sowieder allgemeinen Wirtschaftslage im Vorjahr und im zukünftigen Jahr;Demokratiezufriedenheit; Politikinteresse; Sicherheit der eigenenWahlentscheidung; Wahlverhalten bei der letzten Bundestagswahl; Art derStimmabgabe; eigene Wechselwählerschaft; Parteipräferenz(Sonntagsfrage, Erststimme und Zweitstimme); Zeitpunkt und Sicherheitder eigenen Wahlentscheidung; Gründe für Wahlabsicht und Nichtwahl;Einschätzung der eigenen aktuellen Wirtschaftslage sowie der eigenenWirtschaftslage im Vorjahr und im zukünftigen Jahr; Unzufriedenheit mitden Parteien; Koalitionspräferenz; Einstellung zu Parteien (Skala:Staat als Selbstbedienungsladen, Ehrlichkeit der Politiker,Machtstreben, erkennbare Unterschiede der Parteien, Einfluss auf dieGesellschaft, Berufspolitikertum, Korruption usw.); wichtigste Problemein der BRD;  Gefühl politischer Wirksamkeit; Einschätzung vonPolitikern als kompliziert und eigene Fähigkeit zu einer aktiven Rollein der Politik; öffentliche Sicherheit und Demonstrationsrecht;Abgeordnetenkontakt zur Bevölkerung; Recht, für seine Meinungeinzutreten; Wichtigkeit einer politischen Opposition; Verständnispolitischer Fragen; empfundene Pflicht zur Wahlbeteiligung;Sympathie-Skalometer für die Parteien CDU, SPD, F.D.P., Bündnis90/Grüne, Republikaner und PDS; Postmaterialismus;Institutionenvertrauen (Bundestag, Bundesverfassungsgericht,Bundesregierung, Gerichte, Polizei, Verwaltung, Kirchen, Parteien,Bundeswehr, Gewerkschaften, Arbeitgeberverbände undUmweltschutzgruppen); Kanzlerpräferenz; Beteiligungsbereitschaft anausgewählten Formen politischer Partizipation mit und ohneGewaltanwendung; Selbsteinschätzung auf einem Links-Rechts-Kontinuum;Vertretung der eigenen Interessen durch Gewerkschaften, Wirtschafts-und Arbeitgeberverbände, Umweltschutzgruppen, evangelische undkatholische Kirche; wichtigste Interessengruppe für den Befragten;Einschätzung der Parteinähe dieser Interessengruppen; Häufigkeit derLektüre des politischen Teils in der Zeitung und Verfolgen vonpolitischen Sendungen im Fernsehen; Gerechtigkeit derGesellschaftsordnung; persönliche Benachteiligung in der Gesellschaft;Wahlverhalten bei der letzten Bundestagswahl; Anzahl der Besuche imanderen Teil Deutschlands; Nationalstolz; Einstellung zurVerstaatlichung von wichtigen Wirtschaftsunternehmen; Mut zumNationalgefühl; Unterordnung von Gruppeninteressen unter dasAllgemeinwohl; amerikanischer Imperialismus als Gefahr für denWeltfrieden; Diktatur als die beste Staatsform; Nationalismus hatteauch gute Seiten; Dritte Welt wird ausgeplündert; Arbeiter werdenausgebeutet; Hitler als großer Staatsmann; Überfremdung Deutschlands;mehr gute als schlechte Seiten in der DDR; Ausländer sollten Landsleuteheiraten; Antisemitismus: Judeneinfluss zu groß, Juden passen nicht zuuns; Einstellung zu Sozialismus als Idee; eigene Position sowievermutete Position der Parteien CDU/CSU;SPD, F.D.P., Bündnis 90/Grüne,Republikaner, PDS und DVU bei den politischen Fragen: Kernenergie,Ausländerzuzug und europäische Einigung; Bewertung der Demokratie alsStaatsidee; Gründe für Unzufriedenheit mit Parteien;Koalitionspräferenz; Zufriedenheit mit dem Wahlergebnis; Zufriedenheitmit der Aufgabenerfüllung des Staates; Wohnort vor der Wende; Bewertungder Kompetenz, der Sympathie, der Vertrauenswürdigkeit und der Tatkraftvon Helmut Kohl und Gerhard Schröder; Vorstellungen von einer idealenGesellschaft (Skala); Zufriedenheit mit den Leistungen derBundesregierung; Verbundenheit mit der Gemeinde, der Region, demBundesland, mit der alten BRD/DDR und mit Deutschland;Links-Rechts-Einstufung der CDU, SPD, F.D.P., CSU, Bündnis 90/Grüne,Republikaner, PDS und DVU; Häufigkeit der Lektüre der BILD-Zeitung;Häufigkeit der Lektüre von überregionalen und von lokalen Zeitungen;gerechte oder ungerechte Gesellschaftsordnung; Sozialismus als guteIdee; Überfremdungsfurcht; Verständnis für Anschläge aufAsylbewerberheime; Wichtigkeit von Erst- und Zweitstimme; Bewertung deralten BRD bzw. DDR bezüglich persönlichem Lebensstandard, gerechterEinkommensverteilung, sozialer Sicherheit, sozialem Zusammenhalt undSchutz vor Verbrechen; Zugehörigkeit zu einer benachteiligten oder zueiner bevorzugten Bevölkerungsgruppe; deutsche Staatsbürgerschaft vonGeburt an oder späterer Erwerb; frühere Staatsbürgerschaft.
+Demographie: Geschlecht; Geburtsjahr; Schulabschluss; Konfession;Kirchgangshäufigkeit; Verbundenheit des Elternhauses mit der Kirche;Berufstätigkeit; frühere Berufstätigkeit; Berufstätigkeitsdauer;Arbeitsplatzwechsel, Arbeitslosigkeit bzw. Ausscheiden aus demBerufsleben seit 1990; Beschäftigung im öffentlichen Dienst;Berufsgruppe; Familienstand; Mitgliedschaft in einer Bürgerinitiative,einer Partei, einer Berufsvereinigung oder Gewerkschaft; Parteineigungund Parteiidentifikation (Skala); Dauer der Parteineigung;Parteineigung vor der Wende; Charakteristika des Haushaltsvorstands unddes Partners; Bundesland; Wohndauer im Bundesland; regionale HerkunftOst oder West; Haushaltseinkommen; Selbsteinschätzung derSchichtzugehörigkeit und soziale Mobilität; Haushaltsgröße undPersonenzahl ab 16 Jahren.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Die Grundgesamtheit der Ausgangs-Stichprobe im Jahr 1994 bilden alle
+deutschen Personen mit Wohnsitz in der Bundesrepublik Deutschland, die
+zum Zeitpunkt der Befragung mindestens das 16. Lebensjahr vollendet
+hatten sowie in Privathaushalten lebten. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Es wurden zwei Netze des ADM-Stichprobesystems eingesetzt. Die
+Zielhaushalte wurden nach dem Random-Route-Verfahren ausgewählt, die
+Zielperson im Haushalt wurde durch Schwedenschlüssel ermittelt. </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1994-09</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2002-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Panel</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>BASISRESEARCH, Frankfurt
+GFM GETAS (IPSOS), Hamburg
+INRA (IPSOS), Mölln</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.Telephone</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche, telefonische bzw. postalische Befragung mit
+standardisiertem Fragebogen</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>8802</numberUnits>
+			<numberVariables>744</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>1994 wurde eine Umfrage durchgeführt, die einen mündlichen und einen
+schriftlichen Teil umfasste. Die Fragebögen der schriftlichen Befragung
+wurden von den Interviewern von BASIS Research repräsentativ verteilt.
+Die Rücksendung erfolgte direkt an BASIS Research. An der mündlichen
+Befragung nahmen 4114 Personen teil, an der schriftlichen 1351. Als
+Ausgangsstichprobe für die Panelbefragung diente zunächst die mündliche
+Befragung von 1994. Um möglichst viele Fälle für 1998 zu erhalten,
+wurde das Panel dann aus der schriftlichen Befragung (nach Quoten)
+aufgefüllt. 
+
+Das Erhebungsverfahren im Jahr 1998 war face to face, zusätzlich gab
+es Telefoninterviews (Vorwahlstudien: 62 Telefoninterviews im gesamten
+Befragungsgebiet, Nachwahlstudien: 28 Telefoninterviews in
+Westdeutschland). 
+
+Das Erhebungsverfahren im Jahr 2002 war face to face.
+Die Studien und ihre Erhebungszeiträume im Einzelnen:
+
+1994:
+Vorwahlstudie West: 12. September 1994 bis 14. Oktober 1994
+Vorwahlstudie Ost: 12. September 1994 bis 06. Oktober 1994
+Nachwahlstudie West: 24. Oktober 1994 bis 01. Dezember 1994
+Nachwahlstudie Ost: 24. Oktober 1994 bis 15. November 1994 
+
+1998: 
+Vorwahlstudie West: 28. August 1998 bis 26. September 1998
+Vorwahlstudie Ost: 29. August 1998 bis 26. September 1998
+Nachwahlstudie West: 04. Oktober 1998 bis 05. Dezember 1998
+Nachwahlstudie Ost: 11. Oktober 1998 bis 28. November 1998 
+
+2002: 
+Vorwahlstudie West: 2. August 2002 bis 21. September 2002
+Vorwahlstudie Ost: 2. August 2002 bis 21. September 2002 
+Nachwahlstudie West: 27. September 2002 bis 28. Dezember 2002 
+Nachwahlstudie Ost: 27.September 2002 bis 28. Dezember 2002
+
+Die Stichprobe des Panels setzt sich aus zwei Quellen zusammen: Zum
+einen aus der mündlichen Querschnittsbefragung 1994, zum anderen aus
+einer parallel gelaufenen schriftlichen Befragung aus 1994 mit
+identischem Fragebogen. Letztere Erhebung diente 1998 zur Auffüllung
+des Panels nach Quote (Kriterien: Alter, Geschlecht, Bundesland).
+Daneben wurde die schriftliche Befragung 1994 als Methodenexperiment
+zum Vergleich der Resultate mündlicher und schriftlicher Befragungen
+durchgeführt. 
+
+Die unter der ZA-Studien-Nr. 3067 archivierte Variablenauswahl stellt
+lediglich einen Teil des vorliegenden vollständigen Panels dar. </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.4301</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Neller, Katja; Gabriel, Oscar W.: 
+Politische Einstellungen, politische Partizipation und Wählerverhalten 
+im vereinigten Deutschland: Die Deutsche Nationale Wahlstudie 1998. 
+In: Klein, Markus; Jagodzinski, Wolfgang; Mochmann, Ekkehard; 
+Ohr, Dieter (Hrsg.): 
+50 Jahre empirische Wahlforschung in Deutschland: Entwicklung, Befunde, 
+Perspektiven, Daten.
+Wiesbaden: Westdeutscher Verlag 2000, S. 542 - 563
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Faas, Thorsten; Rattinger, Hans: 
+The German Election Study 2002 - its main component. 
+In: ICORE News - The Newsletter of the International Committee for 
+Research into Elections and Representative Democracy, Nr. 9 (2002), 
+S. 12-13</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Falter, Jürgen W.; Gabriel, Oscar W.; Rattinger, Hans (Hrsg.): 
+Wirklich ein Volk? Die politischen Orientierungen von Ost- und 
+Westdeutschen im Vergleich. 
+Leverkusen: Leske+Budrich 2000</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Falter, Jürgen W.; Gabriel, Oscar W.; Weßels, Bernhard (Hrsg.): 
+Wahlen und Wähler: Analysen aus Anlass der Bundestagswahl 2002.
+Wiesbaden: VS Verlag für Sozialwissenschaften 2005</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Gabriel, Oscar W.; Falter, Jürgen W.; Rattinger, Hans (Hrsg.):
+Wächst zusammen, was zusammengehört? Stabilität und Wandel 
+politischer Einstellungen im wiedervereinigten Deutschland. 
+Baden-Baden: Nomos 2005.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

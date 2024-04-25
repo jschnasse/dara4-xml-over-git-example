@@ -1,0 +1,275 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Survey on Further Education of Persons with Migration Background (AES-Migra 2016)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Erhebung zum Weiterbildungsverhalten von Personen mit Migrationshintergrund (AES-Migra 2016)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA6986</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Erhebung zum Weiterbildungsverhalten von Personen mit Migrationshintergrund (AES-Migra 2016)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Survey on Further Education of Persons with Migration Background (AES-Migra 2016)</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Adult Education Survey (AES 2016 - Germany)</titleName>
+			<titleType>AlternativeTitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Adult Education Survey (AES 2016 - Germany)</titleName>
+			<titleType>AlternativeTitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Bundesministerium für Bildung und Forschung (BMBF), Berlin</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6986?doi=10.4232/1.13136</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13136</doiProposal>
+	<publicationDate>
+		<date>2018-09-11</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6986</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>1</identifier>
+			<type>VerbundFDB</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT38</identifier>
+					<!-- Beruf -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT55</identifier>
+					<!-- Erziehung, Schulwesen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Berufliche Weiterbildung</term>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>BILDUNG</term>
+					<term>Lebenslanges Lernen</term>
+					<term>Berufsausbildung</term>
+					<term>Höhere Bildung</term>
+					<term>Vorschulerziehung und Bildung in der Pflichtschulzeit</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employee training</term>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>EDUCATION</term>
+					<term>Life-long/continuing education</term>
+					<term>Vocational education and training</term>
+					<term>Higher and further education</term>
+					<term>Compulsory and pre-school education</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Bildungsaktivitäten im Lebensverlauf. Zugang zu Informationen über Lern- und Weiterbildungsmöglichkeiten. Bildungsbeteiligung von Erwachsenen mit Migrationshintergrund
+1. Berufsbezogene Informationen: Erwerbsstatus; berufliche Situation; Bezug von Arbeitslosengeld; Art des Arbeitslosengeldes; Praktikum; Dauer des aktuellen Erwerbsstatus (Monat, Jahr); berufliche Situation im Befragungsmonat; Ausüben einer bezahlten Tätigkeit; frühere und derzeitige Erwerbstätigkeit; Jahr und Monat der letzten Erwerbstätigkeit; Grund für das Praktikum (im Rahmen eines Studiums, im Rahmen einer anderen schulischen oder beruflichen Bildung oder aus einem anderen Grund); erwerbstätig in den letzten zwölf Monaten.
+2. Charakteristika der beruflichen Haupttätigkeit: Wochenarbeitszeit; Vollzeit/Teilzeit; Beruf (Klassifikation der Berufe nach ISCO 2008); abgeschlossene Berufsausbildung erforderlich; Tätigkeit entspricht dem erlernten Beruf; sozialversicherungspflichtig Beschäftigte bzw. abhängig Beschäftigte; differenzierte berufliche Stellung; Laufbahngruppe; Gruppe der Selbständigen; Beschäftigung festangestellter Mitarbeiter; Anzahl der Mitarbeiter im Betrieb; weniger als 10 oder mehr als 10 Personen im Betrieb tätig (Betriebsgröße); Wirtschaftsbereich (NACE-Code); Art des Betriebes; Öffentlicher Diensts; Branche; Betrieb ist Teil eines größeren Unternehmens; Anzahl Beschäftigte im Gesamtunternehmen; Zeitpunkt des Beschäftigungsbeginns beim aktuellen bzw. beim letzten Arbeitgeber; befristeter oder unbefristeter Arbeitsvertrag; Umgang mit dem Thema Weiterbildung in der Arbeitsstätte (z.B. interne Bildungsveranstaltungen, Betriebsvereinbarung, etc.); Erfordernisse der beruflichen Tätigkeit; bezogen auf den aktuellen Arbeitgeber: Arbeitsplatz gewechselt, berufliche Position gewechselt; Veränderung der Arbeitsaufgabe; Zeitpunkt (Monat und Jahr) des letzten Arbeitsplatzwechsels und des letzten Positionswechsels; wesentliche Veränderung der Arbeitsaufgaben, abwechslungsreichere Tätigkeit bzw. Verantwortungsbereich vergrößert beim aktuellen Arbeitgeber; monatliches Bruttoeinkommen; Arbeitslosigkeit im letzten Jahr; Dauer der Arbeitslosigkeit in Monaten; Einstellung zur eigenen Schulzeit (Spaß am Schulunterricht, schlecht gefühlt, gerne länger zur Schule gegangen, Lernen fiel schwer, angestrebten Schulabschluss erreicht, Angst vor Lehrern, viel Interessantes gelernt); Schulschwänzen; Klasse wiederholt).
+3. Formal Education (FED) - formale Bildunga)schulische Bildungsgänge: Informationen über Bildungsabschlüsse, Bildungsabbrüche und aktuelle Bildungsaktivitäten: schulischer Abschluss in den letzten zwölf Monaten; Abschlussjahr und -Abschlussmonat; Abbruch einer schulischen Bildungsaktivität in den letzten zwölf Monaten; derzeitiger Besuch einer schulischen Bildungsaktivität.b) berufliche Ausbildungsgänge einschließlich Hochschulausbildung: Informationen über Bildungsabschlüsse, Bildungsabbrüche und aktuelle Bildungsaktivitäten: beruflicher Abschluss in den letzten zwölf Monaten; Abschlussjahr und -Abschlussmonat; Abbruch einer beruflichen Bildungsaktivität in den letzten zwölf Monaten; derzeitiger Besuch einer beruflichen Bildungsaktivität; Art der beruflichen und akademischen Bildung (sonstige berufliche Ausbildungsabschlüsse, Berufsvorbereitungsjahr, Anlernausbildung/berufliches Praktikum, Berufsgrundbildungsjahr (BGJ), Berufsfachschule mit Vermittlung beruflicher Grundbildung, Betriebliche Lehre mit Berufsschule, Vorbereitungsdienst für Beamte des mittleren Dienstes, Berufsfachschule mit Vermittlung eines Berufsabschlusses, Schule des Gesundheitswesens, Ausbildung an einer Schule für Erzieher/innen, Ausbildung an der Fachschule der DDR, Ausbildung an der Fachakademie (Bayern), Fortbildung zum Meister, Techniker, Fachwirt/Fachkaufleute, Ausbildung an der Fachschule oder Fachakademie, Studium an der Berufsakademie, an der Verwaltungshochschule, an der Fachhochschule, an der Universität, Promotion).
+4. Teilnahme an Weiterbildungsaktivitäten (Non-formal education: NFE):Beteiligung an unterschiedlichen Weiterbildungsformen in den letzten zwölf Monaten und derzeit; Art der jeweiligen Weiterbildungsaktivitäten (Kurse oder Lehrgänge, kurzzeitige Bildungs- oder Weiterbildungsveranstaltungen, Schulungen am Arbeitsplatz, Privatunterricht in der Freizeit); Informationen zu den Weiterbildungsaktivitäten: Veranstaltungsart; Thema bzw. Gebiet (ISCED-Fields 1997/2013); Bezeichnung; Dauer bzw. Anzahl der Unterrichtsstunden; Erwerbsstatus zu Beginn der Aktivität; Teilnahmemotive (beruflich oder privat); Weiterbildungsaktivität während der Arbeitszeit/Bildungsfreistellung; Teilnahmevoraussetzungen; betriebliche Anordnung; berufliche Ziele; Gründe für die Teilnahme; Anbieter; Zertifikat erhalten; Teil eines modularisierten Bildungsgangs; individuelle Kosten entstanden; Kostenbeitrag anderer Stellen; E-Learning/Fernunterricht, Distance Learning; Qualitätsmerkmale; Unterrichts- bzw. Lernformen; Zufriedenheit; Nutzen im Einzelnen.
+5. Informal Learning (INF) - Informelles Lernen: Zum Selbstlernen genutzte Medien bzw. Kontexte in den letzten zwölf Monaten; Themengebiete; wichtigste genutzte Medien bzw. Kontexte; berufliche oder private Lerngründe; Aktivität erfolgte während der Arbeitszeit, Motivation für das informelle Lernen; Dauer der aufgewendeten Zeit für die Aktivität.
+6. (Weiter-)Bildungsbarrieren: Teilnahme an FED und/oder NFE in den letzten zwölf Monaten; Wunsch nach Teilnahme an weiteren Bildungs- oder Weiterbildungsmaßnahmen; keine Bildungs- oder Weiterbildungsmaßnahmen benötigt (Nichtteilnehmer); Gründe für Nichtteilnahme an FED/NFE und wichtigster Grund.
+7. Zugang zur (Weiter-)Bildung: Überblick über Weiterbildungsmöglichkeiten; Suche nach Informationen über Weiterbildung in den letzten 12 Monaten; erfolgreiche Informationsbeschaffung; Art der Informationsbeschaffung (Internet, Familie, Freunde, Kollegen, Arbeitgeber, Berufsberatung, Programme von Weiterbildungsanbietern wie z.B. Volkshochschule, Bildungseinrichtungen, Medien, Fachzeitschriften und Fachbüchern); Wunsch nach mehr Informationen und Beratung über Weiterbildungsmöglichkeiten; persönliche Beratung über Weiterbildungsmöglichkeiten; Zeitpunkt der Beratung; Berater der letzten persönlichen Weiterbildungsberatung; Zufriedenheit mit dieser Beratung; Nutzen der Beratung.
+8. Zusatzfragen Integration: Einstellung zu Deutschland (Wohlfühlen im Land, Zufriedenheit mit dem Wohnort, kein gutes Gefühl oder ungerecht behandelt, allgemeine Lebenszufriedenheit, lieber in einem anderen Land leben); präferiertes Land; Rangfolge von bis zu drei präferierten Ländern; erlebte Situationen mit ungerechter Behandlung. 
+9. Bildungshintergrund und Herkunft der Eltern: Geburtsland von Vater und Mutter Deutschland; Geburtsland der Eltern (Migrationshintergrund); deutsche Staatsangehörigkeit; andere (weitere) Staatsangehörigkeit; Erwerb der deutschen Staatsangehörigkeit; Staatsangehörigkeit vor Erwerb der deutschen Staatsangehörigkeit; frühere Staatsangehörigkeit; nach Deutschland gezogen; Umstände für den Zuzug nach Deutschland; Schulbildung und berufliche bzw. akademische Bildung der Eltern; Großeltern väterlicherseits und mütterlicherseits in Deutschland geboren; Migrationshintergrund Generationen 1 und 2.
+10. Soziale Partizipation als Lerngelegenheit: Freizeitaktivitäten in Organisationen, Vereinen oder Einrichtungen (Verein, Berufsverband, Kirchengemeinde oder religiöse Gruppierung, Wohlfahrtsverband oder soziale Einrichtung, politische Partei oder Gewerkschaft, Freiwillige Feuerwehr oder Unfall- und Rettungsdienst, Gruppen, Projekte oder Initiativen, Einrichtungen, Vereine oder Initiativen zur Unterstützung der Flüchtlingshilfe, sonstige).
+11. Fremdsprachenkenntnisse: gesprochenen Fremdsprachen (Rangfolge); Selbsteinschätzung der Fremdsprachenkenntnisse.
+Demographie: Geschlecht; Alter (Geburtsjahr, Geburtsmonat, Alter offen und gruppiert); erste gelernte Sprache in der Kindheit (Muttersprache); Muttersprache(n) bei Zweisprachigkeit mit und ohne Deutsch; deutsche Staatsangehörigkeit; Migrationshintergrund; andere Staatsangehörigkeit; 2.Staatsangehörigkeit; Erhalt der deutschen Staatsangehörigkeit; Staatsangehörigkeit vor der deutschen; 2.Staatsangehörigkeit vor der deutschen; in Deutschland geboren; anderes Geburtsland; durchgängig in Deutschland in Jahren; Anzahl der Jahre in Deutschland; Alter bei Zuzug nach Deutschland; Umstände für den Zuzug nach Deutschland; sonstige Umstände für den Zuzug nach Deutschland (offen); Aufenthaltsstatus; Haushaltsart; Zusammenleben mit einem Partner; Alter des Partners/der Partnerin (gruppiert); Familienstand; Kinder; Gesamtzahl der Kinder; Anzahl und Alter der Kinder im Haushalt; Kinder unter 5 Jahren im Haushalt; Kinder von 6 bis 14 Jahren im Haushalt; weitere Personen im Haushalt; Anzahl und Altersgruppe weiterer Personen im Haushalt (Haushaltsgröße und Haushaltszusammensetzung); Haushaltsnettoeinkommen; Zufriedenheit mit dem Haushaltseinkommen.
+Zusätzlich verkodet wurde: Befragten ID; ID NFE; ID der informelle Lernaktivitäten; West/ost; Richtung (Nord, Süd, Mitte, Ost); Gemeindegröße (BIK); Gewichtungsfaktoren; ISCED-Klassifikation (International Standard Classification of Education); ISCED-F-Vercodung der offen erfragten Themenbereiche oder –gebiete von Aktivitäten. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Educational activities in the course of life. Access to information on learning and training opportunities.
+1. Job-related information;2. Characteristics of the main professional activity;3. Formal Education (FED): a) school education, b) vocational training;4. Educational background: attendance of regular courses of study: a) school education, b) vocational training;5. Non-formal Education (NFE);6. Informal learning (INF);7. (Further) education barriers;8. Access to (further) education;9. Additional Integration Questions; 10. Educational background and origin of parents; 11. Social participation as a learning opportunity;12. Foreign language skills.
+Demography: sex; age (year of birth, month of birth, age open and grouped); first language learned in childhood (mother tongue); mother tongue(s) if bilingual; German nationality; migration background; other nationality; 2nd nationality; acquisition of German nationality; nationality before German; 2nd nationality if German citizenship; born in Germany; other country of birth; continuous in Germany; number of years in Germany; age when moving to Germany; circumstances for moving to Germany; other circumstances for moving to Germany (open); residence status; type of household; living together with a partner; age of partner (grouped); marital status; children; total number of children; number and age of children in the household; children under 5 years in the household; children from 6 to 14 years in the household; other persons in the household; number and age group of other persons in the household (household size and household composition); net household income; satisfaction with household income.	</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wohnbevölkerung der Bundesrepublik Deutschland im Alter von 18 bis 69 Jahren in Privathaushalten
+
+Die Stichprobe des Adult Education Survey (AES 2016 - Germany) wurde um eine Zusatzstichprobe von Personen mit Migrationshintergrund erweitert.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Resident population of the Federal Republic of Germany aged 18 to 69 in private households
+
+The sample of the Adult Education Survey (AES 2016 - Germany) was extended by an additional sample of persons with migration background.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample: Multistage Sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-07-08</date>
+				</startDate>
+				<endDate>
+					<date>2016-11-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Kantar Public, München</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Persönliches Interview: CAPI (Computerunterstützte persönliche Befragung)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Face-to-face interview: CAPI (Computer Assisted Personal Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>2272</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Erhebungseinheit: Erwachsene###
+Die Studie Weiterbildungsverhalten von Erwachsenen mit Migrationshintergrund in Deutschland 2016 (AES-Migra) ergänzt die unter ZA6887 archivierte Studie des deutschen AES 2016 (Adult Education Survey (AES 2016 - Germany). Die Stichprobe des deutschen AES 2016 wurde um eine Zusatzstichprobe unter Personen mit Migrationshintergrund sowie um einige Zusatzfragen erweitert. Auf Basis der erweiterten Gesamtstichprobe werden erstmals genauere Aussagen über die Bildungsbeteiligung Erwachsener mit Migrationshintergrund möglich.
+
+Analog zum AES 2016 werden auch für AES-Migra drei Datensätze zur Verfügung gestellt. Die Datensätze der beiden Projekte unterscheiden sich durch a) zusätliche Interviews mit Personen mit Migrationshinterrund und b) eine Reihe von zusätlichen Informationen, die explizit für die Zusatzstudie AES-Migra erhoben wurden. Im einzelnen sind dies:
+-Personenbezogener AES-Datensatz (Personendatensatz. Basis: alle Befragten der deutschen  AES-Erhebung und der Zusatzerhebung (18-69-Jährige),
+- Weiterbildungsaktivitätenbegoener AES-Datensatz (NFE-Datensatz). Basis: alle Weiterbildungsaktivitäten, die von den 18- bis 69-jährigen Teilnehmenden an Weiterbildung im deutschen AES-Datensatz und in der Zusatzerhebung genannt wurden.
+-Lernaktivitätsbezogener AES-Datensatz (INF-Datensatz). Basis: alle informellen Lernaktivitäten, die von den 18- bis 69-jährigen Teilnehmenden an informellen Lernaktivitäten im deutschen AES-Datensatz und in der Zusatzerhebung genannt wurden.
+
+Das deutschsprachige AES-2016-Fragenprogramm wurde in die vier Sprachen Türkisch, Polnisch, Russisch und Englisch übersetzt und den Interviewer/innen als Printfassung und ggf. Übersetzungshilfe des in deutscher Sprache programmierten AES-Fragenprogramms für die Zusatzerhebung an die Hand gegeben.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Survey unit: adults###
+Three data sets are available: a data set based on the respondents (AES personal data set), a data set based on the continuing education events named by the respondents (event-related AES data set, non-formal education/NFE) and a data set Informal Learning (INF, informal learning or self-learning).
+
+This Survey on Further Education of Persons with Migration Background (AES-Migra 2016) complements the study of the German AES 2016 (Adult Education Survey (AES 2016 - Germany) archived under ZA6887. The sample of the German AES 2016 was extended by an additional sample of persons with migration background as well as some additional questions. Based on the extended overall sample, for the first time more precise statements on the educational participation of persons with migration background are possible.</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kantar Public: Erhebung zum Weiterbildungsverhalten von Personen mit Migrationshintergrund (AES-Migra). Materialband 2: Personenbezogene tabellarische Auswertungen.
+München: 2018 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kantar Public: Erhebung zum Weiterbildungsverhalten von Personen mit Migrationshintergrund (AES-Migra).  
+Materialband 3: Aktivitätsbezogene tabellarische Auswertungen.
+München: 2018 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kantar Public: Erhebung zum Weiterbildungsverhalten von Personen mit Migrationshintergrund (AES-Migra 2016). Handbuch zur Datennutzung. 
+München: 2018 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Bundesministerium für Bildung und Forschung: Weiterbildungsverhalten von Personen mit Migrationshintergrund. Ergebnisse der erweiterten Erhebung des Adult Education Survey (AES-Migra 2016). 
+Bonn, Berlin: Bundesministerium für Bildung und Forschung, 2018 
+https://www.bmbf.de/pub/Weiterbildungsverhalten_von_Personen_mit_Migrationshintergrund.pdf
+</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

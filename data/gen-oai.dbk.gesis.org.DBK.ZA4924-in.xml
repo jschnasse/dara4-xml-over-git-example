@@ -1,0 +1,427 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Ethnical Boundaries and Social Context'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Ethnische Grenzziehung und soziale Kontexte'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4924</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Ethnische Grenzziehung und soziale Kontexte</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Ethnical Boundaries and Social Context</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Hartmut</firstName>
+				<middleName/>
+				<lastName>Esser</lastName>
+				<affiliation>
+					<affiliationName>Mannheimer Zentrum für Europäische Sozialforschung (MZES)</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Stephan</firstName>
+				<middleName/>
+				<lastName>Ganter</lastName>
+				<affiliation>
+					<affiliationName>Mannheimer Zentrum für Europäische Sozialforschung (MZES)</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Angela</firstName>
+				<middleName/>
+				<lastName>Jäger</lastName>
+				<affiliation>
+					<affiliationName>Mannheimer Zentrum für Europäische Sozialforschung (MZES)</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4924?doi=10.4232/1.4924</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4924</doiProposal>
+	<publicationDate>
+		<year>2008</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4924</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+					<identifier>KAT62</identifier>
+					<!-- Kommunikation, öffentliche Meinung, Medien -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Community, urban and rural life</term>
+					<term>Political behaviour and attitudes</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>Polen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.2.0</classificationSchema>
+				<terms>
+					<term>Türkei</term>
+					<term>(Spät-)Aussiedler*innen/Russlanddeutsche</term>
+					<term>Religiöse Zugehörigkeit</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.2.0</classificationSchema>
+				<terms>
+					<term>Anomie</term>
+					<term>Autoritarismus</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.3.0</classificationSchema>
+				<terms>
+					<term>Einbürgerungsmaßnahmen</term>
+					<term>Fremdenfeindlichkeit</term>
+					<term>Identität &amp; soziales Zugehörigkeitsgefühl</term>
+					<term>Intergruppenkontakt</term>
+					<term>Migrationspolitik</term>
+					<term>Nationalismus</term>
+					<term>Patriotismus</term>
+					<term>Realistische Bedrohungswahrnehmungen</term>
+					<term>Soziale Netzwerke</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Assimilation</term>
+					<term>Soziale Distanz</term>
+					<term>Integration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>Polen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.2.0</classificationSchema>
+				<terms>
+					<term>Türkei</term>
+					<term>(Spät-)Aussiedler*innen/Russlanddeutsche</term>
+					<term>Religiöse Zugehörigkeit</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.2.0</classificationSchema>
+				<terms>
+					<term>Anomia</term>
+					<term>Authoritarianism</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.3.0</classificationSchema>
+				<terms>
+					<term>Naturalisation measures</term>
+					<term>Xenophobia</term>
+					<term>Identity &amp; sense of social belonging</term>
+					<term>Intergroup contact</term>
+					<term>Migration policy</term>
+					<term>Nationalism</term>
+					<term>Patriotism</term>
+					<term>Realistic threat perceptions</term>
+					<term>Social networks</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Assimilation</term>
+					<term>Social distance</term>
+					<term>Integration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellungen und Verhalten Deutscher gegenüber Immigranten und derenNachkommen in ausgewählten Städten in den alten und neuenBundesländern. Egozentrierte soziale Netzwerke. Soziale Distanz zuAusländern.
+Themen: Urbanisierungsgrad; Wohndauer;  Alter (Geburtsjahr); inDeutschland geboren; deutsche Staatsbürgerschaft (seit Geburt);Familienstand; Haushaltsgröße; Anzahl der Festnetzanschlüsse imHaushalt; Zufriedenheit mit der Wohnsituation; Wichtigkeit ausgewählterpolitischer und sozialer Themen am Wohnort (Arbeitsplätze,Kulturangebote, Ausländer, Wohnungsmarkt, Straßenverkehr undUmweltqualität); höchster Schulabschluss; berufliche Bildung:abgeschlossene Berufsausbildung bzw. Studium, Praktikum oderVolontariat, Handelsschule, Meister- oder Technikerschule, Hochschul-oder Fachhochschulabschluss; derzeitige berufliche Ausbildung;Erwerbstätigkeit; Grad der Beschäftigung; berufliche Position; Jahr derAufnahme der Tätigkeit im derzeitigen Betrieb (Betriebszugehörigkeit);Anzahl der Beschäftigten (Betriebsgröße); ausländische Arbeitnehmer imBetrieb; empfundener Anteil ausländischer Arbeitnehmer im Betrieb;geschätzter Anteil der Ausländer im Betrieb; frühere Arbeitslosigkeit;Arbeitslosigkeitsdauer; Gründe für fehlende Erwerbstätigkeit; Dauer derErwerbslosigkeit; frühere Erwerbstätigkeit; zur letzten Tätigkeit wurdeerfragt: berufliche Position, Dauer der damaligen Beschäftigung,Betriebsgröße, ausländische Arbeitnehmer, empfundener Anteilausländischer Arbeitnehmer, geschätzter Anteil ausländischer Kollegen;zur früheren Arbeitslosigkeit wurde gefragt: Dauer der letztenArbeitslosigkeit; Selbsteinschätzung der Schichtzugehörigkeit;Nettoeinkommen; Skala Anomie: Verschlechterung der Situation einfacherLeute, unverantwortlich Kinder in die Welt zu setzen, Politikerinteressieren sich nicht für einfache Leute, fehlendes Interesse dermeisten an ihren Mitmenschen; mit dem Begriff Ausländer assoziierteNationalität; geschätzter Ausländeranteil am Wohnort; Beurteilung desAusländeranteils am Wohnort; Einstellung zu Ausländern (Skala:Ausländer sollten sich anpassen, Abschiebung von Ausländern in derenHeimatländer bei Arbeitsplatzmangel, Verbot politischer Betätigung,Eheschließungen von Ausländern nur unter eigenen Landsleuten); sozialeDistanz zu Türken und Polen (Skala); persönliche Kontakte zu Ausländernin der Nachbarschaft, deren Anzahl und Staatsbürgerschaft; Besuche inder Wohnung ausländischer Nachbarn bzw. Einladung in die eigeneWohnung; ausländische Personen in der eigenen Familie undVerwandtschaftsgrad; Staatsbürgerschaft und Anzahl dieser ausländischenVerwandten; Schüler, Studenten oder (ehemalige) hauptberuflichErwerbstätige wurden gefragt: persönliche Kontakte zu ausländischenKollegen bzw. Mitschülern; Staatsbürgerschaft und Anzahl dieserausländischen Kollegen bzw. Mitschüler; Besuche in der Wohnungausländischer Kollegen bzw. Mitschüler bzw. in der eigenen Wohnung;ausländische Staatsbürger im Bekannten- oder Freundeskreis;Staatsbürgerschaft und Anzahl dieser ausländischen Freunde oderBekannten; Besuch der ausländischen Freunde in deren Wohnung bzw. inder eigenen Wohnung; Selbsteinstufung auf einem Links-Rechts-Kontinuum;nur deutsche Befragte: Parteipräferenz (Sonntagsfrage), Wahlbeteiligungund Wahlverhalten bei der letzten Bundestagswahl, Nationalstolz; wiederalle: Autoritarismus-Skala: Gehorsam gegenüber der Autorität,erzwungene Anpassung von Kindern an die Vorstellungen der Eltern,Wunsch nach Führungspersönlichkeiten; Einstellung zum Zuzug von:deutschstämmigen Aussiedlern aus Osteuropa, Asylsuchenden,Arbeitnehmern aus EU-Staaten, Arbeitnehmern aus Nicht-EU-Staaten.
+Sozialkontakte: Anzahl der persönlich bekannten direkten Nachbarn;Besuche dieser Nachbarn in deren Wohnung bzw. in der eigenen Wohnung inden letzten sechs Monaten; Verwandte in der Stadt außerhalb des eigenenHaushalts; Freunde in der Stadt bzw. der näheren Umgebung und Anzahldieser Freunde; Vereinsmitgliedschaft; Freizeitgestaltung mitVereinskollegen außerhalb des Vereins; Konfession;Kirchgangshäufigkeit; Freizeitgestaltung mit Gemeindemitgliedern.
+Ausschließlich deutsche Befragte: Egozentriertes Netzwerk: für bis zufünf Netzpersonen wurde jeweils erfragt: Name, Geschlecht, Alter,deutsche Staatsbürgerschaft, andere Staatsbürgerschaft dieser Personen;Dauer der Bekanntschaft zu diesen Personen; Beziehung zu diesenPersonen (Partner, Verwandter, Kollege, Nachbar, Freund, im selbenVerein bzw. in derselben Kirchengemeinde); Nähe zu den genanntenPersonen; Schulabschluss und Kontakthäufigkeit zu diesen Personen;Gesprächsthemen (Arbeit und Beruf, familiäre Probleme undBeziehungsangelegenheiten, Fernsehprogramm, politische Fragen,Verhältnis von Deutschen und Ausländern, Sport, finanzielleAngelegenheiten); vermutete Einstellung dieser Personen zum Zuzug vonAusländern sowie von Asylsuchenden nach Deutschland; Bekanntschaft dereinzelnen Personen untereinander und Intensität der Bekanntheituntereinander.
+Demographie: Geschlecht des Befragten, weitere demographische Angaben,siehe oben.
+Zusätzlich verkodet wurde: Gründe für den Interviewabbruch;Anwesenheit weiterer Personen beim Interview; Eingreifen Dritter in dasInterview; Kooperationsbereitschaft des Befragten; Einschätzung derZuverlässigkeit der Angaben; unzuverlässig beantwortete Themen; Art derKontaktaufnahme; Postleitzahl, Stadtteil; Vorname des Befragten und derNetzwerkpersonen.
+Interviewerrating: Schwierigkeitsgrad für den Interviewer; besondereSchwierigkeiten während des Interviews; Art der Schwierigkeiten; Gründefür fehlende Angaben zu Netzwerkpersonen; Bereitschaft des Befragtenzur Nennung der Telefonnummern der genannten Netzwerkpersonen; Anzahlgenannter Telefonnummern; Gründe für die Verweigerung der Nennungdieser Telefonnummern. 
+Diverse Variablen zum Screening, zur Netzstruktur, zum Ego-Netz;Double-Kennzeichnung; Kontaktprotokoll zu den benanntenNetzwerkpersonen: Erreichbarkeit, Verweigerungsgründe und Abbruch;Anzahl der Kontaktversuche; Daten des CATI-Erhebungssystems (CD oderRLD); Art der Auswahl; Interviewdauer; Interviewdatum; Uhrzeit desInterviews; Intervieweridentifikation; applizierte Fragebogenversion.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SN</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Leipzig</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Leipzig</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Dortmund</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Dortmund</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BB</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Cottbus</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Cottbus</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Heilbronn</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Heilbronn</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Die in den Privathaushalten lebenden Wohnbevölkerung der ausgewählten
+Städte ab 18 Jahren, die die deutsche Staatsangehörigkeit seit Geburt
+besitzt und über einen Telefonanschluss verfügt</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Auswahl der Primärkontakte: Zufallsauswahl. Eine Hälfte der Befragten
+wurde nach dem R2LD Verfahren und Geburtstagsmethode und die andere
+Hälfte aus der Telefon-CD ´klick Tel 2002´ ausgewählt.
+
+Die Auswahl von Folgekontakten erfolgte nach dem
+Snowball-Sampling-Verfahren. Die Auswahl und
+Kontaktierungsmöglichkeiten der Alteri wurden dabei durch die Angaben
+der interviewten Personen bestimmt.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-05-16</date>
+				</startDate>
+				<endDate>
+					<date>2002-09-13</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Academic DATA GmbH, Essen</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>414</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Jäger, Angela:
+Forschungsprojekt Ethnische Grenzziehung und soziale 
+Kontexte (II): Methodenbericht
+Mannheim: Universität Mannheim, Mannheimer Zentrum für 
+Europäische Sozialforschung 2004</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

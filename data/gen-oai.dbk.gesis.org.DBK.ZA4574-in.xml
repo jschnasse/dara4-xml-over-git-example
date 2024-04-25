@@ -1,0 +1,822 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'ALLBUS/GGSS 1980-2010
+(Kumulierte Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/
+Cumulated German General Social Survey 1980-2010)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA4574</identifier>
+		<currentVersion>1.0.1</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS - Kumulation 1980-2010</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>ALLBUS/GGSS 1980-2010
+(Kumulierte Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/
+Cumulated German General Social Survey 1980-2010)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>GESIS - Leibniz-Institut für Sozialwissenschaften</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4574?doi=10.4232/1.11486</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11486</doiProposal>
+	<publicationDate>
+		<date>2012-11-27</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4574</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>ALLBUS</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Minderheiten</term>
+					<term>Familie und Ehe</term>
+					<term>Reproduktionsmedizin</term>
+					<term>Spezifische Krankheiten, Störungen und Gesundheitsprobleme</term>
+					<term>Freizeit, Tourismus und Sport</term>
+					<term>Medien</term>
+					<term>Religion und Werte</term>
+					<term>UMWELT UND NATUR</term>
+					<term>GESETZ, KRIMINALITÄT UND RECHTSSYSTEME</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Economic conditions and indicators</term>
+					<term>Government, political systems and organisations</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Cultural and national identity</term>
+					<term>Minorities</term>
+					<term>Family life and marriage</term>
+					<term>Reproductive health</term>
+					<term>Specific diseases, disorders and medical conditions</term>
+					<term>Leisure, tourism and sport</term>
+					<term>Media</term>
+					<term>Religion and values</term>
+					<term>NATURAL ENVIRONMENT</term>
+					<term>LAW, CRIME AND LEGAL SYSTEMS</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Allgemeine Bevölkerungsumfrage der Sozialwissenschaften (ALLBUS) ist eine Trenderhebung, in der seit 1980 alle zwei Jahre eine Zufallsstichprobe der deutschen Bevölkerung befragt wird. Das primäre Ziel des Umfrageprogramms ist die Beobachtung von Einstellungen, Verhalten und sozialen Wandel in Deutschland. Jede ALLBUS-Querschnittserhebung besteht aus ein oder zwei Schwerpunktmodulen zu wechselnden Themen. Diese werden ergänzt durch weitere inhaltliche Fragen und ein Kernmodul mit detaillierten demografischen Informationen. Zudem werden Zusatzinformation zum Interview und den Interviewern bereitgestellt. Die Schwerpunktmodule folgen in der Regel einem 10-jährigen Replikationszyklus, viele Einzelindikatoren und Itembatterien werden aber auch in kürzeren Abständen repliziert. 
+Die ALLBUS Kumulation 1980-2010 versammelt alle Zeitreihen aus dem ALLBUS-Frageprogramm, d.h. der Datensatz enthält Daten für alle Fragen, die in wenigstens zwei der bisher 17 ALLBUS-Umfragen erhoben wurden.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>1.) Wirtschaft: Beurteilung der aktuellen und zukünftigenWirtschaftslage in der Bundesrepublik, im eigenen Bundesland und dereigenen Wirtschaftslage. 
+2.) Politische Einstellungen und Partizipation: Zufriedenheit mit derBundesregierung, der Landesregierung, der deutschen Demokratie und mitdem Funktionieren des politischen Systems (politische Unterstützung);Selbsteinstufung auf einem Links-Rechts-Kontinuum; politischesInteresse; Parteineigung; Wahlabsicht (Sonntagsfrage); Wahlbeteiligungbei der letzten Bundestagswahl; Wahlrückerinnerungsfrage;Sympathie-Skalometer für die CDU, CSU, SPD, FDP, Republikaner, NPD,PDS, DKP sowie Bündnis 90 / Die Grünen; Wahrscheinlichkeiten, diverseParteien zu wählen; politische Partizipation; ehrenamtlicheTätigkeiten; Einstellung zur Kernenergie, zur Todesstrafe fürTerroristen, zur Privatisierung öffentlicher Betriebe, zur Freigabe vonAbtreibung; Demokratie-Skala; Wahrnehmung von Einflussmöglichkeiten aufdie Politik (political efficacy, political alienation): bürgerfernePolitiker, Selbstvertrauen in Bezug auf politische Gruppenarbeit, zuviel Komplexität in der Politik, Bürgerorientierung der Politiker;politische Kenntnisse des Befragten und des Durchschnittsbürgers;Befähigung der Mehrheit zu politischer Arbeit; Wahlbeteiligung istBürgerpflicht; Postmaterialismus (Wichtigkeit von Ruhe und Ordnung, vonBürgereinfluss, von Inflationsbekämpfung und von freierMeinungsäußerung). 
+3.) Deutsche Vereinigung: Einstellung zur Forderung nach mehrOpferbereitschaft im Westen und mehr Geduld im Osten; Wiedervereinigungist vorteilhaft für Westen bzw. Osten; Zukunft im Osten hängt vonLeistungsbereitschaft der Ostdeutschen ab; wechselseitige Fremdheit derBürger; Leistungsdruck in den neuen Bundesländern; Einstellung zumUmgang mit individueller Stasi-Vergangenheit; Einschätzung desSozialismus als Idee. 
+4.) Soziale Ungleichheit und Wohlfahrtsstaat: Gerechter Anteil amLebensstandard; Selbsteinschätzung der sozialen Schichtzugehörigkeitund Einstufung auf einer Oben-Unten-Skala; Beurteilung des bisherigenBerufserfolgs, Vergleich mit Berufsposition des Vaters und beruflicheErwartung für die Zukunft; perzipierte Stärke von Konflikten zwischengesellschaftlichen Gruppen; Einstellungen zum deutschenWirtschaftssystem und Beurteilungen von wohlfahrtsstaatlichenMaßnahmen; Einschätzung gleicher Ausbildungschancen für alle;Voraussetzungen für Erfolg in der Gesellschaft; Einkommensunterschiedeals Leistungsanreiz; Akzeptanz von sozialen Unterschieden; Bewertungder eigenen sozialen Sicherung; Haltung zur Ausweitung oder Kürzung vonSozialleistungen, Einstellung zu einer Kürzung des Verteidigungsetatsund perzipierte Haltung der Bundesregierung in solchen Fragen. 
+5.) Vertrauen in öffentliche Einrichtungen und Organisationen:Gesundheitswesen, Bundesverfassungsgericht, Bundestag,Gemeindeverwaltung, Bundeswehr, Kirche, Justiz, Fernsehen,Zeitungswesen, Hochschulen, Bundesregierung, Gewerkschaften, Polizei,Parteien, Arbeitsämter, Rentenversicherung, Arbeitgeberverbände,Kommission der Europäischen Union, Europäisches Parlament, EuropäischerGerichtshof. 
+6.) Nationalstolz: Stolz auf deutsche Einrichtungen und deutscheLeistungen; Stolz, Deutscher zu sein. 
+7.) Ethnozentrismus und Minoritäten: Haltungen zum Zuzug vonAussiedlern aus Osteuropa, Asylsuchenden, EU-Arbeitnehmern undNicht-EU-Arbeitnehmern; Wahrgenommene Konsequenzen der Anwesenheit vonAusländern in Deutschland; Ausländerbehandlung durch Behörden;Wichtigkeitseinstufung verschiedener Einbürgerungsvoraussetzungen;Einstellungsskala und Kontakte zu Ausländern (Split: Gastarbeiter) inder Familie, am Arbeitsplatz und in der Nachbarschaft oder imFreundeskreis; Einstellung zur doppelten Staatsbürgerschaft und zurRechtsangleichung von Ausländern; perzipierte Stärke des Konfliktszwischen Gastarbeitern und Deutschen; Befürwortung von Islamunterrichtan Schulen; Ausländeranteilsschätzung für Ost- und Westdeutschlandsowie für die eigene Wohnumgebung; perzipierte Lebensstildifferenzen;Indikatoren für soziale Distanz zu ethischen Minderheiten undAusländern; Items zum Antisemitismus; Wahrnehmung und Bewertung vondiskriminierendem Verhalten gegenüber Ausländern. 
+8.) Nationale und regionale Verbundenheit: Verbundenheit mit dereigenen Gemeinde, mit dem Bundesland, mit der alten Bundesrepublik bzw.mit der DDR, mit Gesamtdeutschland, sowie mit der EU. 
+9.) Einstellungen zu Ehe, Familie und Partnerschaft: Familie alsGlücksvoraussetzung; Heirat bei dauernder Partnerschaft oder beiSchwangerschaft; ideale Kinderzahl; Einstellung zur Berufstätigkeit vonFrauen und Müttern; Wichtigkeit von Erziehungszielen; wichtigsteErziehungsziele der Schule; Einstufung der Wichtigkeit ausgewählterLernziele für ein Kind; gewünschte Eigenschaften von Kindern;Autoritarismus; Wichtigkeit der Familie.
+10.) Abtreibung: Schwangerschaftsabbruch bei gesundheitlichenGefährdungen von Mutter oder Kind; Abtreibung nach Vergewaltigung, beisozialer Notlage oder bei ledigen Frauen ohne Heiratswunsch; völligeFreigabe von Abtreibung. 
+11.) Fragen zum Thema AIDS (HIV): Kenntnis der Krankheit AIDS;wahrgenommene Berichte in den Medien; Einstellung zu höherenKrankenversicherungsbeiträgen für HIV-Infizierte; Einstellung zurEntlassung infizierter Arbeitnehmer und zu einem Einreiseverbot fürHIV-infizierte Ausländer; Einstellung zu einer zentralen Meldepflicht;Sorge um eine eigene HIV-Infektion; eigene Schutzmaßnahmen undVerhaltensänderungen; HIV-Infizierte im Bekanntenkreis. 
+12.) Wichtigkeit von verschiedenen Lebensbereichen und ausgewähltenBerufsaspekten: Familie und Kinder, Beschäftigung und Arbeit, Freizeitund Erholung, Freunde und Bekannte, Verwandte, Religion und Kirche,Politik und öffentliches Leben, Nachbarschaft; Präferenzen bei einerberuflichen Tätigkeit (Sicherheit, Einkommen, Verantwortung etc.). 
+13.) Freizeitaktivitäten: Bücher lesen; Zeitschriften lesen;Schallplatten, CDs, Kassetten hören; Videos anschauen; Computer nutzen;im Internet surfen; private Weiterbildung; nichts tun, faulenzen;spazieren gehen, wandern; Yoga, Meditation; Restaurants; Besuche imFreundeskreis; Besuche im Verwandtenkreis; Gesellschaftsspiele; kurzeReisen; politische Beteiligung; ehrenamtliche Tätigkeiten; religiöseVeranstaltungen; Kunst und musische Betätigung; do it yourself; aktiverSport; Film-, Sport-, Pop-, Jazz-, Tanzveranstaltungen besuchen;klassische Kultur (Oper, Konzerte, Theater, Ausstellungen). 
+14.) Mediennutzung: Häufigkeit von Fernsehen pro Woche, Interesse anFernsehsendungen: Shows und Quizsendungen, Sportsendungen, Spielfilme,Nachrichten, politische Magazine, Kunst und Kultur, Heimatfilme,Kriminalfilme, Actionfilme, Unterhaltungsserien; Häufigkeit der Lektürevon Tageszeitungen pro Woche. 
+15.) Religion und Weltanschauung: Gottesglaube und Lebenssinn;Religiosität; Kirchenmitgliedschaft; frühere Konfession; kirchlicheBeerdigung; kirchliche Trauung; Taufe der Kinder; Kirchgangs- undGebetshäufigkeit; Interesse an kirchlichen Sendungen in den Medien. 
+16.) Umwelt: Perzeption allgemeiner Umweltbelastungen und persönlichempfundene Umweltbelastungen. 
+17.) Einstellung zu und Kontakte mit Behörden: Beurteilung derLeistungen von Behörden und deren Verhalten gegenüber Bürgern. 
+18.) Anomia und Kriminalitätsfurcht: Allgemeines Vertrauen zuMitmenschen und zu Politikern; sozialer Pessimismus undZukunftsorientierung (Anomia); Kriminalitätsfurcht; Furcht vor Verlustdes Arbeitsplatzes bzw. der betrieblichen Existenz. 
+19.) Abweichendes Verhalten und Sanktion: Meinung zu ausgewähltenDelikten und Vergehen bezüglich ihrer Verwerflichkeit und ihrerSanktionswürdigkeit; Gesetzestreue; Wahrscheinlichkeit, genannteGesetzesübertretungen in Zukunft zu begehen; selbstberichtetesabweichendes Verhalten; Einschätzung der Wahrscheinlichkeit, beiverschiedenen Delikten entdeckt zu werden; Senkung der Kriminalitätdurch härtere Strafen; eigene Viktimisierung.
+20.) ALLBUS-Demographie: Angaben zur befragten Person: Geburtsmonat,Geburtsjahr, Alter, Geschlecht, Staatsbürgerschaft (Nationalität),Anzahl der Staatsbürgerschaften und Angaben zur ursprünglichenStaatsbürgerschaft, Wohnort (Bundesland, Regierungsbezirk, politischeGemeindegröße, BIK Stadtregion, Bousted-Gemeindetyp, Ausländeranteilauf Kreisebene) und Wohndauer, Herkunft, Konfession bzw.Religionszugehörigkeit, Kirchgangshäufigkeit, Schulbesuch, allgemeinerSchulabschluss, berufliche Ausbildung, Führerscheinbesitz,Erwerbsstatus, Angaben zum gegenwärtigen bzw. früheren Beruf, Angabenzum ersten Beruf, Branche, Furcht vor Verlust des Arbeitsplatzes,Zugehörigkeit zum öffentlichen Dienst, Arbeitswegdauer, beruflicheAufsichtsfunktion, Zeitpunkt der Aufgabe hauptberuflicherErwerbstätigkeit, Stellungsdauer, wöchentliche Arbeitsdauer (Haupt- undNebenerwerb), Betriebsgröße, Dauer von Arbeitslosigkeit, Unterbrechungder Erwerbstätigkeit, Wunsch nach Arbeit, vorwiegender Lebensunterhalt,Befragteneinkommen, Alter beim Verlassen der Eltern, Selbstbeschreibungdes Wohnortes, Übersiedlung nach Ost- oder Westdeutschland, Interessean einer Übersiedlung in den Ost- bzw. Westteil oder in ein anderesLand der Europäischen Gemeinschaft, Aufenthaltsdauer (in derBundesrepublik, im Bundesland, am Wohnort), Land in dem Befragter inseiner Jugend lebte, Wohnungstyp, Telefonanschluss, allgemeinerGesundheitszustand; Körperlicher und seelischer Zustand in den letztenvier Wochen; Körpergröße und Gewicht; Familienstand, Ehebiographie,Kinderwunsch. Angaben zum gegenwärtigen Ehepartner: Erste, zweite unddritte Staatsbürgerschaft, Anzahl der Staatsbürgerschaften und Angabenzur ursprünglichen Staatsbürgerschaft, Alter, Konfession, allgemeinerSchulabschluss, berufliche Ausbildung, Erwerbsstatus, Angaben zumgegenwärtigen bzw. früheren Beruf, Zugehörigkeit zum öffentlichenDienst, Zeitpunkt der Aufgabe hauptberuflicher Erwerbstätigkeit, Dauervon Arbeitslosigkeit, Furcht vor Verlust des Arbeitsplatzes. Angabenzum ehemaligen Ehepartner: Alter, Konfession, allgemeinerSchulabschluss, berufliche Ausbildung, Angaben zum gegenwärtigen bzw.früheren Beruf. Angaben zu nichtehelichen Lebenspartnern: Erste, zweiteund dritte Staatsbürgerschaft, Anzahl der Staatsbürgerschaften undAngaben zur ursprünglichen Staatsbürgerschaft, Alter, gemeinsamerHaushalt mit Lebenspartner, Aufgabenteilung im Haushalt, allgemeinerSchulabschluss, berufliche Ausbildung, Erwerbsstatus, Angaben zumgegenwärtigen bzw. früheren Beruf, Zugehörigkeit zum öffentlichenDienst, Furcht vor Verlust des Arbeitsplatzes, Zeitpunkt der Aufgabehauptberuflicher Erwerbstätigkeit. Angaben zu den Eltern und Großelterndes Befragten: Herkunftsland der Eltern und Großeltern, AllgemeinerSchulabschluss von Mutter und Vater, Universitätsbesuch von Mutter undVater, berufliche Ausbildung von Mutter und Vater, Angaben zum Berufdes Vaters und der Mutter. Haushaltsbeschreibung: Haushaltsgröße,Haushaltseinkommen, Einkommensarten im Haushalt, Anzahl von über17-jährigen Haushaltspersonen (reduzierte Haushaltsgröße), Zahl derKinder. Angaben zu den einzelnen Haushaltspersonen (Haushaltsliste):Verwandtschaft der Haushaltspersonen zum Befragten, Geschlecht derPersonen, ihr Geburtsmonat, Geburtsjahr, Alter, Familienstand,Einkommen, deutsche Staatsangehörigkeit. Angaben zu Kindern außerhalbdes Haushalts: Zahl der Kinder außer Haus, Geschlecht, Alter.Gegenwärtige Mitgliedschaften des Befragten (DeutscherGewerkschaftsbund (DGB), Deutsche Angestelltengewerkschaft (DAG),Christlicher Gewerkschaftsbund (CGB), andere Gewerkschaft, UnionLeitender Angestellter (ULA), Deutscher Beamtenbund (DBB),Bauernverband, Gewerbeverband, Bundesverband der Deutschen Industrie(BDI), sonstiger Berufsverband; Gesangverein, Sportverein,Hobby-Vereinigung, Heimat- oder Bürgerverein, sonstige geselligeVereinigung, Vertriebenen- oder Flüchtlingsverband, Wohlfahrtsverband,kirchlicher oder religiöser Verein, Jugend- oder Studentenorganisation,politische Partei, Bürgerinitiative, andere Vereine oder Verbände);Mitgliedsstatus des Befragten bei diversen Vereinen und Organisationen;frühere Gewerkschaftsmitgliedschaft. Freunde und vertraute Personen(egozentrierte Netzwerke) mit Angaben über: Geschlecht, Alter,Verwandtschaft und Beziehung zum Befragten, Schulabschluss,Erwerbstätigkeit, berufliche Stellung und Berufsgruppe, Wahlverhalten,Herkunft und Staatsbürgerschaft, Wohndistanz, verglicheneWirtschaftslage, Qualität und Quantität der Kontakte sowie gegenseitigeBekanntschaft. 
+21.) Daten zum Interview (Paradaten): Interviewdatum; Interviewbeginn und -ende;Interviewdauer; eingeschätzte Attraktivität der Befragten; an wievielen Befragungen teilgenommen; Bereitschaft zu einer Panelteilnahme;Erreichbarkeit des Befragten; Anwesenheit des Befragten zu Hausewährend der letzten Wochentage; Auskunftsbereitschaft des Befragten;Anwesenheit Dritter beim Interview; Anwesenheit des Ehepartners,Partners oder von Kindern beim Interview; Anwesenheit weitererFamilienangehöriger beim Interview; Eingriffe Dritter in denInterviewverlauf; Kooperationsbereitschaft und Zuverlässigkeit derAngaben des Befragten; Mitverfolgen des Interviews am Bildschirm;Häufigkeit der Internetnutzung; Teilnahmebereitschaft beiInternetumfragen; Zahl der Kontaktversuche; Angaben zum Wohngebäude desBefragten und der Wohnumgebung. Angaben zum Interviewer: Geschlecht,Alter, Schulabschluss, Identifikationsnummer, Dauer derInterviewertätigkeit. 
+22.) Ergänzungen und abgeleitete Variablen: Body-Mass-Index; Postmaterialismus-Index(nach Inglehart); Familientypologie, Haushaltsklassifikationen (nachPorst und Funk); Berufsvercodung gemäß ISCO (International StandardClassification of Occupations) 1968 und 1988; Berufsprestige (nachTreiman); SIOPS (nach Ganzeboom); ISEI (nach Ganzeboom);Magnitudeprestige (nach Wegener); Einordnungsberufe (nach Pappi undTerwey); Klassenlagen (nach Goldthorpe); Transformationsgewichte fürAuswertungen auf Haushalts- oder Personenebene; Ost-West-Gewichte fürgesamtdeutsche Auswertungen. </freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>ALLBUS (GGSS - the German General Social Survey) is a biennial trend survey based on random samples of the German population. Established in 1980, its mission is to monitor attitudes, behavior, and social change in Germany. Each ALLBUS cross-sectional survey consists of one or two main question modules covering changing topics, a range of supplementary questions and a core module providing detailed demographic information. Additionally, data on the interview and the interviewers are provided as well. Key topics generally follow a 10-year replication cycle, many individual indicators and item batteries are replicated at shorter intervals.
+ALLBUS/GGSS 1980-2010 compiles all of the time series in the ALLBUS program (i.e. it contains data for all questions that have been surveyed in at least two of the so far 17 cross-sectional surveys).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>1.) Economy: assessments of the present and future economicsituation in Germany and in one´s own federal state; assessment ofpresent and future personal economic situation.
+2.) Political attitudes and participation: satisfaction with federalgovernment, state government, German democracy, and with theperformance of the German political system (political support);self-placement on left-right continuum; political interest; partyinclination; voting intention (Sonntagsfrage); participation in lastfederal elections; recall of vote in last federal elections;party-sympathy-scales for the CDU, CSU, SPD, FDP, Republicans(Republikaner), NPD, PDS, DKP as well as the Greens (Bündnis 90 / DieGrünen); likelihood of voting for different political parties;political participation; voluntary activities or honorary offices;attitudes towards nuclear energy, the death penalty for terrorists,towards the privatization of publicly owned companies, and towardsabortion; democracy scale; perception of individual influence onpolitics (political efficacy, political alienation); gap betweenpoliticians and citizens; self-assuredness with regard to politicalgroup work; too much complexity in politics; the politicians´ closenessto constituents; personal and average citizen´s level of politicalknowledge; majority capable of working in a political group;participation in the vote as a civic duty; postmaterialism (importanceof law and order, fighting rising prices, free expression of opinions,and influence on governmental decisions).
+3.) Attitudes relating to the process of German unification: attitudetowards the demand for increased willingness to make sacrifices in theWest and more patience in the East; unification is advantageous, forEast and West respectively; future of the East depends on thewillingness of eastern Germans to make an effort; strangeness ofcitizens in the other part of Germany; performance pressure in the newstates; attitude towards dealing with the Stasi-past of individuals;evaluation of socialism as an idea.
+4.) Social inequality and the welfare state: fair share in standard ofliving; self-assessment of social class and classification on atop-bottom-scale; evaluation of personal occupational success,comparison with father´s position and personal occupationalexpectations for the future; perceived strength of conflicts betweensocial groups; attitudes towards the German economic system andevaluation of policies supporting the welfare state; evaluation ofequal educational opportunities for everyone; prerequisites for socialsuccess; income differences as incentive to achieve; acceptance ofsocial differences; evaluation of personal social security; attitudestowards expansion or cuts in social services; attitudes towards cuts inthe defense budget; perceived stance of the federal government in thesematters.
+5.) Confidence in public institutions and organizations: healthservice, federal constitutional court, federal parliament, localgovernment, German armed forces, churches, judiciary, television,newspapers, universities, federal government, trade unions, police,political parties, employment offices, retirement insurance, employers´association, the European Commission, the European Parliament, theEuropean Court of Justice.
+6.) National pride: pride in German institutions and Germanachievements; pride in being a German.
+7.) Ethnocentrism and Minorities: attitude towards the influx ofeastern European ethnic Germans, asylum seekers, labor from EU ornon-EU countries; perceived consequences of presence of foreigners inGermany; treatment of foreigners by the administration; ranking interms of importance of different citizenship requirements; scale of attitudes towards foreigners and contacts with foreigners (split:guest-workers) within the family, at work, in the neighborhood, or among friends; opinion on dual citizenship and on equal rights for foreigners; perceived strength of conflict between guest workers and German citizens; support for the teaching of Islam in public schools; estimation of proportion of foreigners in East and West Germany and in the neighborhood where respondent lives; perceived differences in lifestyle; indicators for social distance to ethnic minorities and foreigners; items on anti-Semitism; perception and evaluation of discriminatory behavior towards foreigners.
+8.) Attachment to various political entities: attachment to one´s ownmunicipality, the federal state, the old Federal Republic or the GDR,unified Germany and the EU.
+9.) Attitudes towards marriage, family, and partnership: family as aprerequisite for happiness; marriage in case of steady partnership orif child was born; ideal number of children; attitude towardsemployment of women and mothers; importance of educational goals; mostimportant educational goals in school; classification of the importanceof certain educational aspirations for a child; desired characteristicsof children; authoritarianism; importance of the family.
+10.) Attitudes towards abortion: abortion because of health risks formother or child; abortion after rape, due to financial situation or bysingle women not wanting to marry; permitting abortion withoutrestriction.
+11.) Questions on AIDS (HIV): knowledge of the disease AIDS; perceivedreports in the media; attitudes towards higher health insurance feesfor AIDS-infected people; attitudes towards dismissal of AIDS-infectedemployees and towards entry refusal for AIDS-infected foreigners;attitude towards mandatory registration of HIV-infected individuals;worry about personal AIDS infection; personal protective measures andbehavioral changes; AIDS-infected people in one´s own circle offriends.
+12.) Importance of life aspects and job characteristics: family andchildren, occupation and work, free time and recreation, friends andacquaintances, kinship, religion and church, politics and public life,neighborhood; preferred job characteristics (security, income,responsibility, etc.).
+13.) Free time activities: reading books; reading magazines; listeningto records, CD´s, cassettes; watching videos; using the computer;surfing the internet; private further education; relaxing, being lazy;walking or hiking; yoga, meditation; going to restaurants; visitingfriends; visiting relatives; playing games; taking short trips;participating in politics; voluntary activities or honorary offices;attending church or religious events; indulging in art and music; do ityourself; active sport; attending sports events, going to the cinema,to pop concerts, jazz or dance events; classic culture (i.e. opera,classical concerts, theater, exhibitions). 
+14.) Use of media: frequency of watching television over the week;taste in television programs: shows and quiz shows, sports, movies,news broadcasts, political magazines, art and culture programs,traditional German ´Heimat´-films, detective films, action films,sitcom or entertainment series; frequency of reading a daily newspaperper week.
+15.) Religion and world view: belief in God,cosmology, and the meaning of life; self-assessment of religiousness;membership in a church; present and former denominational membership;funeral by church; marriage in church; baptism of children; frequencyof church attendance and prayer; interest in Christian programs in themedia.
+16.) Environment: perception of general environmental pollution andpersonally experienced environmental pollution.
+17.) Attitudes towards and contacts with the administration:evaluation of administration services and assessment of treatment bythe administration.
+18.) Anomia and fear of crime: general feeling of trust in ordinarypeople and in politicians; social pessimism and orientation towards thefuture (anomia); fear of crime; fear of unemployment or loss ofbusiness.
+19.) Deviant behavior and sanctions: opinion on various deviant actswith reference to their reprehensibility and the degree to which theydeserve persecution; respect of the law; probability of engaging invarious deviant acts in the future; self-reported deviant behavior;assessment of probability of being caught committing various crimes;lowering the crime rate through severer punishment; own victimization.
+20.) ALLBUS-Demography: Details about the respondent: month and yearof birth, age, gender, citizenship(s) (nationality), number ofcitizenships; original citizenship, place of residence (federal state,administrative district, size of municipality, BIK-type ofmunicipality, Boustedt-type of municipality) and length of residence;geographical origin; religious denomination, frequency of churchattendance; currently at school or university, school education,vocational training, possession of driver´s license, employment status,details about current and former occupation respectively, details aboutfirst occupation, industrial sector, fear of unemployment or loss ofbusiness, affiliation to public service, length of commute, supervisoryfunctions, date of termination of full- or part-time employment, lengthof employment, working hours per week (primary and secondary job), sizeof company, length of unemployment, gaps in occupational biography,desire for work, principal source of livelihood, respondent´s income,age when leaving parental home, migration to East or West Germany,interest in migrating to East or West Germany or to another EC country,length of residence (in the FRG, in this federal state, current placeof residence), country respondent lived in when young, type ofdwelling, self-description of place of residence, telephone, overallhealth, physical and psychological shape during the last four weeks,height and weight, marital status, marital biography, desire to havechildren.
+Details about respondent´s current spouse: citizenship(s), number ofcitizenships, original citizenship, age, religious denomination, schooleducation, vocational training, employment status, details aboutcurrent and former occupation respectively, affiliation to publicservice, date of termination of full- or part-time employment, lengthof unemployment, fear of unemployment or loss of business. Detailsabout respondent´s former spouse: age, religious denomination, schooleducation, vocational training, details about current and formeroccupation respectively. Details about respondent´s steady partner:citizenship(s), number of citizenships, original citizenship, age,common household, distribution of household chores, school education,vocational training, employment status, details about current andformer occupation respectively, affiliation to public service, fear ofunemployment or loss of business, date of termination of full- orpart-time employment. Details about respondent´s parents andgrandparents: country of origin, school education of father and mother,university education of father and mother, vocational training offather and mother, details about parents´ occupation. Description ofhousehold: size of household, household income, types of income inhousehold, number of persons older than 17 in household (reduced sizeof household), number of children. Details about household members:family relation to respondent, gender, month and year of birth, age,marital status, income, German citizenship. Details about children notliving in the household: number of children not living in thehousehold, sex, age. Respondent´s current memberships (DeutscherGewerkschaftsbund (DGB) &lt;German Confederation of Trade Unions&gt;,Deutsche Angestelltengewerkschaft (DAG) &lt;German Salaried Employees´Trade Union&gt;, Christlicher Gewerkschaftsbund (CGB) &lt;ChristianFederation of Trade Unions&gt;, Union Leitender Angestellter (ULA)&lt;Association of Executive Staff&gt;, Deutscher Beamtenbund (DBB) &lt;GermanCivil Service Federation&gt;, Deutscher Bauernverband &lt;German FarmersAssociation&gt;, trade association, Bundesverband der Deutschen Industrie(BDI) &lt;Federation of German Industries&gt;, association of a liberalprofession, other occupational association; choral society, sportsclub, leisure activity club, local citizens club or community club,other social association, association of German expellees or refugees,charitable association, religious/church organization, youth or studentorganization, political party, citizens´ initiative, other club orassociation); membership status of respondent in various clubs andorganizations; previous membership in a trade union. Friends andacquaintances (ego-centered networks), including information on:gender, age, kinship or type of relationship, school education,employment, occupational position, occupational group, voting behavior,current citizenship and country of origin, spatial distance betweenalter and ego, comparative economic situation; quality and quantity ofcontacts, mutual familiarity between friends or acquaintances.
+21.) Data on the interview (paradata): Date of interview; beginning and end ofinterview; length of interview; perceived attractiveness of respondentat beginning and end of interview; taken part in how many interviews;willingness to join panel; reachability of respondent; presence ofrespondent at home during the last few weekdays; willingness toparticipate; presence of other persons during interview; presence ofspouse, partner or children during interview; presence of otherrelatives during interview; interference of other persons in the courseof the interview; willingness to cooperate and reliability ofinformation from respondent; respondent followed interview on screen;frequency of private Internet use; willingness to participate in anon-line survey; number of attempts to contact the respondent; detailsabout respondent´s residential building and assessment of respondent´sneighborhood.
+Details about the interviewer: gender, age, school education ofinterviewer; identification number, length of experience as aninterviewer.
+22.) Added value: Body-Mass-Index; Inglehart-Index; familytypology, classification of private households (according to Porst andFunk); International Standard Classification of Occupations (ISCO 1968,1988); occupational prestige (according to Treiman); StandardInternational Occupational Prestige Scale (SIOPS, according toGanzeboom), International Socio-economic Index of Occupational Status(ISEI, according to Ganzeboom); magnitude prestige (according toWegener); occupational metaclassification (according to Pappi andTerwey); class position (according to Goldthorpe); weights.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>(until 1990: West Germany including West Berlin)</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>(bis 1990 nur alte Bundesländer einschließlich West-Berlin)</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Privathaushalte mit Personen, die zum Befragungszeitpunkt das 18.
+Lebensjahr vollendet hatten </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Private households with persons who were at least 18 years of age</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Disproportional geschichtete Zufallsauswahl; Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: 1980 bis 1992 und 1998 mehrstufig geschichtete Zufallsauswahl aus allen
+Privathaushalten mit Personen, die zum Befragungszeitpunkt das 18.
+Lebensjahr vollendet hatten (ADM-Stichprobendesign). 
+
+In den Erhebungsjahren 1994, 1996 und ab 2000 fand eine zweistufige,
+disproportional geschichtete Zufallsauswahl in Westdeutschland (incl.
+West-Berlin) und Ostdeutschland (incl. Ost-Berlin) aus allen in der
+Bundesrepublik Deutschland lebenden Personen statt, die zum
+Befragungszeitpunkt in Privathaushalten lebten und zu Beginn des
+Erhebungsjahres das 18. Lebensjahr vollendet hatten. In der ersten
+Auswahlstufe wurden Gemeinden in Westdeutschland und in Ostdeutschland
+mit einer Wahrscheinlichkeit proportional zur Zahl ihrer erwachsenen
+Einwohner ausgewählt, in der zweiten Auswahlstufe wurden Personen aus
+den Einwohnermeldekarteien zufällig gezogen. 
+
+Ab 1991 wurden auch ausländische Zielpersonen in die
+ALLBUS-Stichproben aufgenommen. Falls keine hinreichend guten
+Deutschkenntnisse vorlagen, zählen diese Zielpersonen zu den
+systematischen Ausfällen. </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Stratified: Disproportional; Probability: Multistage; Sampling Procedure Comment: Universe sampled: Federal Republic of Germany (until 1990: West Germany including West Berlin).
+Household samples: From 1980 to 1992 and in 1998, a multi-stage random sample of private households was conducted addressing all persons who were at least 18 years of age (ADM Sample Design).
+Samples of individuals: In 1994, 1996, and from 2000 a two-stage, disproportionate random sample was conducted in West Germany (including West Berlin) and East Germany (including East Berlin), comprising all persons living in private households who were at least 18 years old on 1 January of the year of the survey. In the first sample stage municipalities (Gemeinden) in western Germany and municipalities in eastern Germany were selected with a probability proportional to their number of adult residents; in the second sample stage individual persons were selected at random from the municipal registers of residents.
+As of 1991 the ALLBUS sample also includes foreigners living in Germany. Targeted individuals who did not have adequate knowledge of German to conduct the interview were treated as systematic unit non-responses.
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1980-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1980-02</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1982-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1982-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1984-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1984-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1986-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1986-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1988-04</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1988-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1990-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1990-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1991-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1991-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1992-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1992-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1994-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1994-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1996-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1996-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1998-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1998-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2000-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2000-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2002-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2002-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2004-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2004-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2006-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2006-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2008-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2008-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2010-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2010-11</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Trend/RepeatedCrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Klaus</firstName>
+				<middleName/>
+				<lastName>Allerbeck</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Frankfurt</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jutta</firstName>
+				<middleName/>
+				<lastName>Allmendinger</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität München</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hans-Jürgen</firstName>
+				<middleName/>
+				<lastName>Andreß</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Wilhelm</firstName>
+				<middleName/>
+				<lastName>Bürklin</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Potsdam</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Diekmann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ETH Zürich</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hubert</firstName>
+				<middleName/>
+				<lastName>Feger</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Freie Universität Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Detlef</firstName>
+				<middleName/>
+				<lastName>Fetchenhauer</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Johannes</firstName>
+				<middleName/>
+				<lastName>Huinink</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Marie Luise</firstName>
+				<middleName/>
+				<lastName>Kiefer</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Wien</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Steffen</firstName>
+				<middleName/>
+				<lastName>Kühnel</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Göttingen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>M. Rainer</firstName>
+				<middleName/>
+				<lastName>Lepsius</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Heidelberg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Stefan</firstName>
+				<middleName/>
+				<lastName>Liebig</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Karl Ulrich</firstName>
+				<middleName/>
+				<lastName>Mayer</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Max Planck Institut, Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heiner</firstName>
+				<middleName/>
+				<lastName>Meulemann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Walter</firstName>
+				<middleName/>
+				<lastName>Müller</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Karl Dieter</firstName>
+				<middleName/>
+				<lastName>Opp</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Leipzig</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Franz Urban</firstName>
+				<middleName/>
+				<lastName>Pappi</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Erwin K.</firstName>
+				<middleName/>
+				<lastName>Scheuch</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Rüdiger</firstName>
+				<middleName/>
+				<lastName>Schmitt-Beck</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heike</firstName>
+				<middleName/>
+				<lastName>Solga</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Göttingen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heike</firstName>
+				<middleName/>
+				<lastName>Trappe</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Rostock</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Michael</firstName>
+				<middleName/>
+				<lastName>Wagner</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Rolf</firstName>
+				<middleName/>
+				<lastName>Ziegler</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität München</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GETAS, Bremen (1980-84)
+GFM-GETAS (IPSOS), Hamburg (1988, 1998)
+INFAS, Bonn (1990, 2002)
+Infratest, Munich (1986, 1991, 1992, 1994, 1996, 2000)
+TNS Infratest, Munich (2004, 2006, 2008. 2010)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.FaceToFace.PAPI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.ComputerAssisted</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.Paper</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen (PAPI - Paper and
+Pencil Interviewing). 
+
+Ab Haupterhebung 2000 als CAPI - Computer Assisted Personal
+Interviewing, und Ergänzungen aus schriftlichen Zusatzbefragungen (drop
+off). </freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Personal interview with standardized questionnaire (PAPI – Paper and Pencil Interviewing; since 2000: CAPI – Computer Assisted Personal Interviewing), supplementary data from accompanying ISSP surveys (self-completion questionnaires, drop off).</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>54243</numberUnits>
+			<numberVariables>1569</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Der zusammengefasste Datensatz von ALLBUS-Erhebungen aus 18 Surveys
+umfasst alle im ALLBUS-Fragenprogramm enthaltenen Zeitreihen
+(wenigstens zwei Erhebungszeitpunkte). 
+
+Die besondere Relation von CAPI- und PAPI-Erhebung im Jahr 2000 wird
+in den Codebüchern und dem Methodenbericht zum ALLBUS 2000 näher
+erläutert. 
+
+Eine in der Demographie vereinfachte Version des
+Kumulationsdatensatzes (811 Variablen) ist ebenso wie die
+ALLBUS-Einzelstudien als ALLBUScompact zusätzlich vorhanden
+(Kumulation: Studien-Nr. 4575). 
+
+Eine ALLBUS-Bibliographie ist im GESIS-Webangebot online
+recherchierbar.
+
+Zusätzliche ALLBUS-Informationen sind erreichbar unter:
+http://www.gesis.org/fdzallbus http://www.gesis.org/allbus</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>This cumulative data set of 18 ALLBUS surveys contains all ALLBUS time
+series (i.e. all questions that have been surveyed at least two times).
+Notes on the special relation between the CAPI- and PAPI-surveys in
+2000 can be found in the respective codebooks and in the methodological
+reports for ALLBUS 2000.
+
+A second version of this data set (811 variables) with a shortened
+demography module is additionally available as Kumulierter
+ALLBUScompact 1980-2010 (Study No. 4575).
+
+Literature using ALLBUS-Data is documented in the ALLBUS-Bibliography.
+This bibliography can be searched online at the GESIS web presence.
+
+Additional dataservice information on ALLBUS is available at:
+http://www.gesis.org/rdcallbus http://www.gesis.org/en/allbus </text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.11379</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael 2000:
+ALLBUS: A German General Social Survey, in: Schmollers Jahrbuch 120: 151 - 158.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Koch, Achim; Wasmer, Martina 2004:
+Der ALLBUS als Instrument zur Untersuchung sozialen Wandels: Eine Zwischenbilanz nach 20 Jahren, 
+In: Schmitt-Beck, Rüdiger; Wasmer, Martina; Koch, Achim (Hg.), Sozialer und politischer Wandel in Deutschland: Analysen mit ALLBUS-Daten aus zwei Jahrzehnten. 
+Wiesbaden: VS Verlag für Sozialwissenschaften: 13 - 42.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael 2003:
+Zum aktuellen Wandel im Zugriff auf ALLBUS-Materialien und zur ALLBUS-Nutzung in Publikationen. 
+In: ZA-Information 53: 195 - 202.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael; Baumann, Horst; Blohm, Michael 2011:
+Forschungsdatenzentrum ALLBUS Jahresbericht 2010, Berichtszeitraum 01.01.2010-31.12.2010. GESIS Technical Reports 2011/03. 
+Bonn: GESIS - Leibniz-Institut für Sozialwissenschaften.
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Bens, Arno 2006:
+Zur Auswertung haushaltsbezogener Merkmale mit dem ALLBUS 2004.
+In: ZA-Information 59: 143 - 156.
+</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

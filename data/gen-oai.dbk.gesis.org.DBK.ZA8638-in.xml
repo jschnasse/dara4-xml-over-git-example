@@ -1,0 +1,191 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'International Migration Statistics 1846-1924'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Internationale Migrations-Statistik 1846-1924'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA8638</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Internationale Migrations-Statistik 1846-1924</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>International Migration Statistics 1846-1924</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Imre</firstName>
+				<middleName/>
+				<lastName>Ferenczi</lastName>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Walter F.</firstName>
+				<middleName/>
+				<lastName>Willcox</lastName>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA8638?doi=10.4232/1.12817</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12817</doiProposal>
+	<publicationDate>
+		<date>2017-06-28</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA8638</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT76</identifier>
+					<!-- Daten Historischer Studien -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>GESCHICHTE</term>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>HISTORY</term>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Das vorliegende Datenhandbuch soll der Forschung zu den Aspekten internationaler Migration das adäquate Datenmaterial an die Hand geben. Anregung für diese Datensammlung wurde 1924 durch das Komitee zu den wissenschaftlichen Aspekten menschlicher Wanderung des Social Science Research Council gegeben. Die Durchführung der statistischen Studie wurde dem National Bureau of Economic Research (NBER) in New York (Prof. Dr. Willcox) anvertraut, welches unterstützt wurde von der Abteilung Migration des International Labour Office (ILO bzw. Internationale Arbeitsorganisation (IAO), Prof. Dr. Ferenczi) in Genf (Schweiz). Das vorliegende Datenhandbuch geht über die Zusammenstellung bekannter, vorliegender Statistiken der einzelnen Länder hinaus. Viele Materialien wurden neben den schon publizierten öffentlichen Statistiken in den Archiven zusätzlich gesichtet und aufbereitet. 
+Die Forscher sammelten nationale Statistiken und stellten sie in internationalen Tabellen zusammen, soweit es die Datenlage erlaubte. Die besondere Herausforderung dieser Arbeit lag in der Tatsache, dass die Unvollständigkeit der nationalen Migrationsstatistiken steigt, je weiter die Daten in die Vergangenheit zurückreichen. Für jedes Land wurde die Anzahl der Auswanderer nach dem von ihnen angegebenen Zielland bzw. Einwanderungsland erhoben. Weiterhin wurden im Gegenzug für jedes Land die Einwanderer nach dem Land ihrer Abfahrt erfasst. Damit sollte für jedes Land ein Überblick der dieses Land betreffenden Migrationsflüsse erstellt werden. Vor dem Hintergrund der Tatsache, dass viele Migrationsflüsse, je weiter sie in der Geschichte zurückreichen, insbesondere aus Afrika, Asien und Polynesien nicht freiwillig waren, wurde der Begriff der Emigration sehr weit gefasst. Auch Personen, die ihren neuen Wohnsitz in einem kolonialen Besitzteil ihres Landes wählten, wurden als Migranten gezählt, obwohl sie den Herrschaftsbereich ihres Landes nicht verlassen haben (z.B. der Umzug vom Deutschen Reich nach Deutsch-Südwestafrika (heute Namibia und ein Teil von Botswana) oder von Franzosen nach Algerien). Hier handelt es sich dann um aus- bzw. einwandernde Staatsbürger, da sie Bürger des jeweiligen Landes bleiben. Diese Migrationsbewegungen wurden auch nicht als internationale Migration gewertet, aber es ist eine inter-kontinentale Migration und damit vergleichbar mit der Migration von Engländern nach Kanada oder Australien. Daher wurden inter-kontinentale und internationale Migrationsbewegungen gleichermaßen erfasst.Interkontinentale Wanderungsbewegungen stellen den Schwerpunkt dieser Studie dar. Die kontinentale Wanderung innerhalb Europas und anderen Teilen der Welt wurde jedoch ebenfalls erfasst. Die kontinentale Wanderungsbewegung des 18. Jh. nach Ungarn, Galizien, Preußen und Russland ist besonders bedeutungsvoll, da sie in großem Umfang von den jeweiligen Landesherren organisiert wurden. In der 2. Hälfte des 19. Jh. folgte eine ebenso bedeutungsvolle Wanderungsbewegung innerhalb Europas und Asiens. 
+Das Material für die Statistiken wurde beschafft durch die Korrespondenz mit dem ILO und seinen Mitglieds-Staaten (Vereinte Nationen), durch die Zusammenarbeit mit den statistischen Ämtern der jeweiligen Länder und durch Sichtung der Archive.
+Die vorliegenden Tabellen enthalten die Zusammenstellung der internationalen Migrationsstatistik. Folgende Themen werden hier behandelt:
+A Interkontinentale Auswanderung nach Land der Auswanderung und Zielland (Auswanderungsstatistiken) von 1866 bis 1924.
+B Einwanderung nach Land des letzten Wohnsitzes oder nach Nationalität (Einwanderungsstatistiken) von 1821 bis 1924.
+C. Beschreibung der Migranten nach Alter und Geschlecht
+D. Beschreibung der Migranten nach Beruf (wirtschaftlicher Sektor der beruflichen Tätigkeit)
+E. Durchreise-Statistik von Migranten (Europäische Staaten)
+</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The present data handbook is intended to provide the adequate data material for research on the aspects of international migration. In 1924, the Committee on the Scientific Aspects of Human Migration of the Social Science Research Council gave a suggestion for this collection. The implementation of the statistical study was entrusted to the National Bureau of Economic Research (NBER) in New York (Prof. Dr. Willcox), which was supported by the Migration Department of the International Labor Office (ILO) Dr. Ferenczi) in Geneva, Switzerland. The data handbook of Ferenczi and Willcox goes beyond the compilation of known, available migration statistics of the individual countries. In addition to the published official statistics, many materials in various archives have been reviewed, assessed, and edited.
+The researchers collected national statistics with the aim of compiling them in international tables. The particular challenge of this work lay in the fact that the further the data goes back into the past, the incomplete nature of the national migration statistics increases. For each country, the number of emigrants was gathered according to the country of destination or country of immigration indicated by them. In addition, for each country the immigrants were recorded according to the country of their departure. This should provide an overview of the migration flows for each country.
+Intercontinental migration is the focus of this study. However, the continental migration within Europe and other parts of the world has also been gathered by the authors. The material for the statistics was obtained by correspondence with the ILO (International Labour Organization) and its member states (The United Nations,the cooperation with the statistical offices of the respective nations and by reviewing of materials in various archives.
+These tables of this study contain the compilation of international migration statistics.
+</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Europe: Germany, Austria, Hungary, Belgium, British Islands, Denmark, France, Netherlands, Norway, Sweden, Switzerland, Italy, Russia, Spain.
+
+America: United States, Mexico, Argenta, Uruguay, Cuba
+
+Asia: Philippines, British India, Japane
+
+Ozeanien: Australia, New Zealand
+</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Europa: Deutschland, Österreich, Ungarn, Belgien, Britische Inseln, Dänemark, Frankreich, Niederlande, Norwegen, Schweden, Schweiz, Italien, Russland, Spanien.
+
+Amerika: Vereinigte Staaten von Amerika, Mexiko, Argentinien, Uruguay, Kuba
+
+Asien: Philippinen, Britisch Indien, Japan
+
+Ozeanien: Australien, Neuseeland
+</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1846-01-01</date>
+				</startDate>
+				<endDate>
+					<date>1924-12-31</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<dataSets>
+		<dataSet>
+			<numberVariables>802</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Imre Ferenczi, Walter F. Willcox (1969), International Migrations. Volume I - Statistics. New York, Gordon and Breach Science Publishers.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

@@ -1,0 +1,213 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Voluntary Refugee Relief in Germany'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Ehrenamtliche Flüchtlingshelfer in Deutschland'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA6622</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Ehrenamtliche Flüchtlingshelfer in Deutschland</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Voluntary Refugee Relief in Germany</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Berlin</firstName>
+				<middleName/>
+				<lastName>Presse- und Informationsamt der Bundesregierung</lastName>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6622?doi=10.4232/1.12751</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12751</doiProposal>
+	<publicationDate>
+		<date>2017-03-31</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6622</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT14</identifier>
+					<!-- Politische Fragen (Issues) -->
+					<identifier>KAT38</identifier>
+					<!-- Beruf -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Beschreibung des eigenen ehrenamtlichen Engagements für Flüchtlinge. Erfahrungen und Bewertung des Engagements. Bewertung der Situation der Flüchtlinge. Erwartungen an die Politik. 
+1. Beschreibung des eigenen Engagements: Art des allgemeinen ehrenamtlichen Engagements für Flüchtlinge in den letzten 12 Monaten; Häufigkeit des ehrenamtlichen Engagements für Flüchtlinge vor Ort; Dauer des regelmäßigen Engagements; Dauer und Häufigkeit des Engagements für Flüchtlinge in der Vergangenheit von Befragten, die sich derzeit nicht engagieren; geplante Änderung des zeitlichen Umfangs des Engagements; derzeitiges bzw. früheres zusätzliches ehrenamtliches Engagement in einem anderen Bereich; ehrenamtliche Arbeit für Flüchtlinge als Grund für die Beendigung des früheren Engagements in einem anderen Bereich; ausschlaggebende Initiative für das Engagement: Eigeninitiatvie oder auf Initiative von Familienmitgliedern, Freunden, Kollegen bzw. eines Vereins, einer Organisation oder eines Unternehmens; Anlass zum Engagement für Flüchtlinge; Fragen zur Organisation der ehrenamtlichen Tätigkeit; spezielle Qualifikationen erforderlich; Motive für persönliches Engagement für Flüchtlinge; konkrete Tätigkeiten als Flüchtlingshelfer in den Bereichen Grundbedürfnisse bzw. praktische Unterstützung, Information, Beratung, Behörden, Integration, Beschäftigung, Freizeitaktivitäten, Organisation bzw. Koordination von Helfern. 
+2. Erfahrungen und Bewertung des Engagements: Wahrnehmung und Beurteilung des eigenen Engagements; Ursachen für negativ empfundenes Engagement bzw. Gründe für positive Bewertung des Engagements (offene Frage); Konflikterfahrungen; Gründe für die erlebten Konflikte; Motive für die Beendigung bzw. die geplante Reduzierung des Engagements; empfundene Belastungen im Zusammenhang mit dem ehrenamtlichen Engagement; Aussagen im Zusammenhang mit dem Engagement (u. a. Reaktionen im privaten Umfeld, häufige Überforderung); Mängel in der Flüchtlingshilfe; Erwartungen an die Politik: Beurteilung der Zusammenarbeit von freiwilligen Flüchtlingshelfern mit Ämtern und Behörden und mit etablierten Hilfsorganisationen; Meinung zu ehrenamtlicher Flüchtlingshilfe und Politik (zu wenig Zeit für Hilfe aufgrund des hohen Zeitaufwands für Bürokratie, Engagement wird ausreichend von der Politik gewürdigt, hoffnungslose Überforderung des Staates ohne freiwillige Helfer, Hilfe geht an den Bedürfnissen der Betroffenen vorbei, Selbstständigkeit der Flüchtlinge im Alltag sollte gestärkt werden, Fehlen einer zentralen staatlichen Stelle zur Koordinierung der verschiedenen Aktivitäten, Politik sollte Weiterbildungsmöglichkeiten für ehrenamtliche Flüchtlingshelfer anbieten, Politik sollte mehr Informationen und bessere Beratung über Gelegenheiten zu ehrenamtlichem Engagement für Flüchtlinge bereitstellen). 
+3. Bewertung der Situation der Flüchtlinge: Mängel in den Lebensumständen der Flüchtlinge (z.B. sinnvolle Beschäftigung, Freizeitmöglichkeiten, Deutschkurse, etc.); Beurteilung von Sorgen der Flüchtlinge; Integration, Zusammenleben von Deutschen und Flüchtlingen: Einschätzung der Chancen zur Integration der in den letzten 12 Monaten nach Deutschland gekommenen Flüchtlinge; Bewertung der Integrationsbereitschaft dieser Flüchtlinge; Wahrnehmung und Beurteilung kultureller Unterschiede; Bewertung der Flüchtlingssituation in Deutschland insgesamt hinsichtlich Aufnahmekapazitäten, Zufriedenheit mit der Asyl- und Flüchtlingspolitik von Bundeskanzlerin Angela Merkel, verpflichtende Integrationsmaßnahmen vs. freiwillige Integrationsbereitschaft. 
+Demographie: Geschlecht; Alter; Bildungsabschluss; Zufriedenheit mit der finanziellen Situation; Lebenszufriedenheit; Politikinteresse; Parteisympathie; Erwerbsstatus; berufliche Stellung; Migrationshintergrund; Anteil der Personen mit Migrationshintergrund im Freundeskreis; Religionszugehörigkeit; Haushaltsnettoeinkommen (gruppiert); Haushaltsgröße und Haushaltszusammensetzung.
+Zusätzlich verkodet wurde: Intervienummer; Bundesland; Region (Deutschland West/Ost); Ortsgröße (BIK und politsche Ortsgröße); Gewichtungsfaktor.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Description of own voluntary commitment to refugees. Experiences and evaluation of the commitment. Assessment of the situation of the refugees. Expectations towards refugee policy.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Ehrenamtliche Flüchtlingshelfer in Deutschland</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Voluntary refugee helpers in Germany</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Nicht-Wahrscheinlichkeitsauswahl: Quotenstichprobe
+
+(quotiert nach Alter, Geschlecht, Bildung und Region)</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Non-probability Sample: Quota Sample 
+
+(allocated by quota: age, sex, education and region)</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2016-06-14</date>
+				</startDate>
+				<endDate>
+					<date>2016-07-12</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest Politikforschung, Berlin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Persönliches Interview: CAPI (Computerunterstützte persönliche Befragung)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Face-to-face interview: CAPI (Computer Assisted Personal Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>208</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie wurde im Auftrag des Bundespresseamtes durchgeführt.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The study was conducted on behalf of the Federal Press Office.</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Infratest Sozialforschung: 
+Ehrenamtliche Flüchtlingshelfer in Deutschland: Eine Studie von TNS Infratest Politikforschung im Auftrag des Presse- und Informationsamtes der Bundesregierung (BPA).  
+Berlin: TNS Infratest Sozialforschung, Bericht, August 2016</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

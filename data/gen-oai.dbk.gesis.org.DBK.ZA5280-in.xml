@@ -1,0 +1,331 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'ALLBUS/GGSS 2021 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/German General Social Survey 2021)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2021'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA5280</identifier>
+		<currentVersion>2.0.1</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 2021</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>ALLBUS/GGSS 2021 (Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/German General Social Survey 2021)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>GESIS - Leibniz-Institut für Sozialwissenschaften</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5280?doi=10.4232/1.14238</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.14238</doiProposal>
+	<publicationDate>
+		<date>2023-12-13</date>
+	</publicationDate>
+	<publicationPlace>Cologne, Germany</publicationPlace>
+	<publisher>
+		<institution>
+			<institutionName>GESIS</institutionName>
+		</institution>
+	</publisher>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5280</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>ALLBUS</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Allgemeine Bevölkerungsumfrage der Sozialwissenschaften (ALLBUS) ist eine Trenderhebung, in der seit 1980 alle zwei Jahre eine Zufallsstichprobe der deutschen Bevölkerung befragt wird. Das primäre Ziel des Umfrageprogramms ist die Beobachtung von Einstellungen, Verhalten und sozialen Wandel in Deutschland. Jede ALLBUS-Querschnittserhebung besteht aus ein oder zwei Schwerpunktmodulen zu wechselnden Themen. Diese werden ergänzt durch weitere inhaltliche Fragen und ein Kernmodul mit detaillierten demografischen Informationen. Zudem werden Zusatzinformation zum Interview und den Interviewern bereitgestellt. Die Schwerpunktmodule folgen in der Regel einem 10-jährigen Replikationszyklus, viele Einzelindikatoren und Itembatterien werden aber auch in kürzeren Abständen repliziert.
+Das Schwerpunktmodul von ALLBUS 2021 befasst sich mit abweichendem Verhalten und Sanktionen. Weiterer Schwerpunkt der Erhebung war die Replikation von Fragen aus einem breiten Themenspektrum. Repliziert wurden u.a. Fragen zu Politik, sozialer Ungleichheit, Geschlechterrollen, Mediennutzung und Gesundheit. 
+ALLBUS 2021 wurde erstmals in einem selbstadministrierten Mixed-Mode Design durchgeführt (MAIL (postalischer Selbstausfüller) und CAWI (Computer-Assisted Web Interview)).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>1.) Mediennutzung:Dauer und Häufigkeit der Fernsehnutzung, Nutzungshäufigkeit von Nachrichtensendungen privater und öffentlich-rechtlicher Fernsehanbieter, Häufigkeit der Lektüre von Tageszeitungen pro Woche, Häufigkeit der Lektüre von Büchern / eBooks, Internetnutzung: Häufigkeit und Geräte, Häufigkeit der Nutzung sozialer Medien für Nachrichten und Politik, Glaubwürdigkeit verschiedener Informationsquellen beim Thema Kriminalität und öffentliche Sicherheit.
+2.) Soziale Ungleichheit: Subjektive Schichteinstufung, gerechter Anteil am Lebensstandard, Zugangschancenungleichheit Bildung, Einstellungen zur sozialen Ungleichheit und zum Wohlfahrtsstaat.
+3.) Ethnozentrismus und Minoritäten: Einstellungen zum Zuzug verschiedener Personengruppen, Einstellungen zu Ausländern, Kontakte zu Ausländern, antisemitische Vorurteile und Stereotype, Islamophobie, wahrgenommene Risiken und Chancen durch Flüchtlinge.
+4.) Familie und Geschlechterrollen: Einstellung zur Erwerbstätigkeit von Vätern und Müttern, Arbeitsteilung mit Partner (Haushalt, Kinder), Erziehungsziele.
+5.) Wertorientierungen: Arbeitsorientierungen, Einstellung zu Schwangerschaftsabbruch, Postmaterialismus (Wichtigkeit von Ruhe und Ordnung, Bürgereinfluss, Inflationsbekämpfung und freier Meinungsäußerung).
+6.) Politische Einstellungen: Stolz, ein Deutscher zu sein; Vertrauen in öffentliche Einrichtungen und Organisationen: (Gesundheitswesen, Bundesverfassungsgericht, Bundestag, Stadt- und Gemeindeverwaltung, Kirchen, Justiz, Fernsehen, Zeitungswesen, Universitäten, Bundesregierung, Polizei, Parteien, Europäische Kommission, Europäisches Parlament); Verbundenheit mit Gemeinde, Bundesrepublik, EU; Steuersenkung oder Sozialleistungen, Einstellung zur Ausweitung oder Kürzung von Sozialleistungen, perzipierte Stärke von Konflikten zwischen gesellschaftlichen Gruppen, politisches Interesse, Selbsteinstufung auf einem Links-Rechts-Kontinuum, Zufriedenheit mit der Demokratie in Deutschland, Wahlabsicht (Sonntagsfrage).
+7.) Abweichendes Verhalten und Sanktionen: Beurteilung der Strafpraxis von Gerichten, Kriminalitätsentwicklung, moralische Bewertung von Verhaltensweisen, deliktspezifisches Sanktionsbedürfnis (Punitivität), Wunsch nach gesetzlichem Verbot (verhaltensspezifisch), Einstellung zur Todesstrafe, selbstberichtete Delinquenz (Vergangenheit, Zukunft), wahrgenommene Entdeckungswahrscheinlichkeit, Viktimisierung (Diebstahl, Straftat), Norm Gesetzstreue, Senkung von Kriminalität durch harte Strafen (Abschreckung), Strafzwecke, Selbstkontrolle (Grasmick), Kriminalitätsfurcht, Sicherheitsgefühl in Wohnumgebung.
+8.) Gesundheit: Subjektive Einschätzung des Gesundheitszustands, gesundheitliche Einschränkungen letzte 4 Wochen, Pandemien und Rechte des Staates.
+9.) Religion: Religiöse Selbsteinstufung, Konfession, Häufigkeit Kirchgang / Besuch Gotteshaus.
+10.) Sonstiges: Beurteilung der derzeitigen und zukünftigen Wirtschaftslage in Deutschland, Beurteilung der eigenen derzeitigen und zukünftigen wirtschaftlichen Situation, sozialer Pessimismus und Zukunftsorientierung (Anomia), interpersonales Vertrauen, subjektive Lebenszufriedenheit.
+11.) ALLBUS-Demographie: Angaben zur befragten Person: Geburtsmonat, Geburtsjahr, Alter, Geschlecht, Familienstand, Staatsbürgerschaft (Nationalität), Anzahl der Staatsbürgerschaften, Herkunft, allgemeiner Schulabschluss, berufliche Ausbildung, Erwerbsstatus, Angaben zum gegenwärtigen bzw. früheren Beruf, Zugehörigkeit zum öffentlichen Dienst, wöchentliche Arbeitsdauer (Haupt- und Nebenerwerb), berufliche Aufsichtsfunktion, Furcht vor Verlust des Arbeitsplatzes, Dauer von Arbeitslosigkeit, Status der Nichterwerbstätigkeit, Zeitpunkt der Aufgabe hauptberuflicher Erwerbstätigkeit, jetzige oder frühere Gewerkschaftsmitgliedschaft, Mitgliedschaft in einer politischen Partei, monatliches Nettoeinkommen.Wohnort (Bundesland, politische Gemeindegröße, BIK-Stadtregion), Wohndauer in Deutschland, Wohndauer am Wohnort, Wohnstatus, Entfernung zum vorherigen Wohnort, Mobilitätsbereitschaft.
+Angaben zum Ehepartner: Geburtsmonat, Geburtsjahr, Alter, allgemeiner Schulabschluss, berufliche Ausbildung, Erwerbstätigkeit (incl. Nichterwerbsstatus), Angaben zum gegenwärtigen Beruf, Zugehörigkeit zum öffentlichen Dienst.
+Angaben zum nichtehelichen Lebenspartner: Geburtsmonat, Geburtsjahr, Alter, allgemeiner Schulabschluss, berufliche Ausbildung, Erwerbstätigkeit (incl. Nichterwerbsstatus), Angaben zum gegenwärtigen Beruf, Zugehörigkeit zum öffentlichen Dienst, gemeinsamer Haushalt mit befragter Person.
+Angaben zu den Eltern: Herkunftsland, Zusammenleben mit Eltern im Alter von 15 Jahren, allgemeiner Schulabschluss, berufliche Ausbildung, Angaben zum Beruf.
+Haushaltsbeschreibung: Haushaltsgröße, Haushaltseinkommen, Anzahl von über 17-jährigen Haushaltspersonen (reduzierte Haushaltsgröße).
+Angaben zu den einzelnen Haushaltspersonen (Haushaltsliste): Verwandtschaftsverhältnis zur befragten Person, Geschlecht, Geburtsmonat, Geburtsjahr, Alter, Familienstand.
+Angaben zu Kindern außerhalb des Haushalts: Zahl der Kinder außer Haus, Geschlecht, Geburtsjahr, Alter.
+12.) Daten zum Interview (Paradaten): Studiennummer, Digital Object Identifier, Release, Identifikationsnummer des Befragten, Nummer des Samplepoints, Erhebungsmodus ALLBUS-Hauptbefragung, Zahl der Kontaktversuche, Anteil beantworteter Fragen, Datum Interviewbeginn und –ende, Interviewdauer, Anwesenheit weiterer Personen während des Interviews, Eingriff anderer Personen in die Beantwortung des Fragebogens, Unterbrechung der Bearbeitung des Fragebogens.
+13.) Ergänzungen und abgeleitete Variablen: Postmaterialismus-Index (nach Inglehart), Berufsvercodung gemäß ISCO (International Standard Classification of Occupations) 1988 und 2008, SIOPS (nach Ganzeboom), ISEI (nach Ganzeboom), Sozioökonomische Gruppe (ESeG), ISCED (International Standard Classification of Education) 1997 und 2011, Lebensformen und Familiensituation, Transformationsgewicht für Auswertungen auf Haushaltsebene, Ost-West-Gewicht für gesamtdeutsche Auswertungen.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>ALLBUS (GGSS - the German General Social Survey) is a biennial trend survey based on random samples of the German population. Established in 1980, its mission is to monitor attitudes, behavior, and social change in Germany. Each ALLBUS cross-sectional survey consists of one or two main question modules covering changing topics, a range of supplementary questions and a core module providing detailed demographic information. Additionally, data on the interview and the interviewers are provided as well. Key topics generally follow a 10-year replication cycle, many individual indicators and item batteries are replicated at shorter intervals.
+The main question module of ALLBUS/GGSS 2021 focuses on deviant behavior and sanctions. Another focus of the survey was the replication of questions from a broad range of topics. This included questions on politics and political attitudes, social inequality, gender roles, media use, and health.
+In contrast to the previous surveys in the ALLBUS series, ALLBUS 2021 was conducted in a self-administered mixed-mode design (MAIL (postal self-completion) and CAWI (computer-assisted web interview)).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>1.) Use of media: Frequency and average total time of watching tv, frequency of watching news programs on public and commercial tv, frequency of reading a daily newspaper per week, frequency of reading books / e-books; internet use: frequency and type of device, frequency of using social media for political information, trustworthiness of different news sources with regard to crime and public safety.
+2.) Social Inequality: Self-assessment of social class, fair share in standard of living, assessment of access to education, attitudes towards social inequality and the welfare state.
+3.) Ethnocentrism and minorities: Attitude towards the influx of various groups of immigrants, attitudes towards the foreigners living in Germany, contacts with foreigners, antisemitic stereotypes and prejudices, attitudes towards Islam (Islamophobia), perceived risks and chances with respect to refugees.
+4.) Family and gender roles: Attitudes towards working fathers and mothers, division of labor regarding house and family work., importance of educational goals.
+5.) Values: Work orientations, attitudes towards legalizing abortion, materialism / postmaterialism (importance of law and order, fighting rising prices, free expression of opinions and influence on governmental decisions).
+6.) Political attitudes: Pride in being a German, confidence in public institutions and organizations (public health service, federal constitutional court, federal parliament (Bundestag), city or municipal administration, churches, judiciary, television, newspapers, universities, federal government, the police, political parties, European Commission, European Parliament); identification with own community, the Federal Republic of Germany and the EU, preference for lower taxes or more social spending, stance on extension or reduction in social services, perceived strength of conflicts between social groups, political interest, self-placement on left-right continuum, satisfaction with democracy in Germany, voting intention (Sonntagsfrage).
+7.) Deviant behavior and sanctions: Assessment of adequacy of court judgments, development of crime rate, moral assessment of deviant acts, crime-specific desire for sanctions (punitivity), desire to prohibit specific behaviors, attitude towards the death penalty, self-reported deviant behavior (past and future), perceived probability of being caught committing various crimes, own victimisation (theft, any crime), respect of the law (norm), deterring crime through punishment, purpose of punishment, self-control (Grasmick), fear of crime, feeling of safety in living environment.
+8.) Health: Self-assessment of overall health, physical and psychological shape during the last four weeks, acceptance of state powers to control epidemics.
+9.) Religion: Self-assessment of religiousness, denomination, frequency of church attendance / attending a house of God.
+10.) Other topics: Assessment of the present and future economic situation in Germany, assessment of present and future personal economic situation, social pessimism and orientation towards the future (anomia), interpersonal trust, reciprocity, authoritarianism, overall life satisfaction.
+11.) ALLBUS-Demography: Details about the respondent: month and year of birth, age, gender, marital status, citizenship (nationality), number of citizenships, geographical origin, school education, vocational training, employment status, details about current or former occupation, affiliation to public service, working hours per week (primary and secondary job), supervisory functions, fear of unemployment, length of unemployment, status of non-employment, date of termination of full-time employment, current or former membership in a trade union, membership in a political party, respondent´s income.	Place of residence (federal state, size of municipality, BIK-type of region), duration of residence (in Germany and at current place of residence), mobility.	
+Details about respondent´s current spouse: month and year of birth, age, school education, vocational training, employment status, details about current occupation, affiliation to public service, fear of unemployment, status of non-employment.	
+Details about respondent´s steady partner: month and year of birth, age, school education, vocational training, employment status, details about current occupation, affiliation to public service, fear of unemployment, status of non-employment, common household with respondent.	
+Details about respondent´s parents: country of origin, cohabitation with respondent as adolescent, school education of mother and father, vocational training of mother and father, details about both parents´ occupation.	
+Description of household: size of household, household income, number of persons older than 17 in household (reduced size of household).	
+Details about household members: family relation to respondent, gender, month and year of birth, age, marital status.	
+Details about children not living in the household: number of children not living in the household, gender, year of birth, age.
+12.) Data on the interview (paradata): Study number, digital object identifier, release, respondent id, ID of sample point, mode of data collection, number of contacts, percentage of questions completed, date of beginning and end of interview, duration of interview, presence of other persons during the interview, interference of other persons in the course of the interview, pauses during completion of survey.
+13.) Added value: Inglehart-Index, International Standard Classification of Occupations (ISCO) 1988 and 2008; Standard International Occupational Prestige Scale (SIOPS, according to Ganzeboom), International Socio-economic Index of Occupational Status (ISEI, according to Ganzeboom), European Socio-Economic Groups (ESeG), International Standard Classification of Education (ISCED) 1997 and 2011, forms of cohabitation and family situation, transformation weight for analyses on household level, east-west design weight.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen (Deutsche und Ausländer), die zum Befragungszeitpunkt in Privathaushalten lebten und vor dem 01.01.2003 geboren sind.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>All persons (German and non-German) who resided in private households and were born before 1 January 2003.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Disproportional geschichtete Zufallsauswahl; Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Zweistufige, disproportional geschichtete Zufallsauswahl in Westdeutschland (inkl. West-Berlin) und Ostdeutschland (inkl. Ost-Berlin). In der ersten Auswahlstufe wurden Gemeinden in Westdeutschland und in Ostdeutschland mit einer Wahrscheinlichkeit proportional zur Zahl ihrer erwachsenen Einwohner ausgewählt. In der zweiten Auswahlstufe wurden Personen aus den Einwohnermeldekarteien zufällig gezogen.
+Zielpersonen mit nicht hinreichend guten Deutschkenntnissen zählen zu den systematischen Ausfällen.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Stratified: Disproportional; Probability: Multistage; Sampling Procedure Comment: Two stage disproportionate random sample in western Germany (incl. West Berlin) and eastern Germany (incl. East Berlin). In the first sample stage municipalities (Gemeinden) in western Germany and municipalities in eastern Germany were selected with a probability proportional to their number of adult residents; in the second sample stage individual persons were selected at random from the municipal registers of residents.
+Targeted individuals who did not have adequate knowledge of German to conduct the interview were treated as systematic unit non-responses.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2021-06</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2021-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Bettina</firstName>
+				<middleName/>
+				<lastName>Westle</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Marburg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Katrin</firstName>
+				<middleName/>
+				<lastName>Auspurg</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>LMU München</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Christoph</firstName>
+				<middleName/>
+				<lastName>Bühler</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Hannover</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Hadjar</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Luxemburg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Steffen</firstName>
+				<middleName/>
+				<lastName>Hillmert</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Tübingen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Ulrich</firstName>
+				<middleName/>
+				<lastName>Rosar</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Düsseldorf</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Ulrich</firstName>
+				<middleName/>
+				<lastName>Wagner</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Marburg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Kantar Public, Munich</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.Paper</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.WebBased</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>ALLBUS 2021 wurde erstmals in einem selbstadministrierten Mixed-Mode Design durchgeführt (MAIL (postalischer Selbstausfüller) und CAWI (Computer-asisted Web Interview)). Unterschiedliche Erhebungsmodi werden von unterschiedlichen Teilpopulationen bevorzugt, so auch im ALLBUS 2021. Um diese Selbstselektion in die Erhebungsmodi zu berücksichtigen, wird bei inhaltlichen Analysen empfohlen die Fälle aus beiden Modi gemeinsam auszuwerten.</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>ALLBUS/GGSS 2021 was conducted as a mixed-mode survey. The target persons had the choice between the two modes MAIL and CAWI. Different survey modes are preferred by different subpopulations, as was the case in ALLBUS/GGSS 2021. To account for this self-selection, it is strongly recommended that the cases from both modes be analyzed together.</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>5342</numberUnits>
+			<numberVariables>544</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Befragte aus dem Bereich der neuen Bundesländer sind in den Daten überrepräsentiert (oversample). 
+
+Aufgrund der Coronapandemie wurde ALLBUS 2021 erstmals in einem selbstadministrierten Mixed-Mode Design durchgeführt. Hierbei kamen zwei Modes zum Einsatz: Die erste Variante war das Ausfüllen eines Papierfragebogens und dessen Rücksendung an das Erhebungsinstitut (Mode: MAIL). Die zweite Variante war das Ausfüllen eines online-Fragebogens (Computer-Assisted Web Interview, CAWI). Aufgrund des Modewechsel ist es möglich, dass Unterschiede zwischen dem ALLBUS 2021 und vorherigen Erhebungen sowohl auf zeitlichen Wandel als auch auf den Wechsel des Erhebungsmodus zurückzuführen sind. Deshalb sollten Nutzende, die Daten des ALLBUS 2021 für Analysen im Zeitvergleich verwenden, ihre Aussagen zu Ergebnissen im Zeitvergleich sorgfältig formulieren.
+
+Zusätzliche ALLBUS-Informationen sind erreichbar unter: http://www.gesis.org/allbus
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Respondents from the area of the new federal states are oversampled.
+
+Due to the Corona pandemic, ALLBUS/GGSS 2021 was conducted for the first time in a self-administered mixed-mode design. Respondents had the choice between filling in a paper questionnaire and mailing it back to the data collector (mode MAIL) or answering an online version of the same questionnaire (Computer-Assisted Web Interview, mode CAWI). Because of the mode change, differences between ALLBUS/GGSS 2021 and the data of previous surveys can be due to either temporal change or the change in survey mode. Therefore, users who use ALLBUS/GGSS 2021 data for time-comparison analyses should frame their statements about time-comparison results carefully.
+
+Additional information on ALLBUS is available at: http://www.gesis.org/en/allbus
+</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.14002</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.13954</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+</resource>

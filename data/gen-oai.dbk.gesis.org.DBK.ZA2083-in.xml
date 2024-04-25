@@ -1,0 +1,233 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Political and Social Change in Eastern Germany (Panel)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Politischer und sozialer Wandel in Ostdeutschland (Panel)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA2083</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Politischer und sozialer Wandel in Ostdeutschland (Panel)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Political and Social Change in Eastern Germany (Panel)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Ivan</firstName>
+				<middleName/>
+				<lastName>Samson</lastName>
+				<affiliation>
+					<affiliationName>CNRS, Grenoble</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Henri</firstName>
+				<middleName/>
+				<lastName>Rey</lastName>
+				<affiliation>
+					<affiliationName>CEVIEPOF, Paris</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Erwin K.</firstName>
+				<middleName/>
+				<lastName>Scheuch</lastName>
+				<affiliation>
+					<affiliationName>Universität zu Köln</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Günther</firstName>
+				<middleName/>
+				<lastName>Kapelle</lastName>
+				<affiliation>
+					<affiliationName>SIGMA-Intitut, Berlin
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2083?doi=10.4232/1.2083</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.2083</doiProposal>
+	<publicationDate>
+		<year>1992</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2083</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Religion und Werte</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Sozialsysteme und Strukturen der Sozialfürsorge</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Religion and values</term>
+					<term>Social conditions and indicators</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Social welfare systems/structures</term>
+					<term>Economic systems and development</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Unterschiede zwischen Ost- und Westdeutschland aus Sicht der Menschenin den neuen Bundesländern. Einstellung zu Ausländern. PolitischeEinstellungen und Parteienbeurteilung. Kumulierter Datensatz aus dreiPanelwellen.
+Themen: (in allen Wellen wurde gefragt:) Gefühl der Ortszugehörigkeit;persönliche Konsequenzen aus Unternehmensschließungen oder aus derSchaffung neuer Unternehmen im Zusammenhang mit der deutschenVereinigung; Einstellung zu Westdeutschen in wichtigen Positionen derWirtschaft und Politik; wichtigste Kriterien für die Festlegung vonLöhnen; Interesse an Übersiedlung in den Westen; Rolle des Staates inder Sozialen Marktwirtschaft in Ostdeutschland; Forderung nachAngleichung von Ost- und Westdeutschland; erwartete Dauer der Anpassung;akzeptable Höhe des Lohnunterschieds zwischen Ost- und Westdeutschland;Zeitraum für eine endgültige Anpassung der Löhne; Image ausgewählterLänder (Japan, Polen, Frankreich, Sowjetunion, Schweden, Ungarn, USA,Bulgarien, England, Tschechoslowakei); Einstellung zum europäischenBinnenmarkt; Selbsteinschätzung der Schichtzugehörigkeit auf einerStufenleiter in der ehemaligen DDR und derzeit; erwartete Entwicklungder wirtschaftlichen Situation in Deutschland; Vertrauen in ausgewählteInstitutionen: den Bundestag, die Bundesregierung, die Landesregierung,das Bundesverfassungsgericht, die Polizei, die Banken, das Fernsehen,die Unternehmerverbände, die Gewerkschaften, die Treuhandanstalt, dieevangelische Kirche und die katholische Kirche; Arbeitsplatzgefährdungheute und in naher Zukunft; erwartete Veränderung von Werten imvereinigten Deutschland (Familie, Freunde, ältere Menschen, Eigentum,Umwelt, Gleichberechtigung, Arbeit, soziale Sicherheit und Freiheit);Beurteilung der Abschaffung gewohnter staatlicher Leistungen aus derDDR-Zeit (Recht auf Arbeit und subventionierte Mieten); Ansichten über40 Jahre DDR; Einstellung zum Gastarbeiteranteil in Deutschland; Meinungdarüber, welche Ethnien zu zahlreich in Deutschland leben;Politikinteresse; Parteinähe; Parteineigung;
+Demographie in allen Wellen: Aufnahme einer neuen hauptberuflichenTätigkeit in einem Betrieb innerhalb des letzten Jahres; beruflichePosition; eigene Arbeitsplatzgefährdung.
+In mindestens einer der Wellen wurde darüber hinaus gefragt:Ausschlaggebender Grund für die Wahlentscheidung bei der Bundestagswahl;Beurteilung der Abschaffung gewohnter staatlicher Leistungen aus derDDR-Zeit (Schwangerschaftsabbruch, Betriebskinderkrippen undFreistellung der Mütter mit Kind); politische Vergangenheit oderfachliches Können als Kriterien für berufliche Fortentwicklung;Verwandte in Westdeutschland. Wichtigste Eigenschaften, um in dieserGesellschaft erfolgreich zu sein; Meinung zum Verlust von Arbeitsplätzenvieler Intellektueller der ehemaligen DDR; Koalitionspräferenz;Wahlverhalten bei der letzten Volkskammerwahl, sowie bei derLandtagswahl; Wahlabsicht bei der Bundestagswahl; wichtigstewirtschaftliche und politische Ziele, die der Staat in derBundesrepublik anstreben sollte; Zufriedenheit mit der wirtschaftlichenLage in der Familie; Veränderung der persönlichen sowie der allgemeinenwirtschaftlichen Lage seit der Vereinigung; erwartete Entwicklung derpersönlichen sowie der allgemeinen Lebensbedingungen in fünf Jahren;Meinung über Schwangerschaftsabbruch, Abschaffung der Todesstrafe,Homosexuelle, Schwangerschaftsverhütung bei jugendlichen Frauen,Frauenrolle sowie zur Eltern-Kind-Beziehung; Meinung über die derzeitigeBehandlung von Gastarbeitern in Deutschland; Einstellung zu Ausländernin Deutschland (Skala).
+Demographie in mindestens einer der Erhebungen:Verwandte in Westdeutschland; Geschlecht; Alter; Konfession;Familienstand; Schulabschluss; Qualifikationen; Anzahl derHaushaltsmitglieder sowie Anzahl der Personen über 18 Jahre; Ortsgrößesowie Bundesland.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>New Federal Laender incl. Berlin (East)</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Neue Bundesländer einschließlich Berlin(Ost)</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl 
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1990-11</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1992-01</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>USUMA, Berlin
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen.
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>354</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die ZA-Studien 2083 bis 2086 gehören zum gleichen Projekt.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

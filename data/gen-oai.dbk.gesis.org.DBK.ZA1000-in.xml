@@ -1,0 +1,459 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'ALLBUS/GGSS 1980 (Allgemeine Bevölkerungsumfrage der 
+Sozialwissenschaften/German General Social 
+Survey 1980)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1980
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA1000</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUS 1980
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>ALLBUS/GGSS 1980 (Allgemeine Bevölkerungsumfrage der 
+Sozialwissenschaften/German General Social 
+Survey 1980)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>GESIS - Leibniz-Institut für Sozialwissenschaften</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1000?doi=10.4232/1.1000</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1000</doiProposal>
+	<publicationDate>
+		<year>1996</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1000</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>ALLBUS</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>Familie und Ehe</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Social conditions and indicators</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>Family life and marriage</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Allgemeine Bevölkerungsumfrage der Sozialwissenschaften (ALLBUS) ist eine Trenderhebung, in der seit 1980 alle zwei Jahre eine Zufallsstichprobe der deutschen Bevölkerung befragt wird. Das primäre Ziel des Umfrageprogramms ist die Beobachtung von Einstellungen, Verhalten und sozialen Wandel in Deutschland. Jede ALLBUS-Querschnittserhebung besteht aus ein oder zwei Schwerpunktmodulen zu wechselnden Themen. Diese werden ergänzt durch weitere inhaltliche Fragen und ein Kernmodul mit detaillierten demografischen Informationen. Zudem werden Zusatzinformation zum Interview und den Interviewern bereitgestellt. Die Schwerpunktmodule folgen in der Regel einem 10-jährigen Replikationszyklus, viele Einzelindikatoren und Itembatterien werden aber auch in kürzeren Abständen repliziert. 
+Seit Mitte der 1980er Jahre werden zusammen mit ALLBUS auch regelmäßig ein oder zwei Module des ISSP (International Social Survey Programme) erhoben.
+Hauptaufgabe der ersten ALLBUS-Erhebung im Jahr 1980 war die Entwicklung eines Basisprogramms von Indikatoren zur Dauerbeobachtung von Einstellungen, Verhalten und gesellschaftlichem Wandel in Westdeutschland. Daher deckt die Umfrage ein breites Spektrum von Themen ab, das von Politik, Staat und Wirtschaft zu gesellschaftlichen Normen, individuellen Werten und sozialem Kapital reicht.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>1. Wichtigkeit von Lebensbereichen und Berufsaspekten: Familie undKinder, Beruf und Arbeit, Freizeit und Erholung, Freunde und Bekannte,Verwandtschaft, Religion und Kirche, Politik und öffentliches Leben;Präferenzen bei einer beruflichen Tätigkeit (Sicherheit, Einkommen,Verantwortung etc.).
+2. Einstellungen zu Ehe, Familie und Partnerschaft: Familie alsGlücksvoraussetzung; Heirat bei dauernder Partnerschaft; idealeKinderzahl; Wichtigkeit von Erziehungszielen.
+3. Einstellungen und Kontakte zu Behörden: Ausführliche Ermittlung vonBehördenkontakten; persönliche Erfahrungen mit Behörden und Beurteilungder Behandlung des Bürgers durch die Behörden; Einstellung zurPrivatisierung öffentlicher Dienste, zur Bürokratie und zumWohlfahrtsstaat.
+4. Wahrnehmung sozialer Konflikte: Perzipierte Stärke von Konfliktenoder Gegensätzen (Split) zwischen gesellschaftlichen Gruppen.
+5. Einstellungen und Kontakte zu Gastarbeitern: Einstellungsskala;Kontakte zu Gastarbeitern in der Familie, am Arbeitsplatz, in derNachbarschaft oder im Freundeskreis.
+6. Politische Einstellungen: Politisches Interesse; Postmaterialismus(Wichtigkeit von Ruhe und Ordnung, Bürgereinfluss, Inflationsbekämpfungund freier Meinungsäußerung); Einstellung zur Todesstrafe fürTerroristen; Einstellung zur Kernenergie; Wahlabsicht (Sonntagsfrage);Sympathie-Skala für die CDU, SPD, CSU, FDP, NPD, DKP und die Grünen;Selbsteinstufung auf einem Links-Rechts-Kontinuum.
+7. Sonstiges: Freunde und Bekannte (egozentrierte Netzwerke) mitAngaben über deren Verwandtschaft, Erwerbstätigkeit und beruflicheStellung sowie Wahlverhalten, gegenseitige Bekanntschaft; Einstellungzur Abtreibung; Selbsteinschätzung der sozialen Schichtzugehörigkeit;gerechter Anteil am Lebensstandard; Teile einer Skala zur Ermittlungsozial erwünschten Antwortens (SDS); Furcht vor Verlust desArbeitsplatzes bzw. der betrieblichen Existenz.
+8. ALLBUS-Demographie: Angaben zur befragten Person: Geschlecht;Geburtsjahr, Alter; Wohnort (Bundesland, politische Gemeindegröße,Boustedt-Gemeindetyp, Regierungsbezirk); Konfession,Kirchgangshäufigkeit; Wahlabsicht (Sonntagsfrage); allgemeinerSchulabschluss, berufliche Ausbildung, Schulbesuch; Erwerbsstatus;Angaben zum gegenwärtigen Beruf, Stellungsdauer, Zugehörigkeit zumöffentlichen Dienst, Branche, Betriebsgröße; Dauer von Arbeitslosigkeit;Angaben zum ehemaligen Beruf; Zeitpunkt der Aufgabe hauptberuflicherErwerbstätigkeit; Wunsch nach Arbeit; vorwiegender Lebensunterhalt,Befragteneinkommen; Familienstand; Ehebiographie.
+Angaben zum gegenwärtigen Ehepartner: Allgemeiner Schulabschluss,berufliche Ausbildung; Erwerbsstatus; Furcht vor Verlust desArbeitsplatzes; Dauer von Arbeitslosigkeit; Zeitpunkt der Aufgabehauptberuflicher Erwerbstätigkeit; Angaben zum gegenwärtigen bzw. zumehemaligen Beruf; Konfession. Angaben zum ehemaligen Ehepartner:Allgemeiner Schulabschluss, berufliche Ausbildung; Angaben zumgegenwärtigen bzw. zum ehemaligen Beruf; Konfession.
+Angaben zu den Eltern des Befragten: Allgemeiner Schulabschluss undBeruf des Vaters.
+Haushaltsbeschreibung: Haushaltsgröße, Anzahl von über 17-jährigenHaushaltspersonen (reduzierte Haushaltsgröße); Haushaltseinkommen; Zahlder Kinder; Wohnungstyp.
+Angaben zu den einzelnen Haushaltspersonen (Haushaltsliste):Verwandtschaft der Haushaltspersonen zum Befragten; Geschlecht derPersonen; Geburtsjahr, Alter; Familienstand; Einkommen; deutscheStaatsangehörigkeit der Haushaltspersonen.
+Angaben zum Alter von Kindern außerhalb des Haushalts; Geburts- undTodesjahr verstorbener Kinder.
+Gegenwärtige Mitgliedschaften des Befragten (DeutscherGewerkschaftsbund (DGB), Deutsche Angestelltengewerkschaft (DAG),Deutscher Beamtenbund (DBB), Bauernverband, Gewerbeverband,Bundesverband der Deutschen Industrie (BDI), sonstiger Berufsverband;Gesangverein, Sportverein, Hobby- Vereinigung, Heimat- oderBürgerverein, sonstige gesellige Vereinigung, Vertriebenen- oderFlüchtlingsverband, Wohlfahrtsverband, kirchlicher oder religiöserVerein, Jugend- oder Studentenorganisation, politische Partei,Bürgerinitiative, andere Vereine oder Verbände).
+9. Daten zum Interview (Paradaten): Anwesenheit anderer Personen und Bezeichnungdieser Personen; Eingriffe dieser Personen in das Interview;Kooperationsbereitschaft und Zuverlässigkeit des Befragten;Interviewdauer und Interviewdatum.
+10. Ergänzungen und abgeleitete Variablen: Berufsvercodung gemäß ISCO (InternationalStandard Classification of Occupations) 1968; Berufsprestige (nachTreiman).</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>ALLBUS (GGSS - the German General Social Survey) is a biennial trend survey based on random samples of the German population. Established in 1980, its mission is to monitor attitudes, behavior, and social change in Germany. Each ALLBUS cross-sectional survey consists of one or two main question modules covering changing topics, a range of supplementary questions and a core module providing detailed demographic information. Additionally, data on the interview and the interviewers are provided as well. Key topics generally follow a 10-year replication cycle, many individual indicators and item batteries are replicated at shorter intervals.
+Since the mid-1980ies ALLBUS also regularly hosts one or two modules of the ISSP (International Social Survey Programme).
+The main goal of the first ALLBUS/GGSS survey in 1980 was to develop a baseline of indicators for the purpose of monitoring attitudes, behavior, and societal change in West Germany. Therefore, the survey covers a wide spectrum of topics ranging from politics, government, and the economy to social norms, individual values, and social capital.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>1.) Importance of life aspects and job characteristics: family andchildren, work and occupation, free time and recreation, friends andacquaintances, kinship, religion and church, politics and public life;preferred job characteristics (security, income, responsibility, etc.).
+2.) Attitudes towards marriage, family, and partnership: family asprerequisite for happiness; marriage in case of steady partnership;ideal number of children; importance of educational goals.
+3.) Attitudes towards and contacts with the administration: detaileddetermination of contacts with the administration; personal experienceswith the administration and assessment of treatment by theadministration; attitudes towards privatization of public services,bureaucratization, and the welfare state.
+4.) Perception of social conflicts: perceived strength of conflicts orcontradictions (split) between social groups.
+5.) Attitudes towards and contacts with foreign guest-workers(Gastarbeiter): scale of attitudes towards foreigners; contacts withforeign guest-workers within the family, at work, in the neighborhood,or among friends.
+6.) Political attitudes: political interest; postmaterialism(importance of law and order, fighting rising prices, free expressionof opinions, and influence on governmental decisions); attitude towardsthe death penalty for terrorists; opinion on nuclear power; votingintention (Sonntagsfrage); party-sympathy-scales for the CDU, SPD, CSU,FDP, NPD, DKP, and the Greens (Die Grünen); self-placement on aleft-right continuum.
+7.) Other topics: friends and acquaintances (ego-centered networks),including information on kinship, occupational position, partypreference of and mutual familiarity between friends or acquaintances;attitudes towards abortion; self-assessment of social class; fair sharein standard of living; parts of a scale on the influence of socialdesirability on respondents (SDS), fear of unemployment or loss of ownbusiness.
+8.) ALLBUS-Demography: Details about the respondent: gender; year ofbirth, age; place of residence (federal state, size of municipality,Boustedt-type of municipality, administrative region); religiousdenomination, frequency of church attendance; voting intention(Sonntagsfrage); general education, vocational training, currently atschool or university; employment status; details about currentoccupation: length of employment, affiliation to public service,industrial sector, size of company; length of unemployment; detailsabout former occupation; date of termination of full- or part-timeemployment; desire for employment; principal source of livelihood;respondent´s income; marital status; marital biography. 
+Details about respondent´s current spouse: general education,vocational training; employment status; fear of unemployment or loss ofbusiness; length of unemployment; date of termination of full- orpart-time employment; details about current and former occupationrespectively; religious denomination.
+Details about respondent´s former spouse: general education,vocational training; details about current and former occupationrespectively; religious denomination.
+Details about respondent´s parents: general education and occupationof father.
+Composition of household: size of household, number of persons olderthan 17 in household (reduced household size); household income; numberof children; type of dwelling.
+Details about household members: relation to respondent; gender; yearof birth, age; marital status; income; German citizenship.
+Details about children not living in the household: age. Year of birthand year of death of deceased children.
+Respondent´s current memberships (Deutscher Gewerkschaftsbund (DGB,blue-collar union), Deutsche Angestelltengewerkschaft (DAG,white-collar union), Deutscher Beamtenbund (DBB, public service union),farmer´s association, trade association, Bundesverband der DeutschenIndustrie (BDI, association of German industry), other occupationalassociation; choral society, sports club, leisure activity club, localhistory or community club, other social association, association ofGerman expellees or refugees, charitable association, religious/churchorganization, youth or student organization, political party, citizens´action group, other club or association).
+9.) Data on the interview (paradata): presence of additional persons anddesignation of these persons; interferences of these persons in theinterview; willingness to cooperate and reliability of the respondent;length of interview, date of interview.
+10.) Added value: International Standard Classification ofOccupations (ISCO 1968); occupational prestige (according to Treiman).</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Federal Republic of Germany (including West Berlin)</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD einschl. West-Berlin </freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 18 Jahre und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Private households addressing all individuals with German citizenship
+who were at least 18 years of age by the day of the interview.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Haushaltsstichprobe: Mehrstufig geschichtete Zufallsauswahl
+(ADM-Mastersample) aus Privathaushalten. </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Household Sample: Multi-stage random sample (ADM-Mastersample)
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1980-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1980-02</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>M. Rainer</firstName>
+				<middleName/>
+				<lastName>Lepsius</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Erwin K.</firstName>
+				<middleName/>
+				<lastName>Scheuch</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Rolf</firstName>
+				<middleName/>
+				<lastName>Ziegler</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität München</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ZUMA, Mannheim</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GETAS, Bremen
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.PAPI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Personal interview with standardized questionnaire (PAPI - Paper and
+Pencil Interviewing)
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>2995</numberUnits>
+			<numberVariables>371</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Grundsätzlich wird der Datensatz 1980-86 (Studien-Nr. 1335) wegen der
+darin integrierten Zusätze und Datenüberarbeitungen als Update für
+Analysen der Einzelstudien 1980-84 empfohlen. Die Daten der
+Einzelstudie 1982 sind darin, bis auf nach dem update zu
+vernachlässigende Ausnahmen, enthalten.
+
+Neben der hier beschriebenen ´Hauptdatei´ existiert eine so genannte
+´Methodendatei´. Diese enthält neben den Kontaktprotokollen für die
+durchgeführten Interviews der Hauptdatei Angaben zu den
+Interviewermerkmalen und verschiedene Interviewereinstellungen zu
+Themen der durchgeführten Befragung. Es wurde zum Beispiel auch die
+Parteipräferenz des Interviewers und der Umfang der
+Interviewertätigkeit für das hier auftraggebende Institut GETAS sowie
+für alle anderen Institute ermittelt. Diese Datei enthält ca. 120
+Variablen und kann mit der Hauptdatei verknüpft werden. Eine in der
+Demographie vereinfachte Version des Datensatzes ist als ALLBUScompact
+1980 (ZA-Studien-Nr. 3704) zusätzlich vorhanden. </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Generally, it is recommended to use the cumulated data file 1980-86 (ZA
+No. 1335) for analyses of ALLBUS 1980. This cumulated data file
+contains virtually all of the data from 1980. In addition, the data has
+been updated in numerous details for the cumulation and has been
+augmented by new, derived variables.
+
+In addition to the regular file described here there is a
+supplementary file for methodological research. Apart from contact
+protocols for the interviews in the regular file, it contains
+information on interviewer characteristics and different interviewer
+attitudes towards topics measured in the survey. For instance, the
+party preference of the interviewer and the extent of the interviewer´s
+activity for the contracting institute, GETAS, as well as for all other
+institutes, were determined. This file contains about 120 variables and
+should be used in connection with the main file. A second version of
+this data set with a shortened demography module is available as
+ALLBUScompact 1980 (ZA No. 3704). </text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Braun, Michael; Mohler, Peter Ph.: 
+Die Allgemeine Bevölkerungsumfrage der Sozialwissenschaften (ALLBUS). Rückblick und Ausblick in die neunziger Jahre. 
+In: ZUMA-Nachrichten 29, 1991, S. 7-28. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael: 
+ALLBUS: Das Programm und Erweiterungen des bestehenden Angebots. 
+In: ZA-Information 42, 1998, S. 33-43. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael: 
+ALLBUS: A German General Social Survey. 
+Schmollers Jahrbuch 120, 2000, S. 151-158. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael: 
+Zum aktuellen Wandel im Zugriff auf ALLBUS-Materialien und zur ALLBUS-Nutzung in Publikationen. 
+In: ZA-Information 53, 2003, S. 195-202. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Veröffentlichungsreihe "Blickpunkt Gesellschaft": 
+Müller, Walter; Mohler, Peter Ph.; Erbslöh, Barbara; Wasmer, Martina (Hrsg.): 
+Blickpunkt Gesellschaft: Einstellungen und Verhalten der Bundesbürger. 
+Opladen: Westdeutscher Verlag 1990. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Mohler, Peter Ph.; Bandilla, Wolfgang (Hrsg.): 
+Blickpunkt Gesellschaft: 2. Einstellungen und Verhalten der Bundesbürger in Ost und West. 
+Opladen: Westdeutscher Verlag 1992. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Braun, Michael; Mohler, Peter Ph. (Hrsg.): 
+Blickpunkt Gesellschaft: 3. Einstellungen und Verhalten der Bundesbürger. 
+Opladen: Westdeutscher Verlag 1994. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Braun, Michael; Mohler, Peter Ph. (Hrsg.): 
+Blickpunkt Gesellschaft: 4. Soziale Ungleichheit in Deutschland. 
+Opladen: Westdeutscher Verlag 1998. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Alba, Richard; Schmidt, Peter; Wasmer, Martina (Hrsg.): 
+Blickpunkt Gesellschaft: 5. Deutsche und Ausländer: Freunde, Fremde oder Feinde? 
+Wiesbaden: Westdeutscher Verlag 2000. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Koch, Achim; Wasmer, Martina; Schmidt, Peter (Hrsg.): 
+Blickpunkt Gesellschaft: 6. Politische Partizipation in der Bundesrepublik Deutschland. Empirische Befunde und theoretische Erklärungen. 
+Opladen: Leske + Budrich 2001. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Alba, Richard; Schmidt, Peter; Wasmer, Martina (Hrsg.): 
+Germans or Foreigners? Attitudes Towards Ethnic Minorities in Post-Reunification Germany. 
+New York und Houndmills: Palgrave Macmillan 2003.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Mayer, Karl Urlich; Schmidt, Peter (Hrsg.):
+Allgemeine Bevölkerungsumfrage der Sozialwissenschaften.
+Frankfurt a.M. und New York: Campus 1984.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Porst, Rolf:
+Praxis der Umfrageforschung. Erhebung und Auswertung 
+sozialwissenschaftlicher Umfragedaten.
+Stuttgart: B.B. Teubner 1985.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

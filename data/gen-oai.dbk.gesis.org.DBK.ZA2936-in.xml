@@ -1,0 +1,810 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Eurobarometer 47.1 (Mar-Apr 1997)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Eurobarometer 47.1 (Mar-Apr 1997)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA2936</identifier>
+		<currentVersion>1.0.1</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Eurobarometer 47.1 (Mar-Apr 1997)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Eurobarometer 47.1 (Mar-Apr 1997)
+</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Images of Switzerland, Education Throughout Life, Racism, and Patterns of Family Planning and Work Status</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Images of Switzerland, Education Throughout Life, Racism, and Patterns of Family Planning and Work Status</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Standard Eurobarometer 47</titleName>
+			<titleType>AlternativeTitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Standard Eurobarometer 47</titleName>
+			<titleType>AlternativeTitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Europäische Kommission</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2936?doi=10.4232/1.10926</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.10926</doiProposal>
+	<publicationDate>
+		<date>2012-07-01</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2936</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>doi:10.3886/ICPSR02089.v1</identifier>
+			<type>DOI</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>1</identifier>
+			<type>VerbundFDB</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Berufliche Weiterbildung</term>
+					<term>Lebenslanges Lernen</term>
+					<term>Religion und Werte</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Minderheiten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employee training</term>
+					<term>Life-long/continuing education</term>
+					<term>Religion and values</term>
+					<term>Social behaviour and attitudes</term>
+					<term>International politics and organisations</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Minorities</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>politische Bildung</keyword>
+				<keyword>EU</keyword>
+				<keyword>Europapolitik</keyword>
+				<keyword>Weiterbildung</keyword>
+				<keyword>politische Einstellung</keyword>
+				<keyword>Rassismus</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>political education</keyword>
+				<keyword>EU</keyword>
+				<keyword>European Policy</keyword>
+				<keyword>further education</keyword>
+				<keyword>political attitude</keyword>
+				<keyword>racism</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellung zur EU. Fragen zur Fortbildung. Einstellung zuMinoritäten im Lande. Rassismus. Familienplanung und Beruf.
+Themen: 1. EU-Fragen: Nationalität (Mehrfachnennung möglich);Politikinteresse; eigene Meinungsführerschaft;Postmaterialismus; Umfang der Nachrichtennutzung in Rundfunk,Fernsehen und Zeitungen; Selbsteinstufung der Informiertheitüber die Regierung des Landes sowie über die EU;Informationsinteresse über die EU; präferierte Informationsartund Medien; Verfügbarkeit von neuen Informationstechnologien;Einstellung zur Mitgliedschaft des Landes in der EU undVorteilhaftigkeit der Mitgliedschaft für das eigene Land;Nationalbürger oder Europabürger; favorisierte Länder füreinen EU-Beitritt; Einstellung zur Schweiz und Image diesesLandes (Skala); Einstellung zum EURO, zu einer gemeinsameneuropäischen Sicherheits- und Außenpolitik und zum aktiven undpassiven kommunalen Wahlrecht von EU-Ausländern; Einstellungzu einer europäischen Zuständigkeit für Angelegenheiten, dieauf nationaler Ebene nicht gelöst werden können; Notwendigkeiteiner Mehrheit im europäischen Parlament für den Präsidentenund die Mitglieder der Europäischen Kommission; Einstellung zueiner Gleichberechtigung von europäischem Parlament undMinisterrat; Einstellung zu einer vermehrten Ausbildung vonSchülern über die europäischen Institutionen; Einstellung zueiner Subventionierung der europäischen Film- undFernsehproduktionen; präferierte Aufgabenteilung zwischen EUund Nationalstaat in ausgewählten politischen Bereichen.
+2. Fortbildung: Einstellung zum lebenslangen Lernen undGründe für Weiterbildung auch nach der Schule; präferierteFortbildungsmethode; wichtigste Gründe gegen eigeneWeiterbildung; Beurteilung der Verbesserung von Fortbildung impersönlichen wie auch im Berufsleben; eigene Beteiligung anFortbildungsmaßnahmen in den letzten 12 Monaten; Wunsch nachverstärktem Einsatz der EU bei Fortbildungsmaßnahmen;Notwendigkeit ständiger Fortbildung; wichtigsteInformationsquellen für Fortbildung; Einstellung zurInformationsgesellschaft und zu neuen Informationstechnologien(Skala); derzeitige Lebenszufriedenheit sowie erwartete undzurückliegende Lebenszufriedenheit vor fünf Jahren;Demokratiezufriedenheit; eigene Arbeitslosigkeit undArbeitslosigkeitserfahrung im Familien- und Bekanntenkreis.
+3. Minoritäten: Nationalstolz; Gefühl politischer Wirksamkeitbzw. Machtlosigkeit; empfundener Konflikt zwischen arm undreich; wichtigste politische Probleme; wichtigste nationalepolitische Ziele; Einstellung zur Demokratie; Wichtigkeit derMenschenrechte (Skala); Zugehörigkeit zu einer Minorität;Herkunft der Eltern oder Großeltern aus einer anderen Kultur,Religion, Rasse oder Nationalität; Akzeptanz von ethnischen,religiösen und kulturellen Minoritäten (Skala); Einschätzungdes Minoritätenanteils im Lande; eigene Freunde aus demBereich der Minoritäten; wichtigste Maßnahmen zur Verbesserungder Beziehungen zu Menschen anderer Rasse, Religion und Kulturim eigenen Land; Einstellung zur Assimilation und Integrationvon Minderheiten (Skala); Einstellung zu Immigranten ausNicht-EU-Ländern (Skala); Einstellung zum Recht auf Asyl undzum Nachzug von Kindern und Familienangehörigen; Vorteile desLandes durch die Anwesenheit von Einwanderern aus Nicht-EU-Ländern; präferierte Maßnahmen von EU-Institutionen gegenRassismus; Beurteilung des Erfolgs des ´Europäischen Jahresgegen den Rassismus 1997´ (Skala); empfundene Störungen durchMenschen anderer Rasse, Religion oder Kultur; soziale Nähe zuMinoritätengruppen (Bogardus-Skala); Akzeptanz vonpersönlichen Beziehungen und Hilfsbereitschaft gegenüberMinoritäten; Kontakte in der Nachbarschaft und am Arbeitsplatzzu Minoritäten; Vorurteile gegenüber Minoritäten (Skala);Zugeständnis von Freiheitsrechten, Demokratierechten undBürgerrechten an solche Minoritäten; Selbsteinstufung desRassismus (Skalometer).
+Präferierte Unterbringungsmöglichkeit für älterealleinstehende Personen; individuelle oder staatlicheVerantwortung für Senioren; Gesamtkinderzahl; ideales Alterfür Frauen beim ersten sowie für das letzte Kind; Vollzeit-oder Teilzeitbeschäftigung; getrennt lebend oder Zusammenlebenmit einem Partner; Beschäftigungssituation des Partners;Vorstellungen über eine ideale Arbeitsteilung zwischen Berufund Kindererziehung für den Befragten sowie für den Partner;präferierte staatliche Maßnahmen zur Verbesserung derSituation von Familien mit Kindern.
+In den Niederlanden wurde zusätzlich gefragt: Informiertheitüber die niederländische Präsidentschaft im Ministerrat undBedeutung dieser Präsidentschaft.
+An Personen über 55 Jahren wurde folgende Zusatzfragegestellt: Wichtigste Gründe für Weiterbildung im Rentenalter.
+Demographie: Nationalität; Selbsteinschätzung auf einemLinks-Rechts-Kontinuum; Parteipräferenz (Sonntagsfrage); Familienstand;Alter bei Ende der Ausbildung; Geschlecht; Alter; Anzahl der Personen imHaushalt; Anzahl der Kinder im Haushalt; Besitz ausgewählter langlebigerGüter von Personen im Haushalt (elektrische Geräte, zwei oder mehrAutos, zweite Wohnung oder Urlaubsresidenz); berufliche Position;Einschätzung des Risikos der eigenen Arbeitslosigkeit;Haushaltsvorstand; berufliche Position des Haushaltsvorstandes;Urbanisierungsgrad; Konfession, monatliches Haushaltseinkommen.
+Zusätzlich verkodet wurden: Interviewdatum und Interviewbeginn;Interviewdauer; Anzahl der beim Interview anwesenden Personen;Kooperationsbereitschaft des Befragten; Ortsgröße; Region; Intervieweridentifikation; Telefonbesitz.
+In Luxemburg, Belgien und Finnland: Interviewsprache.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Attitude to the EU. Questions on further education. Attitude tominorities in the country. Racism. Family planning and occupation.
+Topics: 1. EU questions: nationality (multiple response possible);interest in politics; personal opinion leadership; postmaterialism;extent of obtaining news from radio, television and newspapers;self-classification of extent to which informed about the government ofthe country as well as about the EU; interest in information about theEU; preferred type of information and media; availability of newinformation technologies; attitude to membership of the country in theEU and advantageousness of membership for one´s own country; nationalcitizen or European citizen; countries favored to join the EU; attitudeto Switzerland and image of this country (scale); attitude to the EURO,a common European security and foreign policy and active and passivemunicipal right of EU foreigners to vote; attitude to Europeanresponsibility for matters that cannot be solved at national level;necessity of a majority in the European Parliament for the presidentand the members of the European Commission; attitude to equal rightsfor European Parliament and council of ministers; attitude to increasededucation of schoolchildren by European institutions; attitude to asubsidy for European film and television productions; preferreddivision of tasks between EU and nation-state in selected politicalareas. 
+2. Further education: attitude to life-long learning and reasonsfor further education even after school; preferred further educationmethod; most important reasons against personal further education;judgement on improvement of further education in personal as well asprofessional life; personal participation in further education measuresin the last 12 months; desire for increased effort of the EU in furthereducation measures; necessity of continual further education; mostimportant sources of information for further education; attitude to theinformation society and new information technologies (scale); currentcontentment with life as well as expected and previous contentment withlife five years ago; satisfaction with democracy; personal unemploymentand unemployment experience in family and circle of friends. 
+3. Minorities: national pride; feeling of political effectiveness orpowerlessness; perceived conflict between poor and rich; most importantpolitical problems; most important national political goals; attitudeto democracy; importance of human rights (scale); belonging to aminority; origin of parents or grandparents from another culture,religion, race or nationality; acceptance of ethnic, religious andcultural minorities (scale); assessment of the proportion minorities inthe country; personal friends from the area of minorities; mostimportant measures to improve relations with people of another race,religion and culture in one´s country; attitude to assimilation andintegration of minorities (scale); attitude to immigrants from non-EUcountries (scale); attitude to the right to asylum and to havingchildren and family members come later; advantages for the country fromthe presence of immigrants from non-EU countries; preferred measures ofEU institutions against racism; judgement on the success of the´European year against racism 1997´ (scale); perceived disturbancesfrom people of another race, religion or culture; social proximity tominority groups (Bogardus scale); acceptance of personal relations andwillingness to help regarding minorities; contacts in neighborhood andat work with minorities; prejudices regarding minorities (scale);concession of civil rights and liberties, democratic rights and civilrights to such minorities; self-classification of racism (scale).Preferred accomodation opportunities for older persons living alone;individual or government responsibility for seniors; total number ofchildren; ideal age for women at first as well as last child; full-timeor part-time employment; living separately or living together with apartner; employment situation of partner; ideas about an ideal divisionof labor between occupation and raising children for respondent as wellas for partner; preferred governmental measures to improve thesituation of families with children. Self-assessment on a left-rightcontinuum. In the Netherlands the following additional questions wereposed: extent to which informed about the Dutch presidency in thecouncil of ministers and significance of this presidency. The followingadditional question was posed to persons over 55 years old: mostimportant reasons for further education in retirement age. 
+Also encoded were: date of interview; time of start of interview; length ofinterview; number of persons present during interview; willingness ofrespondent to cooperate; possession of a telephone. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-GBN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-NIR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FI</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 15 Jahre und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons 15 years old and older
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Repräsentative Auswahl </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Representative sample </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-03-26</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Belgium</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Belgien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-04-03</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-29</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Denmark</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Dänemark</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-03-27</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-03-26</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Greece</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Griechenland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-04-01</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Spain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Spanien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-03-27</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-22</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-03-27</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-28</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland (Republic)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland (Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-03-26</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-16</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-03-26</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-21</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Luxembourg</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Luxemburg</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-03-27</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-29</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Netherlands</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-03-27</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-03-26</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-03-30</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Northern Ireland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Nordirland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-03-26</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Austria</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Österreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-03-28</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-28</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Sweden</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweden</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1997-04-01</date>
+				</startDate>
+				<endDate>
+					<date>1997-04-25</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Finland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Finnland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>European Commission, Brussels;
+DG X -  Information Communication Culture
+Public Opinion Surveys and Research Unit</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Marketing Unit, Bruessel</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GFK Danmark, Kopenhagen</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA DEUTSCHLAND, Moelln</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>KEME, Athen</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>CIMEI, Madrid</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TMO, Paris</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Lansdowne Market Research, Dublin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Ulster Marketing Surveys, Nordirland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>PRAGMA, Rom</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ILRES, Luxemburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>NIPO, Amsterdam</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>METRIS, Lissabon</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>RAS-INRA UK, London</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TEMO, Solna, Schweden</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Marketing Development Center, Espoo, Finnland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SPECTRA, Linz, OEsterreich</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA EUROPE (Internationale Koordination), Bruessel</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>Distributor</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>HostingInstitution</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.PAPI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>16154</numberUnits>
+			<numberVariables>483</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Erhebungseinheit: Erwachsene; Jugendliche###
+Je Land wurden etwa 1000 Interviews durchgeführt, außer in
+Luxemburg (ca. 600 Befragte) und in Nordirland (ca. 300
+Befragte). In Deutschland wurden in Ost und West zwei
+getrennte Stichproben von je ca. 1000 Befragten erhoben.
+Unter der ZA-Studien-Nr. 3521 ist ein kumulierter Datensatz der
+Eurobarometer (1970-2002) mit ausgewählten Trendfragen archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Survey unit: adults; teenagers###
+In each country about 1000 interviews were conducted, except in
+Luxembourg (approx. 600 respondents) and in Northern Ireland (approx. 300
+respondents). In Germany in East and West two
+separate samples of approx. 1000 respondents each were surveyed.
+A cumulated data set with selected Eurobarometer trend questions since 1970
+is archived under ZA Study No. 2533.
+</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.2936</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Europäische Kommission (Hrsg.): 
+Eurobarometer 47: Die öffentliche Meinung in der Europäischen Union. 
+Brüssel: Selbstverlag Herbst 1997.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>INRA (Europe) for the  European Commission, DG V:  Racism and Xenophobia in Europe - First results presented at the Closing Conference of the European Year Against Racism. Luxembourg, December 1997 (also available in French). </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Commission: Europeans and their Attitudes to Education and Training. European Year of Lifelong Learning (1996).Against Racism. Luxembourg, December 1997 (also available in French).</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Commission: Young people´s attitudes to the European Union. A typology of public opinion among young Europeans. (Eurobarometer 47.1). Brussels, March 1998.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Commission: Women´s attitudes to the European Union. A typology of public opinion among Europe´s women. (Eurobarometer 47.1). Brussels, December 1997</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

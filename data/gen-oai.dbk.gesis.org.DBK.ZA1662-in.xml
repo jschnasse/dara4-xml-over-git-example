@@ -1,0 +1,229 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Attitudes on Current Questions of Domestic Policy (1987)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Einstellungen zu aktuellen Fragen der Innenpolitik (1987)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1662</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Einstellungen zu aktuellen Fragen der Innenpolitik (1987)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Attitudes on Current Questions of Domestic Policy (1987)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Manfred</firstName>
+				<middleName/>
+				<lastName>Berger</lastName>
+				<affiliation>
+					<affiliationName>Institut für praxisorientierte Sozialforschung (IPOS), Mannheim
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Wolfgang G.</firstName>
+				<middleName/>
+				<lastName>Gibowski</lastName>
+				<affiliation>
+					<affiliationName>Institut für praxisorientierte Sozialforschung (IPOS), Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Dieter</firstName>
+				<middleName/>
+				<lastName>Roth</lastName>
+				<affiliation>
+					<affiliationName>Institut für praxisorientierte Sozialforschung (IPOS), Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Wolfgang</firstName>
+				<middleName/>
+				<lastName>Schulte</lastName>
+				<affiliation>
+					<affiliationName>Institut für praxisorientierte Sozialforschung (IPOS), Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1662?doi=10.4232/1.1662</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1662</doiProposal>
+	<publicationDate>
+		<year>1988</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1662</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Spezifische Krankheiten, Störungen und Gesundheitsprobleme</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Specific diseases, disorders and medical conditions</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Politische Einstellungen zu innenpolitischen Fragen.
+Themen:  Zufriedenheit mit der Demokratie in der Bundesrepublik;Parteipräferenz (Stimmzettelverfahren); Wahlverhalten bei der letztenBundestagswahl; Vertrauen in öffentliche Institutionen (Skalometer);Einschätzung der Wichtigkeit von ausgewählten Bundesämtern (Skalometer);Wohnen in der Nähe einer Sport- und Spielanlage und empfundeneBelästigung; empfundene Belästigung durch ausgewählte Lärmquellen;Beteiligungsabsicht an ausgewählten Formen politischen Protestes undmilitanten Aktionen; Verständnis für Gewaltanwendung undSachbeschädigung bei politischen Protesten; Vorstellungen von eineridealen Gesellschaft (Skala); Issue-Relevanz; eigene Erfahrungen mitBehörden; Gesetzesverständlichkeit; Probleme mit Behörden, verursachtdurch Gesetze oder durch die Beamten; Einstellung zum Einblick desStaates in die Privatsphäre; Einstellung zu einer Begrenzung derAufenthaltsdauer von ausländischen Arbeitnehmern sowie zu einerBevorzugung von Deutschen bei freien Arbeitsplätzen; Einstellung zumAusländerwahlrecht; Einstellung zu einer Erleichterung des Erwerbs derdeutschen Staatsbürgerschaft durch Ausländer; Kontakte zu Ausländern amWohnort bzw. am Arbeitsplatz; erwartete Anpassungsbereitschaft vonAusländern, die die deutsche Staatsangehörigkeit erwerben möchten;Einstellung zu einer Verringerung de Zahl ausländischer Arbeitskräfte;Einstellung zum Asylrecht und zu einer begrenzten Aufnahme politischVerfolgter; Einstellung zur Strafbarkeit von Vermummung beiDemonstrationen; Einstellung zu einer Verschärfung desDemonstrationsstrafrechts; Einstellung zu einem Demonstrationsverbot beiabsehbaren Gewalttätigkeiten; Beurteilung der Stärke der Demokratiegegenüber dem Terrorismus; Informiertheit über Maßnahmen desKatastrophen- und Zivilschutzes; Kenntnis von einem öffentlichenSchutzraum in Wohnungsnähe; eigene Vorsorgemaßnahmen fürKatastrophenfälle; Einstellung zu Informationen über den Katastrophen-und Zivilschutz in Schulen; Beurteilung des eigenen Informationsgradesüber Vorsorgemaßnahmen des Katastrophen- und Zivilschutzes; Einstellungzum Ausbau des Katastrophen- und Zivilschutzes; Einstellung zumVorhandensein von Schutzräumen gegen Katastrophen und Kriegseinwirkungenin Wohnhäusern und Bereitschaft zur Übernahme der Kosten für einen Platzin einem Schutzraum; Kenntnis der Bedeutung verschiedenenSirenen-Heultöne; eigene Erfahrungen mit der Durchgabe vonVerhaltensmaßnahmen für die Bevölkerung im Radio; Einstellung zu einerverstärkten Inanspruchnahme des Rundfunks für Hinweise inKatastrophenfällen; Bewertung ausgewählter Maßnahmen der staatlichenKunst- und Kulturförderung; Einschätzung der Aids-Gefahr; Einstellung zuregelmäßigen Pflichtuntersuchungen zur Erkennung einer vorliegendenAids-Ansteckung; Einstellung zu einer namentlichen Meldepflicht fürAids-Kranke durch die Ärzte Einstellung zu einer verschlüsseltenMeldepflicht; Zurückweisung von Aids-erkrankten Ausländern; eigeneBefürchtungen bezüglich eines Mißbrauchs der Volkszählungsdaten;Einstellung zu Bußgeldzahlungen für Volkszählungsboykotteure;Einstellung zur Sommerzeit.
+Demographie: Geburtsjahr und Geburtsmonat; Geschlecht; Familienstand;Konfession; Kirchgangshäufigkeit; Schulbildung; Berufliche Position;Berufstätigkeit; Einschätzung der eigenen beruflichen Stellung imVergleich zu der des Vaters; Anzahl Personen über 18 Jahre im Haushalt;Befragter ist Haushaltsvorstand; Charakteristika des Haushaltsvorstands;Parteineigung, Parteiidentifikation; Gewerkschaftsmitgliedschaften imHaushalt; Charakterisierung des Wohnumfeldes.
+Zusätzlich verkodet wurde die Kreiskennziffer und Ortsgröße.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Political attitudes to questions of domestic policy.
+Topics: satisfaction with democracy in the Federal Republic; partypreference (ballot procedure); behavior at the polls in the lastFederal Parliament election; trust in public institutions (scale);assessment of the importance of selected Federal Offices (scale);living in the vicinity of a sports and play facility and perceivedannoyance; perceived annoyance from selected sources of noise; intentto participate in selected forms of political protest and militantactions; understanding for use of force and damage to property inpolitical protests; concepts of an ideal society (scale); issuerelevance; personal experiences with authorities; comprehensiblity oflaws; problems with authorities caused by laws or civil servants;attitude to snooping by the government in the private sphere; attitudeto a limitation of the length of stay of foreign workers as well as apreference for Germans at available jobs; attitude to the right to votefor foreigners; attitude to making it easier to acquire Germancitizenship by foreigners; contacts with foreigners at place ofresidence or at work; expected willingness to adapt by foreigners whowant to acquire German citizenship; attitude to a reduction in thenumber of foreign workers; attitude to the right to asylum and limitedadmission of the politically persecuted; attitude to making covering ofthe face at demonstrations a punishable offence; attitude to anintensification of criminal law regarding demonstrations; attitude to aprohibition of demonstrations when acts of violence can be anticipated;judgement on the strength of democracy compared with terrorism; extentto which informed about measures of disaster control and civil defense;knowledge of a public shelter close to home; personal preventivemeasures for catastrophies; attitude to information about disastercontrol and civil defense in schools; judgement on personal degree ofinformation about preventive measures of disaster control and civildefense; attitude to expansion of disaster control and civil defense;attitude to presence of shelters against catastrophies and the effectsof war in apartment houses and willingness to accept the costs forspace in a shelter; knowledge about the significance of various sirenwails; personal experiences with the announcement of measures ofconduct for the population in the radio; attitude to an increasedutilization of radio for advice in catastrophies; evaluation ofselected measures of government support for art and culture; assessmentof the AIDS danger; attitude to regular compulsory check-ups torecognize the presence of AIDS infection; attitude to a compulsoryregistration by name for AIDS patients by doctors; attitude to anencrypted compulsory registration; refusing entry to AIDS-infectedforeigners; personal concerns regarding abuse of census data; attitudeto requiring payment of fines by those boycotting the census; attitudeto summer time.
+Demography: year of birth and month of birth; sex; marital status;religious denomination; frequency of church attendance; schooleducation; occupational position; employment; assessment of personaloccupational position in comparison to that of father; number ofpersons 18 years old and older in household; respondent is head ofhousehold; characteristics of head of household; party inclination;party identification; union memberships in household; characterizationof residential surroundings.
+Also encoded was: district code and city size.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl (ADM-Mastersample)
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage stratified random sample (ADM mastersample)
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1987-06</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>MARPLAN, Offenbach
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>143</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Studien vergleichbaren Inhaltes sind unter den ZA-Studien-Nrn.
+1373 (1984), 1463 (1985), 1516 (1986) und 1698 (1988) archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Studies of comparable contents are archived under ZA Study Nos. 1373
+(1984), 1463 (1985), 1516 (1986) and 1698 (1988). </text>
+		</note>
+	</notes>
+</resource>

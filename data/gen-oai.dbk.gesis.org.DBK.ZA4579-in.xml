@@ -1,0 +1,769 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'ALLBUScompact/GGSScompact 1980-2012
+(Kumulierte Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/
+Cumulated German General Social Survey 1980-2012)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUScompact - Kumulation 1980-2012'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA4579</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Allgemeine Bevölkerungsumfrage der Sozialwissenschaften ALLBUScompact - Kumulation 1980-2012</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>ALLBUScompact/GGSScompact 1980-2012
+(Kumulierte Allgemeine Bevölkerungsumfrage der Sozialwissenschaften/
+Cumulated German General Social Survey 1980-2012)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>GESIS - Leibniz-Institut für Sozialwissenschaften</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4579?doi=10.4232/1.11899</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11899</doiProposal>
+	<publicationDate>
+		<date>2014-04-09</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4579</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>ALLBUS</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT31</identifier>
+					<!-- Wirtschaftspolitik, wirtschaftliche Lage -->
+					<identifier>KAT32</identifier>
+					<!-- Sozialpolitik -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+					<identifier>KAT59</identifier>
+					<!-- Medizin -->
+					<identifier>KAT62</identifier>
+					<!-- Kommunikation, öffentliche Meinung, Medien -->
+					<identifier>KAT54</identifier>
+					<!-- Person, Persönlichkeit, Rolle -->
+					<identifier>KAT65</identifier>
+					<!-- Umwelt, Natur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Minderheiten</term>
+					<term>Familie und Ehe</term>
+					<term>Reproduktionsmedizin</term>
+					<term>Spezifische Krankheiten, Störungen und Gesundheitsprobleme</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Freizeit, Tourismus und Sport</term>
+					<term>Medien</term>
+					<term>Religion und Werte</term>
+					<term>UMWELT UND NATUR</term>
+					<term>Kriminalität und Gesetzesvollzug</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Economic conditions and indicators</term>
+					<term>Government, political systems and organisations</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Cultural and national identity</term>
+					<term>Minorities</term>
+					<term>Family life and marriage</term>
+					<term>Reproductive health</term>
+					<term>Specific diseases, disorders and medical conditions</term>
+					<term>Social conditions and indicators</term>
+					<term>Leisure, tourism and sport</term>
+					<term>Media</term>
+					<term>Religion and values</term>
+					<term>NATURAL ENVIRONMENT</term>
+					<term>Crime and law enforcement</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>ALLBUScompact ist als alternative Einsteigerversion (Public Use File) für die komplexer strukturierte Vollversion im Angebot. Speziell für ALLBUScompact wurde dementsprechend ein vereinfachtes Demografiemodul selektiert, das die wichtigsten demografischen Indikatoren in einer übersichtlichen Gruppe vereint. Die sonstigen inhaltlichen Fragemodule, die keine sensitiven Daten enthalten, entsprechen weiterhin vollständig der ALLBUS Vollversion (Scientific Use File). ALLBUScompact eignet sich daher vor allem für Einsteiger in die Datenanalyse. Eine vollständige Beschreibung der inhaltlichen Fragemodule finden Sie unter &lt;a href=https://dbk.gesis.org/dbksearch/SDESC2.ASP?no=4578&amp;DB=D&gt;Studiennummer 4578 (ALLBUS 1980-2012)&lt;/a&gt;. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>ALLBUScompact is offered as an alternative to the structurally morecomplex full version of ALLBUS. It addresses the needs of newcomers todata analysis by providing a simplified demography module containing aneasily manageable group of the most important demographic indicators.All topical question modules not containing sensitive data are retainedas in the ALLBUS full version (scientific use file). For acomprehensive description of study topics please compare &lt;a href=https://dbk.gesis.org/dbksearch/SDESC2.asp?no=4578&amp;DB=E target=_self&gt;Study No. 4578 (ALLBUS/GGSS 1980-2012)&lt;/a&gt;.
+</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>(until 1990 only former West Germany, including West Berlin)</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>(bis 1990 nur alte Bundesländer einschließlich West-Berlin)</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>In der Bundesrepublik Deutschland in Privathaushalten lebende Personen, die zum Befragungszeitpunkt das 18. Lebensjahr vollendet haben. Ab 1991 wurden auch ausländische Zielpersonen in die ALLBUS-Stichproben aufgenommen. Falls keine hinreichend guten Deutschkenntnisse vorlagen, zählen diese Zielpersonen zu den systematischen Ausfällen.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons living in private households in the Federal Republic of Germany who were over 18 years of age at the time of the survey. Starting in 1991, foreign target persons were also included in the ALLBUS samples. If there was no sufficiently good knowledge of German, these target persons are counted among the systematic dropouts.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Disproportional geschichtete Zufallsauswahl; Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: 1980 bis 1992 und 1998 mehrstufig geschichtete Zufallsauswahl aus Privathaushalten (ADM-Stichprobendesign).
+In den Erhebungsjahren 1994, 1996 und ab 2000 fand eine zweistufige, disproportional geschichtete Zufallsauswahl in Westdeutschland (incl. West-Berlin) und Ostdeutschland (incl. Ost-Berlin). In der ersten Auswahlstufe wurden Gemeinden in Westdeutschland und in Ostdeutschland mit einer Wahrscheinlichkeit proportional zur Zahl ihrer erwachsenen Einwohner ausgewählt, in der zweiten Auswahlstufe wurden Personen aus den Einwohnermeldekarteien zufällig gezogen.
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Stratified: Disproportional; Probability: Multistage</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1980-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1980-02</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1982-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1982-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1984-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1984-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1986-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1986-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1988-04</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1988-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1990-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1990-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1991-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1991-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1992-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1992-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1994-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1994-05</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1996-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1996-06</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1998-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1998-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2000-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2000-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2002-02</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2002-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2004-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2004-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2006-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2006-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2008-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2008-08</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2010-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2010-11</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2012-04</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2012-09</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Trend/RepeatedCrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Klaus</firstName>
+				<middleName/>
+				<lastName>Allerbeck</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Frankfurt</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Jutta</firstName>
+				<middleName/>
+				<lastName>Allmendinger</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität München</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hans-Jürgen</firstName>
+				<middleName/>
+				<lastName>Andreß</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Wilhelm</firstName>
+				<middleName/>
+				<lastName>Bürklin</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Potsdam</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Diekmann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>ETH Zürich</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Hubert</firstName>
+				<middleName/>
+				<lastName>Feger</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Freie Universität Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Detlef</firstName>
+				<middleName/>
+				<lastName>Fetchenhauer</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Johannes</firstName>
+				<middleName/>
+				<lastName>Huinink</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bremen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Marie Luise</firstName>
+				<middleName/>
+				<lastName>Kiefer</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Wien</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Frauke</firstName>
+				<middleName/>
+				<lastName>Kreuter</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>LMU München</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Steffen</firstName>
+				<middleName/>
+				<lastName>Kühnel</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Göttingen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Karin</firstName>
+				<middleName/>
+				<lastName>Kurz</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Göttingen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>M. Rainer</firstName>
+				<middleName/>
+				<lastName>Lepsius</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Heidelberg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Stefan</firstName>
+				<middleName/>
+				<lastName>Liebig</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Karl Ulrich</firstName>
+				<middleName/>
+				<lastName>Mayer</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Max-Planck-Institut für Bildungsforschung, Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heiner</firstName>
+				<middleName/>
+				<lastName>Meulemann</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Walter</firstName>
+				<middleName/>
+				<lastName>Müller</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Karl-Dieter</firstName>
+				<middleName/>
+				<lastName>Opp</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Leipzig</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Franz Urban</firstName>
+				<middleName/>
+				<lastName>Pappi</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Erwin K.</firstName>
+				<middleName/>
+				<lastName>Scheuch</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Rüdiger</firstName>
+				<middleName/>
+				<lastName>Schmitt-Beck</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heike</firstName>
+				<middleName/>
+				<lastName>Solga</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Göttingen</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Heike</firstName>
+				<middleName/>
+				<lastName>Trappe</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Rostock</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Michael</firstName>
+				<middleName/>
+				<lastName>Wagner</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Köln</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Bettina</firstName>
+				<middleName/>
+				<lastName>Westle</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität Marburg</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Rolf</firstName>
+				<middleName/>
+				<lastName>Ziegler</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Universität München</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GETAS, Bremen (1980-84)
+GFM-GETAS (IPSOS), Hamburg (1988, 1998)
+INFAS, Bonn (1990, 2002)
+Infratest, München (1986, 1991, 1992, 1994, 1996, 2000)
+TNS Infratest, München (2004, 2006, 2008, 2010, 2012)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.FaceToFace.PAPI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.ComputerAssisted</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.Paper</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragungen mit standardisiertem Fragebogen (PAPI - Paper and Pencil Interviewing), ab Haupterhebung 2000 als CAPI - Computer Assisted Personal Interviewing, und Ergänzungen aus schriftlichen Zusatzbefragungen (drop off).</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>57723</numberUnits>
+			<numberVariables>912</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Generell ist die bekannte Literatur mit Verwendung von ALLBUS-Daten in der ALLBUS-Bibliographie dokumentiert. Diese ALLBUS-Bibliographie ist im GESIS-Webangebot online recherchierbar.
+
+Der zusammengefasste Datensatz von ALLBUS-Erhebungen aus 19 Surveys umfasst alle im ALLBUS-Fragenprogramm enthaltenen Zeitreihen (wenigstens zwei Erhebungszeitpunkte). Die besondere Relation von CAPI- und PAPI-Erhebung im Jahr 2000 wird in den Codebüchern und dem Methodenbericht zum ALLBUS 2000 näher erläutert.
+Die Kreuztabellen im Variable Report zum kumulierten ALLBUS 1980-2012 sind ab 1991 so gewichtet, dass die Oversamples für die neuen Bundesländer jeweils jahrgangsspezifisch ausgeglichen werden (Designgewicht). Die Häufigkeiten für Deutschland sind daher auch ab 1991 im Grundsatz repräsentativ für die angezielte ALLBUS-Population in Gesamtdeutschland. Als Ergänzung zu diesen gewichteten Kreuztabellen im Datenhandbuch werden die originalen Häufigkeiten aus dem ungewichteten Datensatz durch eine gesonderte Supplementdokumentation dargestellt. Hier sind ab 1991 alte und neue Bundesländer getrennt dargestellt.
+
+Zusätzliche ALLBUS-Informationen sind erreichbar unter: 
+http://www.gesis.org/fdzallbus
+http://www.gesis.org/allbus</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Bens, Arno: 
+Zur Auswertung haushaltsbezogener Merkmale mit dem ALLBUS 2004. 
+In: ZA-Information 59: 2006, 143 - 156 </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Koch, Achim; Wasmer, Martina: 
+Der ALLBUS als Instrument zur Untersuchung sozialen Wandels: Eine Zwischenbilanz nach 20 Jahren. 
+In: Schmitt-Beck, Rüdiger; Wasmer, Martina; Koch, Achim (Hrsg.): 
+Sozialer und politischer Wandel in Deutschland. Analysen mit ALLBUS-Daten aus zwei Jahrzehnten, Wiesbaden: VS Verlag für Sozialwissenschaften, 2004, 13 - 42 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael: 
+ALLBUS: A German General Social Survey. 
+In: Schmollers Jahrbuch 120: 2000, 151 - 158 </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael: 
+Zum aktuellen Wandel im Zugriff auf ALLBUS-Materialien und zur ALLBUS-Nutzung in Publikationen. 
+In: ZA-Information 53: 2003, 195 - 202</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Terwey, Michael; Baumann, Horst; Blohm, Michael: 
+Forschungsdatenzentrum ALLBUS Jahresbericht 2010, Berichtszeitraum 01.01.2010-31.12.2010. 
+Bonn: GESIS - Leibniz-Institut für Sozialwissenschaften, GESIS-Technical Reports 2011/03</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

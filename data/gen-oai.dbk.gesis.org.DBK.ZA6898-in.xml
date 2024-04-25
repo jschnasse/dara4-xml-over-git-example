@@ -1,0 +1,253 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Diversity and Contact'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Diversity and Contact'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA6898</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Diversity and Contact</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Diversity and Contact</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Karen</firstName>
+				<middleName/>
+				<lastName>Schönwälder</lastName>
+				<affiliation>
+					<affiliationName>Max-Planck-Institut zur Erforschung multireligiöser und multiethnischer Gesellschaften, Göttingen</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Sören</firstName>
+				<middleName/>
+				<lastName>Petermann</lastName>
+				<affiliation>
+					<affiliationName>Ruhr-Universität Bochum</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6898?doi=10.4232/1.12883</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12883</doiProposal>
+	<publicationDate>
+		<date>2017-11-24</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6898</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT51</identifier>
+					<!-- Gemeinde, Wohnumwelt -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Community, urban and rural life</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Zusammenleben und Diversität im Wohnviertel. Soziales Netzwerk.
+Themen: Welle 1 Wohnviertel und Diversität: Wohlfühlen im Wohnviertel; verbrachte Freizeit im Wohnviertel; Wohndauer in der Stadt und im Wohnviertel; Gründe für den Umzug in dieses Wohnviertel; Diversität: Wahrnehmung von Vielfalt im Wohnviertel; Einschätzung der Diversität im Wohnviertel; Vielfalt hinsichtlich Immigration, Lebensstil, Sozio-Ökonomie, Sozio-Demographie, Religion bzw. in Bezug auf soziales Verhalten; Verhältnis der Menschen untereinander (freundlich, unfreundlich, neutral); Wahrnehmung der Zusammensetzung der Stadt und des Wohnviertels hinsichtlich Menschen mit und ohne Migrationshintergrund; Gefühle hinsichtlich dieser Situation; Staatsbürgerschaften; Anzahl der Staatsbürgerschaften; nationale Zugehörigkeit; deutsche Staatsbürgerschaft von Geburt an; ursprüngliche Staatsbürgerschaft; Geburtsland; Jahr des Zuzugs nach Deutschland; Geburtsland von Vater und Mutter; Migrationshintergrund; Grund für Migration nach Deutschland (Aussiedler, Flüchtling, familiäre oder berufliche Gründe); Mitglied einer ethnischen oder religiösen Minderheit; Religionszugehörigkeit; Identifikation mit dem Land und mit Europa; Gefühlsthermometer für Deutsche (100-stufige Skala); Werte der Nationalität beruhen auf der Religionszugehörigkeit; eigene Nationalität bedeutet dasselbe wie die eigene Religion; geschätzter Prozentanteil der eigenen Nationalität mit der eigenen Religionszugehörigkeit; Meinung zu Ausländern (Mitleid bei Benachteiligung von Ausländern, Gleichgültigkeit gegenüber den Problemen von Ausländern, gut in deren Lage hineinversetzen, Bemühen, Dinge aus der Ausländerperspektive zu sehen); Selbstcharakterisierung (gerne unter vielen Leuten, fröhlich und gut gelaunt, gerne mit anderen unterhalten); Empathie gegenüber Mitgliedern der eigenen Nationalität (100-stufige Skala); Gefühlsthermometer gegenüber Türken, Russlanddeutschen und anderen Westeuropäern in Deutschland (100-stufige Skala); Kontakthäufigkeit mit Angehörigen der vorgenannten Bevölkerungsgruppen; Kontakthäufigkeit mit Deutschen; Kontakthäufigkeit mit (nichtdeutschen) Personen, die im Ausland leben; Gesprächshäufigkeit im Wohnviertel und in der Schule bzw. am Arbeitsplatz mit Deutschen bzw. Menschen mit Migrationshintergrund; Bewertung dieser Gespräche als angenehm oder unangenehm; Gefühl von Verunsicherung und Unbehagen als einziger in einer Gruppe von Menschen anderer Herkunft; unterschiedliche Herkunft und Kultur der Bewohner als Bereicherung für eine Stadt; Recht für Muslime zum Bau von Moscheen in ihrem deutschen Wohnviertel; Bewertung der Deutschkenntnisse von hier lebenden Ausländern; allgemeine Lebenszufriedenheit; allgemeines Personenvertrauen; Vertrauen zu Deutschen, zu Angehörigen der eigenen Nationalität, zu in Deutschland lebenden Türken, Russlanddeutschen und Westeuropäern; Lokalpolitiker repräsentieren die Interessen der Bevölkerung; Politik zu kompliziert für persönliches Verständnis; persönliche Einflussmöglichkeiten auf die Lokalpolitik; eigenes Verhalten im Falle der Zerstörung einer Grünanlage im Wohnviertel und Wahrscheinlichkeit von aktivem Protest durch die Bewohner des Wohnviertels; eigene Beteiligung an der Bundestagswahl 2009; politische Partizipation: politisches Anliegen durch Unterschrift oder Spende unterstützt; Parteipräferenz bei der nächsten Bundestagswahl (Sonntagsfrage); Zustimmung zu Aussagen zu Ausländern in Deutschland (bedrohen die deutsche Lebensweise, Werte der Ausländer sind unvereinbar mit den Werten der Deutschen, erschweren Deutschen die Arbeitsplatzsuche, Belastung für das soziale Netz); Einstellungen gegenüber Ausländern (Skala). 
+Soziales Netzwerk (Eigengruppenkontakte und Fremdgruppenkontakte): Anzahl der Personen, zu denen enge Beziehungen (strong ties) sowie lose Kontakte (weak ties) bestehen und Herkunft dieser Personen; Anteil der Personen mit und ohne Migrationshintergrund; persönliche Netzwerkdichte; Anteil der Netzwerkpersonen, die im Wohnviertel leben; im Wohnviertel kennengelernt; Gelegenheiten des Kennenlernens der Personen mit bzw. ohne Migrationshintergrund; Geburtsland der Netzwerkpersonen; Anteil der Freunde und Bekannten mit einer anderen sozialen Schicht; Anteil der Freunde und Bekannten, die deutlich jünger oder älter sind bzw. andere politische Ansichten und religiöse Überzeugungen haben; ausländische Flüchtlinge bzw. Aussiedler im persönlichen Netzwerk; Ausländer, der erst kurze Zeit in Deutschland lebt im persönlichen Netzwerk; Bedeutung von Freundlichkeit gegenüber Ausländern bei den deutschen Freunden. 
+Kontextvariablen jeweils bezogen auf den Bezirk und die Stadt: Anzahl der Personen sowie Personenanteil jeweils gruppiert nach Alter sowie alle Altersgruppen (alle Nationalitäten beider Geschlechter, männliche Personen aller Nationalitäten, weibliche Personen aller Nationalitäten, Ausländer beider Geschlechter, männliche Ausländer, weibliche Ausländerinnen, Deutsche beider Geschlechter, männliche Deutsche, weibliche Deutsche); Anzahl der arbeitslosen Personen und Personenanteil; Anzahl Erwerbstätiger; Anzahl der Grundschulen und der weiterführenden Schulen; Fläche in Quadratkilometern; Anzahl der Personen und des Personenanteils mit türkischer, jugoslawischer, italienischer, polnischer, west-europäischer, ost-europäischer, nordafrikanischer oder mittlerer Osten, sub-Sahara afrikanischer, amerikanischer, asiatischer, australischer oder ozeanischer Nationalität; Anzahl der Personen und des Personenanteils mit keiner zugewiesenen Nationalität; Anzahl der Personen mit nicht-deutscher Nationalität; Anzahl der Personen abgestuft nach Nationalitäten; Anzahl der Personen von den Top 3 Nationalitäten unter allen Ausländern; Quotient der Erwerbstätigen, die für die in der Stadt wohnenden Personen arbeiten; Anzahl der Personen (Bevölkerungsdichte) pro Quadratkilometer.
+Wellen 2 und 3:Neu in den Fragekatalog aufgenommen wurde: Charakterisierung des Wohngebäudes; Charakterisierung der Umgangsformen im Wohnviertel (gegenseitige Unterstützung, Rücksichtnahme, Höflichkeit, Aufgeschlossenheit); Zustimmung zu verschiedenen Aussagen (junge Leute profitieren von Kontakten mit Gleichaltrigen anderer Herkunft oder anderen Glaubens, staatliche Kulturförderung auch für kulturelle Traditionen von Minderheiten, viele Sprachen auf der Straße als gute Sache); Gefühlsthermometer für Ausländer in Deutschland; Vertrauen zu Ausländern in Deutschland und im Wohnviertel; in den letzten 12 Monaten Menschen mit bzw. ohne Migrationshintergrund kennengelernt; wahrgenommener häufiger oder seltener Kontakt zwischen beiden Gruppen. 
+Demographie: Alter; Geschlecht; Haushaltsgröße; Anzahl Personen im Haushalt ab 18 Jahren und unter 18 Jahren; Kinder im Haushalt; höchster Schulabschluss; höchster beruflicher Ausbildungsabschluss; Jahre der Bildung; Erwerbsstatus bzw. Status, falls nicht erwerbstätig; jemals hauptberuflich erwerbstätig; Berufsgruppe und Charakteristika; derzeitige bzw. frühere berufliche Stellung; Lage von Arbeitsplatz bzw. Schule / Hochschule im Wohnviertel; fester Lebenspartner; Geburtsland des Partners; nicht-deutscher Partner; Haushaltsnettoeinkommen. 
+Zusätzlich verkodet wurde: Interview-ID; Interviewer-ID; Interviewdatum; Tag, Monat, Jahr und Wochentag des Interviews; Welle (Erhebungsjahr); Panel; Incentive; Interviewdauer in Minuten; Herkunft Telefonnummer (generiert oder Telefonbuch); Stadt; Gemeindeklasse; mittelgroße Stadt; Großstadt; Metropole; Stadtviertel; Straßen-ID; dieselbe Straße; Wiederbefragungsbereitschaft; Interviewsprache; relatives Alter des Befragten; Ausländeranteil im Wohnviertel; Flächenstrukturwert; Kontaktmöglichkeiten im öffentlichen Raum; Index für sichtbare Vielfalt im Wohnviertel; Arbeitslosenrate im Wohnviertel; Anzahl der Herkunftsländer des persönlichen Netzwerks; niedriges, mittleres oder hohes Einkommen; Gewichtungsvariablen; Cluster Schichten; Cluster ID für primäre und sekundäre Stichprobeneinheiten;  Diversitätsindex aller 12 Nationalitätengruppen; Diversitätsindex aller 12 Nationalitätengruppen plus Deutsche.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Diversity and contact in the neighborhood</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wohnbevölkerung ab 18 Jahren in Privathaushalten mit telefonischem Festnetzanschluss in 50 ausgewählten Wohnvierteln in 16 verschiedenen Städten in Westdeutschland</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Resident population aged 18 and over in private households with fixed telephone lines in 50 selected residential districts in 16 different cities in West Germany</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample: Multistage Sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2010-05-17</date>
+				</startDate>
+				<endDate>
+					<date>2010-07-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>wave 1</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Welle 1</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2011-05-16</date>
+				</startDate>
+				<endDate>
+					<date>2011-08-13</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>wave 2</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Welle 2</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-05-08</date>
+				</startDate>
+				<endDate>
+					<date>2012-08-18</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>wave 3</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Welle 3</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>TNS Emnid, Bielefeld</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview: CATI (Computer Assisted Telephone Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>1045</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Nähere Informationen zu Veränderungen von 2010 (Welle 1) zu 2011 und 2012 (Wellen 2 und 3) können der Studiendokumentation entnommen werden.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

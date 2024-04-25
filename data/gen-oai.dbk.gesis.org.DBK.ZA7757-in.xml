@@ -1,0 +1,288 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Attitudes Towards Values and Religion of Germans With and Without Migration Background and Foreigners in Germany'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Einstellungen zu Werten und Religion von Deutschen mit und ohne Migrationshintergrund und Ausländern in Deutschland'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7757</identifier>
+		<currentVersion>1.1.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Einstellungen zu Werten und Religion von Deutschen mit und ohne Migrationshintergrund und Ausländern in Deutschland</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Attitudes Towards Values and Religion of Germans With and Without Migration Background and Foreigners in Germany</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Viola</firstName>
+				<middleName/>
+				<lastName>Neu</lastName>
+				<affiliation>
+					<affiliationName>Konrad-Adenauer-Stiftung e.V.</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Sabine</firstName>
+				<middleName/>
+				<lastName>Pokorny</lastName>
+				<affiliation>
+					<affiliationName>Konrad-Adenauer-Stiftung e.V.</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Jochen</firstName>
+				<middleName/>
+				<lastName>Roose</lastName>
+				<affiliation>
+					<affiliationName>Konrad-Adenauer-Stiftung e.V.</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7757?doi=10.4232/1.13766</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13766</doiProposal>
+	<publicationDate>
+		<date>2021-06-30</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7757</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Religion und Werte</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Government, political systems and organisations</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Religion and values</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Im Auftrag der Hauptabteilung Politik und Beratung der Konrad-Adenauer-Stiftung (KAS) führte USUMA GmbH in Berlin im Zeitraum vom 15.10.2018 bis 28.02.2019 eine repräsentative Umfrage zum Themenfeld ´Einstellungen zu Werten und Religion von Deutschen mit und ohne Migrationshintergrund und Ausländern in Deutschland´ durch. Die Grundgesamtheit dafür bildete die in Deutschland in Privathaushalten lebende Bevölkerung ab 18 Jahren. Die Studie sollte für 3 Teilgruppen durchgeführt werden und jede dieser Teilgruppen repräsentativ abbilden. Die drei repräsentativen Teilstichproben umfassten: Deutschen ohne Migrationshintergrund ab 18 Jahre, Deutschen mit Migrationshintergrund ab 18 Jahre und in Deutschland lebende Ausländer/innen ab 18 Jahre. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Geburtsland; Jahr des (erstmaligen) Zuzugs auf das heutige Gebiet der Bundesrepublik Deutschland; deutsche Staatsangehörigkeit; ausländische Staatsangehörigkeit(en); deutsche Staatsangehörigkeit durch Geburt, als (Spät-)Aussiedler ohne Einbürgerung, als (Spät-)Aussiedler mit Einbürgerung oder durch Einbürgerung; Jahr der Einbürgerung; Staatsangehörigkeit vor dem Zuzug als (Spät-)Aussiedler bzw. vor der Einbürgerung; Staatsangehörigkeit der Eltern; Geburtsland der Eltern; heutiges Staatsgebiet des Herkunftslandes der Mutter/ des Vaters; Verbundenheit mit dem Herkunftsland; Aufenthaltsstatus; Religionszugehörigkeit; religiöse Gruppenzugehörigkeit innerhalb des Islam; Familienstand; Anzahl der Ehen/ eingetragenen Lebenspartnerschaften; feste Partnerschaft; Religiosität; Häufigkeit des Gottesdienstbesuchs; Einstellung zur Kirche: Kirchenbindung; Veränderung der Kirchenbindung; Konfessionslose: frühere Konfession; Gründe für den Kirchenaustritt (z.B. kein besonderer Grund, persönliche Gründe allgemein, Überzeugungsgründe - glaube nicht (mehr) an Gott, Kirche bringt mir nichts (mehr), Neuorientierung im Leben, etc.); Bereitschaft, einer Glaubensgemeinschaft oder Konfession beizutreten; Parteipräferenz (Sonntagsfrage); alternative Wahlentscheidung; wichtige Aspekte bei einer möglichen Wahlentscheidung für die CDU (das Christliche in der CDU, das Soziale, das Liberale, das Konservative, dass sie Probleme löst); Demokratiezufriedenheit; Bewertung des politischen Systems in Deutschland im Vergleich mit dem im Herkunftsland; Zustimmung zu verschiedenen Aussagen zu Politik, Staat und Gesellschaft (in jeder demokratischen Gesellschaft gibt es Konflikte, die mit Gewalt ausgetragen werden müssen, Kinder unter 3 Jahren sollten zu Hause betreut werden, meine Kinder sollen religiös erzogen werden, der Staat sollte meinen Glauben besser gegen Beleidigung schützen, Beleidigung von Religionen sollte verboten werden, in der Demokratie dauern Entscheidungen zu lange, die Politik reagiert viel zu langsam auf Probleme, meine traditionelle Lebensweise ist bedroht, bei der Erziehung dürfen Kinder auch mal geschlagen werden, Fleiß und Strebsamkeit sollen sich auszahlen, ich lasse den Dingen gerne ihren Lauf, Schwangerschaftsabbruch sollte grundsätzlich verboten sein, einem unheilbar Kranken sollte auf seinen Wunsch hin Sterbehilfe gewährt werden); Wertepräferenzen (z.B. Kreativität, Geld, sicheres Umfeld, Bescheidenheit, Spaß, Erfolg, Respekt erfahren, etc.); persönliche Bedeutung von Grundrechten (Gleichbehandlung vor dem Gesetz, Chancengleichheit, freie Meinungsäußerung, gleiche Rechte für Männer und Frauen, Glaubensfreiheit, Pressefreiheit und freie Forschung, Demonstrationsrecht, möglichst umfassende soziale Absicherung durch den Staat, geringe Einkommensunterschiede); Einhaltung der Grundrechte in Deutschland (Gleichbehandlung vor dem Gesetz, freie Meinungsäußerung, Pressefreiheit und freie Forschung, umfassende soziale Absicherung durch den Staat); Einstellung zu religiösen Symbolen an staatlichen Einrichtungen (christlicher Richter trägt sichtbar ein Kreuz, muslimische Richterin trägt ein Kopftuch, jüdischer Richter trägt eine Kippa); persönlicher Glaube (Trost und Kraft aus dem Glauben ziehen, Glaube an ein Leben nach dem Tod, Glaube an den Teufel, Glaube an Gott, Glaube an eine überirdische Macht, Glaube an eine Wiedergeburt); Religiosität des Elternhauses; Christen und Konfessionslose: kirchliche und religiöse Rituale: kirchlich getauft, Taufe der Kinder, kirchlich getraut; Bereitschaft, sich kirchlich trauen zu lassen; kirchliche Trauung bei einer früheren Ehe; Bereitschaft, sich noch einmal kirchlich trauen zu lassen; Auflösung bzw. Annullierung der ersten katholischen Trauung durch die katholische Kirche; Fasten aus religiösen Gründen; Wunsch nach einer kirchlichen Beerdigung bzw. einer Beerdigung nach religiösen Regeln; Bereitschaft zum Kontakt mit anderen Religionen (Besuch einer Kirche/ Moschee, wenn dort ein Fest wäre); Toleranz gegenüber Andersgläubigen; Spenden für wohltätige Zwecke und Organisation; religiöser Hintergrund der Organisation; Häufigkeit von Gebeten; Nicht-Christen: persönliche Reaktion auf den Wunsch eines Familienmitglieds Christ, Muslim bzw. Jude zu werden; Meinung zu einer streng religiösen Lebensweise; Akzeptanz von Menschen, die nach strengen christlichen, muslimischen oder jüdischen Regeln leben; Akzeptanz eines Christen, Muslim bzw. Juden als Ehepartner der Tochter; Meinung zu gleichgeschlechtlichen Ehen.
+Demographie: Geschlecht; Alter; Erwerb des höchsten Bildungsabschlusses im Herkunftsland oder in Deutschland; Jahre des Schulbesuchs im Herkunftsland; höchster allgemeinbildender Schulabschluss; höchster beruflicher Bildungsabschluss; Erwerbsstatus; Situation wenn derzeit nicht erwerbstätig; berufliche Stellung; Religiosität (100er-Skala); Erreichbarkeit: Anruf über Mobilfunk: Handynutzung allein, auch mit anderen oder nur zufällig; Anzahl der weiteren Handynutzer ab 18 Jahren; Festnetzanschluss im Haushalt; Anzahl der Handynummern, über die der Befragte telefonisch erreichbar ist; Anzahl der Festnetz-Rufnummern im Haushalt; Bundesland; Ortsgröße (politische Gemeindegröße); Haushaltsgröße; Anzahl Personen im Haushalt unter 18 Jahren; Wiederbefragungsbereitschaft. 
+Zusätzlich verkodet wurde: Befragten-ID; Gewichtungsfaktoren; Gruppenzugehörigkeit (Deutsche ohne Migrationshintergrund, Deutsche mit Migrationshintergrund, Ausländer); berichtigtes Ursprungsland; Filter; Anzahl Türkischstämmige gesamt, Türkischstämmige Migranten und Türkischstämmige Ausländer; Anzahl Russischstämmige gesamt, Russischstämmige Migranten und Russischstämmige Ausländer; Anzahl Polnischstämmige gesamt, Polnischstämmige Migranten und Polnischstämmige Ausländer; Migrationshintergrund Gruppe (Deutsche ohne Migrationshintergrund, Spätaussiedler, Türkischstämmig, Russischstämmig, Polnischstämmig).</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>On behalf of the Konrad Adenauer Foundation´s (KAS) Department of Politics and Consultancy, USUMA GmbH in Berlin conducted a representative survey on the topic of "Attitudes towards values and religion of Germans with and without a migration background and foreigners in Germany" between 15 October 2018 and 28 February 2019. The basic population for this was the population aged 18 and over living in private households in Germany. The study was to be conducted for 3 subgroups and to represent each of these subgroups. The three representative sub-samples included: Germans without a migration background aged 18 and over, Germans with a migration background aged 18 and over and foreigners living in Germany aged 18 and over. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Country of birth; year of (first) move to the present territory of the Federal Republic of Germany; German nationality; foreign nationality(ies); German nationality by birth, as a resettler/ late repatriate without naturalisation, as a resettler/ late repatriate with naturalisation or by naturalisation; year of naturalisation; nationality before moving in as a resettler/ late repatriate or before naturalisation; nationality of parents; country of birth of parents; present national territory of mother/ father; attachment to country of origin; residence status; religious affiliation; nationality of parents; country of birth of mother/father; attachment to country of origin; religious affiliation. Year of naturalisation; citizenship before moving in as (late) emigrant or before naturalisation; citizenship of parents; country of birth of parents; current territory of mother´s/father´s country of origin; attachment to country of origin; residence status; religious affiliation; religious group affiliation within Islam; marital status; number of marriages/registered partnerships; stable partnership; religiosity; frequency of church attendance; attitude to church: church affiliation; change in church affiliation; non-denominational: former denomination; reasons for leaving church  (e.g. no particular reason, personal reasons in general, reasons of conviction - don´t believe in God (any more), church doesn´t bring me anything (any more), new orientation in life, etc.); willingness to join a religious community or denomination; party preference (Sunday question); alternative election decision; important aspects in a possible election decision for the CDU (the Christianity in the CDU, the social, the liberal, the conservative, that it solves problems); satisfaction with democracy; evaluation of the political system in Germany compared to that in the country of origin; agreement with various statements on politics, state and society (in every democratic society there are conflicts that have to be settled with violence, children under 3 should be looked after at home, my children should be brought up religiously, the state should protect my faith better against insult, insulting religions should be banned, in democracy decisions take too long, politics reacts far too slowly to problems, my traditional way of life is threatened, in education children may also be beaten sometimes, diligence and ambition should pay off, I like to let things take their course, abortion should be forbidden as a matter of principle, a terminally ill person should be granted euthanasia at his request); value preferences (e.g. creativity, money, safe environment, modesty, fun, success, being respected, etc.); personal importance of fundamental rights (equal treatment before the law, equal opportunities, freedom of expression, equal rights for men and women, freedom of belief, freedom of the press and free research, right to demonstrate, social protection by the state as comprehensive as possible, low income differences); compliance with fundamental rights in Germany (equal treatment before the law, freedom of expression, freedom of the press and free research, comprehensive social protection by the state); Attitude towards religious symbols at state institutions (Christian judge visibly wears a cross, Muslim judge wears a headscarf, Jewish judge wears a kippah); personal faith (drawing comfort and strength from faith, belief in life after death, belief in the devil, belief in God, belief in a supernatural power, belief in rebirth); religiosity of parental home; Christians and non-denominational: Church and religious rituals: baptised in church, baptism of children, married in church; willingness to be married in church; church wedding in the case of a previous marriage; willingness to be married in church again; dissolution or Willingness to have a church wedding again; dissolution or annulment of the first Catholic marriage by the Catholic Church; fasting for religious reasons; wish for a church funeral or a funeral according to religious rules; willingness to have contact with other religions (visit a church/mosque if there was a festival there); tolerance towards people of other faiths; donations to charities and organisations; religious background of the organisation; frequency of prayers; non-Christians: personal reaction to the wish of a family member to become a Christian, a Muslim or a Jew; opinion on becoming a Christian, a Muslim or a Jew; opinion on a strictly religious lifestyle; acceptance of people who live by strict Christian, Muslim or Jewish rules; acceptance of a Christian, Muslim or Jew as daughter´s spouse; opinion on same-sex marriage.
+Demography: sex; age; highest educational attainment in country of origin or in Germany; years of schooling in country of origin; highest general education attainment; highest vocational attainment; employment status; situation if not currently employed; occupational status; religiosity (100-point scale); accessibility: mobile phone call: mobile phone use alone, also with others or only randomly; number of other mobile phone users aged 18 and over; landline in the household; number of mobile phone numbers on which the respondent can be reached by phone; number of landline numbers in the household; federal state; city size (political municipality size); household size; number of persons in the household under 18; willingness to be interviewed again. 
+Additionally coded were: Respondent ID; weighting factors; group affiliation (Germans without migration background, Germans with migration background, foreigners); corrected country of origin; filter; number of ethnic Turks total, ethnic Turkish migrants and ethnic Turkish foreigners; Number of people of Russian origin total, migrants of Russian origin and foreigners of Russian origin; Number of people of Polish origin total, migrants of Polish origin and foreigners of Polish origin; Migration background group (Germans without migration background, ethnic German immigrants, people of Turkish origin, people of Russian origin, people of Polish origin).</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Bevölkerung ab 18 Jahren in Privathaushalten In Deutschland
+
+Die Studie sollte für 3 Teilgruppen durchgeführt werden und jede dieser Teilgruppen repräsentativ abbilden. Die drei Teilstichproben umfassten Deutsche ohne Migrationshintergrund, Deutsche mit Migrationshintergrund und in Deutschland lebende Ausländer/innen ab 18 Jahre.
+
+Deutsche mit Migrationshintergrund wurden als Personen definiert, die eine ausländische Staatsbürgerschaft besitzen oder im Ausland geboren wurden, bzw. wo das auf mindestens ein Elternteil zutrifft. In Deutschland lebende Ausländer/innen wurden als Personen definiert, die in Deutschland leben und nicht die deutsche Staatsbürgerschaft besitzen.
+</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Population aged 18 and over living in private households in Germany
+
+The study was to be conducted for 3 subgroups and to represent each of these subgroups. The three subsamples included Germans without a migration background, Germans with a migration background, and foreigners aged 18 and older living in Germany.
+
+Germans with a migration background were defined as persons who have foreign citizenship or were born abroad, or where this applies to at least one parent. Foreigners living in Germany were defined as persons living in Germany who do not hold German citizens.
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Geschichtete Zufallsauswahl aus der ADM-Festnetzstichprobe „Easy Sample“ und der ADM-Mobilfunkstichprobe „MOBIL“; N=3.003, davon N=1.001 Deutsche ohne Migrationshintergrund, N=1.001 Deutsche mit Migrationshintergrund und N=1.001 in Deutschland lebende Ausländer und Ausländerinnen; für die Gruppen Deutsche mit Migrationshintergrund und Ausländer/Ausländerinnen wurde die Überquote über ein Screening realisiert (nach erfolgter Zufallsauswahl)</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Stratified random sample from the ADM fixed-network sample "Easy Sample" and the ADM mobile phone sample "MOBIL"; N=3,003, of which N=1,001 Germans without a migration background, N=1,001 Germans with a migration background and N=1,001 foreigners living in Germany; for the groups Germans with a migration background and foreigners, the over-quota was realised by means of screening (after random sample).</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2018-10-15</date>
+				</startDate>
+				<endDate>
+					<date>2019-02-28</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Usuma, Berlin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Dual Frame (40% Mobil, 60% Festnetz)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>3003</numberUnits>
+			<numberVariables>261</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Übersetzung des Fragebogens in 6 Fremdsprachen ( Englisch, Russisch, Türkisch, Polnisch, Französisch und Arabisch) wurde durch ein professionelles Übersetzungsbüro inklusive einer fachlichen Korrekturlesung durchgeführt. Die Übersetzungen wurden sukzessiv in die CATI Maske integriert und inhaltlich anschließend für die Telefonie durch geschulte bilinguale oder muttersprachliche Interviewer freigegeben. </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The translation of the questionnaire into 6 foreign languages (English, Russian, Turkish, Polish, French and Arabic) was carried out by a professional translation agency including a professional proofreading. The translations were successively integrated into the CATI mask and subsequently released for telephony by trained bilingual or native speaker interviewers. </text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.13764</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>USUMA Markt- und Sozialforschung: Repräsentative Telefonbefragung von 3 Bevölkerungsgruppen zum Thema "Werte und Religion". Methodenbericht.
+Berlin: USUMA GmbH, 2019
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Hirndorf, Dominik (2020): Im Glauben vereint? Eine repräsentative Studie über Christen und Muslime in Deutschland. Analysen und Argumente, Nr. 412, Berlin: Konrad-Adenauer-Stiftung e.V.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Neu, Viola (2021): Demokratische Einstellungen und Wahlverhalten. Eine repräsentative Analyse von Einstellungen und Wahlverhalten von Deutschen mit und ohne Migrationshintergrund und in Deutschland lebenden Ausländern. Analysen und Argumente, Nr. 422, Berlin: Konrad-Adenauer-Stiftung e.V.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Pokorny, Sabine; von Wilamowitz-Moellendorff, Ulrich (2021): Was eint die Einwanderungsgesellschaft? Eine repräsentative Umfrage zu Einstellungen, Glaube und Wertorientierungen von Bürgerinnen und Bürgern mit und ohne Migrationshintergrund. Berlin: Konrad-Adenauer-Stiftung e.V.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Neu, Viola (2020): Religiosität und Wahlverhalten. Eine repräsentative Untersuchung. Analysen und Argumente, Nr. 408, Berlin: Konrad-Adenauer-Stiftung e.V.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

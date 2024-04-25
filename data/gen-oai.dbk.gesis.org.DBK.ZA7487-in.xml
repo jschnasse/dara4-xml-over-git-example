@@ -1,0 +1,302 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Social Cohesion Radar: Use Cases for Cohesion in situ'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Radar gesellschaftlicher Zusammenhalt: Fallstudien zum Zusammenhalt vor Ort'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7487</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Radar gesellschaftlicher Zusammenhalt: Fallstudien zum Zusammenhalt vor Ort</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Social Cohesion Radar: Use Cases for Cohesion in situ</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Grau</lastName>
+				<affiliation>
+					<affiliationName>Bertelsmann Stiftung, Gütersloh</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Frank</firstName>
+				<middleName/>
+				<lastName>Gesemann</lastName>
+				<affiliation>
+					<affiliationName>DESI - Institut für Demokratische Entwicklung und Soziale Integration, Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7487?doi=10.4232/1.13281</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.13281</doiProposal>
+	<publicationDate>
+		<date>2020-03-27</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7487</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT51</identifier>
+					<!-- Gemeinde, Wohnumwelt -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Community, urban and rural life</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Angesichts der aktuellen Herausforderungen durch Globalisierung, weltweite Fluchtbewegungen, soziale Ungleichheit sowie eine zunehmende ethnische, kulturelle und religiöse Diversität kommt dem sozialen Zusammenhalt vor Ort eine hohe Bedeutung zu. Im Rahmen des „Radar gesellschaftlicher Zusammenhalt“, den die Bertelsmann Stiftung seit 2011 durchführt, wurden in der vorliegenden Studie in insgesamt vier Städten der soziale Zusammenhalt vor Ort untersucht (einer Großstadt und drei Klein- oder Mittelstädten in Ost- und Westdeutschland). Ausgewählt für diese Untersuchung wurden die Städte Dortmund, Rostock, Lippstadt und Dessau-Roßlau.
+Themen: Verbundenheit mit Europa, Deutschland, dem Bundesland, der Region, der Stadt, dem Ortsteil und der Nachbarschaft (geopolitische Identität); Umzugsabsicht; Wohnform (Wohnstatus); soziales Netzwerk: Größe des Freundes- und Bekanntenkreises; Häufigkeit privater Treffen mit Freunden, Verwandten und mit Arbeitskollegen; gegenseitige Nachbarschaftsbesuche; Kontakte zu Menschen mit Migrationshintergrund im persönlichen oder beruflichen Umfeld; 
+Vertrauen in Mitmenschen: allgemeines Personenvertrauen; Vorteilsdenken vs. überwiegende Hilfsbereitschaft der Menschen. 
+Akzeptanz von Diversität: Bereicherung vs. Bedrohung des Lebens in Deutschland durch zunehmende Vielfalt; Meinung zu einer Willkommenskultur in Deutschland; Meinung zur Integration von Zuwanderern in Deutschland; Ähnlichkeit oder  Unterschiedlichkeit der Menschen im Ortsteil; größte Unterschiede in Bezug auf Herkunft, soziale Lage oder Religion/ Kultur; Zufriedenheit mit der Zusammensetzung der Menschen im Ortsteil; Meinung zu Ausländern: zu viele Ausländer in Deutschland, Ausländer in ihre Heimat zurückschicken, wenn Arbeitsplätze knapp werden; Meinung zu Muslimen: wie ein Fremder im eigenen Land durch die vielen Muslime in Deutschland; Muslimen sollte die Zuwanderung nach Deutschland untersagt werden.
+Institutionenvertrauen: Vertrauen in verschiedene gesellschaftliche und politische Institutionen (Parteien/ Politiker im Allgemeinen, Parteien/ Politiker vor Ort, Bundesregierung, Landesregierung, Stadt- und Gemeindeverwaltung, Gerichte, Polizei, lokale/ regionale Medien, überregionale Medien). Gerechtigkeitsempfinden: Gerechter Anteil am allgemeinen Lebensstandard; Ausstattung des Ortsteils mit genügend Jugendfreizeiteinrichtungen, Familien- und Nachbarschaftszentren, Tagesstätten für Senioren und öffentlichen Sport- oder Freizeitanlangen; Zustimmung zur Aussage Stadt kümmert sich nicht genug um meinen Ortsteil.
+Solidarität und Hilfsbereitschaft: Hilfsbereitschaft gegenüber einer hilfsbedürftigen fremden Person; Häufigkeit von Hilfeleistungen gegenüber Personen außerhalb des Haushalts; Häufigkeit von Hilfsangebote an hilfsbedürftige Personen; Häufigkeit von Aktivitäten in verschiedenen Vereinen oder Initiativen.
+Anerkennung sozialer Regeln: Empfundene Störung im Ortsteil durch beschädigte Spielplätze/ Bushaltestellen, Graffiti, Schmutz bzw. Müll in Straßen und Grünanlagen, Jugendliche in Gruppen, Betrunkene, Bettler und Obdachlose; persönliches Sicherheitsgefühl am Wohnort; Veränderung des persönlichen Sicherheitsgefühls am Wohnort; persönliches Sicherheitsgefühl am Wohnort in der Nacht.
+Gesellschaftliche Teilhabe: Politikinteresse; Interesse an Lokalpolitik; Stärke des persönlichen Engagements für die Interessen der Wohngegend bzw. der Menschen in der Wohngegend; Art des politischen Engagements in den letzten zwölf Monaten (z.B. Ausüben eines politischen Amts, Beteiligung an einer Demonstration, etc.); Einschätzung zu politischen Fragen (Internal Political Efficacy).   
+Aufnahme und Integration von Flüchtlingen: Zuwanderung von Flüchtlingen gut vs. schlecht für die deutsche bzw. die lokale Wirtschaft; Deutschland bzw. die eigene Stadt wird durch die Flüchtlinge zu einem besseren vs. schlechteren Ort zum Leben; Beurteilung der Leistung Deutschlands bzw. der eigenen Stadt bei der Bewältigung der Herausforderungen durch die Aufnahme und Integration von Flüchtlingen; Bewertung der Flüchtlings- und Integrationspolitik der Stadt; Einverständnis mit der Unterbringung von Flüchtlingen im Ortsteil; Art des ehrenamtlichen Engagements für Flüchtlinge in den letzten beiden Jahren (z.B. Geld- oder Sachspenden, Sortieren oder Ausgabe von Kleidung oder Lebensmitteln, etc.); Erfahrung mit Anfeindungen durch persönliches Engagement für Flüchtlinge; eher positive oder eher negative Erfahrungen im Kontakt mit Flüchtlingen; Beteiligung an Aktionen gegen den weiteren Zuzug von Flüchtlingen (Bewohnerversammlungen, Unterschriftenaktionen, Demonstrationen, andere); Bewertung des Verhältnisses der Bewohner untereinander im Ortsteil; Auswirkung der Aufnahme und Integration von Flüchtlingen auf das Miteinander im Ortsteil; wichtige Maßnahmen der Stadt zur Förderung des sozialen Zusammenhalts in der Kommune (z.B. Förderung von Bildungschancen (Kitas, Schule), Förderung der Arbeitsmarktintegration, Förderung des sozialen Wohnungsbaus, etc.).
+Häufigkeit der privaten Internetnutzung; Anzahl der Bücher im Haushalt; Selbsteinschätzung der Religiosität; Lebenszufriedenheit; Selbsteinschätzung des Gesundheitszustands.   
+Demographie: Geschlecht; Alter; Haushaltsgröße; Anzahl der Kinder im Haushalt; Familienstand; berufliche Situation (Erwerbsstatus); höchster Schulabschluss; höchster beruflicher Bildungsabschluss; Bezug von Sozialleistungen in den letzten 12 Monaten; Haushaltsnettoeinkommen; Beurteilung der eigenen wirtschaftlichen Lage; in Deutschland geboren; deutsche Staatsbürgerschaft; Angabe der Staatsbürgerschaft; Geburt der Eltern in Deutschland (Migrationshintergrund); zu Hause gesprochene Sprache; Angabe der anderen Sprache falls nicht Deutsch.   
+Zusätzlich verkodet wurde: Interviewnummer; Stadt (Rostock, Dessau, Dortmund, Lippstadt); Gewicht; Befragter hat keine Angaben zu Alter, Haushaltsgröße und Anzahl der Kinder gemacht.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>In view of the current challenges posed by globalisation, worldwide flight movements, social inequality and increasing ethnic, cultural and religious diversity, local social cohesion is of great importance. As part of the ´Social Cohesion Radar,´ which the Bertelsmann Stiftung has been conducting since 2011, this study examined local social cohesion in a total of four cities (one major city and three small or medium-sized towns in eastern and western Germany). The cities selected for this study were Dortmund, Rostock, Lippstadt and Dessau-Roßlau.
+Topics: Connectedness with Europe, Germany, the federal state, the region, the city, the district and the neighbourhood (geopolitical identity); intention to move; form of housing (residential status); social network: size of circle of friends and acquaintances; frequency of private meetings with friends, relatives and with work colleagues; mutual neighbourhood visits; contacts with people with a migration background in personal or professional life.
+Trust in fellow human beings: general trust in people; thinking of advantages vs. predominant willingness to help.
+Acceptance of diversity: threatened vs. enriched life in Germany by increasing diversity; opinion on a welcoming culture in Germany; opinion on the integration of immigrants in Germany; similarity or difference of people in the district; major differences with regard to origin, social situation or religion/culture; satisfaction with the composition of people in the district; opinion on foreigners: too many foreigners in Germany, send foreigners back home when jobs become scarce; opinion on Muslims: like a foreigner in one´s own country by the many Muslims in Germany; Muslims should be prohibited from immigrating to Germany.
+Confidence in institutions: Trust in various social and political institutions (parties/ politicians in general, local parties/ politicians, federal government, state government, city and local government, courts, police, local/ regional media, national media).
+Sense of justice: Fair share in the general standard of living; equipping the district with sufficient youth leisure facilities, family and neighbourhood centres, day care centres for senior citizens and public sports or leisure facilities; agreement with the statement ´City does not care enough about my district.
+Solidarity and willingness to help: Willingness to help a needy stranger; frequency of assistance to persons outside the household; frequency of offers of help to needy persons; frequency of activities in various associations or initiatives.
+Recognition of social rules: Perceived disturbance in the district due to damaged playgrounds/bus stops, graffiti, dirt or rubbish in streets and green areas, young people in groups, drunk people, beggars and homeless people; personal feeling of safety at home; change in personal feeling of safety at home; personal feeling of safety at home at night.
+Social participation: Political interest; interest in local politics; strength of personal commitment to the interests of the neighbourhood or people in the neighbourhood; type of political commitment in the last twelve months (e.g. holding political office, taking part in a demonstration, etc.); assessment of political issues (internal political efficiency).
+Reception and integration of refugees: Immigration of refugees is good vs. bad for the German resp. local economy; Germany or its own city becomes a better vs. worse place to live due to the refugees; assessment of the performance of Germany resp. one´s own city in overcoming the challenges of receiving and integrating refugees; evaluation of the city´s refugee and integration policy; agreement on the accommodation of refugees in the district; type of volunteer work for refugees in the last two years (e.g. donations of money or goods, sorting or distribution of clothing or food, etc.); experience with hostility due to personal commitment to refugees; rather positive or rather negative experiences in contact with refugees; participation in actions against the further influx of refugees (residents´ meetings, signature actions, demonstrations, others); evaluation of the relationship between residents in the district; effects of the reception and integration of refugees on the community in the district; important measures of the city to promote social cohesion in the community (e.g., the introduction of a refugee centre in the district, the introduction of a refugee centre in the district, the introduction of a refugee centre in the district, the introduction of a refugee centre in the district). e.g. promotion of educational opportunities (day-care centres, schools), promotion of labour market integration, promotion of social housing, etc.).
+Frequency of private Internet use; number of books in the household; self-assessment of religiousness; life satisfaction; self-assessment of health status.
+Demography: Sex; age; household size; number of children in the household; marital status; occupational situation (employment status); highest level of schooling; highest level of vocational education and training; receipt of social benefits in the last 12 months; net household income; assessment of own economic situation; born in Germany; German citizenship; indication of citizenship; birth of parents in Germany (migration background); language spoken at home; indication of other language if not German.
+Additionally coded: Interview number; city (Rostock, Dessau, Dortmund, Lippstadt); weight; respondent did not provide information on age, household size and number of children.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-MV</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Rostock</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Rostock</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-ST</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Dessau</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Dessau</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Dortmund</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Dortmund</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Lippstadt</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Lippstadt</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutschsprachige Wohnbevölkerung ab 18 Jahren in Privathaushalten mit mindestens einem Festnetzanschluss in Dortmund, Rostock, Lippstadt und Dessau-Roßlau
+
+Die Stichprobe wurde in Dortmund durch eine Zusatzstichprobe ergänzt, in den Stadtteilen Brakel, Aplerbeck und Hörde wurde eine Aufstockung um eine Nettofallzahl in jedem Ortsteil von n=150 Interviews vorgenommen. </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German-speaking resident population aged 18 and over in private households with at least one fixed line in Dortmund, Rostock, Lippstadt and Dessau-Roßlau
+
+In Dortmund, the sample was supplemented by an additional sample; in the districts of Brakel, Aplerbeck and Hörde, the sample was increased by a net case number in each district of n=150 interviews.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2017-03-27</date>
+				</startDate>
+				<endDate>
+					<date>2017-05-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Ipsos Public Affairs, Berlin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>2952</numberUnits>
+			<numberVariables>154</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Weitere Studien der Reihe wurde unter folgenden ZA-Studiennummern archviert:
+7485: Radar gesellschaftlicher Zusammenhalt: Sozialer Zusammenhalt in Bremen 
+7486: Radar gesellschaftlicher Zusammenhalt: Sozialer Zusammenhalt in Deutschland 2017</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Further studies in the series were archived under the following ZA study numbers:
+7486: Social Cohesion Radar: Social Cohesion in Germany 2017
+7485: Social Cohesion Radar: Social Cohesion in Bremen	
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Gesemann, Frank; Roth, Roland; Seidel, Alexander; Schwarze, Kristin; Prötzsch, Janina:
+Fallstudien zum Zusammenhalt vor Ort.
+Gütersloh: Bertelsmann Stiftung, Gütersloh, 2018</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

@@ -1,0 +1,388 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'The foreign population in the German Empire, 1871 - 1932'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Die ausländische Bevölkerung im Deutschen Reich, 1871 - 1932'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA8616</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Die ausländische Bevölkerung im Deutschen Reich, 1871 - 1932</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>The foreign population in the German Empire, 1871 - 1932</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Gabriele</firstName>
+				<middleName/>
+				<lastName>Franzmann</lastName>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA8616?doi=10.4232/1.12369</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12369</doiProposal>
+	<publicationDate>
+		<date>2015-11-02</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA8616</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT76</identifier>
+					<!-- Daten Historischer Studien -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>GESCHICHTE</term>
+					<term>BEVÖLKERUNGSSTATISTIK</term>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>HISTORY</term>
+					<term>DEMOGRAPHY (POPULATION, VITAL STATISTICS, AND CENSUSES)</term>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Gegenstand der Datenkompilation: „Die Geschichte Deutschlands ist nicht erst seit Beginn der Bundesrepublik durch Zu- und Abwanderungen als Massenbewegung geprägt. Migration hat in Deutschland eine lange Tradition. Die Gründe hierfür sind seit Jahrhunderten im Wesentlichen die Gleichen: Das Streben nach einem besseren Leben für sich selbst oder für die Nachkommen, die Furcht vor politisch, ethnisch oder religiös motivierter Verfolgung oder die gewaltsame Vertreibung. Hinzu traten vor allem in der ersten Hälfte des 20. Jahrhunderts millionenfache Zwangswanderungen während und im Gefolge der beiden Weltkriege.“ (Sächsisches Staatsministerium für Soziales, www.soziales.sachsen.de/open).Die Einwanderung hat unter demografischen Gesichtspunkten zunächst für Deutschland keine besondere Rolle gespielt. So stellt M. Hubert fest, dass noch im Jahr 1871 die ausländische Bevölkerung im Deutschen Reich 0,5% der Gesamtbevölkerung ausmachte. „Vierzig Jahre später sind es 1.259.873, d.h. das Sechsfache, knapp 2% der deutschen Bevölkerung“. (M. Hubert (1998): Deutschland im Wandel. Stuttgart, S. 202)
+Das Thema Einwanderung nach Deutschland kann unter verschiedenen Gesichtspunkten betrachtet werden. Zum einen interessiert der Stand der ausländischen Bevölkerung sowie Herkunft und geografische Verteilung der Einwanderer in Deutschland. Einbürgerungsverfahren sowie Ausweisungen können ein Gradmesser für den Integrationserfolg sein. Die Einreise von Übersee in das Deutsche Reich – nicht zu verwechseln mit der tatsächlichen Immigration – gibt einen ersten Hinweis auf die Anziehungskraft Deutschlands. Ein besonderes Kapitel bildet der Bereich der ausländischen Arbeiterschaft im Deutschen Reich, ihre Vermittlung und die Vergabe von Legitimationen durch die Deutsche Arbeiterzentrale, Daten, die im Zusammenhang zu sehen sind mit der Behandlung ausländischer Arbeiter bzw. mit dem Versuch, einen dauerhaften Aufenthalt ausländischer Arbeiter im Deutschen Reich zu erschweren oder sogar zu verhindern.
+Zeit und Ort der Datenkompilation:Aufgrund der verfügbaren Quellen beginnt die Datenkompilation 1871 mit dem Bestehen einer einheitlichen Amtlichen Statistik für das Deutsche Reich. Im Deutschen Kaiserreich fanden Volkszählungen 1871 und von 1875 bis 1910 alle fünf Jahre statt, in denen unter anderem der Stand der Bevölkerung inkl. der Ausländer erfasst wurde. Einige Datentabellen beginnen später aufgrund der entsprechenden Datenlage der verfügbaren gedruckten Quellen. So können die Einbürgerungsverfahren nur für die Zeit von 1873-1885, mitunter nur für 1881-1885 wiedergegeben werden, da in den Statistischen Jahrbüchern für das Deutsche Reich nur für kurze Zeiträume die Fälle erfaßt wurden. Längere Reihen könnten aus gedruckten Quellen erhoben werden. So bieten zum Beispiel die Ausgaben der Zeitschrift des königlich preußischen Statistischen Büreaus, Jg. 14 (1874) bis Jg. 29 (1887) sowie Urkunden des Geheimen Staatsarchivs Preußischer Kulturbesitz (I. HA, Rep.77, Tit. 227, Nr. 4, Beihefte 1-28 für 1892-1918) Nachweise zu den Einbürgerungen in Preußen. Aufgrund der zur Verfügung stehenden begrenzten Zeit musste auf die Beschaffung dieser Quellen bzw. auf die Einsicht in diese Quellen vor Ort verzichtet werden. Die Kollektion der Daten endet 1932, vor der Ernennung Adolf Hitlers zum Reichskanzler am 30. Januar 1933. Das geografische Gebiet der Datenkompilation ist das Deutsche Reich und seine Einzelstaaten in den jeweiligen Grenzen, das bedeutet, dass Gebietsänderungen in dem Berichtszeitraum zu berücksichtigen sind. Dieser Sachverhalt gewinnt insbesondere im Zusammenhang der ausländischen Wanderarbeiter und deren Vermittlung bzw. Aufenthalt nach Gebieten im Deutschen Reich an Bedeutung. So wird die Anzahl der ausländischen Arbeiter nach Gebieten im Deutschen Reich nicht nur nach den politischen Grenzen der Deutschen Länder und Provinzen, sondern auch nach den Bezirksgrenzen der Arbeitsamtsbezirke berichtet. Darüber hinaus haben die Provinzen Westpreußen und Posen durch den Großpolnischen Aufstand von 1918 bis 1919 große Gebietsverluste hinnehmen müssen, so dass aus den verbliebenen Resten der beiden Provinzen die preußische Provinz Grenzmark Posen-Westpreußen gebildet wurde. Die Grenzmark bestand im Verband des Deutschen Reiches von 1922 bis 1938.
+Unterthemen der Datenkompilation:Die Datenkompilation gliedert sich in 5 Bereiche auf.
+A. Bevölkerung insgesamtDie Bevölkerung zur Zeit des Deutschen Reichs erlebte bis 1870 die erste Phase der demographischen Transformation, gekennzeichnet durch eine Verdoppelung der deutschen Bevölkerung in der Zeit von 1815 bis 1870. Wie M. Hubert (1998, Deutschland im Wandel, S. 30) feststellt, führten die langfristig stabilen und parallel verlaufenden Geburten- und Sterbeziffern zu einer Bevölkerungszunahme durch Geburtenüberschuss. Bis 1870 stellte die Einwanderung für Deutschland eine untergeordnete Rolle, was sich für die Jahre danach grundlegend änderte, denn es setzt eine deutliche Zunahme der ausländischen Bevölkerung bis kurz vor dem 1. Weltkrieg ein. „Preußen-Deutschland entwickelte sich in den zwei Jahrzehnten vor dem Ersten Weltkrieg weltweit zum zweitwichtigsten Zuwanderungsland nach den USA.“ (Oltmer, J. (2013), Migration im 19. und 20. Jahrhundert, S. 32) Mit dem Ergebnis der Volkszählung von 1900 wird eine starke Zunahme der ausländischen Bevölkerung insgesamt deutlich. Die Daten in dieser Kompilation zu Abschnitt A beziehen sich auf den Bevölkerungsstand des Deutschen Reichs ab 1871 und stammen aus den durchgeführten Volkszählungen. Weiterhin wurde für die Wiedergabe der Entwicklung der Bevölkerungszahl in Deutschland auf die Studie von Michael Huber (1998) sowie auf das Statistische Jahrbuch für Preußen zurückgegriffen. 
+B. Ausländische Bevölkerung nach Staatsangehörigkeit und nach deutschen StaatenAus den Werten zur ausländischen Bevölkerung kann davon ausgegangen werden, dass es sich um einen Immigrationsstrom handelt (M. Huber, S. 202). Dabei ist es interessant, in welchen Regionen Deutschlands sich die ausländische Bevölkerung angesiedelt hat als auch, aus welchen Gebieten die Menschen nach Deutschland gekommen sind. Die Angaben zu Herkunftsländern als auch zu den Aufenthaltsgebieten (deutsche Länder) der ausländischen Bevölkerung sind aus den verschiedenen Ausgaben des Statistischen Jahrbuchs für das Deutsche Reich entnommen worden und basieren auf den Ergebnissen der Volkszählungen.
+C. Einbürgerungen und Aufgabe der deutschen Staatsbürgerschaft„Einbürgerungsfragen hatten gegen Ende der Weimarer Republik einen hohen politischen Stellenwert. Auch zur Zeit des Deutschen Kaiserreiches waren Fragen der Einbürgerung bei den höchsten politischen Instanzen angesiedelt und noch heute ist Einbürgerung eines der konfliktträchtigsten innenpolitischen Themen. Um die heutigen Auseinandersetzungen und deren Ursachen über Einbürgerungsfragen in ihrer ganzen Komplexität verstehen zu können, ist es unerlässlich, das Phänomen als ein historisches zu betrachten.“ (Trevisiol, O. (2004): Die Einbürgerungspraxis im Deutschen Reich 1871-1945. Seite 3. Dissertation. KOPS – Das institutionelle Repositorium der Universität Konstanz, Suche im Bestand ‚Geschichte und Soziologie‘, WEB: http://d-nb.info/974206237/34 )Die Institution der Staatsangehörigkeit entstand mit der Entwicklung des modernen Staats zu Beginn des 19. Jahrhunderts (vergl. Gosewinkel, D. (2001): Einbürgern und Ausschließen; Trevisiol, O. (2004): Die Einbürgerungspraxis im Deutschen Reich 1871-1945). Die Staatsangehörigkeit kennzeichnet den Übergang vom Territorialstaat zum Personenverbandsstaat. Die Zuweisung von Rechten und Pflichten ist jetzt an die Staatsangehörigkeit gebunden und nicht mehr an den Ort der Niederlassung. Neben der allgemeinen Wehrpflicht sind bürgerliche Rechte inkl. Wahlrecht oder Ansprüche auf Unterstützung in Notlagen mit der Staatsangehörigkeit verknüpft. Einbürgerung muss immer auch im Zusammenhang mit der Integration von Migranten gesehen werden. „Der Umgang mit Einbürgerungsgesuchen lässt immer auch eine Aussage über den Offenheitsgrad der Mehrheitsgesellschaft zu“. (Trevisiol (2004), Einbürgerungspraxis im Deutschen Reich, S. 5, d-nb.info/974206237/34). Die in der vorliegenden Datenkompilation zusammengetragenen Daten entstammen aus den verschiedenen Ausgaben des Statistischen Jahrbuchs für das Deutsche Reich. In dieser Quelle wurde dem Thema der Einbürgerung eine untergeordnete Rolle zugewiesen, das heißt, dass die Nachweise nur für einen relativ kurzen Zeitraum (1873-1885, mit Angabe des Aufnahmegrundes sogar nur 1881-1885) in den Jahrbüchern wiedergegeben wurden. Dennoch wurden die Angaben hier aufgenommen und sollen als Anreiz für weitergehende Datenerhebungen verstanden werden. Die Studie von Oliver Trevisiol gibt wertvolle Hinweise zu Datenquellen, in denen Statistiken zu Einbürgerungen für die einzelnen Provinzen und Länder des Deutschen Reichs enthalten sind.
+D. Einreise von Übersee in das Deutsche ReichZur Zeit des Deutschen Reichs wurde eine Einwanderungsstatistik nicht geführt. Daher liegen für diesen Sachverhalt keine Werte vor. Erste Nachweisungen über Einreisende (zu unterscheiden von tatsächlichen Einwanderern) in das Deutsche Reich wurden erst seit 1904 durch die Reedereien, die sich mit Passagierbeförderung von Übersee her nach Bremen, Hamburg und Emden befassten, geführt. Diese Nachweise dokumentieren die von den Gesellschaften nach Deutschland beförderten Personen, die in Kajüten- und Zwischendeckpassagiere unterteilt wurden. Ab 1924 wurden auch Alter, Geschlecht und endgültiges Reiseziel ermittelt. In den Fällen, in denen das Reiseziel nicht festgestellt werden konnte, wurde die Staatsangehörigkeit der Reisenden für eine Unterscheidung der Reisenden als maßgeblich herangezogen. Vor 1924 existierten sehr unterschiedliche Altersklassifizierungen, die ab 1924 vereinheitlicht werden sollten mit der Klassifizierung: unter 1 Jahr, 1 – unter 6 Jahre, 6 – u. 14 Jahre, 14 – u. 15 Jahre, 15 – u. 18 Jahre, 18 – u. 21 Jahre, 21 – u. 25 Jahre, 25 – u. 30 Jahre, 30 – u. 40 Jahre, 40 – u. 50 Jahre, 50 – u. 55 Jahre, 55 – u. 60 Jahre, 60 Jahre und älter. Allerdings stellten sich Schwierigkeiten bei der Durchführung der Erhebung ein. Bremen hat für die aus Süd-Amerika kommenden Einreisenden Reiseziel und Staatsangehörigkeit nicht feststellen können und wich darüber hinaus von der allgemeinen Altersklassifizierung ab. Auch für Hamburg sind Schwierigkeiten bei der Erfassung des Reiseziels, der Staatsangehörigkeit und des Alters berichtet worden. Daher wurde entschieden, ab 1. Januar 1930 die Erhebung der Einreisestatistik nur noch in folgendem Umfang durchzuführen:-	Zahl der Einreisenden, gegliedert nach Geschlecht und Schiffsklassen-	Zahl der Einreisenden, gegliedert nach Altersklassen, und zwar: unter 1 Jahr, 1 bis unter 10 Jahre, über 10 Jahre-	Herkunftsländer in der Gliederung: aus europäischen Häfen; aus Nordamerika; aus Mittelamerika; aus Südamerika; aus Afrika; aus Asien; aus Australien und Neuseeland-	Staatsangehörigkeit in der Gliederung: Deutsches Reich; Großbritannien; übriges Europa; Britisch-Nordamerika; Vereinigte Staaten von Amerika; Mexiko; Mittelamerika und Westindien zusammen; Argentinien und Brasilien zusammen; andere Südamerikanische Staaten zusammen; Afrika; Asien und Australien zusammen; Staatenlose und ohne Angaben zusammen. (Statistik des Deutschen Reichs, Band 393, Die Bewegung der Bevölkerung in den Jahren 1928 und 1929, S. 103, Statistik des Deutschen Reichs, Band 441, S. 76)Die in der vorliegenden Datenkompilation wiedergegebenen Datentabellen zu den von Übersee Einreisenden nach Deutschland sind aus verschiedenen Ausgaben der Statistik des Deutschen Reichs entnommen worden. Entsprechend den Erfassungsproblemen der damaligen Zeit können diese Statistiken in ihrem Detaillierungsgrad nicht in die Tiefe gehen. Die ausführlichsten Angaben hinsichtlich der Altersgruppen sind von Hamburg erfasst worden, allerdings nur für einen kurzen Zeitraum (1925-1929). Weiterhin hat Hamburg für die Zeit von 1925 bis 1929 die über Hamburg rückwandernden (einreisenden) deutschen Reichsangehörigen nach Alter und Geschlecht erfasst.Allgemein gehaltene Angaben zur Zahl der Einreisenden, differenziert nach Einreisehafen und Schiffsklasse, reichen von 1904 bis 1932. Selbst die sehr allgemeine Unterteilung in Einreisende deutscher Nationalität und einreisende Ausländer insgesamt reicht nur für den Zeitraum von 1927-1932. 
+E. Ausländische Arbeiter im Deutschen ReichSeit den 1880er Jahren wuchs der Bedarf an Arbeitskräften im Deutschen Reich immens an. Der massive Industrialisierungsprozess führte zu einem Bedarf an Arbeitern, der durch die Arbeitskräfte in der einheimischen Bevölkerung sowie über die Zuwanderung der ländlichen Bevölkerung in die Städte nicht gedeckt werden konnte. Noch vor dem ersten Weltkrieg befanden sich in Deutschland weit über eine Millionen ausländische Wanderarbeiter. „In der Hochkonjunkturperiode seit den 1890er Jahren stieg die Zahl der in der deutschen Wirtschaft beschäftigten Ausländer sehr stark an und erreichte am Vorabend des Ersten Weltkrieges rund 1,2 Mio. Die wichtigsten Gruppen stellten in Preußen die in der Landwirtschaft beschäftigten Polen sowie Italiener, die besonders in Ziegeleibetrieben und im Tiefbau, aber auch im Bergbau und in der industriellen Produktion Beschäftigung fanden. Im letzten Jahrzehnt vor dem Ersten Weltkrieg nahm die Zahl der ausländischen Arbeitskräfte in Preußen von rund 605000 auf 901000 stark zu, in der Landwirtschaft arbeiteten 40%, in der Industrie 60%.“ (Oltmer, J. (2013), Migration im 19. und 20. Jahrhundert, S. 32) Der Ausländeranteil ist zunächst in den Industrieregionen besonders hoch (Königreich Sachsen und Rheinland). In allen Regionen, in denen durch eine starke Expansion der Industrie ein erhöhter Bedarf an ungelernten Arbeitskräften entstand, gewann die Zuwanderung ausländischer Arbeitskräfte an Bedeutung. Auf der anderen Seite ist ein bedeutender Ausländeranteil in stark landwirtschaftlich geprägten Regionen auszumachen. „Im ostelbischen Preußen lagen die wichtigsten landwirtschaftlichen Arbeitsbereiche der Polen im durch starke saisonale Arbeitsspitzen gekennzeichneten Hackfruchtbau. (…) Daneben war die Getreideernte bis zur 
+Einführung arbeitssparender Mäh- und Dreschmaschinen auch im preußischen Osten vor dem ersten Weltkrieg ein weiterer (…) Beschäftigungsbereich.“ (Oltmer, J. (2013, S. 33)Betrachtet man die geografische Herkunft der Migranten, so sind vier Länder besonders stark vertreten. Die aus Österreich-Ungarn stammenden Ausländer stellen den größten Anteil aller im Deutschen Reich lebenden Ausländer dar, wobei darauf hingewiesen werden muß, dass die aus Österreich-Ungarn stammenden Personen unterschiedlichen Nationalitäten angehören (Deutsche, Tschechen, Ungarn sowie Polen aus ehemals polnischen Gebieten, die 1795 und 1815 an die österreichische Krone fielen). Die Niederlande stellte einen weiteren bedeutenden Anteil der Einwanderer in das Deutsche Reich sowie aus Russland kommende Personen. Aus Russland kommende Einwanderer sind – wie im Fall Österreich-Ungarns – durch unterschiedliche Staatsangehörigkeit gekennzeichnet. Viele Polen stammen aus Russland, da sie in ehemals polnischen Gebieten leben, die seit dem Wiener Kongreß unter russischer Verwaltung stehen. Eine weitere bedeutende Gruppe unter den Einwanderern stellen die Italiener dar, die sich im Süden und Westen Deutschlands verstärkt niedergelassen haben. Der Wermutstropfen für die Wanderarbeiter bestand jedoch in der rigorosen Kontrolle durch die Deutsche Arbeiterzentrale, die mit dem Ziel gegründet wurde, eine dauerhafte Einwanderung zu erschweren. „Die Deutsche Arbeiterzentrale (DAZ) war eine Organisation zur Vermittlung von landwirtschaftlichen Saisonarbeitskräften. Sie hatte lange Zeit eine Monopolstellung inne. Die Organisation bestand von 1905 bis in die 1930er Jahre. Die Anregung zur Gründung der DAZ ging vom preußischen Landwirtschaftsministerium aus, um kommerzielle Anwerber zu verdrängen. Die DAZ erhielt 1907 das Monopol auf die Anheuerung polnischer Saisonarbeiter. Die Arbeitskräfte erhielten gegen eine Gebühr eine Arbeiterlegitimationskarte mit ihrem Namen und dem Namen des Arbeitgebers. An den Arbeitgeber waren die Beschäftigten für die Saison gebunden. Im Jahr 1922 erließ die Reichsarbeitsverwaltung die „Verordnung über die Anwerbung und Vermittlung ausländischer Landarbeiter.“ Diese Verordnung stärkte weiterhin das Monopol der DAZ.“ (siehe: https://de.wikipedia.org/wiki/Deutsche_Arbeiterzentrale)Die zu diesem Themenpunkt zusammengestellten Datenreihen entstammen zum einen aus den verschiedenen Ausgaben des Statistischen Jahrbuchs für das Deutsche Reich. Zum anderen wurden Daten aus folgenden wissenschaftlichen Publikationen entnommen: Elsner/Lehmann (1988): Ausländische Arbeiter unter dem deutschen Imperialismus, 1900 bis 1985. Berlin: Dietz Verlag.Oltmer, Jochen (2005): Migration und Politik in der Weimarer Republik. Göttingen: Vandenhoeck&amp;Ruprecht. 
+
+Datentabellen in HISTAT (Thema: Bevölkerung):
+A. Bevölkerung insgesamt
+A.01 Bevölkerung insgesamt und ausländische Bevölkerung im deutschen Reich, 1871-1933.
+A.02 Mittlere Bevölkerung, Eheschließungen, Geburten und Gestorbene (Anzahl und Ziffern) für das Deutsche Reich und für Preußen, 1817-1933
+
+B. Ausländische Bevölkerung nach Staatsangehörigkeit und nach deutschen Staaten
+B.01 Ausländische Bevölkerung nach Staatsangehörigkeit und nach deutschen Staaten: Zusammenfassende Übersicht, 1871-1939
+B.02 Ausländische Bevölkerung nach Staatsangehörigkeit und nach Geschlecht: differenzierte Darstellung nach dem Statistischen Jahrbuch, 1871-1939
+B.03 Ausländische Bevölkerung im deutschen Reich nach Gebieten im Deutschen Reich,1875-1939
+
+C. Einbürgerungen und Aufgabe der deutschen Staatsbürgerschaft
+C.01 Einbürgerungen nach Herkunftsländer der Eingebürgerten im Deutschen Reich, 1873-1885
+C.02 Aus dem Ausland aufgenommene Personen in das Deutschen Reich nach Aufnahmegrund, 1881-1885
+C.03 In das Ausland entlassene Deutsche nach Bestimmungsländer (Aufgabe der Staatsbürgerschaft) im Deutschen Reich, 1873-1885 
+C.04 In das Ausland entlassene oder ausgewiesene Personen aus dem Deutschen Reich nach Grund, 1881-1885
+C.05 Preußen: Erwerb und Verlust der preußischen Staatsangehörigkeit von Personen aus anderen deutschen Staaten und aus dem Ausland, 1874-1887
+
+D. Einreise von Übersee in das Deutsche Reich
+D.01a Überseeische Einreisende über Hamburg und Bremen nach Schiffsklasse, 1904-1932
+D.01b Überseeische Einreisende über Hamburg und Bremen nach Schiffsklasse und differenziert nach Deutschen und Ausländern, 1927-1932
+D.02 Verteilung des Einreiseverkehrs auf Hamburg und Bremen, 1913, 1921-1932
+D.03 Überseeische Einreisende über Hamburg nach Altersgruppe, 1925-1932
+D.04 Über Hamburg rückwandernde (einreisende) deutsche Reichsangehörige nach Alter und Geschlecht,1925-1929
+
+E. Ausländische Arbeiter im Deutschen Reich
+E.01 Ausländische Arbeiter in Preußen nach Staatsangehörigkeit, 1906-1914
+E.02 Ausländische Arbeiter in Preußen nach preußischen Provinzen, 1906-1914
+E.03 Ausländische Arbeiter in Preußen in Landwirtschaft und Industrie nach Staatsangehörigkeit und Nationalität, 1906-1914
+E.04 Ausländische Arbeiter in den preußischen Provinzen in Landwirtschaft und Industrie, 1906-1914
+E.05 Ausländische Arbeiter im Deutschen Reich nach Angaben der Deutschen Arbeiterzentrale, 1908-1932
+E.06 Zugelassene ausländische Arbeiter im Deutschen Reich nach Staatsangehörigkeit, 1910-1938
+E.07 Aufenthaltsgebiete und Beschäftigungsbereich der ausländischen Arbeiter im Deutschen Reich nach Landesarbeitsamtsbezirken, 1922-1933
+E.08 Vermittlung ausländischer Arbeiter im Deutschen Reich durch die Deutsche Arbeiterzentrale, 1919-1931
+E.09a-01 Vermittlung ausländischer landwirtschaftlicher Arbeiter in die Staaten des Deutschen Reichs nach Geschlecht, 1910-1931
+E.09a-02 Herkunftsland und Geschlecht der im Deutschen Reich vermittelten landwirtschaftlichen Arbeiter, 1910-1931
+E.09b Herkunftsland und Geschlecht der nach Ostpreußen vermittelten landwirtschaftlichen Arbeiter, 1910-1931
+E.09c Herkunftsland und Geschlecht der nach Westpreußen vermittelten landwirtschaftlichen Arbeiter, 1910-1931
+E.09d Herkunftsland und Geschlecht der nach Brandenburg vermittelten landwirtschaftlichen Arbeiter, 1910-1931
+E.09e Herkunftsland und Geschlecht der nach Pommern vermittelten landwirtschaftlichen Arbeiter, 1910-1931
+E.09f Herkunftsland und Geschlecht der nach Posen vermittelten landwirtschaftlichen Arbeiter, 1910-1931
+E.09g Herkunftsland und Geschlecht der nach Schlesien vermittelten landwirtschaftlichen Arbeiter, 1910-1931
+E.09h Herkunftsland und Geschlecht der in die Provinz Sachsen-Anhalt vermittelten landwirtschaftlichen Arbeiter, 1910-1927
+E.09i Herkunftsland und Geschlecht der nach Niedersachsen (zuvor: Königr. Hannover, Herzogt. Braunschweig, Großherzogt. Oldenburg, Lippe, Bremen) vermittelten landwirtschaftlichen Arbeiter, 1910-1931
+E.09j-01 Herkunftsland und Geschlecht der nach Schleswig-Holstein, Mecklenburg-Schwerin, Meck.-Strelitz, Hamburg und Lübeck sowie nach Nordmark vermittelten landwirtschaftlichen Arbeiter, 1910-1931
+E.09j-02 Herkunftsland und Geschlecht der in den Bezirk Nordmark vermittelten landwirtschaftlichen Arbeiter, 1928-1931
+E.09k-01 Herkunftsland und Geschlecht der nach Westfalen vermittelten Arbeiter, 1910-1931
+E.09k-02 Herkunftsland und Geschlecht der in das Rheinland vermittelten landwirtschaftlichen Arbeiter, 1921-1931
+E.09k-03 Herkunftsland und Geschlecht der nach Hessen (Hessen und Hessen-Nassau zusammen) vermittelten landwirtschaftlichen Arbeiter, 1921-1931
+E.09l Herkunftsland und Geschlecht der in das Königreich Sachsen und Thüringen vermittelten Arbeiter, 1910-1931
+E.09m Herkunftsland und Geschlecht der nach Bayern, Württemberg, Baden, Hessen und Elsaß-Lothringen bzw. nach Südwestdeutschland vermittelten Arbeiter, 1910-1931
+E.09n Herkunftsland und Geschlecht der nach Mitteldeutschland (Sachsen-Anhalt und Thüringen) vermittelten landwirtschaftlichen Arbeiter, 1910-1931
+</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Topic of the Data Compilation: 
+The history of Germany is characterized by immigration and emigration as a mass movement not only since the beginning of the Federal Republic. Migration has a long tradition in Germany. The reasons for this are substantially the same for centuries: The pursuit of a better life for themselves or for the descendants, the fear of political, ethnic or religious persecution, or the forcible expulsion. In addition there were, especially in the first half of the 20th century millions of forced migrations during and in the aftermath of two world wars. (see: Sächsisches Staatsministerium für Soziales, www.soziales.sachsen.de/open).
+Firstly, the immigration made under demographical points of view no appreciable impact on Germany. M. Hubert notes in his publication, that still in 1871 in the German Empire the foreign population accounted 0.5% of the total population. But forty years later there are 1259873 foreign persons in the German Empire, that is almost 2% of the German population. (M. Hubert (1998): Deutschland im Wandel. Stuttgart, S. 202) 
+The issue of immigration to Germany can be viewed under various aspects. Firstly, the state of the foreign population as well as origin and geographical distribution of immigrants in Germany is of interest. Naturalization processes and deportations may be an indicator of the success of integration. The entry from overseas into the German Empire - not to be confused with the actual immigration - is a first indication of the attractiveness of Germany. A special chapter is the subject area of foreign workers in the German Empire, their mediation and the granting of work legitimization by the German Center for Foreign Workers (Deutsche Arbeiterzentrale). These data have to be seen in the context of the foreign workers’ treatment by German institutions, whose attempt was to complicate a permanent stay of foreign workers in the German Empire, or even to prevent it. 
+Period and territory of the data compilation:Due to the available sources, the data compilation begins in 1871, when a uniform official statistics for the German Empire came into existence. The German Empire censuses were held in 1871 and from 1875 to 1910 every five years, in which, inter alia, the level of the population incl. the foreigner has been detected. The data series of some tables start several years after 1871 because of the data conditions of the available sources. Therefore, for example, the naturalization processes can only be reported for the period of 1873-1885 for the German Empire and from 1874 – 1887 for Prussia; sometimes data for the German Empire only accessible for 1881-1885, because the cases have been reported in the statistical yearbooks for the German Empire only for short periods. A deeper research using other statistical sources was not possible in the context of our Institution, which is mainly an Archive. Longer series can be collected from other printed sources. So for example, offer the editions of the royal Prussian statistical office magazine, issues 14 (1874) to 29 (1887) [in german: “Zeitschrift des königlich preußischen Statistischen Büreaus, Jg. 14 (1874) to Jg. 29 (1887)] information on the naturalizations in Prussia. Another interesting source are the documents of the Secret State Archives Prussian Cultural Heritage Foundation [in german: “Urkunden des Geheimen Staatsarchivs Preußischer Kulturbesitz (I. HA, Rep.77, Tit. 227, Nr. 4, Beihefte 1-28 für 1892-1918)”]. Because of the limited time available the procurement of these sources or the consultation of those resources on site was not possible. The data collection ends with the year 1932, before Adolf Hitler was appointed Chancellor on January 30th, in 1933.The geographical territory of the data compilation is the German Empire and its single states in their respective borders. This means, that changing borders and therefore territorial changes during the reporting period must be considered. This issue is gaining importance particular in the context of foreign migrant workers and their placement or stay by regions in the German Empire. In addition, the number of foreign workers by region in the German Reich is reported not only by the political boundaries of the German states and provinces, but also by the districts’ borders of the employment office districts. Moreover, the provinces of West Prussia and Posen have suffered large losses of territory in consequence of the Greater Poland Uprising (also called Posnanian War) in the years 1918 to 1919, so that from the remaining territories of the two provinces the new Prussian province called ‘Grenzmark Posen-West Prussia’ (or Posen-Westpreußen frontier province) was founded. The Posen-West Prussia frontier province existed in the federation of the German Empire between 1922 and 1938.
+Subtopics of data compilationThe data compilation is divided into 5 subject areas.
+A. Population in generalThe population at the time of the German Empire until 1870 experienced the first phase of demographic transition characterized by a doubling of the German population in the period 1815-1870. As M. Hubert noticed (1998, Deutschland im Wandel, S. 30), the long-term stable and parallel running fertility and mortality rates led to a population increase caused by birth surplus. Until 1870 the immigration posed a subordinate role for Germany, which has changed fundamentally for years thereafter, because there was a significant increase in the foreign population until shortly before the 1st World War. Prussia became during the two decades before the first World War the world´s second most important country of immigration after the USA. „Preußen-Deutschland entwickelte sich in den zwei Jahrzehnten vor dem Ersten Weltkrieg weltweit zum zweitwichtigsten Zuwanderungsland nach den USA.“ (Oltmer, J. (2013), Migration im 19. und 20. Jahrhundert, S. 32) The result of the census in 1900 illustrates a sharp increase in the foreign population as a whole. The data in this compilation to point A relate to the Population of the German Empire since 1871 and stems from the population censuses. Furthermore, for the report of Germany’s population development the study of Michael Hubert (1998) and the Statistical Yearbook of Prussia were used as sources.
+B. Foreign population by nationality and by German statesThe development of the values of the foreign population suggests that there is an immigration stream (M. Huber, S. 202). In this context it is interesting, in which regions of Germany the foreign population settled as well as what nations and regions they came from. The information on countries of origin as well as about the German states the foreign population has settled have been taken from the various editions of the Statistical Yearbook for the German Reich and based on the results of censuses. 
+C. Naturalization, loss or surrender of German nationalityNaturalization issues had a high political priority towards the end of the Weimar Republic. At the time of the German Empire the question of naturalization were also settled at the highest political authorities and today, at the time of the Federal Republic of Germany, this question of naturalization is one of the most conflictual domestic issues. To understand today´s conflicts concerning naturalization issues and their causes in all their complexity, it is essential to consider the phenomenon as a historical one. (Trevisiol, O. (2004): Die Einbürgerungspraxis im Deutschen Reich 1871-1945. Seite 3. Dissertation. KOPS – Das institutionelle Repositorium der Universität Konstanz, Suche im Bestand ‚Geschichte und Soziologie‘, WEB: http://d-nb.info/974206237/34 ) The institution of nationality emerged with the development of the modern state in the early 19th century. (see Gosewinkel, D. (2001): Einbürgern und Ausschließen; Trevisiol, O. (2004): Die Einbürgerungspraxis im Deutschen Reich 1871-1945). The institution of nationality marks the transition from a territorial state to a state as an association of persons (= Personenverbands-Staat). The assignment of rights and obligations is now tied to the nationality and no longer to the place of residence. Apart from the general conscription, civil rights incl. the right to vote or claims for assistance in emergencies are linked with the citizenship. Naturalization must always be seen in connection with the integration of migrants. The treatment with naturalization petitions also permits a statement about the degree of openness of the majority society. (see: Trevisiol (2004), Einbürgerungspraxis im Deutschen Reich, S. 5, d-nb.info/974206237/34)The information gathered in the present data compilation is taken from the various editions of the Statistical Yearbook of the German Empire. In this source the subject of naturalization has been assigned a subordinate role, which means that the documentation of naturalization processes is reported only for a relatively short period (1873-1885 for the German Empire and 1874-1887 for Prussia; documentation incl. the reason for naturalization even just 1881-1885) in the yearbooks. Nevertheless, the information has been recorded in the data compilation at hand and this data should be seen as an incentive for further data collection on this topic. The study by Oliver Trevisiol provides valuable information about data sources, containing statistics on naturalizations for each provinces and countries of the German Empire. 
+D. Entry from overseas into the German EmpireAt the time of the German Empire an immigration statistics has not been conducted. Therefore there are no values for this issue. First documentations and lists concerning entering persons into the German Empire (to be distinguished from actual immigrants) were only conducted since 1904 by shipping companies, which dealt with passenger carriage from overseas to Bremen, Hamburg and Emden. In these passenger lists the persons carried by the companies to Germany were listed, structured into cabins passengers and steerage passengers. Since 1924 age, gender and destination of travel has been conducted. In cases, were the collection of travel destination was not possible, the nationality of the traveler has been gathered. Due to difficulties of collecting the information of the passengers, it was decided to collect the statistics of entering persons since January 1930 only in the following design:-	Number of entering persons, divided into gender and shipping class-	Number of entering persons, divided into the following age-classes: less than 1 Year, 1Year until less than 10 Years, older than 10 Years.-	Region of origin divided into the following way: from European ports, from North America, from Middle America, from South America, from Africa, from Asia, from Australia and New Zeeland.-	Nationality, divided into: Germen Empire, Great Britain, rest of Europe, British-North-America, United States of America, Mexico, Middle-America and Western India together; Argentina and Brazil together, rest of South American states together, Africa, Asia and Australia together, stateless persons and cases without specification together. (see: Statistik des Deutschen Reichs, Band 393, Die Bewegung der Bevölkerung in den Jahren 1928 und 1929, S. 103, Statistik des Deutschen Reichs, Band 441, S. 76) The tables with information about entering persons from overseas into the German Empire of the data compilation at hand has been conducted from several issues of the Statistik des Deutschen Reichs (= Statistics of the German Empire). According to the collection problems of that time, these statistics cannot offer in-depth information in their level of detail. The most detailed information regarding the age groups have been collected by Hamburg, but only for a short period (1925-1929). General information on the number of those entering persons, differentiated by port of entry and the ship class, are available for the period from 1904 to 1932. Even the very general subdivision of entering people divided into people with German nationality and foreigners has only been gathered for the period of 1927-1932. 
+E. Foreign Workers in the German EmpireSince the 1880s, the demand for labor in the German Empire grew immensely. The massive industrialization process led to an increasing demand for workers, which neither could be covered by the local working force of the cities nor by the immigration of German rural population into the cities. Even before the First World War in Germany were located more than a million foreign migrant workers. In the period of prosperity since the 1890s the number of foreign workers employed in the German economy grew very strongly and reached on the eve of World War I around 1.2 million people. The main groups in Prussia has been persons from Poland employed in agriculture and persons from Italy, who found employment especially in brick factories and in civil engineering, but also in mining and industrial production. In the last decade before the First World War, the number of foreign workers in Prussia rose sharply from around 605.000 to 901.000. (see: Oltmer, J. (2013), Migration im 19. und 20. Jahrhundert, S. 32) First of all, the proportion of foreigners is particularly high in the industrial regions (Kingdom of Saxony and Rhineland). In all regions, where a strong expansion of industry occurred, an increased demand for unskilled labor force developed, the immigration of foreign workers gained in importance. On the other hand there was a significant proportion of foreigners in highly agricultural regions. Considering the geographical origin of the foreign workers, four countries are particularly well represented. Foreign workers coming from Austria-Hungary represented the largest share of all foreigners lived in the German Empire. In this context it must be pointed out that persons, who came from Austria-Hungary belonged to different nationalities (Germans, Czechs, Hungarians, and Poles from former Polish territories fell to Austria in 1795 and 1815). Persons from Netherlands were another significant proportion of immigrants as well as persons who came from Russia. Immigrants came from Russia at that time were characterized by different nationalities – similar to the case of immigrants from Austria-Hungary. Many Poles came from Russia, because they lived in former Polish territories, which were under Russian administration since the Congress of Vienna in 1814/1815. Another significant group among the immigrants were the Italians, who settled mainly in southern and western Germany. However, the rigorous control by the “Deutsche Arbeiterzentrale” (German Workers’ Center) made immigration for foreign workers difficult. The “Deutsche Arbeiterzentrale” was founded with the aim to hamper permanent immigration. The data series collected on this topic are taken partly from various editions of the Statistical Yearbook for the German Empire. Secondly, data were taken from the following scientific publications:Elsner/Lehmann (1988): Ausländische Arbeiter unter dem deutschen Imperialismus, 1900 bis 1985. Berlin: Dietz Verlag.Oltmer, Jochen (2005): Migration und Politik in der Weimarer Republik. Göttingen: Vandenhoeck&amp;Ruprecht.
+Data tables in HISTAT (Topic: Population (Bevölkerung), Data- description is offered in German):
+A. Population in general
+A.01 Population in general and foreign population in the German Empire, 1871-1933.
+A.02 Mean population, marriages, births, and deaths (number and ratio) for the German Empire and Prussia, 1817-1933
+
+B. Foreign Population by nationality and by German states 
+B.01 Foreign Population by nationality and by German states: Ausländische Bevölkerung nach Staatsangehörigkeit und nach deutschen Staaten: summarizing overview, 1871-1939
+B.02 Foreign Population by nationality and by gender: differentiating overview according to the statistical yearbook, 1871-1939
+B.03 Foreign Population in the German Empire by German regions,1875-1939
+
+C. Naturalizations and surrender of German Nationality
+C.01 Naturalization by country of origin of the naturalized, 1873-1885
+C.02 Admitted persons from abroad by reason of admission, 1881-1885
+C.03 Germans released into foreign countries by destination country (surrender of German Nationality), 1873-1885 
+C.04 Released or expelled persons from the German Empire by reason of release or expulsion, 1881-1885
+C.05 Prussia: Naturalization and loss of Prussian nationality of persons stemming from other German states and of persons from abroad, 1874-1887
+
+D. Entry from overseas to the German Empire 
+D.01a From overseas arriving persons by the ports of entry in Hamburg and Bremen and by shipping class, 1904-1932
+D.01b From overseas arriving persons by the ports of entry in Hamburg and Bremen, by shipping class, and differentiated into German persons and foreigners, 1927-1932
+D.02 Distribution of the incoming persons across the ports of entry Hamburg and Bremen, 1913, 1921-1932
+D.03 From overseas arriving persons in Hamburg by age groups, 1925-1932
+D.04 From overseas reentering persons with German nationality by age and gender, 1925-1929
+
+E. Foreign workers in the German Empire: 
+E.01 Foreign Workers in Prussia by nationality, 1906-1914
+E.02 Foreign Workers in Prussia by Prussian provinces, 1906-1914
+E.03 Foreign Workers in Prussia by the sectors agriculture and industry and by citizenship and country of origin, 1906-1914
+E.04 Foreign Workers in Prussian provinces in agriculture and in industry, 1906-1914
+E.05 Foreign Workers in the German Empire according to the information of the ‚Deutsche Arbeiterzentrale‘ (German Workers‘ Center, 1908-1932
+E.06 Licensed foreign workers of the German Empire by nationality, 1910-1938
+E.07 Whereabouts and employment sector of foreign workers in the German Empire by employment office districts (Arbeitsamtsbezirke), 1922-1933
+E.08 Placement of foreign worker by the ‚Deutsche Arbeiterzentrale‘ (German Workers‘ Center) in the German Empire, 1919-1931
+E.09a-01 Placement of foreign agricultural workers by German countries as destination of the placement and by gender of the foreign workers, 1910-1931
+E.09a-02 Country of origin and gender of foreign agricultural workers in the German Empire, 1910-1931
+E.09b East-Prussia: Country of origin and gender of foreign agricultural workers, who were sent to East-Prussia, 1910-1931
+E.09c West-Prussia: Country of origin and gender of foreign agricultural workers, who were sent to West-Prussia, 1910-1931
+E.09d Brandenburg: Country of origin and gender of foreign agricultural workers, who were sent to Brandenburg, 1910-1931
+E.09e Pomerania: Country of origin and gender of foreign agricultural workers, who were sent to Pomerania, 1910-1931
+E.09f Posen: Country of origin and gender of foreign agricultural workers, who were sent to Posen, 1910-1931
+E.09g Silesia: Country of origin and gender of foreign agricultural workers, who were sent to Silesia, 1910-1931
+E.09h Prussian Province Saxony-Anhalt:   Country of origin and gender of foreign agricultural workers, who were sent to Saxony-Anhalt, 1910-1927
+E.09i Lower Saxony: Country of origin and gender of foreign agricultural workers, who were sent to Lower Saxony (before: Kingdom of Hannover, Duchy of Braunschweig, Great Duchy of Oldenburg, Lippe, Bremen), 1910-1931
+E.09j-01 Schleswig-Holstein, Mecklenburg-Schwerin and Mecklenburg-Strelitz, Hamburg and Luebeck: Country of origin and gender of foreign agricultural workers, who were sent to Schleswig-Holstein, Mecklenburg-Schwerin and Mecklenburg-Strelitz, Hamburg and Luebeck, 1910-1931 
+E.09j-02 Employment office district Nordmark: Country of origin and gender of foreign agricultural workers, who were sent to the district Nordmark, 1928-1931
+E.09k-01 Employment office district Westphalia: Country of origin and gender of foreign agricultural workers, who were sent to the district Westphalia, 1910-1931
+E.09k-02 Employment office district Rhineland: Country of origin and gender of foreign agricultural workers, who were sent to the district Rhineland, 1921-1931
+E.09k-03 Employment office districtHesse: Country of origin and gender of foreign agricultural workers, who were sent to the district Hesse (Hesse and Hesse-Nassau), 1921-1931
+E.09l Kingdom of Saxony and Thuringia: Country of origin and gender of foreign agricultural workers, who were sent to the Kingdom of Saxony and Thuringia, 1910-1931
+E.09m Bavaria, Wuerttemberg, Baden, Hesse and Alsace-Lorraine: Country of origin and gender of foreign agricultural workers, who were sent to Bavaria, Wuerttemberg, Baden, Hesse and Alsace-Lorraine, 1910-1931
+E.09n Employment office district Mitteldeutschland (Central Germany): Country of origin and gender of foreign agricultural workers, who were sent to the district ‘Central Germany’ (Saxony-Anhalt and Thuringia), 1910-1931</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DXDE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>German Empire in its respective borders</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Deutsches Reich in seinen jeweiligen Grenzen</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>1871</year>
+				</startDate>
+				<endDate>
+					<year>1932</year>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Quellen:
+
+Wissenschaftliche Publikationen; Amtliche Statistik:
+
+
+Max Broesike (1904), Rückblick auf die Entwicklung der preußischen Bevölkerung von 1875 bis 1900, Preußische Statistik 188, S. 12-14.
+
+Elsner/Lehmann (1988): Ausländische Arbeiter unter dem deutschen Imperialismus, 1900 bis 1985. Berlin: Dietz Verlag.
+
+Hubert, Michel (1998): Deutschland im Wandel. Geschichte der deutschen Bevölkerung seit 1815. Stuttgart: Steiner.
+
+Köbler, Gerhard (2007): Historisches Lexikon der deutschen Länder. Die deutschen Territorien vom Mittelalter bis zur Gegenwart. München: Beck.
+
+Königlich Preußisches Statistisches Landesamt: Statistisches Jahrbuch für den Preußischen Staat, 13. Jahrgang, Berlin 1916 und 16. Jahrgang, Berlin 1920.
+
+Königlich Statistisches Bureau in Berlin: Preußische Statistik (Amtliches Quellenwerk), Heft 139. Die Sterblichkeit nach Todesursachen und Altersklassen der Gestorbenen sowie die Selbstmorde und die tödlichen Verunglückungen im preußischen Staate während des Jahres 1894. Berlin, 1896.
+
+Königlich Statistisches Bureau in Berlin: Preußische Statistik, Heft 188: Rückblick auf die Entwicklung der preußischen Bevölkerung von 1875 bis 1900. Berlin, 1904, S. 105.
+
+Oltmer, Jochen (2005): Migration und Politik in der Weimarer Republik. Göttingen: Vandenhoeck&amp;Ruprecht.
+
+Preußisches Statistisches Landesamt: Statistisches Jahrbuch für den Freistaat Preußen, Statistisches Jahrbuch für den Freistaat Preußen, 17. Band, 1921 und 29. Band, 1933.
+
+Stat. Bundesamt (Hrsg.): Bevölkerung und Erwerbstätigkeit. Fachserie 1, Reihe 2. Ausländische Bevölkerung. Ausgabe 2013, S. 26, Tabelle 1.
+
+Stat. Reichsamt (Hrsg.): Statistisches Jahrbuch für das Deutsche Reich, verschiedene Jahrgänge: Jg. 1880 bis Jg. 1941/42.
+
+Stat. Reichsamt (Hrsg.): Statistik des Deutschen Reichs: Band 360, Band 393, Band 441.
+
+Trevisiol, O.: Die Einbürgerungspraxis im Deutschen Reich 1871-1945. Diss. 2004. Tab. 1, S. 20 und Tab. 4, S. 24. KOPS – Das institutionelle Repositorium der Universität Konstanz, Suche im Bestand ‘Geschichte und Soziologie‘,
+WEB: http://d-nb.info/974206237/34
+
+
+Weitere Literatur
+
+Bade, Klaus J. (2002): Europa in Bewegung. Migration vom späten 18. Jahrhundert bis zur Gegenwart. München: Beck.
+
+Gosewinkel, Dieter (2001): Einbürgern und Ausschließen. Göttingen: Vandenhoeck &amp; Ruprecht.
+
+Oltmer, Jochen (2012): Globale Migration. Geschichte und Gegenwart. München: Beck.
+
+Oltmer, Jochen (2013): Migration im 19. Und 20. Jahrhundert. München: Oldenbourg.
+
+wikipedia.org
+
+
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Sources:
+Scientific Publications; official Statistics:
+
+
+Max Broesike (1904), Rückblick auf die Entwicklung der preußischen Bevölkerung von 1875 bis 1900, Preußische Statistik 188, S. 12-14.
+
+Elsner/Lehmann (1988): Ausländische Arbeiter unter dem deutschen Imperialismus, 1900 bis 1985. Berlin: Dietz Verlag.
+
+Hubert, Michel (1998): Deutschland im Wandel. Geschichte der deutschen Bevölkerung seit 1815. Stuttgart: Steiner.
+
+Köbler, Gerhard (2007): Historisches Lexikon der deutschen Länder. Die deutschen Territorien vom Mittelalter bis zur Gegenwart. München: Beck.
+
+Königlich Preußisches Statistisches Landesamt: Statistisches Jahrbuch für den Preußischen Staat, 13.  Jahrgang, Berlin 1916 und 16. Jahrgang, Berlin 1920.
+
+Königlich Statistisches Bureau in Berlin: Preußische Statistik (Amtliches Quellenwerk), Heft 139. Die Sterblichkeit nach Todesursachen und Altersklassen der Gestorbenen sowie die Selbstmorde und die tödlichen Verunglückungen im preußischen Staate während des Jahres 1894. Berlin, 1896.
+
+Königlich Statistisches Bureau in Berlin: Preußische Statistik, Heft 188: Rückblick auf die Entwicklung der preußischen Bevölkerung von 1875 bis 1900. Berlin, 1904, S. 105.
+
+Oltmer, Jochen (2005): Migration und Politik in der Weimarer Republik. Göttingen: Vandenhoeck&amp;Ruprecht.
+
+Preußisches Statistisches Landesamt: Statistisches Jahrbuch für den Freistaat Preußen, Statistisches Jahrbuch für den Freistaat Preußen, 17. Band, 1921 und  29. Band, 1933.
+
+Stat. Bundesamt (Hrsg.): Bevölkerung und Erwerbstätigkeit. Fachserie 1, Reihe 2. Ausländische Bevölkerung. Ausgabe 2013, S. 26, Tabelle 1.
+
+Stat. Reichsamt (Hrsg.): Statistisches Jahrbuch für das Deutsche Reich, verschiedene Jahrgänge: Jg. 1880 bis Jg. 1941/42.
+
+Stat. Reichsamt (Hrsg.): Statistik des Deutschen Reichs: Band 360, Band 393, Band 441.
+
+Trevisiol, O.: Die Einbürgerungspraxis im Deutschen Reich 1871-1945. Diss. 2004. Tab. 1, S. 20 und Tab. 4, S. 24. KOPS – Das institutionelle Repositorium der Universität Konstanz, Suche im Bestand ‘Geschichte und Soziologie‘, 
+WEB: http://d-nb.info/974206237/34
+
+
+Further literature
+
+Bade, Klaus J. (2002): Europa in Bewegung. Migration vom späten 18. Jahrhundert bis zur Gegenwart. München: Beck.
+
+Gosewinkel, Dieter (2001): Einbürgern und Ausschließen. Göttingen: Vandenhoeck &amp; Ruprecht.
+
+Oltmer, Jochen (2012): Globale Migration. Geschichte und Gegenwart. München: Beck.
+
+Oltmer, Jochen (2013): Migration im 19. Und 20. Jahrhundert. München: Oldenbourg.
+
+wikipedia.org 
+
+
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>1060</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>histat-online-Publikation</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

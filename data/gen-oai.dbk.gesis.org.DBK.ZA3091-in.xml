@@ -1,0 +1,241 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'German and Foreign Gastronomes in Confrontation with Racketeering and Corruption
+(KFN-Businessmen-Survey - Telefon Survey)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Deutsche und ausländische Gastronomen in Konfrontation mit
+Schutzgelderpessung und Korruption
+(KFN-Geschäftsleute-Erhebung - Telefonische Befragung)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3091</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Deutsche und ausländische Gastronomen in Konfrontation mit
+Schutzgelderpessung und Korruption
+(KFN-Geschäftsleute-Erhebung - Telefonische Befragung)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>German and Foreign Gastronomes in Confrontation with Racketeering and Corruption
+(KFN-Businessmen-Survey - Telefon Survey)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Thomas</firstName>
+				<middleName/>
+				<lastName>Ohlemacher</lastName>
+				<affiliation>
+					<affiliationName>Kriminologisches Forschungsinstitut Niedersachsen, Hannover
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Ute</firstName>
+				<middleName/>
+				<lastName>Gabriel</lastName>
+				<affiliation>
+					<affiliationName>Kriminologisches Forschungsinstitut
+Niedersachsen, Hannover</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Eberhard</firstName>
+				<middleName/>
+				<lastName>Mecklenburg</lastName>
+				<affiliation>
+					<affiliationName>Kriminologisches Forschungsinstitut
+Niedersachsen, Hannover</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Christian</firstName>
+				<middleName/>
+				<lastName>Pfeiffer</lastName>
+				<affiliation>
+					<affiliationName>Kriminologisches Forschungsinstitut
+Niedersachsen, Hannover</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3091?doi=10.4232/1.3091</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.3091</doiProposal>
+	<publicationDate>
+		<year>1998</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3091</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT20</identifier>
+					<!-- Rechtssystem, Rechtsprechung, Gesetz -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kriminalität und Gesetzesvollzug</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Crime and law enforcement</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Erfahrungen von Gastronomiebesitzern mit Kriminalität undSchutzgelderpressung.
+Themen: Ethnologische Herkunft und Staatsangehörigkeit; Geschlecht; Artdes Betriebes; Dauer der Inhaberschaft; Umzug in die Neuen Bundesländernach Maueröffnung; früher in DDR gelebt; Mitarbeiteranzahl; Kapazitätfür Gäste (Sitzplätze); Bier- und Essenspreise; Ortsgröße; subjektiveWahrscheinlichkeit und Furchthäufigkeit von Kriminalität (Skala);normative Einstellung gegenüber Kriminalität, Strafverfolgung undSelbstjustiz; tatsächliche Viktimisierung (privat und geschäftlich):Raub, Einbruch, Kfz-Diebstahl, einfache und schwere Körperverletzung,Sachbeschädigung; Polizei informiert; Viktimisierung aufgrund ethnischerHerkunft; schwerwiegendstes Delikt, das dem Befragten in Deutschlandwiderfahren ist; detaillierte Angaben zu diesem Delikt:geschäftlich/privat, Behandlung durch die Polizei, Meldung an dieStaatsanwaltschaft, Protokoll unterschrieben, empfundeneUngleichbehandlung bei Polizei aufgrund ethnischer Herkunft, Strafantraggestellt, Angaben zum Täter (bekannt, jugendlich, Nationalität), Grundfür nicht erstattete Anzeige, Schadenshöhe, Versicherungsschutz,körperliche und seelische Folgen; existierende Schutzmaßnahmen gegenKriminalität (Alarmanlage, Waffenbesitz, etc); Einstellung zuKriminalität, Polizei und Justiz (Skala); Einstellung zu Strafen:Strafmaß bei Einbruch und bei Körperverletzung; Bewertung der subjektivempfundenen Schwere von Straftaten; Einstellung zu Opfer-Täter-Beziehungin Abhängigkeit von ethnischer Herkunft (Skala); bei Ausländern:Einstellung zur deutschen Staatsbürgerschaft für in Deutschland geboreneKinder; früher andere Staatsbürgerschaft; seit wann in Deutschland;Interesse an deutscher Staatsbürgerschaft; Schulabschluss;Haushaltsgröße und Kinder unter 18 Jahren im Haushalt; Nationalität desPartners; Treffen mit Kollegen eigener Nationalität; Wirtschaftslage desBetriebes; empfundene Gleichbehandlung bei Behörden allgemein sowie beider Polizei im Speziellen; Zufriedenheit mit Ordnungsamt undAusländerbehörde; Verantwortlichkeit des Staates für Umweltschutz,Mitwirkung der Bürger an politischen Entscheidungen, Sicherheit,wirtschaftliche Stabilität, nationale Verteidigung, Bereitstellung einerstarken politischen Führung, Sicherung der freien Marktwirtschaft, Ruheund Ordnung im Land, Ausländerintegration (Skala); Einstellung zuSteuerbetrug und Gesetzestreue; Einstellung zur Beeinflussbarkeit derpolitischen Akteure; Vertrauen in die Bundesregierung und den Staat;Einstellung zur Demokratie und zum Funktionieren der Demokratie in derBRD; geschätzter Anteil der Gastronomiebetriebe, die es mit korruptenBeamten zu tun haben (perzipierte Viktimisierung durch Korruption);Vorfälle von Korruption im Kollegenkreis und deren Nationalität;Behördenzugehörigkeit des korrupten Beamten; Grund für Korruption;verlangte Gegenleistung; eigene Gegenwehr und Anzeigeverhalten;Zufriedenheit mit Behördenarbeit gegen Korruption; Schätzung der Ausmaßelokaler Schutzgelderpressung (in Prozent); schutzgelderpressteGeschäftsleute im Bekanntenkreis; Nationalität der Betroffenen;vermutete Einzeltäter oder kriminelle Gruppe; Erpressung durch Fremdeoder Bekannte, von denen der Erpresste abhängig ist; Anzahl der vonschutzgelderpressten Kollegen; Art der Drohung und Erpressung; Schutzerhalten; Verhalten der erpressten Personen; Gesamtschaden derErpressung; Einschätzung der Möglichkeiten der Justiz zurSchutzgelderpressung; notwendige Änderungen zur erfolgreichenBekämpfung; Zufriedenheit mit Arbeit von Justiz gegenSchutzgelderpressungen; antizipierte Reaktion bei einem Versuch derSchutzgelderpressung; empfohlene Maßnahmen zur Erhöhung derAnzeigebereitschaft; Sinnhaftigkeit des regelmäßigenErfahrungsaustausches zwischen Gastronomiebetreibern und der Polizeiüber Schutzgelderpressung; Kenntnis von speziellen Hilfsangeboten füraussagewillige Opfer und Zeugen.
+Demographie: Geschlecht, Alter und ethnische Herkunft des Interviewers.
+zusätzlich Interviewerrating: Anwesenheit (Mithören) dritter Personenbeim Interview und deren Eingriff in den Befragungsverlauf; Zeitdruck,Kooperationsbereitschaft und Zuverlässigkeit des Befragten;Einschätzung, ob der Befragte Personen kennt, die vonSchutzgelderpressung betroffen sind.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Gastronomiebetreiber</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: 1. Repräsentative Auswahl von deutschen Gastronomiebetreibern aus dem
+Branchenfernsprechbuch (Gelbe Seiten) der Deutschen Bundespost;
+2. Vollerhebung bei den türkischen, italienischen und griechischen
+Gastronomiebetreibern nur in den alten Bundesländern, ebenfalls aus den
+Gelben Seiten.
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1995-10</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1995-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>EMNID, Bielefeld
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>664</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Zum gleichen Projekt gehört eine gleichzeitig durchgeführte postalische
+Befragung, die unter der ZA-Studien-Nr. 3092 geführt ist.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Gabriel, Ute; Mecklenburg, Eberhard; Ohlemacher, Thomas: 
+Die KFN-Geschäftsleute-Erhebung: Hauptuntersuchung: Durchführung, Stichprobenbeschreibung und Fragen der Repräsentativität (Projektbericht 2) 
+Hannover: Kriminologisches Forschungsinstitut Niedersachsen, Dezember 1996 
+(Forschungsberichte Nr. 58)</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Gabriel, Ute; Mecklenburg, Eberhard; Ohlemacher, Thomas: 
+Die KFN-Geschäftsleute-Erhebung: Deutsche und ausländische Gastronomen in Konfrontation mit Schutzgelderpressung und Korruption: Erste Befunde der Hauptuntersuchung (Projektbericht 3) 
+Hannover: Kriminologisches Forschungsinstitut Niedersachsen, April 1997 
+(Forschungsberichte Nr. 61)</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

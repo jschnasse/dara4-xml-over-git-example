@@ -1,0 +1,225 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Determinants and Indicators for the Integration and Segregation of the Foreign Population (BiB-Integration Survey)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Determinanten und Indikatoren der Integration und Segregation der ausländischen Bevölkerung (BiB-Integrationssurvey)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4821</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Determinanten und Indikatoren der Integration und Segregation der ausländischen Bevölkerung (BiB-Integrationssurvey)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Determinants and Indicators for the Integration and Segregation of the Foreign Population (BiB-Integration Survey)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Bundesinstitut für Bevölkerungsforschung (BiB), Wiesbaden</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4821?doi=10.4232/1.4821</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.4821</doiProposal>
+	<publicationDate>
+		<year>2009</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4821</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Familie und Ehe</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Einkommen, Vermögen und Geldanlagen/Sparen</term>
+					<term>Wohnraum</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Community, urban and rural life</term>
+					<term>Social conditions and indicators</term>
+					<term>Family life and marriage</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Income, property and investment/saving</term>
+					<term>Housing</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Lebens- und Arbeitssituation. Einstellungen zum Leben in Deutschlandund zur politischen Partizipation. Familiale Lebensbedingungen undEinstellungen. Sozioökonomische Lage sowie Wohnumfeld. Art und Ausmaßder Kontakte zur ethnischen Community und ihren Einrichtungen. 
+Themen: Italiener und Türken wurden gefragt: Beurteilung der eigenenSprachkenntnisse in Deutsch, Türkisch und Italienisch (Verstehen,Sprechen, Lesen, Schreiben); mit den Eltern und Geschwisterngesprochene Sprache; Unterhaltungen mit Klassenkameraden, Kollegen undFreunden gleicher Nationalität eher auf Deutsch oder auf Italienischbzw. Türkisch; Sprache der gelesenen Zeitungen oder Zeitschriften;Rezeption deutscher oder italienischer bzw. türkischerFernsehprogramme, Videofilme und gelesene Bücher; deutscheStaatsbürgerschaft; Absicht zur Annahme der deutschenStaatsbürgerschaft; Vorteile oder Nachteile einer deutschenStaatsangehörigkeit; Annahme der deutschen Staatsbürgerschaft auch beiAufgabe der italienischen bzw. türkischen Staatsbürgerschaft; Vorteileoder Nachteile in diesem Fall; Identifikation als Deutscher bzw.Italiener oder Türke (Skalometer); eigene Segregation (Fremdfühlen,Hin- und Hergerissensein, weder zu Deutschland noch zu Italien/Türkeizugehörig, Gefühl der Andersartigkeit trotz des Aufwachsens inDeutschland, Schwierigkeit des Vereinbarens von deutscher unditalienischer/türkischer Lebensart).
+Alle wurden gefragt: Selbstbild (Gewaltbereitschaft,Selbstbewusstsein, Gefühl des Versagens); Zufriedenheit mitausgewählten Aspekten des Lebens (Skala: finanzielle Lage, beruflichePerspektiven, Möglichkeiten zur Lebensgestaltung, politischenEinflussnahme, zur Mitsprache in Schule und Beruf, gesellschaftlicheStellung, Partnerschaft sowie soziale Sicherheit); einschneidendeErlebnisse (erfolgreicher Schulabschluss bzw. Ausbildungsabschluss,sich verlieben, die eigene Hochzeit, sitzen bleiben in der Schule,Scheidung oder Trennung der Eltern, Arbeitslosigkeit der Eltern,Abbruch der Ausbildung, Tod einer nahe stehenden Person, Verlust deseigenen Arbeitsplatzes, schwerer Unfall oder Krankheit mitKrankenhausaufenthalt, Probleme mit Alkohol bzw. Drogen sowie derPolizei, Schlägerei, größere finanzielle Probleme); Wichtigkeitausgewählter Werte für den Befragten (Skala: Pflichtbewusstsein,Verantwortung für andere übernehmen, Hedonismus, sich anpassen,Altruismus, eigene Fähigkeiten entfalten, auf Sicherheit bedacht sein,Rücksicht auf andere, aufregendes Leben führen, hohes Einkommenanstreben, Bescheidenheit und Selbstbehauptung; ausgewählte Gründe fürein Belastungsgefühl im Privat- und Berufsleben; Wohnsituation;Haushaltsgröße; Haushaltszusammensetzung; eigene Wohnung; Wohnungsgrößein qm; ausreichende Wohnfläche; Anzahl der Wohnräume; Zufriedenheit mitder Anzahl der Wohnräume; Eigentümer- oder Mieterstatus;Einkommensquellen des Haushalts; Haushaltsnettoeinkommen; Auskommen mitdiesem Einkommen; Wohnungsausstattung; geschätzter Ausländeranteil imWohnviertel im Vergleich zum Ortsdurchschnitt; Beurteilung der Qualitätdes Wohnviertels; empfundene Lärmbelastung in der Wohnstraße;Vorhandensein von italienischen, türkischen bzw. deutschenEinrichtungen wie Café, Eisdiele, Disco, Jugendclub, Moschee bzw.Kirche, Reisebüro, Lebensmittelgeschäft, Videoverleih oder Sportverein;Eltern des Befragten leben in Deutschland; Gründe für Schwierigkeitenmit den Eltern (Skala: traditionelle Lebensvorstellungen der Eltern,Erwartungen der Eltern nicht zu erfüllen, ungenügende Anpassung,Partner bzw. Freundeskreis gefällt nicht); erwartete praktische undfinanzielle Hilfe der Eltern vom Befragten;  Einstellung zu denBeziehungen zwischen Eltern und Kindern (Skala: wichtiger Einfluss derEltern bei der Partnerwahl,  alte Eltern sollten bei erwachsenenKindern leben, Kinder bis zur Heirat im Elternhaus, früheUnabhängigkeit der Eltern, wichtige Entscheidungen nur durch den Vater(Patriarchat); weitere Familienangehörige in Deutschland außerhalb deseigenen Haushalts; genaue Erfassung der Anzahl der Eltern, Geschwister,Großeltern, Geschwister des Vaters und der Mutter  sowie weitererFamilienangehöriger; Familienangehörige, die in der Türkei bzw. inItalien leben.  
+Reisen in die Herkunftsländer und Reisehäufigkeit sowieAufenthaltsdauer; Heimatgefühle bei diesen Besuchen; Anzahl derTelefonate in die Türkei bzw. nach Italien; Wichtigkeit ausgewählterEinrichtungen in Deutschland: türkisch bzw. italienische Schulklassen,die Muttersprache als erste Fremdsprache, türkische bzw. italienischeöffentliche Büchereien, Heimatkundeunterricht über die Herkunftsländer.
+Anzahl guter Freunde; Freunde mit eigener oder mit deutscherStaatsangehörigkeit; Freunde mit anderer Staatsangehörigkeit(Türken/Italiener); Cliquenzugehörigkeit; Häufigkeit der Treffen mitdieser Clique; Zusammensetzung der Clique nach Nationalitäten;gelegentlicher Streit mit anderen Cliquen; Mitgliedschaften inausgewählten deutschen Vereinen bzw. Vereinen des Herkunftslandes;eigene politische Partizipation (Briefe an Politiker, Übernahme einesAmtes, Beteiligung an Unterschriftensammlungen, Parteimitgliedschaft,Mitarbeit in einer Bürgerinitiative, Teilnahme an gewerkschaftlichbeschlossenen Streiks oder an politischen Demonstrationen);Befürwortung des allgemeinen Wahlrechts sowie des kommunalen Wahlrechtsfür ausländische Mitbürger in Deutschland; Türken wurden gefragt:Präferenz des Befragten für die deutsche Staatsangehörigkeit oder dieMitgliedschaft der Türkei in der Europäischen Union; Wehrdienstabgeleistet; Grund für ausstehenden Wehrdienst; Türken und Italienerwurden zusätzlich gefragt: Land, in dem der Befragte den Wehrdienstableisten wird; Einstellung zur Geschlechterrolle (Skala: der Mannsorgt für das Familieneinkommen, die Frau für den Haushalt, beidePartner entscheiden gemeinsam über die Verwendung desHaushaltseinkommens, Mädchen sollten die gleichen Berufe erlernenkönnen wie Jungen, mehr Frauen in politischen und öffentlichenFührungspositionen); Einstellung zu: Heirat von Partnern gleicherNationalität, Ablehnung von Assimilation (Türken/Italiener),Segregation um Kulturverlust zu vermeiden. 
+Partnerschaft: feste Partnerschaft; Jahr des Kennenlernens; Jahr desBeginns der Partnerschaft; Zusammenleben mit dem Partner; Jahr desZusammenziehens; Eheschließung mit dem Partner und Jahr derEheschließung; Staatsangehörigkeit des Partners; Einbürgerung desPartners; Staatsangehörigkeit des Partners vor der Einbürgerung; Jahrdes ersten Deutschlandbesuches des Partners; Verwandtschaft mit demPartner; Art des Kennenlernens; weitere Angaben zum Partner: höchsterSchulabschluss, Art des beruflichen Ausbildungsabschlusses, derzeitigeErwerbstätigkeit, berufliche Stellung; Angaben zu Kindern: eigeneKinder, Anzahl, Alter (Geburtsmonat und -jahr), Geschlecht,Staatsangehörigkeit, Vorname (deutsch, italienisch/türkisch,international) sowie Wohnort der Kinder; falls Befragter nichtverheiratet: Heirat eines deutschen Partners (Türken/Italiener) bzw.ausländischen Partners (Deutsche) ist vorstellbar; Kinderwunsch;gewünschte Kinderzahl; Präferenz für einen Jungen oder ein Mädchen alserstes Kind; Wunsch nach deutscher Staatsangehörigkeit für diese Kinder(Türken und Italiener).
+Demographie: Alter; Geschlecht; Familienstand; Selbsteinschätzung derReligiosität (Skalometer); Geschwisterzahl; Besuch eines Kindergartens;derzeitiger Besuch einer allgemein bildenden Schule; angestrebterhöchster allgemein bildender Schulabschluss; Einschätzung derRealisierbarkeit des angestrebten Schulabschlusses; Berufswunsch(Berufsbezeichnung); höchster Schulabschluss; abgeschlosseneBerufsausbildung; Jahr des Abschlusses der Berufsausbildung; Gründe fürfehlenden Berufsabschluss; angestrebter Beruf (Berufsbezeichnung);Erwerbstätigkeit in der Vergangenheit; Jahr des Berufsbeginns; Berufder ersten Erwerbstätigkeit sowie Wirtschaftszweig (Branche);derzeitige Erwerbstätigkeit; Selbständigkeit; Wochenarbeitszeit;derzeit ausgeübter Beruf; berufliche Stellung; Branche, Anzahl derbisherigen Arbeitsstellen in Deutschland; jeweils für die Mutter undden Vater wurde erfragt: Alter (Geburtsjahr), Anzahl der Geschwister,Geburtsland, Staatsangehörigkeit, Wohnort in Deutschland,Urbanisierungsgrad des Herkunftsortes der Eltern, Geburt inDeutschland, Jahr der ersten Einreise nach Deutschland, höchsterSchulabschluss, derzeitige Erwerbstätigkeit, Beruf.   
+Türken und Italiener wurden zusätzlich gefragt: Volksgruppe desBefragten bzw. seiner Eltern (Türken); Region Italiens, aus dem derBefragte bzw. seine Familie stammt (Italiener); Konfession;Staatsangehörigkeit bei der Geburt; in Deutschland geboren; Jahr desersten Besuchs in Deutschland; Wohndauer in der Türkei bzw. in Italienlänger als 6 Monate und Angabe der entsprechenden Lebensjahre; Besucheines Kindergartens in der Türkei/Italien bzw. in Deutschland; Besuchspezieller Vorbereitungskurse für Ausländer in Deutschland; Jahre desSchulbesuchs in der Türkei bzw. in Italien; muttersprachlicherUnterricht in Deutschland; erste berufliche Tätigkeit in der Türkei/inItalien oder in Deutschland; Einschätzung der deutschenSprachkenntnisse sowie der Anpassung an die deutsche Lebensweise vonMutter und Vater (Assimilation); Immobilienbesitz des Befragten oderseiner Eltern bzw. Großeltern in der Türkei bzw. in Italien. 
+Zusätzlich verkodet wurde: Bundesland; Ortsgröße; Gewichtungsfaktor.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Grundgesamtheit 1: 18- bis 30-jährige italienisch- und türkischstämmige
+Migranten in Privathaushalten mit Telefonanschluss aus den amtlichen
+Telefonverzeichnissen. 
+
+Grundgesamtheit 2: 18- bis 30-jährige Deutsche in Privathaushalten mit
+Telefonanschluss aus den amtlichen Telefonverzeichnissen. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl der Migrantengruppe sowie einer
+gleichaltrigen deutschen Kontrollgruppe 
+
+Die Auswahl der Zielhaushalte erfolgte nach dem ADM Design
+(Flächenstichprobe auf Wahlbezirksebene in der ersten Stufe und
+Schichtung nach Gemeindegrößenklassen). Die Zuweisung der Adressen
+erfolgte auf der Grundlage der Namensforschung (Onomastik) nach dem von
+Humpert &amp; Schneiderheinze entwickelten Verfahren. In einem
+telefonischen Kontaktinterview wurde die Zielperson ermittelt und
+später mündlich befragt.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2000-10-08</date>
+				</startDate>
+				<endDate>
+					<date>2001-02-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>BIK Umfrageforschung, Hamburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Hauptbefragung: Mündliche Befragung mit standardisiertem Fragebogen
+(face-to-face)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>623</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Es wurden ca. 1.200 Interviews je Nationalität durchgeführt. Die
+Feldzeiten der Hauptbefragung nach Nationalität: 
+Türken: 08. Oktober 2000 bis 06. Januar 2001; 
+Italiener: 03. November 2000 bis 19. Februar 2001; 
+Deutsche: 08. November 2000 bis 19. Februar 2001.
+
+Es wurden muttersprachliche Interviewer eingesetzt. In der Phase der
+Stichprobenziehung wurde mittels eines telefonischen Kontaktinterviews
+die Zielperson ermittelt. Im Kontaktinterview wurden Geschlecht, Alter,
+Aufenthaltsdauer, Sprachkompetenz und Befragungsbereitschaft für die
+Hauptbefragung ermittelt. Die telefonische Kontaktaufnahme wurde vom
+29. September 2000 bis 17. Januar 2001 durchgeführt.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Mammey, Ulrich; Sattig, Jörg:
+Determinanten und Indikatoren der Integration und Segregation
+der ausländischen Bevölkerung (Integrationssurvey): Projekt- 
+und Materialdokumentation. 
+Wiesbaden: BiB Bundesinstitut für Bevölkerungsforschung beim
+Statistischen Bundesamt, Materialien zur Bevölkerungswissenschaft, 
+105a, 2002</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

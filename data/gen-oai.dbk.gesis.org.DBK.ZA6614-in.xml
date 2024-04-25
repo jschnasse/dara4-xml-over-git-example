@@ -1,0 +1,197 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Opinions upon the Current Situation of Refugees in Europe and Germany (September 2015)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Meinungen zur aktuellen Flüchtlingssituation in Europa und Deutschland (September 2015)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA6614</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Meinungen zur aktuellen Flüchtlingssituation in Europa und Deutschland (September 2015)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Opinions upon the Current Situation of Refugees in Europe and Germany (September 2015)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Berlin</firstName>
+				<middleName/>
+				<lastName>Presse- und Informationsamt der Bundesregierung</lastName>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6614?doi=10.4232/1.12456</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12456</doiProposal>
+	<publicationDate>
+		<date>2016-03-31</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6614</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>International politics and organisations</term>
+					<term>Political behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellungen zur deutschen und europäischen Flüchtlings- und Asylpolitik. Meinungen zu Auswirkungen des Zuzugs der Flüchtlinge nach Deutschland. Persönliches Engagement für Flüchtlinge. 
+Themen: Besorgnis wegen hoher Flüchtlingszahlen in Deutschland; tatsächliches und gewünschtes Engagement Deutschlands im Hinblick auf die Flüchtlingssituation in Europa im Vergleich mit den anderen europäischen Staaten; europäische Asylpolitik: gewünschter Umfang des Engagements der EU im Hinblick auf die Flüchtlingssituation; zukünftig erwartete einheitliche Flüchtlings- und Asylpolitik versus eigene Flüchtlings- und Asylpolitik einzelner EU-Staaten; Flüchtlinge bzw. Asylbewerber in der Wohngegend; eher positive oder eher negative Erfahrungen mit Flüchtlingen in der Wohngegend; Meinungen zu Auswirkungen des Zuzugs von Flüchtlingen nach Deutschland (mehr Kriminalität, Bedarfsdeckung an qualifizierten Arbeitskräften, kulturelle Bereicherung, erwartete Rückkehr der meisten Flüchtlinge in deren Heimatländer, Überforderung der finanziellen Möglichkeiten Deutschland und der deutschen Bevölkerung, angemessene Unterbringung und Versorgung, wirkt dem demografischen Wandel entgegen; persönliches Engagement für Flüchtlinge in den letzten Jahren bzw. Bereitschaft zu ausgewählten Arten persönlichen Engagements (Geldspende, Sachspenden, selbst Flüchtlinge aufnehmen, Unterstützung eines Flüchtlingsheims bzw. von Flüchtlingen direkt). 
+Demographie: Geschlecht; Alter; Schulbildung; Haushaltsgröße; Anzahl der Personen im Haushalt ab 14 Jahren; Parteipräferenz; Wahlberechtigung; Haushaltsnettoeinkommen. 
+Zusätzlich verkodet wurde: Interviewdatum; Ortsgröße (BIK); Bundesland; West/Ost; Befragung per Mobilfunkt oder Festnetz; Gewichtungsfaktor.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Attitudes towards German and European refugee and asylum policy. Opinions on the impact of the influx of refugees to Germany. Personal engagement to refugees.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Bevölkerung ab 18 Jahren</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Population aged 18 years and over</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2015-09-24</date>
+				</startDate>
+				<endDate>
+					<date>2015-09-28</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>TNS Emnid, Bielefeld</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone Interview: CATI (Computer Assisted Telephone Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>39</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie wurde im Auftrag des Bundespresseamtes durchgeführt.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The study was conducted on behalf of the Federal Press Office.</text>
+		</note>
+	</notes>
+</resource>

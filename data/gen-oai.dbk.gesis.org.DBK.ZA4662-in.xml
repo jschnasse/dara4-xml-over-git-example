@@ -1,0 +1,341 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Political Attitudes, Political Participation and Voting Behavior in Reunified Germany (Panel 1998-2005)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Politische Einstellungen, politische Partizipation und Wählerverhalten im vereinigten Deutschland (Panel 1998-2005)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA4662</identifier>
+		<currentVersion>1.1.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Politische Einstellungen, politische Partizipation und Wählerverhalten im vereinigten Deutschland (Panel 1998-2005)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Political Attitudes, Political Participation and Voting Behavior in Reunified Germany (Panel 1998-2005)</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Hans</firstName>
+				<middleName/>
+				<lastName>Rattinger</lastName>
+				<affiliation>
+					<affiliationName>Lehrstuhl für Politikwissenschaft II, Universität Bamberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4662?doi=10.4232/1.11409</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11409</doiProposal>
+	<publicationDate>
+		<date>2012-07-26</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4662</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Medien</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Wahlen</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Social behaviour and attitudes</term>
+					<term>Media</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Elections</term>
+					<term>Economic conditions and indicators</term>
+					<term>Economic systems and development</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Politische Einstellungen, politische Partizipation und Wählerverhaltenim vereinten Deutschland. Zusammengefasster Datensatz einersechswelligen Erhebung mit Panelkomponente und für Ost und Westgetrennte Samples.
+Themen: In mindestens einer Studie oder in allen sechs Studien wurdegefragt: 
+1. Beurteilung der aktuellen allgemeinen Wirtschaftslage sowie derallgemeinen Wirtschaftslage im Vorjahr und im zukünftigen Jahr;Wichtigkeit von Erst- und Zweitstimme für die Bundestagswahl;Demokratiezufriedenheit; Politikinteresse; Sicherheit der eigenenWahlbeteiligung bei der Bundestagswahl; Art der Stimmabgabe; eigeneWechselwählerschaft; Parteipräferenz (Sonntagsfrage, Erststimme undZweitstimme); Sicherheit der eigenen Wahlentscheidung; Gründe fürWahlabsicht und Nichtwahl; Sicherheit des Einzugs ausgewählter Parteienin den Bundestag (Bündnis 90/Grüne, PDS, Republikaner, DVU); Erwartungeiner Mehrheit für die CDU oder die SPD; Demokratie als Staatsidee;Einschätzung der eigenen aktuellen Wirtschaftslage sowie der eigenenWirtschaftslage im Vorjahr und im zukünftigen Jahr; Gründe für dieUnzufriedenheit mit Parteien; Koalitionspräferenz; Zufriedenheit mitdem Wahlergebnis der Bundestagswahl 1998; Verfolgung des Wahlkampfs zurBundestagswahl 1998; Einstellung zu Parteien (Skala: wollen nurWählerstimmen, Parteien sehen Staat als Selbstbedienungsladen,Vertrauenswürdigkeit der Politiker, ohne Beziehung zu Parteien ist fürden Bürger nichts erreichbar, einfache Parteimitglieder können sicheinbringen, Machtstreben, Parteien unterscheiden sich klar, zu vielEinfluss auf die Gesellschaft, Berufspolitikertum, Korruption);wichtigste Probleme in der Bundesrepublik; kompetenteste Partei zuLösung dieser Probleme; Einstellung zur Politik und Beurteilungpolitischer Wirksamkeit (efficacy) (Skala: Politiker kümmert, waseinfache Leute denken, keine persönlichen Einflussmöglichkeiten auf dieRegierung, Politik ist zu kompliziert, Bemühen vonBundestagsabgeordneten um Kontakt zur Bevölkerung,Einflussmöglichkeiten der Bürger auf die Politik, freieMeinungsäußerung, Zutrauen einer eigenen aktiven Rolle in einerpolitischen Gruppe, Demokratie ohne Opposition nicht denkbar,Verständnis politischer Fragen, Wahlbeteiligung als Bürgerpflicht,Chance auf Regierungsbeteiligung für jede demokratische Partei);vermutete Position der Parteien CDU/CSU, SPD, FDP, Bündnis90/DieGrünen, Republikaner und PDS zur Kernenergie (weiterer Ausbau versusAbschaltung aller Kernkraftwerke), zum Ausländerzuzug sowie zureuropäischen Einigung; eigene Issue-Position und Issue-Relevanz;Förderung der Gleichberechtigung, Arbeitsplatzversorgung und neuerTechnologien durch den Staat; Bewertung des persönlichenLebensstandards, der Gerechtigkeit der Einkommensverteilung, dersozialen Sicherheit und des Schutzes vor Verbrechen;Sympathie-Skalometer für die Parteien CDU, CSU, SPD, FDP,Schill-Partei, Bündnis90/Grüne, Republikaner und PDS;Postmaterialismus; Institutionenvertrauen (Bundestag,Bundesverfassungsgericht, Bundesregierung, Gerichte, Polizei,Verwaltung, Kirchen, Parteien, Bundeswehr, Gewerkschaften, Wirtschafts-und Arbeitgeberverbände, Umweltschutzgruppen);  Bundeskanzlerpräferenz;Kompetenz und Tatkraft des Kanzlers sowie Sympathie für den Kanzler;Beteiligungsbereitschaft an ausgewählten Formen politischerPartizipation mit und ohne Gewaltanwendung (Bürgerinitiative,genehmigte Demonstration, gewaltsame Demonstration, Verkehrsblockade,Unterstützung einer Partei suchen); Selbsteinschätzung auf einemLinks-Rechts-Kontinuum; Vertretung der eigenen Interessen am ehestendurch Gewerkschaften, Wirtschafts- und Arbeitgeberverbände,Umweltschutzgruppen, Kirchen, die Parteien CDU/CSU, SPD, FDP,Bündnis90/Grüne, Republikaner, DVU oder PDS; Einschätzung derParteinähe dieser Interessengruppen; präferiertes Gesellschaftsmodell(Bewährtes achten, Bürgerbeteiligung, Leistungsorientierung, Recht undOrdnung, offen für neue Ideen, Mensch wichtiger als Geld);Zufriedenheit mit den Leistungen der Bundesregierung; Verbundenheit mitder Gemeinde, der Region, dem Bundesland, der alten BRD/DDR sowie mitDeutschland; Links-Rechts-Einstufung der Parteien CDU, SPD, FDP, CSU,Bündnis90/Grüne, Republikaner, PDS und DVU; Häufigkeit der Lektüre despolitischen Teils in der BILD-Zeitung, in überregionalen Zeitungen bzw.in einer lokalen Tageszeitung; Häufigkeit der Rezeption von politischenNachrichten von öffentlich-rechtlichen  Fernsehsendern sowie vonPrivatsendern; Gerechtigkeit der Gesellschaftsordnung; persönlicheBenachteiligung in der Gesellschaft; Wahlverhalten bei der letztenBundestagswahl;  Nationalstolz; Einstellung zur Verstaatlichungwichtiger Wirtschaftsunternehmen; Mut zum Nationalgefühl; Unterordnungvon Gruppeninteressen unter das Allgemeinwohl; Diktatur als die bessereStaatsform;  mehr gute als schlechte Seiten in der DDR; Einstellung zumSozialismus als Idee; Nationalsozialismus hatte gute Seiten; Hitler alsgroßer Staatsmann; Überfremdung der BRD durch Ausländer; Ausländersollten Landsleute heiraten; Antisemitismus; Verständnis für Anschlägeauf Asylbewerberheime. 
+2. Wahlberechtigung bei der Bundestagswahl; Zufriedenheit mit demErgebnis der Bundestagswahl; Verfolgung des Wahlkampfs; Gründe für eineUnzufriedenheit mit den Parteien;  Herkunft aus der damaligenBundesrepublik, der damaligen DDR oder aus dem Ausland;Sympathie-Skalometer für Gerhard Schröder und Edmund Stoiber; Vergleichvon Gerhard Schröder und Edmund Stoiber hinsichtlich ihrerwirtschaftlichen Kompetenz, ihrer Sympathie, politischerVertrauenswürdigkeit und Tatkraft; Zugehörigkeit zu einerbenachteiligten oder zu einer bevorzugten Bevölkerungsgruppe; deutscheStaatsbürgerschaft von Geburt an oder späterer Erwerb; frühereStaatsbürgerschaft.
+3. Gründe für Wahlabsicht und Nichtwahlbeteiligung; erwarteter Einzugder Parteien FDP, Bündnis90/Die Grünen, PDS und Republikaner in denBundestag; erwartete Mehrheit im Bundestag; Bewertung der Demokratieals Staatsidee; Häufigkeit der Beschäftigung mit dem Wahlkampf(Freunde, Verwandte, Veranstaltungen, Internetseiten); Kenntnistest:Gesamtzahl der Bundesländer in der heutigen BRD;Persönlichkeitsmerkmale und Konservatismus mit Affinität zu einemstabilen kognitiven System (Skalen: ASKO und Big Five); Vertrauen indie Abgeordneten des Deutschen Bundestags; Internetnutzung: Häufigkeitder Internetnutzung; Nutzungsbeginn (Jahr); Internetnutzung fürpolitische Informationen, Suche nach politischen Einrichtungen sowiefür Kontakte zu politischen Einrichtungen; Kenntnistest Online-Wahl:neben Briefwahl möglich oder allgemein möglich; Rezeption desFernsehduells am 8. September: Beurteilung des Abschneidens von GerhardSchröder und Edmund Stoiber bei der zweiten Debatte; Rezeption desFernseh-Duells vom 25. August; Beurteilung des Abschneidens von GerhardSchröder und Edmund Stoiber bei der ersten Debatte.
+4. Beurteilung der aktuellen allgemeinen Wirtschaftslage und imVergleich zum Vorjahr; Ausmaß der Verantwortlichkeit der Politik derBundesregierung für wirtschaftliche Entwicklung in den letzten Jahren;erwartete Wirtschaftslage im zukünftigen Jahr (Konjunkturerwartung);Kenntnistest: Erststimme oder Zweitstimme entscheidet über Anteil derParteien im Parlament; Demokratiezufriedenheit; Politikinteresse;präferierte Wunschregierung; Koalitionspräferenz;Bundeskanzlerpräferenz; Sympathie-Skalometer für Gerhard Schröder undAngela Merkel; Zufriedenheit mit den Leistungen der Bundesregierung ausSPD, Bündnis90/Die Grünen sowie mit den Leistungen der Opposition ausCDU/CSU und FDP; Selbsteinschätzung und Einschätzung der Parteien aufeinem Links-Rechts-Kontinuum; politische Wirksamkeit (effficacy,Skala); politische Unzufriedenheit (Skala); Vergleich von GerhardSchröder und Angela Merkel hinsichtlich ihrer wirtschaftlichenKompetenz, ihrer Sympathie, politischer Vertrauenswürdigkeit undTatkraft; Rezeption des Fernseh-Duells zwischen Gerhard Schröder undAngela Merkel am 4. September; Beurteilung des Abschneidens von GerhardSchröder und Angela Merkel bei diesem Fernseh-Duell; Unterstützung despolitischen Systems; Nationalstolz; Diktatur als bessere Staatsform;Sozialismus als gute Idee.
+Demographie: Geschlecht; Alter (Geburtsjahr, Geburtsmonat);Schulabschluss; Konfession; Kirchgangshäufigkeit; angestrebterSchulabschluss; berufliche Lehre; derzeitige Berufstätigkeit; frühereErwerbstätigkeit; Jahr der Beendigung der letzten Berufstätigkeit;unfreiwilliger Arbeitsplatzwechsel, Arbeitslosigkeit oder Ausscheidenaus dem Berufsleben seit 1994; Beschäftigung im öffentlichen Dienst;berufliche Stellung; Familienstand; Zusammenleben mit einem Partner;Schulabschluss des Partners; angestrebter Schulabschluss bzw.berufliche Lehre des Partners und weitere berufliche Charakteristikades Partners; eigene Mitgliedschaft in einer Bürgerinitiative, Partei,Berufsvereinigung oder Gewerkschaft; Parteineigung undParteiidentifikation (Skala); Dauer der Parteineigung; Gründe fürParteineigung (Skala: Partei bedeutet dem Befragten viel, Partei hatdie besseren Politiker, Partei in der Vergangenheit oft gewählt, Parteimacht bessere Politik); Anzahl der Personen, die zum Haushaltseinkommenbeitragen; Selbsteinschätzung der Schichtzugehörigkeit;Schichtzugehörigkeit im Vergleich zum Elternhaus (soziale Mobilität);Haushaltsgröße; Personenzahl im Haushalt ab 16 Jahren mit deutscherStaatsangehörigkeit; Telefonanschluss im Haushalt; Veränderungen imBerufsleben des Befragten und des Partners;Wiederbefragungsbereitschaft. 
+Zusätzlich verkodet wurde: West-Ost-Split; Befragungszeitpunkt;Befragungsjahr; Art der Befragung (mündlich oder schriftlich); Paneloder Querschnitt; Interviewdatum; Interviewdauer;Intervieweridentifikation; Bundesland; Gemeindegröße; Regierungsbezirk;Telefonanschluss; Gewichtungsfaktor Ost-West; Gewichtungsfaktoren;Wahlkreiskennung. 
+Interviewerrating: Anwesende Personen während des Interviews;Eingreifen anwesender Personen in den Interviewverlauf; Einschätzungder Kooperationsbereitschaft des Befragten und der Zuverlässigkeit derAngaben; Anzahl der telefonischen und postalischen Kontakte;Interviewergeschlecht; Intervieweralter; Bildungsabschluss desInterviewers. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte mit deutscher Staatsangehörigkeit</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Wahrscheinlichkeitsauswahl: Geschichtete Zufallsauswahl; Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl nach dem ADM Mastersample.
+Wiederauswahl der Befragten aus früheren Befragungen.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Probability: Stratified</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1998-08-26</date>
+				</startDate>
+				<endDate>
+					<date>1998-09-26</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Vorwahlbefragung</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1998-10-08</date>
+				</startDate>
+				<endDate>
+					<date>1998-11-21</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Nachwahlbefragung</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-08-12</date>
+				</startDate>
+				<endDate>
+					<date>2002-09-21</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Vorwahlbefragung</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2002-10-01</date>
+				</startDate>
+				<endDate>
+					<date>2002-11-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Nachwahlbefragung</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2005-08-04</date>
+				</startDate>
+				<endDate>
+					<date>2005-09-16</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Vorwahlbefragung</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2005-09-19</date>
+				</startDate>
+				<endDate>
+					<date>2005-11-09</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Nachwahlbefragung</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Panel</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>BASISRESEARCH, Frankfurt/Dresden</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GFM GETAS (IPSOS), Hamburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INRA (IPSOS), Mölln</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Survey Research Unit des Bamberger Centrum für Europäische Studien (SRU-BACES)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche, telefonische Befragung (CATI) und teilweise schriftliche
+Befragung mit standardisiertem Fragebogen. </freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>2749</numberUnits>
+			<numberVariables>894</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.4662</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Gabriel, Oscar W.; Falter, Jürgen W.; Rattinger, Hans (Hrsg.):
+Wächst zusammen, was zusammen gehört? Stabilität und Wandel
+politischer Einstellungen im wiedervereinigten Deutschland.
+Baden-Baden: Nomos 2005</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

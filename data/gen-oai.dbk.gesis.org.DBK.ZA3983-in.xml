@@ -1,0 +1,709 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Candidate Countries Eurobarometer 2003.2'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Candidate Countries Eurobarometer 2003.2
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3983</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Candidate Countries Eurobarometer 2003.2
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Candidate Countries Eurobarometer 2003.2</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Europäische Kommission</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3983?doi=10.4232/1.3983</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.3983</doiProposal>
+	<publicationDate>
+		<year>2004</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3983</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Social conditions and indicators</term>
+					<term>International politics and organisations</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.0.0</classificationSchema>
+				<terms>
+					<term>Bedrohungswahrnehmungen </term>
+					<term>Ethnozentrismus</term>
+					<term>Identität &amp; soziales Zugehörigkeitsgefühl</term>
+					<term>Integration</term>
+					<term>Intergruppenbeziehungen/-konflikte</term>
+					<term>Kriminalität</term>
+					<term>Marginalisierung</term>
+					<term>Migrationspolitik</term>
+					<term>Nationalismus</term>
+					<term>Patriotismus</term>
+					<term>Terrorismus</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>Religiöse Zugehörigkeit</term>
+					<term>Zentralasien</term>
+					<term>Türkei</term>
+					<term>Ost-Europa</term>
+					<term>Polen</term>
+					<term>Russland</term>
+					<term>Geflüchtete/Vertriebene</term>
+					<term>Straftäter*innen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.2.0</classificationSchema>
+				<terms>
+					<term>Multikulturalismus</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Fremdenfeindlichkeit</term>
+					<term>Staatsbürgerschaft</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.0.0</classificationSchema>
+				<terms>
+					<term>Threat perceptions</term>
+					<term>Ethnocentrism</term>
+					<term>Identity &amp; sense of social belonging</term>
+					<term>Integration</term>
+					<term>Intergroup relations/conflicts</term>
+					<term>Criminality</term>
+					<term>Marginalisation</term>
+					<term>Migration policies</term>
+					<term>Nationalism</term>
+					<term>Patriotism</term>
+					<term>Terrorism</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.0.0</classificationSchema>
+				<terms>
+					<term>Religiöse Zugehörigkeit</term>
+					<term>Zentralasien</term>
+					<term>Türkei</term>
+					<term>Ost-Europa</term>
+					<term>Polen</term>
+					<term>Russland</term>
+					<term>Geflüchtete/Vertriebene</term>
+					<term>Straftäter*innen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.2.0</classificationSchema>
+				<terms>
+					<term>Multiculturalism</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Xenophobia</term>
+					<term>Citizenship</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Hauptthemen sind:1. Leben in den Beitrittsländern.2. Einstellung zur EU und zum Beitritt des Landes zur EU.3. Einstellung zu EU-Richtlinien.4. Einstellung gegenüber Fremden.Themen:1. Lebenszufriedenheit; Verbesserung der eigenen Situation imVergleich zur Situation vor fünf Jahren; erwartete Verbesserung in fünfJahren; vom Befragten in den letzten zwei Jahren besuchte Länder;Länder, in denen der Befragte gearbeitet hat; politische Diskussionen imFreundeskreis; eigene Meinungsführerschaft; Häufigkeit und Art desMedienkonsums; Beachtung ausgewählter Themen in den Nachrichten;Institutionenvertrauen; Nationalstolz; stolz, Europäer zu sein.
+2. Zugehörigkeitsgefühl nach einem EU-Beitritt zur Nation oder zuEuropa (nationale oder europäische Identität); Faktoren, die europäischeIdentität stärken könnten; Einschätzung des Images der EU; wichtigsteProbleme im Land; Bedrohtheitsgefühl durch einen Weltkrieg, atomareKonflikte in Europa, Krieg in Europa, versehentliches Zünden einerAtomrakete, Verbreitung atomarer, biologischer oder chemischerMassenvernichtungswaffen, ethnische Konflikte in Europa, internationalenTerrorismus, organisiertes Verbrechen und Epidemien; Kenntnis undVertrauen in ausgewählte europäische Institutionen sowie der NATO undder UN.
+3. Kenntnis, Einschätzung der Rolle und Vertrauen in politischeGremien der EU; Selbsteinschätzung des eigenen Wissenstands über diePolitik und die Institutionen der EU (Skalometer); Kenntnistest über dieEU; Kenntnis des Antrags des eigenen Landes um Aufnahme in die EU;Einstellung zum EU-Beitritt; Wahlbeteiligungsabsicht; eigeneWahlentscheidung bei einem Referendum; erwartete Vorteilhaftigkeit einesEU-Beitritts für das Land und für den Befragten; Einschätzung derVorteilhaftigkeit eines Beitritts für ausgewählte gesellschaftlicheGruppen; Einstellung zur EU-Erweiterung (Skala); Bedeutung der EU fürden Befragten; erwartete Auswirkungen der EU in 10 Jahren; Kenntnis derRechte und Vorzüge, ein EU-Bürger zu sein; Bedenken und Befürchtungengegenüber der EU; Einschätzung der Beitrittsgeschwindigkeit und vomBefragten gewünschtes Tempo (Skalometer); tatsächlich erwartete underwünschte Bedeutung der EU für das Leben des Befragten in fünf Jahren;EU oder eigene Nation als präferierte Entscheidungsinstanz inVerteidigung, Umweltschutz, Währung, Gesundheit und Soziales,Pressefreiheit, Kampf gegen Armut bzw. soziale Ausgrenzung,Arbeitslosigkeitsbekämpfung, Agrarpolitik, Unterstützung vonwirtschaftlich benachteiligten Regionen, Ausbildung, Forschung,Informationen über die EU, deren Politik und Institutionen,Außenpolitik, Kulturpolitik, Einwanderungspolitik, Richtlinien fürpolitisches Asyl, Kampf gegen organisierte Kriminalität, Polizei,Rechtswesen, Flüchtlingsaufnahme, Maßnahmen gegen Jugendkriminalität,Maßnahmen gegen Kriminalität in der Stadt, Drogen- und Menschenhandel;Einstellung zum Zusammenwachsen der EU; Einstellung zumSubsidiaritätsprinzip bei der Verteidigungspolitik; Einstellung zurRolle der USA und der EU bei der Schaffung von Frieden, dem Kampf gegenTerrorismus, Wachstum der Weltwirtschaft, Kampf gegen die Armut der Weltund Umweltschutz; präferierte Politikbereiche, in denen die EU aktivsein sollte; gesellschaftliche Gruppen und Institutionen, die Einflussauf Entscheidungen der EU haben und haben sollten; Beurteilung derTransparenz von Entscheidungsprozessen in der EU: Bürokratie, eigeneBetroffenheit, Zentralisierung der Entscheidungsgewalt, Einfluss deseigenen Landes und Einfluss großer sowie kleiner Mitgliedsstaaten;Einstellung zu den Veränderungen in der EU-Kommission; präferierterWahlmodus für den Präsidenten der EU; Einstellung zur zeitlichen Dauerder EU-Präsidentschaft; Einstellung zum Vetorecht in der EU; Einstellungzu direkten Steuerabgaben an die EU; Einstellung zu einer Namensänderungder EU; Selbsteinschätzung der Informiertheit über die EU-Erweiterungund den Beitrittsprozess des eigenen Landes; Kenntnis bereits fließendermonetärer Zuwendungen an das Land durch die EU; vermutete freundlicheAufnahme des eigenen Landes durch die derzeitigen EU-Mitglieder;Informationsbedarf über die EU nach Themen (Geschichte der EU,Institutionen der EU, Wirtschaft, internationale Beziehungen,Sozialpolitik etc.); präferierte Informationsquellen über die EU;Einstellung zur Aufnahme der anderen Beitrittskandidaten;Demokratiezufriedenheit im eigenen Land; Einstellung zu einerEU-Verfassung; Einstellung zu einheitlicher Währung in allenMitgliedsstaaten; Einstellung zu Mehrheitsentscheidungen auf EU-Ebene;Wahrscheinlichkeit eigener Wahlbeteiligung im Falle einer Europawahl(Skalometer).
+4. Einstellung zum multikulturellen Zusammenleben und zurIntegration von Ausländern sowie von Minoritäten; Einstellung zu legalenund illegalen Einwanderern und deren Rechte im Land (Skala).
+Demographie: Nationalität; Familienstand; Alter bei Ende derAusbildung; höchster Bildungsabschluss; Geburtsjahr; Haushaltsgröße;Besitz langlebiger Wirtschaftsgüter (Immobilie, Unterhaltungsmedien,Haushaltsgeräte, Computer, Auto); berufliche Position; Beschäftigung imöffentlichen Dienst; Stellung im Haushalt; Religionszugehörigkeit;Kirchgangshäufigkeit; Haushaltseinkommen; Parteipräferenz; Geschlecht.
+Zusätzlich verkodet wurde: Bevorzugte Interviewsprache.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Life in the candidate countries. Attitudes towards foreigners.Attitudes towards European Union and accession process. EU directives.
+Topics: Current life satisfaction; life satisfaction compared withfive years ago; life satisfaction over the next five years; change insubjective well-being; trust in institutions; trust in politicalinstitutions; satisfaction with democracy; trust in other socialinstitutions; problems facing the nations; media use; news viewershipon television; news readership of daily newspapers; news listenershipon the radio; trust in the media; citizens fear epidemics the mostgeopolitical orientation; role of the United States and the EU;contacts with foreign countries; knowledge of basic EU-related facts;self-perceived knowledge about the EU; information about the EU;sources of information about the EU; prefered topics; prefered methodsfor receiving information about the EU; preference for national versusEU-originated information; interest in EU news; attitudes towards theEU; feeling European; national pride; European pride; support for EUmembership; awareness of country´s bid for EU membership; support forEU membership; referendum about membership; perceived benefits of EUmembership; personal benefits; benefits for the country; expectedbenefits for various social groups; image of the EU; meaning of EU;meaning of being a citizen of the EU; fears related to the building ofEurope; expected and desired role of the EU in five years time; supportfor key issues (common defence policy; teaching school children aboutEU, EC commissioners coming from each of the member states, enlargementof the EU in May 2004, common foreign policy, constitution for EU; onesingle currency, further enlargement of the EU to include othercountries, speed of building Europe); participation in EP elections;support for a common foreign policy; support for joint EUdecision-making; support of European Foreign Minister; support for acommon security policy (CFSP); support for joint EU decision makingabout defence policy (ESDP); citizen´s support the setting up of aEuropean Army; concrete measures related to CFSP and ESDP; Europeandefence policy decision making: role of NATO and EU; attitudes andknowledge about enlargement and the accession process; attitudes towardenlargement; perception of support levels for membership in the currentMember States; time frame of the EU accession; feeling informed aboutenlargement and the process of accession ; pre-accession funds; mutualsupport of membership in the candidate region; EU institutions EU amongother supranational institutions; democracy in the EU; EU institutionsand bodies; awareness of the EU and its institutions; role of the EUand its institutions; trust in the European Parliament and the EuropeanCommission; future of Europe for future citizens; Constitution; name ofthe EU; EP right to withdraw confidence from the EC; direct election ofthe President of the Commission; preference for a commissioner for eachcountry; European tax; presidency; decision making; support for jointdecision-making.
+Demography: Nationality; marital status; age; age at termination ofschool training; educational level; size of household; occupationalstatus; employment in the public sector; position in the household;Size of community; church attendance; income of the household; partypreference; gender.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>BG</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CY</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CZ</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>EE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LV</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>MT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>RO</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>TR</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled> Alter: 15 Jahre und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons 15+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufig geschichtete Zufallsauswahl </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage random sample </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-07</date>
+				</startDate>
+				<endDate>
+					<date>2003-05-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Bulgaria</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Bulgarien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-05</date>
+				</startDate>
+				<endDate>
+					<date>2003-05-21</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Cyprus (Republic)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Zypern (Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-05</date>
+				</startDate>
+				<endDate>
+					<date>2003-05-26</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Czech Republic</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Tschechische Republik</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-05</date>
+				</startDate>
+				<endDate>
+					<date>2003-05-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Estonia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Estland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-03</date>
+				</startDate>
+				<endDate>
+					<date>2003-05-31</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Hungary</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Ungarn</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-09</date>
+				</startDate>
+				<endDate>
+					<date>2003-05-26</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Latvia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Lettland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-10</date>
+				</startDate>
+				<endDate>
+					<date>2003-05-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Lithuania</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Litauen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-04</date>
+				</startDate>
+				<endDate>
+					<date>2003-05-22</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Malta</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Malta</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-04</date>
+				</startDate>
+				<endDate>
+					<date>2003-05-24</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Poland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Polen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-04</date>
+				</startDate>
+				<endDate>
+					<date>2003-05-29</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Romania</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Rumänien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-02</date>
+				</startDate>
+				<endDate>
+					<date>2003-05-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovakia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowakei</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-08</date>
+				</startDate>
+				<endDate>
+					<date>2003-05-31</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovenia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowenien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2003-05-06</date>
+				</startDate>
+				<endDate>
+					<date>2003-05-23</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Turkey</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Türkei</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Renaud</firstName>
+				<middleName/>
+				<lastName>Soufflot de Magny</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>European Commission, Bruxelles
+</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>VITOSHA RESEARCH, Sofia, Bulgaria</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>SAAR POLL, Tallinn, Estonia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>BALTIC SURVEYS, Vilnius, Lithuania</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>LATVIAN FACTS LTD, Riga, Latvia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MISCO, Valletta, Malta</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>THE GALLUP ORGANIZATION, POLAND, Warsaw, Poland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>THE GALLUP ORGANIZATION, ROMANIA, Bucharest, Romania</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>FOCUS, Bratislava, Slovakia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>CATI CENTER, Ljubljana, Slovenia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Konsensus Research &amp; Consultancy, Istanbul, Turkey</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>CVVM, Prague, Czech Republic</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>THE GALLUP ORGANIZATION, HUNGARY, Budapest, Hungary</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>CYMAR MARKET RESEARCH, Nikosia, Cyprus</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>International Coordination: Gallup Organization Hungary, Budapest</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionaire</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>534</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Je Land wurden ca. 1000 Interviews durchgeführt, außer in Zypern
+(ca. 500) und Malta (ca. 500).
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>1.000 persons were interviewed in each country with the exception of
+Malta and Cyprus (about 500 respondents).</text>
+		</note>
+	</notes>
+</resource>

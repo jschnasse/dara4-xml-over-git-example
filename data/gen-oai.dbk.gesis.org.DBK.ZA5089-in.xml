@@ -1,0 +1,387 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Language acquisition as a window to social integration among Russian language minority children in Germany and Israel'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Spracherwerb als Chance für die soziale Integration russischsprachiger Kinder in Deutschland und Israel'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA5089</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Spracherwerb als Chance für die soziale Integration russischsprachiger Kinder in Deutschland und Israel</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Language acquisition as a window to social integration among Russian language minority children in Germany and Israel</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Sharon</firstName>
+				<middleName/>
+				<lastName>Armon-Lotem</lastName>
+				<affiliation>
+					<affiliationName>Bar-Ilan University, Israel</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Natalia</firstName>
+				<middleName/>
+				<lastName>Gagarina</lastName>
+				<affiliation>
+					<affiliationName>Zentrum für Allgemeine Sprachwissenschaft (ZAS), Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Annegret</firstName>
+				<middleName/>
+				<lastName>Klassert</lastName>
+				<affiliation>
+					<affiliationName>Zentrum für Allgemeine Sprachwissenschaft (ZAS), Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Larissa</firstName>
+				<middleName/>
+				<lastName>Remennick</lastName>
+				<affiliation>
+					<affiliationName>Bar-Ilan University, Israel</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Nathalie</firstName>
+				<middleName/>
+				<lastName>Topaj</lastName>
+				<affiliation>
+					<affiliationName>Zentrum für Allgemeine Sprachwissenschaft (ZAS), Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Joel</firstName>
+				<middleName/>
+				<lastName>Walters</lastName>
+				<affiliation>
+					<affiliationName>Bar-Ilan University, Israel</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5089?doi=10.4232/1.11771</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11771</doiProposal>
+	<publicationDate>
+		<date>2013-10-08</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5089</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>1</identifier>
+			<type>VerbundFDB</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+					<identifier>KAT55</identifier>
+					<!-- Erziehung, Schulwesen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Sprache und Sprachwissenschaft</term>
+					<term>Kinder</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Language and linguistics</term>
+					<term>Children</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>Mehrsprachigkeit</keyword>
+				<keyword>russische Sprache</keyword>
+				<keyword>Sprachkenntnisse</keyword>
+				<keyword>Sprachgebrauch</keyword>
+				<keyword>soziale Beziehungen</keyword>
+				<keyword>nationale Identität</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>multilingualism</keyword>
+				<keyword>Russian language</keyword>
+				<keyword>knowledge of languages</keyword>
+				<keyword>language usage</keyword>
+				<keyword>social relations</keyword>
+				<keyword>national identity</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Spracherwerb und Entwicklung der ethnischen Identität. Sprachkenntnisseund Sprachgebrauch .
+Themen: Kinder (erste Welle): Russische Sprachkompetenz und  beiden L2 ( Deutsch / Hebräisch) Sprachtests (Sprachkompetenz);Präposition Nachahmung; Flexion Nachahmung; komplexe Imitation;Satzergänzungstest; Nichtwortzeichen Wiederholung; Fall Aufgabe;Substantiv Aufgabe; Verb Aufgabe; SSV (standardisierter SprachtestDeutsch); Goralnik (standardisierter Sprachtest Hebräisch).
+Zwischenmenschliche Kommunikationsnetze (3C); Sprachpräferenzen (4C);Einstellungen gegenüber Menschen und Sprachen (5C);ethnolinguistische Identität des Kindes (6C); Grad der Nutzung vonRussisch und Deutsch / Hebräisch (L2) (7C); Selbsteinschätzung derKenntnisse, Teil A - Gesamtbewertung der Sprachbeherrschung (8C );Selbsteinschätzung der Kenntnisse, Teil B - Kenntnisse der mündlichenKommunikation (8C).
+Eltern (erste Welle): Verlauf des Spracherwerbs,verschiedene pädagogische Rahmenbedingungen des Kindes; Kontakt mit demHerkunftsland; zwischenmenschliche Kommunikations-Netzwerke (3P);Sprachpräferenzen (4P); Einstellung zur Verwendung des Russischen durchdas Kind (5P); ethnolinguistische Identität (6P); Einschätzung derethnolinguistischen Identität des Kindes; Bewertung derSprachkenntnisse des Kindes (8P); Gesamtbewertung derSprachbeherrschung; Bewertung der Russischkenntnisse; Bewertung von L2;mündliche Kommunikationsfähigkeiten in Russisch / Hebräisch.
+Demographie: Geburtsdatum des Kindes; Alter (Monate); Kind wurde inDeutschland / Israel geboren; Herkunftsland des Kindes;Geburtsreihenfolge in der Familie; Anzahl der Kinder in der Familie;Geschwister 1; Alter des Geschwisterkindes 1; Geschwister 2; Alter desGeschwisterkindes 2; Geschwister 3; Alter des Geschwisterkindes 3; Nameder Mutter; Name des Vaters; Alter des befragten Elternteils;Wohnsitzdauer der Mutter in Deutschland / Israel (in Jahren) ;Wohnsitzdauer des Vaters in Deutschland / Israel (in Jahren); Wohnortder Mutter vor der Einwanderung; Wohnort des Vaters vor derEinwanderung; Beruf der Mutter; Arbeitsstatus der Mutter; aktuellerBeruf der Mutter; Beruf des Vaters; Arbeitsstatus des Vaters; aktuellerBeruf des Vaters; von der Mutter genutzte Sprache bei der Arbeit; vomVater genutzte Sprache bei der Arbeit; Religiosität; Familienstand.
+Kinder (zweite Welle): Selbst-Kennzeichnung der Identität; Grad desEinsatzes von Russisch und Deutsch / Hebräisch (L2); Bedeutung desEinsatzes von Russisch oder L2; Selbsteinschätzung der Kenntnisse;persönliche Wahrnehmung - Geburtstagsfeier; persönliche Wahrnehmung -einsame Insel; Einstellungen gegenüber Menschen und Sprachen.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Language acquisition and ethnic identity development. Languageproficiency and language use.
+Themes: Children(first wave): Performance in Russian language, and L2(Geman / Hebrew) language tests; preposition imitation; inflectionimitation; complex imitation; sentence completion; nonword repetition;case task; noun task; verb task; SSV (German standardized languagetest); Goralnik (Hebrew standardized language test). 
+Interpersonal communication networks (3C); language preferences (4C);attitudes toward people and languages (5C); child ethnolinguisticidentity (6C); degree of use of Russian and German / Hebrew (L2) (7C);child proficiency self-rating, Part A - overall rating of proficiency(8C); child proficiency self-rating, Part B - proficiency of oralcommunication (8C). 
+Parents (first wave): Language history; different educationalframeworks of the child; contact with the country of origin;interpersonal communication networks (3P); language preferences (4P);attitudes toward use of Russian by child (5P); ethnolinguistic identity(6P); assessment of child´s ethnolinguistic identity;evaluation of child´s proficiency (8P); overall rating of proficiency,rating of Russian, rating of L2; oral communication proficiency inRussian/Hebrew.
+Demography: Child´s date of birth; age (months); child was born inGermany/Israel; child´s country of origin; child´s birth order in thefamily; number of children in the family; sibling 1; sibling 1 (age, inyears); sibling 2; sibling 2 (age, in years); sibling 3; sibling 3(age, in years); mother´s name; father´s name; interviewed parent´s age(in years); mother´s length of residence in Germany / Israel (inyears); father´s length of residence in Germany / Israel (in years);mother´s place of residence before immigration; father´s place ofresidence before immigration; mother´s profession; mother work status;mother´s current occupation; father´s profession; father work status;father´s current occupation; language/s mother uses at work; language/sfather uses at work; religiosity; family status.
+Children (second wave): Self-labeling of identity; degree of use ofRussian and German/Hebrew (L2); importance of speaking Russian or L2;child proficiency self-rating; personal perception - birthday party;personal perception - desert island; attitudes to people and languages.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IL-TA</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Vorschulkinder und Erstklässler von russisch-hebräischen und russisch-deutschen Migranten in Israel und Deutschland (Altersbereich 4 bis 7 Jahre)</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Preschool and 1st grade elementary school children of Russian-Hebrew and Russian-German immigrants in Israel and Germany (age range 4 to 7 years) and parents of children</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Nicht-Wahrscheinlichkeitsauswahl: Bewusste Auswahl; Auswahlverfahren Kommentar: Systematische Auswahl nach sozio-linguistischen Kriterien</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Non-probability: Purposive; Sampling Procedure Comment: Purposive sample (based on socio-linguistic criteria)</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2007-11</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2008-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Israel: First wave</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Israel: Erste Welle</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2008-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2008-11</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany: First wave</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland: Erste Welle</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2008-09</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2008-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Israel: Second wave</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Israel: Zweite Welle</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2009-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2009-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany: Second wave</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland: Zweite Welle</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Panel</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Principal investigator</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>Distributor</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>HostingInstitution</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.PAPI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung (face-to-face) mit standardisiertem Fragebogen</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Face-to-face interview </freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>169</numberUnits>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Erhebungseinheit: Vorschulkinder; Schüler; Eltern###</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>survey unit: preschool children; students; parents###</text>
+		</note>
+	</notes>
+</resource>

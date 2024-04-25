@@ -1,0 +1,313 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'AUTNES TV Debates Panel Study 2013'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'AUTNES TV Debates Panel Study 2013'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5858</identifier>
+		<currentVersion>2.0.1</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>AUTNES TV Debates Panel Study 2013</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>AUTNES TV Debates Panel Study 2013</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Austrian National Election Study</titleName>
+			<titleType>AlternativeTitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Austrian National Election Study</titleName>
+			<titleType>AlternativeTitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Sylvia</firstName>
+				<middleName/>
+				<lastName>Kritzinger</lastName>
+				<affiliation>
+					<affiliationName>Universität Wien</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>David</firstName>
+				<middleName/>
+				<lastName>Johann</lastName>
+				<affiliation>
+					<affiliationName>Universität Wien</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Christian</firstName>
+				<middleName/>
+				<lastName>Glantschnigg</lastName>
+				<affiliation>
+					<affiliationName>Universität Wien</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Julian</firstName>
+				<middleName/>
+				<lastName>Aichholzer</lastName>
+				<affiliation>
+					<affiliationName>Universität Wien</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Konstantin</firstName>
+				<middleName/>
+				<lastName>Glinitzer</lastName>
+				<affiliation>
+					<affiliationName>Universität Wien</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Kathrin</firstName>
+				<middleName/>
+				<lastName>Thomas</lastName>
+				<affiliation>
+					<affiliationName>Universität Wien</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Markus</firstName>
+				<middleName/>
+				<lastName>Wagner</lastName>
+				<affiliation>
+					<affiliationName>Universität Wien</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Eva</firstName>
+				<middleName/>
+				<lastName>Zeglovits</lastName>
+				<affiliation>
+					<affiliationName>Universität Wien</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5858?doi=10.4232/1.12450</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12450</doiProposal>
+	<publicationDate>
+		<date>2016-01-29</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5858</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT14</identifier>
+					<!-- Politische Fragen (Issues) -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT62</identifier>
+					<!-- Kommunikation, öffentliche Meinung, Medien -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Wahlen</term>
+					<term>Minderheiten</term>
+					<term>Medien</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Political behaviour and attitudes</term>
+					<term>Elections</term>
+					<term>Minorities</term>
+					<term>Media</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>In vier Wellen wurden politische Einstellungen der wahlberechtigten Bevölkerung (ab 16 Jahren) in Österreich anlässlich der Nationalratswahl am 29.9.2013 untersucht. Die Befragung wurde vom 16.8. bis 7.10.2013 mittels CAWI/interaktivem Selbstausfüller durchgeführt. Drei Wellen wurden vor der Wahl durchgeführt, die vierte Welle nach der Wahl. In der ersten Welle wurden 3084 Respondenten mittels Quotenauswahl aus einem bereits existierenden Online-Panel rekrutiert. Ein Schwerpunkt der Befragung liegt auf den TV-Debatten im Rahmen des Wahlkampfs und der Beurteilung der Spitzenkandidaten und -kandidatinnen.
+Weitere inhaltliche Schwerpunkte umfassen u. a. Variablen zu Politikinteresse; Interesse am Wahlkampf; Parteineigung; Parteipräferenz und Parteiidentifikation; Medienkonsum; Nutzung sozialer Netzwerke; wirtschaftliche Situation; Einstellung zu Einwanderern; Persönlichkeitsmerkmale (Big 5); Koalitionspräferenzen; Demokratiezufriedenheit sowie implizite (unbewusste) Einstellungen gegenüber der FPÖ. Zusätzliche Variablen erfassen demographische Informationen und technische Informationen zur Online-Befragung.
+Welle 1:Themen: Politikinteresse; wichtige politische Themen bei der kommenden Nationalratswahl; Wahrscheinlichkeit, die Parteien SPÖ, ÖVP, FPÖ, Grüne, Team Stronach und BZÖ zu wählen; Bundeskanzlerpräferenz; Sympathie-Skalometer für ausgewählte Spitzenpolitiker; Beurteilung ausgewählter Spitzenpolitiker hinsichtlich Kompetenz, Ehrlichkeit, Ausstrahlung und  Durchsetzungsfähigkeit; Selbsteinstufung links-rechts; Einschätzung der Zuwanderung nach Österreich: zuversichtlich, besorgt bzw. verärgert; Veränderung des Zusammenlebens von Österreichern und Zuwanderern in den letzten drei Jahren; Veränderung der Wirtschaftslage im Land in den letzten drei Jahren; Beurteilung der Wirtschaftslage in der REgion im Vergleich zu Gesamtösterreich; Entwicklung der eigenen wirtschaftlichen Lage in den letzten ein bis zwei Jahren; Meinung zu ausgewählten politischen Themen (Politik aus der Wirtschaft heraushalten, Politik soll Einkommensunterschiede ausgleichen, Arbeitslosigkeit bekämpfen trotz Staatsverschuldung, Bevorzugung von Frauen bei gleicher Qualifikation, Gleichstellung von gleichgeschlechtlicher Partnerschaft und Ehe, Gefühl der Fremdheit aufgrund der vielen Muslime im Land, europäischer und muslimischer  Lebensstil sind vereinbar, Muslime sollten sich anpassen, Muslime haben mehr staatliche Leistungen erhalten als sie verdienen, Muslime tragen Schuld an Spannungen zwischen Muslimen und Nicht-Muslimen, Heirat des eigenen Kindes mit einem Muslim unangenehm, dankbar für führende Köpfe, Tugenden Disziplin und Gehorsam sind veraltet, Forderung nach hartem Durchgreifen gegen Kriminelle, Schutz der Rechte von Verbrechern ist wichtig, Land braucht Menschen, die sich Traditionen widersetzen, junge Leute sollten sich mehr auf Werte und Traditionen besinnen, österreichischen Kultur wird durch Zuwanderung bereichert, Zuwanderung nach Österreich stoppen); Sicherheit der Teilnahme an den Nationalratswahlen; Parteipräferenz; offener oder bereits feststehender Ausgang der Nationalratswahl; erwarteter Sieger der Nationalratswahl; Informationshäufigkeit über Politik in ausgewählten Medien; Rezeptionshäufigkeit ausgewählter Tageszeitungen, Online-Nachrichtenportale und Fernsehnachrichtensendungen pro Woche; mit Politikern  bzw. Parteien in sozialen Netzwerken vernetzt; vernetzt mit ausgewählten österreichischen Politikern bzw. politischen Gruppen; beabsichtigte Rezeption der TV-Debatten zur Nationalratswahl; Einstellung zu TV-Debatten; erwartetes Auftreten von Werner Faymann, Michael Spindelegger, Heinz-Christian Strache, Josef Bucher, Eva Glawischnig und Frank Stronach bei den TV-Debatten; Parteinähe und Parteiidentifikation; Stärke der Parteiidentifikation; Nachbarschaft ohne Muslime bevorzugt. 
+Welle 2: Interesse am Wahlkampf; Bewertung des Wahlkampfs als fair, aggressiv, langweilig bzw. unterhaltsam; wichtigste politische Themen bei der kommenden Nationalratswahl; Wahrscheinlichkeit, die Parteien SPÖ, ÖVP, FPÖ, BZÖ, Grüne, Team Stronach und NEOS zu wählen; Bundeskanzlerpräferenz; Sympathie-Skalometer für ausgewählte Spitzenpolitiker; Beurteilung ausgewählter Spitzenpolitiker hinsichtlich Kompetenz, Ehrlichkeit, Ausstrahlung und Durchsetzungsfähigkeit; Split A: Rezeption von TV-Debatten zwischen unterschiedlichen Spitzenkandidaten und Rezeptionsart (z.B. während der Austrahlung oder später über die ORF-TVthek bzw. im Internet); bezogen auf die Rezeption der TV-Debatte zwischen Michael Spindelegger und Heinz-Christian Strache am 09.09.2013 wurde erfragt: Rezeptionsart und Anteil der verfolgten Debatte; Live-Foren oder Blogs im Internet zu dieser TV-Debatte gelesen; eigene Kommentare zur TV-Debatte in Live-Foren oder Blogs; Rezeption der Berichterstattung im Anschluss an die TV-Debatte in ausgewählten Medien und konkreten Angabe der Fernsehsendung, der Tageszeitung, des Onlinemediums bzw. der Onlinezeitung sowie des sozialen Netzwerks; Bewertung der Berichterstattung über die TV-Debatte im Fernsehen, in Tageszeitungen und Online-Medien; eigene Kommentare in sozialen Netzwerken; Gespräche mit Dritten über die TV-Debatte; Häufigkeit von Meinungsunterschieden bei diesen Gesprächen; wahrgenommenes zentrales Thema und persönlich wichtigstes Thema der TV-Debatte; Spitzenkandidat mit überzeugenderen Argumenten; persönliche Bewertung des Abschneidens von Michael Spindelegger und Heinz-Christian Strache sowie Bewertung der Berichterstattung in den Medien; persönlich empfundender Sieger der TV-Debatte und dargestellter Sieger im ORF; Bewertung von Michael Spindelegger und Heinz-Christian Strache anhand von Gegensatzpaaren (Semantisches Differential) Ende Split A; (Split B: entsprechende Fragen bezüglich der TV-Debatte zwischen Werner Faymann und Heinz-Christian Strache am 17.09.2013); Wahrscheinlichkeit der Teilnahme an der Nationalratswahl, Briefwähler: Zeitpunkt der Briefwahl und Wahlentscheidung; Parteipräferenz; offener oder bereits feststehender Ausgang der Nationalratswahl; erwarteter Sieger der Nationalratswahl; Nationalstolz; Veränderung des Zusammenlebens von Österreichern und Zuwanderern in den letzten drei Jahren; Veränderung der Wirtschaftslage im Land im letzten Jahr; Rezeption des Fußball WM-Qualifikationsspiels Österreich - Irland und Beurteilung der Leistung der österreichischen Nationalmannschaft; Affect Misattribution Procedure (AMP): Implizite (unbewusste) Einstellungen gegenüber Muslimen.
+Welle 3: Interesse am Wahlkampf; Bewertung des Wahlkampfs als fair, aggressiv, langweilig bzw. unterhaltsam; Rezeption ausgewählter TV-Debatten zwischen unterschiedlichen Spitzenkandidaten und Rezeptionsart; Rezeption weiterer TV-Formate oder Fernsehsendungen zur Nationalratswahl; wichtigste politische Themen der Nationalratswahl; Veränderung des Zusammenlebens von Österreichern und Zuwanderern in den letzten drei Jahren; Veränderung der Wirtschaftslage im Land im letzten Jahr; Wahrscheinlichkeit, die Parteien SPÖ, ÖVP, FPÖ, BZÖ, Grüne, Team Stronach und NEOS zu wählen; psychologische Selbstcharakterisierung (Big 5); Bundeskanzlerpräferenz; Sympathie-Skalometer für ausgewählte Spitzenpolitiker; Beurteilung ausgewählter Spitzenpolitiker hinsichtlich Kompetenz, Ehrlichkeit, Ausstrahlung und Durchsetzungsfähigkeit; Sicherheit der Wahlteilnahme an der Nationalratswahl; voraussichtliche Wahlentscheidung;  Zeitpunkt der Briefwahl und Wahlentscheidung (Briefwähler); Koalitionspräferenz (Skalometer); Koalitionswahrscheinlichkeit; offener oder bereits feststehender Ausgang der Nationalratswahl; erwarteter Sieger der Nationalratswahl; Demokratiezufriedenheit in Österreich; Crosswise Experiment: Ablehnung von Muslimen in der Nachbarschaft; Single-Category Implicit Association Test (SC-IAT): Implizite (unbewusste) Einstellungen gegenüber der FPÖ.
+Welle 4: Meinung zu ausgewählten politischen Themen (Politik aus der Wirtschaft heraushalten,Politik soll Einkommensunterschiede ausgleichen, Arbeitslosigkeit bekämpfen trotz Staatsverschuldung, Bevorzugung von Frauen bei gleicher Qualifikation, gute Betreuung von Kleinkindern in einer Kinderkrippe, Gleichstellung von gleichgeschlechtlicher Partnerschaft und Ehe, Forderung nach harten Strafen für Straftäter, Gesamtschule für alle bis 14 Jahre, Umweltschutz um jeden Preis; österreichischen Kultur wird durch Zuwanderung bereichert, Österreich soll bei der Aufnahme von Asylbewerbern streng sein, Zuwanderung nach Österreich stoppen); persönliche Wichtigkeit der vorgenannten Issues; Wahlbeteiligung und Wahlentscheidung bei der Nationalratswahl; Zeitpunkt der Wahlentscheidung; wichtigste Themen der Nationalratswahl; Beurteilung der Wirtschaftslage in der Region im Vergleich zu Gesamtösterreich; Veränderung der eigenen Wirtschaftslage in den letzten ein bis zwei Jahren; erwartete Veränderung des persönlichen Lebensstandards und des Haushaltseinkommens in den nächsten zehn Jahren; Demokratiezufriedenheit in Österreich; Item-Count-Technik (ICT): Wahlabsicht zugunsten der FPÖ.  
+Demographie: Österreichische Staatsangehörigkeit; Alter (Geburtsjahr und Geburtsmonat); Geschlecht; Bundesland; Haushaltsgröße und Anzahl der Personen im Haushalt unter 18 Jahren; höchster Bildungsabschluss; Konfession; Religiosität; Gottesdiensthäufigkeit; derzeitige Situation; derzeitige berufliche Situation und berufliche Stellung bzw. letzte berufliche Stellung; österreichische Staatsbürgerschaft seit Geburt; Geburtsland des Befragten und seiner Eltern (Migrationshintergrund); andere Sprache als Deutsch im Haushalt; im Haushalt gesprochene Sprache bzw. Sprachen; Gewerkschaftsmitgliedschaft; Beurteilung der Einkommenssituation; Haushaltsnettoeinkommen; Wohngebiet; Wohndauer im Wohngebiet.
+Zusätzlich verkodet wurde: Interviewbeginn; Interviewende jeder Welle; Browser-Kennung und Browser-Version; Hardware bzw. Gerätetyp; Betriebssystem-ID; Betriebssystem-Version; Verwendung von Smartphone bzw. Tablet. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>This dataset contains political preferences of Austrian citizens eligible to vote at the national parliamentary election on 29.9.2013 (age 16 and older). Participants were surveyed in the period 16.8. – 7.10.2013 through an interactive online questionnaire (CAWI). Three waves were conducted before the election; a fourth wave captures opinions after the election. For the first wave, 3084 respondents were selected from a pre-existing online panel based on a quota sample. This survey emphasizes the TV debates during the election campaign and the evaluation of candidates.
+Further important variables are political interest; interest in the electoral campaign; party closeness; party preferences; party identification; media consumption; usage of social networks; economic situation; attitudes towards immigrants; psychological self-characterization (Big 5); coalition preferences; satisfaction with democracy; and implicit associations towards the FPÖ. Additional variables capture demographics and technical information.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte Bevölkerung in Österreich (ab 16 Jahren)</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Austrian citizens eligible to vote (age 16 and older)</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Quotenauswahl</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2013-08-16</date>
+				</startDate>
+				<endDate>
+					<date>2013-10-07</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>TNS Opinion, Brussels</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Selbstausfüller: CAWI (Computerunterstütztes Web-Interview) </freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Self-administered questionnaire: CAWI (Computer Assisted Web Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>1223</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die ersten drei Wellen wurden vor dem Wahltermin abgeschlossen, die vierte Welle fand nach der Wahl statt.
+
+Im Rahmen der Untersuchung wurden in verschiedenen Wellen unterschiedliche Verfahren zur Messung sensibler Einstellungen und Verhaltensweisen eingesetzt:
+
+Welle 2: Zur Messung impliziter (unbewusster) Einstellungen von Österreichern gegenüber Muslimen wurde Affect Misattribution Procedure (AMP) verwendet. 
+
+Welle 3: Zur Messung impliziter (unbewusster) Einstellungen gegenüber der politischen Partei FPÖ, verwendete AUTNES einen Single Category Implicit Association Test (SC-IAT).
+
+Crosswise Experiment: Ablehnung von Muslimen in der Nachbarschaft.
+
+Welle 4: Item-Count-Technik (ICT): Wahlabsicht zugunsten der FPÖ.
+
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.12424</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.11951</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kritzinger, Sylvia; Müller, Wolfgang C.; Schönbach, Klaus (Hrsg.): 
+Die Nationalratswahl 2013: Wie Parteien, Medien und Wählerschaft zusammenwirken.
+Wien: Böhlau Verlag 2014</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

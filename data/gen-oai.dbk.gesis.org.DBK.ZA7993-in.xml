@@ -1,0 +1,304 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Social Cohesion in Baden-Wuerttemberg 2022'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Gesellschaftlicher Zusammenhalt in Baden-Württemberg 2022'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA7993</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Gesellschaftlicher Zusammenhalt in Baden-Württemberg 2022</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Social Cohesion in Baden-Wuerttemberg 2022</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Kai</firstName>
+				<middleName/>
+				<lastName>Unzicker</lastName>
+				<affiliation>
+					<affiliationName>Bertelsmann Stiftung, Gütersloh</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA7993?doi=10.4232/1.14163</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.14163</doiProposal>
+	<publicationDate>
+		<date>2023-08-11</date>
+	</publicationDate>
+	<publicationPlace>Cologne, Germany</publicationPlace>
+	<publisher>
+		<institution>
+			<institutionName>GESIS</institutionName>
+		</institution>
+	</publisher>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA7993</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>GESELLSCHAFT UND KULTUR</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Öffentliche Gesundheit/Public Health</term>
+					<term>Spezifische Krankheiten, Störungen und Gesundheitsprobleme</term>
+					<term>Allgemeine Gesundheit und Wohlbefinden</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Sozialer Wandel</term>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Jugend</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>SOCIETY AND CULTURE</term>
+					<term>Community, urban and rural life</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Public health</term>
+					<term>Specific diseases, disorders and medical conditions</term>
+					<term>General health and well-being</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Social change</term>
+					<term>Social conditions and indicators</term>
+					<term>Youth</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Anomie</term>
+					<term>Etabliertenvorrechte</term>
+					<term>Gruppebezogene Menschenfeindlichkeit</term>
+					<term>Soziale Netzwerke</term>
+					<term>Soziale Ungleichheit</term>
+					<term>Patriotismus</term>
+					<term>Lokalpatriotismus</term>
+					<term>Solidarität</term>
+					<term>Kriminalität</term>
+					<term>Staatsbürgerschaft</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Ost-Deutschland</term>
+					<term>West-Deutschland</term>
+					<term>Herkunft</term>
+					<term>Religiöse Zugehörigkeit</term>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexconcepts/1.4.0</classificationSchema>
+				<terms>
+					<term>Anomia</term>
+					<term>Precedent rights of established</term>
+					<term>Group-focused enmity</term>
+					<term>Social networks</term>
+					<term>Social inequality</term>
+					<term>Patriotism</term>
+					<term>Local patriotism</term>
+					<term>Solidarity</term>
+					<term>Criminality</term>
+					<term>Citizenship</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexgroups/1.3.0</classificationSchema>
+				<terms>
+					<term>Ost-Deutschland</term>
+					<term>West-Deutschland</term>
+					<term>Herkunft</term>
+					<term>Religiöse Zugehörigkeit</term>
+					<term>Zugewanderte der 1. Generation</term>
+					<term>Zugewanderte der 2. Generation</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>rexdatatype/1.1.1</classificationSchema>
+				<terms>
+					<term>Umfragedaten</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Studie über gesellschaftlichen Zusammenhalt in Baden-Württemberg wurde von Norstat Deutschland GmbH im Auftrag der Bertelsmann Stiftung und des Ministeriums für Soziales und Integration Baden-Württemberg durchgeführt. Im Erhebungszeitraum 09.12.2021 bis 04.01.2022 wurden 2.716 Personen ab 16 Jahren in Onlineinterviews (CAWI) zu folgenden Themen befragt: Wohlbefinden, sozialer Zusammenhalt, politische Einstellungen, Corona sowie Jugendliche in der Wohngegend. Die Auswahl der Befragten erfolgte durch eine Quotenstichprobe.Die Studie ist Bestandteil des Projektes Radar, das seit 2013 national und international verschiedene Aspekte des gesellschaftlichen Zusammenhaltes untersucht.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Wohlbefinden: Lebenszufriedenheit; Selbsteinschätzung des Gesundheitszustands; chronische Krankheit; Sozialer Zusammenhalt und Einstellungen zu Politik: Gefühl der Verbundenheit mit: Europa, Deutschland, Baden-Württemberg, der Region, dem Wohnort und mit der Nachbarschaft; Größe des Freundes- und Bekanntenkreises; Häufigkeit der Treffen mit Freunden/ Bekannten; Kontakthäufigkeit mit Freunden/ Bekannten; Veränderung der Kontakte zu Freunden/ Bekannten in der Corona-Pandemie;  Freunde, auf deren Hilfe man bei Schwierigkeiten zählen könnte; Anzahl der Freunde, auf deren Unterstützung man bei Schwierigkeiten zählen könnte; Freunde oder Bekannte, die im Notfall 1.000 Euro leihen würden; allgemeines Personenvertrauen; Stärke des Vertrauens bei der ersten Begegnung; Institutionenvertrauen: Stärke des Vertrauens in politische Parteien, Gerichte, Polizei, Landesregierung, Landtag, Bundesregierung, Bundestag, und Stadt- bzw. Kreis- oder Gemeindeverwaltung, öffentlich-rechtlicher Rundfunk (ARD, ZDF), Tageszeitungen, Soziale Medien, Wissenschaft, Ärztinnen und Ärzte; Zustimmung zu verschiedenen Aussagen (Die sozialen Unterschiede in unserem Land sind gerecht, man wird in Deutschland entsprechend seiner Leistung vergütet, gerecht, wenn alle Menschen das Gleiche bekommen, wirtschaftliche Gewinne werden heute in Deutschland gerecht verteilt, Rangunterschiede zwischen den Menschen sind akzeptabel, die meisten Leute kümmern sich gar nicht um ihre Mitmenschen, die meisten Menschen haben gute Absichten, heutzutage kann man sich auf niemanden verlassen); Gesellschaftliche Teilhabe: Spenden in den letzten 12 Monaten; Häufigkeit ehrenamtlicher Tätigkeit; Art der politischen Partizipation in den letzten zwölf Monaten (z.B. Unterschriftensammlungen für politische Zwecke, Teilnahme an einer Demonstration, Beteiligung an einer Bürgerinitiative, etc.); Mitgliedschaft in einem Verein oder einer gemeinnützigen Organisation; Bedrohung vs. Bereicherung des Lebens in Deutschland durch zunehmende Vielfalt; Akzeptanz verschiedener Personengruppen in der Nachbarschaft (Menschen mit einem ganz anderen Lebensstil, Menschen mit anderer Religion, Ausländer/ Migranten, Homosexuelle, Familien mit Kindern, Menschen mit Behinderung); Sicherheitsgefühl in der Nachbarschaft; Gegend in unmittelbarer Nähe, wo man nachts nicht alleine gehen möchte; Anerkennung sozialer Regeln: verschiedene Probleme in der Nachbarschaft (z.B. Hundekot auf der Straße, Ruhestörung, etc.); Politikinteresse; Interesse an Kommunalpolitik; Wahrscheinlichkeit einer Wahlbeteiligung bei den nächsten Wahlen; politische Selbsteinstufung Links-Rechts; Parteipräferenz; Zukunftsoptimismus; Tendenz zu Verschwörungstheorien (öffentliche Version der Regierung verschleiert die Wahrheit, Öffentlichkeit wird nie über viele sehr wichtige Dinge in der Welt informiert, Politiker geben keine Auskunft über die wahren Motive ihrer Entscheidungen, Regierungsbehörden überwachen alle Bürger genau, Ereignisse oft das Ergebnis geheimer Aktivitäten, es gibt geheime Organisationen mit großem Einfluss auf politische Entscheidungen); Demokratiezufriedenheit; gesellschaftlicher Zusammenhalt in Deutschland ist gefährdet; 
+Corona: Veränderung des gesellschaftlichen Zusammenhalts in Deutschland in der Corona-Pandemie; Beurteilung des Zusammenhalts in der Wohngegend; Veränderung des gesellschaftlichen Zusammenhalts in der Wohngegend in der Corona-Pandemie; Bewertung der Handhabe der Corona-Pandemie durch die Politik; Zustimmung zu Aussagen: Die Bedürfnisse von Menschen wie mir wurden in der Corona-Pandemie ausreichend berücksichtigt, die Politik hat im Zusammenhang mit der Corona-Pandemie genug für Menschen wie mich getan; Bewertung des Einsatzes der Politik während der Corona-Pandemie für verschiedene Gruppen (ältere Menschen, Jugendliche, Kinder, Familien, Alleinerziehende, Menschen mit Behinderung, Menschen mit Vorerkrankungen, Pflegebedürftige, psychisch kranke Menschen, Arbeitslose, Beschäftigte, die nicht zu Hause arbeiten können, Beschäftigte, die zu Hause arbeiten mussten, Kulturschaffende und Beschäftigte im Gesundheitswesen); Begegnungen in Zeiten von Corona: mehr Solidarität als sonst oder mehr Feindseligkeit; Freiheit der Bürger vs. Schutz der Gesundheit sollten Vorrang haben in Zeiten von Corona; durch die Corona-Pandemie werden meine Bürger- und Freiheitsrechte eingeschränkt; Zunahme von Konflikten zwischen Bevölkerungsgruppen in der Corona-Pandemie; Gesellschaft wird geschwächt oder gestärkt aus der Corona-Krise hervorgehen; erlebte wirtschaftliche Folgen der Corona-Pandemie (Arbeitsplatz verloren, musste Geschäft schließen, auf Kurzarbeit reduziert, arbeite im Homeoffice, erhalte Geld aus Hilfspaket, gehe wie bisher zur Arbeit, betreue Kinder zu Hause); seit Beginn der Corona-Pandemie:  mehr Aufgaben im Haushalt erledigt als früher, häufiger Streit und Konflikte in der Familie, häufiger Streit und Konflikte im Freundes- und Bekanntenkreis;  empfundene Beeinträchtigung durch die Maßnahmen im Kampf gegen die Corona-Pandemie; psychische Veränderungen seit Ausbruch der Corona-Pandemie (fühle mich nervöser und ängstlicher, bin reizbarer und habe regelmäßig Streit mit meiner Familie, fühle mich müde und manchmal erschöpft, Konzentrationsschwierigkeiten, finde es schwierig Entscheidungen zu treffen, fühle mich unwohl bei der Kommunikation mit anderen): Zielpersonen mit Kindern im Haushalt wurden gefragt: Belastungen seit Beginn der Corona-Pandemie im Vergleich zu früher in folgenden Lebensbereichen: Wohnsituation, Balance zwischen Beruf und Familie, Schulalltag der Kinder, Kinderbetreuung sowie finanzielle Situation; Corona-Erfahrungen (positiv auf COVID-19 getestet, habe/ hatte selbst schwere Symptome; nahestehende Menschen haben/ hatten schwere Symptome, nahestehende Menschen sind infolge einer Infektion mit COVID-19 verstorben, vollständig geimpft); Absicht, sich in nächster Zeit impfen zu lassen; Bereitschaft, sich künftig in regelmäßigen Abständen gegen COVID-19 impfen zu lassen; Wohndauer am jetzigen Wohnort (schon immer, seit Jahr); Jugendliche: Wohnort ein guter Ort für Jugendliche; Unterstützungsangebote für Jugendliche in der Wohngegend; Ausstattung der Wohngegend in Bezug auf: attraktive Freizeitangebote für Jugendliche, Ansprechpersonen für Jugendliche, wie z.B. Sozialarbeiter, geeignete Treffpunkte für Jugendliche; ausreichende Berücksichtigung der Bedürfnisse von Jugendlichen im Verlauf der Corona-Pandemie; Veränderung der Situation von Jugendlichen in der Wohngegend seit Beginn der Corona-Pandemie. 
+Demographie: Geschlecht; Alter; Altersgruppen; höchster Bildungsabschluss; Höhe des monatlichen Haushaltsnettoeinkommens; Haushaltsgröße; Anzahl Personen im Haushalt von 0 bis 13 Jahren, von 14 bis 17 Jahren und ab 18 Jahren; Wohnstatus; falls Mietwohnung, Eigentumswohnung oder zur Untermiete/ WG: Wohnung befindet sich in einem Zweifamilienhaus, in einem Mehrfamilienhaus oder in einem Hochhaus/ einer Großwohnanlage; feste Partnerschaft; Kinder; Anzahl der Kinder; Anzahl der Kinder im Alter 0 bis 5 Jahre, 6 bis 13 Jahre, 14 bis 17 Jahre, 18 bis 29 Jahre, 30 Jahre und älter; Kinder im Haushalt; Erwerbsstatus; Zugehörigkeit zu einer Religionsgemeinschaft; Konfession oder Religionsgemeinschaft; in den letzten zwölf Monaten laufende finanzielle Hilfe zum Lebensunterhalt bezogen; Beurteilung der persönlichen wirtschaftlichen Lage; in Deutschland geboren; Geburtsland der befragten Person; deutsche Staatsbürgerschaft; Staatsbürgerschaft der befragten Person; Vater und Mutter in Deutschland geboren (Migrationshintergrund).
+Zusätzlich verkodet wurde: Datensatz-Nummer; Gesamtzeit des Interviews; Gewichtungsfaktoren; Regierungsbezirk; homogenisierter ROR (Region); Kreis; Kreiskennziffer; politische Gemeindeklasse; Kreistyp, städtischer/ ländlicher Raum; Kreislage.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The study on social cohesion in Baden-Württemberg was conducted by Norstat Deutschland GmbH on behalf of the Bertelsmann Foundation and the Ministry of Social Affairs and Integration Baden-Württemberg. In the survey period 09.12.2021 to 04.01.2022, 2,716 people aged 16 and over were surveyed in online interviews (CAWI) on the following topics: well-being, social cohesion, political attitudes, Corona, and young people in the neighbourhood. The respondents were selected through quota sampling.The study is part of the Radar project, which has been investigating various aspects of social cohesion nationally and internationally since 2013.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Well-being: Life satisfaction; self-assessment of health status; chronic illness; Social cohesion and attitudes towards politics: sense of attachment to: Europe, Germany, Baden-Württemberg, the region, the place of residence, and with the neighborhood; size of circle of friends and acquaintances; frequency of meetings with friends/acquaintances; frequency of contact with friends/acquaintances; change in contact with friends/acquaintances in the Corona pandemic; friends on whose help one could count in case of difficulties; number of friends on whose support one could count in case of difficulties; friends or acquaintances who would lend 1,000 euros in an emergency; general trust in persons; strength of trust at first encounter; institutional trust: Strength of trust in political parties, courts, police, state government, state parliament, federal government, Bundestag, and city or district or local government, public broadcasting (ARD, ZDF), daily newspapers, social media, science, doctors; agreement with various statements (Social differences in our country are fair, in Germany you are compensated according to your performance, fair if everyone gets the same, economic gains are distributed fairly in Germany today, differences in rank between people are acceptable, most people don´t care about their fellow human beings at all, most people have good intentions, nowadays you can´t rely on anyone); social participation: donations in the past 12 months; frequency of volunteer work; type of political participation in the past 12 months (e.g., collecting signatures for political causes, participating in a demonstration, participating in a citizens´ initiative, etc.); membership in a club or nonprofit organization; threat vs. enrichment of life in Germany by increasing diversity; acceptance of different groups of people in the neighborhood (people with a completely different lifestyle, people with a different religion, foreigners/migrants, homosexuals, families with children, people with disabilities); feeling of safety in the neighborhood; neighborhood in the immediate vicinity where one would not want to go alone at night; recognition of social rules: various problems in the neighborhood (e.g. dog excrement on the street, disturbance of the peace, etc.); interest in politics; interest in local politics; likelihood of voting in the next elections; political self-ranking left-right; party preference; optimism about the future; tendency toward conspiracy theories (public version of government obscures the truth, public is never informed about many very important things in the world, politicians do not provide information about the true motives of their decisions, government agencies closely monitor all citizens, events often the result of secret activities, there are secret organizations with great influence on political decisions); satisfaction with democracy; social cohesion in Germany is at risk;
+Corona: change in social cohesion in Germany in the Corona pandemic; assessment of cohesion in the neighborhood; change in social cohesion in the neighborhood in the Corona pandemic; assessment of the handling of the Corona pandemic by politicians; agreement with statements: The needs of people like me were adequately addressed during the Corona pandemic; the policy did enough for people like me in the context of the Corona pandemic; Evaluation of the policy´s outreach during the Corona pandemic to different groups (elderly, youth, children, families, single parents, people with disabilities, people with pre-existing conditions, people in need of care, people with mental illness, unemployed, workers unable to work at home, workers who had to work at home, cultural workers, and health care workers); encounters in times of Corona: More solidarity than usual or more hostility; freedom of citizens vs. Protection of health should be priority in times of Corona; due to Corona pandemic, my civil and liberty rights will be limited; increase in conflicts between population groups in Corona pandemic; society will emerge weakened or strengthened from Corona crisis; experienced economic consequences of the Corona pandemic (lost job, had to close business, reduced to short-time work, work in home office, receive money from aid package, go to work as before, take care of children at home); since the beginning of the Corona pandemic:  More household chores done than before, more frequent quarrels and conflicts in the family, more frequent quarrels and conflicts among friends and acquaintances; perceived impairment by the measures taken to fight the Corona pandemic; psychological changes since the outbreak of the Corona pandemic (feel more nervous and anxious, more irritable and have regular fights with my family, feel tired and sometimes exhausted, difficulty concentrating, find it difficult to make decisions, feel uncomfortable communicating with others): target persons with children in the household were asked: stresses since the beginning of the Corona pandemic compared to before in the following areas of life: Housing situation, work-family balance, children´s school routine, child care, and financial situation; Corona experience (tested positive for COVID-19, have/had severe symptoms myself; close people have/had severe symptoms, close people have died as a result of infection with COVID-19, fully vaccinated); intention to be vaccinated in the near future; willingness to be vaccinated against COVID-19 at regular intervals in the future; length of residence at current residence (always, since year); Adolescents: Place of residence a good place for adolescents; Support services for adolescents in the residential area; Facilities in the residential area in terms of: attractive leisure activities for adolescents, contact persons for adolescents, such as social workers, suitable meeting places for adolescents; Sufficient attention to the needs of adolescents in the course of the Corona pandemic; Change in the situation of adolescents in the residential area since the beginning of the Corona pandemic.
+Demography: sex; age; age groups; highest educational attainment; amount of net monthly household income; household size; number of persons in household aged 0 to 13 years, 14 to 17 years, and 18 years and older; housing status; if rented, owned, or sublet/shared: Dwelling is in a two-family house, in an apartment building, or in a high-rise building/large apartment complex; steady partnership; children; number of children; number of children aged 0 to 5 years, 6 to 13 years, 14 to 17 years, 18 to 29 years, 30 years and older; children in household; employment status; membership in a religious community; Denomination or religious community; received ongoing financial assistance for living expenses in the last twelve months; assessment of personal economic situation; born in Germany; country of birth of respondent; German citizenship; citizenship of respondent; father and mother born in Germany (migration background).
+Additionally coded were: Record number; total interview time; weighting factors; government district; homogenized ROR (region); county; county code number; political municipality class; county type, urban/rural; county location.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BW</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen ab 16 Jahren</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons aged 16 and over</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Nicht-Wahrscheinlichkeitsauswahl: Quotenstichprobe; Auswahlverfahren Kommentar: Quotenstichprobe aus Online-Panel</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Non-probability: Quota; Sampling Procedure Comment: Quota sample from online panel</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2021-12-09</date>
+				</startDate>
+				<endDate>
+					<date>2022-01-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Norstat Deutschland GmbH, München</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>SelfAdministeredQuestionnaire.WebBased</collectionModeType></collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>2716</numberUnits>
+			<numberVariables>203</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

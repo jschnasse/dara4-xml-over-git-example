@@ -1,0 +1,1151 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Eurobarometer 77.4 (2012)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Eurobarometer 77.4 (2012)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5613</identifier>
+		<currentVersion>3.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Eurobarometer 77.4 (2012)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Eurobarometer 77.4 (2012)</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>European Parliament, Development Aid, Social Climate and Discrimination</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>European Parliament, Development Aid, Social Climate and Discrimination</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Two years to go to the 2014 European elections (European Parliament Eurobarometer)  </titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Two years to go to the 2014 European elections (European Parliament Eurobarometer)  </titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>European Commission and European Parliament, Brussels</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5613?doi=10.4232/1.12049</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12049</doiProposal>
+	<publicationDate>
+		<date>2015-03-17</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5613</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>doi:10.3886/ICPSR34859.v1</identifier>
+			<type>DOI</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+					<identifier>KAT31</identifier>
+					<!-- Wirtschaftspolitik, wirtschaftliche Lage -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Soziale Lage und soziale Indikatoren</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>SOZIALE SCHICHTUNG UND GRUPPIERUNGEN</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+					<term>Beschäftigungspolitik</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Social conditions and indicators</term>
+					<term>Social behaviour and attitudes</term>
+					<term>International politics and organisations</term>
+					<term>SOCIAL STRATIFICATION AND GROUPINGS</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Economic conditions and indicators</term>
+					<term>Economic systems and development</term>
+					<term>Labour and employment policy</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Seit den frühen 1970er Jahren beobachten die Standard &amp; Spezial Eurobarometer der Europäischen Kommission regelmäßig die öffentliche Meinung in den Mitgliedsländern der Europäischen Union. Primärforscher sind die Generaldirektion Kommunikation und bei Spezialthemen weitere Direktionen sowie das Europäische Parlament. Im Laufe der Zeit wurden Kandidaten- und Beitrittsländer in die Standard Eurobarometer-Reihe aufgenommen. Ausgewählte Fragen oder Module können in einigen Samples nicht erhoben worden sein. Bitte ziehen Sie für weitere Informationen bezüglich Länderfilter oder anderer Filterführungen den Basisfragebogen heran. In dieser Studie sind folgende Module vorhanden: 1. European Parliament Eurobarometer, 2. Entwicklungshilfe, 3. Soziales Klima, 4. Diskriminierung.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>Themen: 1. European Parliament Eurobarometer: Wahlbeteiligung bei der letzten Europawahl im Juni 2009; Bekanntheitsgrad der europäischen Institutionen: EU-Parlament, Europäische Kommission, Rat der EU, Europäischer Rat, Europäische Zentralbank, Europäischer Rechnungshof, Gerichtshof der EU, Europäischer Wirtschafts- und Sozialausschuss und Ausschuss der Regionen der EU; Image der EU; Wichtigkeit der Rolle des Europäischen Parlaments innerhalb der EU; Kenntnis des Zeitpunkts der nächsten Europawahl; Wissen über die Institutionen der EU (Direktwahl der Mitglieder des Europäischen Parlaments, Festlegung des EU-Budgets vom Europäischen Parlament und den Mitgliedsstaaten gemeinsam, Beschluss europäischer Gesetze vom Europäischen Parlament und den Mitgliedsstaaten, dieselbe Anzahl von Abgeordneten jedes EU-Mitgliedsstaates im Europäischen Parlament); politische Maßnahmen, deren Entwicklung das Europäische Parlament vorrangig betreiben sollte; präferierter Politikbereich angesichts der Krise; Identität als Landesbüger, Landesbürger und Europäer, Europäer und Landesbürger oder nur als Europäer; wichtigste Elemente zur Bildung einer europäischen Identität; Identitätsstärkendes als europäischer Bürger; Kenntnis der Funktionsweise der EU und ihrer Institutionen; Wissenstest über die Institutionen Europäische Kommission, Europäisches Parlament und Rat der EU im Hinblick auf die Direktwahl ihrer Mitglieder, Gesetzesvorschläge für europäische Gesetzgebung, Zusammensetzung aus Ministern jedes Migliedsstaates; Kenntnistest über die Ernennung des Präsidenten der Europäischen Kommission; Institution, die die EU am besten repräsentiert; indirekte Beteiligung als EU-Bürger an der Wahl des Präsidenten der EU als Anreiz zur Wahlbeteiligung bei der nächsten Europawahl 2014; Bekanntheit der Europäischen Bürgerinitiative; Meinung zur Europäischen Bürgerinitiative (Schwierigkeit des Zusammenbringens von eine Million Bürgern in 27 Mitgliedsstaaten, wirksames Mittel zur Direktbeteiligung europäischer Bürger an den Entscheidungen der EU); präferiertes Verfahren zur Einbringung von Ideen bei der Europäischen Bürgerinitiative; Bereiche für die Inanspruchnahme der Europäischen Bürgerinitiative; Bekanntheit der Charta der Grundrechte der EU; wichtigste europäische Bürgerrechte; politische Wirksamkeit (Efficacy) (Stimme zählt in der EU, im eigenen Land sowie die Landesstimme zählt in der EU); Mitgliedschaft des Landes in der EU als eine gute Sache; geeignetste Maßnahmen politischer Partizipation in der EU.
+2. Entwicklungshilfe: Wichtigkeit von Entwicklungshilfe der EU; Meinung zur Erhöhung der Entwicklungshilfe angesichts der Wirtschaftslage; Politikbereich mit den größten Auswirkungen auf die Entwicklungsländer; wichtigste Bereiche der Entwicklungspolitik; größte Hindernisse für eine positive Entwicklung der Entwicklungsländer; Einstellung zu Hilfszahlungen an Schwellenländer; Einstellung zur sozialen und ethischen Verantwortung von Privatunternehmen aus Industrieländern bei Investitionen in Entwicklungsländern; Forderung nach Einhaltung sozialer und ethischer Standards von Privatunternehmen bei Investitionen in Entwicklungsländern; Arten von Privatunternehmen, die am wichtigsten für die Entwicklung eines Landes sind; Rolle von Privatunternehmen in Entwicklungsländern; Bereitschaft zur Zahlung höherer Preise für fair gehandelte Produkte aus Entwicklungsländern (fair trade products); Selbsteinschätzung des Informationsstands über die Verwendung von nationaler und EU-Entwicklungshilfe; Meinung zur vorrangigen EU-Entwicklungshilfe für Länder mit Konflikten oder Naturkatastrophen versus Entwicklungshilfe unabhängig von schwierigen Situationen.
+3. Soziales Klima: Lebenszufriedenheit; Beurteilung der derzeitigen Lage und erwartete Entwicklung in ausgewählten Bereichen (Wohngegend, Gesundheitswesen, Rentenversorgung, Arbeitslosenunterstützung, Lebenshaltungskosten im Land, multikulturelle Beziehungen, Umgang mit sozialer Benachteilungung und Armut im Land, Bezahlbarkeit von Energie und Wohnraum, Funktionieren der öffentlichen Verwaltung, nationale Wirtschaftslage, persönliche berufliche Situation, finanzielle Situation des Haushalts, nationale Arbeitsmarktlage); Veränderungen in den vorgenannten Bereichen im Vergleich zu vor fünf Jahren. 
+4. Diskriminierung: Beurteilung der jeweiligen Verbreitung von Diskriminierung im Land aufgrund ethnischer Herkunft, sexueller Orientierung, Alter (älter als 55, jünger als 30 Jahre), Religion, Behinderung, Geschlechtsidentität und Geschlecht; Gründe für persönlich erfahrene Diskriminierung oder Belästigung im letzten Jahr; Gründe für Diskriminierung, deren Zeuge der Befragte war; vermutete Merkmale, die sich nachteilig bei der Bewerbung um einen Arbeitsplatz auswirken könnten; Einstellung zur Wahl einer Person aus Gruppen, die von Diskriminierung bedroht sind, in das höchste politische Amt des Landes (Frau, schwule, lesbische oder bisexuelle Person, andere ethnische Herkunft, jünger als 30 Jahre bzw. älter als 75 Jahre, andere Religionszugehörigkeit als die Bevölkerungsmehrheit, Behinderung, transsexuelle Person, Skala); Einstellung zu ausgewählten Maßnahmen am Arbeitspaltz zur Förderung von Vielfalt (Schulungen zum Thema Vielfalt für Arbeitnehmer und Arbeitgeber, Kontrolle der Belegschaftszusammensetzung hinsichtlich von Diskriminierung bedrohter Gruppen, Überwachung vom Einstellungsverfahren); Beurteilung der Wirksamkeit nationaler Bemühungen im Kampf gegen Diskriminierung (Skalometer); Kenntnis der Rechte von Diskriminierungsopfern; weniger Fördermittel für Gleichberechtigung und Vielfalt aufgrund der Wirtschaftskrise; erwartete Zunahme von Diskriminierung auf dem Arbeitsmarkt aufgrund der ethnischen Herkunft, der sexuellen Orientierung, des Alters, der Religion, einer Behinderung, der Geschlechtsidentitiät und des Geschlechts; Bewertung des Umfangs der Maßnahmen am eigenen Arbeitsplatz zur Förderung der Vielfalt in Bezug auf ethnische Herkunft, Geschlecht usw.; präferierter Ansprechpartner bei persönlich erfahrener Diskriminierung (Gewerkschaften, Nicht-Regierungsorganisationen, Gericht bzw. Gerichtshof, Gleichstellungsorganisation, Anwalt oder Polizei); Beurteilung der Verbreitung von Diskriminierung im Land außerhalb des Berufslebens; Bewertung des erschwerten bzw. verweigerten Zugangs zu Waren und Dienstleistungen für Menschen mit Behinderungen und Ältere als Diskriminierung; Bewertung der Wirksamkeit von Maßnahmen zur Integration der Roma-Bevölkerung (Skalometer); vermutete Einstellung der Bürger des Landes zu Kindern aus Roma-Familien als Klassenkameraden eigener Kinder (Skalometer); Roma als von Diskriminierung bedrohte Personengrupppe; die Gesellschaft könnte von einer bessern Integration der Roma profitieren; Personen aus von Diskriminierung bedrohten Gruppen im Freundeskreis; eigene Zugehörigkeit zu einer Minderheitengruppe; Religonszugehörigkeit; chronische physische oder psychische Krankheit; geografische Herkunft des Befragten aus dem Befragungsland, einem anderen Mitgliedsstaat der EU, Europa, Asien, Afrika oder Lateinamerika, Nordamerika, Japan oder Australien; Herkunft der Eltern.
+Demographie: Staatsangehörigkeit; Selbsteinstufung auf einem Links-Rechts-Kontinuum; Familiensituation; Alter bei Beendigung der Schulbildung; Geschlecht; Alter; Beruf; berufliche Stellung; Urbanisierungsgrad; Anzahl der Haushaltsmitglieder ab 15 Jahren; Anzahl der Haushaltmitglieder unter 10 Jahren und zwischen 10 und 14 Jahren; Besitz langlebiger Wirtschaftsgüter; Internetverbindung zuhause; abbezahltes bzw. abzuzahlendes Wohnungseigentum; Zahlungsschwierigkeiten im letzten Jahr; Selbsteinschätzung der gesellschaftlichen Stellung (Skalometer); Häufigkeit der Internetnutzung (zu Hause, am Arbeitsplatz, in der Schule, Universität oder im Internet-Cafe).
+Zusätzlich verkodet wurde: Interviewdatum; Interviewbeginn; Interviewdauer; Anwesenheit Dritter während des Interviews; Kooperationsbereitschaft des Befragten; Ortsgröße; Region; Interviewsprache; Gewichtungsfaktor. </freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Since the early 1970s the European Commission´s Standard &amp; Special Eurobarometer are regularly monitoring the public opinion in the European Union member countries. Principal investigators are the Directorate-General Communication and on occasion other departments of the European Commission or the European Parliament. Over time, candidate and accession countries were included in the Standard Eurobarometer Series. Selected questions or modules may not have been surveyed in each sample. Please consult the basic questionnaire for more information on country filter instructions or other questionnaire routing filters. In this study the following modules are included: 1. European Parliament Eurobarometer, 2. Development aid, 3. Social climate, 4. Discrimination.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Topics: 1. European Parliament Eurobarometer: cast ballot at the European elections in June 2009; awareness of the European institutions: EU Parliament, European Commission, Council of the EU, European Council, European Central Bank, European Court of Auditors, the Court of Justice of the European Union, European Economic and Social Committee and the Committee of the Regions; image of the EU; importance of the role of the European Parliament within the EU; knowledge about the daet of the next European elections; knowledge about the institutions of the EU (direct election of the members of the European Parliament, the EU budget is determined jointly by the European Parliament and the member states, European law agreed jointly by the European Parliament and the member states, each member state has the same number of members in the European Parliament); policy priority for the EU; policy priority do manage crisis; identity as nationality (only), nationality and European, European and nationality or just as European; most important elements of the European identity; factors strengthening identification with Europe; self-rated knowledge about the functioning of the EU and its institutions; knowledge test on the institutions: European Commission, European Parliament and the Council of the European Union; test your knowledge on the appointment of the President of the European Commission; Institution that best represents the EU; incitation to vote if major political alliances present a candidate for the President of the European Commission; awareness of European Citizens´ initiative; attitudes towards European Citizens´ Initiative (will be difficult to bring together a million citizens in 27 Member States, effective way of getting European citizens directly involved in the EU’s decisions); prefered mode to suggest ideas for the European Citizens´ Initiative; areas to use the European Citizens´ Initiative; awareness of the Charter of Fundamental Rights of the EU; Europe´s most important civil rights; political efficacy (voice counts in the EU, in the own country and the country´s voice counts in the EU); Country´s membership of the EU is a good thing; best forms of political participation in the EU.
+2. Development aid: importance of EU development assistance; attitudes towards increasing development aid in light of the economic situation; policy area with the biggest impact on developing countries; most important areas of development policies; main obstacles successful development of developing countries; attitudes towards aid for emerging markets; attitudes towards social and ethical responsibilities of private companies from developed countries for investments in developing countries;EU should enforce compyance with social and ethical standards for private companies operating in developing countries; types of private companies that are the most important for the country’s development; role of private sector companies in developing countries; willingness to pay more for groceries or other products from developing countries (fair-trade products); self-rated knowledge about usage of EU development aid; priority EU development assistance for countries with conflicts or natural disasters versus development aid regardless of difficult situations.
+3. Social climate: life satisfaction; assessment of the current situation and expected development in selected areas (residential area, health care, provision of pensions, unemployment benefits, cost of living in the country, multicultural relations, dealing with social inequalities and poverty in the country, affordable energy and housing, the way public administration runs, national economic situation, personal job situation, financial situation of the household, (national labor market); changes in the aforementioned areas compared with five years ago.
+4. Discrimination: perceived discrimination in the country: ethnic origin, sexual orientation, age (being over 55, being under 30 years old), religion, disability, gender identity and gender; personal feeling of discrimination during the past 12 month; reasons for discrimination; suspected characteristics that could be detrimental when applying for a job; feeling about persons from specific groups elected into the highest political position in the country (woman, gay, lesbian or bisexual person, other ethnic origin, younger than 30 or older than 75 years, other religion than the majority of the population, disability, transsexual, scale); attitudes towards selected measures to foster diversity in the work place (training on diversity issues for employers and employees, monitoring the work-force composition to evaluate the representation of groups at risk of discrimination, monitoring recruitment procedures); assessing the effectiveness of national efforts to combat discrimination (scale); knowledge of the rights of victims of discrimination; fewer funds for equality and diversity due to the economic crisis; expected increase of discrimination in the labor market for ethnic origin, sexual orientation, age, religion, disability, gender identity and gender; sufficient measures to promote diversity at the workplace for discrimination due to ethnic origin, gender, etc.; preferred contact for reporting discrimination (trade Unions, non-governmental association, court or tribunal, equal opportunities organization, lawyer or police); perceived discrimination outside working life; difficult or denied access to goods and services for people with disabilities and older people as discrimination; perceived effectiveness of measures for the integration of the Roma population (scale); perceived attitude of the citizens about their children having Roma schoolmates (scale); the Roma are a group of people at risk of discrimination; the society could benefit from a better integration of the Roma; friends from potientially discriminated group; subjective membership of a minority group; denomination; chronic physical or mental health problem; country of birth; origin of parents.
+Demography: nationality; left-right self-placement; family situation; age at end of education; sex; age; occupation; professional position; degree of urbanization; household composition and household size; own a mobile phone and fixed (landline) phone; possession of durable goods (entertainment electronics, Internet connection, possession of a car, a flat/a house have finished paying for or still paying for); financial difficulties during the last year; self-rated social position (scale); Internet use (at home, at work, at school).
+Also encoded was: date of interview; beginning of interview; duration of interview; persons present during the interview; willingness to cooperate; city size; Language of the interview; weighting factor.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-GBN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-NIR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CY</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CZ</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>EE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LV</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>MT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>BG</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>RO</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Bevölkerung der jeweiligen Nationalitäten der Mitgliedsstaaten der EU, wohnhaft in den jeweiligen Mitgliedsstaaten im Alter von 15 Jahren und älter.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Population of the respective nationalities of the European Union Member
+States, resident in each of the Member States and aged 15 years and over</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: mehrstufige, proportional geschichtete Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample: Proportionate Stratified Multistage Sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>All countries</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Alle Länder</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Belgium</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Belgien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Denmark</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Dänemark</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-15</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Greece</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Griechenland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Spain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Spanien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Finland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Finnland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-15</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-16</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Luxembourg</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Luxemburg</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Netherlands</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Austria</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Österreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Sweden</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweden</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Northern Ireland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Nordirland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Cyprus (Republic)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Zypern (Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Czech Republic</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Tschechische Republik</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Estonia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Estland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Hungary</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Ungarn</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Latvia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Lettland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Lithuania</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Litauen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-16</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Malta</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Malta</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Poland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Polen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovakia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowakei</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovenia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowenien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-11</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Bulgaria</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Bulgarien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-06-02</date>
+				</startDate>
+				<endDate>
+					<date>2012-06-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Romania</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Rumänien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>European Commission, Brussels
+DG Communication (COMM.A.2 ´Research and Speechwriting´)</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>European Parliament, Directorate-General for Communication, Public Opinion Monitoring Unit </institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Dimarso, Brussels, Belgium</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS BBSS, Sofia, Bulgaria</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Aisa, Prague, Czech Republic</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS GALLUP DK, Copenhagen, Denmark</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest, Munich, Germany</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Emor, Tallinn, Estonia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Ipsos MRBI, Dublin, Ireland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS ICAP, Athens, Greece</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Demoscopia, Madrid, Spain</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Sofres, Montrouge, France</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest, Milan, Italy</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Synovate, Nicosia, Cyprus</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Latvia, Riga, Latvia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS GALLUP Lithuania, Vilnius, Lithuania</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS ILReS, Luxembourg, Luxembourg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Hoffmann Kft, Budapest, Hungary</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MISCO, Mriehel, Malta</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS NIPO, Amsterdam, Netherlands</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Österreichisches GALLUP, Vienna, Austria</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS OBOP, Warsaw, Poland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS EUROTESTE, Lisbon, Portugal</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS CSOP, Bucharest, Romania</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>RM PLUS, Maribor, Slovenia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Slovakia, Bratislava, Slovakia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS GALLUP Oy, Espoo, Finland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS GALLUP, Stockholm, Sweden</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS UK, London, United Kingdom</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Opinion &amp; Social, Brussels (international co-ordination)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Persönliches Interview (teilweise CAPI)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Face-to-face interview
+As far as the data capture is concerned, CAPI (Computer Assisted
+Personal Interview) was used in those countries where this technique was available.
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>645</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Je Land wurden ca. 1000 Interviews durchgeführt (Vereinigtes Königreich: ca. 1300, in Zypern, Luxemburg und Malta wurden jeweils ca. 500 Interviews durchgeführt.
+
+Modul QA repliziert teilweise Fragen zum Thema ´Development Aid´ aus Eurobarometer 76.1 [ZA5565]. Modul QB repliziert das Modul ´Social Climate´ aus dem Eurobarometer 75.4 [ZA5564].
+
+Aufgrund technischer Probleme wurde die Frage QC9 in Spanien vom 12. bis 13. November telefonisch nachbefragt. Die Daten dieser Nachbefragung wurden nicht bereitgestellt und die enstprechende Variable für Spanien als MISSING kodiert.   </text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Module QA partly replicates questions on ´development aid´ asked in the context of Eurobarometer 76.1 [ZA5565]. Module QB replicates the module on ´Social climate´ surveyed in the context of Eurobarometer 75.4 [ZA5564].
+
+Due to a technical issue, the fieldwork in Spain for question qc9 was conducted by phone, the 12 and 13 November. Data from this subsequent interview are not made available. Spanish qc9 data from the regular interview have been masked (recoded to missing value).     </text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.11697</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.11495</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: 
+Special Eurobarometer 391 / Wave 77.4: Social Climate. Survey requested by the European Commission, Directorate-General Employment, Social Affairs and Inclusion, and co-ordinated by Directorate-General for Communication. 
+Brussels, September 2012.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: 
+Special Eurobarometer 392 / Wave 77.4: Solidarity that spans the globe: Europeans and development aid. Survey requested by Directorate-General Development and Cooperation – EuropeAid and coordinated by Directorate-General for Communication (DG COMM “Research and Speechwriting” Unit). 
+Brussels, October 2012.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: 
+Special Eurobarometer 393 / Wave 77.4: Discrimination in the EU in 2012. Survey requested by the European Commission, Directorate-General Justice and co-ordinated by Directorate-General for Communication. 
+Brussels, November 2012. </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Parliament: 
+Two years to go to the 2014 European elections. European Parliament Eurobarometer (EB/PE 77.4): FOCUS REPORT ON EUROPEAN CITIZENSHIP. 
+Brussels, 6 February 2013.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Parliament, Directorate-General for Communication, Public Opinion Monitoring Unit: Two years to go to the 2014 European elections European Parliament Eurobarometer (EB/EP 77.4): FOCUS ON THE EURO AND THE NON-EURO AREAS. 
+Brussels, 23 October 2012. </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Parliament, Directorate-General for Communication, Public Opinion Monitoring Unit: European public opinion: Two years to go to the 2014 European Elections European Parliament Eurobarometer (EP/EB77.4): FOCUS ON GENDER ANALYSIS. 
+Brussels, 24 September 2012. </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Parliament, Directorate-General for Communication, Public Opinion Monitoring Unit: Two years to go to the 2014 European elections European Parliament Eurobarometer (EB/EP 77.4): FOCUS ON AGE GROUPS. 
+Brussels, 5 November 2012.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>European Parliament, Directorate-General for Communication, Public Opinion Monitoring Unit: Two years to go to the 2014 European elections European Parliament Eurobarometer (EB/EP 77.4): FOCUS ON OCCUPATIONAL GROUPS. 
+Brussels, 5 November 2012.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

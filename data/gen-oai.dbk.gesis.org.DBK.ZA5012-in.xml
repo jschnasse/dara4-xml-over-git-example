@@ -1,0 +1,384 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Lines of Conflict of Egyptian Society 1986-1988: Remigration, 
+Segregation, Islam (Household Census in 6 Egyptian Villages: Migrant Data) 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Konfliktlinien der ägyptischen Gesellschaft 1986-1988: Remigration, Segregation, Islamismus (Haushaltszensus in 6 ägyptischen Dörfern: Migrantendaten)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5012</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Konfliktlinien der ägyptischen Gesellschaft 1986-1988: Remigration, Segregation, Islamismus (Haushaltszensus in 6 ägyptischen Dörfern: Migrantendaten)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Lines of Conflict of Egyptian Society 1986-1988: Remigration, 
+Segregation, Islam (Household Census in 6 Egyptian Villages: Migrant Data) 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Georg</firstName>
+				<middleName/>
+				<lastName>Stauth</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Christoph</firstName>
+				<middleName/>
+				<lastName>Reichert</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Petra</firstName>
+				<middleName/>
+				<lastName>Weyland</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Renate</firstName>
+				<middleName/>
+				<lastName>Albrecht</lastName>
+				<affiliation>
+					<affiliationName>Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Laila</firstName>
+				<middleName/>
+				<lastName>El-Hamamsy</lastName>
+				<affiliation>
+					<affiliationName>Social Research Centre, American University in Cairo, Egypt</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Sohair</firstName>
+				<middleName/>
+				<lastName>Mehanna</lastName>
+				<affiliation>
+					<affiliationName>Social Research Centre, American University in Cairo, Egypt</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>A.</firstName>
+				<middleName/>
+				<lastName>Nada</lastName>
+				<affiliation>
+					<affiliationName>Social Research Centre, American University in Cairo, Egypt</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>E.</firstName>
+				<middleName/>
+				<lastName>Kheir</lastName>
+				<affiliation>
+					<affiliationName>Social Research Centre, American University in Cairo, Egypt</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5012?doi=10.4232/1.5012</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.5012</doiProposal>
+	<publicationDate>
+		<year>1990</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5012</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Migration</term>
+					<term>Soziale und berufliche Mobilität</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Migration</term>
+					<term>Social and occupational mobility</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Angaben zu Arbeitsmigranten aus dem Haushalt.
+Themen: Alter des Migranten; Bildungsstand; beruflicheBeschäftigung vor der Migration; Jahr der ersten Migration;Migrationsland; Dauer der Migration; Beschäftigung während derMigration; Rückkehr des Migranten und Rückkehrjahr; Wohnort desMigranten; derzeitige Beschäftigung des zurückgekehrtenMigranten.
+Zusätzlich verkodet wurde: Alter bei der ersten Migration;Dauer der Migration bei Rückkehrern; Migrationstyp; Häufigkeitder Migrationen.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Information on migrant workers from the household. 
+Topics: age of migrant; education level; employment before migration;year of first migration; migration land; length of migration; activityduring migration; return of migrant and year of return; migrant´s placeof residence; current occupation of the returned migrant. 
+Additionally encoded were: age at first migration; length of migrationfor those who returned; type of migration; frequency of migration. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>EG</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>selected villages in Egypt</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>ausgewählte Dörfer in Ägypten</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Haushalte mit Arbeitsmigranten in den Orten Shanawan und Kafr Shanawan
+(Provinz Minufiya, Delta), Tamboul El Kubra und Kafr Youssef (Provinz
+Dakhliya, Delta) sowie Abu Girg und Bani walims (Provinz Minya,
+Oberägypten)</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Households with migrant workers in the cities Shanwan and Kafr Shanwan (province Minufiya, Delta), Tamboul El Kubra and Kafr Youssef (province Dakhliya, Delta) and also Abu Girg and Bani walims (province Minya, Upper Egypt). 
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Totalerhebung </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Census </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1987-05</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>1988-07</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Social Research Center, American University in Cairo, Egypt 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral interview with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>30</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Der Befragungszeitraum gliedert sich wie folgt: 2 Dörfer
+wurden im Mai bis Juli 1987 befragt. Die Daten in den anderen
+4 Dörfern wurden zwischen Mai und Juli 1988 erhoben.
+Die Befragung erfolgte in arabischer Sprache und wurde von
+ägyptischen Interviewern aus den jeweiligen Dörfern
+vorgenommen.
+Im Rahmen des gleichen Forschungsprojekts wurde auch
+umfangreiches qualitatives Material  (teilnehmende Beobachtung
+und Gesprächsmitschriften) erhoben.
+Zwei weitere quantitative Datensätze des Forschungsprojekts
+sind im Zentralarchiv unter den ZA-Studien-Nrn. 5011, 5013 und
+5023 archiviert.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The time of interview is organized as follows: two villages were 
+interviewed between May and July 1987. The data in the other four 
+villages was collected between May and July 1988. The interviews were 
+conducted in Arabic by Egyptian interviewers from the respective 
+villages. Extensive qualitative materials (participating observations 
+interview notes) were collected in the framework of the same research 
+project. Two further quantitive data sets of this research project 
+are archived in the Central Archive under ZA Study Nos. 5011, 5013 
+and 5023. 
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stauth, Georg: 
+Remigration and Social Change. 
+Sociology of Development Research Centre, 
+Bielefeld University, Working Paper 84, 1986. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stauth, Georg: 
+Konfliktlinien der ägyptischen Gesellschaft 1986-1988: 
+Remigration, Segration, Islamismus - Eine Forschungsperspektive. 
+Working Paper 80a, 1986. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stauth, Georg: 
+Town and Countryside in Egypt. Consequences of Modernization. 
+Research Paper to the Symposium: Moslems, Migrants, Metropolis. 
+Berliner Institut für Vergleichende Sozialforschung, Juni 1989. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Weyland, Petra: 
+Remigration und Geschlechterverhältnis auf dem ägyptischen Dorf. 
+Forschungsperspektiven und -hypothesen. 
+Working Paper 95, 1987. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Albrecht, Renate: 
+Remigration und Islamisierung auf dem ägyptischen Dorf. 
+Working Paper 99, 1987. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Reichert, Christoph: 
+Remigration und die Transformation ländlicher Macht- und Herrschaftsverhältnisse in Ägypten - Forschungshypothesen. 
+Working Paper 94, 1987. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Reichert, Christoph: 
+Labour Migration and Institutional Diversification in two Egyptian Villages. Some Preliminary Results. 
+Paper to the 2nd French-German Workshop on Labour Migration and the Process of Social and Political Change in the Middle East, Berlin 1988. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stauth, Georg: 
+How to Control Women? Socio-Economic Processes and Shifts of Power between Sexes in Rural Egypt. 
+In: Jahrbuch für Politik des Vorderen Orients, Hannover 1988, S.51 ff. 
+</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Stauth, Georg: 
+Remigration and Social Change in Rural Areas. Prospects for the Migrant Worker Sending Regions of the Middle East. 
+In: Pakistan Development Review. An International Journal for Development Economics, 26, 1987, S. 735-744.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

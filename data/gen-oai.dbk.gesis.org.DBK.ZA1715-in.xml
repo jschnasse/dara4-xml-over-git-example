@@ -1,0 +1,668 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Eurobarometer 30 (Oct-Nov 1988)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Eurobarometer 30 (Oct-Nov 1988)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1715</identifier>
+		<currentVersion>1.0.1</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Eurobarometer 30 (Oct-Nov 1988)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Eurobarometer 30 (Oct-Nov 1988)
+</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Immigrants and Out-Groups in Western Europe</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Immigrants and Out-Groups in Western Europe</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Kommission der Europäischen Gemeinschaften</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1715?doi=10.4232/1.10887</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.10887</doiProposal>
+	<publicationDate>
+		<date>2012-07-01</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1715</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>doi:10.3886/ICPSR09321.v2</identifier>
+			<type>DOI</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Spezifische Krankheiten, Störungen und Gesundheitsprobleme</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Specific diseases, disorders and medical conditions</term>
+					<term>International politics and organisations</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Befragungsschwerpunkte dieses Eurobarometers sind:
+1.) Politische Einstellungen und Zufriedenheit,
+2.) Einstellung zum europäischen Krebsbekämpfungsprogramm,
+3.) Einstellung zu Demokratie und Freiheitsrechten,
+4.) Einstellung zur EG, zum europäischen Binnenmarkt undden EG-Beziehungen zu den USA,
+5.) Einstellung zu Ausländern und zur europäischenAusländerpolitik,
+6.) Einstellung zu Türken in der BRD bzw. zur Hauptausländergruppeim jeweiligen Land.
+Themen: 1.) Wahlberechtigung am Wohnort; Zukunftsaussicht fürdas nächste Jahr; erwartete Zunahme von Streiks oderinternationalen Konflikten; Kriegsfurcht (Skalometer);Beurteilung der Veränderung der persönlichen finanziellenund der allgemeinen wirtschaftlichen Lage im letzten Jahr;Vergleich der eigenen wirtschaftlichen Situation mit deranderer Mitbürger; derzeitige Lebenszufriedenheit sowieerwartete Zufriedenheit in fünf Jahren (Skalometer);Demokratiezufriedenheit (Skalometer); eigeneMeinungsführerschaft und Häufigkeit politischerDiskussionen; wichtigste politische Ereignisse;Gefühl politischer Wirksamkeit bzw. Machtlosigkeit;empfundener Konflikt zwischen arm und reich; Postmaterialismus;Nationalstolz.
+2.) Kenntnis des europäischen Krebsbekämpfungsprogramms;Präferenz für nationale oder europäische Zuständigkeitfür die Krebsbekämpfung; Angst vor eigener Krebserkrankung;Kenntnis des "europäischen Kodex gegen Krebs";Informationsquellen über diesen Kodex; Einschätzung derWirksamkeit des Kodex zur Krebsverhütung; Bedeutungausgewählter Krebsvorsorgemaßnahmen und eigenesKrebsvorsorgeverhalten; Rauchgewohnheiten; beabsichtigteVeränderungen der eigenen Rauchgewohnheiten; eigene Tätigkeitbzw. Tätigkeit von Familienmitgliedern im Gesundheitsbereichoder im Unterrichtswesen.
+3.) Wichtigkeit ausgewählter politischer Probleme; die Bedeutungvon Freiheit und Gerechtigkeit; Einstellung zur Demokratie;die Bedeutung ausgewählter Grundrechte und Freiheiten des Menschen(Skala); Gefühl der Überfremdung des Landes durch Menschen andererNationalität, Rasse, Religion, Kultur und sozialer Schichten;empfundene Störungen des täglichen Lebens durch die Anwesenheitdieser Menschen; soziale Nähe zu diesen Gruppen (Bogardus-Skala);Kontakte in der Nachbarschaft, im Freundeskreis oder amArbeitsplatz zu Mitgliedern dieser Gruppe.
+4.) Assoziationen zum Begriff "europäischer Binnenmarkt";Einschätzung der Vor- und Nachteile durch dieVerwirklichung des europäischen Binnenmarktes (Skala);Vorteile der Berufstätigen durch den Binnenmarkt;Einstellung zur Unterstützung von wirtschaftlich schwachenRegionen und zur Schaffung großer Wirtschaftsräumein Europa (Skala); Einstellung zum europäischenBinnenmarkt und zu einer weiteren Integration Europas;Beurteilung der allgemeinen Ergebnisse der europäischenAgrarpolitik sowie der Vorteilhaftigkeit dieser Politikfür die Landwirte, Verbraucher und die Steuerzahler des Landes.
+Politisches Interesse; Interesse an Angelegenheiten derEuropäischen Gemeinschaft; Bedeutung der EG für die zukünftigeEntwicklung des Landes; Kenntnis und Beurteilung der EG-Kommission(semantisches Differential); Einstellung zur westeuropäischenVereinigung; Einstellung zur EG-Mitgliedschaft des Landes;Einschätzung der Vorteile des Landes durch dieEG-Mitgliedschaft; Bedauern eines Scheiterns der EG; sich als Europäerfühlen; empfundener Konflikt zwischen europäischer undnationaler Identität.
+Beurteilung der Handels- und Finanzbeziehungen des Landeszu den USA; Präferenz für freien Handel oder Protektionismus;Einstellung zu einer Abgrenzung des europäischen Binnenmarktesnach außen; Beurteilung der Preisgarantie für Landwirte durch dieAgrarpolitik; Lebensmittelpreisanstieg durch die EG-Agrarpolitik;Einstellung zu einer gemeinsamen Außenpolitik und zurNotwendigkeit der Nato; Notwendigkeit der US-Militärpräsenzfür die Friedenswahrung in Europa; Einstellung zu einemvermehrten Militärbeitrag der EG an die USA zur gemeinsamenVerteidigung Westeuropas; Kenntnis und Beurteilung derRolle des Europaparlaments; Wahlbeteiligungsabsicht beider nächsten Europawahl; präferierte Partei; Kenntnisder Befugnisse von europäischen Institutionen; Einstellungzu einer europäischen Verteidigungsgemeinschaft, einergemeinsamen Sozialpolitik und Währungsunion der europäischenStaaten; Einstellung zu einer europäischen Regierung;Einstellung zu einem Verfassungsentwurf durch dasEuropaparlament und zu einem Volksentscheid über eineeuropäische Union; Einstellung zu einer Erweiterung derEG und präferierte Länder für eine Neuaufnahme; Wichtigkeitlokaler, regionaler und nationaler politischer Institutionen;Einschätzung der Einstellungen der nationalen Parteien zuEuropa.
+5.) Wichtigste Ausländergruppe in der eigenen Wahrnehmung;Präferenz für nationale oder europäische Zuständigkeitbei der Festlegung der Rechtsstellung von Ausländern;Einstellung zu einer Ausweitung der Ausländerrechte;Einstellung zu Ausländern; Beurteilung von Maßnahmenzur Integration von Ausländern (Skala); Einstellung zurassistischen und antirassistischen Bewegungen; Kenntnisvon Menschenrechtskonventionen; Einstellung zu Südeuropäern,Nordafrikanern, Türken, Schwarzafrikanern, Indern, Pakistani,Südostasiaten, Karibikbewohnern, Juden und Nordeuropäern(Skalometer); Einstellung zu angeheirateten Personen andererHautfarbe in der eigenen Familie; Ausländer in der eigenenFamilie; Einstellung zu den Aktivitäten faschistischer Gruppen;empfundene Bedrohung durch Faschisten; Wichtigkeit ausgewählterpolitischer Probleme.
+6.) In der Bundesrepublik Deutschland wurde zusätzlich gefragt:Empfundene Sympathie bzw. Bewunderung für Türken; Ärgermit bzw. empfundene Angst vor Türken, die im Lande leben;Einstellung zu Türken (Skala); Einstellung zu einerRückführung der im Lande lebenden Türken in ihr Heimatland;Einschätzung der wirtschaftlichen Situation der Türken imLande; Rassismus; Ausländerfeindlichkeit; Charakterisierungder wesentlichen Unterschiede zwischen Türken und Mitbürgernder eigenen Nation. Die gleichen Fragen wurden in Frankreich(bezogen auf Nordafrikaner/Asiaten), in Großbritannien (bezogenauf Asiaten/Westinder) und in den Niederlanden (bezogen aufTürken/Surinamer) gestellt.
+Demographie: Selbsteinschätzung auf einem Links-Rechts-Kontinuum;Einstellung zum gesellschaftlichen Wandel; Parteiverbundenheit;Familienstand; Alter bei Ende der Ausbildung; Parteipräferenz(Sonntagsfrage); Wahlverhalten bei der letzten Bundestagswahl;Geschlecht; Alter; Haushaltsgröße; Anzahl der Kinder im Haushalt;monatliches Haushaltseinkommen; berufliche Position; Beschäftigung imöffentlichen Dienst oder in Privatunternehmen (Betriebssektor);Betriebsgröße; Vorgesetztenstatus; Parteizugehörigkeit;Gewerkschaftsmitgliedschaft; Stellung im Haushalt; Beruf desHaushaltungsvorstandes; sozialer Status; Wohnsituation;Urbanisierungsgrad; Konfession; Kirchgangshäufigkeit; Religiosität;Ortsgröße; Region.
+Indizes: Meinungsführerschaft; Postmaterialismus; politischeOrientierung; EG-Unterstützung; kognitive und politischeMobilität; Schicht; Einstellung zu Europa.
+Zusätzlich verkodet wurden: Wohnen in Grenznähe;Interviewdatum; Interviewzeit; Interviewdauer; Unterbrechung desInterviews; Anwesenheit anderer Personen beim Interview;Kooperationsbereitschaft des Befragten.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The main survey focus of this Eurobarometer are:
+1. Political attitudes and satisfaction,
+2. Attitude to the European program to combat cancer,
+3. Attitude to democracy and rights to freedom,
+4. Attitude to the EC, the European domestic market and EC relations to the USA,
+5. Attitude to foreigners and European policies towards foreigners,
+6. Attitude to Turks in the FRG or the major foreign group in therespective country.
+Topics: 1. Eligibility to vote at place of residence; future prospectsfor the next year; expected increase of strikes or internationalconflicts; fear of war (scale); judgement on change of personalfinancial and general economic situation in the last year; comparisonof personal economic situation with that of other fellow-citizens;current contentment with life as well as expected satisfaction in fiveyears (scale); satisfaction with democracy (scale); personal opinionleadership and frequency of political discussions; most importantpolitical events; feeling of political effectiveness or lack of power;perceived conflict between poor and rich; postmaterialism; nationalpride.
+2. Knowledge about the European program to combat cancer; preferencefor national or European responsibility for the fight against cancer;fear of personally getting cancer; knowledge about the ´European Codeagainst Cancer´; sources of information about this code; assessment ofthe effectiveness of the code to prevent cancer; significance ofselected cancer prevention measures and of personal cancer preventionbehavior; smoking habits; intended changes of one´s own smoking habits;personal activity or activity of family members in the health area orthe educational system.
+3. Importance of selected political problems; the significance offreedom and justice; attitude to democracy; the significance ofselected fundamental rights and freedoms of humanity (scale); feelingof foreign infiltration of the country from people of othernationality, race, religion, culture and social levels; perceiveddisturbances of daily life from the presence of these people; socialcloseness to these groups (Bogardus scale); contacts in theneighborhood, in one´s circle of friends or at work with members ofthis group.
+4. Associations with the term ´European domestic market´; assessmentof the advantages and disadvantages from realization of the Europeandomestic market (scale); advantages for workers from the domesticmarket; attitude to support of economically weak regions and creationof large economic areas in Europe (scale); attitude to the Europeandomestic market and to further integration of Europe; judgement on thegeneral results of the European agricultural policy as well as theadvantageousness of this policy for farmers, consumers and taxpayers ofthe country; political interest; interest in matters of the EuropeanCommunity; significance of the EC for future development of thecountry; knowledge and judgement on the EC Commission (semanticdifferential); attitude to Western European unification; attitude to ECmembership of the country; assessment of the advantages for the countryfrom EC membership; regret of a failure of the EC; feeling as aEuropean; perceived conflict between European and national identity;judgement on trade and financial relations of the country with the USA;preference for free trade or protectionism; attitude to walling off theEuropean domestic market against the outside; judgement on the priceguarantee for farmers through the agricultural policy; food priceincrease from EC agricultural policy; attitude to a common foreignpolicy and the necessity of the NATO; necessity of the US militarypresence for maintanance of peace in Europe; attitude to an increasedmilitary contribution of the EC to the USA for the common defense ofWestern Europe; knowledge and judgement on the role of the EuropeanParliament; intent to participate in the next European Election;preferred party; knowledge about the powers of European institutions;attitude to a European defense community, a common social policy andcurrency union of the European nations; attitude to a EuropeanGovernment; attitude to a constitution draft by the European Parliamentand a referendum on a European Union; attitude to an expansion of theEC and preferred countries for new membership; importance of local,regional and national political institutions; assessment of theattitudes of the national parties to Europe.
+5. Most important foreign group in one´s own perception; preferencefor national or European responsibility in establishing the legalstatus of foreigners; attitude to an extension of the rights offoreigners; attitude to foreigners; judgement on measures to integrateforeigners (scale); attitude to rassist and anti-rassist movements;knowledge of Human Rights Conventions; attitude to Southern Europeans,North Africans, Turks, Black Africans, Indians, Pakistanis, South-eastAsians, residents of the Caribbean, Jews and Northern Europeans(scale); attitude to persons of other skin color related by marriage inone´s own family; foreigners in one´s own family; attitude to theactivities of fascist groups; perceived threat from fascists;importance of selected political problems.
+6. The following questions were also posed in the Federal Republic ofGermany: perceived sympathy or admiration for Turks; anger at orperceived fear of Turks who live in this country; attitude to Turks(scale); attitude to returning the Turks living in this country totheir native country; assessment of the economic situation of the Turksin this country; racism; hostility to foreigners; characterization ofsignificant differences between Turks and fellow-citizens of one´s ownnation.
+The same questions were posed in France (regarding NorthAfricans/Asians), in Great Britain (regarding Asians/West Indians) andin the Netherlands (regarding Turks/Dutch Guianans).
+Demography: self-assessment on a left-right continuum; attitude tosocial change; party allegiance; marital status; age at end ofeducation; party preference (Sunday question); behavior at the polls inthe last Federal Parliament election; sex; age; size of household;number of children in household; monthly household income; occupationalposition; employment in the civil service or private enterprise(company sector); company size; supervisor status; party affiliation;union membership; position in household; occupation of head ofhousehold; social status; housing situation; degree of urbanization;religious denomination; frequency of church attendance; religiousness;city size; region.
+Indices: opinion leadership; postmaterialism; political orientation;EC support; cognitive and political mobility; class; attitude toEurope.
+Also encoded were: living close to the border; date of interview; timeof interview; length of interview; interruption of interview; presenceof other persons during interview; willingness of respondent tocooperate. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-GBN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-NIR</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 15 Jahre und älter</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Sample of persons 15 years old and older. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Verschiedene Auswahlverfahren (Quotenauswahl und mehrstufige
+Zufallsauswahl) je nach Land. </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Various sampling procedures (quota sample and multi-stage random
+sample) according to country. </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1988-10-18</date>
+				</startDate>
+				<endDate>
+					<date>1988-11-06</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Belgium</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Belgien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1988-10-31</date>
+				</startDate>
+				<endDate>
+					<date>1988-11-19</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Denmark</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Dänemark</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1988-10-17</date>
+				</startDate>
+				<endDate>
+					<date>1988-11-09</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1988-10-17</date>
+				</startDate>
+				<endDate>
+					<date>1988-11-07</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Greece</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Griechenland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1988-10-17</date>
+				</startDate>
+				<endDate>
+					<date>1988-11-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Spain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Spanien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1988-10-22</date>
+				</startDate>
+				<endDate>
+					<date>1988-11-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1988-10-18</date>
+				</startDate>
+				<endDate>
+					<date>1988-11-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland (Republic)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland (Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1988-10-26</date>
+				</startDate>
+				<endDate>
+					<date>1988-11-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1988-10-20</date>
+				</startDate>
+				<endDate>
+					<date>1988-11-21</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Luxembourg</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Luxemburg</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1988-10-22</date>
+				</startDate>
+				<endDate>
+					<date>1988-11-06</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Netherlands</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1988-10-19</date>
+				</startDate>
+				<endDate>
+					<date>1988-11-15</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1988-10-20</date>
+				</startDate>
+				<endDate>
+					<date>1988-11-15</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>1988-10-21</date>
+				</startDate>
+				<endDate>
+					<date>1988-11-07</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Northern Ireland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Nordirland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>European Commission, Brussels;
+DG X -  Information Communication Culture
+Surveys Research Analyses</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>DIMARSO, Bruessel</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>EMNID, Bielefeld</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Gallup Markedsanalyse, Hellerup</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Institut de Sondages Lavialle, Issy-Les-Moulineaux</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ICAP Hellas, Athen</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Irish Marketing Surveys, Dublin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>DOXA, Mailand</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>ILRES, Luxemburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>INTERGALLUP, Madrid</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>NIPO, Amsterdam</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>NORMA, Lissabon</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Social Surveys (Gallup Poll), London</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>735</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die 11794 Fälle des Datensatzes verteilen sich auf die einzelnen
+Länder wie folgt:
+Belgien                          1024 Fälle,
+Bundesrepublik Deutschland       1061 Fälle,
+Dänemark                         1006 Fälle,
+Frankreich                       1005 Fälle,
+Griechenland                     1000 Fälle,
+Irland                           1006 Fälle,
+Italien                          1022 Fälle,
+Luxemburg                         303 Fälle,
+Niederlande                      1025 Fälle,
+Portugal                         1000 Fälle,
+Spanien                          1001 Fälle,
+Vereinigtes Königreich           1276 Fälle.
+
+See also the following special releases and studies: ´The European Elections Study 1989´ (ZA2320), and ´European Survey About Teachers and Cancer Prevention´,conducted in January and February of 1989 and examining  teachers´ opinions on health and cancer education in schools of 12 member countries of the European Community (ICPSR 9407).
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The 11794 cases of the data set are distributed among the individual
+countries as follows:
+Belgium 1024 cases,
+Federal Republic of Germany 1061 cases,
+Denmark 1006 cases,
+France 1005 cases,
+Greece 1000 cases,
+Ireland 1006 cases,
+Italy 1022 cases,
+Luxembourg 303 cases,
+Netherlands 1025 cases,
+Portugal 1000 cases,
+Spain 1001 cases,
+United Kingdom 1276 cases.
+
+See also the following special releases and studies: ´The European Elections Study 1989´ (ZA2320), and ´European Survey About Teachers and Cancer Prevention´,conducted in January and February of 1989 and examining  teachers´ opinions on health and cancer education in schools of 12 member countries of the European Community (ICPSR 9407).
+</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.1715</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Kommission der Europäischen Gemeinschaften (Hrsg.): 
+Eurobarometer 30: Die öffentliche Meinung in der Europäischen Gemeinschaft. 
+Brüssel: Selbstverlag 1988.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Commission of the European Communities: Racism and Xenophobia (Racisme, Fremmedhad og Intolerance). Brussels, November 1989.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Herrmann Schmitt, Renato Mannheimer: The European Elections of June 1989. Special issue of The European Journal of Political Research (19:1), 1991. </freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

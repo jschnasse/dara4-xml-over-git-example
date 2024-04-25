@@ -1,0 +1,214 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Hostility to Foreigners in Cologne 
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Ausländerfeindlichkeit in Köln
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA1317</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Ausländerfeindlichkeit in Köln
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Hostility to Foreigners in Cologne 
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Joachim</firstName>
+				<middleName/>
+				<lastName>Winkler</lastName>
+				<affiliation>
+					<affiliationName>Institut für angewandte Sozialforschung, Universität zu Köln
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA1317?doi=10.4232/1.1317</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.1317</doiProposal>
+	<publicationDate>
+		<year>1984</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA1317</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Einstellung der Kölner Bevölkerung zu Ausländern.
+Themen:  Geschätzter Ausländeranteil in der Bundesrepublik; Beurteilungder eigenen Informiertheit über die Ausländerproblematik;Hauptinformationsquellen; Auslandsurlaube und Kontakte mitEinheimischen; Ort und Art der Alltagskontakte mit Ausländern;Einstellung zu Ausländern und Ausländerfeindlichkeit (Skala);hypothetisches Verhalten bei Gewalttätigkeiten zwischen einem Ausländerund einem Deutschen; Einstellung zu ausgewählten Aktionen gegenAusländer (Skala); Parteipräferenz.
+Demographie: Alter; Geschlecht; Familienstand; Konfession;Schulbildung; Berufsausbildung; Beruf; Berufliche Position; Branche desBetriebes; Einkommen.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The attitude of the Cologne population to foreigners. 
+Topics: estimated proportion of foreigners in the Federal Republic;judgement on one´s own extent to which informed about the foreignerproblem; primary sources of information; vacations in foreign countriesand contacts with locals; place and type of daily contacts withforeigners; attitude to foreigners and hostility to foreigners (scale);hypothetical conduct with acts of violence between a foreigner and aGerman; attitude to selected actions against foreigners (scale); partypreference. 
+Demography: age; sex; marital status; religious denomination; schooleducation; occupational training; occupation; occupational position;area of business of company; income. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-NW</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Cologne</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Köln</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutsche Wohnbevölkerung ab 16 Jahren</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>The German residential population 16 years old and older. </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Quotenauswahl
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Quota sample </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1982-11</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Institut fuer angewandte Sozialforschung, Universitaet zu Koeln 
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>107</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Winkler, Joachim: 
+Ausländerfeindlichkeit in Köln: Ein Arbeitsbericht. 
+Köln: Institut für Angewandte Sozialforschung, Mai 1984. 
+(Arbeitsberichte aus dem Institut für Angewandte Sozialforschung; Nr. 8)</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

@@ -1,0 +1,199 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Youth and Young Adults in Germany 1999'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Jugendliche und junge Erwachsene in Deutschland 1999
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3975</identifier>
+		<currentVersion>2.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Jugendliche und junge Erwachsene in Deutschland 1999
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Youth and Young Adults in Germany 1999</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Institut für Praxisorientierte Sozialforschung (IPOS), Mannheim
+</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3975?doi=10.4232/1.11624</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11624</doiProposal>
+	<publicationDate>
+		<date>2013-04-30</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3975</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Freizeit, Tourismus und Sport</term>
+					<term>Kriminalität und Gesetzesvollzug</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Jugend</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Leisure, tourism and sport</term>
+					<term>Crime and law enforcement</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Youth</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Situation von Jugendlichen in Ost und West. PolitischeEinstellungen und Verhältnis zur Gewalt.
+Themen: Wichtigste Probleme in Deutschland und wichtigstes persönlichesProblem; Besuch des jeweils anderen Teil Deutschlands nach derGrenzöffnung und im Jahr 1999; Politikinteresse; Sympathie-Skalometerfür die Parteien; kompetenteste Partei in Bezug auf dieZukunftssicherung; Zufriedenheit mit der Gesellschaftsform undWohlfühlen in Deutschland; Beurteilung der Entscheidung der DDR-Bürgerbei der ersten freien Wahl im März 1990 zur Einführung der westlichenpolitischen Ordnung; Beurteilung der eigenen wirtschaftlichen Lage underwartete weitere Entwicklung; wichtigste Quellen für denLebensunterhalt; Präferenz für Vater oder Mutter als zuständige Personbei der Kindererziehung; Beurteilung der Gleichberechtigung von Mann undFrau; Einstellung zur Konfliktlösung gesellschaftlicher Probleme durchGewalt; Präferenz für eigene Altersvorsorge oder durch den Staat;Nationalstolz; Einstellung zur vermehrten Aufnahme von Ausländern;Verständnis für Ausschreitungen gegen Ausländern; allgemeineLebenszufriedenheit; Zukunftsoptimismus; Mobilitätsbereitschaft ausberuflichen Gründen; Zufriedenheit mit Vorbereitungen aufs Berufsleben;Kenntnisse von Sofortprogrammen gegen Jugendarbeitslosigkeit;Wohnzufriedenheit; Beurteilung des Anteils der Ausländer undArbeitslosen in der Wohngegend; Hilfsbereitschaft der Eltern oderanderer Personen bei schwerwiegenden Problemen (Vertrauensperson);Gründe für die Rechtfertigung von Gewalt; ausreichend Freizeit;Zufriedenheit mit dem öffentlichen Angebot an Einrichtungen undDienstleistungen für Jugendliche; Interesse an ausgewähltenFreizeitaktivitäten (Skalometer); wichtigste Gründe für Einschränkungenim Bereich der Freizeitmöglichkeiten; Mitgliedschaft in einerJugendorganisation; ehrenamtliche Funktion übernommen und Zeitaufwand;Mitgliedschaft in einer selbstorganisierten bürgerschaftlichenOrganisation; Cliquenzugehörigkeit; Ausländer im Freundeskreis;Verhalten bei einem angenommenen Angriff auf Ausländer durchJugendliche; wahrgenommene Zunahme von Gewalttätigkeiten; persönlichesBedrohtheitsgefühl; vermutete Verbesserung der Situation derJugendlichen im Osten seit der Wende.
+Demographie: Alter; Geschlecht; Schulbildung bzw. angestrebterSchulabschluss; Berufsausbildung;  Berufstätigkeit; Umschulung oderArbeitsbeschaffungsmaßnahme; Arbeitszufriedenheit; perzipierteArbeitsplatzgefährdung; Ort der Ausbildung; Arbeitslosigkeit;arbeitssuchend; Wohnen bei den Eltern; eigenes Zimmer; Einschätzung derwirtschaftlichen Lage des Elternhauses; perzipierte Gefährdung desArbeitsplatzes des Vaters und der Mutter; Alter beim Verlassen desElternhauses; derzeitiger Wohnstatus; Familienstand; Zusammenleben mitPartner; Geschwisterzahl; Kinderzahl; gewünschte Kinderzahl;Haushaltsgröße; Haushaltszusammensetzung; Sozialisationsinstanz in derKindheit; zuständige Personen für die Betreuung in der eigenenSchulzeit; soziale Herkunft; Kommunion oder Konfirmation; Konfession;Religiosität und Glaube an Gott.
+In Ostdeutschland wurde zusätzlich gefragt: Hauptinformationsquelleüber die Zeiten in der DDR nach der Wende.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutschsprachige Jugendliche im Alter von 14 bis 27 Jahren </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: 1. Zufallsauswahl einer repräsentativen Stichprobe nach dem
+RLD-Verfahren und Geburtstagsschlüssel
+2. Oversampling von ´potentiell Benachteiligten´. Als potentiell
+benachteiligt wurde definiert: arbeitslos oder nur Hauptschulabschluss.
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1999-11</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Institut für Praxisorientierte Sozialforschung (IPOS),
+Mannheim
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>223</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Vorgängerstudien mit weitgehend identischem Fragenprogramm sind
+unter der ZA-Studien-Nr. 2397, 2585 und 3087 (Kumulation) archiviert.
+Eine Nachfolgestudie unter 3976.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.3975</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>IPOS - Institut für praxisorientierte Sozialforschung Mannheim (Hrsg.): 
+Jugendliche und junge Erwachsene in Deutschland: Ergebnisse repräsentativer Bevölkerungsumfragen. 
+Mannheim: IPOS Dezember 1999</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

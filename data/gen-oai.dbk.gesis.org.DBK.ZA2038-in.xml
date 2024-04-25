@@ -1,0 +1,222 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Foreigners and Women in the City of Magdeburg
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Ausländer und Frauen in der Stadt Magdeburg
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA2038</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Ausländer und Frauen in der Stadt Magdeburg
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Foreigners and Women in the City of Magdeburg
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Syra</firstName>
+				<middleName/>
+				<lastName>Averkorn</lastName>
+				<affiliation>
+					<affiliationName>Institut für Soziologie, Psychologie und Wissenschaftsphilosophie, Technische Universität Magdeburg
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Thomas</firstName>
+				<middleName/>
+				<lastName>Claus</lastName>
+				<affiliation>
+					<affiliationName>Institut für Soziologie, Psychologie und Wissenschaftsphilosophie, Technische Universität Magdeburg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Birgit</firstName>
+				<middleName/>
+				<lastName>Mühlenberg</lastName>
+				<affiliation>
+					<affiliationName>Institut für Soziologie, Psychologie und Wissenschaftsphilosophie, Technische Universität Magdeburg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA2038?doi=10.4232/1.2038</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.2038</doiProposal>
+	<publicationDate>
+		<year>1991</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA2038</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Gemeinde, Wohnumgebung, Stadtleben und Landleben</term>
+					<term>Geschlecht und Geschlechterrollen</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Community, urban and rural life</term>
+					<term>Gender and gender roles</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellung zu Ausländern und Frauen.
+Themen: Zufriedenheit mit der persönlichen Situation; Zufriedenheit mitausgewählten Aspekten des Wohnumfeldes: Qualität der Umwelt (Luft, Bodenund Wasser), persönliche Wohnverhältnisse, Beförderung durch öffentlicheVerkehrsmittel, Arbeitsplatzangebot, Betreuung in Kindereinrichtungen,medizinische Versorgung, Handel und Versorgung, Arbeit des Magistrats;wahrgenommener Anstieg des Ausländeranteils in Magdeburg seit derdeutschen Vereinigung; empfundene Einschränkung der Lebensqualität durchAusländer; vermutete Gründe für Ausländer, ihr Land zu verlassen:Kennenlernen anderer Kulturen, fehlende Existenzgrundlagen in derHeimat, berufliche Weiterbildung, Verfolgung in der Heimat, zu niedrigerLebensstandard in der Heimat; Kontaktorte mit Ausländern: im Beruf, inder Familie, im Freundeskreis, in der Wohngegend; Erwartungen undBefürchtungen gegenüber Ausländern: Förderung der Weltoffenheit,Bereicherung der Kultur, Gefahr für Ordnung und Sicherheit, Konkurrenzim Kampf um Arbeitsplätze, Ausnutzen des Sozialsystems, Beleben derWirtschaft; Akzeptanz von Gründen für die Bewilligung vonAufenthaltsgenehmigungen: Ehe mit deutschem Partner, fehlendeExistenzgrundlage in der Heimat, berufliche Weiterbildung, Kennenlernenanderer Kulturen, Verfolgung in der Heimat, niedriger Lebensstandard inder Heimat; präferierte Maßnahmen im Umgang mit Ausländern: Eindämmungder Immigration, Unterstützung der Integration, Ausweisen der Ausländer;perzipierte Veränderungen in der Berücksichtigung von Fraueninteressenseit der deutschen Vereinigung; Zustimmung zu Aussagen zur Rolle derFrau: klassische Geschlechterrollenverteilung, Chancengleichheit fürMann und Frau, ökonomische Selbständigkeit bzw. Erwerbstätigkeit vonFrauen, Quotenregelung, gleichgeschlechtliche Partnerschaften vonFrauen, uneingeschränktes Recht auf Schwangerschaftsabbruch;Einschätzung der Gleichberechtigung von Mann und Frau in der DDR;erwartete Veränderung der Gleichstellung der Frau für die Zukunft;präferierte Regelungen zur Stärkung von Eltern und Familie: Anerkennungfamilienbedingter Ausfallzeiten, Sicherung des Arbeitsplatzes beifamilienbedingten Ausfällen, flexible Öffnungszeiten derErziehungseinrichtungen, mehr Teilzeitarbeitsplätze,Arbeitszeitverkürzung für Eltern und Alleinerziehende, verlängerteLadenzeiten, spezielle Förderung für Eltern und Alleinerziehende;Einstellung zur Unterbringung von Kindern in Kindereinrichtungen;Einstellung zu einer größeren Vielfalt der Erziehungskonzepte;Einschätzung der Benachteiligung von Frauen im Berufsleben;Geschlechtspräferenz bei Lehrern.
+Demographie: Alter (klassiert); Geschlecht; Familienstand; Anzahl derKinder im Haushalt; alleinerziehend; Berufstätigkeit; Berufsgruppe;Schulbildung bzw. berufliche Bildung; Haushaltsnettoeinkommen;Wohnungstyp; Einstellung zu Umfragen.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-ST</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>Magdeburg</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>Magdeburg</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 18 Jahre und älter</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Einfache Zufallsauswahl 
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1990-12</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Averkorn, Syra</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Claus, Thomas</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Mühlenberg, BirgitInstitut für Soziologie, Psychologie und Wissenschaftsphilosophie,Technische Universität Magdeburg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Schriftliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>68</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>

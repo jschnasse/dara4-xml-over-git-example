@@ -1,0 +1,205 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Study on Antisemitism in Germany
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Studie zum Antisemitismus in Deutschland
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA3074</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Studie zum Antisemitismus in Deutschland
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Study on Antisemitism in Germany
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>FORSA, Berlin</institutionName>
+			</institution>
+		</creator>
+		<creator>
+			<institution>
+				<institutionName>DIE WOCHE, Hamburg</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3074?doi=10.4232/1.3074</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.3074</doiProposal>
+	<publicationDate>
+		<year>1999</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3074</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Politische Ideologie</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Cultural and national identity</term>
+					<term>Political ideology</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellung zu Juden.
+Themen: Geschätzte Anzahl jüdischer Mitbürger in der Bundesrepublik;wahrgenommene positive oder negative Veränderungen in der allgemeinenEinstellung zu Juden; Einstellung zu Juden im Bekanntenkreis; Image,Stereotyp bzw. Charaktereigenschaften von Deutschen und Juden anhandeines semantischen Differentials; Einstellung zu Juden (Skala); Versuchder Juden, aus der nationalsozialistischen Vergangenheit Vorteile zuziehen; Eigenschuld der Juden an ihrer Verfolgung und Bestrafung durchGott wegen der Kreuzigung Christi; vermutete Erkennbarkeit jüdischerAbstammung am Aussehen; Verbundenheit der Juden mit Israel; zu vielEinfluß der Juden in der Welt; Schlußstrich unter das ThemaJudenverfolgung; Schuld der Juden an ihrem eigenen Schicksal;Betrachtung eines deutschstämmigen Juden als Juden oder Deutschen;Vergleich des Verhaltens der Juden gegenüber den Palästinensern mit demVerhalten der Nazis im Dritten Reich; deutsche Überlegenheit gegenüberanderen Völkern; Wunsch nach Aussiedlung aller Juden nach Israel.
+Demographie: Selbsteinschätzung auf einem Links-Rechts-Kontinuum;Regierungsbezirk; Ortsgröße; Geburtsjahr; Geschlecht; Erwerbstätigkeit;berufliche Stellung; Schulabschluß; Haushaltsgröße; Kinder unter 18Jahren im Haushalt; Geburtsjahr der Kinder; Haushaltsnettoeinkommen.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Attitude to Jews. Topics: Estimated number of Jewish fellow-citizens inthe Federal Republic; perceived positive or negative changes in thegeneral attitude to Jews; attitude to Jews in one´s circle of friends;image, stereotype or character traits of Germans and Jews by means of asemantic differential; attitude to Jews (scale); attempt of Jews toextract advantages from the national socialist past; Jews´ own share ofguilt in their persecution and punishment by God due to the crucifixionof Christ; assumed recognizability of Jewish origin on externalappearance; solidarity of Jews with Israel; too much influence of Jewsin the world; considering the topic of Jewish persecution finished;guilt of Jews for their own fate; viewing an ethnic German Jew as Jewor German; comparison of the conduct of Jews regarding Palestinianswith the conduct of Nazis in the Third Reich; German superiorityregarding other peoples; desire to deport all Jews to Israel.Demography: self-assessment on a left-right continuum; administrativedistrict; city size; year of birth; sex; employment; occupationalposition; school degree; size of household; children under 18 years oldin household; year of birth of children; net household income. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Deutschsprachige Personen ab 14 Jahren </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>German-speaking persons 14 years old and older
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Zufällige Auswahl </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Random sample </method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1998-12</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>FORSA, Berlin
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>65</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Für vergleichbare Frageformulierungen siehe auch die
+ZA-Studien-Nr. 838.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>For comparable question formulations see also ZA Study No. 0838.
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Schneider-Haase, Thorsten: 
+Der ewige Antisemit. 
+In: DIE WOCHE, Weihnachten/Neujahr 1999.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

@@ -1,0 +1,313 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Politbarometer East 2000 (Cumulated Data Set)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Politbarometer Ost 2000 (Kumulierter Datensatz)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch; Text</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric; Text</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA3426</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Politbarometer Ost 2000 (Kumulierter Datensatz)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Politbarometer East 2000 (Cumulated Data Set)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Manfred</firstName>
+				<middleName/>
+				<lastName>Berger</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Matthias</firstName>
+				<middleName/>
+				<lastName>Jung</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Dieter</firstName>
+				<middleName/>
+				<lastName>Roth</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Wahlen, Mannheim</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA3426?doi=10.4232/1.3426</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.3426</doiProposal>
+	<publicationDate>
+		<year>2001</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA3426</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Regierung, politische Systeme, Parteien und Organisationen</term>
+					<term>Sozialsysteme und Strukturen der Sozialfürsorge</term>
+					<term>Energiequellen und natürliche Rohstoffquellen</term>
+					<term>Einkommen, Vermögen und Geldanlagen/Sparen</term>
+					<term>Wirtschaftspolitik, öffentliche Ausgaben und Einnahmen</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Government, political systems and organisations</term>
+					<term>Social welfare systems/structures</term>
+					<term>Energy and natural resources</term>
+					<term>Income, property and investment/saving</term>
+					<term>Economic policy,  public expenditure and revenue</term>
+					<term>Economic systems and development</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Die Politbarometer werden seit 1977 etwa monatlich von der Forschungsgruppe Wahlen für das Zweite Deutsche Fernsehen (ZDF) durchgeführt. Seit 1990 steht diese Datenbasis auch für die neuen Bundesländer zur Verfügung. Im Zentrum der Untersuchung stehen die Meinungen und Einstellungen der wahlberechtigten Bevölkerung in der Bundesrepublik zu aktuellen politischen Themen, Parteien und Politikern sowie dem Wahlverhalten. 1990 bis 1995 und ab 1999 wurden die Politbarometer-Umfragen in den neuen und alten Bundesländern getrennt durchgeführt (Politbarometer Ost bzw. Politbarometer West). Die monatlichen Einzelumfragen eines Jahres werden in einen kumulierten Datensatz integriert, der alle Erhebungen eines Jahres und alle Variablen des jeweiligen Jahrganges umfasst. Ab 2003 sind die Politbarometer-Kurzbefragungen, die unterschiedlich häufig im Jahr erhoben werden, in die Jahreskumulation integriert.  </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>de</language>
+			<freetext>1. Folgende Themen wurden zu jedem Erhebungszeitpunktwiederholt identisch gefragt: Wichtigste politische Probleme derBundesrepublik; Wahlbeteiligungsabsicht bei der nächsten Bundestagswahl;Wahlverhalten bei der letzten Bundestagswahl; Sympathie-Skalometer fürdie SPD, CDU, CSU, FDP, die Grünen und die PDS; Zufriedenheit mit denLeistungen der Bundesregierung (Skalometer); Sympathie-Skalometer fürden großen bzw. den kleinen Partner in der Regierung sowie die kleinenund großen Partner der Opposition; Parteipräferenz nach demRangordnungsverfahren und Sonntagsfrage; Sympathie-Skalometer für dieSpitzenpolitiker der Parteien; Beurteilung der wirtschaftlichen Lage desLandes und der eigenen Wirtschaftslage; Konjunkturerwartung für dasLand; Selbsteinschätzung auf einem Links-Rechts-Kontinuum.
+2. Mindestens in einem oder in mehreren Befragungsmonaten wurdegefragt: Koalitionspräferenz; Nennung der fünf wichtigstenPolitikerpersönlichkeiten in der Bundesrepublik; Sympathie-Skalometerfür die wichtigsten Spitzenpolitiker in der Bundesrepublik; Beurteilungder Normalität der Grünen als Partei; Übernahme eines Parteiamtes durchLandtags- und Bundestagsabgeordnete der Grünen und persönlich empfundeneWichtigkeit dieses Themas; Beurteilung, ob die SPD hinter der Politikvon Gerhard Schröder und die CDU hinter der Politik von Angela Merkelsteht; Einschätzung der Einigkeit von SPD, CDU, CSU, FDP und den Grünenin wichtigen politischen Fragen; allgemeine Demokratiezufriedenheit;Politikinteresse; richtige Leute in den führenden Positionen;Beurteilung der Lage der deutschen Wirtschaft; Erwartungen an dieOpposition; Beurteilung der Streitkultur in der Politik; bevorzugterCDU/CSU Kanzlerkandidat; Einfluß der Spenden auf politischeEntscheidungen der Bundesregierung unter Helmut Kohl; Befürwortung derWiedergutmachung des von Kohl verursachten finanziellen Schadens durchSpendengelder; Beurteilung der Behandlung von Kohl anlässlich der Feiernzur deutschen Einheit; Beurteilung der politischen Leistung von Kohlallgemein; Befürwortung des Rücktritts von Wolfgang Schäuble undpräferierter Nachfolger; Hauptschuldiger an den CDU-Problemen; Vertrauenin die Aufklärungswilligkeit der CDU bezüglich der Spendenaffäre;Einstellung zur Rücktrittsforderung an Roland Koch; persönlichempfundene Wichtigkeit der CDU-Spendenvorfälle; Einstellung zurStrafverfolgung von Helmut Kohl; Einschätzung über nicht offizielleSPD-Konten; persönlich empfundene Wichtigkeit der SPD-Flugaffäre in NRW;Einschätzung der einflussreichsten Person in der CDU/CSU (Merkel, Merzoder Stoiber); Befürwortung der Wiedervereinigung im Jahre 1989 sowiederzeit; empfundene Freude bzw. Sorge über die Vereinigung; Erfüllungder persönlichen Erwartungen und Lösung der Probleme in Bezug auf dieVereinigung; Beurteilung der Anstrengungen der Bundesregierung für dieAngleichung der Lebensverhältnisse in Ost und West; Vergleich der Zeitvor und nach der Wende in den Kategorien persönliche Lage allgemein,persönliche wirtschaftliche Lage, soziale Sicherheit, persönlicheFreiheiten und Verhältnis zu den Mitmenschen; Einschätzung desAnnäherungsgrades der Deutschen seit der Einheit; Einstellung zu denBegriffen ´Ossi´ und ´Wessi´; Einschätzung über die Dauer derIntegration in Jahren; Einstellung zur Unzufriedenheit der Ostdeutschen;Nationalidentität des Befragten; Besuch in Ostdeutschland nach derWende; Einstellung zur Vergangenheitsbewältigung der DDR; Zufriedenheitmit dem Zustand der Gesellschaft allgemein und im westeuropäischenVergleich; erwartete wirtschaftliche Lage in Deutschland und eigenewirtschaftliche Lage in einem Jahr; Issue-Kompetenz der Parteien in denBereichen Wirtschaft, Arbeitsplatzbeschaffung, Finanzen, Steuerpolitik,Ausländerpolitik, Umweltpolitik und Rentensicherung; Erwartungen an dieSteuerreform; Einstellung zum Ablehnungsversuch der Steuerreform durchdie CDU/CSU; Einstellung zur Rentenfinanzierung und zur steuerlichenBegünstigung der privaten Altersvorsorge; Einschätzung der eigenenfinanziellen Zukunftslage als Rentner im Vergleich zu den derzeitigenRentnern; Beurteilung der derzeitigen sozialen Lage der Rentner undEinschätzung der Rentensicherheit in 20 Jahren; Einstellung zur privatenAltersvorsorge für Arbeitnehmer; Ansprüche auf eine gesetzliche Rente,eine Beamtenpension, eine betriebliche oder private Altersversorgung;Besitz von Lebensversicherung, Sparvermögen, Aktien, Wertpapieren undImmobilien; Einstellung zur PDS-Beteiligung an der Rentendiskussion;Beurteilung der Arbeit der Bundesregierung; Regierungskompetenz derCDU/CSU; Kenntnis des Bundespräsidenten und Bewertung seiner Arbeitallgemein; Einstellung zum Waffendienst für Frauen; Vorstellung über dieZukunft der Wehrpflicht und über eine Einführung von Wehrpflicht fürFrauen; Angemessenheit der von der IG Metall geforderten Lohnerhöhungen;erwartete Vor- und Nachteile des Landes durch die Mitgliedschaft in derEU; Einstellung zur Euroeinführung am 1. Januar 1999; Bedeutung desWertverlustes des Euros gegenüber dem Dollar für Deutschland undpersönlich empfundene Wichtigkeit dieses Themas; Erfolgserwartung an denEuro; Einstellung zur EU-Erweiterung in Bezug auf die baltischen Staatensowie Polen, Slowakei, Tschechien, Türkei, Ungarn; Bedeutung derEU-Osterweiterung für Deutschland; Einschätzung des Erfolgs desEU-Gipfels in Nizza; Befürwortung der Angleichung der Stimmen imEU-Ministerrat; Befürwortung der Einschränkung der Beziehung derEU-Staaten zu Österreich, seitdem die FPÖ regierungsbeteiligt ist;Zustimmung zur Regierungsbeteiligung von FPÖ und Jörg Haider;Kandidatenpräferenz für die Präsidentschaft in der USA; Schuld an derGefährdung des Friedensprozesses zwischen Palästinensern und Israelis;Zustimmung zu einer Green Card für ausländische IT-Fachkräfte und zurCDU-Postkartenaktion in NRW gegen diese Maßnahme; persönlich empfundeneWichtigkeit der Postkartenaktion; Gerechtigkeit des Vorwurfs derAusländerfeindlichkeit der CDU; Gefühl der Bedrohung der Demokratiedurch die NPD; Nennung der gefährlichsten der rechtsradikalen Parteien(DVU, die NPD, Republikaner); Befürwortung eines NPD-Verbots;empfundener Bedarf neuer Gesetze zur Bekämpfung des Rechtsradikalismus;bevorzugte Verwendung der Mehreinnahmen aus dem Verkauf derMobilfunklizenzen; Einstellung zur gleichgeschlechtlichen Ehe und zursteuerlichen Gleichbehandlung; Einschätzung der Entwicklungsrichtung derPDS nach dem Führungswechsel; Einstellung zur Einwanderungspolitik, zumBegriff ´Leitkultur´ der CDU/CSU und zu den in Deutschland lebendenAusländern; Gefühl der Bedrohung durch Kriminalität(Viktimisierungsfurcht); Einstellung zur Nutzung bzw. Stillegung vonKernkraftwerken; Einstellung zur Aussetzung der Öko-Steuer, zurCDU-Haltung dazu und zu den Entlastungsmaßnahmen der Regierung;Einstellung zum Solidaritätszuschlag; Konsum von Fleisch und Gefühl dereigenen Gesundheitsbedrohung durch BSE; Rückblick auf das Jahr 2000;Ausblick auf das Jahr 2001.
+Demographie: Geschlecht; Alter (klassiert); Familienstand;Zusammenleben mit einem Partner; Vorhandensein von Kindern im Haushalt;Schulabschluß (Ost bzw. West); Anzahl der nicht schulpflichtigen Kinder;Anzahl der Kinder unter 13 Jahren; Alter der Kinder; Staatsexamen oderÄhnliches; Abschluß anerkannt; abgeschlossene Berufsausbildung;Berufstätigkeit; Einschätzung der eigenen Arbeitsplatzgefährdung;Berufsgruppe; Haushaltsgröße und Anzahl der Personen ab 18 Jahren;Haushaltsvorstand sowie dessen Berufsgruppe und Berufstätigkeit;Gewerkschaftsmitglied im Haushalt; Konfession; Kirchgangshäufigkeit;Arbeitsplatzgefährdung bzw. Arbeitslosigkeit nahestehender Personen;Parteineigung und Parteiidentifikation.
+Zusätzlich verkodet wurden: Befragungstag; Bundesland.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The Politbarometer has been conducted since 1977 on an almost monthly basis by the Forschungsgruppe Wahlen on behalf of the Second German Television (ZDF). Since 1990, this database has also been available for the new German states. The survey focuses on the opinions and attitudes of the voting-age population in the Federal Republic on current political issues, parties, politicians, and voting behavior. From 1990 to 1995 and from 1999 onward, the Politbarometer surveys were conducted separately both in the newly formed eastern and in the western German states (Politbarometer East and Politbarometer West). The separate monthly surveys of a year are integrated into a cumulative data set that includes all surveys of a year and all variables of the respective year. Starting in 2003, the Politbarometer short surveys, collected with varying frequency throughout the year, are integrated into the annual cumulation.  </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>1. The following topics were asked about identically at every time of survey:most important political problems of the Federal Republic;intent to participate in the next Federal Parliament election;behavior at the polls in the last Federal Parliament election;sympathy scale for SPD, CDU, CSU, FDP, the Greens and the PDS;satisfaction with achievements of the Federal Government (scale);sympathy scale for the large or the small partner of the government as well asthe small and large partner in the opposition;party preference according to rank order procedure and Sunday question;sympathy scale for top politicians of the parties;judgement on economic situation of the country and one´s own economic situation;expected economic situation for the state;self-assessment on a left-right continuum.2. In at least one or more survey months the following questions were posed:coalition preference;naming the five most important political personalities in the Federal Republic;sympathy scale for the most important top politicians in the Federal Republic;judgement on the normality of the Greens as party;acceptance of a party office bymembers of state and Federal Parliament of the Greens andpersonally perceived importance of this topic;judgement whether the SPD stands behind the policies of Gerhard Schroeder andthe CDU behind the policies of Angela Merkel;assessment of the unity of SPD, CDU, CSU, FDP and the Greenson important political questions;general satisfaction with democracy;interest in politics;the right people in leading positions;judgement on the situation of the German economy;expectations of the opposition;judgement on the dispute culture in politics;preferred CDU/CSU candidate for chancellor;influence of contributions on political decisions of the Federal Governmentunder Helmut Kohl;approval of compensation for the financial damages caused by Kohlthrough contributions;judgement on treatment of Kohl on the occasion of celebration of German unity;judgement on political achievements of Kohl in general;approval of the resignation of Wolfgang Schaeuble and preferred successor;the one primarily to blame for the CDU problems;trust in the willingness of the CDU to clear up the contribution affair;attitude to demand for resignation of Roland Koch;personally perceived importance of CDU contribution incidents;attitude to criminal prosecution of Helmut Kohl;assessment about inofficial SPD bank accounts;personally perceived importance of SPD flight affair in NRW;assessment of the most influential person in the CDU/CSU(Merkel, Merz or Stoiber);approval of reunification in 1989 as well as currently;perceived joy or concern about unification;fulfillment of personal expectations andsolution of problems regarding unification;judgement on the efforts of the Federal Government forachievement of equivalent living conditions in East and West;comparison of time before and after the turning point in the categoriespersonal situation in general, personal economic situation, social security,personal freedoms and relationship with fellow-men;assessment of degree of rapproachment of the Germans since unity;attitude to the terms ´Ossi´ {´Easty´} and ´Wessi´ {´Westy´};assessment about the length of integration in years;attitude to dissatisfaction of the East Germans;national identity of respondent;trip to East Germany after the turning point;attitude to coping with the past of the GDR;satisfaction with condition of society in general andin comparison with Western European;expected economic situation in Germany andpersonal economic situation in a year;issue ability of the parties in the areas economy, job creation, finances,tax policy, foreigner policy, environmental policy and securing of pensions;expectations of tax reform;attitude to the attempt of the CDU/CSU to reject the tax reform;attitude to pension financing andpreferential tax treatment of private provision for old age;assessment of personal financial future situation as pensionerin comparison to current pensioners;judgement on the current social situation of pensioners andassessment of the security of pensions in 20 years;attitude to private provision for old age for employees;rights to a compulsory pension, a civil servant npension,a company or private provision;possession of life insurance, savings assets, shares, stocks and shares andreal estate;attitude to PDS participation in the pension discussion;judgement on the work of the Federal Government;government ability of the CDU/CSU;knowledge about the Federal President and evaluation his work in general;attitude to combat military service for women;concept about the future of compulsory military service andintroduction of compulsory military service for women;appropriateness of wage increases demanded by IG Metall;expected advantages and disadvantages for the country from membership in the EU;attitude to introduction of the Euro on 1 January 1999;significance of loss in value of the Euro against the Dollar for Germany andpersonally perceived importance of this topic;expectation of success of the Euro;attitude to EU Enlargement regarding the Baltic countries as well as Poland,Slovakia, Czech Republic, Turkey, Hungary;significance of the EU enlargement to the East for Germany;assessment of the success of the EU summit in Nice;approval of equalization of the votes in the EU Council of Ministers;approval of restriction of relation ofEU countries to Austria since the FPOE has a part in the government;agreement with government participation of FPOE and Joerg Haider;candidate preference for the presidency in the USA;blame for jeopardy to the peace process between Palestinians and Israelis;agreement with a Green Card for foreign IT specialists andthe CDU postcard action in NRW against this measure;personally perceived importance of the postcard action;fairness of the accusation of foreigner hostility of the CDU;feeling of threat to democracy from the NPD;naming the most dangerous of the right-wing radical parties(DVU {deutsche Volksunion}, NPD, Republicans);approval of an NPD prohibition;perceived need of new laws to combat right-wing radicalism;preferred use of additional revenues from the sale of mobile telephone licenses;attitude to homosexual marriage and equal tax treatment;assessment of direction of development of the PDS after change of leadership;attitude to immigration policy, the term ´Leitkultur´ of the CDU/CSU andforeigners living in Germany;feeling of threat from crime (fear of victimization);attitude to use or closure of nuclear power plants;attitude on suspension of the ecology tax, CDU stand on this andthe relief measures of the government;attitude to the solidarity surcharge;consumption of meat and feeling of personal health threat from BSE;retrospect for the year 2000;prospect for the year 2001.Demography:sex;age (classified);marital status;living together with a partner;presence of children in household;school degree (East or West);number of children not of school-age;number of children under 13 years old;ages of children;government examination or similar;recognized school degree;completed vocational training;employment;assessment of personal jeopardy to job;occupational group;size of household and number of persons 18 years old or older;head of household as well as his occupational group and employment;union member in household;religious denomination;frequency of church attendance;jeopardy to job or unemployment of close persons;party inclination and party identification.Also encoded was:day of survey;state.</freetext>
+			<descriptionType>TableOfContents</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>with East Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>mit Berlin-Ost</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BB</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-MV</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-SN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-ST</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-TH</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wahlberechtigte Wohnbevölkerung</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>The residential population eligible to vote.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Mehrstufige Zufallsauswahl: Auswahl von Haushaltsadressen nach dem
+RLD-Verfahren und Auswahl der Zielperson nach einem Geburtstagsschlüssel </method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Sampling Procedure Comment: Multi-stage random sample: sample of household addresses according to the RLD procedure and sample according to a key based on birthday
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2000-01</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2000-12</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>Longitudinal.Trend/RepeatedCrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Forschungsgruppe Wahlen, Mannheim
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Monika</firstName>
+				<middleName/>
+				<lastName>Langhans</lastName>
+				<contributorType>DataCurator</contributorType>
+				<affiliation>
+					<affiliationName>GESIS – Leibniz-Institut für Sozialwissenschaften</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview (CATI) with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>10791</numberUnits>
+			<numberVariables>291</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Der Datensatz besteht aus einer Kumulation der von Januar bis Dezember
+2000 monatlich durchgeführten Erhebungen. Unter der ZA-Studien-Nr. 3425
+sind die Befragungen im Westteil der Bundesrepublik enthalten. Dieser
+Datensatz enthält einen zusätzlichen Gewichtungsfaktor, der es
+ermöglicht, die beiden Datensätze zu einer gesamtdeutsch gewichteten
+Befragung zusammenzufügen.
+</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The data set consists of a cumulation of monthly surveys
+conducted from January to December 2000.
+ZA Study No. 3425 contains the survey
+in the western part of the Federal Republic.
+This data set contains an additional weighting factor
+which makes it possible to combine the two data sets
+into an all-German weighted survey.
+</text>
+		</note>
+	</notes>
+</resource>

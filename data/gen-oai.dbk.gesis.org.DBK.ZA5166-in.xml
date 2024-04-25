@@ -1,0 +1,639 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Group&amp;#8208;Focused Enmity in Europe. A Representative Cross&amp;#8208;European Survey on Group&amp;#8208;Focused Enmity &amp; Political Attitudes'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Gruppenbezogene Menschenfeindlichkeit in Europa. Eine repräsentative Querschnittsstudie zur gruppenbezogenen Menschenfeindlichkeit und zu politischen Einstellungen in Europa'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5166</identifier>
+		<currentVersion>1.1.1</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Gruppenbezogene Menschenfeindlichkeit in Europa. Eine repräsentative Querschnittsstudie zur gruppenbezogenen Menschenfeindlichkeit und zu politischen Einstellungen in Europa</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Group&amp;#8208;Focused Enmity in Europe. A Representative Cross&amp;#8208;European Survey on Group&amp;#8208;Focused Enmity &amp; Political Attitudes</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Pawe&amp;#322;</firstName>
+				<middleName/>
+				<lastName>Boski</lastName>
+				<affiliation>
+					<affiliationName>Faculty of Psychology, University of Warsaw</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Bertjan</firstName>
+				<middleName/>
+				<lastName>Doosje</lastName>
+				<affiliation>
+					<affiliationName>Faculty of Social and Behavioural Sciences, University of Amsterdam</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Miles</firstName>
+				<middleName/>
+				<lastName>Hewstone</lastName>
+				<affiliation>
+					<affiliationName>Oxford Centre for the Study of Intergroup Conflict, University of Oxford</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Beate</firstName>
+				<middleName/>
+				<lastName>Küpper</lastName>
+				<affiliation>
+					<affiliationName>Institut für interdisziplinäre Konflikt- und Gewaltforschung, Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Nonna</firstName>
+				<middleName/>
+				<lastName>Mayer</lastName>
+				<affiliation>
+					<affiliationName>Centre d´études européennes, Sciences Po</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Roel W.</firstName>
+				<middleName/>
+				<lastName>Meertens</lastName>
+				<affiliation>
+					<affiliationName>Faculty of Social and Behavioural Sciences, University of Amsterdam</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Antal</firstName>
+				<middleName/>
+				<lastName>Örkény</lastName>
+				<affiliation>
+					<affiliationName>Institute of Sociology, Eötvös Loránd University of Budapest</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Marta</firstName>
+				<middleName/>
+				<lastName>Penczak</lastName>
+				<affiliation>
+					<affiliationName>Faculty of Psychology, University of Warsaw</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Cícero</firstName>
+				<middleName/>
+				<lastName>Pereira</lastName>
+				<affiliation>
+					<affiliationName>Institute of Social Sciences, Lisbon University</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Alice</firstName>
+				<middleName/>
+				<lastName>Ramos</lastName>
+				<affiliation>
+					<affiliationName>Institute of Social Sciences, Lisbon University</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Guillaume</firstName>
+				<middleName/>
+				<lastName>Roux</lastName>
+				<affiliation>
+					<affiliationName>Institut d´etudes politiques, University of Grenoble</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Katharina</firstName>
+				<middleName/>
+				<lastName>Schmid</lastName>
+				<affiliation>
+					<affiliationName>Oxford Centre for the Study of Intergroup Conflict, University of Oxford</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Bori</firstName>
+				<middleName/>
+				<lastName>Simonovics</lastName>
+				<affiliation>
+					<affiliationName>Institute of Sociology, Eötvös Loránd University of Budapest</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Jorge</firstName>
+				<middleName/>
+				<lastName>Vala</lastName>
+				<affiliation>
+					<affiliationName>Institute of Social Sciences, Lisbon University</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Alberto</firstName>
+				<middleName/>
+				<lastName>Voci</lastName>
+				<affiliation>
+					<affiliationName>Department of Applied Psychology, University of Padua</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Ulrich</firstName>
+				<middleName/>
+				<lastName>Wagner</lastName>
+				<affiliation>
+					<affiliationName>Fachbereich Psychologie, Philipps-Universität Marburg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Carina</firstName>
+				<middleName/>
+				<lastName>Wolf</lastName>
+				<affiliation>
+					<affiliationName>Institut für interdisziplinäre Konflikt- und Gewaltforschung, Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Andreas</firstName>
+				<middleName/>
+				<lastName>Zick</lastName>
+				<affiliation>
+					<affiliationName>Institut für interdisziplinäre Konflikt- und Gewaltforschung, Universität Bielefeld</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Anja</firstName>
+				<middleName/>
+				<lastName>Zimmermann</lastName>
+				<affiliation>
+					<affiliationName>Faculty of Social and Behavioural Sciences, University of Amsterdam</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5166?doi=10.4232/1.5166</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.5166</doiProposal>
+	<publicationDate>
+		<date>2017-04-01</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5166</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Soziales Verhalten und soziale Einstellungen</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Minderheiten</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>Wirtschaftliche Lage und Indikatoren</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Social behaviour and attitudes</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Minorities</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>Economic conditions and indicators</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Forschungsziel war die kulturvergleichende Evaluation des Ausmaßes und der Verbreitung, aber auch die Analyse der Ursachen von Vorurteilen gegenüber verschiedenen Adressatengruppen wie MigrantInnen, ethnischen-kulturellen Minderheiten, Juden/Jüdinnen, MuslimInnen, Frauen sowie homosexuellen, obdachlosen und behinderten Menschen. Dabei galt es insbesondere, Ähnlichkeiten und Unterschiede zwischen europäischen Ländern zu untersuchen. Aus diesem Grund wurden sowohl alte als auch neue EU-Mitgliedsländer ausgewählt, welche sich in Integrationspolitik, Einwanderungsgeschichte und -quote sowie allgemeinem Wohlstand unterscheiden. Die Stichprobe umfasst Befragte unterschiedlicher geografischer Regionen aus Großbritannien, Frankreich, Deutschland, den Niederlanden, Italien, Portugal, Polen und Ungarn. In jedem Land wurden ca. 1000 Personen befragt, die für die Staatsbürger der jeweiligen Länder repräsentativ waren und ein Mindestalter von 16 Jahren hatten. Insgesamt umfasst der Datensatz 8026 Fälle und 221 Variablen.
+Themen: Einstellungen und Vorurteile: Beurteilung der wirtschaftlichen Lage des Landes und der eigenen finanziellen Lage; erwartete zukünftige eigene finanzielle Lage; Vergleich der persönlichen finanziellen Lage mit der der meisten Landesbürger; erwartete zukünftige Beziehungen zwischen Landesbürgern und Zuwanderern; Vergleich der wirtschaftlichen Lage von Landesbürgern mit der von Zuwanderern; Selbsteinstufung auf einer Oben-Unten-Skala; Links-Rechts-Selbsteinstufung; Parteipräferenz; regelmäßige Beteiligung an Wahlen; Image der Europäischen Union; Politikinteresse; allgemeines Personenvertrauen; Tendenz der meisten Menschen andere auszunutzen vs. sich anständig zu verhalten; Selbstcharakterisierung (Gleichbehandlung aller Menschen, Interesse an anderen Meinungen, starkes Sicherheitsbedürfnis, Wunsch nach einem starken Staat, der seine Bürger verteidigen kann); Alleinstellungsanspruch der eigenen Religion; persönlicher Stellenwert zu gewinnen; lieber auf sich selbst als auf andere verlassen; Familienmitglieder sollten zusammenhalten; gutes Gefühl bei Zusammenarbeit mit anderen; Gefühl der Verbundenheit mit Europa, dem Land und der Region; Befürwortung des Wahlrechts für Zuwanderer bei allen Wahlen; Befürwortung erleichterter Einbürgerung für Einwanderer; Einwanderer sollten ihre eigene Kultur beibehalten; Einwanderer sollten die Kultur des Einwanderungslandes übernehmen; Einwanderer sollten ihre eigene Kultur beibehalten und zugleich die Kultur des Einwanderungslandes übernehmen; Einverständnis im Fall der Eheschließung eines Kindes mit einem Zuwanderer bzw. einer Zuwanderin; Akzeptanz eines Zuwanderers als Verwandten bzw. als Freund und Nachbarn; Akzeptanz eines Zuwanderers im selben Ort; bevorzugt keine Einreise von Zuwanderern ins Land; akzeptierte Zuwandererzahl im Land; Meinung zu Zuwanderern (Perspektivwechsel fällt leicht, Mitleid mit Zuwanderern, bedrohen die wirtschaftliche Lage im Land bzw. die eigene finanzielle Lage, bedrohen Lebensweise und Werte des Landes bzw. der persönlichen Lebensweise und Werte, Split A: Wirtschaft braucht Zuwanderer, Belastung für das Sozialsystem, Ende Split A); Meinung zu Muslimen (viele Muslime betrachten islamistische Terroristen als Helden, Mehrheit der Muslime findet islamistischen Terrorismus gerechtfertigt (Frankreich: nicht gerechtfertigt), Angst vor einem islamistischen Terroranschlag im Land bzw. selbst Opfer von islamistischen Terroristen zu werden); Reiche werden immer reicher, Arme immer ärmer; Autoritarismus (härteres Vorgehen gegen Unruhestifter, Schüler sollen Disziplin lernen, Ruf nach Wiedereinführung der Todesstrafe); Ruf nach einer starken Führungspersönlichkeit; Politiker interessiert nicht was Leute denken, keinen Einfluss auf das, was die Regierung tut; Split A: Wichtigkeit persönlicher Einflussnahme auf die Lösung gesellschaftlicher Probleme; denke so wie die meisten Menschen; lebe auf die übliche und normale Art und Weise; mag keine  von den eigenen abweichenden Argumente; bei sozialen Konflikten könnten beide Seiten Recht haben; alles in Unordnung geraten; Dinge schwierig geworden, immer schwieriger echte Freunde zu finden; soziale Beziehungen immer instabiler; Verärgerung über abfällige Bemerkungen aus dem Bekanntenkreis über Einwanderer; Akzeptanz abfälliger Bemerkungen über Zuwanderer im Bekanntenkreis (Ende Split A); religiöse Vielfalt gut für ein Land; dieselben Sitten und Gebräuche besser für ein Land; Dominanz: alle Bevölkerungsgruppen sollten die gleichen Chancen haben; alles tun, um die Bedingungen für unterschiedliche Gruppen anzugleichen; untergeordnete Gruppen sollten an ihrem Platz bleiben; gute Sache, dass einige Gruppen in der Gesellschaft an der Spitze und andere weiter unten stehen; Split B: Rassismus: Überlegenheit mancher Kulturen; eigene Kultur vor dem Einfluss anderer Kulturen schützen; manche Völker begabter als andere; Soziale Gerechtigkeit: Glaube an eine gerechte Welt; Leute bekommen, was ihnen gerechterweise zusteht (Ende Split B); Fremdenfeindlichkeit (Xenophobie): Zuwanderer bereichern unsere Kultur; Gefühl des Fremdseins im eigenen Land durch viele Zuwanderer; zu viele Zuwanderer im Land; mehr Recht auf Arbeit für Landesbürger als für Zuwanderer; Split B: Gefühle gegenüber Zuwanderern (ängstlich, wütend, angewidert, entspannt); Sympathie für Zuwanderer, Türken (Länderspezifisch, Muslime, Juden, Osteuropäer, Sinti und Roma und Schwarze (Ende Split B); Rassismus: natürliche Hierarchie zwischen Schwarzen und Weißen (in Frankreich: keine natürliche Hierarchie); Schwarze und Weiße sollten nicht heiraten (in Frankreich: kein Problem, wenn Schwarze und Weiße heiraten); Sexismus: Rolle der Frau: Frauen sollten ihre Rolle als Ehefrau und Mutter ernster nehmen; mehr Recht für Männer als für Frauen auf einen Arbeitsplatz; Kopftuch erlauben für muslimische Schülerinnen; Split C: Kopftuch erlauben, obwohl es ein Zeichen für die Unterdrückung von Frauen ist (Ende Split C); Split D: Kopftuch erlauben, obwohl religiöse Symbole in Klassenräumen nichts zu suchen haben (Ende Split D); Split E: Kopftuch nicht erlauben, obwohl man alle Religionen und Kulturen respektieren sollte (Ende Split E); Split F: Kopftuch nicht erlauben, obwohl Mädchen vielleicht die Schule abbrechen (Ende Split F); Einstellung zum Islam: muslimische Kultur passt gut ins Land; muslimische Ansichten über Frauen widersprechen eigenen Werten; Islam ist eine Religion der Intoleranz (Frankreich: Toleranz); Muslime im Land stellen zu viele Forderungen; zu viele Muslime im Land; Antisemitismus: Verständnis für ablehnende Haltung gegenüber Juden aufgrund der Politik Israels (Frankreich: Palästinenser tragen die größte Verantwortung in der Verfolgung des israelisch-palästinensischen Konfliktes); Israel führt Vernichtungskrieg gegen die Palästinenser (Frankreich: Israelis tragen die größte Verantwortung in der Verfolgung des israelisch-palästinensischen Konfliktes); Juden im Allgemeinen kümmern sich nur um ihre eigene Gruppe; Juden bereichern Kultur; viel Einfluss von Juden im Land; Juden versuchen Vorteile aus ihrer Opferrolle während der Nazizeit zu ziehen; Meinung zu anderen gesellschaftlichen Gruppen: gleichgeschlechtliche Ehen als gute Sache; nichts Unmoralisches an Homosexualität; Obdachlose mögen das Leben auf der Straße; Obdachlose sollten aus der Fußgängerzone entfernt werden; zu wenig Anstrengungen im Land zur Unterstützung behinderter Menschen; Behinderte stellen zu viele Forderungen; Anzahl Mitgliedschaften in Organisationen und Vereinen; allgemeine Lebenszufriedenheit; Größe des Bekanntenkreises; Zuwanderer im Bekanntenkreis; Zuwanderer im Freundeskreis der Freunde; Diskriminierungsverhalten: Vorbehalte im Hinblick auf Anmeldung in einer Schule mit mehrheitlich Schülern aus Zuwandererfamilien; Probleme mit Umzug in eine Gegend mit vielen Zuwanderern; Absicht, bei der nächsten Wahl nur Parteien zu wählen, die den weiteren Zuzug von Zuwanderern begrenzen; Arbeitgeber sollte das Recht haben, nur Landesbürger einzustellen; Gewaltbereitschaft gegenüber Zuwanderern (nach Beleidigung bzw. wenn es um eine wichtige Sache geht); persönlich wichtig, auf unvoreingenommene Weise gegenüber Schwarzen zu agieren; Verwendung von Stereotypen über Schwarze ist wegen persönlicher Werte falsch; Selbsteinschätzung im Hinblick auf Vorurteile; nur in Frankreich: Zuwanderergruppe, die zuerst in den Sinn kommt. 
+Demographie: Geburt im Befragungsland; Staatsbürgerschaft; Migrationshintergrund der Eltern oder Großeltern; Geschlecht; Konfession oder Religionsgemeinschaft; Religiosität; Teilnahme an Gottesdiensten; Alter (gruppiert); Familienstand; Zusammenleben mit einem Partner; Geburt des Partners im Befragungsland; Kinder; höchster Bildungsabschluss; Alter bei Ende der Ausbildung; für den Befragten und dessen Partner wurde erfragt: derzeitiger bzw. früherer Erwerbsstatus; Beruf; Wochenarbeitszeit; Selbständigkeit, Beschäftigung im öffentlichen oder im privaten Sektor; Angst vor eigener Arbeitslosigkeit bzw. Arbeitslosigkeit des Partners; Haushaltsgröße; wichtigste Einkommensquelle des Haushalts; Haushaltsnettoeinkommen; Internetzugang zu Hause; Anzahl der Telefonnummern im Haushalt; Wiederbefragungsbereitschaft; Einverständnis zur Aufbewahrung der persönlichen Daten.
+Zusätzlich verkodet wurde: Befragten ID; Land; Ursprüngliche nationale ID des Befragten; Interviewdatum; Interviewdauer; Interviewer ID; Gewichtungsfaktoren; Split; Geschlecht des Interviewers; Migrationshintergrund des Interviewers (nicht in Frankreich); generierte Regionalangaben und Kontextmerkmale der einzelnen Länder (z.B. für Deutschland: Bundesländer, Regierungsbezirke, BIK Gemeindetyp).
+Interviewerrating: Frageverständnis des Befragten.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The aim of the research was to evaluate the extent and dissemination of prejudices against different target groups, such as migrants, ethnic and cultural minorities, Jews, Muslims, women, homosexuals, homeless people and people with disabilities, and to analyse the causes of these prejudices. In particular, it was necessary to examine similarities and differences between European countries. For this reason, both old and new EU member states were selected, which differ in integration policy, immigration history and rate as well as general prosperity. The sample includes respondents from different geographical regions in Great Britain, France, Germany, the Netherlands, Italy, Portugal, Poland and Hungary. In each country, about 1000 people were interviewed who were representative of the citizens of the respective countries and had a minimum age of 16 years. In total, the data set contains 8026 cases.
+Demography: country of birth; nationality; migration background of parents or grandparents; sex; denomination; religiousness; attendance at religious services; age (grouped); marital status; long-term partner; partner is born in the country; children; highest level of education; age at the end of education; for the respondent and his partner  was asked: current or former employment status; working hours per week; self-employment, employment in the public or private sector; worry about becoming unemployed; worry about partner  becoming unemployed; size of household; main source of household income; household total net income; internet access in the household; number of telephone numbers in the household; willingness to participate again; consent to saving of  personal data.
+Additionally encoded was: original national ID of respondent; country; ID of interviewer; interview date; duration of interview; interviewer ID; weighting factors; split; sex of interviewer; migration background of interviewer (not in France); generated regional information and context characteristics of the individual countries (e.g. for Germany: federal states, government districts, BIK community type).
+Interviewer rating: evaluation of respondent´s question understanding.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HU</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen ab 16 Jahren, die zum Zeitpunkt der Befragung in Privathaushalten mit Telefonanschluss lebten und über die Staatsbürgerschaft des Landes, in dem die Befragung stattfand, verfügten.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Residents of the respective counties aged 16 years and over.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Zufallsauswahl (national telephone master samples)
+Die Auswahl der Zielperson erfolgte nach der Kish-Selection-Grid-Methode (Schwedenschlüssel)</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Random sample (national telephone master samples) 
+In each household, the respondent was drawn randomly according to the Kish Selection Grid Method.	
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2008-10-08</date>
+				</startDate>
+				<endDate>
+					<date>2008-11-28</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>United Kingdom</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2008-10-22</date>
+				</startDate>
+				<endDate>
+					<date>2008-12-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2008-10-08</date>
+				</startDate>
+				<endDate>
+					<date>2008-11-07</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Netherlands</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2008-10-07</date>
+				</startDate>
+				<endDate>
+					<date>2008-10-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2008-10-07</date>
+				</startDate>
+				<endDate>
+					<date>2008-10-31</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2008-10-15</date>
+				</startDate>
+				<endDate>
+					<date>2008-11-27</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2008-10-15</date>
+				</startDate>
+				<endDate>
+					<date>2008-11-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Poland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Polen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2008-10-22</date>
+				</startDate>
+				<endDate>
+					<date>2008-11-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Hungary</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Ungarn</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>TNS NIPO, Amsterdam, Netherlands</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest Sozialforschung, Munich, Germany</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest, Milan, Italy</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Euroteste, Lisbon, Portugal</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS OBOP, Warsaw, Poland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Hungary, Budapest</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Hungary</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Gallup, Oslo, Norway.</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Telephone interview: CATI (Computer Assisted Telephone Interview)
+	
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>223</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Zick, A.; Küpper, B.; Wolf, H. (2010): Wie feindselig ist Europa? Ausmaße Gruppenbezogener Menschenfeindlichkeit in acht Ländern. 
+In W. Heitmeyer (Hrsg.), Deutsche Zustände (Bd. Folge 9, S. 39-60). 
+Suhrkamp Verlag, Frankfurt am Main.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Schmid K.; Hewstone M.; Küpper B.; Zick A.; Wagner U. (2012): Secondary Transfer Effects of Intergroup Contact: A Cross-National Comparison in Europe. 
+Social Psychology Quarterly 75, 28-51</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Küpper, B.; Wolf, C.; Zick, A. (2010): Social Status and Anti-Immigrant Attitudes in Europe: An Examination from the Perspective of Social Dominance Theory. International Journal of Con&amp;#64258;ict and Violence 4 (2), 205-219</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Küpper, B.; Zick, A. (2010): Macht Armut menschenfeindlich? Zusammenhänge in acht europäischen Ländern. 
+In W. Heitmeyer (Hrsg.), Deutsche Zustände (Bd. Folge 9, S. 84-105). Suhrkamp
+Verlag, Frankfurt am Main.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Doosje, B.; Zimmermann, A.; Küpper, B.; Zick, A.; Meertens, R. (2009): Terrorist threat and perceived Islamic support for terrorist attacks as predictors of personal and institutional out?group discrimination and support for anti?immigration policies – evidence from 9 European countries.
+Revue Internationale de Psychologie Socialce 22. 203-233</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Hohlweg, Jelena; Derr, Maria; Salentin, Kurt (2014): Datenhandbuch Group&amp;#8208;Focused Enmity in Europe. A Representative Cross&amp;#8208;European Survey on Group&amp;#8208;Focused Enmity &amp; Political Attitudes. IKG Technical Report Nr. 3, Version 2. Bielefeld.</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

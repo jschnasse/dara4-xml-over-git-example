@@ -1,0 +1,219 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Erfahrungen mit Einbürgerungsprozessen in Baden-Württemberg 2012'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Erfahrungen mit Einbürgerungsprozessen in Baden-Württemberg 2012'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5840</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Erfahrungen mit Einbürgerungsprozessen in Baden-Württemberg 2012</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Erfahrungen mit Einbürgerungsprozessen in Baden-Württemberg 2012</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Judith</firstName>
+				<middleName/>
+				<lastName>Halisch</lastName>
+				<affiliation>
+					<affiliationName>Ministerium für Integration Baden-Württemberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Andreas M.</firstName>
+				<middleName/>
+				<lastName>Wüst</lastName>
+				<affiliation>
+					<affiliationName>Ministerium für Integration Baden-Württemberg</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<institution>
+				<institutionName>Ministerium für Integration Baden-Württemberg</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5840?doi=10.4232/1.12592</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12592</doiProposal>
+	<publicationDate>
+		<date>2016-08-02</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5840</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Equality, inequality and social exclusion</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Erfahrungen von Eingebürgerten mit Einbürgerungsprozessen.
+Themen: Verfahrensdauer in Monaten; Differenz zwischen Einbürgerungsjahr und Antragsjahr; Einschätzung des Verfahrensverlaufs; Abgeben von Dokumenten nach der Antragstellung; Zeit zwischen Einbürgerungsentschluss und Einbürgerungsantrag in Monaten; Einschätzung der deutschen Behörden hinsichtlich des Einbürgerungsverfahrens; Staatsangehörigkeit vor der Einbürgerung; bisherige Staatsangehörigkeit behalten; Art der formalen Entlassung aus der bisherigen Staatsangehörigkeit (automatisch oder Antragstellung); Dauer des Entlassungsverfahrens; Einschätzung der Aufgabe der bisherigen Staatsangehörigkeit; Miteinbürgerung weiterer Familienangehöriger; Erleben des Einbürgerungsverfahrens in der Behörde (Mitarbeiter freundlich, Verfahren kompliziert, gute Information durch Mitarbeiter, lange Wartezeiten, willkommen gefühlt, Verzögerungen bei der Bearbeitung); Bedenken hinsichtlich des erfolgreichen Verlaufs des Einbürgerungsverfahrens; Gründe für diese Bedenken (Deutschkenntnisse, Einbürgerungstest, Entlassung aus der bisherigen Staatsangehörigkeit, notwendige Dokumente aus dem Ausland, Prüfung der Polizei- und Strafakte, Nachweis über den Lebensunterhalt, mögliche Reaktionen der Behörde oder andere Bedenken); Gefühl nach der Einbürgerung (Freude, Zugehörigkeitsgefühl, Nichts, Leere, froh, dass es vorbei ist, hin- und hergerissen, befreit, anderes); Bewertung der Übergabe der Einbürgerungsurkunde; Veranstaltung z.B. Einbürgerungsfeier im eigenen Landkreis oder der Stadt; Erhalt der Einbürgerungsurkunde während einer Einbürgerungsfeier, in der Behörde oder anders; mit deutschem Pass nicht mehr als Ausländer gesehen; Informationsverhalten vor der Einbürgerung bei ausgewählten Organisationen (Rathaus am Wohnort, Ausländerbehörde, Landesbehörde, Bundesbehörde, Migrantenorganisationen, Wohlfahrtsverbände, Vereine, Familie oder Freunde) und Informationsart (persönlich, Internet, Broschüre bzw. Flyer); Entscheidung zur Einbürgerung auf eigenen Wunsch oder auf Wunsch der Familie; persönliche Bedeutung ausgewählter Gründe für die Einbürgerung (Leben in Deutschland verbringen, Zugehörigkeitsgefühl, jederzeit in Deutschland leben, Reisefreiheit, Teilnahme an Wahlen, keine Behandlung als Ausländer, Wegfall der Bürokratie mit Behörden des Herkunftslande, berufliche Zukunft, Leben und Arbeiten in anderen EU-Ländern, sozialer Rechtsstaat, Zukunft der Familie); weitere Gründe für die Einbürgerung.
+Demographie: Alter (Geburtsjahr kategorisiert); Geschlecht; höchster Schulabschluss; berufliche Qualifikation; Familienstand; Kinder; Geburtsland; Grund für den Zuzug nach Deutschland; Zuzugsjahr. 
+Zusätzlich wurden Kommentare des Befragten zu diversen Fragen offen erfasst.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Experiences of naturalized citizens with naturalization processes.
+Topics: length of procedure in months; difference between naturalization year and the year of application; assessment of the progress of the procedure; emitted documents after the application; time between naturalization decision and the application for naturalization in months; assessment of the German authorities regarding the naturalization procedure; nationality before naturalization; keep original nationality; kind of formal release from the former citizenship (automatically or application); duration of the dismissal procedure; assessment of dropping the previous citizenship; naturalization of another family member; experience of the naturalization procedure in the authority (friendly staff, complicated procedure, good information by staff, long latency time, felt welcome, delays in processing); concerns about the successful course of the naturalization procedure; reasons for these concerns (knowledge of the German language,  naturalization test, discharge from the former citizenship, necessary documents from abroad, examination of police file and criminal file, proof of livelihood, possible reactions of the authorities or other concerns); feelings after naturalization (joy, sense of belonging, nothing, emptiness, glad that it´s over, torn, free, other); assessment of the presentation of the certificate of naturalization; event (e.g. naturalization ceremony) in the own administrative district or city; receipt of the certificate of naturalization during a naturalization ceremony, in the issuing authority, or otherwise; not seen as a foreigner with a German passport; information behavior before naturalization in selected organisations (town hall at the residence, foreigners´ registration office, state authority, federal authority, migrant organisations, welfare organisations, associations, family or friends) and kind of information (personal, Internet, brochure or flyer); decision to naturalize at own request or at the request of the family; importance of specific reasons for personal naturalization (living in Germany, sense of belonging, living in Germany anytime, freedom to travel, participation in elections, no treatment as a foreigner, elimination of bureaucracy with authorities of the country of origin, professional future, living and working in other EU-countries, social constitutional state, the future of the family); other reasons for naturalization.
+Demography: age (year of birth, categorized); gender; highest school degree; professional qualifications; marital status; children; country of birth; reason for immigration to Germany; year of immigration.
+In addition, comments of the respondents to various survey questions were recorded.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE-BW</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Eingebürgerte, die als Hauptantragsteller oder -antragstellerin einer Einbürgerung im Zeitraum April bis September 2012 ihre Einbürgerungsurkunde erhalten haben.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Naturalized who have received their certificate of naturalization as a principal applicant in the period April to September 2012</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Vollerhebung</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Total universe/Complete Enumeration</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2012-04-01</date>
+				</startDate>
+				<endDate>
+					<date>2012-09-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Ministerium für Integration Baden-Württemberg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Selbstausfüller: Papier</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Self-administered questionnaire: Paper</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>176</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>In den Kommentaren der Befragten wurden Hinweise, die eine Identifikation der Befragten erleichtern, entweder durch Buchstaben ersetzt (z.B. wurde aus ´Frau Müller´ ´Frau X´) oder durch neutrale Begriffe ersetzt (v.a. bei Hinweisen auf Länder, z.B. wurde aus ´Türkei´ oder ´Kosovo´ die Bezeichnung ´Nicht-EU-Land´). 
+
+Es wurde parallel auch eine Befragung der 44 Einbürgerungsbehörden der baden-württembergischen Stadt- und Landkreise durchgeführt. Diese Daten können aus Datenschutzgründen der Wissenschaft nicht zur Verfügung gestellt werden.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Halisch, Judith; Wüst, Andreas M.: Der Weg zum Pass: Baden-Württembergische Erfahrungen mit Einbürgerungsprozessen.
+Stuttgart: Ministerium für Integration Baden-Württemberg, 2013 </freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

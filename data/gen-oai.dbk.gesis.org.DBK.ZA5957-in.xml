@@ -1,0 +1,396 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study '2000 Families: Migration Histories of Turks in Europe'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie '2000 Families: Migration Histories of Turks in Europe'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5957</identifier>
+		<currentVersion>2.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>2000 Families: Migration Histories of Turks in Europe</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>2000 Families: Migration Histories of Turks in Europe</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>500 Families: Migration Histories of Turks in Europe (LineUp)</titleName>
+			<titleType>OriginalTitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>500 Families: Migration Histories of Turks in Europe (LineUp)</titleName>
+			<titleType>OriginalTitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Guveli, Ayse; Ganzeboom, Harry B.G.; Baykara-Krumme, Helen; Bayrakdar, Sait; Eroglu, Sebnem; Hamutci, Bulent; Nauck, Bernhard; Platt, Lucinda; Sözeri, Efe Kerem</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5957?doi=10.4232/1.12673</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12673</doiProposal>
+	<publicationDate>
+		<date>2016-11-11</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5957</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Familie und Ehe</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Cultural and national identity</term>
+					<term>Family life and marriage</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Das Projekt 2000 Familien: Migrationsgeschichten von Türken in Europa untersucht Prozesse der Migration, die Mehr-Generationen-Übertragung von sozialen, kulturellen, religiösen und wirtschaftlichen Ressourcen, Werte und Verhalten. Die Forschung richtet sich auf türkische Migranten und Nicht-Migrantenfamilien, deren Mitglieder in europäischen Ländern und diejenigen, die nicht in europäische Ländern emigriert sind oder wieder in der Türkei zurückgekehrt sind, und beinhaltet Interviews mit rund 6000 Familienmitgliedern über drei Generationen hinweg.
+Die Befragung besteht aus mehreren Teilen:Family Tree (Pilot and Main), Proxy interviews (Pilot and Main), Personal interviews (Pilot and Main).
+I. Angaben zur ersten Generation Mann (IKE): männlicher Vorfahre ist Migrant oder Nicht-Migrant; noch am Leben; Geburtsort; Geburtsjahr (Alter); ethnische Familienherkunft; verließ seinen Geburtsort für mehr als fünf Jahre; Migration innerhalb der Türkei; erstes Zielland; erster Zielort (NUTS); Jahr oder Alter zum Zeitpunkt der internen Migration; Jahr oder Alter zum Zeitpunkt der internationalen Emigration; Umzug nach Europa für mehr als fünf Jahre und Land; Jahr oder Alter zum Zeitpunkt des Umzugs; Land der aktuellen (letzten) Wohnsitzes; Aufenthaltsdauer in Europa; Anzahl der Geschwister; Rangplatz in der Geschwisterreihe; Alter; Geschlecht der Geschwister; Geschwister zog zwischen 1960-1974 nach Europa; Motive für die Auswanderung; Ehepartner lebt; Auswanderung des Ehepartners; Jahr der Auswanderung bzw. der Auswanderungen des Ehepartners; aktuelle bzw. letzte Ehe war erste Ehe; Ende der ersten Ehe; arrangierte Ehe; Jahr der Eheschließung; ethnische Herkunft der Familie des Ehepartners; Ehepartner ist (war) ein Verwandter; Religion des Ehegatten (oder Partners); höchster Bildungsgrad; erste Haupttätigkeit (ISCO-88 und ISEI); Bezeichnung des aktuellen oder letzten Jobs (ISCO-88 und ISEI); Art der Tätigkeit; Beruf des Vaters (ISCO-88 und ISEI); Religion; Land vor dem Tod verlassen; Todesalter oder Todesjahr; Aufenthaltsland zum Zeitpunkt des Todes; Familienstand zum Zeitpunkt des Todes; Informationen über Kinder, Enkel und Urenkel.
+Zusätzlich verkodet wurde: Kinder-Kennung; Enkel-Kennung; Rangfolge der Kinder, Enkel und Urenkel; Generation.
+II. 1. Informationen über den Befragten und Migrationsgeschichte: Migrationsstatus; Jahr der ersten Migration; Alter zum Zeitpunkt der ersten Migration; aktuelles Aufenthaltsland (NUTS); Name der Stadt, des Ortes oder Dorfes; Urbanisierungsgrad; Stadt ist gewöhnlicher Aufenthaltsort; Name der nächstliegenden Stadt; gewöhnlicher Aufenthaltsort, Urbanisierungsgrad, nächste Stadt und Land des gewöhnlichen Aufenthalts; Geburtsort; Urbanisierungsgrad des Geburtsortes; nächstliegende Stadt des Geburtsortes; Geburtsland; Befragter verließ sein Land für mindestens ein Jahr und Anzahl der Zielländer; Zielländer; Alter bei Migration; Hauptmotiv; regelmäßiges Pendeln zwischen zwei Ländern; Namen dieser beiden Länder.
+2. Erreichte Ausbildung und Beruf: Abgeschlossene Ausbildung oder noch in der Ausbildung; Alphabetisierung; Alter bei Ende der Ausbildung; Land des Ausbildungsabschlusses; höchster Bildungsstand; Angaben zur ersten Berufstätigkeit  und zum ersten (oder letzten) Beruf (ISCO-88 und ISEI); Land der ersten Berufstätigkeit; berufliche Stellung; Anzahl der überwachten Mitarbeiter; ethnische oder nationale Herkunft des Vorgesetzten; Anzahl der türkischen Kollegen; Arbeitszeit; gewöhnlicher Verdienst, Währung; abgedeckte Zahlungsperiode.
+3. Familie: Ehe und Fertilität: Familienstand; feste Beziehung; Zusammenleben mit einem Partner; Zahl der Eheschließungen; Alter bei der ersten Eheschließung; Ende der ersten Ehe durch Tod eines Partners oder Scheidung; geschieden; Alter bei Ende der ersten Ehe; Alter bei der ersten Scheidung (bzw. Scheidungsjahr); Alter bei Eheschließung mit dem aktuellen oder letzten Ehegatten; Anzahl der Kinder; Geschlecht und Alter dieser Kinder.
+4. Familienbeziehungen: Geburtsjahr der Mutter und des Vaters; Eltern sind am Leben; Zusammenleben mit den Eltern; Land des aktuellen Aufenthalts der Eltern; Kontakthäufigkeit mit den Eltern; Entfernung zum Wohnort der Eltern; Häufigkeit von Hilfe und finanzieller Unterstützung für die eigenen Eltern in den letzten 12 Monaten; Häufigkeit der von den Eltern empfangenen Hilfe und finanziellen Unterstützung; Einstellung zu den Beziehungen zwischen den Generationen und Geschlechterrollen; Verantwortlicher für die Finanzen der Familie.
+5. Verbundenheit mit der Türkei und dem Land und Identität: Türkische Staatsbürgerschaft; Gefühl der Verbundenheit mit Menschen aus der Türkei; Anteil der Freunde mit türkischem Hintergrund; Staatsbürgerschaft des Landes des Wohnsitzes; Gefühl der Verbundenheit mit Staatsangehörigen des Wohnsitzlandes; präferiertes Gewinnerland des Eurovision Song Contests; präferiertes Fußballsiegerteam bei Beteiligung der Türkei; Wunsch nach Begräbnis in der Türkei, im Aufenthaltsland oder anderswo; Geldüberweisungen in die Türkei zur Unterstützung von Familienmitgliedern oder Freunden bzw. der lokalen Gemeinde; Höhe des in die Türkei überwiesenen Geldbetrages  und Währung; Geldüberweisungen in die Türkei für persönliche Investitionen oder Ersparnisse einschließlich Immobilien; Geldspende an nationale oder weltweite gemeinnützige Organisationen; Anzahl der Besuche in der Türkei in den letzten fünf Jahren; Kontakthäufigkeit zu Freunden oder Verwandten in der Türkei; eigene Wahlbeteiligung bei den letzten nationalen Wahlen in der Türkei im Juni 2011; bei den letzten nationalen Wahlen gewählt (wenn außerhalb der Türkei lebend) und gewählte Partei; Links-Rechts-Selbsteinstufung; Parteipräferenz.
+6. Sprache: Ethnische Herkunft der eigenen Familie; verwendete Sprache mit den eigenen Kindern, dem Ehepartner oder Partner, den Eltern, Freunden und Kollegen; Selbsteinschätzung der türkischen Sprachkenntnisse und der Landessprache (Lesen und Schreiben); Anzahl der Bücher im Haushalt.
+7. Diskriminierung: Befragter wurde für einen Job oder ein Praktikum in den letzten fünf Jahren abgelehnt und Grund für die Ablehnung (Geschlecht, Türkische oder ethnische Herkunft, Religion, Kleidung oder Aussehen); weitere Diskriminierungserfahrungen und Gründe für die Diskriminierung; Diskriminierungserfahrungen in der Türkei oder im Land des Wohnsitzes; Sorgen vor einem körperlichen Angriff aufgrund der türkischen / ethnischen Herkunft oder der Religion.
+8. Soziales Kapital und Teilhabe: Anzahl der Bekannten; Anzahl der wichtigen Bezugspersonen; Informationen über die ersten drei dieser Bezugspersonen (Geschlecht, Land, türkischer Hintergrund, Verwandter oder Freund, Bildungsgrad, aktuelle Haupttätigkeit, Kontakthäufigkeit); Unterstützungsperson vorhanden für Beratung in Steuerangelegenheiten oder bezüglich Sozialversicherungsinstitutionen sowie bezüglich Erwerbstätigkeit oder Ausbildung; Informationen zu diesen Personen (Verwandter oder Freund, Land, türkischer Hintergrund).
+9. Gesundheit und Lebenszufriedenheit: Lebenszufriedenheit; Einschätzung der eigenen Gesundheit; chronische Krankheit, Behinderung oder Gebrechen; körperliche oder psychische Krankheit oder Behinderung; Einschränkung der normalen täglichen Aktivitäten aufgrund dieser gesundheitlichen Probleme.
+10. Religion: Konfession; Häufigkeit von Gottesdienstbesuchen, von Gebeten und von ehrenamtlicher Tätigkeit für religiöse Organisationen; Befragter trägt ein Kopftuch (nur muslimische Frauen), isst Schweinefleisch, trinkt Alkohol.
+11. Haushalt (Lebensformen): Andere Haushaltsmitglieder; Informationen zu den einzelnen Haushaltsmitgliedern (Geschlecht, Beziehung zum Befragten, Geburtsjahr oder Alter); verantwortliches Haushaltsmitglied für Wohnkosten; Befragter lebt in einem Haus oder einer Wohnung; Wohneigentum oder Mieterstatus.
+12. Einkommen: Haushaltseinkommen; Währung des Haushaltseinkommens; Haushaltseinkommen ist kleiner oder größer als das Durchschnittseinkommen (und mehrere Perzentile) des Aufenthaltslandes; Befragter oder Ehegatte / Partner haben Sozialversicherung in der Türkei und erhalten Einkommensunterstützung vom Staat; Besitz (Haus, Firma, Land) in der Türkei bzw. im Land des Wohnsitzes.
+13. Informationen über den Partner: Geburtsland; Alter oder Geburtsjahr; Alter des Partners bei Beginn des dauerhaften Aufenthalts im Aufenthaltsland des Befragten; ethnische oder nationale Herkunft der Familie; Konfession; abgeschlossene Ausbildung und Land des Ausbildungsabschlusses; Alphabetisierung; höchster Bildungsgrad; aktuelle Haupttätigkeit; aktueller oder letzter Beruf (ISCO-88 und ISEI); Art der Tätigkeit; Arbeitszeit der aktuellen bzw. der letzten Tätigkeit.
+Demographie: Geschlecht; Geburtsjahr oder Alter.
+Zusätzlich verkodet wurde: Primäre Nummer der Stichprobeneinheit; Familien-Kennung; Datum des Screenings; Befragten- ID; Versionsnummer des Datensatzes; Erscheinungsdatum der Datensatzversion; Migrationsstatus des Befragten; Ort der Datenerhebung (Region); Interviewer-Kennung; Interviewmodus; Jahr des Interviews; Ort der Erhebung zusätzlicher Daten; ID des Proxy-Informanten; Geschlecht und Alter des Proxy-Informanten; Interviewdatum (Proxy-Interview); Ort der Zusatzerhebung für Pilot; Haushaltsgröße (konstruiert); aktuelles Monatseinkommen; aktuelles Monatseinkommen (umgerechnet in Euro),  kaufkraftparitätisch; aktuelles Monatseinkommen und jährliches Haushaltseinkommen in Euro; aktuelles PPP bereinigtes jährliches Haushaltseinkommen; Filter: Befragte im Protokollierungszeitraum 2012; Update oder neuer Eintrag hinzugefügt in Amsterdam); alte Migrantenfamilie (IKE Nicht-Migrant oder Migrant); alte eindeutige ID; neue eindeutige ID (vergeben in Amsterdam); in Amsterdam korrigiertes Alter, Geburtsjahr und Geschlecht des Befragten.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>The 2000 Families: Migration Histories of Turks in Europe project explores migration processes, the multi-generational transmission of social, cultural, religious and economic resources, values and behavior. The research is targeted Turkish migrant and non-migrant families, their members in European countries and those who did not migrate to European countries or returned to Turkey, and involves survey interviews with approximately 6000 family members across three generations. 
+The study consists of three parts: Family Tree (Pilot and Main), Proxy interviews (Pilot and Main) and Personal interviews (Pilot and Main).
+I. Information on first generation man (IKE): male ancestor is migrant or non-migrant; still alive; place of birth; year of birth (age); ethnic family origin; left his place of birth for more than five years; migration within Turkey; country of first destination; place of first destination (NUTS); year or age of internal migration; year or age of international emigration; ever moved to Europe for more than five years and country; year or age of moving; country of current (last) residence; duration of stay in Europe; number of siblings; place in the rank; age; sex of siblings; sibling moved to Europe between 1960-1974; emigration motive(s); spouse is alive; emigration(s) of spouse; year of emigration(s) of spouse; current (last) marriage was his first marriage; end of the first marriage; arranged marriage; year of marriage; ethnic family origin of spouse; spouse is (was) a relative; religion of spouse (or partner); highest level of education; first main job (ISCO-88 and ISEI); job title of current or last job (ISCO-88 and ISEI); kind of job; occupation of the father of IKE (ISCO-88 and ISEI); religion (denomination); left the country before he died; age or year of death; country of death; legal marital status at time of death; information on IKE´s children, grandchildren and great grandchildren. 
+Additionally coded was: children code; grandchildren code; rank number of children, grandchildren and great grandchildren; generation. 
+II. 1. Information about respondent and migration history: migration status; year of first migration; age of first migration; country of current stay (NUTS); name of the city, town or village; degree of urbanization; city is usual place of living; name of the nearest city; usual place of living, degree of urbanization, nearest city, and country of usual place of living; place of birth, and degree of urbanization; nearest city to place of birth; country of place of birth; respondent left his country for at least one year and number of countries; destination countries; age of migration; main reason for moving; regularly movement between two countries; names of these two countries; 
+2. Achieved education and occupation: completed education or still in education; literacy; age when finished education; country in which the respondent finished his education; highest level of education; information on first occupation and current (or last) occupation (ISCO-88 und ISEI); country of first job; occupational status; number of supervised employees; ethnic or national origin of the person who directly manages (managed) the respondent in this current or last job; number of Turkish colleagues; working hours; usual take home pay; currency; covered period of payment. 
+3. Family: marriage and fertility: legal marital status; stable relationship; living together with a partner; number of marriages; age when first married; end of the first marriage due to death of a partner or divorce; divorced; age when first marriage ended; age or year of first divorce; age when married current or most recent spouse; number of children; sex and age of these children. 
+4. Family relations: year of birth of mother and father; parents are alive; living together with parents; country of current stay; frequency of contact with parents; distance to the living place of parents; frequency of provided advice and financial support for own parents in the last 12 months; frequency of received support and financial support; attitude towards intergenerational relations and gender roles; responsible person for family finances. 
+5. Attachment to Turkey and to the country and identity: Turkish citizenship; feeling connected to people from Turkey; portion of friends with Turkish background; citizenship of the country of residence; feeling connected with country nationals; preferred country to win the Eurovision Song Contest; preferred football winner team at Turkish participation; respondent wants to be buried in Turkey, in the country of residence, or somewhere else; sent money to Turkey to support own family members or friends and to support the local community; amount of money sent to Turkey and currency; sent money to Turkey for personal investment or savings, including property; donation of money to national or worldwide charities; number of visits in Turkey in the last five years; frequency of contact with friends or relatives living in Turkey; voted in the last national election in Turkey in June 2011; voted in the last national election (when living outside Turkey) and party voted for; left-right self-placement; party preference. 
+6. Language: ethnic origin of own family; used language when speaking to own children, to spouse or partner, to parents, to close friends, and to colleagues; self-rating of Turkish language skills and of country language (literacy); number of books in the household. 
+7. Discrimination: respondent has been refused or turned down for a job or internship in the last five years and reason for refusal (sex, Turkish or ethnic origins, religion, dress or appearance); further experiences of discrimination and reasons for discrimination; discrimination experiences in Turkey or in the country of residence; worried about being subject of a physical attack because of Turkish / ethnic origin or religion. 
+8. Social capital and participation: number of people the respondent is acquainted with; number of important people; information about the first three of these people (sex, country, Turkish background, relative or friend, level of education, current main activity, frequency of contact); acquainted person able to give advice in dealing with tax or social security institutions, and on employment or education; information on these persons (relative or friend, country, Turkish background). 
+9. Health and life satisfaction: life satisfaction; assessment of personal health; long-standing illness, disability or infirmity; physical or mental illness or disability; limitation of normal day to day activities due to this health problems. 
+10. Religion: denomination; frequency of attending religious services, of praying, of volunteering work for religious organizations; respondent wears a headscarf (only Muslim women), eats pork, drinks alcohol. 
+11. Household (living arrangements): other household members; information about each household member (sex, relationship to the respondent, year of birth or age); responsible household member for housing costs; respondent lives in a house or a flat; residential property or tenant status. 
+12. Income: household income; currency of household income; amount is less or more than the median value (and several percentiles) for country of residence; respondent or spouse / partner have social insurance in Turkey and receive income support from the state; properties (house, business, land) in Turkey respectively in the country of residence. 
+13. Information about partner: country of birth; age or year of birth; age when partner comes to stay in the respondent´s country of residence for the first time; ethnic or national family origin; denomination; finished education and country; literacy; highest level of education; current main activity; current or last job (ISCO-88 and ISEI); kind of job; working hours of current or last job. 
+Demography: sex; year of birth or age. 
+Additionally coded was: primary sampling unit number; family code; date of screening; respondent ID; Version number of the data set; release date of the data set version; respondent´s migration status; place of data collection (region); interviewer code; mode of interview; year of interview; place of additional data collection; ID of proxy informant; sex and age of proxy informant; date of interview (proxy interview); place of additional data collection for Pilot; household size (constructed); current monthly earnings; current monthly earnings adjusted by PPP (purchasing power parity); current monthly earnings and annual household income in euros; current annual PPP-adjusted household income; filter: respondent in the tracing period, 2012; update or new entry (added in Amsterdam); old migrant family (IKE non-migrant or migrant); old unique ID; new unique ID (given in Amsterdam); age, birth year and sex of the respondent (corrected in Amsterdam).</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NO</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CH</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>TR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Türkische Migrantenfamilien und ihre Nicht-Migranten Pendants in fünf Regionen (Ac&amp;#305;payam, Akçaabat, Emirda&amp;#287;, Kulu und &amp;#350;ark&amp;#305;&amp;#351;la) in der Türkei mit hoher Entsendung von Migranten </sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Turkish migrant families and their non-migrant counterparts in five high migration sending regions´(Ac&amp;#305;payam, Akçaabat, Emirda&amp;#287;, Kulu and &amp;#350;ark&amp;#305;&amp;#351;la) in Turkey
+</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample: Multistage Sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<year>2010</year>
+				</startDate>
+				<endDate>
+					<year>2012</year>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Ayse</firstName>
+				<middleName/>
+				<lastName>Guveli</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>University of Essex</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Harry B.G.</firstName>
+				<middleName/>
+				<lastName>Ganzeboom</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>VU University Amsterdam</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Helen</firstName>
+				<middleName/>
+				<lastName>Baykara-Krumme</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Technical University Chemnitz</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Sait</firstName>
+				<middleName/>
+				<lastName>Bayrakdar</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>University of Essex</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Sebnem</firstName>
+				<middleName/>
+				<lastName>Eroglu</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>University Bristol</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Bülent</firstName>
+				<middleName/>
+				<lastName>Hamutci</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>University of Essex</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Bernhard</firstName>
+				<middleName/>
+				<lastName>Nauck</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>Technical University Chemnitz</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Lucinda</firstName>
+				<middleName/>
+				<lastName>Platt</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>London School of Economics</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<person>
+				<firstName>Efe Kerem</firstName>
+				<middleName/>
+				<lastName>Sözeri</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>VU University Amsterdam</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Frekans Research Field and Data Processing Co. Ltd., Istanbul (2010)
+Ipsos KMG, Istanbul (2011-2012)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Persönliches Interview: CAPI (Computerunterstützte persönliche Befragung)
+Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Face-to-face interview: CAPI (Computer Assisted Personal Interview)
+Telephone interview: CATI (Computer Assisted Telephone Interview)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>499</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text/>
+		</note>
+		<note>
+			<language>en</language>
+			<text>This project has been funded by NORFACE (New Opportunities for Research Funding Agency Co-operation in Europe) and involved research partners from the United Kingdom, Germany and the Netherlands.</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.12541</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Guveli, Ayse, Spierings, Niels and Bayrakdar, Sait (2014):
+A Multisite, Multigenerational, and Origin-based Study of 2,000 Families. 
+Migration: Paths of Exploration 2014 (Spring): 7-10</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Guveli, Ay&amp;#351;e; Ganzeboom, Harry; Platt, Lucinda; Nauck, Bernhard; Baykara-Krumme, Helen; Ero&amp;#287;lu, &amp;#350;ebnem; Bayrakdar, Sait; Sozeri, Efe K. and Spierings, Niels (2016): Intergenerational consequences of migration: socio-economic, family and cultural patterns of stability and change in Turkey and Europe. 
+Houndmills, Basingstoke: Palgrave Macmillan</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Guveli, Ayse; Ganzeboom, Harry; Baykara-Krumme, Helen; Platt, Lucinda;  Ero&amp;#287;lu, &amp;#350;ebnem; Spierings, Niels; Bayrakdar, Sait; Nauck, Bernhard and Sozeri, Efe K. (2014):
+2000 Families: Identifying the research potential of an origins-of-migration study. 
+NORFACE Research Programme on Migration Discussion Paper 7. 
+http://www.norface-migration.org/publ_uploads/NDP_07_14.pdf</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

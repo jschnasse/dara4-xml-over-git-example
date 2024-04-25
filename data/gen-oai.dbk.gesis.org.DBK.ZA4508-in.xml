@@ -1,0 +1,1106 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Eurobarometer 65.4 (Jun-Jul 2006)'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Eurobarometer 65.4 (Jun-Jul 2006)'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4508</identifier>
+		<currentVersion>1.1.2</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Eurobarometer 65.4 (Jun-Jul 2006)</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Eurobarometer 65.4 (Jun-Jul 2006)</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>Discrimination in the EU, Organized Crime,  Medical Research, Vehicle Intelligence Systems, and Humanitarian Aid</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>Discrimination in the EU, Organized Crime,  Medical Research, Vehicle Intelligence Systems, and Humanitarian Aid</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Europäische Kommission</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4508?doi=10.4232/1.10979</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.10979</doiProposal>
+	<publicationDate>
+		<date>2012-03-30</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4508</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>doi:10.3886/ICPSR21442.v2</identifier>
+			<type>DOI</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+					<identifier>KAT14</identifier>
+					<!-- Politische Fragen (Issues) -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+					<identifier>KAT56</identifier>
+					<!-- Universität, Forschung, Wissenschaft -->
+					<identifier>KAT58</identifier>
+					<!-- Technik, Energie -->
+					<identifier>KAT59</identifier>
+					<!-- Medizin -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Kriminalität und Gesetzesvollzug</term>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>TRANSPORT UND REISEN</term>
+					<term>WISSENSCHAFT UND TECHNIK</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Crime and law enforcement</term>
+					<term>International politics and organisations</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>TRANSPORT AND TRAVEL</term>
+					<term>SCIENCE AND TECHNOLOGY</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Seit den frühen 1970er Jahren beobachten die Standard &amp; Spezial Eurobarometer der Europäischen Kommission regelmäßig die öffentliche Meinung in den Mitgliedsländern der Europäischen Union. Primärforscher sind die Generaldirektion Kommunikation und bei Spezialthemen weitere Direktionen sowie das Europäische Parlament. Im Laufe der Zeit wurden Kandidaten- und Beitrittsländer in die Standard Eurobarometer-Reihe aufgenommen. Ausgewählte Fragen oder Module können in einigen Samples nicht erhoben worden sein. Bitte ziehen Sie für weitere Informationen bezüglich Länderfilter oder anderer Filterführungen den Basisfragebogen heran. In dieser Studie sind folgende Module vorhanden: 1. Diskriminierung in der Europäischen Union, 2. Kampf gegen organisierte Kriminalität (Zeugenschutz, Identitätsbetrug, Steuerbetrug), 3. Wissenschaft und Forschung (biologische und medizinische Forschung), 4. Justiz, Freiheit und Bereiche der Sicherheitspolitik, 5. Intelligente Fahrzeugsysteme, 6. Humanitäre Hilfe der Europäischen Union (ECHO).
+Themen: 1. Diskriminierung in der Europäischen Union: vermutete derzeitige Verbreitung von Diskriminierung im eigenen Land im Vergleich zu früher (bezogen auf: ethnische Herkunft, Geschlecht, sexuelle Orientierung, Alter, Religion und Glaubensbekenntnis sowie Behinderung); Einstellung zu Aussagen zur Fremdenfeindlichkeit, Homosexualität, Altersdiskriminierung, Religionsfreiheit, ethnischen Diversität, Diskriminierung von Frauen, Unvereinbarkeit von Beruf und Familie, behindertengerechtes Leben; nachteilig wirkende Merkmale eines Bewerbers in einer konkurrierenden Bewerbungssituation: Name, Adresse, Sprechweise, ethnische Herkunft, Geschlecht, sexuelle Orientierung, Alter, Behinderung, religiöse Überzeugung, Raucher, äußeres Erscheinungsbild; Beurteilung von Merkmalen einer Person als vor- oder nachteilig: andere ethnische Herkunft als die mehrheitliche Bevölkerung, Zugehörigkeit zu den Sinti und Roma, Alter unter 25 Jahren, männlich, homosexuell, Alter über 50 Jahren, behindert, andere religiöse Überzeugung als die mehrheitliche Landesreligion, weiblich; vermutete Chancengleichheit im Bereich Beschäftigung in Bezug auf Geschlecht, Alter, Behinderung, Staatsangehörigkeit, Hautfarbe, Ethnie, sexuelle Orientierung, Konfession; Forderung nach vermehrter Einstellung von Minderheiten in politischen Positionen und in Unternehmen; Zustimmung zu Maßnahmen zur Gewährleistung von Chancengleichheit im Bereich Beschäftigung; Einschätzung der Anstrengungen des Landes zur Eingrenzung von Diskriminierung; Institutionen mit wichtiger Funktion bei der Bekämpfung von Diskriminierung; Kenntnis der Rechtslage gegen die Diskriminierung bei der Einstellung neuer Mitarbeiter; präferierte Anlaufstelle im Falle einer selbst erfahrenen Diskriminierung; Kenntnis der eigenen Rechte im Falle einer Diskriminierung; Teilnahmebereitschaft an einer anonymen Befragung zum Thema Diskriminierung, unterschieden nach den Themen: eigene ethnische Herkunft, eigene Religion, eigene gesundheitliche Situation, eigene sexuelle Orientierung).
+2. Kampf gegen organisierte Kriminalität (Zeugenschutz, Identitätsbetrug, Steuerbetrug): Einstellung zum Zeugenschutz; optimaler Zeitpunkt für die Gewährung von Zeugenschutz; Gewährung von Zeugenschutz nur für bestimmte Personen; Einstellung zum Zeugenschutz für Mitglieder von kriminellen Organisationen; Einstellung zu einer gemeinsamen EU-Politik zur grenzüberschreitenden und internationalen Zusammenarbeit beim Zeugenschutz; vermutete Verbreitung von Identitätsbetrug im eigenen Land (Verwendung von Bank- oder Versicherungsdaten anderer Personen); ausreichende Maßnahmen gegen Identitätsbetrug; Bekämpfung von Identitätsbetrug und Steuerbetrug auf europäischer Ebene effektiver als auf nationaler Ebene; vermutete Verbreitung von Steuerbetrug im eigenen Land; ausreichende Maßnahmen gegen Steuerbetrug; Einstellung zum Austausch personenbezogener Steuerinformationen durch Behörden der EU zur Bekämpfung grenzüberschreitender Finanzverbrechen.
+3. Wissenschaft und Forschung (biologische und medizinische Forschung): Interesse an den Wissensgebieten Natur und Umwelt, Wirtschaft und Sozialem, Kunst und Literatur, Wissenschaft und Technik, Sport und Aktivitäten im Freien, medizinische Forschung, Haus und Garten, europäische und internationale Nachrichten, Prominente und Unterhaltung; Kenntnis der Möglichkeit von gemeinschaftlichen Forschungsprojekten von Forschern aus verschiedenen europäischen Ländern; Kenntnis der Forschungsförderung der EU in der Biologie und Medizin; präferierte Informationsquellen über Forschungsförderung; Hauptgrund für Nicht-Kenntnis der Forschungsförderung und Hauptinformationsquellen über Wissenschaft; Interesse für bestimmte Aspekte der Forschung (Ergebnisse der Forschung, Startphase von Forschungsprojekten und wichtigste Ziele der Forschung, Forschungsprozess); vertrauenswürdigste Quelle über biologische und medizinische Forschung; Interesse an Aspekten der Erforschung einer schweren Krankheit, das alltägliche Leben der zuständigen Forscher, Entscheidung der Regierung, neue Entdeckungen, Risiko der Ausbreitung der Krankheit, Diskussion über diese Krankheit (Ursachen, Behandlungen etc.); chronische oder lebensbedrohliche Krankheit einer nahe stehenden Person.  
+4. Justiz, Freiheit und Bereiche der Sicherheitspolitik: Einstellung zur Entscheidung auf europäischer Ebene über Asyl- und Einwanderungspolitik, Austausch von polizeilichen und juristischen Informationen zwischen den Mitgliedsländern, Kampf gegen das organisierte Verbrechen und illegalen Handel, Kampf gegen Drogenmissbrauch, Kontrolle der Außengrenzen, Kampf gegen Terrorismus, Förderung und Schutz der Grundrechte; wichtigstes dieser Themen für die Politik der EU.
+5. Intelligente Fahrzeugsystem: Vorhandensein eines Autos und Besitzverhältnis; am häufigsten befahrene Autostraßen (Autobahn, Stadtstraßen usw.); jährliche Kilometerleistung; Größe des gefahrenen Autos; Neukauf oder Kauf aus zweiter Hand; Alter des Fahrzeugs; beeinflussende Faktoren für die Kaufentscheidung eines Fahrzeugs (Motorleistung, Aussehen, Platz im Innenraum, Komfort, Sicherheit, Haltbarkeit/Robustheit, Kraftstoffverbrauch, Verfügbarkeit der Ausstattung, Markenimage, Umweltfreundlichkeit, Anzahl der Sitze, Wiederverkaufswert, Instandhaltungskosten); Einschätzung der Nützlichkeit von Kraftfahrzeug-Sicherheitssystemen (ABS, ESP, Beobachtungssystem für toten Winkel, anpassungsfähige Scheinwerfer, Warnsystem für Hindernisse und Zusammenstöße, Warnsystem beim Verlassen der Spur, automatisches Notrufsystem (eCall), Echtzeit-Verkehrs- und Reiseinformationen, Geschwindigkeitsalarm, System zur Beobachtung der Wachsamkeit des Fahrers); Hauptgründe für den Verzicht auf diese Sicherheitssysteme; vertrauenswürdigste Informationsquellen bezüglich Kraftfahrzeug-Sicherheitssystemen; präferierte Maßnahmen zur Förderung der Entwicklung dieser Kraftfahrzeug-Sicherheitssysteme; vermutete Verletzung der Privatsphäre durch die Sammlung der Fahrzeuginformationen durch das Notrufsystem (Split: unterschiedliche Frageformulierung).
+6. Humanitäre Hilfe der Europäischen Union (ECHO): Einstellung zu humanitärer Hilfe für Opfer von Naturkatastrophen in außereuropäischen Ländern; Wichtigkeit der Finanzierung humanitärer Hilfsaktionen der Europäischen Union außerhalb der Europäischen Union; Kenntnis von Hilfsorganisationen und Institutionen, die sich an humanitärer Hilfe beteiligen; Informiertheit über die außereuropäischen humanitären Hilfsaktionen des Amts für Humanitäre Hilfe (ECHO); Wichtigkeit der Informiertheit europäischer Bürger über humanitäre Hilfsaktionen, die von der Europäischen Union finanziert werden; Vergleich der Wirksamkeit der humanitären Hilfe, wenn sie von den Mitgliedsstaaten einzeln zur Verfügung gestellt wird oder durch die Europäische Union gemeinsam; präferiertes Vorgehen der entwickelten Länder bei der humanitären Hilfe (Verpflichtung zu höheren Zahlungen für humanitäre Hilfe, Festlegung eines Teils des jährlichen Staatshaushalts für humanitäre Hilfe, Verpflichtung zur Gleichbehandlung aller Krisenopfer, Erhöhung der internationalen Handlungsfähigkeit im Fall einer humanitären Krise, Konzentration auf Risikominderung und Vorbereitung auf Katastrophenfälle). 
+Demographie: Staatsangehörigkeit; Links-Rechts-Selbsteinstufung; Familienstand; Alter bei Beendigung der Ausbildung;Geschlecht; Alter; Beruf; berufliche Stellung; Urbanisierungsgrad; Haushaltszusammensetzung und Haushaltsgröße; Geburtsland des Befragten und seiner Eltern (Migrationshintergrund); Besitz eines Mobiltelefons; Festnetztelefon im Haushalt; Freundschaft oder Bekanntschaft mit: Personen anderer ethnischer Herkunft, Roma, Homosexuellen, Behinderten, Personen anderen Glaubens; Konfession; Einschränkung bei alltäglichen Tätigkeiten durch gesundheitliche Probleme.
+Zusätzlich verkodet wurde: Befragten-ID; Land; Interviewdatum; Interviewdauer (Interviewbeginn und Interviewende); anwesende Personen während des Interviews; Kooperationsbereitschaft des Befragten; Ortsgröße; Region; Interviewsprache; Fragebogen-Split; Interviewer-ID; Gewichtungsfaktor.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Since the early 1970s the European Commission´s Standard &amp; Special Eurobarometer are regularly monitoring the public opinion in the European Union member countries. Principal investigators are the Directorate-General Communication and on occasion other departments of the European Commission or the European Parliament. Over time, candidate and accession countries were included in the Standard Eurobarometer Series. Selected questions or modules may not have been surveyed in each sample. Please consult the basic questionnaire for more information on country filter instructions or other questionnaire routing filters. In this study the following modules are included: 1. Discrimination in the European Union, 2. Fighting against organised crime (witness protection, identity fraud, tax fraud), 3. Science and research (biological and medical research), 4. Justice, freedom and security policy areas, 5. Intelligent systems in vehicles, 6. European Union Humanitarian Aid (ECHO).
+Topics: 1. Discrimination in the European Union: perceived extent of discrimination in the own country with regard to: ethnic origin, gender, sexual orientation, age, religion, disability; development of the extent of discrimination in the own country with regard to the aforementioned characteristics compared to five years ago; attitude towards the following statements on discrimination in the own country: people of different ethnic origin are more often being controlled by the police than the rest of the population, homosexuality is still a taboo, people over 50 are often considered as no longer capable of working efficiently, everyone is free to practice his / her belief; attitude towards selected statements: people of different ethnic origin enrich culture of own country, getting into nightclubs is harder for people of different ethnic origin, family responsibilities are an obstacle for women to accessing management positions, difficult for homosexuals to state their sexual orientation in the workplace, wearing of visible religious symbols in the workplace is acceptable, financial support for disabled persons in order to eliminate physical obstacles; disadvantageous criteria for equally qualified applicants in a recruiting process: name, address, way of speaking, skin colour or ethnic origin, gender, sexual orientation, age, disability, expression of religious belief, smoker, look physical appearance; advantageousness of belonging to the following groups: different ethnic origin than the rest of the population, Roma, aged under 25, men, homosexual, aged over 50, disabled, different religion, women; likelihood to get a job, be accepted for training or get promoted for the following people with equivalent qualifications: woman compared with a man, person aged over 50 compared with a person under 50, disabled person compared with an able-bodied person, foreigner compared to a national, coloured person compared to a white person, person with different ethnic origin, homosexual person, person with different religion, person aged under 25 compared to a person over 25; attitude towards increasing the share of selected groups: members of parliament of different ethnic origin, female members of parliament, women in management positions, people aged over 50 in companies, disabled people in the workplace; attitude towards the adoption of specific measures to provide equal opportunities in the field of employment on the basis of the following characteristics: ethnic origin, gender, age, religious belief, disability, sexual orientation; assessment of the efforts in the own country to fight discrimination as sufficient; most important players in fighting discrimination; knowledge test on the existence of national laws prohibiting discrimination on the basis of: ethnic origin, gender, sexual orientation, age, religion, disability; preferred points of contact in case of experienced discrimination: national body for equal treatment, lawyer to take legal action, trade union, association, international institutions, EU; awareness of own rights in case of being a victim of discrimination or harassment; attitude towards providing anonymous information as part of a census in order to fight discrimination about: ethnic origin, religion, health situation, sexual orientation.
+2. Fighting against organised crime (witness protection, identity fraud, tax fraud): preference for witness protection in the following cases: all kinds of crime, only in certain cases, not in any circumstances; preference for witness protection: before trial, during trial, after trial; preference for witness protection for the following groups of persons: anyone who witnessed a crime and feels in danger, anyone who witnessed a crime and feels in danger and provides relevant information for the case, only if the witness is a victim of the crime; attitude towards protecting members of criminal organisations if they provide relevant information for the case; attitude towards an EU policy on cross-border and international cooperation on witness protection; estimated extent of identity fraud in the own country; assessment of the national measures against identity fraud as sufficient; assessment of the efficiency of tackling the issue of identity fraud on European rather than on national level; estimated extent of tax fraud in the own country; assessment of the national measures against tax fraud as sufficient; assessment of the efficiency of tackling the issue of tax fraud on European rather than on national level; attitude towards an exchange of personal tax information between EU member states in order to fight cross-border financial crime.
+3. Science and research (biological and medical research): interest in the following topics: nature and environment, economic and social matters, art and literature, science and technology, sports and outdoor activities, medical and health research, home and gardening, European and international news, celebrities and entertainment; awareness of collaborative research projects in the fields of biology or medical sciences with colleagues from different EU countries; awareness of the EU funding the aforementioned projects; most common way of the information on the existence of such projects: respondent was given the information explicitly, deduction from other information, in the context of searching for information on sciences or medicine; main sources of information; reasons for not being aware of EU-funded projects in the fields of science and / or medical research; main sources of information on science and / or medical research; reasons for not being interested in science and / or medical research; main sources of information on personal subjects of interest; interest in selected aspects of biological and medical research: research results, launch of research projects and main research objectives, the way research is carried out; most trustworthy institutions or persons with regard to information on biological and medical research: museums or exhibitions, university or government laboratory researchers, medical staff, teachers, colleagues or friends, government, international institutions, NGOs, specialized journalists, TV journalists, other journalists; most important aspects of interest with regard to research on major diseases; chronic diseases of respondent or family member.
+4. Justice, freedom and security policy areas: attitude towards more decision making on EU level in the following fields: asylum and migration policy, exchange of police and judicial information between member states, fight against organised crime, fight against drug abuse, control of external borders, fight against terrorism, protection of fundamental rights; prioritized fields of EU action.
+5. Intelligent systems in vehicles: car use: own car, company or fleet car, use someone else’s car, rarely or never drive, no driving licence; mainly used type of roads: motorways, urban roads, rural roads, two or three of these equally; driven kilometres per year; size of used car; new or second hand car; age of the car; most important criteria with regard to the purchase of a car; usefulness of selected car safety systems and desired equipment of the next car with each of these systems: ABS, ESP, Blind Spot Monitoring System, adaptive head lights, obstacle and collision warning, lane departure warning system, Ecall, real time traffic and travel information, speed alert, vigilance monitoring of the driver; importance of each of the following reasons for not having the aforementioned car safety systems: undermining driver’s freedom, reducing driver’s responsiveness and alertness by creating an artificial feeling of being protected, fear of excessive visual and sound warnings, fear of unreliable electronic systems, difficulty to understand how these systems work, too expensive to buy, too expensive to service, cars are already safe enough; most trustworthy institutions or persons with regard to information on car safety systems: public authorities, car manufacturers, automobile clubs, consumer associations, media in general, specialized media, car dealers, driving schools, insurance companies, family and friends, no interest; preferred measure of public authorities in order to promote the development of car safety systems: large scale communication campaigns, tax incentives for cars equipped with these systems, making these systems mandatory by law, promote technological research and development; assessment of an emergency call system in the car as (split A): risk of intrusion that deters respondent from having such a system, minor inconvenience, compared to the usefulness of the system, no inconvenience; assessment of real time traffic and travel information systems in the car as (split B): risk of intrusion that deters respondent from having such a system, minor inconvenience, compared to the usefulness of the system, no inconvenience.
+6. European Union Humanitarian Aid (ECHO): attitude towards EU humanitarian aid for victims of natural disasters or conflicts outside the EU; importance of the EU funding humanitarian aid activities outside the European Union; naming and awareness of organisations involved in or funding humanitarian aid: United Nations High Commissioner for Refugees (UNHCR), UNICEF, World Food Programme, Red Cross, Europe (including EU, European Commission, European Community), NGOs; awareness of and self-rated knowledge on EU humanitarian aid activities outside the EU; importance of the European citizens being informed about humanitarian aid activities funded by the European Union; most efficient ways of giving humanitarian aid: on national level, through the European Commission as it guarantees better use of financial resources, through the European Commission as needs are better satisfied, through the European Commission as it shows Europeans’ sympathy for victims; importance of each of the following measures of humanitarian aid (scale): increase funding, dedicate a share of the national budget to humanitarian aid, ensure equal treatment of victims of highly publicized and of forgotten crises, improve international response capacity to humanitarian crises, focus on risk reduction and disaster preparedness.
+Demography: nationality; left-right self-placement; marital status; age at end of education; sex; age; occupation; professional position; type of community; household composition and household size; country of birth; parents’ country of birth; own a mobile phone and fixed (landline) phone; friendship or acquaintance with: people of different ethnic origin, Roma, homosexuals, disabled persons, persons with different religious affiliation; religious denomination; limitation in daily activities due to health problems.
+Additionally coded was: respondent ID; country; date of interview; time of the beginning of the interview; duration of the interview; number of persons present during the interview; respondent cooperation; size of locality; region; language of the interview; questionnaire split; interviewer ID; weighting factor.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-GBN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-NIR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CY</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CZ</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>EE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LV</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>MT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>BG</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>RO</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Bevölkerung der jeweiligen Nationalitäten der Mitgliedsstaaten der EU, wohnhaft in den jeweiligen Mitgliedsstaaten, im Alter von 15 Jahren und älter. Die Befragung wurde ebenfalls in den beiden Beitritts-Kandidatenländern (Bulgarien und Rumänien) durchgeführt. Sie umfasst die nationale Bevölkerung sowie die Bürger aller Mitgliedsstaaten der Europäischen Union, die in den jeweiligen Ländern wohnhaft sind und über zum Ausfüllen des Fragebogens ausreichende Kenntnis der Landessprache verfügen.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Population of the respective nationalities of the European Union Member States, resident in each of the Member States and aged 15 years and over. It was also conducted in the two acceding countries (Bulgaria and Romania). The survey covers the national population of citizens as well as the population of citizens of all the European Union Member States that are residents in these countries and have a sufficient command of the national languages to answer the questionnaire.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Auswahlverfahren Kommentar: Mehrstufig geschichtete nach dem Random-Route-Verfahren
+(Geburtstagsschlüssel)</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-13</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-14</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-05</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Belgium</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Belgien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-10</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Netherlands</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-13</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-09</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-07</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Luxembourg</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Luxemburg</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-12</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Denmark</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Dänemark</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-07</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-05</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland (Republic)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland (Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-08</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-09</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Northern Ireland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Nordirland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-12</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Greece</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Griechenland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-11</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-12</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Spain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Spanien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-09</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-07</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-07</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-06</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Finland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Finnland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-13</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Sweden</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweden</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-08</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-02</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Austria</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Österreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-07</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Cyprus (Republic)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Zypern (Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-13</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-02</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Czech Republic</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Tschechische Republik</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-09</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-03</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Estonia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Estland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-10</date>
+				</startDate>
+				<endDate>
+					<date>2006-06-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Hungary</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Ungarn</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-13</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-12</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Latvia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Lettland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-13</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Lithuania</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Litauen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-09</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-06</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Malta</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Malta</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-10</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-04</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Poland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Polen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-13</date>
+				</startDate>
+				<endDate>
+					<date>2006-06-29</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovakia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowakei</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-10</date>
+				</startDate>
+				<endDate>
+					<date>2006-07-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovenia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowenien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-07</date>
+				</startDate>
+				<endDate>
+					<date>2006-06-20</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Bulgaria</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Bulgarien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2006-06-13</date>
+				</startDate>
+				<endDate>
+					<date>2006-06-30</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Romania</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Rumänien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>European Commission, Brussels;
+DG Communication
+Public Opinion Analysis Sector</institutionName>
+				<contributorType>Researcher</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Dimarso, Brussels, Belgium</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Aisa, Prague, Czech Republic</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS GALLUP DK, Copenhagen, Denmark</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest, Munich, Germany</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Emor, Tallinn, Estonia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS ICAP, Athens, Greece</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Demoscopia, Madrid, Spain</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Sofres, Montrouge, France</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS MRBI, Dublin, Ireland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Abacus, Milano, Italy</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Synovate, Nicosia, Rep. of Cyprus</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Latvia, Riga, Latvia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS GALLUP Lithuania, Vilnius, Lithuania</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS ILReS, Luxembourg, Luxembourg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Hungary, Budapest, Hungary</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MISCO, Valletta, Malta</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS NIPO, Amsterdam, Netherlands</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Österreichisches GALLUP, Vienna, Austria</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS OBOP, Warsaw, Poland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS EUROTESTE, Lisbon, Portugal</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>RM PLUS, Maribor, Slovenia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS AISA SK, Bratislava, Slovakia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS GALLUP Oy, Espoo, Finland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS GALLUP, Stockholm, Sweden</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS UK, London, United Kingdom</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS BBSS, Sofia, Bulgaria</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS CSOP, Bucharest, Romania</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Opinion, Brussels (international co-ordination)</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung (CAPI) mit standardisiertem Fragebogen </freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>463</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>In allen Ländern wurden je ca. 1000 Interviews durchgeführt, außer in der Republik Zypern, in Luxemburg und Malta. Dort wurden je ca. 500 Interviews durchgeführt.
+
+Das thematische Modul ´Kampf gegen organisiertes Verbrechen´ (QB) wurde nur in den Mitgliedsländern der EU25 abgefragt.
+
+Das thematische Modul ´Freiheit eine Sicherheitspolitik´ (QB) wurde nur in den Mitgliedsländern der EU25 abgefragt.
+
+Das thematische Modul ´Intelligente Systeme in Kraftfahrzeugen´ (QB) wurde nur in den Mitgliedsländern der EU25 abgefragt.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The topical module on ´Fighting against organized crime´ (QB) was only surveyed in the EU 25 member countries.
+
+The topical module on ´Freedom an security policy´ (QB) was only surveyed in the EU 25 member countries.
+
+The topical module on ´Intelligent systems in vehicles´ (QB) was only surveyed in the EU 25 member countries.
+</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.10064</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: Special Eurobarometer 263 / Wave 65.4: 
+Discrimination in the European Union. Survey requested by Directorate General 
+Employment, Social Affairs and Equal Opportunities, 
+and coordinated by Directorate General Communication (European Commission). Brussels, January 2007.
+      http://ec.europa.eu/public_opinion/archives/ebs/ebs_263_en.pdf
+      http://ec.europa.eu/public_opinion/archives/ebs/ebs_263_sum_en.pdf
+      http://ec.europa.eu/public_opinion/archives/ebs/ebs_263_de.pdf </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: Special Eurobarometer 264 / Wave 65.4: 
+The role of the European Union in fighting against organised crime. 
+Survey requested by Directorate General Justice, Freedom and Security, 
+and coordinated by Directorate General Communication (European Commission). Brussels, November 2006.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: Special Eurobarometer 265 / Wave 65.4/66.3: 
+Medical Health and Research. A Special Eurobarometer Public Survey. 
+Report for the Directorate General for Research, 
+coordinated by Directorate General Communication (European Commission). Luxembourg, 2007.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: Special Eurobarometer 266 / Wave 65.4: 
+The role of the European Union in Justice, Freedom and Security policy areas.
+Survey requested by Directorate General Justice, Freedom and Security, and
+coordinated by Directorate General Communication (European Commission). Brussels, February 2007.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: Special Eurobarometer 267 / Wave 65.4 : 
+Use of Intelligent systems in vehicles. Survey requested by 
+Directorate General Information Society and Media, and 
+coordinated by Directorate General Communication (European Commission). Brussels, December 2006.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: Special Eurobarometer 268 / Wave 65.4: 
+Humanitarian Aid. Survey requested by Directorate General Humanitarian Aid 
+and coordinated by Directorate General Communication (European Commission). 
+Brussels, October 2006. </freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

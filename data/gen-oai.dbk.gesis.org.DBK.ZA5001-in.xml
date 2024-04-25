@@ -1,0 +1,190 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Religion Monitor 2008 - Muslim Religiosity in Germany'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Religionsmonitor 2008 - Muslimische Religiosität in Deutschland'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5001</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Religionsmonitor 2008 - Muslimische Religiosität in Deutschland</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Religion Monitor 2008 - Muslim Religiosity in Germany</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Stefan</firstName>
+				<middleName/>
+				<lastName>Huber</lastName>
+				<affiliation>
+					<affiliationName>Centrum für Religionswissenschaftliche Studien (CERES), 
+Ruhr-Universität Bochum</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<institution>
+				<institutionName>Bertelsmann Stiftung, Gütersloh</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5001?doi=10.4232/1.10333</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.10333</doiProposal>
+	<publicationDate>
+		<date>2011-03-30</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>C - Daten und Dokumente sind für die akademische Forschung und Lehre nur nach schriftlicher Genehmigung des Datengebers zugänglich. Das Datenarchiv holt dazu schriftlich die Genehmigung unter Angabe des Benutzers und des Auswertungszweckes ein. </freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>C - Data and documents are only released for academic research and teaching after the data depositor’s written authorization. For this purpose the Data Archive obtains a written permission with specification of the user and the analysis intention.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5001</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT57</identifier>
+					<!-- Religion und Weltanschauung -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Religion und Werte</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Migration</term>
+					<term>Religion and values</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellung zur Religion und Verhalten nach den Regeln des Glaubens.Gottesglauben und Beten.
+Themen: Wichtigkeit der Lebensbereiche; Konfession; frühereKonfession; Glaubensrichtung innerhalb des Islams; religiöse Erziehungdes Befragten; Wichtigkeit des Einhaltens religiöser Vorschriften wieSpeisevorschriften, Kleidungsvorschriften, Fasten, rituelle Reinheit,Hadsch und Pflichtabgabe leisten; Häufigkeit des Verzehrs vonSchweinefleisch und des Konsums von Alkohol; Forderung nach Kopftuchtragen für die muslimische Frau; Häufigkeit des Betens vonPflichtgebeten und persönlichen Gebeten; Häufigkeit des Meditierens undder Teilnahme am Freitagsgebet; Anzahl der verschiedenen besuchtenMoscheen für das Gemeinschaftsgebet; Häufigkeit des Nachdenkens überreligiöse Themen; Häufigkeit des Gefühls göttlicher Mitteilungen unddes Eingriffs Gottes in das eigene Leben; Gefühl mit Allem Eins zusein; Gedanken über Leid in der Welt; kritisches Denken über religiöseLehren; Überdenken der eigenen religiösen Einstellung; Häufigkeit desLesens religiöser Bücher; Selbsteinschätzung der Religiosität und derSpiritualität; Wichtigkeit verschiedener Aspekte von Religiosität(Skala: Interesse an religiösen Themen, Pflichtgebet, persönlichesGebet, Meditation, Glaube an Gott, Teilnahme am Freitagsgebet, Lebennach dem Tod, Leben nach den religiösen Geboten, religiöse Themenhinterfragen, auf der Suche nach der Religiosität, Glaube anübersinnliche Mächte, Glaube an Astrologie, Glaube an Dämonen undEngel); Glaube an den Teufel, die Hölle und die göttliche Verheißungdes Paradieses; Auswirkung der Religiosität auf die eigenenLebensbereiche, Erziehung, Partnerschaft, Arbeit, Freizeit, politischeEinstellung, Umgang mit der Natur, Sexualität, Krankheit, Sinn desLebens, Lebenskrisen, wichtige Ereignisse in der Familie, Wahl desEhepartners und die Namensgebung der Kinder; Erleben von Gott oderGöttlichem; wahrer Kern in jeder Religion; Offenheit gegenüber allenReligionen; Zurückgreifen auf verschiedene religiöse Traditionen;Glaube an das nahe Ende der Welt; Bereitschaft für die Religion großeOpfer zu bringen; Missionierung für die eigene Religion; Wachsamkeitgegenüber dem Bösen; nur die eigene Religion ist die wahre; nurMitglieder der eigenen Religion gelangen zum Heil; Bekämpfung desBösen.
+Demographie: Alter; Geschlecht; Zusammenleben mit einem Partner;Kinderzahl; Erwerbstätigkeit; Urbanisierungsgrad; Alter bei Beendigungder Schulausbildung; Geburtsland; Staatsbürgerschaft; Wohndauer inDeutschland; Ausüben eines Ehrenamts; Mitgliedschaft in einemreligiösen Verein; Schulbildung; Parteineigung; Wunsch nach einerislamischen Partei in Deutschland. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Muslimische Bevölkerung</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Auf der Basis von typisch türkischen, iranischen, bosnischen und arabischen Namen wurde ein disproportionales Sample gezogen. Die Auswahl der Namen erfolgte aus dem aktuellen Telefonbuch. Quotenauswahl.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2008-06-13</date>
+				</startDate>
+				<endDate>
+					<date>2008-07-26</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>TNS Emnid, Bielefeld</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonische Befragung mit standardisiertem Fragebogen (CATI)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>135</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Auf die türkischen Migranten entfielen etwa 1100 Interviews und auf die
+iranischen, bosnischen und arabischen Migranten jeweils ca. 300
+Interviews.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Bertelsmann Stiftung: 
+Religionsmonitor 2008 Muslimische Religiosität in Deutschland:
+Überblick zu religiösen Einstellungen und Praktiken.
+Gütersloh: Bertelsmann Stiftung 2008
+http://www.bertelsmann-stiftung.de/cps/rde/xbcr/SID-292E4334-6B019A57/bst/xcms_bst_dms_25864_25865_2.pdf</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

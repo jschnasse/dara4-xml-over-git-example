@@ -1,0 +1,225 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Racist and Antisemitic Prejudices (Germany)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Rassische und antisemitische Vorurteile (Deutschland)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA0194</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Rassische und antisemitische Vorurteile (Deutschland)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Racist and Antisemitic Prejudices (Germany)
+</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Melvin</firstName>
+				<middleName/>
+				<lastName>Tumin</lastName>
+				<affiliation>
+					<affiliationName>Princeton University, Princeton, N.J.
+</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA0194?doi=10.4232/1.0194</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.0194</doiProposal>
+	<publicationDate>
+		<year>1964</year>
+	</publicationDate>
+	<availability>
+		<availabilityType>Delivery</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA0194</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Kulturelle und nationale Identität</term>
+					<term>Politische Ideologie</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Cultural and national identity</term>
+					<term>Political ideology</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Politische Sozialisation und demokratische Einstellungen. Einstellungzu Juden.
+Themen: Historisches Wissen und Informationsquellen; Bewertung desHitler-Regimes; Charakterisierung von Juden, Amerikanern, Polen undRussen; soziale Distanz zu ethnischen Gruppen; Erziehungsziel derSchule; Einstellung zur Ausbildung; Zufriedenheit mit dem Erreichten;Zukunftserwartungen; eigene Wahlbeteiligung; Wahlverhalten bei früherenWahlen; Parteimitgliedschaft; Parteipräferenz; eigene Arbeitslosigkeitim vergangenen Jahr; Religiosität und Konfession der Eltern; sozialeMobilität.
+Skalen und Indizes: Antisemitismus,Ethnozentrismus, Autoritarismus,Optimismus und Anomie.
+Demographie: Alter (klassiert); Geschlecht; Familienstand;Familienzusammensetzung; Kinderzahl; Konfession; Religiosität;Schulbildung; Berufsausbildung; Beruf; Berufstätigkeit; Einkommen;Haushaltseinkommen; Haushaltsgröße; Haushaltungsvorstand; sozialeHerkunft; Ortsgröße; Bundesland; regionale Herkunft; Mitgliedschaft.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Political socialization and democratic attitudes. Attitude to Jews. 
+Topics: Historical knowledge and sources of information; evaluation ofthe Hitler regime; characterization of Jews, Americans, Poles andRussians; social distance from ethnic groups; education goals of theschool; attitude to training; satisfaction with what one has achieved;future expectations; personal election participation; behavior at thepolls in earlier elections; party membership; party preference;personal unemployment in the past year; religiousness and religiousdenomination of parents; social mobility. 
+Scales and indices: antisemitism, ethnocentrism, authoritarianism,optimism and anomy. 
+Demography: age (classified); sex; marital status; family composition;number of children; religious denomination; religiousness; schooleducation; vocational training; occupation; employment; income;household income; size of household; head of household; social origins;city size; state; regional origins; membership. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+			<geographicCoveragesFree>
+				<geographicCoverageFree>
+					<language>en</language>
+					<freetext>FRG incl. West Berlin</freetext>
+				</geographicCoverageFree>
+				<geographicCoverageFree>
+					<language>de</language>
+					<freetext>BRD einschl. West-Berlin</freetext>
+				</geographicCoverageFree>
+			</geographicCoveragesFree>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Alter: 14-50 Jahre</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Age: 14-50.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufige Zufallsauswahl 
+</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Multi-stage random sample
+</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>1961-11</monthyear>
+				</startDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>DIVO, Frankfurt
+</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Mündliche Befragung mit standardisiertem Fragebogen
+</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Oral survey with standardized questionnaire
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie ist Teil einer international vergleichenden Studie
+(ZA-Studien-Nrn. 0192 bis 0194).
+Neben dem oben beschriebenen Datensatz existiert noch ein
+einfachgelochter Datensatz mit 1 Karte, der eine Variablenauswahl in
+Form von Indizes enthält.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The study is part of an international comparative study (ZA Study
+Nos. 0192 to 0194). Besides the data set described above there exists
+also a single-punched data set with 1 card containing a selection of
+variables in the form of indices.
+</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Tumin, Melvin: 
+Intergroup Attitudes of Youth and Adults in England, France and Germany. Part I and II. 
+Princeton University: hekt. 1964</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

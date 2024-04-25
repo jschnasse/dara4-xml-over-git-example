@@ -1,0 +1,465 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'NUBBEK - National Survey on Education, Care, and Development in Early Childhood'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'NUBBEK - Nationale Untersuchung zur Bildung, Betreuung und Erziehung in der frühen Kindheit'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA5854</identifier>
+		<currentVersion>3.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>NUBBEK - Nationale Untersuchung zur Bildung, Betreuung und Erziehung in der frühen Kindheit</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>NUBBEK - National Survey on Education, Care, and Development in Early Childhood</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Wolfgang</firstName>
+				<middleName/>
+				<lastName>Tietze</lastName>
+				<affiliation>
+					<affiliationName>PädQUIS gGmbH, Berlin</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Fabienne</firstName>
+				<middleName/>
+				<lastName>Becker-Stoll</lastName>
+				<affiliation>
+					<affiliationName>Staatsinstitut für Frühpädagogik, München</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Joachim</firstName>
+				<middleName/>
+				<lastName>Bensel</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Verhaltensbiologie, Kandern</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Gabriele</firstName>
+				<middleName/>
+				<lastName>Haug-Schnabel</lastName>
+				<affiliation>
+					<affiliationName>Forschungsgruppe Verhaltensbiologie, Kandern</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Bernhard</firstName>
+				<middleName/>
+				<lastName>Kalicki</lastName>
+				<affiliation>
+					<affiliationName>Deutsches Jugendinstitut, München</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Heidi</firstName>
+				<middleName/>
+				<lastName>Keller</lastName>
+				<affiliation>
+					<affiliationName>Psychologisches Institut, Universität Osnabrück</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Birgit</firstName>
+				<middleName/>
+				<lastName>Leyendecker</lastName>
+				<affiliation>
+					<affiliationName>Arbeitseinheit Entwicklungspsychologie, Ruhr-Universität Bochum </affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5854?doi=10.4232/1.12297</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12297</doiProposal>
+	<publicationDate>
+		<date>2015-07-20</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5854</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>1</identifier>
+			<type>VerbundFDB</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT38</identifier>
+					<!-- Beruf -->
+					<identifier>KAT52</identifier>
+					<!-- Gruppe -->
+					<identifier>KAT53</identifier>
+					<!-- Familie -->
+					<identifier>KAT55</identifier>
+					<!-- Erziehung, Schulwesen -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>BILDUNG</term>
+					<term>Kinder</term>
+					<term>ARBEIT UND BESCHÄFTIGUNG</term>
+					<term>Familie und Ehe</term>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>EDUCATION</term>
+					<term>Children</term>
+					<term>LABOUR AND EMPLOYMENT</term>
+					<term>Family life and marriage</term>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<freeKeywords>
+		<freeKeyword>
+			<language>de</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>frühkindliche Erziehung</keyword>
+				<keyword>Elementareinrichtung</keyword>
+				<keyword>soziale Herkunft</keyword>
+				<keyword>Entwicklung</keyword>
+				<keyword>Kind</keyword>
+				<keyword>Gesundheit</keyword>
+				<keyword>Eltern-Kind-Beziehung</keyword>
+				<keyword>Kinderbetreuung</keyword>
+				<keyword>Migration</keyword>
+				<keyword>Tagesmutter</keyword>
+				<keyword>Mutter</keyword>
+				<keyword>Kompetenztest</keyword>
+			</keywords>
+		</freeKeyword>
+		<freeKeyword>
+			<language>en</language>
+			<keywordSchema>TheSoz</keywordSchema>
+			<keywords>
+				<keyword>early childhood education and care</keyword>
+				<keyword>elementary education facility</keyword>
+				<keyword>social background</keyword>
+				<keyword>development</keyword>
+				<keyword>child</keyword>
+				<keyword>health</keyword>
+				<keyword>parent-child relationship</keyword>
+				<keyword>child care</keyword>
+				<keyword>migration</keyword>
+				<keyword>day-care mother</keyword>
+				<keyword>mother</keyword>
+				<keyword>Competency test</keyword>
+			</keywords>
+		</freeKeyword>
+	</freeKeywords>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Pädagogische Qualität im deutschen Früherziehungssystem (familiär und außerfamiliär). 
+NUBBEK bietet eine empirische Basis zur Erforschung der familiären und außerfamiliären Betreuung von zweijährigen (n = 1242) und vierjährigen (n = 714) Kindern. 27% der Kinder hatten einen türkischen oder einen russischen Migrationshintergrund. Die NUBBEK Studie orientierte sich an einer sozialökologischen Konzeption von Bildung und Entwicklung. Orientierungsqualität, Strukturqualität sowie Prozessqualität wurden weitgehend parallel sowohl für das Betreuungssetting Familie erhoben als auch für 567 Krippen-, Kindergarten- und Tagespflegegruppen. 
+Die Merkmale der Struktur- und Orientierungsqualität wurden über Fragebögen und Interviews mit Gruppenerzieherinnen und Einrichtungsleiterinnen sowie Tagespflegepersonen erfasst, teilweise auch durch direkte Beobachtungen. Als weitere Quelle dienten Angaben zu den (schriftlichen) pädagogischen Konzeptionen sowie zu persönlichen Merkmalen und Erziehungszielen der Pädagoginnen. Die pädagogische Prozessqualität wurde über die Integrierte Qualitäts-Skala (IQS) erhoben: in den Kindergartengruppen über die revidierte Kindergarten-Skala und ihre Zusatzmerkmale (KES-RZ) sowie über ihre speziell auf die Bildungsbereiche Literalität, Mathematik, Naturwissenschaft und interkulturelles Lernen zielende Erweiterung (KES-E); in den Krippengruppen über die revidierte Krippen-Skala (KRIPS-R), in den altersgemischten Gruppen über dieses gesamte Instrumentarium und in den Tagespflegestellen über die revidierte Tagespflege-Skala (TAS-R). Zusätzlich wurde in allen Betreuungssettings die Caregiver Interaction Scale (CIS) zur Erfassung des Interaktionsklimas sowie ein Aktivitätsfragebogen zu verschiedenen Aktivitäten mit den einzelnen Kindern (AKFRA) eingesetzt. Den Qualitätseinstufungen in den einzelnen Settings lagen jeweils mehrstündige Beobachtungen durch geschulte Beobachter zugrunde. 
+Analog zu den außerfamiliären Betreuungssettings wurde auch im Betreuungssetting Familie nach den Bereichen Struktur-, Orientierungs- und Prozessqualität unterschieden. Die Merkmale der Strukturqualität, wie Zusammensetzung der Familien, Bildungsstatus der Mütter, sozio-ökonomischer Status wurden über die Interviews in den Familien erfasst, Persönlichkeitsmerkmale der Mütter wie die Big Five, allgemeine Depressivität (ADS) über Fragebögen; ebenso wurden die Merkmale der Orientierungsqualität, wie Rolleneinstellungen der Mütter und Betonung bestimmter Erziehungsziele (Gehorsam, Autonomie, prosoziales Verhalten) über Mütterfragebögen erhoben. Merkmale der Prozessqualität wie das mütterliche Interaktionsklima mit dem Kind (CIS) und der Anregungsgehalt, den das Kind in der Familie erfährt (HOME), wurden über Beobachtungen der Erheber, Aktivitäten mit dem Kind (AKFRA) und die Mutter-Kind-Beziehung (PIANTA) über Fragebögen erfasst. 
+I. Kinddatensatz: 
+1. Erfassung des Anpassungsverhaltens (Vineland adaptive behavior scales II) in den Dimensionen Kommunikation (expressive, rezeptive und Schriftsprache), Alltagsfertigkeiten und Motorik (Grob- und Feinmotorik). 
+2. Erfassung der sozial-emotionalen Entwicklung des Kindes (z.B. Leistungsmotivation, Selbstbehauptung Folgsamkeit, Empathie, prozoziale Peerbeziehung (ITSEA, Social Scills Improvement System-Skala (SIS); Problemverhalten (Child Behaviour Checklist CBCL), Häufigkeit alterspezifischer sowohl motorischer als auch kognitiver Aktivitäten des Kindes im Familiensetting (AKFRA); Gesundheitszustand des Kindes: Geburtsgewicht und Geburtsgröße, geschätztes aktuelles Gewicht und Größe des Kindes; Geburtsschwangerschaftswoche, Reifegrad; Kind wurde oder wird gestillt; Lebensmonat bis zum dem gestillt wurde; Schwierigkeiten während der ersten Monate nach der Geburt; Bereitschaft zur Durchführung geforderter Impfungen; Schlafschwierigkeiten; Zufriedenheit mit den Schlafgewohnheiten; Kinderkrankheiten; Häufigkeit ausgewählter Erkrankungen in den letzen 12 Monaten; physische Gesundheitsbeeinträchtigungen bzw. psychische oder soziale Entwicklungsbeeinträchtigungen; Angaben zu erlittenem Unfall und stationärem Krankenhausaufenthalt; Beziehung zum Kind, Nähe und Konflikte: Mutter-Kind-Beziehung (Child Parent Relationship Scale nach Pianta); Erziehungsverhalten (Härte, Strafe, kindzentrierte Kommunikation, emotionale Wärme und autoritäre Haltung); Erziehungsverhalten (APQ); Erziehungsziele; Bildungsorientierungen- und Erwartungen: Bildungsaspiration für das Kind (Idealvorstellung und erwartet); Verantwortlichkeit für Bildung und Erziehung; Geschlechtsrollen-Orientierungen: Einstellung zur Berufstätigkeit von Frauen (Skala); Erziehungskonflikt-Skala (EKS); Partnerschaftsqualität; Lebenszufriedenheit: Zufriedenheits-Skalen für ausgewählte Lebensbereiche; Depressivität (allgemeine Depressionsskala (ADS); persönliche Selbstcharakterisierung (Big Five: Extraversion, Verträglichkeit, Gewissenhaftigkeit, geringe emotionale Stabilität, Offenheit für neue Erfahrungen). 
+Demographie: Geschlecht und Alter (in Monaten) des Zielkindes; Altersgruppe, Einrichtungsart; Gruppenart; Migrationsgruppe. 
+Zusätzlich verkodet wurde: Zielkind-ID, Einrichtungs-ID und Gruppen-ID (bei familienbetreuten Kindern: Familien ID; Person, die den Fragebogen beantwortet hat; Ausfülldatum (Tag und Monat). 
+3. Interview Gruppenerzieher: Bezugserzieher bzw. Erzieherin seit (Monat und Jahr); Sprachförderungsprogramm: Teilnahme an Sprachförderungsprogramm, Teilnahmedauer und Art des Förderungsprogramms; Verhalten und Fertigkeiten des Kindes: Entwicklungsstand des Kindes (Vineland Adaptive Behavior Scales, Second Edition (Vineland-II); soziale Kompetenz: Leistungsmotivation, Folgsamkeit, Selbstbehauptung, Kooperation, Empathie, prosoziale Peerbeziehung; Problemverhalten (Child Behaviour Checklist CBCL); Aktivitäten des Kindes (AKFRA); Einschätzung des allgemeinen, Gesundheitszustands des Kindes sowie des körperlichen und seelischen Wohlbefindens; Einschätzung des Wohlbefindens im Zusammenhang mit anderen Kindern sowie weiteren Betreuungspersonen; Beziehung zum Kind, Nähe und Konflikte: Beziehung zum Kind (Child Parent Relationship Scale nach Pianta); Familienbezug: ErzieherIn-Eltern-Beziehung (Parent-Teacher Relationship Scale II); Erziehungsziele; Depressivität (Allgemeine Depressionsskala (ADS); persönliche Selbstcharakterisierung (Big Five: Extraversion, Verträglichkeit, Gewissenhaftigkeit, geringe emotionale Stabilität, Offenheit für neue Erfahrungen). 
+Zusätzlich verkodet wurde: Ausfüll-Datum EPAPI. 
+4. Interview Mütter: Betreuungszeiten: bislang genutzte Betreuungsformen; Erfassung von Betreuungsort, Betreuungsform und Betreuungsgeschichte nach Altersspannen; aktuelle Betreuungszeiten: Erfassung der Betreuungsform für jeden Wochentag einer normalen Woche; jeweils für die Mutter und den Partner wurde erfragt: Berufstätigkeit, Arbeitszeiten einschließlich Wegezeiten, Schichtarbeit und Wochenarbeitszeit; durchgeführte Impfungen und Früherkennungsuntersuchungen; Körpergröße und Gewicht des Kindes zum Zeitpunkt der jeweiligen Früherkennungsuntersuchungen. 
+5. Soziodemographie: Einschätzung der verwendeten Zeit für ausgewählte Lebensbereiche (Beruf/Ausbildung, Hausarbeit, Freizeit, Partnerschaft, Kinder, Freunde); Familienstand; Familienstand seit wann (Monat und Jahr); Haushaltszusammensetzung; Vater des Kindes lebt im Haushalt; Haushaltsgröße; Personenzahl im Haushalt ab 18 Jahren und Alter dieser Personen; Stellung dieser Personen zum Befragten; Geschlecht und Alter der Kinder im Haushalt, leibliches /nicht leibliches Kind; Wohnfläche der Wohnung; Kinderzimmerzahl; Wohnstatus; jeweils für die Mutter und den Partner wurde erfragt: höchster Bildungsabschluss (ISCED-97), höchster Schulabschluss, Jahre des Schulbesuchs, Schulbesuch in einem anderen Land außer Deutschland, Anzahl der Schuljahre in einem anderen Land, Land des Schulabschlusses, Erwerbstätigkeit, derzeitige bzw. letzte berufliche Stellung, Arbeitstage pro Woche und Arbeitsstunden pro Arbeitstag (jeweils gesamt, Untergrenze und Obergrenze); persönlicher Bruttoverdienst und Nettoverdienst im letzten Monat; Bezug von Transferleistungen, Unterhaltszahlungen oder sonstiger Unterstützung und jeweiliger Betrag; Haushaltsnettoeinkommen; arm-reich-Einstufung der Haushalte des Wohnviertels und des eigenen Haushalts; präferierte Wochenarbeitszeit; Vater hat Elternzeit oder Erziehungsurlaub genommen; Dauer der Elternzeit oder des Erziehungsurlaubs; Berufstätigkeit Vollzeit oder Teilzeit vor der Geburt des Kindes; Unterbrechung der Berufstätigkeit nach der Geburt und Unterbrechungsdauer; beabsichtigte Erwerbstätigkeit und Zeitpunkt für die Aufnahme der Erwerbstätigkeit; Interesse an einer Vollzeit- oder Teilzeitbeschäftigung und gewünschte Stundenzahl; Anzahl Schuljahre von Vater und Mutter, Erikson, Goldthorpe &amp; Portocarero Classification (EGP); Alter der Mutter. 
+Migration: Deutsche Staatsangehörigkeit bzw. zweite Staatsangehörigkeit und Geburtsland von Mutter und Partner; Geburtsland der Eltern; Türkischstämmigkeit der Mutter bzw. des Vaters; Geburtsland der Eltern des Partners; russischer bzw. türkischer Migrationshintergrund des Zielkindes; Alter des Befragten und des Partners bei Zuzug nach Deutschland und Gründe für die Zuwanderung; Aufenthaltsdauer im Herkunftsland in den letzten zwei Jahren; mit dem Kind und dem Partner in Deutschland gesprochene Sprache; vom Partner mit dem Kind und dem Befragten gesprochene Sprache; Selbsteinschätzung der türkischen, russischen und deutschen Sprachkenntnisse; Freude an der türkischen bzw. russischen Sprache; Wohlfühlen mit der türkischen bzw. russischen Sprache zuhause und mit Freunden; wichtig, mit dem Kind Türkisch bzw. Russisch zu sprechen; Wohlfühlen in einer Gruppe von Deutschen ohne Sprachkenntnisse in Türkisch bzw. Russisch; Freude an der deutschen Sprache; Wohlfühlen mit der deutschen Sprache zuhause und mit Freunden; wichtig, mit dem Kind Deutsch zu sprechen; Wohlfühlen in einer Gruppen Türken bzw. Personen aus den ehemaligen Sowjetrepubliken ohne Deutschkenntnisse; Religionsgemeinschaft; Kirchgangshäufigkeit; Generationsstatus der Mutter und des Partners. 
+Kinderbetreuung: Alter des Kindes zum Zeitpunkt des Eintritts in außerfamiliäre Betreuung (Monate und Lebenshalbjahre); detaillierte Angaben zur Kinderbetreuung (Betreuungsperson, wöchentlicher Betreuungsumfang); Sorgerechtsregelung (wöchentliche oder seltenere Treffen), Stundenzahl pro Monat Betreuung durch den leiblichen Vater; nutzbare Betreuungsmöglichkeiten; Gründe für Familienbetreuung; Bereitschaft zur Nutzung einer Kindestageseinrichtung unter ausgewählten Voraussetzungen; Zeitpunkt der ersten Fremdbetreuung in einer Kindertageseinrichtung bzw. bei einer Tagesmutter; Gründe für die Fremdbetreuung; Zeitbudget für Erwerbstätigkeit, Ausbildung oder Studium und Aktivitäten vor der Betreuung und nach Betreuungsbeginn; Änderungen im Betreuungsumfang persönlich, Partner, Kinderfrau, Großeltern, andere Verwandte, Nachbarn, Freunde, andere Eltern; Änderung der Beziehung zu ausgewählten Familienmitgliedern; Schwierigkeiten, einen Platz in einer Kindertageseinrichtung bzw. einer Krippe oder bei einer Tagesmutter zu bekommen, Wartezeit und Wartedauer; Wahlmöglichkeit zwischen verschiedenen Kindertageseinrichtungen; wichtige Kriterien für die Auswahl der Kindertageseinrichtung; Zufriedenheit mit ausgewählten Kriterien der Kindertageseinrichtung; Wechsel der Einrichtung (Anzahl, Zeitpunkt und jeweiliger Grund für den Wechsel); entsprechende Abfragen im Falle der Betreuung durch eine Tagesmutter; Höhe der Betreuungskosten; Essenskosten im Betreuungsgeld enthalten bzw. Betrag Essenskosten; Anzahl weiterer Kinder, die durch Kindertagespflege, Krippe, KITA oder Hort betreut werden; Höhe der Betreuungskosten und Essenskosten für alle Kinder; Veränderung des verfügbaren Haushaltsnettoeinkommens im Vergleich zum Zeitpunkt vor Eintritt in die Betreuung und Betrag der Änderung; Zeitaufwand des Befragten und des Partners für ausgewählte Alltagstätigkeiten und die Wegezeit vom Arbeitsplatz zur Betreuungseinrichtung; keine Fremdbetreuung des Kindes in den letzten 12 Monaten aufgrund seines Gesundheitszustands; Betreuungsperson in dieser Zeit; keine eigene Erwerbstätigkeit in dieser Zeit. 
+Gesundheit der Mutter: Zufriedenheits-Skalometer körperliche und seelische Gesundheit; Häufigkeit von Stress und Zeitdruck; Raucherstatus der Mutter und des Partners; Krankheitstage der Mutter und des Partners im Jahr 2009; gelbes Vorsorgeheft und Impfausweis des Kindes lagen vor; Lebenszufriedenheit (Skalometer). 
+Zusätzlich verkodet wurde: Fragebogen allein ausgefüllt bzw. gemeinsam mit Partner oder einem NUBBEK-Mitarbeiter; Ausfülldatum (Tag und Monat); Haushalts-Äquivalenzeinkommen (neue OECD Skala); SES Index (MIMIC-Modell); Interviewbeginn und Interviewende; Tag der Durchführung, Endzeit und Enddatum des Interviews; Unterbrechungen, Verständnisprobleme oder Störungen während des Interviews. 
+Erfassung erziehungsrelevanter Ressourcen (z.B. kind- und altersgerechtes Spielzeug, Bücher im Haushalt, sichere Wohnung und Wohnumgebung, gemeinsame Mahlzeiten), des Interaktionsverhaltens zwischen Mutter und Kind (z.B. positive emotionale Reaktionen, Lob, Schimpfen, Schläge) und kognitive Anregungen (HOME, Home Observation for Measurement of the Environment). 
+Zusätzlich verkodet wurde: HOME vollständig; HOME Kommentar des Interviewers. 
+Interviewereinschätzung des Klimas der Interaktion zwischen Mutter und Kind: Sensivität, Involviertheit, Akzeptanz gemäß Caregiver Interaction Scale (CIS). 
+6. Kindstestung (Verhalten und Fertigkeiten des Kindes): Sprachkompetenz des Kindes: passiver Wortschatz (Deutsch, Russisch, Türkisch) - Testinstrument: Peabody Picture Vocabulary Test (PPVT); Kompetenz im kognitiven Bereich: räumliches Vorstellungsvermögen, psychomotorische Koordination, Kombinationsfähigkeit, Flexibilität des Denkens, Problemlösungen mit Schwerpunkt auf serieller oder zeitlicher Anordnung der Reize - Testinstrumente: Hannover-Wechsler-Intelligenztest für das Vorschulalter - Experimentalform (HAWIVA) und Kaufman Assessment Battery for Children (ABC, deutsche Version). 
+Zusätzlich verkodet wurde: Testversionen PPVT und Vollständigkeit der einzelnen Versionen; Kommentare; Zeitdifferenz; Beginn und Ende (Stunden, Minuten) des Mosaiktests (HAWIVA); Versuche, Versuchszeiten und erreichte Punkte; Zeitdifferenz HAWIVA in Minuten; Bearbeitung und Vollständigkeit des Mosaiktests (HAWIVA); Kommentar; Beginn und Ende K-ABC; Handbewegung K-ABC vollständig; Kommentar; Zeitdifferenz; Bearbeitung K-ABC; Reihenfolge der einzelnen Testinstrumente. 
+Erfahrungsbericht zur Kindstestung: Motivation des Kindes; Befolgen von Anweisungen; auffälliges Verhalten; Kommentar zum auffälligen Verhalten; Versuche, einen oder mehrere Tests vorzeitig abzubrechen; Testabbruch (PPVT) durch allgemeine Aufmerksamkeitsprobleme bzw. mangelnde Sprachkenntnisse in Deutsch bzw. Russisch oder Türkisch; Kommentar zu sonstigen Abbruchgründen; Störung während des Tests; Kommentar sonstige Störung; Anwesenheit der Mutter oder anderer Personen während der Kindstestung; Kommentar Anwesenheit anderer Personen; Beeinflussung des Kindes durch anwesende Personen; Kommentar zur Beeinflussung des Kindes; Instruktion erfolgte in Deutsch, in Türkisch oder in Russisch; Einschätzung der Verwendbarkeit der Kindstests direkt nach Testung oder nachträglich; Einschätzungsdatum; Einschätzung der Verwendbarkeit der Testergebnisse der einzelnen Testinstrumente und Begründung; Durchführungsdatum der jeweiligen Testinstrumente. 
+Zusatzinformationen zum Ablauf der Erhebung: Datum und Dauer (Stunden, Minuten) des 1. und 2. Erhebungstermins. 
+7. Interviewerbefragung: Beginn und Ende der Erhebertätigkeit (Monat und Jahr); Funktion bei NUBBEK (als Interviewer in Familien, als Erheber in Einrichtungen oder Familieninterview und Erheber); Anzahl der Familieninterviews; Anzahl der Settingerhebungen; Vorerfahrung als Interviewer bzw. Erheber; Vorerfahrung Datenerhebung mit Kindern, mit Erwachsenen bzw. mit Setting; Interviewertätigkeit ausschließlich für NUBBEK; eigene Motivationsgründe für die Interviewertätigkeit und erfüllte Erwartungen; Evaluation der Interviews; Freude an der Interviewertätigkeit mit ausgewählten Personengruppen; Einschätzung der Vorbereitung; Bewertung der Teilnahmebereitschaft bei unterschiedlichen Geldbeträgen als Incentives; teilnahmesteigernde Wirkung durch Erhöhung der Incentives. 
+Demographie des Interviewers: Schulabschluss; Erwerbstätigkeit; berufliche Stellung; Studienfächer; Familienstand; Geburtsland; Muttersprache Deutsch; Interviewer ist in der Lage Interview in Deutsch, Englisch, Türkisch, Russisch zu führen; sonstige Fremdsprachenkenntnisse; Geschlecht; Alter (Geburtsjahr); Bereitschaft zu einer weiteren Tätigkeit für NUBBEK. 
+II. Gruppensetting 
+1. Einrichtungsfragebogen: Personale und räumliche Gegebenheiten in der Einrichtung: Erfassung des gesamten pädagogischen Personals der Einrichtung nach Ausbildung, Wochenarbeitszeit, Fortbildungsumfang in den letzten 12 Monaten, Qualifikation von spez. pädagogischem Personal und dessen Wochenarbeitszeit; Anzahl und Größe der Büroräume, der Aufenthaltsräume für Personal, der speziellen gruppenübergreifenden Räume, der multifunktionalen Flächen; Anzahl der Toilettenräume; Größe der Außenfläche und konkrete Ausgestaltung der Außenfläche (z.B. feste Fläche zum Fahren, Sandflächen u.a.). 
+2. Gruppenfragebogen: Alter (in Monaten) des jüngsten und des ältesten Kindes in der Gruppe; Öffnungszeiten für Gruppenarbeit, Mittagsschließungszeiten; Gruppenzusammensetzung: Alter und Geschlecht sämtlicher Kinder, Familiensprache Deutsch oder nicht-deutsch, geringe Deutschkenntnisse, Teilnahme an Sprachförderprogrammen, Behinderung, detaillierte Erfassung der üblichen Anwesenheitszeiten, Anzahl und Größe der Gruppenräume dieser Gruppe; Fläche einer zweiten Ebene; pädagogische Nutzung von Flur und Garderobenflächen und deren Größe; wöchentliche Nutzung von Innenräumen außerhalb der Einrichtung. 
+3. Fragebogen für die Kindertagespflege: Erfassung entsprechender Struktur-Merkmale von Tagemüttern: für bis zu neun betreute Kinder wurde erfasst: Geschlecht, geringe Deutschkenntnisse, Familiensprache, Behinderung, Jahr des Beginns der Betreuung, Art der Vermittlung, detaillierte Erfassung der Anwesenheits- bzw. Betreuungszeiten, Alter eigener Kinder und Art der Betreuung, Anzahl der betreuten Kinder insgesamt in den Jahren 2006, 2007 und 2008 und bis September 2009; Lage der Tagespflegeeinrichtung; Anzahl und Größe der Gruppenräume bzw. weiterer Räume; nutzbare Außenflächen; Entfernung des Spielplatzes in Gehminuten; Pflegetätigkeit allein; weitere an der Pflege beteiligte Personen; Anzahl der bisher betreuten Kinder insgesamt; Grund für Beendigung der Betreuungstätigkeit; kürzeste und längste Betreuungszeit eines Kindes; pädagogische Berufsausbildung; Interesse an einer pädagogischen Berufsausbildung; Angaben zur berufliche Tätigkeit vor Tagespflege: als Hausfrau, pädagogische Tätigkeit oder Selbständigkeit; höchster Bildungsabschluss; Grund für die Aufgabe der Berufstätigkeit; Teilnahme an einem Fortbildungskurs für Tagesmütter; Grund für den Beginn der Tätigkeit in der Tagespflege; Art der speziellen Vorbereitung; Zeitpunkt (Monat und Jahr) und Dauer (in Stunden) von Fortbildungskursen; schwierige Teilnahme an Fortbildungskursen; schriftliche Konzeption für Tagespflegestelle; Charakterisierung der Tagespflegetätigkeit anhand ausgewählter Aussagen (z.B. Zeitdruck, nicht abschalten können, finanzielle Probleme, gesundheitliche Probleme, Arbeitszufriedenheit; Zufriedenheit-Skalometer (z.B. berufliche und soziale Sicherheit, finanzielle Lage, Aufgaben als Tagesmutter, Arbeitszeiten, Anzahl der Überstunden, Weiterbildungsangebot, Ausstattung der Tagespflegestelle, Gestaltungsmöglichkeiten am Arbeitsplatz u.a.). 
+Demographie der Tagesmutter: Alter; Familienstand; Wohnsituation; Einstellung des Lebenspartners zur Tagespflegetätigkeit; monatliches Haushaltsnettoeinkommen; Wohnungsgröße; Haushaltszusammensetzung. 
+4. Fragebogen zur Gesundheit und Hygiene in der Einrichtung bzw. Tagespflegestelle: Hygienestandards: Betreuungsangebot für erkrankte Kinder in der Einrichtung; zur Verfügung stehende Beschreibungen über Symptome von Kinderkrankheiten, Anzeichen von Kindesmisshandlung oder Kindesmissbrauch und den Umgang mit Erkrankungen und leichten Verletzungen; Zeitpunkt der letzten Thematisierung von Hygienestandards in einer Teambesprechung; gute Sichtbarkeit von Notfallnummern; aktueller Impfstatus des Kindes als Aufnahmevoraussetzung; schriftliche Informationen für jedes Kind über Impfstatus und Gesundheitsinformationen z.B. Allergien; Räume für Kinder, die sich unwohl fühlen; zusätzliche personelle Unterstützung für in der Einrichtung erkrankte Kinder. 
+5. Erfassung der Prozessqualität in Kindergruppen mittels KES-R, KES-E und KES-Z (Kindergarten-Skala, revidierte, erweiterte Form und Zusatz) in sieben Bereichen Platz und Ausstattung, Betreuung und Pflege der Kinder, Sprachliche und kognitive Anregungen, Aktivitäten, Interaktionen, Strukturierung der pädagogischen Arbeit, Eltern und Erzieherinnen; neben den zuvor genannten Bereichen wurde mittels KRIPS-R (Krippen-Skala, revidierte Form) zusätzliche Merkmale erfasst. Im Bereich der Kindestagespflege wurde die TAS (Tagespflegeskala) zur entsprechenden Qualitätsfeststellung eingesetzt. 
+6. Leiterinneninterview zur Erfassung der strukturellen Bedingungen der Einrichtung sowie der persönlichen Merkmale der Leitung: Detaillierte Erfassung der Bereiche: Träger der Einrichtung, Öffnungszeiten und gruppenübergreifende Dienste, Anzahl der Gruppen/Kinder, Leitung bzw. Stellvertretende Leitung, Zusatzpersonal, Aus- und Fortbildungen, Berufserfahrung, Konzeption der Einrichtung. 
+7. Erzieherinneninterview zur Erfassung der strukturellen Bedingungen der Kindergruppe sowie der persönlichen Merkmale der Erzieherin: detaillierte Erfassung der Bereiche: Pädagogische Fachkräfte, die in der Gruppe arbeiten, Arbeitszeiten, persönliche Merkmale, Aus- und Fortbildungen der Erzieherinnen, Berufserfahrung der Gruppenerzieherin, Arbeitszeiten, Aus- und Fortbildungen der Erzieherinnen. 
+8. Fragebogen zur Erfassung des Personal-Kind-Schlüssels (Erfassung der Anzahl der anwesenden Kinder und pädagogischen Fachkräfte zu drei festgelegten Messzeitpunkten am Morgen, Mittag und Nachmittag entsprechend den Kernzeiten der Gruppe. 
+9. Interviewer/Erheber-Einschätzung des Verhaltens der Erzieherin gegenüber den Kindern mittels CIS (Cargiver-Interaction Scale) 
+Zusätzlich verkodet wurde: Einrichtungs-ID und Gruppen ID (bei familienbetreuten Kindern: Familien-ID; Ost/West; Erhebungsdatum der Testinstrumente.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Pedagogical Quality in the German early education system (familial and non-familial)
+NUBBEK offers an empirical basis to study the care and education within and outside of the family for two- (n = 1242) and four-year old children (n = 714). 27 Percent of all sampled children grew up in either Turkish or Russian immigrant families. NUBBEK adopted a socio-ecological perspective on education and care: Data on orientation, structure, and processes were gathered within the home environment as well as in 567 external child care settings.
+The characteristics to identify the quality of the structure and the orientation is surveyed via questionnaires and interviews with day care workers and managers as well as other child care workers. Field observation has been applied too. Further sources of information were the (written) pedagogical concepts as well as the educator’s personal characteristics and educational aims. The pedagogical process quality was measured with the integrated quality scale (IQS). Different subscales have been used for the groups of four year old children, groups of two year old children, mixed groups and groups within private day care centers. In addition to that, the Caregiver Interaction Scale (CIS) to measure the Interaction between the child and its caregiver, and a questionnaire on the activities performed with each child have been applied for all day care settings. The quality rating of the different settings has been specified after hours of observation by trained observers.
+The quality of the care and education within the family has been measured via information from the interviews, such as the education of the mother, the socio economic status and the family structure and items from the questionnaire, such as educational goals and the mental stability of the mothers. The mother-child interaction was measured by observation. The activities performed together and the mother-child relationship were measured vie items of the questionnaire.
+I. Children data set
+1. Measurement of the adaptive behavior (Vineland adaptive behavior scales II) in the dimensions communication, skills of daily living and motor skills.
+2. Measurement of the child’s social-emotional development; Child Behaviour Checklist (CBCL), frequency of child’s age specific motoric and cognitive activities within the family (AKFRA); child’s health status:  birth weight and birth length, estimated weight and length at the time of data collection; week of pregnancy at birth, child is or was suckled; month until the child was suckled; difficulties within the first month after childbirth; willingness to vaccinate the child if day care demands so; sleeping difficulties; satisfying sleeping habits; childhood diseases; illnesses within the last 12 months; impairment to physiological health or psychological or social child development; information on accidents with subsequent hospitalization; relationship and bonding: child-parent relationship scale (according to Pianta); parenting behaviour (harshness, punishment, child centered communication, emotional affection, authoritarian behaviour); Alabama Parenting Questionnaire (APQ); educational goals and expectations: child’s educational aspiration (ideal aim and realistic expectation); responsibility for education and parenting; gender role orientation: attitudes towards women’s participation on the labour market (scale); parenting conflicts (scale); quality of partnership; life satisfaction: scale of satisfaction for selected areas of life; general scale of depression (ADS); self characterization (Big Five: extraversion, compatibility, diligence, emotional stability, openness for new experiences).
+Demography: sex and age (in months) of the child; age group; kind of day care; kind of group within day care; migration background. 
+Additionally coded was: child id; day care id and group id (for within the family child care: family id; respondent id; date of respondence (day and month).
+3. Interview educator:Main educator since (month and year); language training program: anticipation of program, duration of anticipation and kind of program; child’s behaviour and skills: adaptive behaviour (Vineland adaptive behavior scales II); social competence: motivation for achievement, obedience, assertiveness, cooperation, empathy, prosocial peer relations, child behaviour checklist (CBCL); child’s activities (AKFRA); estimated status of child’s health, physical and mental well-being; estimated well-being within the group with other children and with the other educators; relationship with the child, closeness and conflicts: relationship (Child Behaviour Checklist CBCL); connection with the child’s family: parent-teacher relationship (scale); educational goals; general scale of depression (ADS); self characterization (Big Five: extraversion, compatibility, diligence, emotional stability, openness for new experiences).
+Additionally coded was: date of response EPAPI.
+4. Interview mother:care taking time: kinds child care used so far; location of facility; kind and history of child care by age group; current child care: kind of child care used at each day of a usual week; questions for the mother and her partner: occupation; working hours and time of daily journey; rotating shift work and working hours at weekends; child’s vaccination(s) and check-ups; child’s height and weight at the time of the last check-up.
+5. Demography: evaluation of personal life time spent on selected parts of life (occupation/education, domestic work, leisure, partnership, children, friends); marital status; marital status since (month and year); members of the household; father living in the same household; household size; number and age of household members younger than 18 years; relationship of those members with respondent; sex and age of children living in the household (biological and non-biological children); living space of the housing; number of children’s rooms; owner or (sub)tenant; questions for the mother and her partner: highest level of education (ISCED-97), highest educational degree, years of education, education abroad, years of education abroad, country received educational degree in, occupational status, current or recent occupation, working days per week and hours per day; last month’s income; transfer money, alimony payments or other subsistence payments and their amount; poor-rich classification of household and neighbourhood; preferred working hours per week; father took parental leave; time of parental leave taken; occupational status before childbirth (full- or part-time); occupational break and it’s duration after childbirth, aimed occupation and time of resumption; wish for part- or full-time occupation and working hours; number of years of parent’s education (Erikson, Goldthorpe &amp; Portocarero Classification (EGP)); age of child’s mother.
+Migration: German citizenship, other citizenship, partner’s country of birth; parent’s country of birth; Turkish father or mother; partner’s parents country of birth; Russian or Turkish migration background of the child; age of respondent and partner at the time of immigration, reason for migration to Germany; duration of stay in county of birth during the last two years; language spoken with child and partner in Germany; language spoken between partner and child; self-assessment of Turkish, Russian and German skills; enjoying the Turkish or Russian language; feeling comfortable speaking Russian or Turkish with friends and at home; importance of speaking Russian or Turkish with child; feeling comfortable in a group of people who do not speak Russian or Turkish; enjoying the German language; feeling comfortable speaking German with friends and at home; importance of speaking German with child; feeling comfortable in a group of Turks or Russians who do not speak German; denomination; frequency of going to church; generational migration status of respondent’s mother and partner.
+Day care: child’s age at the beginning of non-familial child care; detailed information on the day care (caregiver, weekly amount of care); custody regulations (weakly or rarer appointments); hours per month of caregiving by the biological father; possible child care options; reason for familial child care; willingness to use day care facilities under specific circumstances; time of first non-familial child care usage; reason for that child care; time for occupation, training or education before or after the child care; extension or reduction of caregiving personally, by the partner, the nanny, grandparents, other relatives, neighbours, friends, other parents; change within the relationship with other family members; difficulties of being accepted for a day care facility; waiting time; possibility to choose between several facilities; important criteria for the choice made; satisfied with chosen facility; changes of facilities (number, time and reason); costs for caregiving; additional or included costs for food; child care for other children of the respondent; total costs for caregiving and meals at the facilities; changes in the available net income due to child care; time needed for specific daily routines, the way to and from the child care facility and the way to and from the place of work for respondent and partner; no out of family caregiving within the past 12 month due to child’s condition; care giver at that time; no active occupation during that time.
+Health status of the mother: personal satisfaction on physical and mental health (scale); frequency of stress and time pressure; mother’s and partner’s smoking habit; number of sick days of mother and partner in 2009; documents on the child’s medical examination and vaccination were provided; life satisfaction.
+Additionally coded was: completed questionnaire on her own, with the partner or with an employee of NUBBEK; date of response (day and month); household income equivalence (OECD scale); SES index (MIMIC model); beginning and change of interview; date of interview, time and date at completed interview; breaks, difficulties of understanding or disruptions during the interview.
+Observation of educational resources (e.g. child and age adequate toys, books, safe living environment, shared meals), the interactions between the mother and the child (e.g. positive emotional reactions, praise, punishment) and cognitive stimuli (Home Observation for Measurement of the Environment (HOME)).
+Additionally coded was: HOME complete, HOME comments by interviewer.
+Interviewer’s assessment of mother child interactions: sensitivity, involvement, acceptance according to the Caregiver Interaction Scale (CIS).
+6. Child’s test (behaviour and skills): language skills: passive vocabulary (German, Russian, Turkish) – measured with the Peabody Picture Vocabulary Test (PPVT); cognitive testing: visual thinking, psycho-motoric coordination, combination skills, flexible thinking, problem solving competence especially in regard to serial and chronological ordered stimuli – measured with the Hannover-Wechsler-Intelligence test – experiment (HAWIVA) and Kaufman Assessment Battery for Children (ABC, German version).
+Additionally coded was: evaluation version PPVT and completeness of each version; comments; time differences; beginning and end (hours and minutes) of the test (HAWIVA); number and time of experiments and scores; time difference in minutes HAWIVA; process and accomplishment of the test (HAWIVA); comments; start and end of K-ABC; motoric completed; comments; time difference; completed K-ABC; order of measurement instruments.
+Report on child testing: child’s motivation; following interviewer’s instructions; salient behaviour; comments on behaviour; attempts to stop a test, terminations (PPTV) because of overall attentional or linguistic problems; comments on other reasons for termination; disruptions; comments on other disruptions; presence of the mother or other persons during testing; comments on other persons’ presence; influence on the child by present persons; comments on influence; instructions made in German, Turkish or Russian; estimation of validity directly after the test or later on; date of estimation; reasons for estimated validity of test results and used test instruments; date of testing for each instrument.
+Additionally coded was: date and duration (hours and minutes) of data collection for the first and second date.
+7. Interview interviewer:start and end of job (month and year); position at NUBBEK (interviewer in families, interviewer/observer in facilities or both); number of family interviews; number of child care interviews; experiences as interviewer/observer; experiences in data collection with children, adults or institutions; interviewing only for NUBBEK; motivation for the job and fulfillment of expectations; evaluation of interviews; appreciation of interviews with a specific group of respondents; evaluation of preparations; evaluation of the willingness to participate regarding different amounts of payment as an incentive; evaluation of increasing the willingness to participate with higher amounts of money.
+Interviewer’s demography: educational degree; occupational status; occupation; subjects of study; marital status; country of birth; mother tongue German; interviewer is able to conduct interview in Germen, English, Turkish, Russian; other language skills; sex; age (year of birth); willingness for further jobs at NUBBEK.
+II. Group setting
+1. Child care facility questionnaire:personnel and special resources : the total pedagogical staff; weekly working hours; extend of professional trainings within the last 12 month, personal’s qualification, pedagogical specialized team and their weekly working hours; number and seize of offices, staffrooms, common rooms, multifunctional spaces; number of restrooms; seize of the outdoor area and usage (e.g. solid ground to drive on, sands, i.a.).
+2. Group questionnaire: age of the youngest and oldest child in the group (months); opening hours of the group work, midday break; group composition: age and sex of all children, family language Germen or other, low German skills, participation at language programs, handicaps, detailed gathering of the usual times of attendance, number and seize of the group’s common room(s); space at another level; pedagogical use of the hallway and coatroom and their seize; weekly use of indoor facilities that do not belong to the target facility.
+3. Questionnaire for child mining facilities: characteristics of childminder: for up to nine minded children it is surveyed: sex, low German skills, family language, handicap, year of beginning of caretaking, kind of placement, detailed caregiving times, age of own children and kind of child care used for them, number of minded children in 2006, 2007, 2008 and until September of 2009; location of child mining facility; number and seize of common rooms and other rooms; used outdoor area; walking distance (in minutes) to the next playground; caregiving alone; further people involved; number of all ever minded children so far; reason for end of caregiving; shortest and longest period of caregiving to the one child; pedagogical training; interested in pedagogical training; occupation before caregiving: home keeper; pedagogical occupation or self employment; highest educational degree; reason to end previous occupation; participation at a professional training for childminders; reason to start working in child care; special pre working preparations; time (month and year) and duration (in hours) of professional trainings; difficulties with participation at professional trainings; written concept; characterization of childminding with some statements (e.g. time pressure, no real home time, financial problems, health issues); job satisfaction; satisfaction scale (e.g. occupational and social security, financial situation, responsibilities as a childminder, working hours, amount of extra hours, offers for professional trainings, equipment for child mining, scope for (re)arrange working environment i.a.).
+Childminder’s demography: age; marital status; housing situation; partner’s attitude towards occupation; monthly net income of the household; size of housing; household characteristics. 
+4. Questionnaire on health and hygiene at the child care institution:hygiene: child care offers for diseased children; available descriptions/information of child diseases symptoms, symptoms of abuse and how to manage child diseases and smaller injuries; last acknowledgement of hygiene standards at a team meeting; good and visible position of emergency contact list; vaccination compulsory for acceptance of a child; written information on every child about vaccinations and health related information as for example allergies; rooms for children that feel uncomfortable; additional personnel support for sick children. 
+5. Measurements of the process quality in the kindergartens with KES-R, KES-E and KES-Z (scales) of seven different areas: space and equipment, care and foster, linguistic and cognitive stimuli, activities, interactions, structure of the pedagogical work, parents and caregiver; further areas were measured with the KRIPS-R scale; for the child mining part the TAS scale was used to measure objective quality criterions.
+6. Interview with the head of each facility to measure the structural conditions of the facility as well as personal characteristics of the manager: detailed questions on funding of the facility, opening hours and scope of overall child care offers, number of groups and children per group, management and substitution, additional staff, vocational and professional trainings, professional experience, concept of the facility.
+7. Interview with the caregiver to measure the structural conditions of the facility as well as personal characteristics of the caregiver: detailed questions about the pedagogical staff that works with the group, working hours, personal characteristics, professional experiences, professional experiences of the group managing caregiver, working hours set in contract, vocational and professional training for caregivers.
+8. Questionnaire on the caregiver-child-ratio (number of present children and professional caregivers at three different points of time measured each morning, midday and afternoon according to the core hours of the group.
+9. Interviewer’s/observer’s evaluation of the caregiver’s behaviour towards the children according to the CIS (Caregiver-Interaction Scale). 
+Additionally coded was: facility id and group id (for familial care: family id; East Germany/ West Germany; time of data collection for the experimental testing.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Zwei- und vierjährige Kinder und ihre Familien und Betreuungspersonen.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Two- and four-year old children, their parents and caregiver</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl; Kombination aus Zufallsstichprobe und Nicht-Zufallsstichprobe; Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: Mehrstufige Zufallsauswahl (Oversampling von Kindern mit russischem und türkischem Migrationshintergrund)
+
+Bei ausschließlich familiär betreuten Kindern (Zweijährige) und Kinder mit russischem und türkischem Migrationshintergrund wurden auf der letzten Auswahlstufe eine Mischung aus zufälligen und nicht-zufälligen Verfahren eingesetzt.</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Probability: Multistage; Mixed probability and non-probability; Sampling Procedure Comment: Probability Sample: Multistage Sample (Oversampling of children with a Turkish or a Russian migration background)
+
+Children that are only taken care of informally (at the age of two years) and children with a Turkish or a Russian migration background have been chosen randomly and non-randomly on the last sampling stage.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<monthyear>2010-03</monthyear>
+				</startDate>
+				<endDate>
+					<monthyear>2011-01</monthyear>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<timeDimensions>
+		<timeDimension>
+			<timeDimensionType>CrossSection</timeDimensionType>
+		</timeDimension>
+	</timeDimensions>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Principal Investigator
+TNS Infratest Munich, Germany</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>Distributor</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>GESIS</institutionName>
+				<contributorType>HostingInstitution</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.FaceToFace.CAPICAMI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Interview.FaceToFace.PAPI</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>MeasurementsAndTests</collectionModeType></collectionMode>
+		<collectionMode><collectionModeType>Observation.Field.Nonparticipant</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Erhebung in Familien: 
+- Persönliche Befragung: CAPI (Computerunterstützte persönliche Befragung) 
+- Persönliche Befragung: PAPI (Papierfragebogen)
+- Messungen und Tests
+- Nicht-teilnehmende Feldbeobachtung
+Erhebung in Betreuungssettings:
+- Persönliche Befragung: PAPI (Papierfragebogen)
+- Nicht-teilnehmende Feldbeobachtung
+- Messungen und Tests</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Data collection within the family:
+- Face-to-face interview: CAPI (Computer Assisted Personal Interview)
+- Face-to-face interview: PAPI (Paper and Pencil Interview)
+- Measurements and tests
+- Non-participant field observation
+Data collection within the childcare setting:
+- Face-to-face interview: PAPI (Paper and Pencil Interview)
+- Non-participant field observation
+- Measurements and tests</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>1956</numberUnits>
+			<numberVariables>3328</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Erhebungseinheit: Vorschulkinder</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>Survey unit: preschool children###</text>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.12296</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.11957</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Mayer, D. &amp; Beckh, K. (2012):
+NUBBEK – Nationale Untersuchung zur Bildung, Betreuung und Erziehung in der frühen Kindheit. Fragestellungen und erste Ergebnisse im Überblick. 
+IFP-Infodienst, 17, 16-21.</freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Tietze, Wolfgang (ed.):
+Nationale Untersuchung zur Bildung, Betreuung und Erziehung in der frühen Kindheit (NUBBEK). 
+Weimar: Verl. das Netz, 2013. </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>Leyendecker, B.; Agache, A.; Madsen, S. (2014): 
+Nationale Untersuchung zur Bildung, Betreuung und Erziehung in der frühen Kindheit (NUBBEK)–Design, Methodenüberblick, Datenzugang und das Potenzial zu Mehrebenenanalysen.
+Zeitschrift für Familienforschung-Journal of Family Research, 26(2), 244-258
+&lt;a href=http://www.budrich-journals.de/index.php/zff/article/view/16528/14431 target=_blank&gt;Download hier&lt;/a&gt;
+</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

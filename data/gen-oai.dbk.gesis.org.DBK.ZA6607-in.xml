@@ -1,0 +1,224 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Attitudes towards Topics Internal Security and Suppression of Terrorism, Asylum and Immigration'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Einstellungen der Bürger zu den Themen Innere Sicherheit und Terrorbekämpfung, Asyl und Einwanderung'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceTypesFree>
+		<resourceTypeFree>
+			<language>de</language>
+			<typeName>Numerisch</typeName>
+		</resourceTypeFree>
+		<resourceTypeFree>
+			<language>en</language>
+			<typeName>Numeric</typeName>
+		</resourceTypeFree>
+	</resourceTypesFree>
+	<resourceIdentifier>
+		<identifier>ZA6607</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Einstellungen der Bürger zu den Themen Innere Sicherheit und Terrorbekämpfung, Asyl und Einwanderung</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Attitudes towards Topics Internal Security and Suppression of Terrorism, Asylum and Immigration</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<person>
+				<firstName>Berlin</firstName>
+				<middleName/>
+				<lastName>Presse- und Informationsamt der Bundesregierung</lastName>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA6607?doi=10.4232/1.12430</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.12430</doiProposal>
+	<publicationDate>
+		<date>2016-01-11</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA6607</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>WAHLEN</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Kriminalität und Gesetzesvollzug</term>
+					<term>Migration</term>
+					<term>Konflikte, Sicherheit und Frieden</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Crime and law enforcement</term>
+					<term>Migration</term>
+					<term>Conflict, security and peace</term>
+					<term>Political behaviour and attitudes</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Einstellungen zu den Themen Innere Sicherheit, Asyl, Einwanderung und Terrorbekämpfung.
+1. Innere Sicherheit: Subjektives Sicherheitsgefühl bzw. Sorge vor kriminellen Übergriffen; Einschätzung von maßgeblichen Quellen für Kriminalitätsfurcht (z. B. durch Gewaltdarstellungen im Fernsehen, durch die täglichen Nachrichten über Verbrechen und Kriminalität, eigene Viktimisierungserfahrungen, etc.); Sorge vor konkreten Verbrechen (Anschläge islamistischer Terroristen, organisierte kriminelle Banden aus dem Ausland, Gewaltbereitschaft Jugendlicher, Diebstahl und Überfälle auf offener Straße, Einbrüche und Aufbrechen von Autos, Gewalt in der Familie, Polizeiübergriffe); Beurteilung der Bemühungen der Politik, Sicherheit zu gewährleisten; Beurteilung von geeigneten Sicherheitsmaßnahmen (mehr sichtbare Präsenz von Polizei und Ordnungskräften, schnellere Abschiebung von ausländischen Straftätern, Ordnungskräfte im öffentlichen Nahverkehr, Videoüberwachung öffentlicher Plätze und in Nahverkehrsmitteln, härtere Strafen, intensivere Polizeikontrollen auf Autobahnen, stärkere Internetüberwachung, mehr soziale Präventionsprojekte für Jugendliche); Beurteilung der stärkeren Zusammenarbeit von verschiedenen deutschen und internationalen Sicherheitsorganen (Polizeibehörden von Bund und Ländern, Polizei und Nachrichtendienste der EU-Staaten bzw. Polizei und Nachrichtendienste von Deutschland und den USA); Einstellung zur Videoüberwachung auf öffentlichen Plätzen (Gefühl von Sicherheit oder eher von Unbehagen oder beides gleichzeitig); Einstellung zur Vorratsdatenspeicherung. 
+2. Einstellungen zu Asyl und Einwanderung: Umgang mit Flüchtlingen mit abgelehntem Asylantrag (Abschiebung oder Duldung unter  bestimmten Bedingungen); Sorge um Anstieg der Flüchtlingszahlen; konkrete Sorgen in Bezug das Thema Asyl und Flüchtlinge in Deutschland (Überfremdung, steigende Kriminalität, Anstieg des Rechtsradikalismus, Verlust der deutschen Identität, Zuwachs an Illegalen im Land, Überforderung der sozialen Sicherungssysteme); Notwendigkeit ausgewählter Maßnahmen zur Verbesserung und Verschärfung des Asylrechts (sofortige Abschiebung bei abgelehnten Asylanträgen, Arbeitserlaubnis für Asylbewerber, Duldung trotz Ablehnung des Asylantrags, strengere Prüfung der Asylgründe); Beurteilung ausgewählter Kriterien für die Einwanderung nach Deutschland (nachgefragter Beruf, Familienangehörige in Deutschland, jung oder alt, politische Verfolgung im Heimatland, Universitätsabschluss, gute Deutschkenntnisse, keine Straftaten im Heimatland, Ausbildungswunsch); Meinung zur Zuwanderung hochqualifizierter Fachkräfte aus dem Ausland; Beurteilung der innenpolitischen Bedeutsamkeit der deutschen Einwanderungspolitik; Beurteilung der Wichtigkeit einer Willkommenskultur für Einwanderer; Einwanderer fühlen sich in Deutschland willkommen vs. nicht willkommen. 
+3. Terrorbekämpfung: Einschätzung der Gefahr terroristischer Anschläge in Deutschland; Einschätzung der Bemühungen der Bundesregierung im Hinblick auf den Schutz  vor einem terroristischen Anschlag; Meinungen zu Bestrafung von finanziellen Unterstützern und von Sympathiewerbern von Terrororganisationen. 
+Demographie: Geschlecht; Alter; höchster Bildungsabschluss; Erwerbstätigkeit; berufliche Stellung; Familienstand (Haushaltsstruktur); Konfession; Haushaltsnettoeinkommen.
+Zusätzlich verkodet wurden: Befragten-ID; Gewichtungsfaktor; Ortsgröße; Bundesland.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Attitudes towards the topics of internal security, asylum, immigration and counter-terrorism.
+1. Internal security: subjective feeling of security or concern about criminal attacks; assessment of relevant sources of fear of crime (e.g. through portrayals of violence on television, through the daily news about crime and criminality, own experiences of victimisation, etc.); concern about concrete crimes (attacks by Islamist terrorists, organised criminal gangs from abroad, young people´s propensity to violence, theft and assaults on the open street, break-ins and break-ins of cars, violence in the family, police assaults); assessment of policy efforts to ensure security; assessment of appropriate security measures (more visible presence of police and law enforcement officers, faster deportation of foreign criminals, law enforcement officers in public transport, video surveillance of public places and in public transport vehicles, tougher penalties, more intensive police checks on motorways, stronger internet surveillance, more social prevention projects for young people); assessment of stronger cooperation between different German and international security bodies (police authorities of the Federation and the federal states, police and intelligence services of the EU states, resp. police and intelligence services of Germany and the USA); attitude towards video surveillance in public places (feeling of security or rather of unease or both at the same time); attitude towards data retention.
+2. Attitudes towards asylum and immigration: Dealing with refugees with rejected asylum applications (deportation or toleration under certain conditions); concern about the increase in the number of refugees; concrete concerns regarding the topic of asylum and refugees in Germany (alienation, increasing criminality, rise in right-wing radicalism, loss of German identity, increase in illegal immigrants in the country, excessive demands on social security systems); necessity of selected measures to improve and tighten asylum law (immediate deportation in the case of rejected asylum applications, work permits for asylum seekers, toleration despite rejection of the asylum application, stricter examination of the grounds for asylum); assessment of selected criteria for immigration to Germany (occupation in demand, family members in Germany, young or old, political persecution in home country, university degree, good knowledge of German, no criminal offences in home country, desire for education); opinion on the immigration of highly qualified skilled workers from abroad; assessment of the domestic significance of German immigration policy; assessment of the importance of a welcoming culture for immigrants; immigrants feel welcome vs. not welcome in Germany.
+3. Counter-terrorism: assessment of the danger of terrorist attacks in Germany; assessment of the federal government´s efforts with regard to protection against a terrorist attack; opinions on punishment of financial supporters and of sympathisers of terrorist organisations.
+Demography: sex; age; highest level of education; employment; occupational status; marital status (household structure); religious denomination; net household income.
+Additionally coded were: Respondent ID; weighting factor; city size; federal state.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Bevölkerung in Deutschland ab 18 Jahren</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Persons aged 18 years and over</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2015-02-23</date>
+				</startDate>
+				<endDate>
+					<date>2015-03-05</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Infratest dimap, Berlin</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode><collectionModeType>Interview.Telephone.CATI</collectionModeType></collectionMode>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Telefonisches Interview: CATI (Computerunterstützte telefonische Befragung)</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<unitType>Individual</unitType>
+			<numberUnits>1002</numberUnits>
+			<numberVariables>72</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Die Studie wurde im Auftrag des Bundespresseamtes durchgeführt.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text>The study was conducted on behalf of the Federal Press Office.</text>
+		</note>
+	</notes>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>dimap: 
+Umfrage im Auftrag des Presse- und Informationsamts der Bundesregierung: Innere Sicherheit, Asyl, Einwanderung und Terrorbekämpfung - Tabellarische Übersichten - .
+Bonn: dimap, März 2015
+</freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

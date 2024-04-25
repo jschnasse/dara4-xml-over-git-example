@@ -1,0 +1,1201 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Eurobarometer 71.2 (May-Jun 2009)
+'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Eurobarometer 71.2 (May-Jun 2009)
+'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA4972</identifier>
+		<currentVersion>3.0.2</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Eurobarometer 71.2 (May-Jun 2009)
+</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Eurobarometer 71.2 (May-Jun 2009)
+</titleName>
+		</title>
+	</titles>
+	<otherTitles>
+		<otherTitle>
+			<language>de</language>
+			<titleName>European Employment and Social Policy, Discrimination, Development Aid, and Air Transport Services</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+		<otherTitle>
+			<language>en</language>
+			<titleName>European Employment and Social Policy, Discrimination, Development Aid, and Air Transport Services</titleName>
+			<titleType>Subtitle</titleType>
+		</otherTitle>
+	</otherTitles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>Europäische Kommission</institutionName>
+			</institution>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA4972?doi=10.4232/1.10990</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.10990</doiProposal>
+	<publicationDate>
+		<date>2012-07-02</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>0 - Daten und Dokumente sind für jedermann freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>0 - Data and documents are released for everybody.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>eng</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA4972</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>doi:10.3886/ICPSR28183.v2</identifier>
+			<type>DOI</type>
+		</alternativeID>
+		<alternativeID>
+			<identifier>Internationale Umfrageprogramme</identifier>
+			<type>FDZ</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+					<identifier>KAT31</identifier>
+					<!-- Wirtschaftspolitik, wirtschaftliche Lage -->
+					<identifier>KAT32</identifier>
+					<!-- Sozialpolitik -->
+					<identifier>KAT38</identifier>
+					<!-- Beruf -->
+					<identifier>KAT40</identifier>
+					<!-- Konsumstruktur, Konsumverhalten -->
+					<identifier>KAT50</identifier>
+					<!-- Gesellschaft, Kultur -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Beschäftigung und Erwerbstätigkeit</term>
+					<term>Gleichheit, Ungleichheit und soziale Ausgrenzung</term>
+					<term>SOZIALPOLITIK, SOZIALFÜRSORGE UND SOZIALSYSTEME</term>
+					<term>TRANSPORT UND REISEN</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Employment</term>
+					<term>Equality, inequality and social exclusion</term>
+					<term>SOCIAL WELFARE POLICY AND SYSTEMS</term>
+					<term>TRANSPORT AND TRAVEL</term>
+					<term>Economic systems and development</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Wirtschaftskrise. Globalisierung. Nationale und europäische Arbeitsmarkt- und Sozialpolitik. Diskriminierung. Entwicklungshilfe. Öffentliche Transportmittel. 
+Themen: 1. Allgemeine Lebenszufriedenheit; Beurteilung der aktuellen Lage und Erwartung einer Veränderung der Situation innerhalb der nächsten zwölf Monate in Bezug auf das Leben allgemein, den Wohnort, das Gesundheitssystem sowie das Rentensystem im eigenen Land, Arbeitslosenunterstützung, Lebenshaltungskosten, Zusammenleben von Menschen mit unterschiedlichem nationalen und religiösen Hintergrund im eigenen Land, soziale Ungleichheit und Armut, Energiekosten, Wohnkosten, öffentliche Verwaltung, wirtschaftliche Situation des Landes, die Arbeitsmarktsituation des eigenen Landes und die eigene berufliche Situation sowie die finanzielle Situation des eigenen Haushalts; Vergleich der Situationen mit dem Zeitraum vor fünf Jahren. 
+2. Wirtschaftskrise: Arbeitslosigkeit des Befragten und im sozialen Umfeld in Folge der Wirtschaftskrise; befürchtete persönliche Arbeitslosigkeit oder im sozialen Umfeld (Partner, Kollegen, Kind); erwartete Auswirkungen der Krise auf die Arbeitsmarktlage. 
+3. Globalisierung: Kenntnis des Europäischen Fonds zur Unterstützung von Opfern der Globalisierung. 
+4. Nationale und europäische Arbeitsmarkt- und Sozialpolitik: Kenntnis des Europäischen Sozialfonds (ESF), des Europäischen Regionalfonds (ERDF), des Erasmus-Programms und der ´Lissabon-Strategie´; Beurteilung des finanziellen Einsatzes aus dem EU-Budget für den Europäischen Sozialfonds; Häufigkeit des Berufs- bzw. Arbeitsplatzwechsels im Lebensverlauf des Befragten; Dauer der derzeitigen oder letzten Beschäftigung; wichtigste Fähigkeiten für Chancen auf dem Arbeitsmarkt; Einschätzung der Sicherheit des eigenen Arbeitsplatzes in den nächsten Monaten und in zwei Jahren; Teilnahme an Fortbildungen innerhalb der letzten zwölf Monate; Finanzierung der Fortbildung; ausreichende Ausbildung oder weitere Fortbildung notwendig, um Arbeitsplatz zu behalten; Gründe für die Teilnahmeverweigerung an Fortbildungskursen; Wahrscheinlichkeit, nach einer angenommenen Entlassung innerhalb von sechs Monaten eine neue Arbeit zu finden (Skalometer); Art der Arbeitsstelle, auf die sich der Befragte nach einer Entlassung bewerben würde; Schätzung der Höhe (Anteil vom Gehalt) des persönlichen Arbeitslosengeldes während der ersten sechs Monate nach einer angenommenen Entlassung; einfachster Weg, einen Arbeitsplatz zu finden; Einschätzung der Aussagen: lebenslanger Arbeitsplatz ist eine Sache der Vergangenheit, mehr Arbeitsplätze durch verkürzten Kündigungsschutz, Flexibilität beim Arbeitsplatzwechsel ist hilfreich, um neue Arbeit zu finden, zu viele Leute im Land gehen in Frührente, verbesserte Chancen auf dem Arbeitsmarkt durch regelmäßige Schulungen; Einschätzung der Effektivität von institutionellen Maßnahmen zur Unterstützung von Arbeitsförderung (verbesserte Kinderbetreuung, Betreuung für Pflegebedürftige, Abraten von Frühpensionierung, größere finanzielle Differenz zwischen arbeitenden und nicht arbeitenden Menschen, Förderung der Mobilität, Unterstützung von Selbstständigkeit, Umwandlung von nicht legalen Arbeitsverhältnissen in reguläre Beschäftigung, regelmäßige Fortbildung für Mitarbeiter); Beurteilung des Einflusses der EU auf die Arbeitsmarkt- und Sozialpolitik als positiv oder negativ: Festlegung von Mindeststandards für die Arbeitsbedingungen in der gesamten EU, Schaffung neuer Stellen und Bekämpfung von Arbeitslosigkeit, Reduzierung regionaler Unterschiede in der Arbeitslosigkeit, Austausch von Strategien in der Arbeitsmarktpolitik zwischen den EU-Mitgliedsstaaten, Verbesserung des Zugangs zu Bildung und Weiterbildung, Förderung des Dialogs zwischen Arbeitgebern und Gewerkschaften, Kampf gegen soziale Ausgrenzung und Armut, Förderung der Gleichberechtigung von Frauen und Männern, Bekämpfung von Diskriminierung, Koordinierung der nationalen Reformen der Sozialpolitik; Interesse an Informationsmaterial zur EU-Arbeitsmarkt- und Sozialpolitik; Image der Arbeitsmarkt- und Sozialpolitik der EU. 
+5. Diskriminierung: Derzeitige sowie vor fünf Jahren wahrgenommene allgemeine Verbreitung von Diskriminierung hinsichtlich: ethnischer Herkunft, Geschlecht, sexueller Orientierung, Alter, Religion, Behinderung; eigene Diskriminierungserfahrung sowie jüngst beobachtete Diskriminierung anderer Personen aufgrund der vorgenannten Merkmale; nachteilig wirkende Merkmale eines Bewerbers in einer konkurrierenden Bewerbungssituation: Name, Adresse, Sprechweise, ethnische Herkunft, Geschlecht, sexuelle Orientierung, Alter, Behinderung, religiöse Überzeugung, Raucher, äußeres Erscheinungsbild; Akzeptanz eines Regierungschefs mit den Merkmalen: Frau, homosexuell, Person mit anderer ethnischer Herkunft, Person unter 30 Jahren, Person mit anderer religiösen Überzeugung, behinderte Person und Person über 75 Jahren (Skalometer); Einstellung zu besonderen Maßnahmen zur Gewährleistung von Chancengleichheit im Bereich Beschäftigung; Zustimmung zu einer Kontrolle der Belegschaft bezüglich der Repräsentanz ethnischer Minderheiten und zu einer Überwachung der Einstellungsverfahren; ausreichende Anstrengungen des Landes zur Eingrenzung von Diskriminierung; Kenntnis der eigenen Rechte im Falle einer Diskriminierung; angemessene Darstellung von gesellschaftlicher Diversität in den Medien bezüglich der oben genannten Merkmale; negativer Einfluss der Wirtschaftskrise auf die Förderung von Chancengleichheit und Diversität; erwartete Zunahme der Diskriminierung auf dem Arbeitsmarkt in Zeiten der Wirtschaftskrise; Einschätzung ausreichender betrieblicher Maßnahmen zur Erhöhung der Diversität am Arbeitsplatz; erste Ansprechinstanz im Falle einer erlittenen Diskriminierung: Gewerkschaft, Nichtregierungsorganisationen (NGOs), Gericht, Gleichstellungsbeauftragte, Anwalt, Polizei; Freundschaft oder Bekanntschaft mit Roma, Personen anderer ethnischer Herkunft, Homosexuellen, Behinderten oder mit Personen anderer Glaubenszugehörigkeit (soziale Nähe); eigene Zugehörigkeit zu einer Minderheit; eigene Betroffenheit von einer physischen oder psychischen Krankheit. 
+6. Entwicklungshilfe: Notwendigkeit der Hilfe für Entwicklungsländer; Kenntnis der Millenniumsziele; primäre Motivationsgründe der reichen Länder, den armen Ländern Entwicklungshilfe anzubieten; Land bzw. Organisation, die am ehesten Entwicklungshilfe leisten sollte; Präferenz für Aufstockung oder Reduzierung der Entwicklungshilfe der EU angesichts der gegenwärtigen Wirtschaftslage; Einschätzung der größten Probleme der Entwicklungsländer; Einschätzung des europäischen Beitrages zur Entwicklungshilfe als zu groß; Angemessenheit der medialen Berichterstattung über die Entwicklung in armen Ländern; Bedeutung des europäischen Beitrags zur globalen Entwicklungsdebatte. 
+7. Öffentliche Transportmittel: Nutzung ausgewählter öffentlicher Verkehrsmittel innerhalb der letzten zwölf Monate; Bewusstsein der Rechte aus dem Kauf einer Fahrkarte für öffentliche Verkehrsmittel; Kenntnis der Verbesserung der Rechte von Flugpassagieren durch die EU; Meinung zu ausgewählten Aussagen zu Fluggesellschaften (Information über Fluggastrechte, Beschwerdebriefe dienen der Verbesserung der Dienstleistungen, zufriedenstellendes Vorgehen der Fluggesellschaft bei Schwierigkeiten); Zufriedenheit mit der Fluggesellschaft bezüglich Pünktlichkeit, Komfort, Informationsverhalten bei Flugausfällen, Informationen im Falle von Gepäckverlust, Entschädigungen im Falle von Dienstleistungsausfällen); erste Anlaufstelle zur Einforderung eigener Rechte bei einem angenommenen Ausfall oder einer Verspätung des Fluges; eigene Betroffenheit von einem Problem mit einer Fluggesellschaft; eigene Beschwerde über diesen Vorfall bei einer verantwortlichen Stelle; Bewertung des Umgangs der verantwortlichen Bearbeitungsstelle mit der Beschwerde; Zufriedenheit mit dem Umgang der Fluggesellschaft mit Gepäck; Präferenz für eine staatliche Meldestelle statt der Fluggesellschaft bei Problemen mit dem Gepäck; Beurteilung der Eindeutigkeit von Preisangaben bei Fluggesellschaften. 
+Demographie: Staatsangehörigkeit; Beruf; Konfession, Selbsteinstufung auf einem Links-Rechts-Kontinuum; Familienstatus; Alter bei Beendigung der Schulausbildung; Geschlecht; Alter; Urbanisierungsgrad; Vorhandensein von Haushaltsmitgliedern über 15 Jahren, Kindern zwischen 10-14 Jahren und Kindern unter 10 Jahren; Herkunft, Migrationshintergrund; Festnetzanschlusses und Mobiltelefon im Haushalt; Ausstattung des Haushalts mit langlebigen Wirtschaftsgütern; Geldnöte in den letzten 12 Monaten; Selbsteinschätzung der gesellschaftlichen Stellung (Skalometer); Nutzung des Internets zuhause, beruflich und an öffentlichen Zugangsorten. 
+Zusätzlich verkodet wurde: Tag und Beginn des Interviews; Interviewdauer; Anwesenheit anderer Personen beim Interview; Kooperationsbereitschaft des Befragten; Umfrageort; Region; Intervieweridentifikation; Gewichtungsfaktor; Interviewsprache.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+		<description>
+			<language>en</language>
+			<freetext>Economic crisis. Globalisation. National and European employment and social policies. Discrimination. Development aid. Public transport services. 
+Topics: 1. General life satisfaction; assessment of the present situation and expectations for the next twelve months regarding life in general, the place of residence, the healthcare system and the pension system in the own country, unemployment benefits, cost of living, relations between people of different national and religious backgrounds in the own country, social inequality and poverty, energy costs, housing costs, public administration, economic situation of the own country, the national labour market situation, the personal job situation, and the financial situation of the own household; comparison of these issues with five years ago. 
+2. Economic crisis: own unemployment or in the social environment due to the economic crisis; feared personal unemployment or in the social environment (partner, colleague, child); expected impact of the crisis on the labour market situation. 
+3. Globalisation: knowledge of the European Globalisation adjustment Fund to assist victims of globalisation. 
+4. National and European employment and social policies: knowledge of the European Social Fund (ESF), the European Regional Development Fund (ERDF), the Erasmus Programme, and the ´Lisbon Strategy´; assessment of the proportion of the EU budget used for financing the European Social Fund; frequency of occupational and job change over the life course of the respondent; duration of the current or the last employment; most important skills to find a job; assessment of the safety of the own job in the next few months, and in two years; participation in training courses within the last twelve months; funding of the training; own education to date is sufficient, or further training is needed to keep the job; reasons that prevent from participating in training courses; likelihood to find a new job within six months (scale); kind of job to which the respondent would apply after a layoff; estimation of the amount of compensation by the national unemployment insurance and the welfare system during the first six months after a presumed job loss on the basis of the current income (percentage); easiest way to find a job; assessment of the statements: life-time jobs with the same employer are a thing of the past, more jobs through more flexible work contracts, making job change easier is a helpful asset to find new work, too many people in the country go into retirement too early, improved chances on the labour market through regular training; assessment of the effectiveness of selected measures to support employment promotion (increasing child care facilities, increasing care facilities for persons in need, discouraging early retirement, increasing the difference of income between working and non-working people, promoting mobility, supporting self-employment, conversion of undeclared work into regular jobs, regular training for employees); assessment of the EU´s influence on the employment and social policies as positive or negative: setting minimum standards for working conditions throughout the EU, creation of new jobs and combating unemployment, reducing regional disparities in unemployment, exchanging best practices in employment policies between EU member states, improving access to education and training, promotion of dialogue between employers and trade unions, fight against social exclusion and poverty, promotion of gender equality, combating discrimination, coordination of reforms of national social protection systems; interest in information on the EU´s employment and social policies; image of the actions regarding employment and social affairs taken by the EU.
+5. Discrimination: perceived general extent of discrimination at present and five years ago with regard to: ethnic origin, gender, sexual orientation, age, religion, disability; own experience of discrimination as well as recently observed discrimination against other persons according to the above characteristics; adversely affecting characteristics of an applicant in a concurrent application situation: name, address, way of speaking, ethnic origin, gender, sexual orientation, age, disability, religious belief, smoking, physical appearance; acceptance of a person in a high political position with the following characteristics: woman, homosexual, different ethnic origin, aged under 30, different religious belief, disabled, aged over 75 years (scale); attitude towards specific measures to ensure equal opportunity in the field of employment; approval to monitor the workforce composition with respect to the representation of ethnic minorities and the recruitment procedures; sufficient efforts of the own country to fight discrimination; knowledge of the own rights in the case of discrimination; adequate reflection of social diversity in the media regarding the above characteristics; negative impact of the economic crisis on the promotion of equality and diversity; expected increase of discrimination in the labour market in times of economic crisis; sufficient realization of operational measures to increase diversity in the workplace; authority to whom a self-experienced discrimination would be reported firstly: trade union, non-governmental organisation (NGO), tribunal, body for the promotion of equal treatment, lawyer, police; friendship or acquaintance with: Roma, people of different ethnic origin, homosexuals, disabled persons, or persons with different religious affiliation (social proximity); own belonging to a minority; personal affection from physical or mental illness. 
+6. Development aid: importance to help developing countries; knowledge of the Millennium Development Goals; primary motivations of the rich countries to provide development aid to poor countries; countries or international institutions that should provide development aid firstly; preference for increasing or reducing the EU´s development aid in consideration of the present economic situation; assessment of the major problems of developing countries; assessment of the European contribution to development aid as too large; appropriateness of the media coverage with regard to development aid in poor countries; importance of the European contribution to the global development debate. 
+7. Public transport services: use of selected public transport services within the last twelve months; awareness of the rights arising from the purchase of a ticket for public transport services; knowledge of the measures to improve the rights of air passengers taken by the European Union; attitude towards selected statements about airlines (information about air passenger’s rights, complaint letters as a useful means to improve services, satisfactory action by the airline in the case of difficulties); satisfaction with the airline regarding punctuality, comfort, information in case of delay or flight cancellations, information in case of loss of baggage, compensation in the event of service failures); preferred service to contact firstly for claiming the own rights in case of a presumed failure or delay of flight; personally experienced problems with an airline; own complaint about this incident to a responsible body; assessment of the dealing with the complaint through the responsible body; satisfaction with the handling of the baggage by the airline; preference for one single national authority that handles problems with delays and cancellations together with luggage problems; assessment that the indication of prices for air transport is unambiguous. 
+Demography: nationality; age; left-right self-placement; family situation; age at end of education; sex; occupation; professional position; type of community; household composition and household size; own a mobile phone and fixed (landline) phone; possession of durable goods (entertainment electronics, Internet connection, possession of a car, a flat / a house have finished paying for or still paying for); financial difficulties during the last year; self-rated social position (scale); internet use (at home, at work, at school); national provenance  of respondent and parents (migratory background); religious denomination.
+Also encoded was: date of interview; beginning of interview; duration of interview; persons present during the interview; respondent cooperation; region; weighting factor; interview language (ONLY in LU, BE, ES, FI, EE, LV, MT, TR AND FM); place of interview; interviewer ID.</freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>BE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>AT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-GBN</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB-NIR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CY</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>CZ</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>EE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HU</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LV</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>LT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>MT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SI</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>BG</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>RO</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>TR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>HR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>MK</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Wohnbevölkerung im Alter von 15 Jahren und älter
+Kroatien, Türkei, Mazedonien: Staatsbürger und EU-Bürger in der Wohnbevölkerung 
+Befragte mussten über ausreichende Sprachkenntnisse verfügen, um den Fragebogen in der Landessprache beantworten zu können.</sampled>
+		</universe>
+		<universe>
+			<language>en</language>
+			<sampled>Population of the respective nationalities of the European Union Member States, resident in each of the Member States and aged 15 years and over. 
+In the three candidate countries (Croatia, Turkey and the Former Yugoslav Republic of Macedonia), the survey covers the national population of citizens and the population of citizens of all the European Union Member States that are residents in these countries and have a sufficient command of the national languages to answer the questionnaire.</sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Wahrscheinlichkeitsauswahl: mehrstufige, proportional geschichtete Zufallsauswahl</method>
+		</sampling>
+		<sampling>
+			<language>en</language>
+			<method>Sampling Procedure Comment: Probability Sample: Proportionate Stratified Multistage Sample</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Belgium</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Belgien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-25</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Denmark</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Dänemark</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Germany</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Deutschland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Greece</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Griechenland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Spain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Spanien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-15</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Finland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Finnland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-15</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>France</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Frankreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-11</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Ireland (Republic)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Irland (Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Italy</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Italien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-25</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Luxembourg</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Luxemburg</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-28</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-16</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Netherlands</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Niederlande</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-11</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Austria</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Österreich</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-30</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-16</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Portugal</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-06-01</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-13</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Sweden</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Schweden</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Great Britain</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Großbritannien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-15</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Northern Ireland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Nordirland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-27</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Cyprus (Republic)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Zypern (Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Czech Republic</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Tschechische Republik</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Estonia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Estland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-30</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-13</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Hungary</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Ungarn</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-12</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Latvia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Lettland</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-10</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Lithuania</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Litauen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-13</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Malta</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Malta</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-30</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-16</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Poland</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Polen</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-17</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovakia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowakei</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-28</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-12</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Slovenia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Slowenien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-08</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Bulgaria</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Bulgarien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-11</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Romania</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Rumänien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-12</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Turkey</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Türkei</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-28</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-14</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Croatia</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Kroatien</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2009-05-29</date>
+				</startDate>
+				<endDate>
+					<date>2009-06-03</date>
+				</endDate>
+			</temporalCoverageFormal>
+			<temporalCoveragesFree>
+				<temporalCoverageFree>
+					<language>en</language>
+					<freetext>Macedonia (FYROM)</freetext>
+				</temporalCoverageFree>
+				<temporalCoverageFree>
+					<language>de</language>
+					<freetext>Mazedonien (ehemalige jugoslawische Republik)</freetext>
+				</temporalCoverageFree>
+			</temporalCoveragesFree>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<person>
+				<firstName>Antonis</firstName>
+				<middleName/>
+				<lastName>Papacostas</lastName>
+				<contributorType>Researcher</contributorType>
+				<affiliation>
+					<affiliationName>European Commission, Brussels
+DG Communication, Public Opinion Analysis Sector</affiliationName>
+				</affiliation>
+			</person>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Dimarso, Brussels, Belgium</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS BBSS, Sofia, Bulgaria</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Aisa, Prague, Czech Republic</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS GALLUP DK, Copenhagen, Denmark</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest, Munich, Germany</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Emor, Tallinn, Estonia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS MRBI, Dublin, Ireland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS ICAP, Athens, Greece</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Demoscopia, Madrid, Spain</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Sofres, Montrouge, France</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Infratest, Milano, Italy</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Synovate, Nicosia, Cyprus</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Latvia, Riga, Latvia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS GALLUP Lithuania, Vilnius, Lithuania</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS ILReS, Luxembourg, Luxembourg</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS Hungary, Budapest, Hungary</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>MISCO, Valletta, Malta</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS NIPO, Amsterdam, Netherlands</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Österreichisches GALLUP, Vienna, Austria</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS OBOP, Warsaw, Poland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS EUROTESTE, Lissabon, Portugal</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS CSOP, Bucharest, Romania</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>RM PLUS, Maribor, Slovenia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS AISA SK, Bratislava, Slovakia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS GALLUP Oy, Espoo, Finland</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS GALLUP, Stockholm, Sweden</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS UK, London, United Kingdom</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Puls, Zagreb, Croatia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS PIAR, Istanbul, Turkey</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>TNS BRIMA, Skopje, Macedonia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>The Gallup Organisation, Brussels (international co-ordination)    </institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>Persönliches Interview (teilweise CAPI)</freetext>
+				</collectionModeFree>
+				<collectionModeFree>
+					<language>en</language>
+					<freetext>Face-to-face interview
+CAPI (Computer Assisted Personal Interview) was used in those countries where this technique was available</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>549</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>Je Land wurden ca. 1000 Interviews durchgeführt. In Malta, Zypern und
+Luxemburg wurden je ca. 500 Interviews durchgeführt.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+	<relations>
+		<relation>
+			<identifier>10.4232/1.10191</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.10124</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+		<relation>
+			<identifier>10.4232/1.10069</identifier>
+			<identifierType>DOI</identifierType>
+			<relationType>IsNewVersionOf</relationType>
+		</relation>
+	</relations>
+	<publications>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: Special Eurobarometer 319 / Wave 71.2: 
+Air passengers´ rights. This survey was requested by the 
+Directorate-General for Energy and Transport and coordinated by the
+Directorate-General for Communication 
+(“Research and Political Analysis” Unit). Brussels, December 2009.
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_319_en.pdf
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_319_de.pdf
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_319_fr.pdf </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: Special Eurobarometer 318 / Wave 71.2: 
+Development Aid in times of economic turmoil. This survey was requested by 
+the Directorate-General for Development and coordinated by the 
+Directorate-General for Communication (“Research and Political Analysis” Unit).
+Brussels, October 2009.
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_318_en.pdf
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_318_de.pdf
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_318_fr.pdf </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: Special Eurobarometer 316 / Wave 71.2: 
+European Employment and Social Policy. This survey was requested 
+and coordinated by the Directorate-General Employment, 
+Social Affairs and Equal Opportunities and coordinated by Directorate-General
+for Communication (“Research and Political Analysis” Unit). 
+Brussels, September 2009.
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_316_en.pdf </freetext>
+			</unstructuredPublication>
+		</publication>
+		<publication>
+			<unstructuredPublication>
+				<freetext>TNS Opinion &amp; Social: Special Eurobarometer 317 / Wave 71.2: 
+Discrimination in the EU in 2009. This survey was requested by 
+Directorate General Employment, Social Affairs and Equal Opportunities and
+coordinated by Directorate General Communication. Brussels, November 2009.
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_317_en.pdf
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_317_de.pdf
+http://ec.europa.eu/public_opinion/archives/ebs/ebs_317_fr.pdf </freetext>
+			</unstructuredPublication>
+		</publication></publications>
+</resource>

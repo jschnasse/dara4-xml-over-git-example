@@ -1,0 +1,322 @@
+<resource xmlns="http://da-ra.de/schema/kernel-4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.da-ra.de/dara/schemadefinitions/dara.xsd">
+	<!--
+da|ra 4.0 Documentation for Study 'Transatlantic Trends 2013'
+-->
+	<!--
+da|ra 4.0 Dokumentation für Studie 'Transatlantic Trends 2013'
+-->
+	<resourceType>Dataset</resourceType>
+	<resourceIdentifier>
+		<identifier>ZA5646</identifier>
+		<currentVersion>1.0.0</currentVersion>
+	</resourceIdentifier>
+	<titles>
+		<title>
+			<language>de</language>
+			<titleName>Transatlantic Trends 2013</titleName>
+		</title>
+		<title>
+			<language>en</language>
+			<titleName>Transatlantic Trends 2013</titleName>
+		</title>
+	</titles>
+	<creators>
+		<creator>
+			<institution>
+				<institutionName>German Marshall Fund of the United States (GMF),
+Washington, USA </institutionName>
+			</institution>
+		</creator>
+		<creator>
+			<person>
+				<firstName>Pierangelo</firstName>
+				<middleName/>
+				<lastName>Isernia</lastName>
+				<affiliation>
+					<affiliationName>University of Siena, Italy</affiliationName>
+				</affiliation>
+			</person>
+		</creator>
+	</creators>
+	<dataURLs>
+		<dataURL>https://search.gesis.org/research_data/ZA5646?doi=10.4232/1.11894</dataURL>
+	</dataURLs>
+	<doiProposal>10.4232/1.11894</doiProposal>
+	<publicationDate>
+		<date>2014-04-16</date>
+	</publicationDate>
+	<availability>
+		<availabilityType>Download</availabilityType>
+		<availabilityFree>
+			<language>de</language>
+			<freetext>A - Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben.</freetext>
+		</availabilityFree>
+		<availabilityFree>
+			<language>en</language>
+			<freetext>A - Data and documents are released for academic research and teaching.</freetext>
+		</availabilityFree>
+	</availability>
+	<rights>
+		<right>
+			<language>de</language>
+			<freetext>Alle im GESIS DBK veröffentlichten Metadaten sind frei verfügbar unter den Creative Commons CC0 1.0 Universal Public Domain Dedication. GESIS bittet jedoch darum, dass Sie alle Metadatenquellen anerkennen und sie nennen, etwa die Datengeber oder jeglichen Aggregator, inklusive GESIS selbst. Für weitere Informationen siehe https://dbk.gesis.org/dbksearch/guidelines.asp?db=d </freetext>
+		</right>
+		<right>
+			<language>en</language>
+			<freetext>All metadata from GESIS DBK are available free of restriction under the Creative Commons CC0 1.0 Universal Public Domain Dedication. However, GESIS requests that you actively acknowledge and give attribution to all metadata sources, such as the data providers and any data aggregators, including GESIS. For further information see https://dbk.gesis.org/dbksearch/guidelines.asp </freetext>
+		</right>
+	</rights>
+	<resourceLanguage>deu</resourceLanguage>
+	<alternativeIDs>
+		<alternativeID>
+			<identifier>ZA5646</identifier>
+			<type>ZA-No.</type>
+		</alternativeID>
+	</alternativeIDs>
+	<classifications>
+		<classification>
+			<classificationInternal>
+				<classificationSchemaType>ZA</classificationSchemaType>
+				<identifiers>
+					<identifier>KAT12</identifier>
+					<!-- Internationale Institutionen, Beziehungen, Verhältnisse -->
+					<identifier>KAT14</identifier>
+					<!-- Politische Fragen (Issues) -->
+					<identifier>KAT15</identifier>
+					<!-- Politische Einstellungen und Verhaltensweisen -->
+					<identifier>KAT19</identifier>
+					<!-- Streitkräfte, Verteidigung, militärische Auseinandersetzungen -->
+					<identifier>KAT31</identifier>
+					<!-- Wirtschaftspolitik, wirtschaftliche Lage -->
+				</identifiers>
+			</classificationInternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>de</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>Internationale Politik und Internationale Organisationen</term>
+					<term>Konflikte, Sicherheit und Frieden</term>
+					<term>Politisches Verhalten und politische Einstellungen</term>
+					<term>Wirtschaftssysteme und wirtschaftliche Entwicklung</term>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+		<classification>
+			<classificationExternal>
+				<language>en</language>
+				<classificationSchema>CESSDA Topic Classification</classificationSchema>
+				<terms>
+					<term>International politics and organisations</term>
+					<term>Conflict, security and peace</term>
+					<term>Political behaviour and attitudes</term>
+					<term>Economic systems and development</term>
+					<term>Migration</term>
+				</terms>
+			</classificationExternal>
+		</classification>
+	</classifications>
+	<descriptions>
+		<description>
+			<language>de</language>
+			<freetext>Transatlantische Beziehungen. Die Rolle Asiens und der Schwellenländer. Maßnahmen gegen internationale Sicherheitsbedrohungen. Politische Instabilität im Mittleren Osten und Nordafrika. Militärische Intervention. Wirtschaft und internationale Wirtschaftskrise. Europäische Union. Internationale Zusammenarbeit. Wirtschaftliche versus militärische Macht. Einwanderung. Politische Präferenzen.
+Themen: 1. Transatlantische Beziehungen: Häufigkeit politischer Diskussionen im Freundeskreis; Einstellung zur globalen politischen und wirtschaftlichen Führungsrolle der USA, der Europäischen Union, Russlands sowie Chinas (Split: Rotation der Fragenreihenfolge); Beurteilung des amerikanischen Präsidenten Barack Obama und der US Regierung hinsichtlich internationaler Politik; Einstellung zu den USA, der Europäischen Union, zu China und Russland (Split: Rotation der Fragenreihenfolge); gewünschte Entwicklung der Zusammenarbeit zwischen den USA und der Europäischen Union in den Bereichen Sicherheit und militärische Kooperation; Einstellung zur Notwendigkeit der NATO für die Sicherheit des eigenen Landes; Gründe für die Zustimmung bzw. Ablehnung der Notwendigkeit der NATO für die Sicherheit des eigenen Landes (Rotation der Fragenreihenfolge); in Schweden wurde gefragt: Einstellung zur Notwendigkeit der Zusammenarbeit mit der NATO (Split: mit zusätzlicher Unterstützung der Vereinten Nationen bzw. zum generellen NATO-Beitritt).
+2. Die Rolle Asiens und der Schwellenländer in der Weltpolitik: Größere Bedeutung der USA (in den USA: Länder der Europäischen Union (z.B. Großbritannien, Frankreich und Deutschland)) oder asiatischer Länder wie China, Japan und Südkorea für die nationalen Landesinteressen (Split: größere Bedeutung der Länder der Europäischen Union (z.B. Großbritannien, Frankreich und Deutschland) oder von China für die nationalen Interessen der USA); China als wirtschaftliche Chance oder Bedrohung; Chinas als militärische Bedrohung; Indien, Brasilien und Indonesien als wirtschaftliche Chance oder Bedrohung.
+3. Maßnahmen gegen internationale Sicherheitsbedrohungen: Präferierte Vorgehensweise um den Iran vom Atomwaffenerwerb abzuhalten (Split: um Nordkorea zur Abschaffung seiner Atomwaffen zu bewegen); präferierte Vorgehensweise der Europäischen Union (bzw. der USA, der Türkei) nach einem Scheitern aller nicht-militärischen Maßnahmen: militärische Aktionen oder Akzeptanz eines Atomwaffenerwerbs durch den Iran bzw. dass Nordkorea seine Atomwaffen behalten könnte.
+4. Politische Instabilität im Mittleren Osten und Nordafrika: Präferenz für Stabilität versus Demokratie in den Ländern der MENA Region (Middle East and North Africa); Intervention des eigenen Landes in Syrien versus Heraushalten (Rotation der Fragenreihenfolge).
+5. Militärische Intervention: Einstellung zur Beteiligung des eigenen Landes an der Ausbildung von Armee und Polizei in Afghanistan nach Beendigung des NATO-Kampfeinsatzes; Einstellung zum Einsatz von unbemannten Kampfdrohnen in Afghanistan und Pakistan.
+6. Wirtschaft und internationale Wirtschaftskrise: Ausmaß des Einflusses der Wirtschaftskrise auf die persönliche Finanzsituation des Haushalts; Wirtschaftssystem bringt Vorteile für alles oder lediglich für wenige (Rotation der Fragenreihenfolge); Zustimmung zum Umgang der nationalen Regierung mit der Wirtschaftskrise; Präferenz für eine Erhöhung, Beibehaltung oder Reduzierung der Staatsausgaben zur Ankurbelung des Wirtschaftswachstums; Präferenz für eine Erhöhung, Beibehaltung oder Reduzierung der der nationalen Staatsausgaben in den Bereichen Verteidigung, sozialstaatliche Programme (USA: Sozialversicherung und Medizin), Wissenschaft, Technologie und Erziehung, Transport und Infrastruktur (Rotation der Fragenreihenfolge); Präferenz für größere Machtbefugnisse der Europäische Union hinsichtlich der Wirtschaftspolitik und Haushaltspolitik oder Autonomie der Mitgliedsländer in diesen Bereichen (nicht in TR und USA).
+7. Europäische Union: Vorteilhaftigkeit der EU-Mitgliedschaft des eigenen Landes für die nationale Wirtschaft (nicht in USA); Einstellung zu einer EU-Mitgliedschaft der Türkei (nicht in USA); Euro-Nutzung als gute Sache (nicht in TR und USA); Wunsch nach einen Austritt aus der Euro-Zone und Rückkehr zur alten Landeswährung (nur Eurozone); Zustimmung zum Umgang der Europäischen Union und der deutschen Bundeskanzlerin Angela Merkel mit der Wirtschaftskrise (nicht in USA, Rotation der Fragenreihenfolge).
+8. Internationale Zusammenarbeit: vermutete Unterstützung oder Gefahr für die nationale Wirtschaft durch europäische und amerikanische Vorschläge zur Steigerung von Handel und Investitionen.
+Nur in der Türkei: präferierte Ausrichtung der Türkei in internationalen Angelegenheiten (Europäische Union, USA, Länder des Mittleren Ostens oder Russland bzw. nationale Autonomie.
+9. Wirtschaftliche versus militärische Macht: Vorrang von wirtschaftlicher oder militärischer Macht; Notwendigkeit von Krieg zur Erlangung von Gerechtigkeit (Rotation der Fragenreihenfolge).
+10. Einwanderung: Beurteilung des Anteils der Einwanderer im eigenen Land; Beunruhigung über legale Einwanderung bzw. illegale Einwanderung (Rotation der Fragenreihenfolge); Beurteilung der Integration von im Land geborenen Einwandererkindern; Einstellung zu Einwanderern (Skala: nehmen Einheimischen die Arbeitsplätze weg,beheben Arbeitskräftemangel, Schaffung neuer Arbeitsplätze durch Firmengründungen, Belastung der sozialen Dienstleistungen, Bedrohung bzw. Bereicherung der nationalen Kultur (Rotation der Fragenreihenfolge); Beurteilung der Regierungsarbeit im Umgang mit Einwanderung; Einwanderung als Problem oder als Chance für das eigene Land; geschätzter allgemeiner Anteil (Split: kategorisiert) an Einwanderern im Land gemessen an der Gesamtbevölkerung. 11. Politische Präferenzen: nur USA: Selbsteinschätzung als Demokrat, Republikaner oder Unabhängiger; Parteineigung zur republikanischen Partei oder zur demokratischen Partei; in den europäischen Ländern: Parteipräferenz bei den nächsten nationalen Wahlen; wieder alle: Selbsteinschätzung auf einem Links-Rechts-Kontinuum;
+Demographie: Geschlecht; Alter; Konfession; Schulbildung; Alter bei Ende der Schulausbildung; berufliche Stellung; ethnische Herkunft (nur USA); Migranten im Freundeskreis; Geburt des Befragten und seiner Eltern im Befragungsland oder in einem anderen Land (Migrationshintergrund); geplanter temporärer oder dauerhafter Auslandsaufenthalt (Split: im Zuge der Wirtschaftskrise); Familienstand; nur IT, SP, PT, USA: Art des Telefonanschlusses (Festnetz oder Mobil); Besitz eines Mobiltelefons; Anzahl der Mobiltelefonnummern; Festnetztelefon im Haushalt; Anteil der insgesamt eingehenden Anrufe, der auf das Mobiltelefon entfällt; wieder alle: Haushaltszusammensetzung: Anzahl der Personen ab 18 Jahren sowie der Kinder unter 17 Jahren im Haushalt; Region; Urbanisierungsgrad.     Zusätzlich verkodet wurde: Interviewdatum; Interviewdauer (Interviewbeginn und Interviewende); Interviewsprache; Intervieweridentifikation; Art des Interviews; Gewichtungsfaktoren. </freetext>
+			<descriptionType>Abstract</descriptionType>
+		</description>
+	</descriptions>
+	<geographicCoverages>
+		<geographicCoverage>
+			<geographicCoverageControlled>DE</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>FR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>ES</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>IT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PT</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>NL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>GB</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>PL</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>SK</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>RO</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>TR</geographicCoverageControlled>
+		</geographicCoverage>
+		<geographicCoverage>
+			<geographicCoverageControlled>US</geographicCoverageControlled>
+		</geographicCoverage>
+	</geographicCoverages>
+	<universes>
+		<universe>
+			<language>de</language>
+			<sampled>Personen im Alter von 18 Jahren und älter mit Festnetzanschluss im Haushalt  
+(oder Mobilanschluss in Italien, Spanien, Portugal und den Vereinigten Staaten)  </sampled>
+		</universe>
+	</universes>
+	<samplings>
+		<sampling>
+			<language>de</language>
+			<method>Auswahlverfahren Kommentar: Mehrstufige proportional geschichtete Zufallsauswahl 
+Die Auswahl der Zielperson im Haushalt erfolgte nach der Geburtstagsmethode.</method>
+		</sampling>
+	</samplings>
+	<temporalCoverages>
+		<temporalCoverage>
+			<temporalCoverageFormal>
+				<startDate>
+					<date>2013-06-03</date>
+				</startDate>
+				<endDate>
+					<date>2013-07-02</date>
+				</endDate>
+			</temporalCoverageFormal>
+		</temporalCoverage>
+	</temporalCoverages>
+	<contributors>
+		<contributor>
+			<institution>
+				<institutionName>Deutschland: TNS EMNID, Bielefeld</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Frankreich: Efficience 3, Reims</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Italien: TNS Italy, Rom</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Niederlande: Efficience 3, Reims</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Polen: TNS OBOP, Warschau</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Portugal: TNS EUROTESTE, Lissabon</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Rumänien: TNS BBSS, Sofia</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Slowakei: TNS SK s.r.o., Bratislava</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Spanien: TNS Demoscopia, Madrid</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Schweden: TNS SIFO AB, Stockholm</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Türkei: TNS PIAR, Istanbul</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>Vereinigtes Königreich: ICM, London</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+		<contributor>
+			<institution>
+				<institutionName>USA: TNS US and Universal Survey, New York</institutionName>
+				<contributorType>DataCollector</contributorType>
+			</institution>
+		</contributor>
+	</contributors>
+	<collectionModes>
+		<collectionMode>
+			<collectionModesFree>
+				<collectionModeFree>
+					<language>de</language>
+					<freetext>CATI (Computerunterstützte telefonische Befragung) - Telefonisches Interview 
+In Polen, Rumänien, der Slowakei und der Türkei wurden persönliche Interviews durchgeführt. 
+</freetext>
+				</collectionModeFree>
+			</collectionModesFree>
+		</collectionMode>
+	</collectionModes>
+	<dataSets>
+		<dataSet>
+			<numberVariables>211</numberVariables>
+		</dataSet>
+	</dataSets>
+	<notes>
+		<note>
+			<language>de</language>
+			<text>In Europa wurden pro Land etwa 1000 Interviews durchgeführt. In den USA wurden ebenfalls rd. 1000 Interviews durchgeführt. 
+
+Zwanzig Prozent der Befragten in den USA, Italien, Spanien und Portugal wurden über Mobiltelefone kontaktiert (Dual-Frame-Sampling). In den anderen Ländern, in denen die Befragung telefonisch durchgeführt wurde, sind nur Festnetzanschlüsse im Sampling-frame enthalten. 
+
+Die Transatlantic Trends werden seit 2002 jährlich durchgeführt. 
+
+Die Studie ist ein Projekt des German Marshall Fund of the United States 
+(GMF) mit zusätzlicher Unterstützung der Compagnia di San Paolo, der Fundação Luso-Americana, der Fundación BBVA, der Communitas Foundation und des Swedish Ministry for Foreign Affairs. 
+
+Diese Studie ist eine Nachfolgestudie der vom German Marshal Fund of of the United States und dem Chicago Council on Foreign Relations im Jahr 2002 durchgeführten Studie Worldviews 2002 (ZA-Studien-Nr. 4218). 
+
+Der Fragebogen enthält zahlreiche Variationen der Fragenfolge und ist als methodisches Experiment konzipiert.</text>
+		</note>
+		<note>
+			<language>en</language>
+			<text/>
+		</note>
+	</notes>
+</resource>
