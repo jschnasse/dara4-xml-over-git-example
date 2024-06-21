@@ -1,0 +1,9 @@
+image: alpine/xml
+
+stages:
+  - test
+
+Test XML:
+  stage: test
+  script: ./scripts/test.sh
+
